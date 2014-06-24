@@ -4,9 +4,10 @@ import requests
 import json
 import io
 
-osf_text = requests.get("http://localhost:8000/osf_api_output.json")
+#osf_text = requests.get("http://localhost:8000/osf_api_output.json")
+osf_text = open('osf_api_output.json').read()
 
-osf_json = osf_text.json()
+osf_json = json.loads(osf_text)
 
 recent_versions = []
 
