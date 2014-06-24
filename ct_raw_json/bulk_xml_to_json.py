@@ -14,31 +14,26 @@ def xml_to_json(xml_file):
 
     return json_text
 
-def key_files_to_json():
+def bulk_xml_to_json():
 
     key_xml_folder = 'ct_xml/'
     key_json_folder = 'ct_raw_json/'
 
     xmlfiles = glob.glob(key_xml_folder + '*.xml')
-
-    print xmlfiles
-
-    # get rid of the file extension
-    xml_ids = [ext.replace('.xml','') for ext in xmlfiles]
-
-    # get rid of the folder name
-    xml_ids = [folder.replace('ct_xml/','') for folder in xml_ids]
-
-    id_index = 0
+    
+    xml_ids = []
 
     for filename in xmlfiles:
+        filename = filename.replace('.xml','')
+        filename = filename.replace('ct_xml/','')
+        xml_ids.append(filename)
+
+    for i, filename in enumerate(xmlfiles):
         json_text = xml_to_json(filename)
 
-        with open(key_json_folder + xml_ids[id_index] +'_raw.json', "wb") as jt:
+        with open(key_json_folder + xml_ids[i] +'_raw.json', "wb") as jt:
             jt.write(json_text)
-
-        id_index += 1
 
 # xml_to_json('NCT02152930.xml')
 
-key_files_to_json()
+bulk_xml_to_json()
