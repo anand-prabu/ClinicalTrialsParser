@@ -1,0 +1,129 @@
+{
+    "clinical_study": {
+        "@rank": "36709", 
+        "acronym": "DDI+", 
+        "arm_group": [
+            {
+                "arm_group_label": "DDI+ and Pharmacogenetic data", 
+                "arm_group_type": "Experimental", 
+                "description": "DDI+ System and Pharmacogenetic data"
+            }, 
+            {
+                "arm_group_label": "Standard Care", 
+                "arm_group_type": "No Intervention", 
+                "description": "Control"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Leumit Health Services, an health maintenance organization  operating in Israel, will\n      incorporate a web-based, decision support system for handling drug-drug interactions and\n      drug information, termed DDI+ reinforced with patient specific pharmacogenetic data. The\n      investigators hypothesize that implementing such a system will reduce health-care\n      expenditures (e.g., hospital admissions, referrals to ERs, Imaging procedures)."
+        }, 
+        "brief_title": "Clinical and Economic Impact of an Electronic Medical Record Interfaced Decision Support System Reinforced With Patient Specific Pharmacogenetic Data for Minimizing Severe Drug-Drug Interactions", 
+        "completion_date": {
+            "#text": "July 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Healthcare", 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Number of chronic concomitant drugs \u22655\n\n          -  treated with 1 or more drugs with a well established interaction with 1 or more of\n             the following CYP450 enzymes: 2c9, 2c19, 2d6\n\n        Exclusion Criteria:\n\n          -  Patients diagnosed with HIV/AIDS, and/or viral hepatitis B or C"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "1000", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "January 9, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01765621", 
+            "org_study_id": "LHS022013"
+        }, 
+        "intervention": {
+            "arm_group_label": "DDI+ and Pharmacogenetic data", 
+            "intervention_name": "DDI+ System and Pharmacogenetic Data", 
+            "intervention_type": "Other"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "health care expenditure", 
+            "drug drug interactions", 
+            "electronic decision support systems", 
+            "pharmacogenetics", 
+            "Potential Reduction"
+        ], 
+        "lastchanged_date": "January 9, 2013", 
+        "location": {
+            "contact": {
+                "email": "nkahan@leumit.co.il", 
+                "last_name": "Natan R Kahan, PhD", 
+                "phone": "+972-50-5607187"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Tel-Aviv", 
+                    "country": "Israel"
+                }, 
+                "name": "Leumit Health Services"
+            }, 
+            "investigator": [
+                {
+                    "last_name": "Abraham Weizman, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                {
+                    "last_name": "Mati Berkowitz, MD", 
+                    "role": "Sub-Investigator"
+                }
+            ], 
+            "status": "Not yet recruiting"
+        }, 
+        "location_countries": {
+            "country": "Israel"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Clinical and Economic Impact of a Web Based, Electronic Medical Record Interfaced Electronic Decision Support System Incorporating Pharmacogenetic Evaluation for Physicians Intended, Mainly for Drug-drug Interaction. A Controlled Study in an Ambulatory Health Maintenance Organization Population", 
+        "overall_contact": {
+            "email": "AWeizman@clalit.org.il", 
+            "last_name": "Abraham Weizman, MD", 
+            "phone": "+972-50-7277123"
+        }, 
+        "overall_status": "Not yet recruiting", 
+        "oversight_info": {
+            "authority": "Israel: Ministry of Health", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "January 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "Hospital Admissions", 
+            "safety_issue": "Yes", 
+            "time_frame": "up to 12 month post initiation"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01765621"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Leumit Health Services", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Leumit Health Services", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2013", 
+        "study_design": "Allocation: Non-Randomized, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Health Services Research", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2013"
+    }
+}

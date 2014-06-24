@@ -1,0 +1,165 @@
+{
+    "clinical_study": {
+        "@rank": "23373", 
+        "arm_group": [
+            {
+                "arm_group_label": "MD-bolus calculator  for pre meal bolus", 
+                "arm_group_type": "Experimental", 
+                "description": "closed loop session with MD-bolus calculator for pre-meal bolus."
+            }, 
+            {
+                "arm_group_label": "No MD-bolus calculator for pre-meal bolus", 
+                "arm_group_type": "Active Comparator", 
+                "description": "closed loop session without MD-bolus calculator for pre-meal bolus"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The MDLAP (MD-Logic Artificial Pancreas)system is as an automatic system to regulate glucose\n      levels by delivery of insulin operable in clinical trial settings. The safety of the system\n      was proved in previous inpatient and outpatient trials in large number of patients. In the\n      current study we aim to optimize post-prandial closed-loop glycemic control by developing an\n      automated MD-bolus calculator and to evaluate its safety and efficacy in controlling\n      postprandial blood glucose when used together with the MD-Logic artificial pancreas system\n      in type 1 diabetes patients.\n\n      The study will consist of a pilot study with two segments and a main study segment. The aim\n      of each segment is detailed below:\n\n        1. Pilot Study - Segment 1 - Hybrid meal bolus ratio The aim of this segment is to\n           evaluate the efficacy and safety of different pre-meal bolus dosing compared to full\n           closed-loop operation with no meal announcement.\n\n        2. Pilot Study - Segment 2 - Insulin dosing during meal In this segment we would like to\n           test the optimal distribution of insulin delivery during the meal.\n\n        3. Main study - Segment 3 - Automatic bolus calculator In this main segment of the study\n           we will use the results and conclusions from the previous two pilot segments to develop\n           the MD-Bolus Calculator for closed-loop control use. The safety and efficacy of this\n           automated insulin bolus calculator will be tested in a randomized cross-over study that\n           will compare postprandial glycemic control under MDLAP with and without the use of the\n           MD-Bolus Calculator."
+        }, 
+        "brief_title": "MD-Logic Artificial Pancreas for Automatic Type 1 Diabetes Meals Management", 
+        "completion_date": {
+            "#text": "October 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Type 1 Diabetes", 
+        "condition_browse": {
+            "mesh_term": [
+                "Diabetes Mellitus", 
+                "Diabetes Mellitus, Type 1"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Diabetes type 1\n\n          -  Age 14-25 years\n\n             ->1yr since diagnosis\n\n          -  Insulin infusion pump therapy for at least 3 months\n\n          -  HbA1c at inclusion \u226410%\n\n          -  BMI < 95th percentile for age and sex\n\n          -  Patients willing to follow study instructions\n\n        Exclusion Criteria:\n\n          -  Any condition that influence intestinal absorption or motility such as diabetic\n             gastroparesis, celiac disease or malabsorptive states that could affect postprandial\n             glucose absorption.\n\n          -  any episode of diabetic ketoacidosis within the month prior to study entry and/or\n             severe hypoglycaemia resulting in seizure or loss of consciousness in the month prior\n             to enrolment\n\n          -  any concomitant disease that may influence metabolic control\n\n          -  participation in any other interventional study\n\n          -  known or suspected allergy to trial products\n\n          -  any significant diseases (such as preexisting seizures or epilepsy) or conditions\n             including psychiatric disorders, eating disorder and substance abuse that in the\n             opinion of the investigator is likely to affect the subjects ability to complete the\n             study or compromise patients safety\n\n          -  Female subject who is pregnant or planning to become pregnant within the planned\n             study duration."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "25 Years", 
+            "minimum_age": "14 Years"
+        }, 
+        "enrollment": {
+            "#text": "40", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "July 9, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01901913", 
+            "org_study_id": "rmc007418ctil"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "MD-bolus calculator  for pre meal bolus", 
+                "intervention_name": "MD-bolus calculator for pre-meal bolus", 
+                "intervention_type": "Device", 
+                "other_name": "MD-bolus calculator for pre-meal bolus"
+            }, 
+            {
+                "arm_group_label": "No MD-bolus calculator for pre-meal bolus", 
+                "intervention_name": "No MD-bolus calculator for pre-meal bolus", 
+                "intervention_type": "Device"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Pancrelipase"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Type 1 Diabetes", 
+            "Artificial pancreas", 
+            "Closed loop"
+        ], 
+        "lastchanged_date": "May 4, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Petah-Tikva", 
+                    "country": "Israel", 
+                    "zip": "49202"
+                }, 
+                "name": "Schneider Children's Medical Center"
+            }, 
+            "investigator": {
+                "last_name": "Moshe Phillip, Prof", 
+                "role": "Principal Investigator"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "Israel"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "MD-Logic Artificial Pancreas for Automatic Type 1 Diabetes Meals Management", 
+        "overall_contact": {
+            "email": "mosheph@clalit.org.il", 
+            "last_name": "Moshe Phillip, Prof", 
+            "phone": "972-3-9253747"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "Israel: Ministry of Health", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "August 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "Area under the curve above 180 mg/dl (10 mmol/l)", 
+            "safety_issue": "No", 
+            "time_frame": "4 hours postprandial"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01901913"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Time within range of 70-180 mg/dl over 4 hours from the beginning of the meal", 
+                "safety_issue": "No", 
+                "time_frame": "4 hours postprandial"
+            }, 
+            {
+                "measure": "The incremental glucose rise from premeal to peak postprandial level", 
+                "safety_issue": "No", 
+                "time_frame": "4 hours postprandial"
+            }, 
+            {
+                "measure": "Number of hypoglycemic events below 70 mg/dl (3.9 mmol/l)", 
+                "safety_issue": "Yes", 
+                "time_frame": "4 hours postprandial"
+            }, 
+            {
+                "measure": "The percentage of subjects who reached the desired glucose target (70-180 mg/dl) 4 hours postprandial.", 
+                "safety_issue": "No", 
+                "time_frame": "4 hours postprandial"
+            }, 
+            {
+                "measure": "Percentage of time spent below 70 mg/dl (3.9mmol/l)", 
+                "safety_issue": "Yes", 
+                "time_frame": "4 hours postprandial"
+            }, 
+            {
+                "measure": "Percentage of time spent above 180, 250, (10, 13.9 mmol/l)", 
+                "safety_issue": "No", 
+                "time_frame": "4 hours postprandial"
+            }
+        ], 
+        "source": "Rabin Medical Center", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Rabin Medical Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "October 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Crossover Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2014"
+    }
+}

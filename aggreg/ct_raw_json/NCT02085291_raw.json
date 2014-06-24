@@ -1,0 +1,145 @@
+{
+    "clinical_study": {
+        "@rank": "154850", 
+        "arm_group": [
+            {
+                "arm_group_label": "Resp-FL", 
+                "arm_group_type": "Experimental", 
+                "description": "Fluid positive for PLR, then saline performed until MAP to usual level"
+            }, 
+            {
+                "arm_group_label": "Resp-NE", 
+                "arm_group_type": "Experimental", 
+                "description": "Fluid responders confirmed by PLR, then NE was adjusted to titrate MAP to usual level"
+            }, 
+            {
+                "arm_group_label": "Nonres-NE", 
+                "arm_group_type": "Experimental", 
+                "description": "Fluid nonresponders confirmed by PLR, then NE was adjusted to titrate MAP to usual level."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Increase in MAP from 65 mm Hg to patients' usual level by fluid improved sublingual\n      microcirculation in early septic shock patients despite EGDT."
+        }, 
+        "brief_title": "Targeting the Microcirculation in Resuscitation of Patients With Septic Shock", 
+        "completion_date": {
+            "#text": "December 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Septic Shock", 
+        "condition_browse": {
+            "mesh_term": [
+                "Shock", 
+                "Shock, Septic"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  1) patients with septic shock for less than 24 hours.\n\n          -  2) Fluid resuscitation was performed according to the guideline for treating septic\n             shock to maintain the central venous pressure (CVP) for more than 8 mm Hg and central\n             venous oxygen saturation for more than 70%.\n\n          -  3) Patients requiring norepinephrine (NE) to maintain a MAP of 65 mm Hg.\n\n        Exclusion Criteria:\n\n          -  pregnancy, age < 18 years, inability to acquire the usual level of MAP, refusal of\n             consent by the patient or relative, participation in other trials during the last\n             three months, hypertensive patients without hypertension treatment."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "90 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "20", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "February 28, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02085291", 
+            "org_study_id": "2011ZDllKY03.1", 
+            "secondary_id": "targeting microcirculation"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Resp-NE", 
+                    "Nonres-NE"
+                ], 
+                "description": "NE infusion to titrate MAP to usual level", 
+                "intervention_name": "NE", 
+                "intervention_type": "Drug", 
+                "other_name": "NE infusion"
+            }, 
+            {
+                "arm_group_label": "Resp-FL", 
+                "description": "Fluid resuscitation to titrate MAP to usual level", 
+                "intervention_name": "Saline", 
+                "intervention_type": "Drug", 
+                "other_name": "Fluid resuscitation"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": "septic shock, microcirculation, fluid", 
+        "lastchanged_date": "March 10, 2014", 
+        "location": {
+            "contact": {
+                "last_name": "Jingyuan Xu, MD", 
+                "phone": "862586232550"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Nanjing", 
+                    "country": "China", 
+                    "state": "Jiangsu", 
+                    "zip": "210000"
+                }, 
+                "name": "Zhongda Hospital Southeast University"
+            }, 
+            "investigator": {
+                "last_name": "Jingyuan Xu, MD", 
+                "role": "Principal Investigator"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "China"
+        }, 
+        "number_of_arms": "3", 
+        "overall_contact": {
+            "email": "xujingyuanmail@163.com", 
+            "last_name": "Jingyuan Xu, M.D.", 
+            "phone": "0086-025-83262550"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "China:Hospital Ethics Committee", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 4", 
+        "primary_completion_date": {
+            "#text": "December 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "Sublingual microcirculatory function by SDF of all the patients", 
+            "safety_issue": "No", 
+            "time_frame": "20minutes"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02085291"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Southeast University, China", 
+            "investigator_full_name": "Jingyuan,Xu", 
+            "investigator_title": "Zhongda Hospital", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "source": "Southeast University, China", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Southeast University, China", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "September 2011", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Factorial Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2014"
+    }
+}

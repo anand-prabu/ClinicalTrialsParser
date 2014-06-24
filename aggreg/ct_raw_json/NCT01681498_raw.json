@@ -1,0 +1,125 @@
+{
+    "clinical_study": {
+        "@rank": "166315", 
+        "arm_group": {
+            "arm_group_label": "Pregnant"
+        }, 
+        "brief_summary": {
+            "textblock": "This is a pilot study utilizing trans-abdominal ECG and Doppler Ultrasounds to assess the\n      feasibility of extracting fECGs in a volunteer population."
+        }, 
+        "brief_title": "Fetal Electrocardiogram Extraction-Pilot Study", 
+        "completion_date": {
+            "#text": "May 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Pregnant Women", 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Subjects must be pregnant women at least 18 years of age.\n\n          -  Subject's fetus must be between the gestational ages of 16 weeks and term.\n\n          -  Subjects must be able to tolerate 20 minutes (per fetus for which trans-abdominal ECG\n             and Doppler ultrasounds will be performed) in the supine position.\n\n          -  Subjects are willing to provide informed consent and are willing to participate in\n             all procedures necessary to complete the study.\n\n        Exclusion Criteria:\n\n          -  Subjects must not have a physical or mental condition, in the opinion of the\n             investigator, which will limit their ability to provide adequate consent."
+            }, 
+            "gender": "Female", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "Prenatal care clinic"
+            }
+        }, 
+        "enrollment": {
+            "#text": "20", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "August 30, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01681498", 
+            "org_study_id": "12-010"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "pregnant", 
+            "fetal ecg", 
+            "ecg"
+        ], 
+        "lastchanged_date": "May 23, 2013", 
+        "location": {
+            "contact": {
+                "email": "menachem.graupe@wfhc.org", 
+                "last_name": "Menachem H. Graupe, MD", 
+                "phone": "414-259-7480"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Milwaukee", 
+                    "country": "United States", 
+                    "state": "Wisconsin", 
+                    "zip": "53210"
+                }, 
+                "name": "Wheaton Franciscan, Inc. - St. Joseph"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_groups": "1", 
+        "official_title": "Fetal Electrocardiogram Extraction-Pilot Study", 
+        "overall_contact": {
+            "email": "menachem.graupe@wfhc.org", 
+            "last_name": "Menachem H. Graupe, MD", 
+            "phone": "414.259.7480"
+        }, 
+        "overall_contact_backup": {
+            "email": "maraty.gray@wfhc.org", 
+            "last_name": "Maraty T. Gray, BS", 
+            "phone": "414.447.3506"
+        }, 
+        "overall_official": {
+            "affiliation": "Wheaton Franciscan Healthcare", 
+            "last_name": "Menachem H. Graupe, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "May 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Beat-to-beat fetal heart rate will be compared to the Doppler result using Pearson Correlation.  Timing of PR, QT, and QS, if visible, will be compared with published normative values from the neonatology literature as these values are not otherwise obtainable in an ongoing pregnancy.", 
+            "measure": "Beat-to-beat fetal heart rate will be compared to the Doppler result.", 
+            "safety_issue": "No", 
+            "time_frame": "2 years"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01681498"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "description": "The fECG Separation Algorithm used in this research incorporates the filtering of noise of very high level as compared with the signal to be retrieved , in combination with employment of SVD (Singular Value Decomposition) methods.", 
+            "measure": "Evaluate the presence of other fECG intervals.", 
+            "safety_issue": "No", 
+            "time_frame": "2 years"
+        }, 
+        "source": "Huntleigh Healthcare Ltd", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Huntleigh Healthcare Ltd", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "May 2013", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "May 2013"
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "clinical_study": {
+        "@rank": "137750", 
+        "arm_group": [
+            {
+                "arm_group_label": "Proposed treatment by Diabeloop algorithm", 
+                "arm_group_type": "Experimental", 
+                "description": "the insulin dose is calculated by the algorithm based on the usual treatment of the patient, the ratio I / C, the intensity of physical activity and blood glucose sensor."
+            }, 
+            {
+                "arm_group_label": "usual treatment", 
+                "arm_group_type": "No Intervention"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The main objective is to assess if the Diabeloop algorithm provides better glycemic control\n      than a \"manual\" usual algorithm of patients with type 1 diabetes treated by insulin pump\n      during meals, and during activity qualified \"moderate\" to \"severe\" by the patients.\n\n      The study will be conducted in 18 patients. The investigation centers are: CHSF (for\n      Diabeloop algorithm test during activity), CHU of Grenoble and CHU of Toulouse (for\n      Diabeloop algorithm test during meals."
+        }, 
+        "brief_title": "Diabeloop - Under Project 6.0 (UP 6.0)", 
+        "completion_date": {
+            "#text": "July 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": "Type 1 Diabetes", 
+        "condition_browse": {
+            "mesh_term": "Diabetes Mellitus, Type 1"
+        }, 
+        "detailed_description": {
+            "textblock": "-  Grenoble and Toulouse will test the prandial algorithm with several carbohydrate intake\n           and a primer of 50% or 75% of the total bolus. Groups of patients are described as\n           follows:\n\n             -  Group I: patients have a meal with the usual carbohydrate intake. The meal bolus\n                is made according to the current treatment.\n\n             -  Group II: patients have a meal with a \"low\" carbohydrate intake (50% reduction of\n                carbohydrate).\n\n             -  Group III: patients have a meal with a \"strong\" carbohydrate intake (increase 50%\n                of carbohydrate).\n\n             -  Group IV: patients of group IV have each meal with carbohydrate intake but their\n                usual bolus will be omitted.\n\n             -  Inclusion visit V1: The study will be proposed at the patients who meet the\n                inclusion criteria. After signing the consent, the investigator shall designate\n                one group for each patient.\n\n             -  Visit V2 (24 hours before the visit V3): Installation, calibration and education\n                of two glucose sensors dexcom G4 \u2122 will be performed by a nurse. The patient will\n                keep two sensors until the end of the study (end of V4).\n\n             -  Visit V3 (algorithm test): Patient will be fitted with its insulin pump and the\n                two sensors dexcom G4 \u2122. These will be coupled by the engineer LETI to the\n                computer on which is installed the control algorithm to be tested. Lunch will be\n                taken at 1 pm. The algorithm will provide proposals insulin every 15 minutes until\n                6 pm.\n\n             -  Visit V4 (patient control): Patient will be fitted with two sensors dexcom G4 \u2122\n                and its insulin pump programmed according to the usual algorithm. The meal will be\n                taken at 1h PM. Patient can leave the site at 6 pm after removal of sensors.\n\n        -  CHSF (Centre Hospitalier Sud Francilien) will test the algorithm glycemic control\n           during physical activity of moderate (50% VO2max) or high intensity (75% VO2max) for 30\n           minutes on a bicycle ergometer. In different situations, three patient groups will be\n           created:\n\n             -  Group A: Patients practice an \"average\" physical activity(50% VO2max) with usual\n                temporary basal reduction (usually 50% of reduction during the test and 2h next).\n\n             -  Group B: Patients practice an \"intense\" physical activity (75% VO2max) with usual\n                temporary basal reduction (usually 80% of reduction during the test and 2h after).\n\n             -  Group C: patients practice an \"average\" physical activity (50% VO2max) but without\n                concomitant reduction of temporary basal.\n\n             -  Inclusion visit V1 : The study will be proposed at the patients who meet the\n                inclusion criteria. After signing the consent, the investigator shall designate\n                one group for each patient.\n\n             -  Visit V2 : Patient will be equipped with two sensors dexcom G4 \u2122 and a heart rate\n                monitor. Calibrated meal is expected at 11h 30 pm. The patient will be\n                administered his insulin dose according to his usual algorithm. The physical test\n                will begin three hours after the meal. It will be carried on bicycle ergometer for\n                30 minutes at an medium or high intensity. (Average = 50% VO2max, or high level =\n                75% VO2max).\n\n             -  Visit V3: The same test is repeated for each patient during this visit. Its\n                insulin pump will be controlled by the doses proposal of the algorithm after\n                manual validation by the investigator. These will continue until the next morning,\n                and the patient will spend overnight in the hospital."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients with type 1 diabetes treated by external insulin pump;\n\n          -  Patients with HbA1c <8.5%.\n\n          -  Patients aged 18 years or less;\n\n          -  Patient who signed consent;\n\n          -  Patient affiliated with Social Security.\n\n        For Grenoble and Toulouse Centers (Prandial algorithm test : MEAL):\n\n          -  Patient is practicing functional insulin therapy is a fixed meal plan.\n\n        For CHSF center (test of algorithm during activity):\n\n          -  Patient able to perform moderate or intense activity during 30 minutes.\n\n        Exclusion Criteria:\n\n          -  Patients with type 2 diabetes\n\n          -  All serious diseases that could interfere with the study\n\n          -  Insulin resistance and obesity (BMI> 30 kg/m2 and / or insulin requirements> 2 U / kg\n             / day)"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "18", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "December 18, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01754181", 
+            "org_study_id": "2012-A01489-34"
+        }, 
+        "intervention": {
+            "arm_group_label": "Proposed treatment by Diabeloop algorithm", 
+            "description": "the intervention is applied only at the dose of insulin", 
+            "intervention_name": "Insulin", 
+            "intervention_type": "Drug"
+        }, 
+        "intervention_browse": {
+            "mesh_term": "Insulin"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Glycemic control algorithm", 
+            "closed loop", 
+            "artificial pancreas"
+        ], 
+        "lastchanged_date": "September 26, 2013", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Evry", 
+                        "country": "France", 
+                        "zip": "91058"
+                    }, 
+                    "name": "Centre Hospitalier Sud Francilien"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Grenoble", 
+                        "country": "France", 
+                        "zip": "38043"
+                    }, 
+                    "name": "University Hospital of Grenoble"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toulouse", 
+                        "country": "France", 
+                        "zip": "31403"
+                    }, 
+                    "name": "University Hospital of Toulouse"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "France"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Development of the Glycemic Control Algorithm, in Prandial and Physical Effort Situations.", 
+        "other_outcome": {
+            "description": "Comparison of glucose sensor 2h, 3h and 4h post-prandial and AUC, in conditions identical meals for each trigger level (50 or 75%).\nComparison of blood glucose 2h, 3h and 4h post-prandial and AUC, in conditions identical meals for each trigger level, in three configurations: quantitative, semi-quantitative and bolus omitted.\nMeasuring AUC, during and 2 hours after physical activity, then to lunch time, during dinner and throughout the night;\nMeasure the time spent in hypoglycemia (<0.70 g / l)\nMeasuring the number of carbohydrate ingested", 
+            "measure": "Comparison of glucose sensor 2h, 3h and 4h post-prandial and AUC in conditions identical meals for each trigger level (50 or 75%).  Measuring AUC during and 2 hours after physical activity, then to lunch time, during dinner and throughout the night.", 
+            "safety_issue": "Yes", 
+            "time_frame": "After the end of the tests"
+        }, 
+        "overall_official": [
+            {
+                "affiliation": "Centre d\u2019Etudes et de Recherche pour l\u2019Intensification du Traitement du Diab\u00e8te", 
+                "last_name": "Sylvia FRANC, MD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "CHU of Grenoble", 
+                "last_name": "Pierre-Yves BENHAMOU, Pr.", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Centre d\u2019Etudes et de Recherche pour l\u2019Intensification du Traitement du Diab\u00e8te", 
+                "last_name": "Guillaume CHARPENTIER, MD", 
+                "role": "Study Chair"
+            }
+        ], 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "France : The National Security Agency of Medicines and Health Products  (ANSM; old AFSSAPS)", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "June 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "Time spent in glucose reference intervals", 
+            "safety_issue": "Yes", 
+            "time_frame": "After the end of the tests"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01754181"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "description": "To evaluate the efficacy and safety of prandial algorithm, informed carbohydrate intake by the patient either quantitatively or semi-quantitative, or not informed way.", 
+            "measure": "Measuring glucose sensor 2h, 3h and 4h post-prandial and AUC, in every situation tested to evaluate the efficacy and safety (time spent in hypoglycemia)", 
+            "safety_issue": "Yes", 
+            "time_frame": "After the end of the tests"
+        }, 
+        "source": "Centre d\u2019Etudes et de Recherche pour l\u2019Intensification du Traitement du Diab\u00e8te", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Centre d\u2019Etudes et de Recherche pour l\u2019Intensification du Traitement du Diab\u00e8te", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "March 2013", 
+        "study_design": "Allocation: Non-Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Crossover Assignment, Masking: Open Label, Primary Purpose: Health Services Research", 
+        "study_type": "Interventional", 
+        "verification_date": "September 2013"
+    }
+}

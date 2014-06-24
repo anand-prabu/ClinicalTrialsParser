@@ -1,0 +1,847 @@
+{
+    "clinical_study": {
+        "@rank": "56963", 
+        "acronym": "BreastCARE", 
+        "arm_group": [
+            {
+                "arm_group_label": "BreastCARE Intervention", 
+                "arm_group_type": "Experimental", 
+                "description": "Intervention Clinic Patients: The RA will welcome the patient upon arrival at the clinic and again explain study procedures and field any questions. The RA will have the patient sign the HIPAA authorization form and then demonstrate how to enter information and answer questions on the tablet-PC and the patient will indicate their consent electronically before beginning the assessment.\nIntervention Patient Report. Once the patient completes the BreastCare Computer survey, the program will immediately generate a personal feedback report containing information about her risk factors and recommendations to reduce her risk. This report will be printed and given to the patietns before she meets with her doctor."
+            }, 
+            {
+                "arm_group_label": "BreastCARE Comparison", 
+                "arm_group_type": "No Intervention", 
+                "description": "Patients will be randomized into the intervention or comparison groups at the time of recruitment. Block-randomization will be used to assign patients to intervention or comparison groups.\nComparison Clinic Patients. Contact and baseline interview procedures will be the same for patients from the comparison clinics, however there will be no computer assessment at the time of their clinic visit. An RA will meet the patient 10 minutes prior to her appointment time to obtain written HIPAA authorization."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The proposed research combines the scientific advances in breast cancer research with health\n      information technology (IT) to design a personalized intervention that assesses breast\n      cancer risk for women, disseminates important breast health information, and facilitates\n      discussion of breast cancer risk reduction practices. Our goal is to implement a tablet-PC\n      (personal computer) based breast cancer risk education (BreastCare) intervention in the\n      primary care setting that estimates a woman's individual risk for breast cancer and provides\n      her and her physician with personalized breast cancer risk information and recommendations\n      for action."
+        }, 
+        "brief_title": "Breast Cancer Risk Reduction: A Patient Doctor Intervention", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "Usual Care is the comparison Clinic Patients, where there is no change in their standard or usual care.", 
+                            "title": "Usual Care"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "Intervention Clinic Patients: The participants will answer questions on the tablet-PC to calculate their breast cancer risk.\nIntervention Patient Report. Once the patient completes the BreastCare Computer survey, the program will immediately generate a personal feedback report containing information about her risk factors and recommendations to reduce her risk. This report will be printed and given to the patients before she meets with her doctor.\nBreastCARE : The physician will receive a physician report that contains information similar to the patient report.", 
+                            "title": "BreastCARE Intervention"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "655"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "580"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "1235"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "183"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "182"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "365"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "<50 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "362"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "300"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "662"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "51-65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "110"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "98"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "208"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": ">65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age, Customized", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "655"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "580"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "1235"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "229"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "202"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "431"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Non-Latina White"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "144"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "141"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "285"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Latina"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "150"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "125"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "275"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Black/ African American"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "123"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "105"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "228"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Asian or Pacific Islander"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "9"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "7"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "16"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Native American or Other"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Race/Ethnicity, Customized", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "655"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "580"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "1235"
+                                            }
+                                        ]
+                                    }, 
+                                    "sub_title": "United States"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }, 
+                "population": "Number of participants who completed follow-up."
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "description": "Risk knowledge was assessed using a post-survey. Participants could have scored 0-100 (with 0 meaning no correct answers, and 100 is all correct answers). This outcome was measured through a survey.  Breast cancer risk knowledge was based on a series of eight questions in the survey. O", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Usual Care is the comparison Clinic Patients, where there is no change in their standard or usual care.", 
+                                    "title": "Usual Care"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Intervention Clinic Patients: The participants will answer questions on the tablet-PC to calculate their breast cancer risk.\nIntervention Patient Report. Once the patient completes the BreastCare Computer survey, the program will immediately generate a personal feedback report containing information about her risk factors and recommendations to reduce her risk. This report will be printed and given to the patients before she meets with her doctor.\nBreastCARE : The physician will receive a physician report that contains information similar to the patient report.", 
+                                    "title": "BreastCARE Intervention"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "655"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "580"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "24.3", 
+                                                        "@value": "48.9"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "24.3", 
+                                                        "@value": "56.4"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Risk knowledge was assessed using a post-survey. Participants could have scored 0-100 (with 0 meaning no correct answers, and 100 is all correct answers). This outcome was measured through a survey.  Breast cancer risk knowledge was based on a series of eight questions in the survey. O", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Knowledge of Breast Cancer Risk Factors", 
+                                    "units": "units on a scale"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "one week post-initial visit (approximately one week)", 
+                        "title": "Knowledge of Breast Cancer Risk Factors", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "This outcome was measured through a survey. Women were asked what they thought about their risk of getting breast cancer was compared to other women of the same age.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Usual Care is the comparison Clinic Patients, where there is no change in their standard or usual care.", 
+                                    "title": "Usual Care"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Intervention Clinic Patients: The participants will answer questions on the tablet-PC to calculate their breast cancer risk.\nIntervention Patient Report. Once the patient completes the BreastCare Computer survey, the program will immediately generate a personal feedback report containing information about her risk factors and recommendations to reduce her risk. This report will be printed and given to the patients before she meets with her doctor.\nBreastCARE : The physician will receive a physician report that contains information similar to the patient report.", 
+                                    "title": "BreastCARE Intervention"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "655"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "580"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "69.9"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "65.9"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Baseline"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "73.3"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "71.1"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Final (one week post-intial visit)"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "This outcome was measured through a survey. Women were asked what they thought about their risk of getting breast cancer was compared to other women of the same age.", 
+                                    "param": "Number", 
+                                    "title": "Percentage of Participants With Correct Perception of Risk", 
+                                    "units": "percentage of participants"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "baseline, one week post-initial visit (approximately one week)", 
+                        "title": "Percentage of Participants With Correct Perception of Risk", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "Self-reported discussion of breast cancer risk with physicians.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Usual Care is the comparison Clinic Patients, where there is no change in their standard or usual care.", 
+                                    "title": "Usual Care"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Intervention Clinic Patients: The participants will answer questions on the tablet-PC to calculate their breast cancer risk.\nIntervention Patient Report. Once the patient completes the BreastCare Computer survey, the program will immediately generate a personal feedback report containing information about her risk factors and recommendations to reduce her risk. This report will be printed and given to the patients before she meets with her doctor.\nBreastCARE : The physician will receive a physician report that contains information similar to the patient report.", 
+                                    "title": "BreastCARE Intervention"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "655"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "580"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "15"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "41"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Self-reported discussion of breast cancer risk with physicians.", 
+                                    "param": "Number", 
+                                    "title": "Percentage of Participants Who Had a Discussion of Breast Cancer Risk", 
+                                    "units": "percentage of participants"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "one week post-initial visit (approximately one week)", 
+                        "title": "Percentage of Participants Who Had a Discussion of Breast Cancer Risk", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "Self reported discussion of mammography with physician.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Usual Care is the comparison Clinic Patients, where there is no change in their standard or usual care.", 
+                                    "title": "Usual Care"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Intervention Clinic Patients: The participants will answer questions on the tablet-PC to calculate their breast cancer risk.\nIntervention Patient Report. Once the patient completes the BreastCare Computer survey, the program will immediately generate a personal feedback report containing information about her risk factors and recommendations to reduce her risk. This report will be printed and given to the patients before she meets with her doctor.\nBreastCARE : The physician will receive a physician report that contains information similar to the patient report.", 
+                                    "title": "BreastCARE Intervention"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "655"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "580"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "51.6"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "61.5"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Self reported discussion of mammography with physician.", 
+                                    "param": "Number", 
+                                    "title": "Percentage of Participants Who Reported Discussion of Mammography Screening", 
+                                    "units": "percentage of participants"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "up to 14 months", 
+                        "title": "Percentage of Participants Who Reported Discussion of Mammography Screening", 
+                        "type": "Primary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "Usual Care is the comparison Clinic Patients, where there is no change in their standard or usual care.", 
+                            "title": "Usual Care"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "Intervention Clinic Patients: The participants will answer questions on the tablet-PC to calculate their breast cancer risk.\nIntervention Patient Report. Once the patient completes the BreastCare Computer survey, the program will immediately generate a personal feedback report containing information about her risk factors and recommendations to reduce her risk. This report will be printed and given to the patients before she meets with her doctor.\nBreastCARE : The physician will receive a physician report that contains information similar to the patient report.", 
+                            "title": "BreastCARE Intervention"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "823", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "812", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "675", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "603", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "Completed Meet-up"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "655", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "580", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "168", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "232", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }
+            }, 
+            "point_of_contact": {
+                "email": "celia.kaplan@ucsf.edu", 
+                "name_or_title": "Celia P. Kaplan, Professor", 
+                "organization": "University of California, San Francisco", 
+                "phone": "415-502-5601"
+            }
+        }, 
+        "completion_date": {
+            "#text": "June 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Breast Cancer", 
+        "condition_browse": {
+            "mesh_term": "Breast Neoplasms"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Patient component:\n\n               -  Women who visit the General Internal Medicine (GIM) practices at SFGH and UCSF\n                  during the study period\n\n               -  Between the ages of 40 and 74\n\n               -  Self-identify as Asian American, Spanish- and English-speaking Latinas, African\n                  American, or White\n\n               -  Have no history of breast cancer are eligible to participate.\n\n          2. Physician component: Primary care physicians currently practicing at the GIM clinics\n             at SFGH and UCSF\n\n        Exclusion Criteria:\n\n          1. Patient component: Women whose physicians object to their participation in the study\n\n          2. Physician component: No exclusion criteria for physicians"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "74 Years", 
+            "minimum_age": "40 Years"
+        }, 
+        "enrollment": {
+            "#text": "1235", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "April 10, 2013", 
+        "firstreceived_results_date": "May 15, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_alias": "NCT01836250", 
+            "nct_id": "NCT01830933", 
+            "org_study_id": "150B-0158"
+        }, 
+        "intervention": {
+            "arm_group_label": "BreastCARE Intervention", 
+            "description": "Physician Report. At the time of an individual participant's visit to her primary care physician and her completion of the assessment tool, her physician will receive a physician report. The physician report is designed to facilitate communication about breast cancer risk during the primary care visit and to provide tailored risk reduction recommendations.", 
+            "intervention_name": "BreastCARE", 
+            "intervention_type": "Other"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": "Breast cancer concern, breast cancer risk perception, breast cancer risk", 
+        "lastchanged_date": "May 15, 2013", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94143"
+                    }, 
+                    "name": "University of California, San Francisco Mt. Zion campus"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94110"
+                    }, 
+                    "name": "San Francisco General Hospital (SFGH)"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Breast Cancer Risk Reduction: A Patient Doctor Intervention", 
+        "overall_official": {
+            "affiliation": "University of California, San Francisco", 
+            "last_name": "Celia P Kaplan, DrPH, MA", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "August 2012", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "Risk knowledge was assessed using a post-survey. Participants could have scored 0-100 (with 0 meaning no correct answers, and 100 is all correct answers). This outcome was measured through a survey.  Breast cancer risk knowledge was based on a series of eight questions in the survey. O", 
+                "measure": "Knowledge of Breast Cancer Risk Factors", 
+                "safety_issue": "No", 
+                "time_frame": "one week post-initial visit (approximately one week)"
+            }, 
+            {
+                "description": "This outcome was measured through a survey. Women were asked what they thought about their risk of getting breast cancer was compared to other women of the same age.", 
+                "measure": "Percentage of Participants With Correct Perception of Risk", 
+                "safety_issue": "No", 
+                "time_frame": "baseline, one week post-initial visit (approximately one week)"
+            }, 
+            {
+                "description": "Self-reported discussion of breast cancer risk with physicians.", 
+                "measure": "Percentage of Participants Who Had a Discussion of Breast Cancer Risk", 
+                "safety_issue": "No", 
+                "time_frame": "one week post-initial visit (approximately one week)"
+            }, 
+            {
+                "description": "Self reported discussion of mammography with physician.", 
+                "measure": "Percentage of Participants Who Reported Discussion of Mammography Screening", 
+                "safety_issue": "No", 
+                "time_frame": "up to 14 months"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01830933"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "University of California, San Francisco", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "Susan G. Komen Breast Cancer Foundation", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "California Breast Cancer Research Program", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "University of California, San Francisco", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "June 2011", 
+        "study_design": "Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Single Blind (Subject), Primary Purpose: Prevention", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2013"
+    }
+}

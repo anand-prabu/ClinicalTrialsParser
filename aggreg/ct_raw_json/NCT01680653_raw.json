@@ -1,0 +1,169 @@
+{
+    "clinical_study": {
+        "@rank": "90549", 
+        "arm_group": [
+            {
+                "arm_group_label": "Mini-Glucagon and Remote Monitoring", 
+                "arm_group_type": "Experimental", 
+                "description": "Subjects glucose data are remotely monitored at night using the University of Virginia (UVA) Diabetes Assistant (DiAs) Android Platform. Study staff intervenes with a fingerstick blood glucose measurement when sensor value falls below 70mg/dL.  If fingerstick value is less than 70 mg/dL, hypoglycemic treatment is administered as below.\nAdminister mini-glucagon as treatment for nocturnal hypoglycemia.  Administer 0.01 cc per number of years in age via insulin syringe, subcutaneously.  This amounts to 1 unit per age, for example: an 8 year old gets 8 \"units\" glucagon."
+            }, 
+            {
+                "arm_group_label": "Carbohydrates and Remote Monitoring", 
+                "arm_group_type": "Other", 
+                "description": "Subjects glucose data are remotely monitored at night using the University of Virginia (UVA) Diabetes Assistant (DiAs) Android Platform. Study staff intervenes with a fingerstick blood glucose measurement when sensor value falls below 70mg/dL.  If fingerstick value is less than 70 mg/dL, hypoglycemic treatment is administered as below.\nAdministration of carbohydrate per camp protocol to treat nocturnal hypoglycemia.  Expected treatment is 15-45g."
+            }, 
+            {
+                "arm_group_label": "Carbohydrates and No Remote Monitoring", 
+                "arm_group_type": "No Intervention", 
+                "description": "Subjects wear a continuous glucose monitor for their own use, but they are not remotely monitored.\nIf hypoglycemia occurs and is acknowledged through standard camp protocol it will be treated with standard camp protocol administration of carbohydrates. Expected treatment is 15g-45g."
+            }, 
+            {
+                "arm_group_label": "Mini-Glucagon and No Remote Monitoring", 
+                "arm_group_type": "Other", 
+                "description": "Subjects wear a continuous glucose monitor for their own use, but they are not remotely monitored.\nIf hypoglycemia occurs and is acknowledged through standard camp protocol it will be treated with mini-glucagon.\nAdminister mini-glucagon as treatment for nocturnal hypoglycemia.  Administer 0.01 cc per number of years in age via insulin syringe, subcutaneously.  This amounts to 1 unit per age, for example: an 8 year old gets 8 \"units\" glucagon."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The incidence of low blood sugar and hypoglycemic seizures at diabetes camp has been reduced\n      thanks to overnight blood glucose level testing.  The timing of the overnight blood test is\n      often arbitrary and it is unclear when the highest frequency of nocturnal hypoglycemic\n      events at camp are occurring. It is also unclear what the most appropriate treatment for\n      nocturnal hypoglycemia is: simple carbohydrates, or mini-glucagon.\n\n      In this study, we will use Continuous Glucose Monitors that will send subject data securely\n      to a remote computer located in the medical cottage at camp throughout the night.  Study\n      staff will monitor the computer and will intervene on low blood sugar as it occurs in real\n      time.  On half of the nights, campers will receive mini-glucagon for low blood sugar, and on\n      the rest, they will receive standard carbohydrate treatment."
+        }, 
+        "brief_title": "Testing State of the Art Remote Glucose Monitoring at Diabetes Camp", 
+        "completion_date": {
+            "#text": "December 2012", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Type 1 Diabetes", 
+        "condition_browse": {
+            "mesh_term": [
+                "Diabetes Mellitus", 
+                "Diabetes Mellitus, Type 1"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Clinical diagnosis of type 1 diabetes and using daily insulin therapy for at least\n             one year\n\n          -  Age 7-21 years\n\n          -  Attendee of Camp De Los Ninos or Conrad Chinnock\n\n          -  Come to camp with a consent already signed after having talked to study staff about\n             the study, or at the onset of the camp meet with study staff and sign the consent\n             before the first night at camp.\n\n          -  Using multiple daily insulin injections (Lantus) or on an insulin pump (any brand)\n\n        Exclusion Criteria:\n\n          -  Cystic fibrosis\n\n          -  Medications such as current use of oral steroids or other medications, which in the\n             judgment of the investigator would be a contraindication to participation in the\n             study.\n\n          -  History of adhesive allergies which would interfere with sensor wear."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "21 Years", 
+            "minimum_age": "7 Years"
+        }, 
+        "enrollment": {
+            "#text": "60", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "August 28, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01680653", 
+            "org_study_id": "2012PG-T1D001"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Mini-Glucagon and Remote Monitoring", 
+                    "Mini-Glucagon and No Remote Monitoring"
+                ], 
+                "intervention_name": "Glucagon", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "Mini-Glucagon and Remote Monitoring", 
+                    "Carbohydrates and Remote Monitoring"
+                ], 
+                "intervention_name": "University of Virginia (UVA) Diabetes Assistant (DiAs) Android Platform", 
+                "intervention_type": "Device"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Glucagon", 
+                "Glucagon-Like Peptide 1"
+            ]
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "September 4, 2012", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Stanford", 
+                    "country": "United States", 
+                    "state": "California", 
+                    "zip": "94305"
+                }, 
+                "name": "Stanford University"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "4", 
+        "official_title": "Pilot Study in Testing State of the Art Remote Glucose Monitoring at Diabetes Camp", 
+        "other_outcome": {
+            "description": "After treatment for hypoglycemia,how many additional treatments were required.", 
+            "measure": "Need for repeat treatments of hypoglcyemia", 
+            "safety_issue": "No", 
+            "time_frame": "8 Hours"
+        }, 
+        "overall_official": {
+            "affiliation": "Stanford University", 
+            "last_name": "Bruce Buckingham, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "August 2012", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "minutes of glucose readings < 70 mg/dl", 
+            "measure": "Duration of nocturnal hypoglycemia", 
+            "safety_issue": "Yes", 
+            "time_frame": "8 hours"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01680653"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "description": "minutes < 50 mg/dl on Dexcom sensor", 
+            "measure": "Duration of Glucose readings <50 mg/dl", 
+            "safety_issue": "Yes", 
+            "time_frame": "8 Hours"
+        }, 
+        "source": "Stanford University", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "University of Virginia", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "DexCom, Inc.", 
+                    "agency_class": "Industry"
+                }, 
+                {
+                    "agency": "Leona and Harry Helmsely Foundation", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "Stanford University", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "May 2012", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Crossover Assignment, Masking: Open Label, Primary Purpose: Supportive Care", 
+        "study_type": "Interventional", 
+        "verification_date": "September 2012"
+    }
+}

@@ -1,0 +1,176 @@
+{
+    "clinical_study": {
+        "@rank": "28281", 
+        "arm_group": {
+            "arm_group_label": "Normobaric hypoxia chamber", 
+            "arm_group_type": "Other", 
+            "description": "Study subjects will be put into a hypoxic state by exposing them to normobaric (sea-level atmospheric pressure) hypoxia (low oxygen) by administrating an air mix containing a reduced O2 concentration. This is achieved in a hypoxia chamber where O2 concentration is gradually reduced to simulate high altitude (around 4500 m)."
+        }, 
+        "brief_summary": {
+            "textblock": "Pulse oximetry is a standard non-invasive method of measuring blood oxygen saturation\n      (SpO2). In developing countries, pulse oximeters are rare because of expense and electricity\n      requirements. Our ECEM group has developed the Phone Oximeter, which uses a cell phone\n      (widely available in developing countries) to compute and analyze information from a pulse\n      oximeter sensor. To further reduce costs, we use the integrated flashlight of a cell phone's\n      camera to extract SpO2 (Camera Oximeter), eliminating the need for external hardware. This\n      study aims to calibrate the Camera Oximeter by exposing 30 healthy adult volunteers to\n      various altitudes in UBC's hypoxia chamber."
+        }, 
+        "brief_title": "The Camera Oximeter: A Calibration Study", 
+        "completion_date": {
+            "#text": "October 2013", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Blood Oxygen Saturation Level", 
+            "Heart Rate"
+        ], 
+        "detailed_description": {
+            "textblock": "Purpose:\n\n      We at the Electrical and Computer Engineering in Medicine Group (ECEM) at the University of\n      British Columbia, Vancouver, Canada, plan to make pulse oximetry available to resource poor\n      countries by designing a low-cost, battery-powered pulse oximeter device. We have developed\n      the Phone Oximeter, which uses a mobile phone to compute and analyze the information\n      received from a pulse oximeter sensor. The use of mobile phones as patient monitors is\n      appealing as they are widely available in many developing countries. Utilizing battery\n      power, mobile phones do not rely on a continuous source of electricity. This is essential,\n      as most low-resource settings lack adequate infrastructure and thus cannot provide the\n      uninterrupted power supply required for conventional patient monitoring. Furthermore, a\n      mobile phone has the efficiency, integrated display, and processing power required to\n      analyze and store the data derived from the pulse oximeter sensors. Data from the pulse\n      oximeter can be transmitted to referral centers for diagnostic and advisory purposes where\n      cellular and networking services permit.\n\n      At present, the ECEM Phone Oximeter software runs on smartphones and receives input from an\n      external proprietary oximeter sensor which is relatively expensive ($300 US). To further\n      reduce cost and increase ubiquity of oximeters, we are developing two novel pulse oximeter\n      systems for mobile phones that will be more integrated: the Audio Oximeter (AudioOx) and the\n      Camera Oximeter. This study aims at calibrating the Camera Oximeter.\n\n      The Camera Oximeter uses the camera of a mobile phone as a photo detector. Illumination of\n      the finger is provided through the integrated flash light. This allows completely\n      eliminating external hardware, which allows the camera phone to become a standalone vital\n      sign recording device at minimal cost (no additional cost other than the phone and the\n      software). This principle has been applied in many mobile phone software applications\n      available in various software repositories to measure the HR of the user. Preliminary\n      research has shown that the extraction of SpO2 from a video recorded with a mobile phone is\n      also possible. We have further extended this approach and want to calibrate and validate a\n      software implementation of this approach.\n\n      Hypothesis:\n\n      We hypothesize that this study will allow us to successfully calibrate the Camera Oximeter.\n\n      Justification:\n\n      For the safety of the patient, the development of any new pulse oximeter equipment requires\n      calibration and evaluation for accuracy. This is required to ensure that the pulse oximeter\n      device is functional. Results of accuracy evaluations have to be reported so the clinician\n      is informed and he/she can understand the limits of the device that he/she is using. The\n      International Organization for Standardization (ISO) and a technical committee have created\n      standards that regulate the calibration and accuracy evaluation procedures of pulse\n      oximeters. These standards are enforced by regulatory bodies, such as the federal drug\n      administration (FDA), to approve the medical device for its use.\n\n      Pulse Oximeter Theory and Calibration\n\n      The underlying principle of pulse oximeters is the Beer-Lambert law which stipulates that\n      light intensity diminishes exponentially when traveling in an absorbing medium. Oxygenated\n      (O2Hb) and de-oxygenated (Hb) hemoglobin have different extinction coefficients for\n      different wavelengths and are the most important light absorbers in blood. In some\n      wavelength ranges, Hb is more absorbent than O2Hb, and in others the absorption property is\n      inverted. These regions are separated by isosbestic points. With each pulse, the volume of\n      blood in the vessels and the optical path length increase, and therefore, the total\n      absorbance also increases. As a result, the variation of volume can be registered as a\n      variation of transmitted light intensity and recorded with a photodetector. This produces\n      the PPG waveform. The difference in total absorbance at two distinct wavelengths allows the\n      calculation of a modulation ratio R. The theoretical relationship between R and SaO2 can be\n      described as:\n\n      SaO2 = (\u03b5Hb(\u03bb1) - \u03b5Hb(\u03bb2) x R) / (\u03b5Hb(\u03bb1) - \u03b5O2Hb(\u03bb1) + (\u03b5O2Hb(\u03bb2) - \u03b5Hb(\u03bb2)) x R)\n\n      The Beer-Lambert law ignores scattering of light. Various other design aspects of individual\n      oximeters (e.g. photodetector quantum efficiency, probe type) are not taken into account in\n      the theoretical equation. To account for these effects, the relationship between R and SaO2\n      has to be determined empirically using calibration.\n\n      The calibration of pulse oximeters for use on human subjects is regulated by ISO 80601-2-61.\n      This standards document defines minimal requirements for devices, provides classification\n      methods for systems, instructions how to measure accuracy of SpO2 and HR, and lists possible\n      fault conditions. The standards document also provides informative recommendations on how to\n      measure accuracy (Annex CC), standards for calibration (Annex DD), and guidelines for\n      evaluating and documenting SpO2 accuracy in human subjects.\n\n      There is no standard tool for calibrating pulse oximeters. According to the ISO pulse\n      oximetry standard document, \"there is today no accepted method of verifying the correct\n      calibration of a pulse oximeter probe/pulse oximeter monitor combination other than testing\n      on human beings. This is due to the complexity of the optical intricacies of the interaction\n      of light and human tissue upon which pulse oximetry depends\". In-vitro calibration device\n      prototypes using whole blood have been suggested in various research projects, but these\n      systems are, to-date, not commercially available and very expensive to build and operate.\n      They have not been accepted as standard tools for calibration because of their lack of\n      simulating tissue interaction with pulse oximeter light. It is therefore necessary to\n      calibrate pulse oximeters on human subjects.\n\n      For calibration and accuracy evaluation of SpO2 measurements, the ISO accepts two methods of\n      testing:\n\n      Invasive testing: The SpO2 readings of the test pulse oximeter are compared to values of\n      arterial blood oxygen saturations (SaO2) measured with a \"gold standard\" blood gas analysis\n      using a CO-oximeter.\n\n      Non-invasive testing: The SpO2 readings of the test pulse oximeter are compared to values\n      from a secondary standard pulse oximeter, which can be used as a transfer standard because\n      its calibration is directly traceable to a blood gas analysis.\n\n      These tests can be conducted on healthy volunteers who consent to induced hypoxemia or\n      patients from whom arterial blood samples/reference pulse oximeter readings are available.\n\n      Objectives:\n\n      Our main objective is to calibrate the Camera Oximeter. We will also evaluate the accuracy\n      and reliability of the calibration to measure SpO2, respiratory rate, and heart rate\n      measurements. Measurements produced by two secondary standard pulse oximeters and a\n      capnometer (CO2 breath analyzer) will be used as reference monitors.\n\n      Research Method:\n\n      This will be a non-invasive testing on healthy subjects using two secondary standard,\n      clinically approved pulse oximeters. The approved oximeters will provide the reference\n      measurements for both SpO2 and HR. This is the least invasive approach that is recommended\n      by the ISO standards.\n\n      Study subjects will be put into a hypoxic state by exposing them to normobaric (sea-level\n      atmospheric pressure) hypoxia (low oxygen) by administrating an air mix containing a reduced\n      O2 concentration. This is achieved in a hypoxia chamber where O2 concentration is gradually\n      reduced to simulate high altitude (around 4500 m).\n\n      The goals of the current study are very similar to another study conducted in the hypoxia\n      chamber (REB ID#H12-02365, Calibration and evaluation of an Audio Pulse Oximeter Sensor\n      (AudioOx) at ascent and descent from simulated altitude), the same methodology is applied.\n      This will allow recruiting subjects for both studies and will reduce the total number of\n      subjects necessary for achieving our goal.\n\n      Statistical Analysis:\n\n      Calibration of SpO2 Data from the initial set of subjects (at least 10) in the study will be\n      used to calibrate the Camera Oximeter oximetry data. Firstly, the red and infra-red (IR)\n      light signals from oximeter sensors are used to calculate ratio R, where\n\n      R = ( ACRED / DCRED ) / ( ACIR / DCIR )\n\n      ACRED and ACIR are pulsatile components of the red and infra-red light detected by the\n      oximeter photo detector. DCRED and DCIR are constant components of the red and infra-red\n      light detected by the oximeter photo detector.\n\n      R values are paired to SpO2 readings from the reference oximeter taken at the same time.\n      Linear regression on a second order polynomial equation is then used to estimate the\n      calibration parameters.\n\n      Evaluation of SpO2 Readings from later subjects (at least 10) will be used to evaluate the\n      accuracy and validity of the SpO2 measurements from both novel oximeters. Paired readings\n      from the test oximeters and the reference oximeter are grouped into six ranges (70-75%,\n      76-80%, 81-85%, 86-90%, 91-95% and 96-100%). Mean bias, precision and accuracy will be\n      calculated as per ISO  definitions for each group of SpO2 ranges and the overall range\n      (70-100%) [5].\n\n      Local bias, b, is the difference between the expectation of the test results (SpO2) and an\n      accepted reference value (SR). For pulse oximetry, this is, at a given value of the\n      reference SpO2, the difference between the y-value of the regression line at that coordinate\n      and the y-value of the line of identity, in a plot of SpO2 versus SR, or given by:\n\n      Local bias, bi = SpO2 fit,i \u2212 SRi\n\n      where SpO2 fit,i is the value of the curve fitted to the test data at the ith reference SpO2\n      value, SRi.\n\n      Mean bias, B, is mean difference between the test and reference values, preserving sign\n      (average of all local bias values):\n\n      Mean bias,  B = (\u2211i=1 to n (bi))/n\n\n      Precision is the closeness of agreement between independent test results obtained under\n      stipulated conditions, defined as the standard deviation of the residuals (Sres), given by:\n\n      Precision, Sres = \u221a(\u2211i=1 to n (SpO2i - SpO2fit,i)^2 )/(n-2))\n\n      where n is the number of data pairs in the sample within the range of interest; (SpO2,i \u2212\n      SpO2 fit,i) is the difference between the ith SpO2 datum and the value of the fitted curve\n      corresponding to the ith reference SpO2 value, SRi.\n\n      Accuracy of the pulse oximeter shall be stated in terms of the root-mean-square (rms)\n      difference between measured values (SpO2,i) and reference values (SRi), as given by:\n\n      Accuracy = \u221a((\u2211i=1 to n(SpO2i- SRi)^2 )/n)\n\n      To express ACCURACY relative to the \"gold-standard\" blood gas analysis, the error of the\n      secondary standard pulse oximeter (errorref) has to be included, thereby:\n\n      Accuracycorrected =  \u221aArms^2 + error(ref)^2\n\n      Evaluation of HR Readings from later subjects (at least 10) will be used to evaluate the\n      accuracy and validity of HR measurements from the novel oximeter. Paired HR readings from\n      the test oximeter and the reference oximeters are grouped into four ranges (40-65, 66-90,\n      91-115, and 116-140 beats per minute (bpm)). Mean bias, precision and accuracy are\n      calculated as per ISO definitions for each group of HR ranges and the overall range (40-140\n      bpm), as detailed previously for SpO2.\n\n      Evaluation of Respiratory Rate Readings from later subjects (at least 10) will be used to\n      evaluate the accuracy and validity of respiratory rate measurements extracted from the\n      plethysmogram that was recorded with the Camera Oximeter. Paired respiratory rate readings\n      from the test oximeter and the reference capnometry are grouped into three ranges (0-8,\n      9-16, and >17 breaths per minute). Mean bias, precision and accuracy are calculated for each\n      group of respiratory range and the overall range."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Non-smokers\n\n          -  UBC students age 18 and older or non-university students age 19 and older\n\n          -  No medical history of respiratory, cardiovascular and neurological problems (capable\n             of undergoing controlled hypoxemia down to SpO2 of 70%).\n\n        Exclusion Criteria:\n\n          -  Medical history including respiratory, cardiovascular and neurological problems\n\n          -  Smokers or individuals exposed to high levels of carbon monoxide that result in\n             elevated carboxyhemoglobin levels (interferes with oximetry readings)"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "30", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 16, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01732016", 
+            "org_study_id": "H12-02362"
+        }, 
+        "intervention": {
+            "arm_group_label": "Normobaric hypoxia chamber", 
+            "intervention_name": "Normobaric hypoxia chamber", 
+            "intervention_type": "Other"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "pulse oximeter", 
+            "oxygen saturation", 
+            "heart rate", 
+            "calibration", 
+            "accuracy"
+        ], 
+        "lastchanged_date": "August 23, 2013", 
+        "location": {
+            "contact": {
+                "email": "heng.gan@cw.bc.ca", 
+                "last_name": "Heng Gan, Dr", 
+                "phone": "604-875-2711"
+            }, 
+            "contact_backup": {
+                "email": "dmyers2@cw.bc.ca", 
+                "last_name": "Dorothy Myers", 
+                "phone": "604-875-2000", 
+                "phone_ext": "5319"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Vancouver", 
+                    "country": "Canada", 
+                    "state": "British Columbia", 
+                    "zip": "V6H 3V4"
+                }, 
+                "name": "BC Children's Hospital"
+            }, 
+            "investigator": [
+                {
+                    "last_name": "Mark Ansermino, Dr", 
+                    "role": "Principal Investigator"
+                }, 
+                {
+                    "last_name": "Guy Dumont, Dr", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Walter Karlen, Dr", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Heng Gan, Dr", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "James Rupert, Dr", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Michael Koehle, Dr", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Martin MacInnis", 
+                    "role": "Sub-Investigator"
+                }
+            ], 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "Canada"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "The Camera Oximeter: A Calibration Study", 
+        "overall_contact": {
+            "email": "heng.gan@cw.bc.ca", 
+            "last_name": "Heng Gan, Dr", 
+            "phone": "604-875-2711"
+        }, 
+        "overall_contact_backup": {
+            "email": "dmyers2@cw.bc.ca", 
+            "last_name": "Dorothy Myers", 
+            "phone": "604-875-2000", 
+            "phone_ext": "5319"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "Canada: Health Canada", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "October 2013", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Accurately calibrated Camera Oximeter for measuring oxygen saturation.", 
+            "measure": "Oxygen saturation", 
+            "safety_issue": "No", 
+            "time_frame": "Across 3 hours"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01732016"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Accurately calibrated Camera Oximeter for measuring heart rate.", 
+                "measure": "Heart rate", 
+                "safety_issue": "No", 
+                "time_frame": "Across 3 hours"
+            }, 
+            {
+                "description": "Accurately calibrated Camera Oximeter for measuring respiratory rate.", 
+                "measure": "Respiratory rate", 
+                "safety_issue": "No", 
+                "time_frame": "Across 3 hours"
+            }
+        ], 
+        "source": "University of British Columbia", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of British Columbia", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2013", 
+        "study_design": "Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "August 2013"
+    }
+}

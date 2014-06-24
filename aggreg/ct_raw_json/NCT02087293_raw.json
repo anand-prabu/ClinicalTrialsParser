@@ -1,0 +1,162 @@
+{
+    "clinical_study": {
+        "@rank": "158215", 
+        "acronym": "CEDAR", 
+        "arm_group": [
+            {
+                "arm_group_label": "Intervention group, IVR call, RPh counseling", 
+                "arm_group_type": "Experimental", 
+                "description": "Group receives interactive voice response automated call asking about side effects of newly prescribed medications; has opportunity to speak with study pharmacist via phone about medication"
+            }, 
+            {
+                "arm_group_label": "Control", 
+                "arm_group_type": "No Intervention", 
+                "description": "Intervention patients are matched with control patients; control patients have only chart review completed."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Specific Aim 1: To develop a patient-reported, EHR-integrated system to actively monitor the\n      safety and effectiveness of treatment for patients taking FDA-approved medications for one\n      of four common chronic conditions (diabetes, hypertension, insomnia, depression), with\n      integrated management support by a pharmacist.\n\n      Specific Aim 2: To measure the reach, effectiveness, adoption and implementation of this\n      integrated module for adult primary care patients in the Brigham and Women's Primary Care\n      Practice-Based Research Network."
+        }, 
+        "brief_title": "e-Pharmacovigilance II - Surveillance for Safety and Effectiveness - Calling for Earlier Detection of Adverse Reactions", 
+        "completion_date": {
+            "#text": "August 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Diabetes", 
+            "Depression", 
+            "Insomnia", 
+            "Hypertension"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Depression", 
+                "Depressive Disorder", 
+                "Hypertension"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "The study team has wide experience surveying primary care patients about medication\n      problems, and has established that this is an important component of detecting and\n      understanding ADEs among ambulatory patients.  In the first study, 18% of primary care\n      patients reported a problem due to a medication during the previous year, but this was\n      documented in only 3% of medical records.  A subsequent study found that 27% of patients\n      reported a medication-related symptom, but that only 69% of patients discussed this symptom\n      with their physician.   Upon being notified via this automated pharmacovigilance, physicians\n      changed therapy in response to 76% of these symptoms, and 21% symptoms that had not been\n      previously discussed resulted in a preventable ADE and 2% resulted in a preventable ADE.\n\n      During the prior CERT, the investigators developed an interactive voice response system\n      (IVRS) that interoperates with the health system EHR, and demonstrated that IVRS can be used\n      to monitor ambulatory patients to assess adherence, medication related symptoms, and ADEs.\n      This study builds on that initial work.\n\n      The safety of prescription drugs represents an ongoing public health concern.  A study by\n      the US General Accounting Office (GAO) found that 51% of all approved drugs have at least\n      one serious ADE that was not recognized during the approval process, reflecting the careful\n      selection and limited number of patients who participate in pre-approval trials.  While\n      pre-market studies detect commonly occurring ADEs and efficacy in rigorously selected\n      participants, they are not designed to assess safety and effectiveness in the broader\n      population of eventual users. While the FDA maintains a passive adverse event reporting\n      system, it is estimated that only about 1% of all ADEs and 10% of serious ADEs are reported,\n      and these case reports lack accurate denominators to estimate incidence. While efforts are\n      underway to substantially expand capacity for active surveillance using electronic health\n      records and claims data, these data may not fully capture the patient experience, as\n      clinicians often do not fully document  patients' symptoms.\n\n      Accurate ascertainment of ADEs and effectiveness in clinical practice requires real-time\n      systems that integrate patient-reported information with clinician decision-making.\n      Telephonic IVRS are a low-cost, sustainable way of reaching out to primary care populations,\n      independent of a visit. In addition to monitoring for ADEs, this technology could be used to\n      systematically assess treatment outcomes that are not commonly documented in the medical\n      chart such as functional status, sleep, and mood.\n\n      This 5 year project will have three phases: (1) development and pilot testing of the\n      integrated pharmacovigilance system; (2) implementation; and (3) assessment of the\n      translation and dissemination of the system, including data collection from both patients\n      and providers. The RE-AIM (Reach, Effectiveness, Adoption, Implementation, Maintenance)\n      conceptual model provides a framework to examine the success of translation and\n      dissemination of this system,  and will be used for the third phase of the project."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  receives primary care at one of the Brigham-affiliated ambulatory care clinics\n\n          -  has received a new prescription for an oral agent to treat diabetes,  hypertension,\n             depression, or insomnia\n\n          -  prescribed new target drug within last month by a provider at one of the\n             participating clinics\n\n        Exclusion Criteria:\n\n          -  not a true \"new start,\" i.e. patient new to clinic/health system\n\n          -  patient prescribed the drug for short term use, i.e. less than a week's dose\n\n          -  patient prescribed same drug less than 2 years prior"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "21 Years"
+        }, 
+        "enrollment": {
+            "#text": "38400", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "March 11, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02087293", 
+            "org_study_id": "2012-P000210"
+        }, 
+        "intervention": {
+            "arm_group_label": "Intervention group, IVR call, RPh counseling", 
+            "description": "patients receive automated phone call with questions about side effects and an opportunity to speak with a pharmacist", 
+            "intervention_name": "Intervention arm - automated call and phone-based pharmacist counseling", 
+            "intervention_type": "Behavioral"
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "March 12, 2014", 
+        "link": {
+            "description": "BWH HIT CERT", 
+            "url": "http://www.hit-cert.org/"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Boston", 
+                    "country": "United States", 
+                    "state": "Massachusetts", 
+                    "zip": "02115"
+                }, 
+                "name": "Brigham and Women's Hospital"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "e-Pharmacovigilance II - Surveillance for Safety and Effectiveness - Calling for Earlier Detection of Adverse Reactions", 
+        "other_outcome": {
+            "description": "How many people were successfully counseled on the phone by the pharmacist about medications - adherence, safety, side effects. How many people reported a side effect but chose not to speak with the pharmacist. How many people completed a partial survey via phone.", 
+            "measure": "Call metrics", 
+            "safety_issue": "No", 
+            "time_frame": "Ongoing assessment as part of quality assurance and quality improvment; final call disposition to be assigned to each patient 1-2 weeks following the 1st IVRS call (4-6 weeks following initiation of target drug) and the 2nd IVR call (4-6 months later)"
+        }, 
+        "overall_official": {
+            "affiliation": "Brigham and Women's Hospital", 
+            "last_name": "Gordon Schiff, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Enrolling by invitation", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "March 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Was medication thought to be associated with adverse drug reaction discontinued in the patient chart?", 
+            "measure": "Discontinuation of mediation", 
+            "safety_issue": "Yes", 
+            "time_frame": "6-8 months after initial recruitment"
+        }, 
+        "reference": [
+            {
+                "PMID": "23198749", 
+                "citation": "Haas JS, Klinger E, Marinacci LX, Brawarsky P, Orav EJ, Schiff GD, Bates DW. Active pharmacovigilance and healthcare utilization. Am J Manag Care. 2012 Nov 1;18(11):e423-8."
+            }, 
+            {
+                "PMID": "22764754", 
+                "citation": "Haas JS, Amato M, Marinacci L, Orav EJ, Schiff GD, Bates DW. Do package inserts reflect symptoms experienced in practice?: assessment using an automated phone pharmacovigilance system with varenicline and zolpidem in a primary care setting. Drug Saf. 2012 Aug 1;35(8):623-8. doi: 10.2165/11630650-000000000-00000."
+            }, 
+            {
+                "PMID": "21155192", 
+                "citation": "Linder JA, Haas JS, Iyer A, Labuzetta MA, Ibara M, Celeste M, Getty G, Bates DW. Secondary use of electronic health record data: spontaneous triggered adverse drug event reporting. Pharmacoepidemiol Drug Saf. 2010 Dec;19(12):1211-5. PubMed PMID: 21155192."
+            }, 
+            {
+                "PMID": "20623512", 
+                "citation": "Haas JS, Iyer A, Orav EJ, Schiff GD, Bates DW. Participation in an ambulatory e-pharmacovigilance system. Pharmacoepidemiol Drug Saf. 2010 Sep;19(9):961-9. doi: 10.1002/pds.2006."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02087293"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Brigham and Women's Hospital", 
+            "investigator_full_name": "Elissa Klinger", 
+            "investigator_title": "Research Project Manager", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": {
+            "description": "evidence of adverse drug reaction awareness in patient chart - ADR discussed with provider, dose changed, medication switched.", 
+            "measure": "Adverse drug reaction awareness", 
+            "safety_issue": "Yes", 
+            "time_frame": "6-8 months following recruitment"
+        }, 
+        "source": "Brigham and Women's Hospital", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Brigham and Women's Hospital", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "June 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Health Services Research", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2014"
+    }
+}

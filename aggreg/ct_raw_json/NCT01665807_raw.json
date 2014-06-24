@@ -1,0 +1,815 @@
+{
+    "clinical_study": {
+        "@rank": "13102", 
+        "arm_group": [
+            {
+                "arm_group_label": "Nurse-administered IM", 
+                "arm_group_type": "Experimental", 
+                "description": "Nurse-administered intramuscular influenza vaccine (Vaxigrip, 0.5 mL)"
+            }, 
+            {
+                "arm_group_label": "Self-administered intradermal", 
+                "arm_group_type": "Experimental", 
+                "description": "Self-administered intradermal influenza vaccine (Intanza 0.1 mL)"
+            }, 
+            {
+                "arm_group_label": "Repeat self-administration intradermal", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Self-administration of intradermal influenza vaccine (Intanza 0.1 mL) by participants who self-administered an intradermal vaccine in our 2010 study"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The investigators hypothesize that people working in an acute care hospital setting will be\n      able to successfully self-administer the intradermal vaccine (Intanza) in less time than\n      nurse-administration of the regular intramuscular influenza vaccine (Vaxigrip). The\n      investigators also hypothesize that people administering the intradermal vaccine for the\n      second time will take less time to successfully administer than people administering it for\n      the first time."
+        }, 
+        "brief_title": "A Time-motion Study Comparing Self- to Nurse-vaccination With Influenza Vaccine", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "Nurse-administered intramuscular influenza vaccine (Vaxigrip, 0.5 mL)\nVaxigrip : Influenza vaccine, trivalent, split-virion, inactivated, approved for the 2012-2013 influenza season in the northern hemisphere", 
+                            "title": "Nurse-administered IM"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "Self-administration of intradermal influenza vaccine (Intanza 0.1 mL) by participants who self-administered an intradermal vaccine in our 2010 study\nIntanza : Intanza influenza vaccine, trivalent split-virion, inactivated, approved for the 2012-2013 influenza season in northern hemisphere", 
+                            "title": "Repeat Self-administration Intradermal"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Self-administered intradermal influenza vaccine (Intanza 0.1 mL)\nIntanza : Intanza influenza vaccine, trivalent split-virion, inactivated, approved for the 2012-2013 influenza season in northern hemisphere", 
+                            "title": "Self-administered Intradermal"
+                        }, 
+                        {
+                            "@group_id": "B4", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "411"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "58"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "402"
+                                            }, 
+                                            {
+                                                "@group_id": "B4", 
+                                                "@value": "871"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "386"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "58"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "391"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "835"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "25"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "11"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "36"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@spread": "13.2", 
+                                                "@value": "44.0"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@spread": "11.3", 
+                                                "@value": "40.2"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@spread": "12.6", 
+                                                "@value": "41.2"
+                                            }, 
+                                            {
+                                                "@group_id": "B4", 
+                                                "@spread": "12.9", 
+                                                "@value": "42.5"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "295"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "39"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "282"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "616"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "113"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "19"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "119"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "251"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "213"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "40"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "192"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "445"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Canada"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "198"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "18"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "210"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "426"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Canada"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "description": "Time required to explain vaccination, obtain consent, administer vaccine, and register vaccination", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Nurse-administered intramuscular influenza vaccine (Vaxigrip, 0.5 mL)\nVaxigrip : Influenza vaccine, trivalent, split-virion, inactivated, approved for the 2012-2013 influenza season in the northern hemisphere", 
+                                    "title": "Nurse-administered IM"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Self-administration of intradermal influenza vaccine (Intanza 0.1 mL) by participants who self-administered an intradermal vaccine in our 2010 study\nIntanza : Intanza influenza vaccine, trivalent split-virion, inactivated, approved for the 2012-2013 influenza season in northern hemisphere", 
+                                    "title": "Repeat Self-administration Intradermal"
+                                }, 
+                                {
+                                    "@group_id": "O3", 
+                                    "description": "Self-administered intradermal influenza vaccine (Intanza 0.1 mL)\nIntanza : Intanza influenza vaccine, trivalent split-virion, inactivated, approved for the 2012-2013 influenza season in northern hemisphere", 
+                                    "title": "Self-administered Intradermal"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "408"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "57"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@value": "395"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "18.0", 
+                                                        "@upper_limit": "235.3", 
+                                                        "@value": "90.0"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "42.5", 
+                                                        "@upper_limit": "671.1", 
+                                                        "@value": "182.0"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@lower_limit": "29.8", 
+                                                        "@upper_limit": "97.7", 
+                                                        "@value": "62.6"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Time required to explain vaccination, obtain consent, administer vaccine, and register vaccination", 
+                                    "dispersion": "Full Range", 
+                                    "param": "Median", 
+                                    "title": "Time to Administer Influenza Vaccine (in Seconds)", 
+                                    "units": "seconds"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "Vaccination (Day 0)", 
+                        "title": "Time to Administer Influenza Vaccine (in Seconds)", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "The post-vaccination (Day 0) and follow-up (Day 8) questionnaires include questions on the participant's preference for intradermal or intramuscular injections and questions about their preference for administration by a healthcare provider or self-vaccination.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Follow up (Day 8)", 
+                        "title": "Acceptability of Vaccine", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "Successful administration, defined as being able to self-vaccinate (or for RN to provide vaccine) on the first attempt. Will be calculated using the number of participants who are successful divided by the number of participants randomized to group.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Nurse-administered intramuscular influenza vaccine (Vaxigrip, 0.5 mL)\nVaxigrip : Influenza vaccine, trivalent, split-virion, inactivated, approved for the 2012-2013 influenza season in the northern hemisphere", 
+                                    "title": "Nurse-administered IM"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Self-administration of intradermal influenza vaccine (Intanza 0.1 mL) by participants who self-administered an intradermal vaccine in our 2010 study\nIntanza : Intanza influenza vaccine, trivalent split-virion, inactivated, approved for the 2012-2013 influenza season in northern hemisphere", 
+                                    "title": "Repeat Self-administration Intradermal"
+                                }, 
+                                {
+                                    "@group_id": "O3", 
+                                    "description": "Self-administered intradermal influenza vaccine (Intanza 0.1 mL)\nIntanza : Intanza influenza vaccine, trivalent split-virion, inactivated, approved for the 2012-2013 influenza season in northern hemisphere", 
+                                    "title": "Self-administered Intradermal"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "409"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "58"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@value": "401"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "0"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "58"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@value": "394"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Successful administration, defined as being able to self-vaccinate (or for RN to provide vaccine) on the first attempt. Will be calculated using the number of participants who are successful divided by the number of participants randomized to group.", 
+                                    "param": "Number", 
+                                    "title": "Success Rate", 
+                                    "units": "participants"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "Vaccination (Day 0)", 
+                        "title": "Success Rate", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "Maximum self-reported diameter of redness, induration, and swelling, and maximum intensity and duration of itchiness, fever, muscle ache, joint pain, headache, fatigue, feeling unwell, and injection site pain as reported on Day 8 after vaccination", 
+                        "safety_issue": "No", 
+                        "time_frame": "Follow up (Day 8)", 
+                        "title": "Local & Systemic Reactogenicity", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "Self-perceived pain of injection will be recorded on an 11-point visual analogue scale immediately following vaccination (Day 0) and at follow-up (Day 8)", 
+                        "safety_issue": "No", 
+                        "time_frame": "Follow up (Day 8", 
+                        "title": "Pain at Injection Site", 
+                        "type": "Secondary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "Nurse-administered intramuscular influenza vaccine (Vaxigrip, 0.5 mL)\nVaxigrip : Influenza vaccine, trivalent, split-virion, inactivated, approved for the 2012-2013 influenza season in the northern hemisphere", 
+                            "title": "Nurse-administered IM"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "Self-administration of intradermal influenza vaccine (Intanza 0.1 mL) by participants who self-administered an intradermal vaccine in our 2010 study\nIntanza : Intanza influenza vaccine, trivalent split-virion, inactivated, approved for the 2012-2013 influenza season in northern hemisphere", 
+                            "title": "Repeat Self-administration Intradermal"
+                        }, 
+                        {
+                            "@group_id": "P3", 
+                            "description": "Self-administered intradermal influenza vaccine (Intanza 0.1 mL)\nIntanza : Intanza influenza vaccine, trivalent split-virion, inactivated, approved for the 2012-2013 influenza season in northern hemisphere", 
+                            "title": "Self-administered Intradermal"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "drop_withdraw_reason_list": {
+                            "drop_withdraw_reason": {
+                                "participants_list": {
+                                    "participants": [
+                                        {
+                                            "@count": "2", 
+                                            "@group_id": "P1"
+                                        }, 
+                                        {
+                                            "@count": "0", 
+                                            "@group_id": "P2"
+                                        }, 
+                                        {
+                                            "@count": "1", 
+                                            "@group_id": "P3"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Withdrawal by Subject"
+                            }
+                        }, 
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "411", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "58", 
+                                                "@group_id": "P2"
+                                            }, 
+                                            {
+                                                "@count": "402", 
+                                                "@group_id": "P3"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "409", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "58", 
+                                                "@group_id": "P2"
+                                            }, 
+                                            {
+                                                "@count": "401", 
+                                                "@group_id": "P3"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "2", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P2"
+                                            }, 
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P3"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "pre_assignment_details": "People who had self-administered intradermal influenza vaccine in past were only eligible for the \"repeat\" self-administration arm.\nNo other pre-assignment eligibility criteria.", 
+                "recruitment_details": "Sites: 2 acute care hospitals in Canada Dates: September 25, 2012 to November 20, 2012"
+            }, 
+            "point_of_contact": {
+                "email": "bcoleman@mtsinai.on.ca", 
+                "name_or_title": "Brenda L. Coleman, PhD,", 
+                "organization": "Mount Sinai Hospital, IDERU", 
+                "phone": "416-586-4800 ext 4538"
+            }
+        }, 
+        "completion_date": {
+            "#text": "December 2012", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Influenza", 
+            "Vaccination Site Reactions (HT)"
+        ], 
+        "condition_browse": {
+            "mesh_term": "Influenza, Human"
+        }, 
+        "detailed_description": {
+            "textblock": "Vaccination of healthcare workers has been shown to reduce mortality and morbidity in the\n      patients they care for, as well as reducing illness and absenteeism in the healthcare\n      workers themselves, and healthcare worker vaccination programs have been shown to be\n      cost-effective for hospitals because of the reduced absenteeism. Although influenza\n      vaccination programs based on nurse-administered intramuscular vaccination are effective,\n      easy access to vaccination for hospital staff remains a challenge, in part because of large\n      numbers of staff working evening, night and weekend shifts. In addition, in the Canadian\n      setting, increasing the efficiency of all hospital programs is a priority. If regular\n      recipients of seasonal vaccine became accustomed to the practice, self-administration may\n      significantly improve the efficiency of pandemic mass vaccination campaigns."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Medically stable men or women 18 to 69 years of age (inclusive)\n\n          -  Work in any capacity (including physicians and midwives with admitting privileges),\n             volunteer, or student at participating hospital\n\n          -  Able to read, understand, and respond to questionnaires\n\n          -  Able to read, understand, and sign an informed consent form\n\n          -  Available for follow-up for 8 days post-vaccination\n\n          -  Participants in Part B (repeat administration) of the study must also have\n             participated in the previous randomized control trial of self- versus\n             nurse-administered intradermal influenza vaccine and must have attempted to\n             self-administer the vaccine\n\n        Exclusion Criteria:\n\n          -  Already received 2012-13 influenza vaccine\n\n          -  History of a severe reaction following influenza vaccination\n\n          -  Known allergy to components of study vaccines (Intanza\u00ae or Vaxigrip\u00ae)\n\n          -  History of Guillain-Barr\u00e9 Syndrome (GBS) within 8 weeks following influenza\n             vaccination\n\n          -  Acute febrile illness (>37.9\u00baC orally) within the past 48 hours (participation may be\n             deferred until recovery for these subjects)"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "69 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "868", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "August 13, 2012", 
+        "firstreceived_results_date": "July 31, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01665807", 
+            "org_study_id": "SP1203"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Self-administered intradermal", 
+                    "Repeat self-administration intradermal"
+                ], 
+                "description": "Intanza influenza vaccine, trivalent split-virion, inactivated, approved for the 2012-2013 influenza season in northern hemisphere", 
+                "intervention_name": "Intanza", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "arm_group_label": "Nurse-administered IM", 
+                "description": "Influenza vaccine, trivalent, split-virion, inactivated, approved for the 2012-2013 influenza season in the northern hemisphere", 
+                "intervention_name": "Vaxigrip", 
+                "intervention_type": "Biological"
+            }
+        ], 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "influenza", 
+            "vaccine", 
+            "administration"
+        ], 
+        "lastchanged_date": "October 24, 2013", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Halifax", 
+                        "country": "Canada", 
+                        "state": "Nova Scotia"
+                    }, 
+                    "name": "Center for Vaccinology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toronto", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "M5G1X5"
+                    }, 
+                    "name": "Mount Sinai Hospital"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "Canada"
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "A Time-Motion Study to Compare Self-vaccination With Intanza\u00ae Intradermal Influenza Vaccine to Nurse-administered Vaxigrip\u00ae Intramuscular Influenza Vaccine in Small Group Settings of Health Care Workers", 
+        "overall_official": [
+            {
+                "affiliation": "Mount Sinai Hospital, New York", 
+                "last_name": "Brenda L Coleman, PhD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Mount Sinai Hospital, New York", 
+                "last_name": "Melissa Barton", 
+                "role": "Study Director"
+            }, 
+            {
+                "affiliation": "Mount Sinai Hospital, New York", 
+                "last_name": "Christine Moore", 
+                "role": "Study Director"
+            }, 
+            {
+                "affiliation": "Canadian Centre for Vaccinology", 
+                "last_name": "Shelly A McNeil, MD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Canadian Centre for Vaccinology", 
+                "last_name": "Joanne M Langley, MD", 
+                "role": "Study Director"
+            }, 
+            {
+                "affiliation": "Canadian Centre for Vaccinology", 
+                "last_name": "Scott A Halperin, MD", 
+                "role": "Study Director"
+            }, 
+            {
+                "affiliation": "Mount Sinai Hospital, New York", 
+                "last_name": "Allison J McGeer, MD, FRCPC", 
+                "role": "Principal Investigator"
+            }
+        ], 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Canada: Health Canada", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 4", 
+        "primary_completion_date": {
+            "#text": "December 2012", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Time required to explain vaccination, obtain consent, administer vaccine, and register vaccination", 
+            "measure": "Time to Administer Influenza Vaccine (in Seconds)", 
+            "safety_issue": "No", 
+            "time_frame": "Vaccination (Day 0)"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01665807"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Mount Sinai Hospital, Canada", 
+            "investigator_full_name": "Brenda Coleman", 
+            "investigator_title": "Clinical Scientist", 
+            "responsible_party_type": "Sponsor-Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "The post-vaccination (Day 0) and follow-up (Day 8) questionnaires include questions on the participant's preference for intradermal or intramuscular injections and questions about their preference for administration by a healthcare provider or self-vaccination.", 
+                "measure": "Acceptability of Vaccine", 
+                "safety_issue": "No", 
+                "time_frame": "Follow up (Day 8)"
+            }, 
+            {
+                "description": "Successful administration, defined as being able to self-vaccinate (or for RN to provide vaccine) on the first attempt. Will be calculated using the number of participants who are successful divided by the number of participants randomized to group.", 
+                "measure": "Success Rate", 
+                "safety_issue": "No", 
+                "time_frame": "Vaccination (Day 0)"
+            }, 
+            {
+                "description": "Maximum self-reported diameter of redness, induration, and swelling, and maximum intensity and duration of itchiness, fever, muscle ache, joint pain, headache, fatigue, feeling unwell, and injection site pain as reported on Day 8 after vaccination", 
+                "measure": "Local & Systemic Reactogenicity", 
+                "safety_issue": "No", 
+                "time_frame": "Follow up (Day 8)"
+            }, 
+            {
+                "description": "Self-perceived pain of injection will be recorded on an 11-point visual analogue scale immediately following vaccination (Day 0) and at follow-up (Day 8)", 
+                "measure": "Pain at Injection Site", 
+                "safety_issue": "No", 
+                "time_frame": "Follow up (Day 8"
+            }
+        ], 
+        "source": "Mount Sinai Hospital, Canada", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Sanofi Pasteur, a Sanofi Company", 
+                "agency_class": "Industry"
+            }, 
+            "lead_sponsor": {
+                "agency": "Brenda Coleman", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "September 2012", 
+        "study_design": "Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Health Services Research", 
+        "study_type": "Interventional", 
+        "verification_date": "October 2013"
+    }
+}

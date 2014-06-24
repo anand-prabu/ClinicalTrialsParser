@@ -1,0 +1,147 @@
+{
+    "clinical_study": {
+        "@rank": "157920", 
+        "arm_group": [
+            {
+                "arm_group_label": "Electronic Communication to Providers", 
+                "arm_group_type": "Experimental", 
+                "description": "Our intervention arm will consist of: 1) daily data extraction from patient medical charts to identify patients at risk of diagnostic delays for cancer; and 2) automated (electronic) communication to medical providers about which of their patients are experiencing potential delays."
+            }, 
+            {
+                "arm_group_label": "Usual Care", 
+                "arm_group_type": "No Intervention", 
+                "description": "In the usual care group, providers will continue to use the existing notification system to receive abnormal test results in accordance with institutional norms, policies, and procedures. There are no formal patient-tracking programs currently at our study sites. We will apply our computerized surveillance tools in the usual care arm only when we are ready to conduct the final chart reviews on intervention patients and identify these patients in similar time periods as in the intervention arm. If persistent delays are found, we will inform the patients' primary care providers."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Many missed and delayed cancer diagnoses result from breakdowns in communication and\n      coordination of abnormal findings suspicious for cancer, which often first emerge in the\n      primary care setting. Delays in the follow-up of abnormal test results persist despite the\n      reliable delivery of test results through the electronic health record.\n\n      This intervention is the final study in a three-phase project that will develop and test an\n      innovative automated surveillance intervention to improve timely diagnosis and follow-up of\n      five common cancers in primary care practice.\n\n      We hypothesize that the median time in days from diagnostic clue to follow-up action (e.g.\n      time to colonoscopy examination after am abnormal colon-related test) will be significantly\n      less in the intervention arm than in usual care. We also hypothesize that the proportion of\n      patients receiving appropriate and timely follow-up care will be significantly higher in the\n      intervention arm than in usual care."
+        }, 
+        "brief_title": "Automated Point-of-Care Surveillance of Outpatient Delays in Cancer Diagnosis (CREATE)", 
+        "completion_date": {
+            "#text": "January 2017", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Lung Cancer", 
+            "Prostate Cancer", 
+            "Colorectal Cancer", 
+            "Hepatocellular Carcinoma", 
+            "Breast Cancer"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Breast Neoplasms", 
+                "Carcinoma", 
+                "Colorectal Neoplasms", 
+                "Lung Neoplasms", 
+                "Prostatic Neoplasms", 
+                "Carcinoma, Hepatocellular"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "The CREATE Project encompasses three phases, the first and second of which do not contain\n      interventions. The first phase of the project determines the effectiveness of computerized\n      queries we develop to accurately identify which patients are at risk for delays in cancer\n      diagnosis. Patients we identify will have abnormal test results or symptoms that have not\n      been followed up by their providers. In Phase 2 of the study, the research team will use\n      interviewing and other participatory techniques to determine the best way to convey\n      information about such at-risk patients to providers in an automated fashion. In Phase 3 of\n      the project, we will evaluate the effects of an automated surveillance intervention on the\n      timeliness of the diagnostic process of five cancers.\n\n      This project will improve communication and coordination of cancer-related diagnostic\n      information to improve quality and safety."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Physicians, nurses, and other providers that are part of Veteran's Affairs Hospitals'\n             PACTs (Patient Aligned Care Teams)at both study sites who agree to participate in the\n             study\n\n          -  Intervention will be performed on those providers whose patients are electronically\n             identified to have suspected cancer defined as presence of any predefined clue for\n             cancer that is not followed-up in a timely manner.\n\n          -  Five cancers are included:\n\n               -  colorectal\n\n               -  lung\n\n               -  prostate\n\n               -  hepatocellular carcinoma\n\n               -  breast cancer\n\n          -  Patients will be selected from the data warehouse.\n\n        Exclusion Criteria:\n\n          -  Patient Aligned Care Teams (PACTs) at both study sites who do not wish to participate\n             in the study."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "21 Years"
+        }, 
+        "enrollment": {
+            "#text": "0", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "October 16, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01710293", 
+            "org_study_id": "CRE 12-033", 
+            "secondary_id": "H-32021"
+        }, 
+        "intervention": {
+            "arm_group_label": "Electronic Communication to Providers", 
+            "description": "In the first step of the intervention, we will automatically query the patient record database daily to identify possible lost to follow-up events in a pre-specified time period, using the computerized method developed in the first phase of the study. We will capture on a \"near-real time\" basis patients whose abnormal test results were not followed by an appropriate action. The output data containing the list of patients who have not been followed-up with after receiving abnormal test results will be transmitted to our communication engine.\nThe second step of the intervention will be electronic communication of surveillance data to the providers. The precise strategies for this communication will be informed by Phase 2 of the stud", 
+            "intervention_name": "Electronic Communication to Providers", 
+            "intervention_type": "Behavioral"
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "October 18, 2012", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60612"
+                    }, 
+                    "name": "Jesse Brown VA Medical Center, Chicago, IL"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77030"
+                    }, 
+                    "name": "Michael E DeBakey VA Medical Center"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Automated Point-of-Care Surveillance of Outpatient Delays in Cancer Diagnosis", 
+        "overall_official": {
+            "affiliation": "Michael E DeBakey VA Medical Center", 
+            "last_name": "Hardeep Singh, MD MPH BS", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Withdrawn", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "March 2016", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "We will conduct chart reviews of patients shown by our automated surveillance system to have not received appropriate follow-up care in both intervention and control groups at least 6 months after the first documentation of a diagnostic clue (e.g., initial abnormal chest X-ray). Chart review will be used to quantify time in days from documentation of the clinical clue to the time when follow-up action on that clue was initiated.", 
+            "measure": "Timeliness of Diagnosis", 
+            "safety_issue": "Yes", 
+            "time_frame": "1 year"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01710293"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Department of Veterans Affairs", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Baylor College of Medicine", 
+                "agency_class": "Other"
+            }, 
+            "lead_sponsor": {
+                "agency": "Department of Veterans Affairs", 
+                "agency_class": "U.S. Fed"
+            }
+        }, 
+        "start_date": "January 2015", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Single Blind, Primary Purpose: Health Services Research", 
+        "study_type": "Interventional", 
+        "verification_date": "October 2012", 
+        "why_stopped": "Not recruiting at this time. The first phase of this study is to develop an intervention."
+    }
+}

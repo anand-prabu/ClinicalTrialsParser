@@ -1,0 +1,224 @@
+{
+    "clinical_study": {
+        "@rank": "1318", 
+        "arm_group": [
+            {
+                "arm_group_label": "FC-RATE", 
+                "arm_group_type": "Experimental", 
+                "description": "Feedback-controlled robotics-assisted treadmill exercise"
+            }, 
+            {
+                "arm_group_label": "RATE", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Robotics-assisted treadmill exercise"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The propose of this study is to evaluate the feasibility and the clinical efficiency of\n      feedback-controlled robotics-assisted treadmill exercise (RATE) technology for\n      cardiovascular rehabilitation early after stroke. The investigators hypothesize that\n      feedback-controlled RATE might be suitable and effective to improve cardiovascular fitness\n      and functional carryover in non-ambulatory individuals with sub-acute stroke."
+        }, 
+        "brief_title": "Cardiovascular Rehabilitation Early After Stroke Using Feedback-controlled Robotics-assisted Treadmill Exercise", 
+        "completion_date": {
+            "#text": "April 2014", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Stroke", 
+            "Cardiovascular Diseases"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Cardiovascular Diseases", 
+                "Stroke", 
+                "Cerebral Infarction"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Clinical diagnosis of an initial supratentorial stroke\n\n          -  \u226420 weeks post stroke at intervention onset\n\n          -  Age \u226518 years\n\n          -  Functional Ambulation Category (FAC) \u22643\n\n          -  Ability to understand the procedures and provide informed consent\n\n        Exclusion Criteria:\n\n          -  Contraindications for exercise testing outlined by American College of Sports\n             Medicine (ACSM)\n\n          -  Contraindications for RATE according to the manufacturer\n\n          -  Concurrent neurological disease\n\n          -  Concurrent pulmonary disease\n\n          -  History of dementia"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "20", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "August 29, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01679600", 
+            "org_study_id": "CardioRobot"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "FC-RATE", 
+                "description": "Human-in-the-loop feedback system to control individual's active work rate", 
+                "intervention_name": "Feedback-controlled robotics-assisted treadmill exercise", 
+                "intervention_type": "Device", 
+                "other_name": "Lokomat system (Hocoma AG, Volketswil, Switzerland)"
+            }, 
+            {
+                "arm_group_label": "RATE", 
+                "description": "Conventional robotics-assisted treadmill exercise", 
+                "intervention_name": "Robotics-assisted treadmill exercise", 
+                "intervention_type": "Device", 
+                "other_name": "Lokomat system (Hocoma AG, Volketswil, Switzerland)"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Rehabilitation", 
+            "Robotics-assisted Treadmill Exercise", 
+            "Aerobic Capacity", 
+            "Exercise Testing"
+        ], 
+        "lastchanged_date": "April 21, 2014", 
+        "link": [
+            {
+                "description": "Institute for Rehabilitation and Performance Technology", 
+                "url": "http://irpt.ti.bfh.ch"
+            }, 
+            {
+                "description": "Reha Rheinfelden", 
+                "url": "http://www.reha-rheinfelden.ch/"
+            }
+        ], 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Rheinfelden", 
+                    "country": "Switzerland", 
+                    "state": "Aargau", 
+                    "zip": "4310"
+                }, 
+                "name": "Reha Rheinfelden"
+            }
+        }, 
+        "location_countries": {
+            "country": "Switzerland"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Cardiovascular Rehabilitation Early After Stroke Using Feedback-controlled Robotics-assisted Treadmill Exercise: A Randomised Controlled Pilot Trial", 
+        "overall_official": [
+            {
+                "affiliation": "Department of Epidemiology, Maastricht University and Caphri Research School, Maastricht, Netherlands", 
+                "last_name": "Rob A. de Bie, Prof.", 
+                "role": "Study Director"
+            }, 
+            {
+                "affiliation": "Institute for Rehabilitation and Performance Technology, Bern University of Applied Sciences, Burgdorf, Switzerland", 
+                "last_name": "Kenneth J. Hunt, Prof.", 
+                "role": "Study Director"
+            }, 
+            {
+                "affiliation": "Institute of Human Movement Sciences and Sport, ETH Zurich, Switzerland", 
+                "last_name": "Eling D. de Bruin, PD Dr.", 
+                "role": "Study Director"
+            }, 
+            {
+                "affiliation": "Reha Rheinfelden, Rheinfelden, Switzerland", 
+                "last_name": "Thierry Ettlin, Prof.", 
+                "role": "Principal Investigator"
+            }
+        ], 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Switzerland: Ethikkommission", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "April 2014", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Peak oxygen uptake (VO2peak), peak work rate (WRpeak), peak heart rate (HRpeak), peak expiratory volume (VEpeak), peak respiratory exchange ration (RERpeak), gas exchange threshold (GET), time constants of oxygen on-/off-kinetics (\u03c4), steady-state increase in oxygen uptake (\u0394VO2), steady-state increase in heart rate (\u0394HR), steady-state increase in expiratory volume (\u0394VE)", 
+            "measure": "Aerobic capacity", 
+            "safety_issue": "No", 
+            "time_frame": "Baseline (T0), after 4 weeks intervention (T1, Tx, Tx..), at clinical discharge (Tx) / Expected time to clinical discharge: 8 weeks"
+        }, 
+        "reference": [
+            {
+                "PMID": "22727172", 
+                "citation": "Stoller O, de Bruin ED, Knols RH, Hunt KJ. Effects of cardiovascular exercise early after stroke: systematic review and meta-analysis. BMC Neurol. 2012 Jun 22;12:45. doi: 10.1186/1471-2377-12-45. Review."
+            }, 
+            {
+                "PMID": "23597319", 
+                "citation": "Stoller O, Schindelholz M, Bichsel L, Schuster C, de Bie RA, de Bruin ED, Hunt KJ. Feedback-controlled robotics-assisted treadmill exercise to assess and influence aerobic capacity early after stroke: a proof-of-concept study. Disabil Rehabil Assist Technol. 2013 Apr 18. [Epub ahead of print]"
+            }, 
+            {
+                "PMID": "23510976", 
+                "citation": "Stoller O, de Bruin ED, Schindelholz M, Schuster C, de Bie RA, Hunt KJ. Evaluation of exercise capacity after severe stroke using robotics-assisted treadmill exercise: a proof-of-concept study. Technol Health Care. 2013;21(2):157-66. doi: 10.3233/THC-130730."
+            }, 
+            {
+                "PMID": "24053609", 
+                "citation": "Stoller O, de Bruin ED, Schuster-Amft C, Schindelholz M, de Bie RA, Hunt KJ. Cardiovascular rehabilitation soon after stroke using feedback-controlled robotics-assisted treadmill exercise: study protocol of a randomised controlled pilot trial. Trials. 2013 Sep 22;14(1):304. [Epub ahead of print]"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01679600"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Bern University of Applied Sciences", 
+            "investigator_full_name": "Oliver Stoller", 
+            "investigator_title": "cand. PhD", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "10 Meter Walk Test (gait speed)", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline (T0), after 4 weeks intervention (T1, Tx, Tx..), at clinical discharge (Tx) / Expected time to clinical discharge: 8 weeks"
+            }, 
+            {
+                "measure": "6 Minute Walk Test (walking endurance)", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline (T0), after 4 weeks intervention (T1, Tx, Tx..), at clinical discharge (Tx) / Expected time to clinical discharge: 8 weeks"
+            }, 
+            {
+                "measure": "Standing function (balance)", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline (T0), after 4 weeks intervention (T1, Tx, Tx..), at clinical discharge (Tx) / Expected time to clinical discharge: 8 weeks"
+            }, 
+            {
+                "measure": "Stroke Impact Scale (stroke recovery)", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline (T0), after 4 weeks intervention (T1, Tx, Tx..), at clinical discharge (Tx) / Expected time to clinical discharge: 8 weeks"
+            }, 
+            {
+                "measure": "Feasibility (criteria for success)", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline (T0), after 4 weeks intervention (T1, Tx, Tx..), at clinical discharge (Tx) / Expected time to clinical discharge: 8 weeks"
+            }
+        ], 
+        "source": "Bern University of Applied Sciences", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "Maastricht University", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Reha Rheinfelden", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Swiss Federal Institute of Technology", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "Bern University of Applied Sciences", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "August 2012", 
+        "study_design": "Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Single Blind (Outcomes Assessor), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2014"
+    }
+}

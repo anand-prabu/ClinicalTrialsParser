@@ -1,0 +1,122 @@
+{
+    "clinical_study": {
+        "@rank": "33434", 
+        "arm_group": [
+            {
+                "arm_group_label": "Alert", 
+                "arm_group_type": "Experimental", 
+                "description": "Text page sent to patient's covering provider and unit pharmacist informing them of the presence of AKI as detected by changes in serum creatinine."
+            }, 
+            {
+                "arm_group_label": "Usual Care", 
+                "arm_group_type": "No Intervention", 
+                "description": "Usual care arm. No alert will be provided to the patient's covering provider or unit pharmacist."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This study will randomize hospitalized patients with acute kidney injury (AKI) to usual\n      care, or an electronic alert intervention.  The electronic alert will be in the form of a\n      text page that will be sent to the covering clinician and unit pharmacist once per patient\n      with AKI at the time lab results are uploaded. The investigators hypothesize that such an\n      alert will improve outcomes in these patients."
+        }, 
+        "brief_title": "An Electronic Alert System for In-Hospital Acute Kidney Injury", 
+        "completion_date": {
+            "#text": "April 2014", 
+            "@type": "Actual"
+        }, 
+        "condition": "Acute Kidney Injury", 
+        "condition_browse": {
+            "mesh_term": [
+                "Acute Kidney Injury", 
+                "Wounds and Injuries"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Adults >=18 years\n\n          -  Admitted to the Hospital of the University of Pennsylvania for greater than 24 hours.\n\n        Exclusion Criteria:\n\n          -  Dialysis order within 24 hours of admission\n\n          -  Dialysis order prior to AKI onset\n\n          -  Initial creatinine >=4.0mg/dl\n\n          -  Prior admission in which patient was randomized.\n\n          -  Nephrectomy during the admission\n\n          -  Admission to hospice service\n\n          -  Admission to observation status"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "2393", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "May 16, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01862419", 
+            "org_study_id": "817822"
+        }, 
+        "intervention": {
+            "arm_group_label": "Alert", 
+            "intervention_name": "Alert", 
+            "intervention_type": "Other", 
+            "other_name": "Text page sent to patient's covering provider and unit pharmacist informing them of the presence of AKI as detected by changes in serum creatinine."
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "April 17, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Phiadelphia", 
+                    "country": "United States", 
+                    "state": "Pennsylvania", 
+                    "zip": "19104"
+                }, 
+                "name": "Hospital of the University of Pennsylvania"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "An Electronic Alert System for In-Hospital Acute Kidney Injury: A Randomized, Controlled Trial", 
+        "overall_official": [
+            {
+                "affiliation": "University of Pennsylvania", 
+                "last_name": "Barry Fuchs, MD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "University of Pennsylvania", 
+                "last_name": "Francis P Wilson, MD MSCE", 
+                "role": "Principal Investigator"
+            }
+        ], 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "April 2014", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "This metric will be sequentially ranked. The provision of acute dialysis therapy will be ranked as a more severe outcome than the worst relative change in creatinine and death will be ranked as a more severe outcome than dialysis.", 
+            "measure": "Composite of Death, dialysis, and peak relative change in creatinine", 
+            "safety_issue": "No", 
+            "time_frame": "From start of AKI to 7 days later"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01862419"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "University of Pennsylvania", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of Pennsylvania", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "September 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator, Outcomes Assessor), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2014"
+    }
+}

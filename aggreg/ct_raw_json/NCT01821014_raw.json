@@ -1,0 +1,202 @@
+{
+    "clinical_study": {
+        "@rank": "24992", 
+        "arm_group": [
+            {
+                "arm_group_label": "Telemedicine First", 
+                "arm_group_type": "Experimental", 
+                "description": "Patients whose first physician visit during the clinic was using videoconference, a form of telemedicine, and whose second physician visit during the clinic was with a physician in-person."
+            }, 
+            {
+                "arm_group_label": "Telemedicine Second", 
+                "arm_group_type": "Experimental", 
+                "description": "Patients whose first physician visit during the clinic was with a physician in-person, and whose second physician visit during the clinic was using videoconference, a form of telemedicine.  This is the reverse order of visits of the \"Telemedicine fist\" arm."
+            }, 
+            {
+                "arm_group_label": "Two physician visits", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Patients who had two sequential visits with different in-person physicians."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Much of the basic general medical care and chronic disease management in rural Honduras\n      comes from groups of volunteers setting up temporary clinics run by volunteers. These\n      clinics, also known as brigades, or medical missions, are often criticized for their lack of\n      quality and the lack of follow-up, both of which stem, in part, from understaffing with\n      volunteer physicians. This study is designed to assess if it is feasible, safe, and\n      acceptable to treat patients in short-term mobile medical clinics in rural Honduras using US\n      physicians connected with patients by videoconference."
+        }, 
+        "brief_title": "Satellite-supplementation of Medical Outreach Clinics: a Feasibility Study", 
+        "completion_date": {
+            "#text": "June 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Telemedicine", 
+            "Primary Health Care", 
+            "Developing Countries", 
+            "Diagnosis", 
+            "Therapeutics"
+        ], 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Able to give informed consent\n\n          -  Non-emergent medical complaints\n\n          -  At least 18 yrs in age\n\n        Exclusion Criteria:\n\n          -  Pregnancy\n\n          -  Mental Disability"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "144", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "March 20, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01821014", 
+            "org_study_id": "13-000132"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Telemedicine First", 
+                    "Telemedicine Second"
+                ], 
+                "description": "Patients undergo a detailed history and examination to the degree that is possible using the videoconference program, skype, a digital camera for high-resolution images, and an electronic stethoscope.  A clinic volunteer aids with examination, translation and documentation.", 
+                "intervention_name": "Telemedicine", 
+                "intervention_type": "Other", 
+                "other_name": [
+                    "Videoconference", 
+                    "Skype"
+                ]
+            }, 
+            {
+                "arm_group_label": [
+                    "Telemedicine First", 
+                    "Telemedicine Second", 
+                    "Two physician visits"
+                ], 
+                "description": "Patients undergo a detailed history and examination by an in-person physician.  A clinic volunteer aids with examination, translation and documentation, as needed.", 
+                "intervention_name": "In-person physician interaction", 
+                "intervention_type": "Other", 
+                "other_name": [
+                    "in-person visit", 
+                    "in-person examination", 
+                    "in-person consultation"
+                ]
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Diagnostic concordance", 
+            "Treatment concordance", 
+            "patient satisfaction", 
+            "physician satisfaction", 
+            "Medical Outreach Clinics", 
+            "Medical Brigades", 
+            "Medical Missions", 
+            "Telemedicine", 
+            "Videoconference", 
+            "diagnoses", 
+            "treatments", 
+            "Satellite Internet", 
+            "VSAT", 
+            "cross cultural telemedicine"
+        ], 
+        "lastchanged_date": "May 8, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Tegucigalpa", 
+                    "country": "Honduras", 
+                    "state": "Francisco Morazan"
+                }, 
+                "name": "Global Brigades"
+            }
+        }, 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Honduras"
+            ]
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "Satellite-supplementation of Medical Outreach Clinics: a Feasibility Study", 
+        "other_outcome": {
+            "description": "The costs of materials and services required to conduct the patient examinations will be collected to build an economic model and projected cost of scaling up the videoconference interventions.", 
+            "measure": "Cost", 
+            "safety_issue": "No", 
+            "time_frame": "One year (from pilot to completion of study)"
+        }, 
+        "overall_official": {
+            "affiliation": "Mayo Clinic", 
+            "last_name": "Bart Demaerschalk, MD/MSc", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": [
+                "United States: Institutional Review Board", 
+                "Honduras: Investigation Committee of Biomedical Ethics"
+            ], 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "June 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "The diagnoses resulting from the two physician visits will be compared and a cohen's kappa statistic will be calculated for diagnoses between the visits.", 
+                "measure": "Clinical Diagnoses", 
+                "safety_issue": "Yes", 
+                "time_frame": "Same Day as clinic visit (less than 6 hours)"
+            }, 
+            {
+                "description": "After each of a patient's two physician visits, the physician's resulting recommended treatments will be gathered for comparison between the two visits.", 
+                "measure": "Recommended clinical treatments", 
+                "safety_issue": "Yes", 
+                "time_frame": "Same Day as clinic visit (less than 6 hours)"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01821014"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Mayo Clinic", 
+            "investigator_full_name": "Bart M. Demaerschalk", 
+            "investigator_title": "PI", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Patients will receive a survey following each interaction with a doctor.  These surveys cover communication, comfort and satisfaction.", 
+                "measure": "Patient opinions of physician interactions", 
+                "safety_issue": "No", 
+                "time_frame": "Immediately following physician interactions (less than 6 hours)"
+            }, 
+            {
+                "description": "doctors will fill out a survey about their patient interactions after they complete their experience volunteering with the clinic.", 
+                "measure": "Physician opinions of patient interactions", 
+                "safety_issue": "No", 
+                "time_frame": "immediately following volunteer activities with the clinic (less than 48 hours)"
+            }, 
+            {
+                "description": "Volunteers who helped with physician interactions will receive a survey about their experience concerning physician patient communication, volunteer educational value and perceived value of the experience.", 
+                "measure": "Volunteer opinions of physician-patient interactions", 
+                "safety_issue": "No", 
+                "time_frame": "immediately following experience with the clinic (Less than 48 hours)"
+            }
+        ], 
+        "source": "Mayo Clinic", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Mayo Clinic", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "February 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2014"
+    }
+}

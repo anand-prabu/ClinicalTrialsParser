@@ -1,0 +1,141 @@
+{
+    "clinical_study": {
+        "@rank": "158159", 
+        "arm_group": {
+            "arm_group_label": "Error Enhancement", 
+            "arm_group_type": "Experimental", 
+            "description": "Error Enhancement"
+        }, 
+        "brief_summary": {
+            "textblock": "The purpose of this pilot study was to explore the impact of enhancement of the velocity\n      component error in the course of reaching movements of the impaired/hemiparetic limb in an\n      acute stroke subject. We hypothesized that the method would shift velocity profiles toward\n      the optimal, resulting in a reduction in error. A prototype robot. This robotic device\n      system has a two-dimensional motor, basic measurement capacities, and a robotic arm which is\n      engaged to the subject's upper-limb in a sitting position.\n\n      The enhancement of the velocity component error would shift velocity profiles toward the\n      optimal, resulting in a reduction in error."
+        }, 
+        "brief_title": "Error Enhancement of the Velocity Component", 
+        "completion_date": {
+            "#text": "May 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Stroke", 
+            "Hemiparesis"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Paresis", 
+                "Stroke", 
+                "Cerebral Infarction"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "The wrist of the subject is connected to the robotic arm by a strip which supports the arm\n      but allows free movements of the wrist. This configuration allows subjects with impaired\n      grasping ability to use the system. A bio-feedback system enables the subject to perform\n      various functional motor tasks that are presented on the screen in front of him. The\n      system's sensors detect motor errors or deviations from an optimal/proper movement\n      trajectory or velocity profile. Any deviation in direction, velocity, acceleration or\n      necessary force from the optimal trajectory results in applied robotic forces that enhance\n      such errors/deviations. The sensors and the applied forces all work and compute in real\n      time, so that the force measurements and the applied force are updated to the executed\n      movement."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Single stroke\n\n          -  Two to three weeks post Stroke\n\n          -  Able to understand simple commands\n\n          -  Able to perform some reaching movements with the affected arm.\n\n          -  No other neurological, neuromuscular, orthopedic disorders and visual deficit\n\n        Exclusion Criteria:\n\n          -  Perceptual, apraxic, or major cognitive deficits,\n\n          -  Shoulder joint subluxation or pain in the upper-limb, and\n\n          -  Spasticity > 1 (single muscle Modified Ashworth Scale)."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "80 Years", 
+            "minimum_age": "40 Years"
+        }, 
+        "enrollment": {
+            "#text": "7", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "June 20, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02017093", 
+            "org_study_id": "UHaifa", 
+            "secondary_id": "CEli"
+        }, 
+        "intervention": {
+            "arm_group_label": "Error Enhancement", 
+            "description": "Error Enhancement of the Velocity Component: The subjects were seated on comfortable chairs, individually adjusted, and connected to a manipulandum of deXtreme's prototype robot. We situated the chair so that the computer monitor could be clearly observed by the subject. Each subject's affected extremity was harnessed to a handle connected to a robotic arm accompanying the movement. All subjects performed the reaching task with their affected arm.", 
+            "intervention_name": "Error Enhancement deXtreme's prototype robot", 
+            "intervention_type": "Device", 
+            "other_name": [
+                "Experimental: Error Enhancement of the Velocity Component", 
+                "Control: No external force"
+            ]
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": "CVA, rehabilitation", 
+        "lastchanged_date": "December 19, 2013", 
+        "link": {
+            "url": "http://www.ncbi.nlm.nih.gov/pubmed/16249912"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Tel Aviv", 
+                    "country": "Israel"
+                }, 
+                "name": "Reuth Medical Center"
+            }
+        }, 
+        "location_countries": {
+            "country": "Israel"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Error Enhancement of the Velocity Component in the Course of Stroke Patients' Reaching Movements - A Pilot Study", 
+        "overall_official": {
+            "affiliation": "University of Haifa", 
+            "last_name": "Eli Carmeli, PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Israel: Ministry of Health", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "July 2012", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "In order to calculate the error enhancement, it is necessary to establish the optimal velocity profile. To do so we constructed optimal velocity profiles based on the average reports of six healthy people (aged 40-68) who had been directed to repeatedly perform the task. Ee selected three optimal profiles, which were ultimately plotted as 'Velocity vs. Time' and 'Velocity vs. Distance' diagrams.", 
+            "measure": "velocity error enhancement profile", 
+            "safety_issue": "No", 
+            "time_frame": "3 weeks"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02017093"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University of Haifa", 
+            "investigator_full_name": "Carmeli Eli", 
+            "investigator_title": "Prof", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": {
+            "description": "Determine the error enhancement functions around the average value of the error. These functions fall into three ranges. The first is the free band range, the segment of error which starts at zero and ends at a value that determines the extent of the error. For anything below that value, no force should be applied on the subject.", 
+            "measure": "Error enhancement functions around its average values", 
+            "safety_issue": "No", 
+            "time_frame": "3 weeks"
+        }, 
+        "source": "University of Haifa", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "Ben-Gurion University of the Negev", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Tel Aviv University", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "University of Haifa", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2009", 
+        "study_design": "Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Single Blind (Subject), Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "December 2013"
+    }
+}

@@ -1,0 +1,187 @@
+{
+    "clinical_study": {
+        "@rank": "73981", 
+        "acronym": "CALYPSO", 
+        "arm_group": {
+            "arm_group_label": "Real-time tracking & beam adjustment", 
+            "arm_group_type": "Experimental", 
+            "description": "Prostate cancer radiotherapy using real-time tracking"
+        }, 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to monitor movement of the prostate during radiotherapy and\n      adjust the radiation beam to account for any motion seen. This will increase the radiation\n      dose to the prostate and decrease the dose to the rectum and bladder."
+        }, 
+        "brief_title": "Feasibility Study Into Adjustment of the Radiation Beam to Account for Prostate Motion During Radiotherapy.", 
+        "completion_date": {
+            "#text": "December 2018", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Prostate Cancer", 
+        "condition_browse": {
+            "mesh_term": "Prostatic Neoplasms"
+        }, 
+        "detailed_description": {
+            "textblock": "Prostate cancer now accounts for one third of all new cancer diagnoses in men and\n      approximately 30% of men will have external beam radiotherapy as their primary local\n      therapy. Prostate motion during radiotherapy can be divided into interfraction and\n      intrafraction motion. Interfraction motion has been well established and has been largely\n      overcome by daily online image verification with either ultrasound, online CT or implanted\n      fiducial markers, however motion during the radiation beam on time (intrafraction motion) is\n      not corrected and can be the cause of significant errors in radiation dose delivery.\n\n      The most common technology utilised in 2012 to allow prostate gating is the Calypso system.\n      The Calypso system consists of implantable electromagnetic transponders, an array that\n      contains source and receiver coils, computers for data analysis and display purposes, and an\n      infrared camera system to localise the electromagnetic array in the treatment room. The\n      array is placed over the patient, and the source coil in the array emit an electromagnetic\n      signal that excites the transponders. Once the transponders are excited, the source coils\n      are turned off and the receiver coils detect the signal emitted from the excited\n      transponders. This process is repeated at a rate of 10 Hz, providing a realtime\n      radiofrequency localisation of the prostate triangulating three implanted beacons. The\n      current study will investigate using the continuous prostate positioning data from Calypso\n      to integrate with the treatment beam delivery and allow real-time adaptation based on the\n      prostate motion. This is called Realtime Dynamic Multileaf Collimator (DMLC) tracking. In\n      this technique the multileaf collimator motion is altered in the gantry head in real time\n      during beam delivery to account for the measured prostate motion.\n\n      The proposed study is examining the dosimetric impact of accounting for intrafraction motion\n      with Calypso and DMLC tracking. We hypothesise the improvements in delivered prostate dose\n      with DMLC tracking will be even greater than gating. This improved treatment delivery will\n      ensure that the prostate cancer receives the appropriate dose and that normal tissues are\n      spared from extra radiation."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients undergoing external beam radiotherapy at Northern Sydney Cancer Centre\n\n          -  Histologically proven prostate adenocarcinoma\n\n          -  Prostate Specific Antigen (PSA) obtained within 3 months prior to enrolment.\n\n          -  Patient must be able to have Varian Calypso beacons placed in the prostate (if on\n             anticoagulants, must be cleared by Local Medical Officer or cardiologist).\n\n          -  ECOG performance status 0-2\n\n          -  Ability to understand and the willingness to sign a written informed consent\n             document.\n\n          -  Body habitus enabling Calypso tracking (as per Calypso Determining a Patient's\n             Localisation Designation & Orientation before implantation)\n\n          -  Prostate dimension that allows leaf span with tracking margin of \u00b18mm\n\n        Exclusion Criteria:\n\n          -  Previous pelvic radiotherapy\n\n          -  Prior total prostatectomy\n\n          -  Pacemaker\n\n          -  Implantable defibrillator\n\n          -  Insulin infusion pump\n\n          -  Hip prosthesis\n\n          -  Unwilling or unable to give informed consent\n\n          -  Unwilling or unable to complete quality of life questionnaires."
+            }, 
+            "gender": "Male", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "85 Years", 
+            "minimum_age": "35 Years"
+        }, 
+        "enrollment": {
+            "#text": "30", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "January 9, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02033343", 
+            "org_study_id": "12-NSCCRO-P002"
+        }, 
+        "intervention": {
+            "arm_group_label": "Real-time tracking & beam adjustment", 
+            "description": "Radiotherapy delivered using Calypso radiofrequency emitting beacon guided real-time prostate localisation and beam adjustment using Dynamic Multi-leaf Collimator tracking software.", 
+            "intervention_name": "Prostate cancer radiotherapy using real-time tracking", 
+            "intervention_type": "Radiation"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Prostate Cancer", 
+            "Real-time tracking", 
+            "Radiotherapy", 
+            "Dynamic Multileaf Collimator"
+        ], 
+        "lastchanged_date": "January 9, 2014", 
+        "location": {
+            "contact": {
+                "email": "Thomas.Eade@health.nsw.gov.au", 
+                "last_name": "Thomas N Eade, MBBS", 
+                "phone": "+61 2 9463 1199"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "St Leonards", 
+                    "country": "Australia", 
+                    "state": "New South Wales", 
+                    "zip": "2065"
+                }, 
+                "name": "Northern Sydney Cancer Centre, Royal North Shore Hospital"
+            }, 
+            "investigator": [
+                {
+                    "last_name": "Thomas N Eade, RANZCR I&II", 
+                    "role": "Principal Investigator"
+                }, 
+                {
+                    "last_name": "Andrew Kneebone, MBBS", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Jeremy T Booth, PhD", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Paul Keall, PhD", 
+                    "role": "Sub-Investigator"
+                }
+            ], 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "Australia"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Phase I Feasibility Study of Prostate Cancer Radiotherapy Using Realtime Dynamic Multileaf Collimator Adaptation and Radiofrequency Tracking (Calypso)", 
+        "overall_contact": {
+            "email": "Thomas.Eade@health.nsw.gov.au", 
+            "last_name": "Thomas N Eade, FRANZCR", 
+            "phone": "+61 2 9463 1300"
+        }, 
+        "overall_official": {
+            "affiliation": "Royal North Shore Hospital", 
+            "last_name": "Thomas N Eade, MBBS", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": [
+                "Australia: Department of Health and Ageing Therapeutic Goods Administration", 
+                "Australia: Human Research Ethics Committee", 
+                "Australia: National Health and Medical Research Council"
+            ], 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "January 2018", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "The primary endpoint of this Pilot study is to evaluate the feasibility of implementing realtime adaptive radiotherapy using DMLC. This will be assessed as greater than 95% of fractions being successfully delivered (no equipment failures and tracking MLC follows beacons) with Calypso-guided tracking.", 
+            "measure": "Percentage of fractions being successfully delivered with Calypso-guided tracking.", 
+            "safety_issue": "No", 
+            "time_frame": "2 years"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02033343"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Royal North Shore Hospital", 
+            "investigator_full_name": "Dr. Thomas Eade", 
+            "investigator_title": "Radiation Oncologist", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Geometric alignment will be measured as average difference between beacon centroid and shifted MLC against original MLC.", 
+                "measure": "Improvement in overall beam-target geometric alignment.", 
+                "safety_issue": "No", 
+                "time_frame": "2 years"
+            }, 
+            {
+                "description": "Dosimetric improvement will be assessed by applying the methods of Poulsen to reconstruct delivered dose distributions for each fraction of patient cohort and summed total dose. Preliminary data demonstrates dose reconstruction to follow the planned dose distribution, potentially even for ultrahypofractionated cases with longer treatment duration and Flattening Filter Free (FFF) delivery with larger potential delivery error per time increment.", 
+                "measure": "Improvement in dosimetric coverage of prostate and normal healthy structures.", 
+                "safety_issue": "No", 
+                "time_frame": "2 years"
+            }, 
+            {
+                "description": "Portion of patients with grade 3 or greater genitourinary or gastrointestinal toxicity assessed using the Modified Radiation Therapy Oncology Group (RTOG) Toxicity Scale.", 
+                "measure": "Acute toxicity", 
+                "safety_issue": "Yes", 
+                "time_frame": "Assessed up to 12 weeks post treatment"
+            }, 
+            {
+                "description": "Ongoing reporting of gastrointestinal and genitourinary toxicity of the DMLC tracking cohort will be compared to matched pair controls using the modified RTOG scale.", 
+                "measure": "Late toxicity", 
+                "safety_issue": "Yes", 
+                "time_frame": "Up to five years"
+            }, 
+            {
+                "description": "Ongoing biochemical control of the DMLC tracking cohort will be compared to matched pair controls using Prostate Specific Antigen (PSA).", 
+                "measure": "Biochemical control", 
+                "safety_issue": "No", 
+                "time_frame": "Up to five years"
+            }
+        ], 
+        "source": "Royal North Shore Hospital", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "University of Sydney", 
+                "agency_class": "Other"
+            }, 
+            "lead_sponsor": {
+                "agency": "Royal North Shore Hospital", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "October 2013", 
+        "study_design": "Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2014"
+    }
+}

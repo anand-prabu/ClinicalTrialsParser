@@ -1,0 +1,132 @@
+{
+    "clinical_study": {
+        "@rank": "116136", 
+        "arm_group": [
+            {
+                "arm_group_label": "Saline", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Saline administered IV for 12 hours"
+            }, 
+            {
+                "arm_group_label": "Lower Dose", 
+                "arm_group_type": "Experimental", 
+                "description": "MST-188 loading dose 100 mg/kg IV for 1 hour followed by 25 mg/kg/hr for 11 hours"
+            }, 
+            {
+                "arm_group_label": "Higher Dose", 
+                "arm_group_type": "Experimental", 
+                "description": "MST-188 loading dose 200 mg/kg IV for 1 hour followed by 75 mg/kg/hr for 11 hours"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to evaluate  the safety and efficacy of MST-188 in subjects\n      receiving catheter-directed rt-PA for acute lower limb ischemia and to evaluate whether\n      treatment with MST-188 results in more rapid thrombolysis of the occlusion and more rapid\n      tissue perfusion in the effected blood vessel."
+        }, 
+        "brief_title": "Evaluation of MST-188 in Acute Lower Limb Ischemia", 
+        "condition": "Acute Limb Ischemia", 
+        "condition_browse": {
+            "mesh_term": "Ischemia"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Age \u226530 to  <80\n\n          -  Symptoms consistent with ALI in target lower limb classified as Rutherford Category\n             IIa or IIb\n\n          -  Subject is hospitalized or in the process of hospitalization for the treatment of ALI\n\n          -  Angiographic confirmation of thrombotic lower limb arterial occlusion\n\n        Exclusion Criteria:\n\n          -  Prosthetic bypass graft occlusion within 1 month of implantation or autogenous graft\n             occlusion within 6 months of placement\n\n          -  Treatment with a thrombolytic agent within the last 48 hours\n\n          -  Subject's laboratory results indicate inadequate organ function\n\n          -  NYHA Class IV congestive heart failure\n\n          -  Prior major amputation of the target limb\n\n          -  Other complications or contraindications for receiving rt-PA, anticoagulants, or\n             contrast media"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "80 Years", 
+            "minimum_age": "30 Years"
+        }, 
+        "enrollment": {
+            "#text": "60", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "March 18, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02093468", 
+            "org_study_id": "MST-188-07"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Lower Dose", 
+                    "Higher Dose"
+                ], 
+                "intervention_name": "MST-188", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Saline", 
+                "intervention_name": "Saline", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Tissue Plasminogen Activator"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "Acute limb ischemia", 
+            "ALI", 
+            "Acute lower extremity arterial occlusion"
+        ], 
+        "lastchanged_date": "March 20, 2014", 
+        "number_of_arms": "3", 
+        "official_title": "Evaluation of MST-188 in Acute Lower Limb Ischemia: A Phase 2 Randomized, Double-Blind, Placebo-Controlled, Multi-Center Clinical Trial Evaluating the Safety and Efficacy of MST-188 in Subjects With Acute Lower Limb Ischemia Receiving Catheter-Directed Recombinant Tissue Plasminogen Activator", 
+        "overall_contact": {
+            "last_name": "Mast Therapeutics CT.gov Call Center", 
+            "phone": "1-888-965-1238"
+        }, 
+        "overall_official": {
+            "affiliation": "Mast Therapeutics, Inc.", 
+            "last_name": "Santosh Vetticaden, PhD, MD", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Not yet recruiting", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "October 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": [
+            {
+                "measure": "Angiographic assessment of the change in the volume of thrombus (Exploratory endpoint)", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline, 8 and 24 hours"
+            }, 
+            {
+                "measure": "Assessment of the change in TcPO2 (Exploratory endpoint)", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline, 8, 12, and 24  hours"
+            }, 
+            {
+                "measure": "Number of participants with adverse events", 
+                "safety_issue": "Yes", 
+                "time_frame": "Randomization through 30 days post-treatment"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02093468"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Mast Therapeutics, Inc.", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Mast Therapeutics, Inc.", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "March 2014", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2014"
+    }
+}

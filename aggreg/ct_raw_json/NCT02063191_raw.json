@@ -1,0 +1,139 @@
+{
+    "clinical_study": {
+        "@rank": "154837", 
+        "acronym": "AF-Activate", 
+        "arm_group": [
+            {
+                "arm_group_label": "Atrial Fibrillation", 
+                "description": "Patients with atrial fibrillation during the EP study"
+            }, 
+            {
+                "arm_group_label": "Bundle Branch Block", 
+                "description": "Patient with bundle branch block during the course of the EP study"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This is a single center, non-randomized, unblinded study of patients who are followed at\n      Essentia Health - St. Mary's Medical Center and who are referred for a clinically indicated\n      diagnostic electrophysiology (EP) study with or without ablation. During the procedure,\n      events of atrial fibrillation, sinus rhythm and bundle branch block that may occur during\n      the course of the case will be saved electronically and analyzed offline. The stored data\n      will be evaluated off-line for changes in activation timing of the near and far field\n      ventricular signals of the stored events.\n\n      This proof-of-concept study will attempt to assess whether atrial fibrillation, or bundle\n      branch block can change activation timing compared to baseline sinus rhythm. If no\n      significant activation change is seen, then this finding can be used as a basis to\n      distinguish ventricular tachycardia from atrial fibrillation in future rhythm discrimination\n      methods."
+        }, 
+        "brief_title": "Activation Timing and Atrial Fibrillation", 
+        "completion_date": {
+            "#text": "January 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Arrhythmias, Cardiac", 
+            "Atrial Fibrillation", 
+            "Bundle Branch Block"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Arrhythmias, Cardiac", 
+                "Atrial Fibrillation", 
+                "Bundle-Branch Block", 
+                "Heart Block"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "General Approach: Single center, non-randomized, unblinded study of patients who are\n      followed at Essentia Health - St. Mary's Medical Center and who are referred for a\n      clinically indicated diagnostic EP study with or without ablation. During the procedure,\n      events of atrial fibrillation, sinus rhythm or bundle branch block that may occur during the\n      course of the case will be saved electronically and analyzed offline. These events may occur\n      during the routine, clinically indicated portion of the procedure and will be saved should\n      they occur. The stored data will be evaluated for changes in activation timing of the near-\n      and far field ventricular signals of the stored events.\n\n      Methods and Materials: Up to 50 patients will be enrolled by the primary investigator and/or\n      associate investigators. As part of a usual EP study, catheters are placed in the coronary\n      sinus and right ventricle. For studies involving catheter ablation of atrial fibrillation or\n      other complex arrhythmias, a 3-dimensional mapping system is frequently used for catheter\n      location in 3-dimensional space and is left to the clinical discretion of the operator at\n      the time of the procedure. An EP-Med WorkMate workstation will be used to record and measure\n      events as part of the usual clinical procedure.\n\n        1. Data Acquisition: During the course of the case, a catheters placed in the right\n           ventricular apex and coronary sinus will be used to record both near- and far-field\n           signal during episodes of atrial fibrillation, sinus rhythm and bundle branch\n           conduction disturbances should they occur. Near field-signal will be recorded between\n           the distal and proximal pair of the catheter located in the right ventricular apex.\n           Far-field signal will be measured between the distal electrode of the catheter in the\n           right ventricular apex and distal electrode of the coronary sinus catheter. If\n           3-dimensional mapping is available, the spatial location of the right ventricular and\n           coronary sinus catheters will be recorded. If 3-dimensional mapping is not available,\n           fluoroscopic maps of catheter positions will be obtained. Recorded signal will be saved\n           on the EP-Med WorkMate workstation at a sampling rate of 2000 Hz and amplitude of 78 nV\n           per unit.\n\n        2. Analysis: Patient identifiers will be purged from the saved events and printouts, and a\n           study identification number will be assigned. Those saved events will be extracted for\n           input into Matlab or Octave for analysis. Custom algorithms written by the primary\n           investigator will be used. Both the ventricular far-field and ventricular nearfield\n           electrograms will be analyzed. Initially, 3 consecutive ventricular signals during\n           sinus rhythm will be evaluated for each patient and averaged to estimate the activation\n           timing changes. A baseline template or reference activation sequence will be created\n           for each patient and will be used as the reference for all further events from that\n           patient. The signal will be rectified but no additional filtering will be applied.\n           Using the peak farfield signal as time 0, the difference between near- and far-field\n           peak signals will be measured and averaged for the three ventricular events. In turn\n           any available atrial fibrillation or bundle branch block conduction disturbance evens\n           will be analyzed using the same techniques. Differences between the reference\n           activation sequence and other events will be measured and compared. In Figure 1, the\n           upper pane shows an episode of baseline rhythm (sinus rhythm). During baseline rhythm\n           for this event, the near-field peak signal consistently comes after the far-field peak\n           signal. During ventricular tachycardia, the two peaks are nearly simultaneous,\n           representing a change in activation timing because of a change in the activation\n           circuit in the ventricles."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  any patient followed at Essentia Health - St. Mary's Medical Center, Duluth, MN and\n             who is referred for a diagnostic EP study with or without ablation.\n\n        Exclusion Criteria:\n\n          -  any patient who will undergo an EP study without usual placement of a coronary sinus\n             catheter;\n\n          -  any patient with permanent (chronic) atrial fibrillation or tachycardia who will not\n             undergo restoration of sinus rhythm during the course of the procedure as a usual\n             part of the procedure;\n\n          -  any patient who is not willing or unable to provide informed consent."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "Single center study of patients who are followed at Essentia Health - St. Mary's Medical\n        Center who are referred for a clinically indicated diagnostic EP study with or without\n        ablation."
+            }
+        }, 
+        "enrollment": {
+            "#text": "50", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "February 11, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02063191", 
+            "org_study_id": "EH13342"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Atrial Fibrillation", 
+            "Bundle Branch Block"
+        ], 
+        "lastchanged_date": "February 12, 2014", 
+        "location": {
+            "contact": {
+                "email": "michael.mollerus@essentiahealth.org", 
+                "last_name": "Michel E Mollerus, MD", 
+                "phone": "218-786-3443"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Duluth", 
+                    "country": "United States", 
+                    "state": "Minnesota", 
+                    "zip": "55805"
+                }, 
+                "name": "St. Mary's Medical Center"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_groups": "2", 
+        "official_title": "Proof-of-concept Study to Assess Ventricular Activation Timing During Atrial Fibrillation, or Bundle Branch Block and Sinus Rhythm", 
+        "overall_contact": {
+            "email": "michael.mollerus@essentiahealth.org", 
+            "last_name": "Michal E Mollerus, MD", 
+            "phone": "218-786-3443"
+        }, 
+        "overall_official": {
+            "affiliation": "Essentia Health", 
+            "last_name": "Michael E Mollerus, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "January 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Measurement of activation change in near- and far-field ventricular signal between sinus rhythm and atrial fibrillation and/or bundle branch block.", 
+            "measure": "Activation Timing Shift", 
+            "safety_issue": "No", 
+            "time_frame": "During the course of the EP study with all measurements being obtained within 12 hours"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02063191"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Essentia Health", 
+            "investigator_full_name": "Michael Mollerus", 
+            "investigator_title": "Physician", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "source": "Essentia Health", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Essentia Health", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2014", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "February 2014"
+    }
+}

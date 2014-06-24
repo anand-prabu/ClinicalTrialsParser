@@ -1,0 +1,526 @@
+{
+    "clinical_study": {
+        "@rank": "137725", 
+        "acronym": "BIODetectHFII", 
+        "arm_group": {
+            "arm_group_label": "Intracardiac Impedance Measurement", 
+            "arm_group_type": "Experimental"
+        }, 
+        "brief_summary": {
+            "textblock": "Heart Failure (HF) is one of the most frequent diagnoses upon hospitalization and is a major\n      cause of death. Cardiac resynchronization therapy (CRT) using an implantable device for\n      synchronous bi-ventricular stimulation leads to improvement of hemodynamic parameters,\n      physical capacity and quality of life. A continuous measurement of the left-ventricular\n      volume would provide information about heart performance and could be used for both heart\n      failure monitoring and optimization of CRT-therapy."
+        }, 
+        "brief_title": "Monitoring of Hemodynamics in Heart Failure Patients by Intracardiac Impedance Measurement", 
+        "condition": "Heart Failure", 
+        "condition_browse": {
+            "mesh_term": "Heart Failure"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  De novo CRT-patients\n\n          -  Planned implantation with a Lumax 740 HF-T device, a bipolar LV-lead and a true\n             bipolar RV-lead\n\n          -  NYHA class II or III\n\n          -  QRS \u2265 150 ms\n\n          -  LVEF between 15% and 35%\n\n          -  LVEDD \u2265 55 mm\n\n          -  Evaluable echo measurements\n\n        Exclusion Criteria:\n\n          -  Persistent or permanent atrial fibrillation\n\n          -  Heart surgery within the previous 3 months or planned for the time of study\n             participation; post-heart transplantation or listed for heart transplantation\n\n          -  Non-ambulatory patients\n\n          -  Chronic renal dialysis\n\n          -  Life expectancy less than 1 year due to a non-cardiac disease\n\n          -  Age < 18 years and/or limited contractual capability\n\n          -  Addiction to alcohol, medical drugs or illegal drugs\n\n          -  Pregnant or breast-feeding women\n\n          -  Participation in another clinical trial"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "60", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "October 16, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01711281", 
+            "org_study_id": "CR010"
+        }, 
+        "intervention": {
+            "arm_group_label": "Intracardiac Impedance Measurement", 
+            "intervention_name": "Intracardiac Impedance Measurement Algorithm (integrated in CRT-D device)", 
+            "intervention_type": "Device"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Heart Failure", 
+            "Implantable Cardioverter-Defibrillator", 
+            "Intracardiac Impedance Measurement", 
+            "Cardiac Resynchronization Therapy", 
+            "Home Monitoring", 
+            "Reverse Remodeling"
+        ], 
+        "lastchanged_date": "December 18, 2013", 
+        "location": [
+            {
+                "contact": {
+                    "email": "oe@rn.dk", 
+                    "last_name": "Ole Eschen, MD, PhD", 
+                    "phone": "+45 99324914"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Aalborg", 
+                        "country": "Denmark", 
+                        "zip": "DK-9100"
+                    }, 
+                    "name": "Aalborg Sygehus, Kardiologisk Afdeling"
+                }, 
+                "investigator": {
+                    "last_name": "Ole Eschen, MD, PhD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "jenniels@rm.dk", 
+                    "last_name": "Jens C Nielsen, MD, PhD, Prof.", 
+                    "phone": "+45 78450999"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Aarhus", 
+                        "country": "Denmark", 
+                        "zip": "8200"
+                    }, 
+                    "name": "Aarhus Universitetshospital, Hjertemedicinsk Afdeling B"
+                }, 
+                "investigator": {
+                    "last_name": "Jens C Nielsen, MD, PhD, Prof.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "nibru@geh.regionh.dk", 
+                    "last_name": "Niels E Bruun, MD, PhD, DMSc", 
+                    "phone": "+45 39777947"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Hellerup", 
+                        "country": "Denmark", 
+                        "zip": "2900"
+                    }, 
+                    "name": "Gentofte Hospital, Department P"
+                }, 
+                "investigator": {
+                    "last_name": "Niels E Bruun, MD, PhD, DMSc", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "brock@dadlnet.dk", 
+                    "last_name": "Jens B Johansen, MD, PhD", 
+                    "phone": "+45 66113333"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Odense", 
+                        "country": "Denmark", 
+                        "zip": "5000"
+                    }, 
+                    "name": "Odense University Hospital, Hjertemedicinsk Afdeling B"
+                }, 
+                "investigator": {
+                    "last_name": "Jens B Johansen, MD, PhD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "kjgutleben@hdz-nrw.de", 
+                    "last_name": "Klaus-J\u00fcrgen Gutleben, MD, PhD", 
+                    "phone": "+49 5731971327"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Bad Oeynhausen", 
+                        "country": "Germany", 
+                        "zip": "32545"
+                    }, 
+                    "name": "Herz- und Diabeteszentrum NRW"
+                }, 
+                "investigator": {
+                    "last_name": "Klaus-J\u00fcrgen Gutleben, MD, PhD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "mattias.roser@charite.de", 
+                    "last_name": "Mattias J Roser, MD, PhD", 
+                    "phone": "+49 30450553741"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Berlin", 
+                        "country": "Germany", 
+                        "zip": "13353"
+                    }, 
+                    "name": "Charit\u00e9 Campus Virchow-Klinik, Medizinische Klinik mit Schwerpunkt Kardiologie"
+                }, 
+                "investigator": {
+                    "last_name": "Mattias J Roser, MD, PhD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "c.butter@immanuel.de", 
+                    "last_name": "Christian Butter, MD, PhD, PD", 
+                    "phone": "+49 3338694610"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Bernau", 
+                        "country": "Germany", 
+                        "zip": "16321"
+                    }, 
+                    "name": "Herzzentrum Brandenburg, Immanuel Klinikum"
+                }, 
+                "investigator": {
+                    "last_name": "Christian Butter, MD, PhD, PD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "christoph.stellbrink@sk-bielefeld.de", 
+                    "last_name": "Christoph Stellbrink, MD, PhD, Prof.", 
+                    "phone": "+49 521 5813401"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Bielefeld", 
+                        "country": "Germany", 
+                        "zip": "33604"
+                    }, 
+                    "name": "Klinikum Bielefeld Mitte"
+                }, 
+                "investigator": {
+                    "last_name": "Christoph Stellbrink, MD, PhD, Prof.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "carsten.israel@evkb.de", 
+                    "last_name": "Carsten W. Israel, PD Dr. med.", 
+                    "phone": "+49 521 - 77277525"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Bielefeld", 
+                        "country": "Germany", 
+                        "zip": "Bielefeld"
+                    }, 
+                    "name": "Evangelisches Krankenhaus"
+                }, 
+                "investigator": {
+                    "last_name": "Carsten W. Israel, PD. Dr. med.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "oswald.hanno@mh-hannover.de", 
+                    "last_name": "Hanno HH Oswald, MD, PhD, PD", 
+                    "phone": "+49 5115326523"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Hannover", 
+                        "country": "Germany", 
+                        "zip": "30625"
+                    }, 
+                    "name": "Medizinische Hochschule Hannover, Klinik f\u00fcr Kardiologie und Angiologie"
+                }, 
+                "investigator": {
+                    "last_name": "Hanno HH Oswald, MD, PhD, PD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "istvan.szendey@mariahilf.de", 
+                    "last_name": "Istvan Szendey, MD, PhD,", 
+                    "phone": "+49 21618920"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "M\u00f6nchengladbach", 
+                        "country": "Germany", 
+                        "zip": "41063"
+                    }, 
+                    "name": "Kliniken Maria Hilf GmbH, Innere Medizin II, Klinik f\u00fcr Kardiologie"
+                }, 
+                "investigator": {
+                    "last_name": "Istvan Szendey, MD, PhD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "heidi.estner@med.uni-muenchen.de", 
+                    "last_name": "Heidi L. Estner, PD Dr. med.", 
+                    "phone": "+49 89 70956036"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "M\u00fcnchen", 
+                        "country": "Germany", 
+                        "zip": "81377"
+                    }, 
+                    "name": "Klinikum der Universit\u00e4t M\u00fcnchen - Grosshadern"
+                }, 
+                "investigator": {
+                    "last_name": "Heidi L. Estner, PD Dr. med.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "martin.stockburger@havelland-kliniken.de", 
+                    "last_name": "Martin Stickburger, PD Dr. med", 
+                    "phone": "+49 (0) 3321 42 1100"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Nauen", 
+                        "country": "Germany", 
+                        "zip": "16461"
+                    }, 
+                    "name": "Havellandklinik Nauen"
+                }, 
+                "investigator": {
+                    "last_name": "Martin Stockburger, PD Dr. med.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "herbert-naegele@krankenhaus-reinbek.de", 
+                    "last_name": "Herbert N\u00e4gele, MD, PhD, Prof.", 
+                    "phone": "+49 4072805158"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Reinbek", 
+                        "country": "Germany", 
+                        "zip": "21465"
+                    }, 
+                    "name": "Krankenhaus Reinbek St. Adolf-Stift, Innere Abt. Kardiologie"
+                }, 
+                "investigator": {
+                    "last_name": "Herbert N\u00e4gele, MD, PhD, Prof.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "Ritter_O@klinik.uni-wuerzburg.de", 
+                    "last_name": "Oliver Ritter, MD, PhD, Prof.", 
+                    "phone": "+49 931 20139033"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "W\u00fcrzburg", 
+                        "country": "Germany", 
+                        "zip": "97080"
+                    }, 
+                    "name": "Universit\u00e4tsklinikum W\u00fcrzburg, Medizinische Klinik und Poliklinik I, Medizinische Intensiv- und Notfallmedizin"
+                }, 
+                "investigator": {
+                    "last_name": "Oliver Ritter, MD, PhD, Prof.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "a.capucci@univpm.it", 
+                    "last_name": "Alessandro Capucci, Prof. Dr.", 
+                    "phone": "+39 71 5965440"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Ancona", 
+                        "country": "Italy", 
+                        "zip": "60126"
+                    }, 
+                    "name": "Azienda Ospedaliero Univesitaria, Ospedali Riuniti Umberto I- G.M. Lancisi- G. Salesi"
+                }, 
+                "investigator": {
+                    "last_name": "Alessandro Capucci, Prof. Dr.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Marcello Piacenti, Dr."
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Pisa", 
+                        "country": "Italy", 
+                        "zip": "56124"
+                    }, 
+                    "name": "Fondazione Toscana G. Monasterio"
+                }, 
+                "investigator": {
+                    "last_name": "Marcello Piacenti, Dr.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "l.van_erven@lumc.nl", 
+                    "last_name": "Lieselotte van Erven, MD, PhD", 
+                    "phone": "+31 715262020"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Leiden", 
+                        "country": "Netherlands", 
+                        "zip": "2333 ZA"
+                    }, 
+                    "name": "Leiden University Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Lieselotte van Erven, MD, PhD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "t.szilitorok@erasmusmc.nl", 
+                    "last_name": "Tam\u00e1s Szili-T\u00f6r\u00f6k, Dr. med.", 
+                    "phone": "+31 (0) 6 33330605"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Rotterdam", 
+                        "country": "Netherlands", 
+                        "zip": "3015CE"
+                    }, 
+                    "name": "Erasmus Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Tam\u00e1s Szili-T\u00f6r\u00f6k, Dr. med.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "p.p.h.m.delnoy@isala.nl", 
+                    "last_name": "Peter-Paul HM Delnoy, MD, PhD", 
+                    "phone": "+31 384247025"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Zwolle", 
+                        "country": "Netherlands", 
+                        "zip": "8011 JW"
+                    }, 
+                    "name": "Isala Klinieken, Hospital de Weezenlanden, Department of Cardiology"
+                }, 
+                "investigator": {
+                    "last_name": "Peter-Paul HM Delnoy, MD, PhD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "Denmark", 
+                "Germany", 
+                "Italy", 
+                "Netherlands"
+            ]
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Monitoring of Hemodynamics in Heart Failure Patients by Intracardiac Impedance Measurement", 
+        "other_outcome": {
+            "description": "SV will be assessed using a non-invasive blood pressure measurement device. SZ will be measured using the intracardiac impedance measurement.The parameters will be assessed during a sequential measurement being conducted in month 2 of the observational period. Hemodynamic changes will be actively provoked using the CRT-D system for overdrive-pacing.", 
+            "measure": "Intra-individual correlation coefficient r between stroke volume (SV) and stroke impedance (SZ).", 
+            "safety_issue": "No", 
+            "time_frame": "Month 2"
+        }, 
+        "overall_contact": {
+            "email": "helmuth.wagner@biotronik.com", 
+            "last_name": "Helmuth Wagner, Dr.", 
+            "phone": "+49 30 68905 1302"
+        }, 
+        "overall_official": [
+            {
+                "affiliation": "Aalborg University, Aalborg University Hospital", 
+                "last_name": "Peter Sogaard, MD, PhD, Prof.", 
+                "role": "Study Chair"
+            }, 
+            {
+                "affiliation": "Herz- und Diabeteszentrum NRW, Bad Oeynhausen", 
+                "last_name": "Klaus-J\u00fcrgen Gutleben, MD, PhD", 
+                "role": "Study Chair"
+            }
+        ], 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "Germany: Federal Institute for Drugs and Medical Devices", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 4", 
+        "primary_completion_date": {
+            "#text": "September 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "SV will be assessed using Echo Doppler Ao-VTI (Aortic velocity time integral). SZ will be measured in parallel using intracardiac impedance measurement. The parameters will be assessed during a sequential measurement being conducted in month 2 of the observational period. Hemodynamic changes will be actively provoked using the CRT-D system for overdrive-pacing.", 
+            "measure": "Intra-indivudual correlation coefficient r between stroke volume (SV) and stroke impedance (SZ).", 
+            "safety_issue": "No", 
+            "time_frame": "Month 2"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01711281"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "description": "LVESV will be assessed using echo Biplane Simpson's method. LVESZ will be measured using the intracardiac impedance measurement. The parameters will be assessed during a sequential measurement being conducted in month 2 of the observational period. Hemodynamic changes will be actively provoked using the CRT-D system for overdrive-pacing.", 
+            "measure": "Intra-individual correlation coefficient r between left-ventricular end-systolic volume (LVESV) and left-ventricular end-systolic impedance (LVESZ).", 
+            "safety_issue": "No", 
+            "time_frame": "Month 2"
+        }, 
+        "source": "Biotronik SE & Co. KG", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Biotronik SE & Co. KG", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "October 2012", 
+        "study_design": "Allocation: Non-Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "August 2013"
+    }
+}

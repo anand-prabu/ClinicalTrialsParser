@@ -1,0 +1,512 @@
+{
+    "clinical_study": {
+        "@rank": "11664", 
+        "arm_group": [
+            {
+                "arm_group_label": "Chemotherapy + Herceptin", 
+                "arm_group_type": "Experimental"
+            }, 
+            {
+                "arm_group_label": "Chemotherapy", 
+                "arm_group_type": "Active Comparator"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This study will assess the efficacy and safety of adding Herceptin to a\n      paclitaxel-containing regimen followed by cyclophosphamide/methotrexate/fluorouracil (CMF)\n      chemotherapy in women with locally advanced breast cancer and HER2/c-erbB-2 gene\n      amplification. In a parallel observational study patients with HER2-negative disease will\n      receive the same chemotherapy without Herceptin."
+        }, 
+        "brief_title": "A Study of Herceptin (Trastuzumab) in Combination Chemotherapy in Women With Locally Advanced Breast Cancer", 
+        "completion_date": {
+            "#text": "July 2012", 
+            "@type": "Actual"
+        }, 
+        "condition": "Breast Cancer", 
+        "condition_browse": {
+            "mesh_term": "Breast Neoplasms"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  female patients, >=18 years of age, with locally advanced breast cancer.\n\n        Exclusion Criteria:\n\n          -  previous therapy for any invasive malignancy."
+            }, 
+            "gender": "Female", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "334", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 25, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01998906", 
+            "org_study_id": "MO16432"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Chemotherapy + Herceptin", 
+                "description": "Neoadjuvant: Loading dose of 8 mg/kg intravenous infusion (IV), subsequent doses were 6 mg/kg. Following surgery, adjuvant treatment with Herceptin could be re-started (loading dose 8 mg/kg IV, subsequent doses 6 mg/kg) before or during radiotherapy treatment until 1 year after starting.", 
+                "intervention_name": "trastuzumab [Herceptin]", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "Chemotherapy + Herceptin", 
+                    "Chemotherapy"
+                ], 
+                "description": "Doxorubicin (60 mg/m2 intravenous [IV] infusion) every 3 weeks for 3 cycles", 
+                "intervention_name": "Doxorubicin", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "Chemotherapy + Herceptin", 
+                    "Chemotherapy"
+                ], 
+                "description": "Paclitaxel 150 mg/m2 IV infusion every 3 weeks for 3 cycles in combination with doxorubicin, followed by paclitaxel alone 175 mg/m2 IV infusion every 3 weeks for 4 cycles", 
+                "intervention_name": "Paclitaxel", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "Chemotherapy + Herceptin", 
+                    "Chemotherapy"
+                ], 
+                "description": "CMF: Cyclophosphamide (600 mg/m2 IV bolus), methotrexate (40 mg/m2 IV bolus), 5-fluorouracil (600 mg/m2 IV bolus) every 4 weeks for 3 cycles", 
+                "intervention_name": "CMF", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Doxorubicin", 
+                "Trastuzumab", 
+                "Paclitaxel"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "lastchanged_date": "December 3, 2013", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wien", 
+                        "country": "Austria", 
+                        "zip": "1090"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Muenchen", 
+                        "country": "Germany", 
+                        "zip": "80637"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bologna", 
+                        "country": "Italy", 
+                        "state": "Emilia-Romagna", 
+                        "zip": "40138"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Carpi", 
+                        "country": "Italy", 
+                        "state": "Emilia-Romagna", 
+                        "zip": "41012"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Udine", 
+                        "country": "Italy", 
+                        "state": "Friuli-Venezia Giulia", 
+                        "zip": "33100"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milano", 
+                        "country": "Italy", 
+                        "state": "Lombardia", 
+                        "zip": "20133"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pavia", 
+                        "country": "Italy", 
+                        "state": "Lombardia", 
+                        "zip": "27100"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Varese", 
+                        "country": "Italy", 
+                        "state": "Lombardia", 
+                        "zip": "21100"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Giovanni Rotondo", 
+                        "country": "Italy", 
+                        "state": "Puglia", 
+                        "zip": "71013"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sassari", 
+                        "country": "Italy", 
+                        "state": "Sardegna", 
+                        "zip": "07100"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pisa", 
+                        "country": "Italy", 
+                        "state": "Toscana", 
+                        "zip": "56100"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Trento", 
+                        "country": "Italy", 
+                        "state": "Trentino-Alto Adige", 
+                        "zip": "38100"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bellunoi", 
+                        "country": "Italy", 
+                        "state": "Veneto", 
+                        "zip": "32100"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Castelfranco Veneto", 
+                        "country": "Italy", 
+                        "state": "Veneto", 
+                        "zip": "31033"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mirano", 
+                        "country": "Italy", 
+                        "state": "Veneto", 
+                        "zip": "30035"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Santorso", 
+                        "country": "Italy", 
+                        "state": "Veneto", 
+                        "zip": "36014"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Vicenza", 
+                        "country": "Italy", 
+                        "state": "Veneto", 
+                        "zip": "36100"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lisboa", 
+                        "country": "Portugal", 
+                        "zip": "1099-023"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kazan", 
+                        "country": "Russian Federation", 
+                        "zip": "420029"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Moscow", 
+                        "country": "Russian Federation", 
+                        "zip": "115478"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Moscow", 
+                        "country": "Russian Federation", 
+                        "zip": "117837"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Moscow", 
+                        "country": "Russian Federation", 
+                        "zip": "129128"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Moscow", 
+                        "country": "Russian Federation", 
+                        "zip": "107005"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint-Petersburg", 
+                        "country": "Russian Federation", 
+                        "zip": "197758"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St Petersburg", 
+                        "country": "Russian Federation", 
+                        "zip": "197022"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Terrassa", 
+                        "country": "Spain", 
+                        "state": "Barcelona", 
+                        "zip": "08221"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jerez de La Frontera", 
+                        "country": "Spain", 
+                        "state": "Cadiz", 
+                        "zip": "11407"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Sebastian", 
+                        "country": "Spain", 
+                        "state": "Guipuzcoa", 
+                        "zip": "20080"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Barcelona", 
+                        "country": "Spain", 
+                        "zip": "08907"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Barcelona", 
+                        "country": "Spain", 
+                        "zip": "08035"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Barcelona", 
+                        "country": "Spain", 
+                        "zip": "08041"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Barcelona", 
+                        "country": "Spain", 
+                        "zip": "08022"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Madrid", 
+                        "country": "Spain", 
+                        "zip": "28041"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Valencia", 
+                        "country": "Spain", 
+                        "zip": "46009"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Valencia", 
+                        "country": "Spain", 
+                        "zip": "46010"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Zaragoza", 
+                        "country": "Spain", 
+                        "zip": "50009"
+                    }
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "Austria", 
+                "Germany", 
+                "Italy", 
+                "Portugal", 
+                "Russian Federation", 
+                "Spain"
+            ]
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "A Randomized, Open-label Study of the Effect of Paclitaxel, Doxorubicin, and CMF Neoadjuvant Chemotherapy, With and Without Herceptin, on Tumor Response in Women With HER2-positive Breast Cancer", 
+        "overall_official": {
+            "affiliation": "Hoffmann-La Roche", 
+            "last_name": "Clinical Trials", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Italy: Ministry of Health"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "July 2012", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "Event-free survival", 
+            "safety_issue": "No", 
+            "time_frame": "Approximately 9 years"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01998906"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Pathological complete response rate", 
+                "safety_issue": "No", 
+                "time_frame": "Approximately 8 months"
+            }, 
+            {
+                "measure": "Overall clinical response rate", 
+                "safety_issue": "No", 
+                "time_frame": "Approximately 8 months"
+            }, 
+            {
+                "measure": "Overall survival", 
+                "safety_issue": "No", 
+                "time_frame": "Approximately 9 years"
+            }, 
+            {
+                "measure": "Safety: Incidence of adverse events", 
+                "safety_issue": "No", 
+                "time_frame": "Approximately 9 years"
+            }, 
+            {
+                "measure": "Changes in left ventricular ejection fraction (LVEF)", 
+                "safety_issue": "No", 
+                "time_frame": "From baseline to approximately 9 years"
+            }
+        ], 
+        "source": "Hoffmann-La Roche", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Hoffmann-La Roche", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "May 2002", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "December 2013"
+    }
+}

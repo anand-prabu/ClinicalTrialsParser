@@ -1,0 +1,231 @@
+{
+    "clinical_study": {
+        "@rank": "92350", 
+        "acronym": "AAA 2D/3D II", 
+        "arm_group": {
+            "arm_group_label": "Rigid and Elastic registration softwares", 
+            "arm_group_type": "Experimental"
+        }, 
+        "brief_summary": {
+            "textblock": "An increasing incidence of abdominal aortic aneurysms (AAA) is observed in our ageing\n      population. Since it is less invasive, endovascular repair (EVAR) by stent-graft (SG)\n      insertion is frequently indicated in patients with intermediate and high-operative risk.\n      Patient selection and stent planning for EVAR is done on CT-scans based on specific anatomic\n      criteria. SG are inserted in the catheterization laboratory under digital substraction\n      angiography (DSA) and fluoroscopic guidance. With this technology, no soft-tissue\n      differentiation is available during the intervention and important information are lacking\n      such as thrombus and aneurysm extension close to proximal and distal landing zones. Our team\n      has recently patented a software allowing the extraction of the AAA (lumen and thrombus)\n      from pre-operative CT-scanner. In collaboration with Siemens medical, the investigators have\n      integrated this technology to the Siemens workstation in the catheterization laboratory. The\n      investigators can now import the aortic lumen and thrombus meshes segmented from\n      pre-operative CT-scans and perform a rigid registration with fluoroscopy and DSA data to\n      enhance visualization of soft tissue during EVAR.\n\n      Our preliminary results are encouraging in terms of feasibility and visualization. However,\n      the delivery device of the SG and the guidewire used during the intervention are stiff and\n      induce a deformation of aortic lumen and thrombus. This deformation impairs the accuracy of\n      rigid registration. The investigators propose to improve registration accuracy by\n      implementing an elastic deformation of aortic lumen and wall based on the segmentation of\n      endovascular devices (delivery device, guidewires and catheters) inserted during the\n      procedure and by biomechanical modeling."
+        }, 
+        "brief_title": "Enhanced Guidance for Endovascular Repair of Abdominal Aortic Aneurysm", 
+        "completion_date": {
+            "#text": "September 2016", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Aortic Aneurysm, Abdominal", 
+        "condition_browse": {
+            "mesh_term": [
+                "Aneurysm", 
+                "Aortic Aneurysm", 
+                "Aortic Aneurysm, Abdominal"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "This project has 3 objectives: 1. To implement and validate a new optimized workflow\n      enabling rigid registration between AAA meshes extracted from preoperative CT-scan with\n      fluoroscopic images. 2. To develop an elastic registration of the AAA meshes based on 2D or\n      3D modeling of the endovascular device. 3. To validate the accuracy of elastic registration\n      and compare it with the rigid registration.\n\n      Experimental protocol: These 3 objectives will be completed in three experimental phases:\n\n        1. Improvement and implementation of the current rigid registration software. In this\n           phase, several new features such as an improved correction system by automatic capture\n           of DSA, an automated 3D/3D rigid registration, recognition of the origin of internal\n           iliac arteries will be implemented. This new beta version will be tested in 20 patients\n           at CHUM Research center and Dalhousie University-QEII Health Sciences Centre.\n\n        2. Implementation of an elastic registration based on endovascular device segmentation and\n           center line corrections. The luminal path of the segmented lumen on preoperative\n           CT-scan will be aligned with the path of the endovascular devices, then an elastic\n           deformation of the aortic lumen and thrombus meshes generated from CT-scanner will be\n           applied and registered to fluoroscopic and DSA images. A workflow allowing a fast\n           recognition and segmentation of endovascular devices from one to three stereotaxic\n           fluoroscopic views will be implemented in the Leonardo workstation and tested off-line\n           on the previous 20 patient database and also in-vitro in realistic phantoms.\n\n        3. Online validation of elastic registration: The best strategy as defined above will be\n           validated clinically on-line. The beta version will be tested in real time in 20\n           patients requiring SG procedures and compared to the prior cohort having EVAR/FEVAR\n           procedures with rigid registration. The accuracy of rigid and elastic registrations\n           will be compared in the two experimental groups."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients with a clinical indication for EVAR/FEVAR of AAA and meeting anatomic\n             inclusion criteria on preoperative enhanced CT-scan compatible with an endovascular\n             repair.\n\n          -  Willing and capable of providing informed consent\n\n        Exclusion Criteria:\n\n          -  Contraindication to endovascular repair\n\n          -  Creatinine clearance < 30ml/min\n\n          -  History of severe allergy to iodinated contrast (anaphylaxis,     bronchospasm)\n\n          -  Absence of recent previous thin-slice enhanced CT-scanner examination (stent planning\n             based on MRI examination or non-enhanced CT examination)."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "40", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "April 2, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01824654", 
+            "org_study_id": "CE12.333"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Rigid and Elastic registration softwares", 
+                "description": "Several new features of this beta software such as an improved correction system by automatic capture of DSA, an automated 3D/3D rigid registration, recognition of the origin of internal iliac arteries will be implemented. This new beta version will be tested in 20 cases of EVAR/FEVAR at CHUM Research center and Dalhousie University-QEII Health Sciences Centre.", 
+                "intervention_name": "Validation of the new rigid registration software", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": "Rigid and Elastic registration softwares", 
+                "description": "This software integrating deformation of vasculature induced by insertion of endovascular devices will be tested in real time in 20 patients requiring SG procedures at CHUM Research center and Dalhousie University-QEII Health Sciences Centre and compared to the prior cohort having EVAR/FEVAR procedures with rigid registration.", 
+                "intervention_name": "Validation of the new elastic registration software", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Aortic Aneurysm, Abdominal", 
+            "Imaging, Three-Dimensional", 
+            "Tomography Scanners, X-Ray Computed", 
+            "Angiography, Digital Subtraction", 
+            "Endovascular Procedures", 
+            "Radiography, Interventional"
+        ], 
+        "lastchanged_date": "April 4, 2013", 
+        "location": [
+            {
+                "contact": {
+                    "email": "cblightf@dal.ca", 
+                    "last_name": "Christopher Lightfoot, MD", 
+                    "phone": "902-473-2018"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Halifax", 
+                        "country": "Canada", 
+                        "state": "Nova Scotia", 
+                        "zip": "B3H 2Y9"
+                    }, 
+                    "name": "Queen Elizabeth II Health Science Centre"
+                }, 
+                "investigator": {
+                    "last_name": "Christopher Lightfoot, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "andree.cliche.chum@ssss.gouv.qc.ca", 
+                    "last_name": "Andr\u00e9e Cliche, RN, M.Sc.", 
+                    "phone": "514-890-8000", 
+                    "phone_ext": "28212"
+                }, 
+                "contact_backup": {
+                    "email": "jennifer.satterthwaite.chum@ssss.gouv.qc.ca", 
+                    "last_name": "Jennifer Satterthwaite, M.Sc.", 
+                    "phone": "514-890-8000", 
+                    "phone_ext": "23483"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Montreal", 
+                        "country": "Canada", 
+                        "state": "Quebec", 
+                        "zip": "H2L 4M1"
+                    }, 
+                    "name": "Centre Hospitalier de l'universit\u00e9 de Montr\u00e9al"
+                }, 
+                "investigator": [
+                    {
+                        "last_name": "Gilles Soulez, MD.M.Sc.", 
+                        "role": "Principal Investigator"
+                    }, 
+                    {
+                        "last_name": "Guy Cloutier, PhD", 
+                        "role": "Sub-Investigator"
+                    }, 
+                    {
+                        "last_name": "Jacques DeGuise, PhD", 
+                        "role": "Sub-Investigator"
+                    }, 
+                    {
+                        "last_name": "St\u00e9phane Elkoury, MD", 
+                        "role": "Sub-Investigator"
+                    }, 
+                    {
+                        "last_name": "Claude Kauffmann, PhD", 
+                        "role": "Sub-Investigator"
+                    }, 
+                    {
+                        "last_name": "An Tang, MD", 
+                        "role": "Sub-Investigator"
+                    }, 
+                    {
+                        "last_name": "\u00c9ric Therasse, MD", 
+                        "role": "Sub-Investigator"
+                    }
+                ], 
+                "status": "Not yet recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": "Canada"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Endovascular Repair of Abdominal Aortic Aneurysm: Enhanced Guidance by Elastic Registration Between CT-Scanner and Fluoroscopy", 
+        "overall_contact": {
+            "email": "andree.cliche.chum@ssss.gouv.qc.ca", 
+            "last_name": "Andr\u00e9e Cliche, RN, M.Sc.", 
+            "phone": "514-890-8000", 
+            "phone_ext": "28212"
+        }, 
+        "overall_contact_backup": {
+            "email": "jennifer.satterthwaite.chum@ssss.gouv.qc.ca", 
+            "last_name": "Jennifer Satterthwaite, M.Sc.", 
+            "phone": "514-890-8000", 
+            "phone_ext": "23483"
+        }, 
+        "overall_official": {
+            "affiliation": "Centre Hospitalier de l'Universit\u00e9 de Montr\u00e9al", 
+            "last_name": "Gilles Soulez, MD,MSc", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Not yet recruiting", 
+        "oversight_info": {
+            "authority": [
+                "Canada: Canadian Institutes of Health Research", 
+                "Canada: Ethics Review Committee"
+            ], 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "March 2016", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "The measure of  the mean 2D error in the z axis (cranio-caudal direction) of the renal arteries marker positions on the first DSA acquisition performed after insertion of the main body delivery device (before correction). It will be measured after exportation of the video on the Leonardo screen overlaying DSA and rigid registration of AAA meshes and renal markers.", 
+                "measure": "Clinical validation of the new rigid registration software", 
+                "safety_issue": "No", 
+                "time_frame": "Day 0: On the first DSA acquisition performed after insertion of the main body device (before correction)"
+            }, 
+            {
+                "description": "The measure of the mean 2D error of renal artery marker position (z direction) on the first DSA acquisition performed after insertion of the main body delivery device as describe in the clinical validation of the new rigid registration software.", 
+                "measure": "Clinical validation of the new elastic registration software", 
+                "safety_issue": "No", 
+                "time_frame": "Day 0: On the first DSA acquisition performed after insertion of the main body delivery device (before correction)"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01824654"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Centre hospitalier de l'Universit\u00e9 de Montr\u00e9al (CHUM)", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "Siemens AG", 
+                    "agency_class": "Industry"
+                }, 
+                {
+                    "agency": "Canadian Institutes of Health Research  (CIHR)", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Queen Elizabeth II Health Sciences Centre", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "Centre hospitalier de l'Universit\u00e9 de Montr\u00e9al (CHUM)", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "April 2013", 
+        "study_design": "Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Supportive Care", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2013"
+    }
+}

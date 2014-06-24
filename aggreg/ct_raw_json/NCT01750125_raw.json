@@ -1,0 +1,105 @@
+{
+    "clinical_study": {
+        "@rank": "43419", 
+        "arm_group": {
+            "arm_group_label": "Healthy subjects", 
+            "description": "In these health subjects we will measure ascending aortic blood flow with pulse wave Doppler and also record the raw audio of the Doppler signal"
+        }, 
+        "brief_summary": {
+            "textblock": "The investigators hypothesize that performance of fast-Fourier transformation on the raw\n      Doppler signals obtained from ascending aortic blood flow will recreate the pulse wave\n      Doppler trace visualized on modern echocardiography machines, and that this will allow for\n      the measurement and recording of vascular flow waveforms"
+        }, 
+        "brief_title": "Validation of Pulse Wave Doppler Demodulation Algorithm for the Continuous, Non-invasive Measurement of Blood Flow Velocity", 
+        "completion_date": {
+            "#text": "January 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": "Focus is on Healthy Subjects", 
+        "detailed_description": {
+            "textblock": "Currently there is no commercially available mechanism for the measurement of blood flow\n      velocity waveforms non-invasively.  Blood flow velocity waveforms require the use of\n      invasive catheters, thus precluding clinical use.  Such information would allow the\n      researcher / practitioner the ability to continuously measure blood flow, pulse pressure,\n      and the pulsatility index of any vascular structure accessible by ultrasound with minimal\n      additional risk to the subject / patient.  This data, when combined with arterial blood\n      pressure data, could also be used to measure peripheral pressure volume loops as well as\n      aortic vascular impedance, both of which cannot be currently measured in vivo.\n\n      The ability to measure blood flow velocity waveforms at high temporal resolution would\n      provide clinicians with new tools for hemodynamic optimization (both a novel means of\n      estimating myocardial oxygen consumption [pressure volume area] as well as afterload [aortic\n      vascular impedance]) and researchers with the ability to conduct hemodynamic experiments\n      that were not previously possible.  This work will serve as the foundation for several other\n      related projects which depend on the ability to continuously record blood flow velocity\n      waveforms."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  18-65\n\n          -  Healthy\n\n        Exclusion Criteria:\n\n          -  Cannot visualize ascending aorta with ultrasound"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "65 Years", 
+            "minimum_age": "18 Years", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "Healthy subjects 18-65"
+            }
+        }, 
+        "enrollment": {
+            "#text": "10", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "December 12, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01750125", 
+            "org_study_id": "16305"
+        }, 
+        "intervention": {
+            "arm_group_label": "Healthy subjects", 
+            "intervention_name": "measure ascending aortic blood flow with pulse wave Doppler", 
+            "intervention_type": "Device"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": "Doppler", 
+        "lastchanged_date": "April 30, 2014", 
+        "link": {
+            "url": "http://www.medicine.virginia.edu/clinical/departments/anesthesiology/research/technology-lab"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Charlottesville", 
+                    "country": "United States", 
+                    "state": "Virginia", 
+                    "zip": "22908"
+                }, 
+                "name": "University of Virginia"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_groups": "1", 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "January 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Estimated arterial flow waveform using fast Fourier transformation (FFT) will be compared to the pulse wave Doppler trace from the device", 
+            "measure": "Comparison between estimated arterial flow waveform and pulse wave Doppler trace", 
+            "safety_issue": "No", 
+            "time_frame": "day of procedure"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01750125"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "University of Virginia", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of Virginia", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "December 2012", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "April 2014"
+    }
+}

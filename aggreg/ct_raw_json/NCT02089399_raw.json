@@ -1,0 +1,143 @@
+{
+    "clinical_study": {
+        "@rank": "168304", 
+        "arm_group": [
+            {
+                "arm_group_label": "Treatment AB", 
+                "arm_group_type": "Experimental", 
+                "description": "S->S+C"
+            }, 
+            {
+                "arm_group_label": "Treatment C", 
+                "arm_group_type": "Experimental", 
+                "description": "C"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to evaluate the pharmacokinetics profile and drug-drug\n      interaction between amlodipine, olmesartan and rosuvastatin in healthy adult volunteers."
+        }, 
+        "brief_title": "Pharmacokinetics and Drug Interaction Study Between Amlodipine,Olmesartan and Rosuvastatin in Healthy Adult Volunteers", 
+        "completion_date": {
+            "#text": "September 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Healthy", 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Healthy male subjects aged 19 - 55 years\n\n          -  A body mass index in the range 19 - 27 kg/m2\n\n          -  Willingness to participate during the entire study period\n\n          -  Written informed consent after being fully informed about the study procedures\n\n        Exclusion Criteria:\n\n          -  Any past medical history of hepatic, renal, gastrointestinal, respiratory, endocrine,\n             psychiatric, neurologic, haemato-oncologic or  cardiovascular disease\n\n          -  History of clinically significant drug hypersensitivity\n\n          -  Use of medication within 7 days before the first dose\n\n          -  Heavy drinker (>140 g/week)\n\n          -  Whole blood donation during 60 days before the study\n\n          -  Judged not eligible for study participation by investigator"
+            }, 
+            "gender": "Male", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "55 Years", 
+            "minimum_age": "19 Years"
+        }, 
+        "enrollment": {
+            "#text": "32", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "March 14, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02089399", 
+            "org_study_id": "DW_DWJ1351001"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Treatment AB", 
+                "description": "Treatment AB", 
+                "intervention_name": "Sevikar(amlodipne/olmesartan)", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "Treatment AB", 
+                    "Treatment C"
+                ], 
+                "description": "Treatment AB/Treatment C", 
+                "intervention_name": "crestor(Rosuvastatin)", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Olmesartan", 
+                "Olmesartan medoxomil", 
+                "Rosuvastatin"
+            ]
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "March 14, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Seoul", 
+                    "country": "Korea, Republic of"
+                }, 
+                "name": "Samsung medical center"
+            }, 
+            "investigator": {
+                "last_name": "Jaewook Ko, MD", 
+                "role": "Principal Investigator"
+            }, 
+            "status": "Not yet recruiting"
+        }, 
+        "location_countries": {
+            "country": "Korea, Republic of"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "An Open Label, Randomized, 2-Sequence, Multiple-Dose, Cross-Over Study to Investigate the Drug-Drug Interaction of Sevikar and Crestor in Healthy Adult Volunteers", 
+        "overall_status": "Not yet recruiting", 
+        "oversight_info": {
+            "authority": "Korea: Ministry of Food and Drug Safety", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 1", 
+        "primary_completion_date": {
+            "#text": "June 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": [
+            {
+                "measure": "AUCtau", 
+                "safety_issue": "No", 
+                "time_frame": "Multiple blood sample will be collected for 24 hours after last dosing in each of the treatment"
+            }, 
+            {
+                "measure": "Css,max", 
+                "safety_issue": "No", 
+                "time_frame": "Multiple blood sample will be collected for 24 hours after last dosing in each of the treatment"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02089399"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Tss,max", 
+                "safety_issue": "No", 
+                "time_frame": "Multiple blood sample will be collected for 24 hours after last dosing in each of the treatment"
+            }, 
+            {
+                "measure": "Css,min", 
+                "safety_issue": "No", 
+                "time_frame": "Multiple blood sample will be collected for 24 hours after last dosing in each of the treatment"
+            }
+        ], 
+        "source": "Daewoong Pharmaceutical Co. LTD.", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Daewoong Pharmaceutical Co. LTD.", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "March 2014", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Pharmacokinetics Study, Intervention Model: Crossover Assignment, Masking: Open Label", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2014"
+    }
+}

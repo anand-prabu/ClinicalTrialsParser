@@ -1,0 +1,167 @@
+{
+    "clinical_study": {
+        "@rank": "142846", 
+        "acronym": "AsirTest", 
+        "arm_group": {
+            "arm_group_label": "Patients undergoing SPECT-CT", 
+            "arm_group_type": "Experimental", 
+            "description": "The patients in this study are scheduled for a SPECT-CT at the N\u00eemes University Hospital as part of their normal care regimen.\nIntervention: Device: Asir Image Acquisition"
+        }, 
+        "brief_summary": {
+            "textblock": "The main objective of this study is to demonstrate the non-inferiority of SPECT image\n      quality (as measured by the signal / noise ratio) obtained by ASIR reconstruction of\n      very-low-dose CT acquisitions versus the quality of those obtained by filtered back\n      projection (FBP) of low-dose CT acquisitions.\n\n      The lower limit of non-inferiority is set to -1, the average SPECT signal / noise ratio TEMP\n      expected is between 5 and 6."
+        }, 
+        "brief_title": "Impact of Reconstruction Method (ASIR, FBP) Used in CT on Bone SPECT/CT Image Quality", 
+        "completion_date": {
+            "#text": "May 2014", 
+            "@type": "Actual"
+        }, 
+        "condition": "SPECT-CT", 
+        "detailed_description": {
+            "textblock": "The secondary objectives of this study are:\n\n      A. Demonstrate the non-inferiority of image quality (as assessed by a Likert scale) obtained\n      by ASIR-reconstruction-SPECT versus FBP-reconstruction (the lower-limit of non-inferiority\n      is set at -0.5); B. Verify the non-inferiority of image quality (as measured by the signal /\n      noise ratio)of CT images obtained by ASIR-reconstruction versus FBP-reconstruction (the\n      lower-limit of non-inferiority is set at -0.2); C. Verify the non-inferiority of image\n      quality (as assessed by the Likert scale) of CT images obtained by ASIR-reconstruction\n      versus FBP-reconstruction (the lower limit of non-inferiority is set at -0.5); D. Check that\n      the irradiation dose received by the patient is lower for the acquisition of images\n      reconstructed with ASIR than for the acquisition of images reconstructed with FBP.\n\n      E. Check the concordance of two evaluations of image quality (Likert scale) made by nuclear\n      medicine physicians (blinded to each other)."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  The patient must have given his/her informed and signed consent\n\n          -  The patient must be insured or beneficiary of a health insurance plan\n\n          -  A SPECT-CT exam is scheduled for the patient\n\n          -  The patient is able to withstand an extended position with the arms behind the head\n             for 15 minutes (i.e. patient is able to undergo a SPECT-CT exam)\n\n        Exclusion Criteria:\n\n          -  The patient is participating in another study\n\n          -  The patient is in an exclusion period determined by a previous study\n\n          -  The patient is under judicial protection, or any kind of guardianship\n\n          -  The patient refuses to sign the consent\n\n          -  The patient has a contra-indication for a treatment necessary for this study (patient\n             is not able to withstand an extended position with the arms behind the head for 15\n             minutes)\n\n          -  It is impossible to correctly inform the patient\n\n          -  The patient is pregnant, parturient, or breastfeeding\n\n          -  Emergency situations\n\n          -  Presence of osteosynthesis material (or any other material that would generate an\n             artifact during SPECT-CT) in the spine\n\n          -  Patient behaviour hampers image acquisition"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "75", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "February 25, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01800084", 
+            "org_study_id": "LOCAL/2012/LS-01", 
+            "secondary_id": "2013-A00070-45"
+        }, 
+        "intervention": {
+            "arm_group_label": "Patients undergoing SPECT-CT", 
+            "description": "In addition to their normal image acquisition, a supplementary image acquisition lasting approximately 20 seconds (i.e. an ASIR image acquisition) will be carried out for each patient.", 
+            "intervention_name": "Asir Image Acquisition", 
+            "intervention_type": "Device"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "ASIR", 
+            "image acquisition", 
+            "FBP"
+        ], 
+        "lastchanged_date": "June 2, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "N\u00eemes Cedex 09", 
+                    "country": "France", 
+                    "state": "Gard", 
+                    "zip": "30029"
+                }, 
+                "name": "CHU de N\u00eemes - H\u00f4pital Universitaire Car\u00e9meau"
+            }
+        }, 
+        "location_countries": {
+            "country": "France"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Impact of Reconstruction Method (Adaptive Statistical Iterative Reconstruction, Filtered Back Projection) Used in Computed Tomography on Bone Single-Photon- Emission-Computed-Tomography/Computed-Tomography Image Quality", 
+        "overall_official": {
+            "affiliation": "Centre Hospitalier Universitaire de N\u00eemes", 
+            "last_name": "Louis Sibille, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": [
+                "France: Agence Nationale de S\u00e9curit\u00e9 du M\u00e9dicament et des produits de sant\u00e9", 
+                "France: Committee for the Protection of Personnes"
+            ], 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "May 2014", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "The Spect signal is measure on a 1 cm^3 zone of vertebrae L3.", 
+                "measure": "Spect signal (kBq)", 
+                "safety_issue": "No", 
+                "time_frame": "2 hours after inclusion (during SPECT-CT scan)"
+            }, 
+            {
+                "description": "The spect noise is carried out on a 1 cm^3 zone of the aorta", 
+                "measure": "Spect noise (kBq)", 
+                "safety_issue": "No", 
+                "time_frame": "2 hours after inclusion (during SPECT-CT scan)"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01800084"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "measured on a 1 cm^3 zone of the aorta", 
+                "measure": "CT signal (HU)", 
+                "safety_issue": "No", 
+                "time_frame": "2 hours after inclusion (during SPECT-CT scan)"
+            }, 
+            {
+                "description": "measured on a 1 cm^3 zone of the aorta", 
+                "measure": "CT noise (HU)", 
+                "safety_issue": "No", 
+                "time_frame": "2 hours after inclusion (during SPECT-CT scan)"
+            }, 
+            {
+                "measure": "Ratio of CT signal / CT noise", 
+                "safety_issue": "No", 
+                "time_frame": "2 hours after inclusion (during SPECT-CT scan)"
+            }, 
+            {
+                "measure": "Spect image quality Likert scale ranging from 1 to 5, Evaluation n\u00b01", 
+                "safety_issue": "No", 
+                "time_frame": "2 hours after inclusion (during SPECT-CT scan)"
+            }, 
+            {
+                "measure": "CT image quality Likert scale ranging from 1 to 5, Evaluation n\u00b02", 
+                "safety_issue": "No", 
+                "time_frame": "2 hours after inclusion (during SPECT-CT scan)"
+            }, 
+            {
+                "measure": "Radiation dose (mSv)", 
+                "safety_issue": "Yes", 
+                "time_frame": "2 hours after inclusion (during SPECT-CT scan)"
+            }, 
+            {
+                "measure": "Spect image quality Likert scale ranging from 1 to 5, Evaluation n\u00b02", 
+                "safety_issue": "No", 
+                "time_frame": "2 hours after inclusion (during SPECT-CT scan)"
+            }, 
+            {
+                "measure": "CT image quality Likert scale ranging from 1 to 5, Evaluation n\u00b01", 
+                "safety_issue": "No", 
+                "time_frame": "2 hours after inclusion (during SPECT-CT scan)"
+            }
+        ], 
+        "source": "Centre Hospitalier Universitaire de N\u012bmes", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Centre Hospitalier Universitaire de N\u012bmes", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "August 2013", 
+        "study_design": "Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "June 2014"
+    }
+}

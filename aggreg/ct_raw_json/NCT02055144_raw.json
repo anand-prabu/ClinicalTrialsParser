@@ -1,0 +1,174 @@
+{
+    "clinical_study": {
+        "@rank": "75662", 
+        "arm_group": [
+            {
+                "arm_group_label": "Non squamous histology", 
+                "description": "patients with advanced, non-squamous non-small cell lung cancer treated with cisplatin (or carboplatin) and pemetrexed. Maintenance with pemetrexed is allowed."
+            }, 
+            {
+                "arm_group_label": "Squamous histology", 
+                "description": "patients with advanced squamous non-small cell lung cancer treated with cisplatin (or carboplatin) and gemcitabine"
+            }
+        ], 
+        "biospec_descr": {
+            "textblock": "Serum samples, urine samples, circulating tumour cells from peripheral blood. Such samples\n      will be obtained before start of treatment (within 2 weeks), and at each patient's\n      evaluation and at progression"
+        }, 
+        "biospec_retention": "Samples With DNA", 
+        "brief_summary": {
+            "textblock": "VeriStrat\u00ae is a pretreatment blood-based test correlated with clinical outcome after\n      EGFR-TKI therapy in non-small cell lung cancer (NSCLC) patients.\n\n      The investigators  hypothesis is that VeriStrat could be also employed as a biomarker  of\n      benefit from  treatment with standard chemotherapy regimens in first line NSCLC patients."
+        }, 
+        "brief_title": "Veristrat as Predictor of Benefit of First Line Non Small Cell Lung Cancer (NSCLC) Patients From Standard Chemotherapy", 
+        "completion_date": {
+            "#text": "December 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Non Small Cell Lung Cancer", 
+        "condition_browse": {
+            "mesh_term": [
+                "Carcinoma, Non-Small-Cell Lung", 
+                "Lung Neoplasms"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "VeriStrat\u00ae, a pretreatment blood-based test correlated with clinical outcome after EGFR-TKI\n      therapy in non-small cell lung cancer (NSCLC) patients, was developed and validated in a\n      multi-institutional study of advanced NSCLC patients treated with gefitinib [Taguchi et al]\n      . The VeriStrat algorithm was developed using a training set of pre-treatment serum samples\n      from patients who then experienced either long term stable disease or early progression on\n      gefitinib therapy. Mass spectra from these patients' serum samples were used to define eight\n      MS features (i.e. peaks), differentiating these two outcome groups. An algorithm (VeriStrat)\n      utilizing these features and based on a k-nearest neighbors (KNN) classification scheme was\n      created and its parameters were optimized using additional spectra from the training cohort.\n      All aspects of VeriStrat were frozen after development. VeriStrat assigns each spectrum a\n      \"Good\" or \"Poor\" label. VeriStrat was validated in a blinded fashion on two independent\n      cohorts of patients who were treated with gefitinib or erlotinib. These studies confirmed\n      that patients classified as \"Good\" had better outcome than patients classified as \"Poor\" (HR\n      of death = 0.47 P = 0.0094 in one cohort, HR of death = 0.33 P = 0.0007 in the other).\n\n      In the original study, VeriStrat was shown to correlate with clinical outcome following\n      EGFR-TKI therapy, but not in the chemotherapy or post-surgery setting: No statistically\n      significant difference was seen in the overall survival of patients classified as \"Good\" or\n      \"Poor\" from the serum from patients collected before second-line chemotherapy (HR = 0.74,\n      95%, P = 0.42 in one cohort (cohort B) and HR = 0.81, P = 0.54 in another (cohort C)). In a\n      third control cohort of patients with resected early-stage NSCLC, the hazard ratio for\n      overall survival was 0.90 (P = 0.79). However, further analysis of the subsets of\n      chemotherapy samples demonstrated that separation between \"Good\" and \"Poor\" arms may depend\n      on a particular type of chemotherapy. Thus a retrospective subset analysis of the cohort C\n      showed that while patients treated with docetaxel in second line did not show any sign of\n      separation, patients receiving a combination of platinum-based agents with either\n      vinorelbine or gemcitabine or paclitaxel had a trend to separation between the two arms.\n\n      The working hypothesis for the mechanism is that the VeriStrat \"Poor\" label is related to\n      the activation of canonical and non-canonical MAPK pathways downstream from receptor\n      tyrosine kinases, with possible cross-talk activation of the NF-kB pathway.  This means that\n      VeriStrat may demonstrate different predictive performance depending on the particular\n      chemotherapy treatment and its associated with cell pathway interactions."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Histologically or cytologically documented inoperable, locally advanced (stage IIIb\n             with supraclavicular lymph node metastases),metastatic (stage IV) or recurrent NSCLC\n\n          -  Age \u226518 years\n\n          -  Life expectancy more than 3 months\n\n          -  ECOG performance status 0-1\n\n          -  At least one unidimensionally measurable lesion (as per RECIST criteria ver 1.1)\n\n          -  Adequate baseline bone marrow, hepatic and renal function\n\n          -  Patients may have had prior therapy providing the following conditions are met:\n\n        Radiation therapy: wash-out period of 28 days; Surgery: wash-out period of 14 days\n\n          -  Patients must give written informed consent to participate in the study\n\n        Exclusion Criteria:\n\n          -  Prior chemotherapy or treatment with another systemic anti-cancer agent (for example\n             tyrosine kinase inhibitor).\n\n          -  Patients must not receive any other investigational agents while on study\n\n          -  Patients with myocardial infarction within the last six (6) months, unstable angina,\n             New York Heart Association (NYHA) grade II or greater congestive heart failure, or\n             serious cardiac arrhythmia requiring medication\n\n          -  History or evidence upon physical examination of CNS disease unless adequately\n             treated (e.g.,  any brain metastasis, seizure not controlled with standard medical\n             therapy, or history of stroke).\n\n          -  Patients with active or uncontrolled systemic disease/infections or with serious\n             illness or medical conditions, which is incompatible with the protocol\n\n          -  Any psychological, familial, sociological or geographical condition potentially\n             hampering compliance with the study protocol\n\n          -  Pregnancy or lactation. Patients - both males and females - with reproductive\n             potential (i.e. menopausal for less than 1-year and not surgically sterilized) must\n             practice effective contraceptive measures throughout the study. Women of childbearing\n             potential must provide a negative pregnancy test (serum or urine) within 14 days\n             prior to registration"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "Patients affected by advanced non small cell lung cancer who are chemotherapy-naive and\n        candidates for first-line chemotherapy. This population includes patients with\n        non-squamous histology and patients with squamous histology."
+            }
+        }, 
+        "enrollment": {
+            "#text": "100", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "January 30, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02055144", 
+            "org_study_id": "VERISTRAT/IST"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "NSCLC", 
+            "VeriStrat", 
+            "chemotherapy", 
+            "circulating tumor cells"
+        ], 
+        "lastchanged_date": "February 3, 2014", 
+        "location": {
+            "contact": {
+                "email": "fg1965@libero.it", 
+                "last_name": "Francesco Grossi, MD", 
+                "phone": "+393355255484"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Genoa", 
+                    "country": "Italy", 
+                    "zip": "16132"
+                }, 
+                "name": "IRCCS Azienda Ospedaliera Universitaria San Martino - IST Istituto Nazionale per la Ricerca sul Cancro"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "Italy"
+        }, 
+        "number_of_groups": "2", 
+        "official_title": "An Exploratory Study of the Performance of Mass-Spectrometry Based Test Veristrat in Prediction of Benefit of First Line NSCLC Patients From Treatment With Standard Chemotherapy Regimens", 
+        "overall_contact": {
+            "last_name": "Francesco Grossi, MD", 
+            "phone": "+39 010 5600 385"
+        }, 
+        "overall_official": {
+            "affiliation": "IRCCS Azienda Ospedaliera Universitaria San Martino - IST Istituto Nazionale per la Ricerca sul Cancro, Genoa, Italy", 
+            "last_name": "Francesco Grossi, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "Italy: Ethics Committee", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "October 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "The primary objective of this study is to evaluate the potential role of VeriStrat test as a biomarker  of  benefit from  treatment with standard chemotherapy regimens in first line NSCLC patients in terms of progression-free survival (PFS) (primary endpoint) in two populations:  patients with non-squamous histology treated with cisplatin and pemetrexed, and  patients with squamous histology treated with cisplatin and gemcitabine", 
+            "measure": "Progression-free survival", 
+            "safety_issue": "No", 
+            "time_frame": "2 years"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02055144"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "IRCCS Azienda Ospedaliera Universitaria San Martino - IST Istituto Nazionale per la Ricerca sul Cancro, Genoa, Italy", 
+            "investigator_full_name": "Francesco Grossi", 
+            "investigator_title": "MD", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "A secondary endpoint is to evaluate the role of VeriStrat as a biomarker of the secondary endpoints overall survival, in two groups of   first line patients with non-small cell lung cancer (NSCLC), described above.", 
+                "measure": "Overall survival", 
+                "safety_issue": "No", 
+                "time_frame": "2 years"
+            }, 
+            {
+                "description": "A secondary endpoint is to evaluate the possible correlation of VeriStrat classification with best RECIST responses.", 
+                "measure": "Correlation with RECIST response", 
+                "safety_issue": "No", 
+                "time_frame": "Every 6 weeks"
+            }, 
+            {
+                "description": "A secondary endpoint is to evaluate the possible correlation of VeriStrat classification with the available measurements of known biomarkers: the mutation statutes of EGFR, K-RAS, and ALK, and levels of ERCC1, RRM1 and TS.", 
+                "measure": "Correlation with known biomarkers", 
+                "safety_issue": "No", 
+                "time_frame": "Every 6 weeks"
+            }, 
+            {
+                "description": "A secondary endpoint is to evaluate possible changes of VeriStrat classification with disease progression.", 
+                "measure": "Changes of VeriStrat with disease progression", 
+                "safety_issue": "No", 
+                "time_frame": "Every 6 weeks"
+            }, 
+            {
+                "description": "A secondary endpoint is to identify, measure, and interpret the complex time-related concentrations, activity, and fluxes of endogenous metabolites  in  biosamples such as blood and urine to improve disease prognosis and monitoring; provide insight into drug metabolism and toxicology; provide a linkage between the human metabolome and the human genome and proteome.", 
+                "measure": "Metabolomics", 
+                "safety_issue": "No", 
+                "time_frame": "Every 6 weeks"
+            }, 
+            {
+                "description": "A secondary endpoint is isolate, identify and characterize molecularly the circulating tumor cells (CTCs) before start of treatment (within 2 weeks), at each patient's evaluation and at progression.", 
+                "measure": "Circulating tumor cells.", 
+                "safety_issue": "No", 
+                "time_frame": "Every 6 weeks"
+            }
+        ], 
+        "source": "IRCCS Azienda Ospedaliera Universitaria San Martino - IST Istituto Nazionale per la Ricerca sul Cancro, Genoa, Italy", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "IRCCS Azienda Ospedaliera Universitaria San Martino - IST Istituto Nazionale per la Ricerca sul Cancro, Genoa, Italy", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "February 2011", 
+        "study_design": "Observational Model: Case-Only, Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "February 2014"
+    }
+}

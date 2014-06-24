@@ -1,0 +1,198 @@
+{
+    "clinical_study": {
+        "@rank": "164992", 
+        "arm_group": [
+            {
+                "arm_group_label": "SAHS negative", 
+                "description": "Subjects derived to the sleep unit due to suspicion of suffering from sleep apnea which finally do not have the disease according to standard PSG"
+            }, 
+            {
+                "arm_group_label": "SAHS positive", 
+                "description": "Subjects derived to the sleep unit due to suspicion of suffering from sleep apnea which finally have the disease according to standard PSG"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The sleep apnea hypopnea syndrome (SAHS) is a respiratory disorder characterized by frequent\n      breathing cessations (apneas) or partial collapses (hypopneas) during sleep. These\n      respiratory events lead to deep oxygen desaturations, blood pressure and heart rate acute\n      changes, increased sympathetic activity and cortical arousals. The gold standard method for\n      SAHS diagnosis is in-hospital, technician-attended overnight polysomnography (PSG). However,\n      this methodology is labor-intensive, expensive and time-consuming, which has led to large\n      waiting lists, delaying diagnosis and treatment. Blood oxygen saturation (SpO2) from\n      nocturnal pulse oximetry (NPO) provides relevant information to detect apneas, it can be\n      easily recorded ambulatory and it is less expensive and highly reliable. The investigators\n      hypothesize that an automatic analysis of single oximetric recordings at home could provide\n      essential information on the diagnosis of SAHS. The aim of this study is two-fold: firstly,\n      the research focuses on assessing the reliability and usefulness of NPO carried out at\n      patient's home in the context of SAHS detection and, secondly, the study aims at assessing\n      the performance of an automatic regression model of the AHI by means of neural networks\n      using information from NPO recordings. To achieve this goal, both PSG and NPO studies are\n      carried out. A polysomnography equipment (E-Series, Compumedics) is used for standard\n      in-hospital PSG studies, whereas a portable pulseoximeter (WristOX2 3150, Nonin) is used for\n      ambulatory NPO. NPO is carried out the day immediately before or after the PSG at patient's\n      home. Patients are assigned to carry out the NPO study before or after the in-hospital PSG\n      randomly. In addition, in-hospital attended oximetry is also performed simultaneously to the\n      PSG using the portable pulseoximeter."
+        }, 
+        "brief_title": "Automatic Estimation of the Apnea-hypopnea Index Using Neural Networks to Detect Sleep Apnea", 
+        "completion_date": {
+            "#text": "July 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Sleep Apnea/Hypopnea Syndrome", 
+        "condition_browse": {
+            "mesh_term": [
+                "Apnea", 
+                "Sleep Apnea Syndromes", 
+                "Sleep Apnea, Obstructive"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Subjects under study are recruited from the sleep unit of the \"Hospital Universitario R\u00edo\n      Hortega\" (HURH) from Valladolid (Spain). All subjects are derived to the sleep unit due to\n      suspicion of suffering from SAHS. The whole population set is subsequently divided into\n      training set and test set. The training set is used to compose the regression model, whereas\n      the test set is used to further assess its performance.\n\n      The standard apnea-hypopnea index (AHI) from PSG is used to diagnose SAHS. According to the\n      American Academy of Sleep Medicine (AASM) rules, apnea is defined as a drop in the airflow\n      signal greater than or equal to 90% from baseline lasting at least 10s, whereas hypopnea is\n      defined as a drop greater than or equal to 50% during at least 10 s accompanied by a\n      desaturation greater than or equal to 3% and/or an arousal. Subjects with an AHI >= 10\n      events per hour (e/h) are diagnosed as suffering from SAHS.\n\n      A portable pulseoximeter (WristOX2 3150, Nonin) is used for ambulatory NPO. NPO is carried\n      out the day immediately before or after the PSG at patient's home. Patients are assigned to\n      carry out the NPO study before or after in-hospital PSG randomly. In addition, oximetry is\n      also performed simultaneously to the PSG by means of the portable pulseoximeter. Therefore,\n      every patient has 3 oximetric recordings: (i) SpO2 from unattended portable monitoring at\n      home, (ii) SpO2 from attended in-hospital portable monitoring and (iii) SpO2 from attended\n      in-hospital standard PSG.\n\n      SpO2 is recorded at a sampling rate of 1 Hz. All SpO2 recordings are saved to separate files\n      and process offline. An automatic signal pre-processing stage is carried out to remove\n      artifacts.\n\n      Our methodology is divided into two stages: feature extraction and pattern recognition.\n      Oximetric recordings are parameterized by means of 16 features from four feature subsets to\n      compose the initial feature set from oximetry: time domain statistics, frequency domain\n      statistics, conventional spectral measures and nonlinear features. All features are computed\n      for each whole overnight recording.\n\n        -  Features 1 to 4. First to fourth-order moments (M1t - M4t) in the time domain:\n           arithmetic mean (M1t), variance (M2t), skewness (M3t) and kurtosis (M4t) are applied to\n           quantify central tendency, amount of dispersion, asymmetry and peakedness,\n           respectively.\n\n        -  Features 5 to 8. First to fourth-order moments (M1f - M4f) in the frequency domain.\n\n        -  Feature 9. Median frequency (MF), which is defined as the component which comprises 50%\n           of signal power.\n\n        -  Feature 10. Spectral entropy (SE), which is a disorder quantifier related to the\n           flatness of the spectrum.\n\n        -  Feature 11. Total spectral power (PT), which is computed as the total area under the\n           PSD.\n\n        -  Feature 12. Peak amplitude (PA) in the apnea frequency band, which is the local maximum\n           of the spectral content in the frequency range 0.014 - 0.033 Hz.\n\n        -  Feature 13. Relative power (PR), which is the ratio of the area enclosed under the PSD\n           in the apnea frequency band to the total signal power.\n\n        -  Feature 14. Sample entropy (SampEn), which quantifies irregularity in time series, with\n           larger values corresponding to more irregular data.\n\n        -  Feature 15. Central tendency measure (CTM), which provides a variability measure from\n           second order difference plots.\n\n        -  Feature 16. Lempel - Ziv complexity (LZC), which is a measure of complexity linked with\n           the rate of new subsequences and their repetition along the signal.\n\n      The second stage corresponds to regression analysis, which aims to provide an analytical\n      expression for the AHI as a function of the extracted features. A multilayer perceptron\n      (MLP) neural network is used. MLP networks are models for expressing knowledge using a\n      connectionist paradigm inspired in the human brain. They are composed of multiple simple\n      units or neurons known as perceptrons. Perceptrons are arranged in several interconnected\n      layers. Each network connection between two of them is associated with a network adaptive\n      parameter or weight. MLP networks with a single hidden layer composed of nonlinear\n      perceptrons (i.e., with a nonlinear activation function) are implemented since they are\n      capable of universal approximation. The proposed regression task aims to approximate a 1-D\n      continuous variable representing the AHI. Thus, a single output unit with a linear\n      activation function is required."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria (consecutive patient sampling):\n\n          -  Men and women over 18 years old\n\n          -  Subjects submitted to the sleep unit due to previous symptoms of sleep apnea (daytime\n             hypersomnolence, loud snoring, nocturnal choking and awakenings, and/or apnoeic\n             events)\n\n          -  Written informed consent signed\n\n        Exclusion Criteria:\n\n          -  Subjects under 18 years old\n\n          -  Subjects not signing the informed consent\n\n          -  Presence of any previously diagnosed sleep disorders: narcolepsy, insomnia, chronic\n             sleep deprivation, regular use of hypnotic or sedative medications and restless leg\n             syndrome\n\n          -  Patients with chronic diseases: congestive heart failure, renal failure,\n             neuromuscular diseases, chronic respiratory failure\n\n          -  Patients with > 50% of central apneas or the presence of Cheyne-Stokes respiration\n\n          -  Previous CPAP treatment for SAHS diagnosis\n\n          -  A medical history that may interfere with the study objectives or, in the opinion of\n             the investigator, compromise the conclusions"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years", 
+            "sampling_method": "Probability Sample", 
+            "study_pop": {
+                "textblock": "Subjects derived to the reference sleep unit from primary care with suspicion of suffering\n        from SAHS due to daytime hypersomnolence, loud snoring, nocturnal choking and awakenings,\n        and/or apnoeic events"
+            }
+        }, 
+        "enrollment": {
+            "#text": "322", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "May 15, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02143297", 
+            "org_study_id": "SEPAR-265/2012"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Sleep Apnea/Hypopnea Syndrome", 
+            "Pulse Oximetry", 
+            "Nonlinear Dynamics", 
+            "Fourier Analysis", 
+            "Neural Networks (Computer)"
+        ], 
+        "lastchanged_date": "May 20, 2014", 
+        "link": {
+            "description": "Biomedical Engineering Group (GIB) Website", 
+            "url": "http://www.gib.tel.uva.es/index.php?lang=en"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Valladolid", 
+                    "country": "Spain", 
+                    "zip": "47012"
+                }, 
+                "name": "Hospital Universitario R\u00edo Hortega"
+            }
+        }, 
+        "location_countries": {
+            "country": "Spain"
+        }, 
+        "number_of_groups": "2", 
+        "official_title": "Automatic Estimation of Apnea-hypopnea Index (AHI) Using Neural Networks to Assist in the Diagnosis of Sleep Apnea-hypopnea Syndrome (SAHS)", 
+        "overall_official": {
+            "affiliation": "Hospital Universitario R\u00edo Hortega, University of Valladolid", 
+            "last_name": "Felix Del Campo, PhD, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "Spain: Ethics Committee", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "March 2014", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "A measure of correlation between our estimation of the AHI and the real AHI derived from conventional in-hospital PSG will be measured by means of the intra-class correlation coefficient (ICC). This measure shows how similar are both indexes (estimated AHI and real AHI) in order to assess the severity of SAHS using our estimated AHI. In addition, Bland and Altman plots of agreement between NPO-based estimated AHI and PSG-based standard AHI will be drawn in order to assess under/over-estimation along the whole range of AHI values.", 
+                "measure": "Correlation between our estimated AHI from oximetry and real AHI from gold standard PSG", 
+                "safety_issue": "No", 
+                "time_frame": "12 months after the inclusion of the last patient"
+            }, 
+            {
+                "description": "Percentage of patients correctly classified by the optimum portable NPO-based algorithm using the NPO-based estimated AHI. PSG is used as the reference gold standard method. Subjects with an AHI >= 10 event per hour (e/h) are considered as suffering from SAHS.", 
+                "measure": "Percentage of patients correctly classified", 
+                "safety_issue": "No", 
+                "time_frame": "12 months after the inclusion of the last patient"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02143297"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University of Valladolid", 
+            "investigator_full_name": "Dr. F\u00e9lix del Campo", 
+            "investigator_title": "PhD, MD", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Prevalence of SAHS in patients derived to the sleep unit", 
+                "measure": "Prevalence of SAHS", 
+                "safety_issue": "No", 
+                "time_frame": "12 months (inclusion period)"
+            }, 
+            {
+                "description": "Severity of SAHS patients in terms of the AHI", 
+                "measure": "Severity of SAHS", 
+                "safety_issue": "No", 
+                "time_frame": "12 months (inclusion period)"
+            }, 
+            {
+                "description": "Demographic and anthropometric characteristics of the study population (mean +/- standard deviation): age, gender, body mass index, neck circumference, waist circumference, blood pressure.", 
+                "measure": "Demographic and anthropometric characteristics", 
+                "safety_issue": "No", 
+                "time_frame": "12 months (inclusion period)"
+            }, 
+            {
+                "description": "Clinical characteristics of the study population: previous symptoms of suffering from SAHS and additional conditions (hypertension and chronic obstructive pulmonary disease) co-occurring with SAHS according to standard definitions.", 
+                "measure": "Clinical characteristics of the study population", 
+                "safety_issue": "No", 
+                "time_frame": "12 months (inclusion period)"
+            }, 
+            {
+                "description": "Patients' lifestyle derived from questionnaires on sleep (Epworth Sleepiness Scale, ESS), smoking and alcoholism (Test EuroQol, EQ-5D)", 
+                "measure": "Patients' lifestyle", 
+                "safety_issue": "No", 
+                "time_frame": "12 months (inclusion period)"
+            }, 
+            {
+                "description": "PSG-derived variables (AHI; apnea index (AI); hypopnea index (HI); percentage of time in phase I, II, III, IV and REM sleep; percentage of time in supine position; arousal index; sleep efficiency)", 
+                "measure": "PSG-derived variables", 
+                "safety_issue": "No", 
+                "time_frame": "12 months (inclusion period)"
+            }, 
+            {
+                "description": "Portable NPO-derived variables (oxygen desaturation index of 3% (ODI3) and 4% (ODI4), cumulative time with a saturation value below 90% (CT90), minimum saturation, average saturation)", 
+                "measure": "Portable NPO-derived variables", 
+                "safety_issue": "No", 
+                "time_frame": "12 months (inclusion period)"
+            }, 
+            {
+                "description": "Compliance with the portable NPO recording device", 
+                "measure": "Compliance with portable device", 
+                "safety_issue": "No", 
+                "time_frame": "12 months (inclusion period)"
+            }, 
+            {
+                "description": "Physiological interpretation of features included in the regression model", 
+                "measure": "Physiological interpretation", 
+                "safety_issue": "No", 
+                "time_frame": "24 months"
+            }, 
+            {
+                "description": "Cost-effectiveness study of the proposed model for SAHS screening based on AHI estimation from NPO", 
+                "measure": "Cost-effectiveness", 
+                "safety_issue": "No", 
+                "time_frame": "24 months"
+            }
+        ], 
+        "source": "Sociedad Espa\u00f1ola de Neumolog\u00eda y Cirug\u00eda Tor\u00e1cica", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Sociedad Espa\u00f1ola de Neumolog\u00eda y Cirug\u00eda Tor\u00e1cica", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "July 2013", 
+        "study_design": "Observational Model: Case Control, Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "May 2014"
+    }
+}

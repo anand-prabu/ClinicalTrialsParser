@@ -1,0 +1,581 @@
+{
+    "clinical_study": {
+        "@rank": "70423", 
+        "acronym": "STORY", 
+        "arm_group": [
+            {
+                "arm_group_label": "Development Group", 
+                "description": "In the Development Phase, analyses will be performed until the classification algorithm is finalized."
+            }, 
+            {
+                "arm_group_label": "Validation Group", 
+                "description": "The Validation Phase will assess the performance of the finalized classification algorithm in 300 subjects."
+            }
+        ], 
+        "biospec_descr": {
+            "textblock": "Peripheral blood"
+        }, 
+        "biospec_retention": "Samples With DNA", 
+        "brief_summary": {
+            "textblock": "This study will prospectively enroll approximately 880 children, at least 18 months and less\n      than 60 months of age, who have been referred to a pediatric developmental evaluation\n      center. Enrolled children will have blood drawn for RNA gene expression analysis and undergo\n      a clinical evaluation to determine the presence or absence of a diagnosis of ASD.\n\n      The primary objective of this study is:\n\n      - To develop an algorithm to classify blood RNA gene expression patterns to maximize\n      agreement between the classification and a clinical assessment of presence or absence of\n      Autism Spectrum Disorders (ASD)."
+        }, 
+        "brief_title": "SynapDx Autism Gene Expression Analysis Study (STORY)", 
+        "completion_date": {
+            "#text": "September 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Autism", 
+        "condition_browse": {
+            "mesh_term": [
+                "Autistic Disorder", 
+                "Child Development Disorders, Pervasive"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Referred to a developmental evaluation center for evaluation of a possible\n             developmental disorder, other than isolated motor problems.\n\n          -  At least 18 months and less than 60 months.\n\n          -  Parent/legal guardian has been informed about the study and has signed an informed\n             consent form.\n\n        Exclusion Criteria:\n\n          -  Prior reliable diagnosis of Autism Spectrum Disorder (i.e. prior evaluation by a\n             multi-disciplinary team has already reliably established Autism Spectrum Disorder\n             diagnosis).\n\n          -  Unable or unwilling to complete study procedures."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "60 Months", 
+            "minimum_age": "18 Months", 
+            "sampling_method": "Probability Sample", 
+            "study_pop": {
+                "textblock": "Children 18 months to less than 60 months referred to a developmental evaluation center\n        for evaluation of a possible developmental disorder."
+            }
+        }, 
+        "enrollment": {
+            "#text": "880", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "March 11, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01810341", 
+            "org_study_id": "12002"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Autism", 
+            "Autism Spectrum Disorders", 
+            "RNA", 
+            "Gene expression", 
+            "Developmental Delay"
+        ], 
+        "lastchanged_date": "January 22, 2014", 
+        "location": [
+            {
+                "contact": {
+                    "email": "craig.ciuk@melmedcenter.com", 
+                    "last_name": "Craig Ciuk", 
+                    "phone": "480-443-0050", 
+                    "phone_ext": "324"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Scottsdale", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85254"
+                    }, 
+                    "name": "Melmed Center"
+                }, 
+                "investigator": {
+                    "last_name": "Raun Melmed, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "nodonnell@memorialcare.org", 
+                    "last_name": "Nan O'Donnell, MS/RN", 
+                    "phone": "562-933-5607"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Long Beach", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90806"
+                    }, 
+                    "name": "Miller Children's Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Feldman Gary, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "jonathan.polussa@ucdmc.ucdavis.edu", 
+                    "last_name": "Jonathan Polussa", 
+                    "phone": "916-703-0477"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Sacramento", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "95817"
+                    }, 
+                    "name": "UC Davis MIND Institute"
+                }, 
+                "investigator": {
+                    "last_name": "Kathleen Angkustsiri, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "meagan.smith@emoryhealthcare.org", 
+                    "last_name": "Meagan Smith", 
+                    "phone": "404-778-8528"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Decatur", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30033"
+                    }, 
+                    "name": "Emory University"
+                }, 
+                "investigator": {
+                    "last_name": "Jeannie Visootsak, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "rosa_figueroa@rush.edu", 
+                    "last_name": "Rosa Figueroa", 
+                    "phone": "312-942-3034"
+                }, 
+                "contact_backup": {
+                    "email": "Crystal_Hervey@rush.edu", 
+                    "last_name": "Crystal Harvey", 
+                    "phone": "312-942-7250"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60612"
+                    }, 
+                    "name": "Rush Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Cesar Ochoa-Lubinoff, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "aekohn@iupui.edu", 
+                    "last_name": "Arlene Kohn", 
+                    "phone": "317-944-1990"
+                }, 
+                "contact_backup": {
+                    "email": "dlawrenc@iupui.edu", 
+                    "last_name": "Dawn Graham"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Indianapolis", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46202"
+                    }, 
+                    "name": "Riley Hospital for Children"
+                }, 
+                "investigator": [
+                    {
+                        "last_name": "Tom Lock, MD", 
+                        "role": "Principal Investigator"
+                    }, 
+                    {
+                        "last_name": "Kimberly Stigler, MD", 
+                        "role": "Principal Investigator"
+                    }
+                ], 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "Sarah.Weas@childrens.harvard.edu", 
+                    "last_name": "Sarah Weas", 
+                    "phone": "857-218-5328"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02115"
+                    }, 
+                    "name": "Children's Hospital Boston"
+                }, 
+                "investigator": {
+                    "last_name": "William Barbaresi, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "jmullett@partners.org", 
+                    "last_name": "Jennifer Mullette, RN", 
+                    "phone": "781-860-1710"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Lexington", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02421"
+                    }, 
+                    "name": "Lurie Center Massachusetts General Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Ann Neumeyer, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "Sarah.soffes@mssm.edu", 
+                    "last_name": "Sarah Soffes", 
+                    "phone": "212-241-2993"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10029"
+                    }, 
+                    "name": "Mount Sinai School of Medicine/Seaver Center"
+                }, 
+                "investigator": {
+                    "last_name": "Alex Kolevzon, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "anne.gordon@opwdd.ny.gov", 
+                    "last_name": "Anne Gordon", 
+                    "phone": "718-494-5122"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Staten Island", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10314"
+                    }, 
+                    "name": "Institute for Behavioral Research on Staten Island"
+                }, 
+                "investigator": {
+                    "last_name": "Ted Brown, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "lindsey_hazzard@med.unc.edu", 
+                    "last_name": "Lindsey Hazzard", 
+                    "phone": "919-972-7440"
+                }, 
+                "contact_backup": {
+                    "email": "kristine_baluyot@med.unc.edu", 
+                    "last_name": "Kristine Bayulot", 
+                    "phone": "919-972-7497"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Chapel Hill", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27517"
+                    }, 
+                    "name": "University of North Carolina at Chapel Hill"
+                }, 
+                "investigator": {
+                    "last_name": "Linmarie Sikich, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "Teri.Maraan@cchmc.org", 
+                    "last_name": "Teri Maraan", 
+                    "phone": "513-803-3582"
+                }, 
+                "contact_backup": {
+                    "email": "katherine.friedmann@cchmc.org", 
+                    "last_name": "Katherine Friedmann"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Cincinnati", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45229"
+                    }, 
+                    "name": "Cincinnati Children's Hospital Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Logan Wink, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "thomas.whitlow@nationwidechildrens.org", 
+                    "last_name": "Thomas Whitlow", 
+                    "phone": "614-355-8389"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Columbus", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "43205"
+                    }, 
+                    "name": "Nationwide Children's Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Dan Coury, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "nguyens2@email.chop.edu", 
+                    "last_name": "Sara Nguyen, MPH", 
+                    "phone": "267-426-7165"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19104"
+                    }, 
+                    "name": "Children's Hospital of Philadelphia"
+                }, 
+                "investigator": {
+                    "last_name": "Susan Levy, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "infingep@musc.edu", 
+                    "last_name": "Patricia Infinger, CCRP", 
+                    "phone": "843-792-7857"
+                }, 
+                "contact_backup": {
+                    "email": "choudhur@musc.edu", 
+                    "last_name": "Aparna Choudhury"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Charleston", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29425"
+                    }, 
+                    "name": "Medical University of South Carolina"
+                }, 
+                "investigator": {
+                    "last_name": "Michelle Macias, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "alison.vehorn@Vanderbilt.edu", 
+                    "last_name": "Alison Vehorn", 
+                    "phone": "615-343-8763"
+                }, 
+                "contact_backup": {
+                    "email": "Jessica.smith@vanderbilt.edu", 
+                    "last_name": "Jessica Smith", 
+                    "phone": "615-936-3288"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Nashville", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37212"
+                    }, 
+                    "name": "Vanderbilt University"
+                }, 
+                "investigator": {
+                    "last_name": "Zachary Warren, PhD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "sxgarza3@texaschildrens.org", 
+                    "last_name": "Silvia Garza", 
+                    "phone": "832-824-3393"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77054"
+                    }, 
+                    "name": "Baylor College of Medicine/Texas Children's Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Robin Kochel, PhD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "anne.wolken@seattlechildrens.org", 
+                    "last_name": "Anne Wolken", 
+                    "phone": "206-987-3195"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98121"
+                    }, 
+                    "name": "Seattle Children's"
+                }, 
+                "investigator": {
+                    "last_name": "Charles Cowan, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "carol.wilson@albertahealthservices.ca", 
+                    "last_name": "Carol Wilson", 
+                    "phone": "780-735-8283"
+                }, 
+                "contact_backup": {
+                    "email": "Mayank.Rehani@albertahealthservices.ca", 
+                    "last_name": "Mayank Rehani"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Edmonton", 
+                        "country": "Canada", 
+                        "state": "Alberta", 
+                        "zip": "T5G 0B7"
+                    }, 
+                    "name": "Glenrose Rehabilitation Hospital"
+                }, 
+                "investigator": [
+                    {
+                        "last_name": "Lonnie Zwaigenbaum, MD", 
+                        "role": "Principal Investigator"
+                    }, 
+                    {
+                        "last_name": "Keith Goulden, MD", 
+                        "role": "Principal Investigator"
+                    }
+                ], 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "DZaghloul@hollandbloorview.ca", 
+                    "last_name": "Dina Zaghloul", 
+                    "phone": "416-425-6220", 
+                    "phone_ext": "6602"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Toronto", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "M4G 1R8"
+                    }, 
+                    "name": "Holland Bloorview Kids Rehabilitation Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Evdokia Anagnostou, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Canada"
+            ]
+        }, 
+        "number_of_groups": "2", 
+        "official_title": "SynapDx Autism Spectrum Disorder Gene Expression Analysis Study", 
+        "overall_official": {
+            "affiliation": "SynapDx Corp", 
+            "last_name": "Stan Lapidus", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "July 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "RNA gene expression in peripheral blood", 
+            "safety_issue": "No", 
+            "time_frame": "Within 30 days of collection"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01810341"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "SynapDx", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "SynapDx", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "March 2013", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "January 2014"
+    }
+}

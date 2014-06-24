@@ -1,0 +1,210 @@
+{
+    "clinical_study": {
+        "@rank": "122578", 
+        "arm_group": [
+            {
+                "arm_group_label": "2 - B-passive", 
+                "arm_group_type": "Experimental"
+            }, 
+            {
+                "arm_group_label": "3 - B-active", 
+                "arm_group_type": "Experimental"
+            }, 
+            {
+                "arm_group_label": "4 - B-active, B-passive", 
+                "arm_group_type": "Experimental"
+            }, 
+            {
+                "arm_group_label": "6 - z, B-passive", 
+                "arm_group_type": "Experimental"
+            }, 
+            {
+                "arm_group_label": "7 - z, B-active", 
+                "arm_group_type": "Experimental"
+            }, 
+            {
+                "arm_group_label": "8 - z, B-active, B-passive", 
+                "arm_group_type": "Experimental"
+            }, 
+            {
+                "arm_group_label": "10 - t, B-passive", 
+                "arm_group_type": "Experimental"
+            }, 
+            {
+                "arm_group_label": "11 - t, B-active", 
+                "arm_group_type": "Experimental"
+            }, 
+            {
+                "arm_group_label": "12 - t, B-active, B-passive", 
+                "arm_group_type": "Experimental"
+            }, 
+            {
+                "arm_group_label": "14 - t, z", 
+                "arm_group_type": "Experimental"
+            }, 
+            {
+                "arm_group_label": "15 - t, z, B-active", 
+                "arm_group_type": "Experimental"
+            }, 
+            {
+                "arm_group_label": "16 - t, z, B-active, B-passive", 
+                "arm_group_type": "Experimental"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Effective evidence-based interventions exist for smoking cessation delivered over the\n      Internet, but consumer acceptance and adherence remains low. Scalable and efficient\n      mechanisms to disseminate these interventions online are needed, and existing online social\n      networks provide a potential mechanism. This is a proposal for a randomized, factorial trial\n      of the dissemination of an evidence-based intervention through the massive Facebook social\n      network, with the goal of determining intervention characteristics that drive viral spread."
+        }, 
+        "brief_title": "Study of the Diffusion of a Smoking Cessation Application Through an Online Network", 
+        "completion_date": {
+            "#text": "June 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Use and Dissemination of Smoking Cessation Intervention", 
+            "Cessation of Smoking"
+        ], 
+        "condition_browse": {
+            "mesh_term": "Smoking"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Facebook user\n\n          -  Age 18 years or older\n\n          -  Entered UbiQUITous Facebook Application\n\n          -  Confirms smoker status\n\n          -  U.S. resident\n\n        Exclusion Criteria:\n\n          -  Non-smoker\n\n          -  Under 18 years old\n\n          -  Non-U.S. resident\n\n          -  Non-Facebook advertisement point of entry"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "12560", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "December 3, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01746472", 
+            "org_study_id": "1R01CA155369-01A1"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "10 - t, B-passive", 
+                    "11 - t, B-active", 
+                    "12 - t, B-active, B-passive", 
+                    "14 - t, z", 
+                    "15 - t, z, B-active", 
+                    "16 - t, z, B-active, B-passive"
+                ], 
+                "description": "Application components hypothesized to increase the duration (t, time) that a participant spends using the application.", 
+                "intervention_name": "Facebook app - condition t", 
+                "intervention_type": "Behavioral"
+            }, 
+            {
+                "arm_group_label": [
+                    "6 - z, B-passive", 
+                    "7 - z, B-active", 
+                    "8 - z, B-active, B-passive", 
+                    "14 - t, z", 
+                    "15 - t, z, B-active", 
+                    "16 - t, z, B-active, B-passive"
+                ], 
+                "description": "Application components hypothesized to increase the number of friends that a user has that are eligible to install the application.", 
+                "intervention_name": "Facebook app - condition z", 
+                "intervention_type": "Behavioral"
+            }, 
+            {
+                "arm_group_label": [
+                    "3 - B-active", 
+                    "4 - B-active, B-passive", 
+                    "7 - z, B-active", 
+                    "8 - z, B-active, B-passive", 
+                    "11 - t, B-active", 
+                    "12 - t, B-active, B-passive", 
+                    "15 - t, z, B-active", 
+                    "16 - t, z, B-active, B-passive"
+                ], 
+                "description": "Application components hypothesized to increase the contagiousness of the app by increasing a users ability and desire to proactively contact others.", 
+                "intervention_name": "Facebook app - condition B-active", 
+                "intervention_type": "Behavioral", 
+                "other_name": "Ba"
+            }, 
+            {
+                "arm_group_label": [
+                    "2 - B-passive", 
+                    "4 - B-active, B-passive", 
+                    "6 - z, B-passive", 
+                    "8 - z, B-active, B-passive", 
+                    "10 - t, B-passive", 
+                    "12 - t, B-active, B-passive", 
+                    "16 - t, z, B-active, B-passive"
+                ], 
+                "description": "Application components hypothesized to increase the contagiousness of the app by increasing the passive diffusion of information from the user to their friends.", 
+                "intervention_name": "Facebook app - condition B-passive", 
+                "intervention_type": "Behavioral", 
+                "other_name": "Bp"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "December 23, 2013", 
+        "link": {
+            "description": "UbiQUITous Facebook Application (Intervention)", 
+            "url": "http://apps.facebook.com/quitlab/?utm_source=clinicaltrials.gov"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Washington", 
+                    "country": "United States", 
+                    "state": "District of Columbia", 
+                    "zip": "20036"
+                }, 
+                "name": "American Legacy Foundation"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "12", 
+        "official_title": "Online Social Networks for Dissemination of Smoking Cessation Interventions", 
+        "overall_official": {
+            "affiliation": "American Legacy Foundation", 
+            "last_name": "Nathan K Cobb, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "October 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "The investigators will measure the reproductive rate for each condition, in other words the average number of additional individuals that install the application for each original individual recruited to participate. Higher reproductive rates indicate more efficient and faster dissemination.", 
+            "measure": "Reproductive rate", 
+            "safety_issue": "No", 
+            "time_frame": "30 days"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01746472"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "American Legacy Foundation", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "American Legacy Foundation", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "December 2012", 
+        "study_design": "Allocation: Randomized, Intervention Model: Factorial Assignment, Masking: Double Blind (Subject, Investigator)", 
+        "study_type": "Interventional", 
+        "verification_date": "December 2013"
+    }
+}

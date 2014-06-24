@@ -1,0 +1,181 @@
+{
+    "clinical_study": {
+        "@rank": "120901", 
+        "acronym": "PSGtraits-O2", 
+        "arm_group": [
+            {
+                "arm_group_label": "Oxygen", 
+                "arm_group_type": "Experimental", 
+                "description": "Inspired oxygen at 40%"
+            }, 
+            {
+                "arm_group_label": "Air", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Placebo/Sham using air at the same flow rate"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This study seeks to employ advanced methods to estimate the individual factors contributing\n      to sleep apnea from standard recordings made during routine clinical sleep studies. This\n      study focuses on breathing control or \"loop gain\" as one of the factors contributing to\n      sleep apnea. Increased levels of oxygen in the air is known to make breathing more stable by\n      lowering \"loop gain\". Here, our goal is to use a new method capable of detecting a reduction\n      in loop gain with oxygen. The investigators also aim to test whether a high loop gain\n      measured at baseline/placebo predicts a greater improvement in sleep apnea with oxygen\n      therapy."
+        }, 
+        "brief_title": "Estimating Apnea Phenotypes From Polysomnography: Oxygen", 
+        "completion_date": {
+            "#text": "April 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Sleep Apnea", 
+        "condition_browse": {
+            "mesh_term": [
+                "Apnea", 
+                "Sleep Apnea Syndromes"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "In a single-blinded randomized crossover study, inspired oxygen/air (40%/21%) is delivered\n      on two separate nights. Loop gain is measured from routine polysomnography using a novel\n      mathematical method. A value of loop gain >1 reflects unstable breathing, and a value less\n      than but approaching 1 denotes a system more prone to oscillate. Loop gain is measured as\n      the changes in ventilatory drive/effort that arises subsequent to changes in ventilation\n      (e.g. due to obstructive apnea). A simple chemoreflex model (gain, time constant, delay) is\n      fit to surrogate ventilation data (derived from airflow) during sleep. The best model is one\n      that best matches the elevated ventilatory drive (measured as ventilation in the absence of\n      airflow obstruction) based on the prior apneic/hypopneic fall in ventilation. Loop gain is\n      calculated from this model. We aim to use loop gain measured on and off oxygen to determine\n      whether a strong response (reduction in apnea severity) can be predicted by a higher loop\n      gain (in the sham arm) using our method. A majority subset of subjects will attend for\n      detailed phenotyping of sleep apnea to assess upper airway anatomy/collapsibility, dilator\n      muscle responsiveness, loop gain and the arousal threshold."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Apnea/hypopnea index >20 events per hour\n\n          -  Age 20-79 years\n\n        Exclusion Criteria:\n\n          -  COPD with desaturation (resting SpO2<96%)\n\n          -  Use of respiratory stimulants or depressants\n\n          -  Pregnancy"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "79 Years", 
+            "minimum_age": "20 Years"
+        }, 
+        "enrollment": {
+            "#text": "30", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "December 12, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01751971", 
+            "org_study_id": "2005P001296-O2PSG", 
+            "secondary_id": "R01HL090897"
+        }, 
+        "intervention": {
+            "arm_group_label": "Oxygen", 
+            "description": "Supplemental oxygen at approximately 40% e.g. via Pink venturi mask", 
+            "intervention_name": "Inspired oxygen (40%)", 
+            "intervention_type": "Drug", 
+            "other_name": "Supplemental oxygen"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "lastchanged_date": "May 30, 2014", 
+        "location": {
+            "contact": {
+                "email": "sasands@partners.org", 
+                "last_name": "Scott SANDS, PhD"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Boston", 
+                    "country": "United States", 
+                    "state": "Massachusetts", 
+                    "zip": "02115"
+                }, 
+                "name": "Brigham and Women's Hospital"
+            }, 
+            "investigator": {
+                "last_name": "Scott A Sands, PhD", 
+                "role": "Sub-Investigator"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Estimating Apnea Phenotypes From Routine Polysomnography: Application to Oxygen Therapy", 
+        "overall_contact": {
+            "email": "sasands@partners.org", 
+            "last_name": "SCOTT A SANDS, PhD", 
+            "phone": "6172780911"
+        }, 
+        "overall_official": {
+            "affiliation": "Brigham and Women's Hospital", 
+            "last_name": "Andrew Wellman, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "April 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Acute change in AHI is taken as the difference between values on the sham and oxygen nights, taken approximately 1 week apart.\nHypopneas are based on 30% reduction in airflow (sensitivity analysis will employ criteria using 3% desaturation and arousals)\n1-way RM ANOVA will assess the reduction in AHI in patients with higher (>=0.7) and lower loop gain (<0.7); an interaction between treatment and group may indicate a preferential benefit of oxygen in those with higher loop gain.\nThe percentage of the night that is not interrupted by events and arousals will also be assessed (stable breathing).", 
+            "measure": "The reduction in severity of sleep apnea (Apnea-Hypopnea Index, Events/hour)", 
+            "safety_issue": "No", 
+            "time_frame": "1 night"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01751971"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Brigham and Women's Hospital", 
+            "investigator_full_name": "David Andrew Wellman", 
+            "investigator_title": "Instructor in Medicine", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "The rise in chemosensitivity overnight will be compared between sham and oxygen treatment arms using dynamic CO2 stimulation.", 
+                "measure": "Overnight change in chemosensitivity", 
+                "safety_issue": "No", 
+                "time_frame": "1 night"
+            }, 
+            {
+                "description": "Assessed in the morning after the single night of oxygen/air, and compared between sham and oxygen studies.", 
+                "measure": "Subjective sleepiness/alertness (Stanford Sleepiness Scale)", 
+                "safety_issue": "No", 
+                "time_frame": "1 night"
+            }, 
+            {
+                "description": "The change in blood pressure overnight will be assessed in both studies, and compared between sham and oxygen studies approximately 1 week apart.", 
+                "measure": "Overnight change in blood pressure", 
+                "safety_issue": "No", 
+                "time_frame": "1 night"
+            }, 
+            {
+                "description": "Better(+1)/Same(0)/Worse(-1) on oxygen vs sham", 
+                "measure": "Subjective sleep quality (oxygen vs sham)", 
+                "safety_issue": "No", 
+                "time_frame": "1 night"
+            }, 
+            {
+                "description": "To complement findings of changes in AHI, we will examine the frequency of arousals from sleep. The proportion of light sleep will also be assessed.", 
+                "measure": "Frequency of EEG arousals (events per hour)", 
+                "safety_issue": "No", 
+                "time_frame": "1 night"
+            }
+        ], 
+        "source": "Brigham and Women's Hospital", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "National Heart, Lung, and Blood Institute (NHLBI)", 
+                    "agency_class": "NIH"
+                }, 
+                {
+                    "agency": "American Heart Association", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "Brigham and Women's Hospital", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "November 2012", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Crossover Assignment, Masking: Single Blind (Subject), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2014"
+    }
+}

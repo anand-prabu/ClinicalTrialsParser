@@ -1,0 +1,213 @@
+{
+    "clinical_study": {
+        "@rank": "127661", 
+        "acronym": "IMM", 
+        "arm_group": {
+            "arm_group_label": "Experienced providers (Aim 2)", 
+            "description": "Experienced providers that participated in the EHR simulations. Half of the providers were assigned to use the new Integrated Medication Manager (intervention) during the simulation.  The other half were assigned the VA's CPRS to use (standard EHR).  Providers were randomly assigned which system to use."
+        }, 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to advance the science of healthcare informatics and to improve\n      medication management through the development of a new approach to the electronic medical\n      record called the Integrated Medication Manager (IMM)."
+        }, 
+        "brief_title": "VA Integrated Medication Manager", 
+        "completion_date": {
+            "#text": "March 2011", 
+            "@type": "Actual"
+        }, 
+        "condition": "Electronic Health Records", 
+        "detailed_description": {
+            "textblock": "In an attempt to address problems patient non-compliance with quality goals barriers to\n      access and integration of health information that impede achievement of treatment goals, the\n      VA is developing a new approach to the electronic medical record. The VA is moving away from\n      the paper-chart metaphor and towards an integrated representation of the patient's status\n      and care process across time. One of the first steps in the development phase has been to\n      explicitly relate patient conditions, therapies, and goals in the domain of pharmacotherapy.\n      This is called Integrated Medication Management and draws on Hollnagel's Contextual Control\n      Model. Providers will be able to plan care and create orders directly in the context of\n      these explicit relationships. This application will be implemented nationwide through a web\n      interface embedded within the existing Computerized Patient Record System (CPRS), the\n      graphical user interface to VA Information Systems (VistA).\n\n      Aim 1: Identify cognitive components of providers' therapeutic decision making in the field.\n\n      Aim 2. Refine and evaluate the Integrated Medication Manager using simulation studies.\n\n        -  Aim 2.a. Refine interfaces and logic of the Integrated Medication Manager.\n\n        -  Aim 2.b. Compare the performance of the Integrated Medication Manager and usual CPRS.\n\n      All hypotheses (below) test the use of IMM versus usual electronic medical record (EMR).\n\n        -  Speed of decision-making will be faster.\n\n        -  Accuracy of data interpretation (clinical assessment) will be higher.\n\n        -  Appropriateness of therapeutic plans will be higher.\n\n        -  Efficiency of gathering information will be higher.\n\n        -  Common ground measures will be higher.\n\n        -  Appropriateness of therapeutic plans will be higher when relevant data is outside the\n           usual time horizon.\n\n        -  Appropriateness of therapeutic plans will be higher when complex associations among\n           patient therapies and goals exist.\n\n        -  Appropriateness of therapeutic plans will be no lower when relevant data is not\n           captured by the displays of the IMM.\n\n        -  Appropriateness of therapeutic plans will be higher when highly salient data is not\n           germane to the most important problem.\n\n        -  Appropriateness of therapeutic plans will be higher when cognitive load is high due to\n           interruptions."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Aim 1:\n\n        Inclusion Criteria:\n\n          -  Currently practicing at one of the five selected VA medical center sites (Salt Lake\n             City, UT; Asheville, NC; West Haven, CT; Seattle, WA; American Lakes, WA)\n\n          -  Practicing in primary care outpatient clinics\n\n          -  Prescribing provider\n\n          -  Practiced for one year at the VA\n\n        Exclusion Criteria:\n\n        - None\n\n        Aim 2:\n\n        Inclusion Criteria:\n\n          -  Practiced in primary care for at least two years\n\n          -  Third year residents with two years of residency in internal medicine or family\n             practice\n\n          -  Do not have to be currently practicing\n\n        Exclusion Criteria:\n\n          -  None"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "Aim 1: VA providers Aim 2: VA or non-VA physicians, nurse practitioners and physician\n        assistants"
+            }
+        }, 
+        "enrollment": {
+            "#text": "166", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "January 22, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01787175", 
+            "org_study_id": "5R18HS017186-03"
+        }, 
+        "intervention": {
+            "arm_group_label": "Experienced providers (Aim 2)", 
+            "description": "A theory based electronic health record.  Half of the provider participants were assigned the IMM to use.  The other half were assigned the VA's CPRS EHR to use for the simulation.  Providers were randomly assigned to a EHR to use.", 
+            "intervention_name": "Integrated Medication Manager", 
+            "intervention_type": "Other", 
+            "other_name": "IMM"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Medication Therapy Management", 
+            "Clinical Decision Support Systems", 
+            "Medical Informatics", 
+            "Patient Care Management", 
+            "United States Department of Veterans Affairs"
+        ], 
+        "lastchanged_date": "February 5, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Salt Lake City", 
+                    "country": "United States", 
+                    "state": "Utah", 
+                    "zip": "84148"
+                }, 
+                "name": "VA SLC Health Care System"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_groups": "1", 
+        "official_title": "Veterans Affairs Integrated Medication Manager", 
+        "overall_official": {
+            "affiliation": "University of Utah", 
+            "last_name": "Jonathan Nebeker, MD, MS", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "March 2011", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "Each participant had 10 minutes maximum to review the patient case and write an Assessment and Plan.", 
+                "measure": "Amount of time to complete Assessment and Plan", 
+                "safety_issue": "No", 
+                "time_frame": "10 minutes"
+            }, 
+            {
+                "description": "Each participant had 10 minutes maximum to review the patient case and write an Assessment and Plan.", 
+                "measure": "Accuracy of written Assessment and Plan in terms of control and status", 
+                "safety_issue": "No", 
+                "time_frame": "10 minutes"
+            }
+        ], 
+        "reference": [
+            {
+                "PMID": "15611491", 
+                "citation": "Asch SM, McGlynn EA, Hogan MM, Hayward RA, Shekelle P, Rubenstein L, Keesey J, Adams J, Kerr EA. Comparison of quality of care for patients in the Veterans Health Administration and patients in a national sample. Ann Intern Med. 2004 Dec 21;141(12):938-45."
+            }, 
+            {
+                "PMID": "16585667", 
+                "citation": "Perlin JB, Pogach LM. Improving the outcomes of metabolic conditions: managing momentum to overcome clinical inertia. Ann Intern Med. 2006 Apr 4;144(7):525-7."
+            }, 
+            {
+                "PMID": "10691588", 
+                "citation": "Morris AH. Developing and implementing computerized protocols for standardization of clinical decisions. Ann Intern Med. 2000 Mar 7;132(5):373-83."
+            }, 
+            {
+                "PMID": "15537204", 
+                "citation": "Fox J, Alabassi A, Black E, Hurt C, Rose T. Modelling clinical goals: a corpus of examples and a tentative ontology. Stud Health Technol Inform. 2004;101:31-45."
+            }, 
+            {
+                "PMID": "8976626", 
+                "citation": "Xiao Y, Hunter WA, Mackenzie CF, Jefferies NJ, Horst RL. Task complexity in emergency medical care and its implications for team coordination. LOTAS Group. Level One Trauma Anesthesia Simulation. Hum Factors. 1996 Dec;38(4):636-45."
+            }, 
+            {
+                "PMID": "11694107", 
+                "citation": "Phillips LS, Branch WT, Cook CB, Doyle JP, El-Kebbi IM, Gallina DL, Miller CD, Ziemer DC, Barnes CS. Clinical inertia. Ann Intern Med. 2001 Nov 6;135(9):825-34. Review."
+            }, 
+            {
+                "PMID": "14528038", 
+                "citation": "Nebeker JR, Hurdle JF, Bair BD. Future history: medical informatics in geriatrics. J Gerontol A Biol Sci Med Sci. 2003 Sep;58(9):M820-5. Review. PubMed PMID: 14528038."
+            }, 
+            {
+                "PMID": "16046562", 
+                "citation": "Crosson JC, Stroebel C, Scott JG, Stello B, Crabtree BF. Implementing an electronic medical record in a family medicine practice: communication, decision making, and conflict. Ann Fam Med. 2005 Jul-Aug;3(4):307-11."
+            }, 
+            {
+                "PMID": "16050875", 
+                "citation": "Hayward RA, Asch SM, Hogan MM, Hofer TP, Kerr EA. Sins of omission: getting too little medical care may be the greatest threat to patient safety. J Gen Intern Med. 2005 Aug;20(8):686-91."
+            }, 
+            {
+                "PMID": "15625341", 
+                "citation": "Tinetti ME, Bogardus ST Jr, Agostini JV. Potential pitfalls of disease-specific guidelines for patients with multiple conditions. N Engl J Med. 2004 Dec 30;351(27):2870-4."
+            }, 
+            {
+                "PMID": "15755945", 
+                "citation": "Garg AX, Adhikari NK, McDonald H, Rosas-Arellano MP, Devereaux PJ, Beyene J, Sam J, Haynes RB. Effects of computerized clinical decision support systems on practitioner performance and patient outcomes: a systematic review. JAMA. 2005 Mar 9;293(10):1223-38. Review."
+            }, 
+            {
+                "PMID": "17106490", 
+                "citation": "Shekelle PG. Invited commentary: Implementation of health information technology: an important but challenging field of inquiry. Proc (Bayl Univ Med Cent). 2006 Oct;19(4):313."
+            }, 
+            {
+                "PMID": "17068345", 
+                "citation": "Weir CR, Nebeker JJ, Hicken BL, Campo R, Drews F, Lebar B. A cognitive task analysis of information management strategies in a computerized provider order entry environment. J Am Med Inform Assoc. 2007 Jan-Feb;14(1):65-75. Epub 2006 Oct 26."
+            }, 
+            {
+                "PMID": "9533188", 
+                "citation": "Berg CA, Strough JN, Calderone KS, Sansone C, Weir C. The role of problem definitions in understanding age and context effects on strategies for solving everyday problems. Psychol Aging. 1998 Mar;13(1):29-44."
+            }, 
+            {
+                "PMID": "9929232", 
+                "citation": "Weir CR. Linking information needs with evaluation: the role of task identification. Proc AMIA Symp. 1998:310-4."
+            }, 
+            {
+                "PMID": "1065968", 
+                "citation": "Taatz H. [The problem of the time factor in orthodontic treatment]. Stomatol DDR. 1976 Feb;26(2):102-5. German."
+            }, 
+            {
+                "PMID": "10787581", 
+                "citation": "Campbell M, Grimshaw J, Steen N. Sample size calculations for cluster randomised trials. Changing Professional Practice in Europe Group (EU BIOMED II Concerted Action). J Health Serv Res Policy. 2000 Jan;5(1):12-6."
+            }, 
+            {
+                "PMID": "15046136", 
+                "citation": "Miller RH, Sim I. Physicians' use of electronic medical records: barriers and solutions. Health Aff (Millwood). 2004 Mar-Apr;23(2):116-26."
+            }, 
+            {
+                "PMID": "10414834", 
+                "citation": "Bradley EH, Bogardus ST Jr, Tinetti ME, Inouye SK. Goal-setting in clinical medicine. Soc Sci Med. 1999 Jul;49(2):267-78."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01787175"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "description": "Each participant had 10 minutes maximum to review the patient case and write an Assessment and Plan.", 
+            "measure": "Identification of planned monitoring and follow up encounters in Assessment and Plan", 
+            "safety_issue": "No", 
+            "time_frame": "10 minutes"
+        }, 
+        "source": "University of Utah", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Agency for Healthcare Research and Quality (AHRQ)", 
+                "agency_class": "U.S. Fed"
+            }, 
+            "lead_sponsor": {
+                "agency": "University of Utah", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "October 2007", 
+        "study_design": "N/A", 
+        "study_type": "Observational", 
+        "verification_date": "February 2013"
+    }
+}

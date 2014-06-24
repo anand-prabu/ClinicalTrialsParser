@@ -1,0 +1,141 @@
+{
+    "clinical_study": {
+        "@rank": "149680", 
+        "arm_group": [
+            {
+                "arm_group_label": "Complete Rotarix vaccination cohort", 
+                "description": "Subjects had received 2 doses of Rotarix within the vaccination window and the observation time is from the end of the vaccination window (8 months old for ACIP scenario, or 6 months old for PI scenario) to end of observation."
+            }, 
+            {
+                "arm_group_label": "Incomplete Rotarix vaccination cohort", 
+                "description": "Subjects had received one vaccination of Rotarix within the vaccination window and the observation time is from end of vaccination window (8 months old for ACIP scenario, or 6 months old for PI scenario)(if still observed) to end of observation."
+            }, 
+            {
+                "arm_group_label": "Historical unvaccinated cohort", 
+                "description": "Subjects did not receive any Rotarix vaccine dose within the vaccination window and the observation time is from end of the vaccination window (8 months old for ACIP scenario, or 6 months old for PI scenario, if vaccination window ends on/before 12/31/2006) to end of observation."
+            }, 
+            {
+                "arm_group_label": "Contemporary unvaccinated cohort", 
+                "description": "Subjects did not receive any Rotarix vaccine dose within the vaccination window and the observation time is from end of the vaccination window (8 months old for ACIP scenario, or 6 months old for PI scenario, if vaccination window ends after 1/1/2007) to end of observation."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This study aims to estimate the clinical and cost impact of Rotarix vaccinations among\n      children aged less than 5 years using insurance claims data from commercial plans and\n      Medicaid low-income population. The impact of incomplete and complete Rotarix vaccination\n      will also be examined, overall and stratified by calendar time of Rotarix vaccination (e.g.,\n      2008 onward)."
+        }, 
+        "brief_title": "Study to Analyze the Clinical and Cost Impact of Complete and Incomplete Rotarix Vaccination", 
+        "completion_date": {
+            "#text": "February 2014", 
+            "@type": "Actual"
+        }, 
+        "condition": "Gastroenteritis", 
+        "condition_browse": {
+            "mesh_term": "Gastroenteritis"
+        }, 
+        "detailed_description": {
+            "textblock": "Insurance claims data from the MarketScan Commercial Claims and Encounters Database\n      {MarketScan Commercial (2000-2010)} and the MarketScan Multi-State Medicaid Database\n      {MarketScan Medicaid (2002-2009)} will be analyzed separately; no merging of the databases\n      will occur.\n\n      The claims data extracts are fully de-identified and compliant with the Health Insurance\n      Portability and Accountability Act of 1996 (U.S.) (HIPAA).\n\n      The children will be observed from birth to the earliest of end of continuous eligibility\n      (due to disenrollment, data cut-off, or death) or 5 years of age. Observation time will be\n      classified using two different definitions of Rotarix vaccination coverage, and analyses\n      will be conducted for each different scenario.\n\n      The two definitions for Rotarix vaccination coverage are:\n\n        1. Rotarix vaccination according to compliance with the Advisory Committee on Immunization\n           Practices (ACIP)-specified vaccination window of 6 weeks to 8 months old.\n\n        2. Rotarix vaccination according to compliance with the Rotarix prescribing information\n           (PI) window of 6 weeks to 6 months old.\n\n      All outcomes will be analysed for 1) vaccination coverage according to compliance with the\n      ACIP vaccination window, and 2) vaccination coverage according to compliance with PI\n      vaccination window; for both Rotarix vaccination coverage scenarios there will be four\n      cohorts.\n\n      An additional 'complete Rotarix vaccination off-ACIP/off-PI' cohort will be created if more\n      than 5 percent of total person-time in the four cohorts would be complete vaccination if\n      vaccine doses outside of the vaccination window were considered."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Continuously enrolled from birth. (Note: Due to the absence of birth dates in\n             insurance claims data, this inclusion criterion will be met if a child's year of\n             first enrollment and year of birth are the same. If so, then the date of first\n             enrollment will be used as proxy for date of birth.)\n\n          -  Received both medical and pharmacy benefits.\n\n        Exclusion Criteria:\n\n          -  Enrolled in capitation-based health plans.\n\n          -  For MarketScan Commercial, residence in states with universal vaccination programs\n             that include the RV vaccine or where RV vaccine inclusion cannot be ascertained\n             (i.e., Alaska, Idaho, Massachusetts, Maine, North Dakota, New Hampshire, New Mexico,\n             Oregon, Rhode Island, Vermont, Washington, Wisconsin, and Wyoming).\n\n          -  Received any Rotateq vaccination.\n\n          -  Lost to follow-up prior to end of vaccination window or had RV prior to end of\n             vaccination window."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "5 Years", 
+            "minimum_age": "N/A", 
+            "sampling_method": "Probability Sample", 
+            "study_pop": {
+                "textblock": "Children less than 5 years old continuously enrolled in commercial insurance or Medicaid\n        from birth, and received both medical and pharmacy benefits."
+            }
+        }, 
+        "enrollment": {
+            "#text": "1", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "July 25, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01915888", 
+            "org_study_id": "116830"
+        }, 
+        "intervention": {
+            "arm_group_label": [
+                "Contemporary unvaccinated cohort", 
+                "Complete Rotarix vaccination cohort", 
+                "Historical unvaccinated cohort", 
+                "Incomplete Rotarix vaccination cohort"
+            ], 
+            "description": "The data collected for each group will be fully de-identified, interpreted and analysed separately for the 2 databases (MarketScan Commercial and MarketScan Medicaid).", 
+            "intervention_name": "Data interpretation", 
+            "intervention_type": "Other"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "keyword": [
+            "Clinical", 
+            "Cost", 
+            "Rotarix vaccination", 
+            "Children", 
+            "Rotavirus"
+        ], 
+        "lastchanged_date": "March 13, 2014", 
+        "number_of_groups": "4", 
+        "official_title": "Clinical and Cost Impact of Complete and Incomplete Rotarix Vaccination", 
+        "overall_official": {
+            "affiliation": "GlaxoSmithKline", 
+            "last_name": "GSK Clinical Trials", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "February 2014", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "Estimation and comparison of the clinical impact of complete and incomplete Rotarix vaccination among children less than 5 years of age", 
+                "measure": "Incidence of first RV episode", 
+                "safety_issue": "No", 
+                "time_frame": "During the study period (from 2000 up to 2010)"
+            }, 
+            {
+                "description": "Estimation and comparison of the clinical impact of complete and incomplete Rotarix vaccination among children less than 5 years of age", 
+                "measure": "Incidence of RV-related utilization", 
+                "safety_issue": "No", 
+                "time_frame": "During the study period (from 2000 up to 2010)"
+            }, 
+            {
+                "description": "Estimation and comparison of the clinical impact of complete and incomplete Rotarix vaccination among children less than 5 years of age", 
+                "measure": "Incidence of diarrhea-related utilization", 
+                "safety_issue": "No", 
+                "time_frame": "During the study period (from 2000 up to 2010)"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01915888"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "GlaxoSmithKline", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Analysis Group, Inc.", 
+                "agency_class": "Industry"
+            }, 
+            "lead_sponsor": {
+                "agency": "GlaxoSmithKline", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "August 2013", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Retrospective", 
+        "study_type": "Observational", 
+        "verification_date": "March 2014"
+    }
+}

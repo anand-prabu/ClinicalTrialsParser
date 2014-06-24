@@ -1,0 +1,561 @@
+{
+    "clinical_study": {
+        "@rank": "100850", 
+        "arm_group": [
+            {
+                "arm_group_label": "Metastatic breast cancer", 
+                "arm_group_type": "Experimental", 
+                "description": "Evaluation of safety and efficacy in patients with metastatic breast cancer whose tumors contain mutations to PIK3CA and alterations FGFR 1-3."
+            }, 
+            {
+                "arm_group_label": "Solid tumor arm 1", 
+                "arm_group_type": "Experimental", 
+                "description": "Patients with solid tumors (except for colorectal cancer) whose tumors express mutations to PIK3CA."
+            }, 
+            {
+                "arm_group_label": "Solid tumor arm 2", 
+                "arm_group_type": "Experimental", 
+                "description": "Patients with solid tumors (except for colorectal cancer) whose tumomrs express mutations to PIK3CA and alterations to FGFR 1-3"
+            }, 
+            {
+                "arm_group_label": "Dose escalation", 
+                "arm_group_type": "Experimental", 
+                "description": "To determine the MTD or RDE of the combination of BGJ398 with BYL719 in patients with advanced or metastastic solid tumors that express mutations to PIK3CA."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "To study the safety and efficacy of the combination of BGJ398 with BYL719 in patients whose\n      tumors express mutations to PIK3CA with or without alterations to FGFR 1-3."
+        }, 
+        "brief_title": "Phase 1b Trial of BGJ398/BYL719 in Solid Tumors", 
+        "completion_date": {
+            "#text": "March 2016", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Advanced Solid Tumors,", 
+            "Metastatic Solid Tumors"
+        ], 
+        "condition_browse": {
+            "mesh_term": "Neoplasms"
+        }, 
+        "detailed_description": {
+            "textblock": "This dose escalation/dose expansion study will evaluate the combination of orally\n      administered BGJ398 in combination with orally administered BYL719.  During the dose\n      escalation part, the MTD of the combination will be determined in patients whose advanced or\n      metastatic tumors express mutations to PIK3CA.  Once the MTD has been determined, the\n      expansion part will begin.  Patients will be addd to one of three arms based on the disease\n      type and genetic changes. Patients with metastatic colorectal cancer are  not eligible for\n      participation in the expansion part."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Histologically/cytologically confirmed advanced or metastatic solid tumors who have\n             failed standard therapy or for whom no effective standard anti-cancer therapy exists\n\n          -  Documented PIK3CA mutations in all patients in dose escalation and expansion with or\n             without documented genetic alterations in FGFR depending upon dose expansion cohort\n             (either local or central determination)\n\n          -  Measurable disease defined by RECIST v1.1\n\n          -  ECOG performance status of \u22642\n\n        Exclusion Criteria:\n\n          -  Prior PI3Ki or selective FGFR inhibitor treatment (for patients enrolled to expansion\n             part)\n\n          -  Colorectal cancer (for patients enrolled to expansion part)\n\n          -  Patients with diabetes mellitus requiring insulin treatment and/or with clinical\n             signs or with fasting glucose \u2265 140 mg/dL / 7.8 mmol/L, history of clinically\n             significant gestational diabetes mellitus or documented steroid-induced diabetes\n             mellitus\n\n          -  Use of medications that increase serum levels of phosphorus and/or calcium\n\n          -  Inorganic phosphorus outside of normal limits\n\n          -  Total and ionized serum calcium outside of normal limits"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "55", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "August 21, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01928459", 
+            "org_study_id": "CBGJ398X2102"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Metastatic breast cancer", 
+                    "Solid tumor arm 1", 
+                    "Solid tumor arm 2", 
+                    "Dose escalation"
+                ], 
+                "description": "BGJ398 will be administered orally once daily for the first 21 days of each 28-day cycle.", 
+                "intervention_name": "BGJ398", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "Metastatic breast cancer", 
+                    "Solid tumor arm 1", 
+                    "Solid tumor arm 2", 
+                    "Dose escalation"
+                ], 
+                "description": "BYL719 will be administered orally once daily on each day of the 28-day cycle.", 
+                "intervention_name": "BYL719", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "keyword": "BGJ398, BYL719, advanced solid tumor, metastatic breast cancer, PK3CA, FGFR, fibroblast growth factor receptor,", 
+        "lastchanged_date": "February 21, 2014", 
+        "location": [
+            {
+                "contact": {
+                    "email": "lawrence.mckinney@moffitt.org", 
+                    "last_name": "Lawrence P. Mckinney", 
+                    "phone": "813-745-1477"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Tampa", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33612"
+                    }, 
+                    "name": "H. Lee Moffitt Cancer Center & Research Institute Moffitt 4"
+                }, 
+                "investigator": {
+                    "last_name": "Amit Mahipal", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "shelagh@med.umich.edu", 
+                    "last_name": "Shelagh Elliott", 
+                    "phone": "734-232-0759"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Ann Arbor", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48109-0944"
+                    }, 
+                    "name": "University of Michigan Comprehensive Cancer Center SC"
+                }, 
+                "investigator": {
+                    "last_name": "Rashmi Chugh", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "bowditch@karmanos.org", 
+                    "last_name": "Gail the Newth", 
+                    "phone": "+1 313 576 8096"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Detroit", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48201"
+                    }, 
+                    "name": "Wayne State University/Karmanos Cancer Institute Dept of Onc"
+                }, 
+                "investigator": {
+                    "last_name": "Patricia M. LoRusso", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "trulll@siteman.wustl.edu", 
+                    "last_name": "Lauren Trull", 
+                    "phone": "314-362-7249"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "St. Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63110"
+                    }, 
+                    "name": "Washington University School Of Medicine-Siteman Cancer Ctr Onc Dept"
+                }, 
+                "investigator": {
+                    "last_name": "Cynthia Ma", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "furym@mskcc.org", 
+                    "last_name": "Matthew G. Fury, M.D.", 
+                    "phone": "646-888-4233"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10021"
+                    }, 
+                    "name": "Memorial Sloan Kettering Cancer Center Onc Dept"
+                }, 
+                "investigator": {
+                    "last_name": "Matthew G Fury", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Memphis", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "38120"
+                    }, 
+                    "name": "The West Clinic Dept of Oncology"
+                }, 
+                "status": "Withdrawn"
+            }, 
+            {
+                "contact": {
+                    "email": "Barbara.j.broome@vanderbilt.edu", 
+                    "last_name": "Barbara J Broome", 
+                    "phone": "615-343-0798"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Nashville", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37232"
+                    }, 
+                    "name": "Vanderbilt University Medical Center Dept of Onc"
+                }, 
+                "investigator": {
+                    "last_name": "Ingrid Mayer", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "LammersA@uthscsa.edu", 
+                    "last_name": "Anita A Lammers", 
+                    "phone": "210-450-5976"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "San Antonio", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78229"
+                    }, 
+                    "name": "Cancer Therapy & Research Center / UT Health Science Center SC"
+                }, 
+                "investigator": {
+                    "last_name": "John Sarantopoulos", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Parkville", 
+                        "country": "Australia", 
+                        "state": "Victoria", 
+                        "zip": "3050"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Brussel", 
+                        "country": "Belgium", 
+                        "zip": "1200"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toronto", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "M5G 2M9"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lyon Cedex", 
+                        "country": "France", 
+                        "zip": "69373"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Herblain cedex", 
+                        "country": "France", 
+                        "zip": "44805"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toulouse Cedex 3", 
+                        "country": "France", 
+                        "zip": "31052"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Villejuif Cedex", 
+                        "country": "France", 
+                        "zip": "94805"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Withdrawn"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "K\u00f6ln", 
+                        "country": "Germany", 
+                        "zip": "50924"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milano", 
+                        "country": "Italy", 
+                        "state": "MI", 
+                        "zip": "20141"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Modena", 
+                        "country": "Italy", 
+                        "state": "MO", 
+                        "zip": "41100"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seoul", 
+                        "country": "Korea, Republic of", 
+                        "zip": "738-736"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Amsterdam", 
+                        "country": "Netherlands", 
+                        "zip": "1066 CX"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Singapore", 
+                        "country": "Singapore", 
+                        "zip": "169610"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sevilla", 
+                        "country": "Spain", 
+                        "state": "Andalucia", 
+                        "zip": "41013"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Barcelona", 
+                        "country": "Spain", 
+                        "state": "Catalu\u00f1a", 
+                        "zip": "08035"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Madrid", 
+                        "country": "Spain", 
+                        "zip": "28050"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Withdrawn"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Madrid", 
+                        "country": "Spain", 
+                        "zip": "28050"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bellinzona", 
+                        "country": "Switzerland", 
+                        "zip": "6500"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oxford", 
+                        "country": "United Kingdom", 
+                        "zip": "OX3 7LJ"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Australia", 
+                "Belgium", 
+                "Canada", 
+                "France", 
+                "Germany", 
+                "Italy", 
+                "Korea, Republic of", 
+                "Netherlands", 
+                "Singapore", 
+                "Spain", 
+                "Switzerland", 
+                "United Kingdom"
+            ]
+        }, 
+        "number_of_arms": "4", 
+        "official_title": "A Phase Ib, Open-label Study of Oral BGJ398 in Combination With Oral BYL719 in Adult Patients With Select Advanced Solid Tumors", 
+        "overall_contact": {
+            "last_name": "Novartis Pharmaceuticals", 
+            "phone": "1-888-669-6682"
+        }, 
+        "overall_contact_backup": {
+            "last_name": "Novartis Pharmaceuticals", 
+            "phone_ext": "+41613241111"
+        }, 
+        "overall_official": {
+            "affiliation": "Novartis Pharmaceuticals", 
+            "last_name": "Novartis Pharmaceuticals", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 1", 
+        "primary_completion_date": {
+            "#text": "March 2016", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "The dose escalation part of the study will be guided by a well-established statistical method/model to estimate the maximum tolerated dose(s) and/or the recommended dose for expansion (RDE). Safety(incidence and nature of DLTs), pharmacokinetic and pharmacodynamic data will guide dose escalation decisioins.", 
+            "measure": "Incidence rate of dose limiting toxicities (DLTs) of the combination of BGJ398 with BYL719", 
+            "safety_issue": "Yes", 
+            "time_frame": "Approximately 8 months"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01928459"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "This will be assessed by looking at the number of Adverse Events (AEs), serious AEs (SAEs) changes in hematology and chemistry values, vital signs, electrocardiograms (ECGs), dose interruptions and reductions", 
+                "measure": "Safety and tolerability of BGJ398/BYL719 combination at the recommended dose for expansion (RDE)", 
+                "safety_issue": "Yes", 
+                "time_frame": "Every 28 days from baseline visit until end of study visit"
+            }, 
+            {
+                "description": "Assessment of preliminary antitumor activity of the combination of BGJ398 with BYL719; Overall response rate = complete response + partial response", 
+                "measure": "Overall response rate", 
+                "safety_issue": "No", 
+                "time_frame": "Every two months from the date of baseline CT scan"
+            }, 
+            {
+                "description": "Assessment of preliminary antitumor activity of the combination of BGJ398 with BYL719", 
+                "measure": "Progression free survival", 
+                "safety_issue": "No", 
+                "time_frame": "Every two months from the date of baseline CT scan"
+            }, 
+            {
+                "description": "Plasma concentration versus time profiles.  Plasma PK parameters will be used to characterize the PK profiles of the combination of BGJ398 with BYL719", 
+                "measure": "Time vs. concentration profile of BGJ398 and BYL719", 
+                "safety_issue": "Yes", 
+                "time_frame": "Every 28 days for up to 10 cycles"
+            }
+        ], 
+        "source": "Novartis", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Novartis Pharmaceuticals", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "October 2013", 
+        "study_design": "Allocation: Non-Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "February 2014"
+    }
+}

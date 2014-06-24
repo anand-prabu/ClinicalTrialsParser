@@ -1,0 +1,197 @@
+{
+    "clinical_study": {
+        "@rank": "10047", 
+        "arm_group": [
+            {
+                "arm_group_label": "Arm I (High-risk for familial or hereditary pancreatic cancer)", 
+                "arm_group_type": "Experimental", 
+                "description": "Patients undergo DCE MRI for up to 3 scans."
+            }, 
+            {
+                "arm_group_label": "Arm II (IPMN)", 
+                "arm_group_type": "Experimental", 
+                "description": "Patients undergo DCE MRI prior to surgery."
+            }, 
+            {
+                "arm_group_label": "Arm III (Unresectable pancreatic cancer)", 
+                "arm_group_type": "Experimental", 
+                "description": "Patients undergo DCE MRI before and after neoadjuvant therapy."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This clinical trial studies an imaging technique known as dynamic contrast enhanced magnetic\n      resonance imaging (DCE MRI) in identifying the presence of pancreatic cancer. DCE MRI is a\n      procedure that takes detailed pictures of functional and structural properties inside the\n      body using magnetic field and radio frequency pulses. These pictures may help identify\n      underlying malignancy in patients at high risk or active malignancy in patients who have\n      undergone chemotherapy for pancreatic cancer."
+        }, 
+        "brief_title": "DCE MRI in Diagnosing Patients With Pancreatic Cancer", 
+        "condition": [
+            "Hereditary Pancreatic Cancer", 
+            "Intraductal Papillary Mucinous Neoplasm of the Pancreas", 
+            "Recurrent Pancreatic Cancer", 
+            "Stage III Pancreatic Cancer", 
+            "Stage IV Pancreatic Cancer"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Neoplasms", 
+                "Pancreatic Neoplasms", 
+                "Carcinoma"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "PRIMARY OBJECTIVES:\n\n      I. Assess the ability of DCE MRI to identify the presence of pancreatic cancer in patients\n      at high risk for hereditary pancreatic cancer.\n\n      II. Assess the ability of DCE MRI to identify the presence of pancreatic cancer in patients\n      with cystic lesions of the pancreas.\n\n      III. Assess the ability to DCE MRI to accurately predict tumor margins in patients who have\n      undergone chemotherapy for pancreatic cancer.\n\n      SECONDARY OBJECTIVES:\n\n      I. In each of the three groups listed above clinical factors associated with the presence of\n      pancreatic cancer will be analyzed; in addition, disease free survival and overall survival\n      will be analyzed in each group.\n\n      OUTLINE: Patients are assigned to 1 of 3 treatment arms.\n\n      ARM I (High-risk for familial or hereditary pancreatic cancer): Patients undergo DCE MRI for\n      up to 3 scans.\n\n      ARM II (Intraductal Papillary Mucinous Neoplasms [IPMN]): Patients undergo DCE MRI prior to\n      surgery.\n\n      ARM III (Unresectable pancreatic cancer): Patients undergo DCE MRI before and after\n      neoadjuvant therapy."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Must be consented for the Oregon Pancreatic Tumor Registry (OPTR)\n\n          -  Must not have contraindication for MRI or intravenous (IV) contrast administration"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "85 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "150", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "February 21, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02070705", 
+            "org_study_id": "9694", 
+            "secondary_id": [
+                "NCI-2014-00270", 
+                "9694", 
+                "P30CA069533"
+            ]
+        }, 
+        "intervention": {
+            "arm_group_label": [
+                "Arm I (High-risk for familial or hereditary pancreatic cancer)", 
+                "Arm II (IPMN)", 
+                "Arm III (Unresectable pancreatic cancer)"
+            ], 
+            "description": "Undergo DCE MRI", 
+            "intervention_name": "dynamic contrast-enhanced magnetic resonance imaging", 
+            "intervention_type": "Device", 
+            "other_name": "DCE-MRI"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "lastchanged_date": "February 24, 2014", 
+        "location": {
+            "contact": {
+                "email": "gilberte@ohsu.edu", 
+                "last_name": "Erin Gilbert", 
+                "phone": "503-494-6900"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Portland", 
+                    "country": "United States", 
+                    "state": "Oregon", 
+                    "zip": "97239"
+                }, 
+                "name": "OHSU Knight Cancer Institute"
+            }, 
+            "investigator": {
+                "last_name": "Erin Gilbert", 
+                "role": "Principal Investigator"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "The Use of Dynamic Contrast Enhanced Magnetic Resonance Imaging (DCE MRI) in the Management of Pancreatic Cancer", 
+        "overall_official": {
+            "affiliation": "OHSU Knight Cancer Institute", 
+            "last_name": "Erin Gilbert", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "December 2018", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "Descriptive statistical analysis will be conducted for primary endpoints. Kappa statistic, overall percent of agreement, positive percent agreement and negative percent agreement will be computed for assessing agreement between DCE MRI approach and the standard imaging approach.", 
+                "measure": "The presence of pancreatic cancer (Arms I & II)", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 4 years"
+            }, 
+            {
+                "description": "The change of DCE MRI parameters from baseline will be correlated with the tumor margins determined by pathological specimen following surgical resection through linear regression model.", 
+                "measure": "Change in tumor margins (Arm III)", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to up to 4 years"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02070705"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Kaplan-Meier method will be used to estimate the survival distribution for disease free survival in each patient group. The estimated median and 95% confidence interval will be computed.", 
+                "measure": "Disease free survival (DFS) (Arm I)", 
+                "safety_issue": "No", 
+                "time_frame": "Time of enrollment to time of most recent standard surveillance imaging to occur every 6-12 months, assessed up to 4 years"
+            }, 
+            {
+                "description": "Kaplan-Meier method will be used to estimate the survival distribution for disease free survival in each patient group. The estimated median and 95% confidence interval will be computed.", 
+                "measure": "DFS (Arm II & III)", 
+                "safety_issue": "No", 
+                "time_frame": "Time of surgical resection to time of most recent standard surveillance imaging to occur every 3-6 months, assessed up to 4 years"
+            }, 
+            {
+                "description": "Kaplan-Meier method will be used to estimate the survival distribution for overall survival in each patient group. The estimated median and 95% confidence interval will be computed.", 
+                "measure": "Overall survival (Arms I, II, & III)", 
+                "safety_issue": "No", 
+                "time_frame": "Time of surgical resection to time of most recent follow up, assessed up to 4 years"
+            }, 
+            {
+                "description": "Surgical pathological diagnosis, pathological stage and resection margin status will be assessed as potential confounders or effect modifiers in the model. C-statistics will be reported for each model.", 
+                "measure": "Surgical pathological diagnosis (Arm II & III)", 
+                "safety_issue": "No", 
+                "time_frame": "At time of surgery"
+            }, 
+            {
+                "description": "Surgical pathological diagnosis, pathological stage and resection margin status will be assessed as potential confounders or effect modifiers in the model. C-statistics will be reported for each model.", 
+                "measure": "T and N stage according to the American Joint Committee on Cancer TNM staging system (Arm II & III)", 
+                "safety_issue": "No", 
+                "time_frame": "At time of surgery"
+            }, 
+            {
+                "description": "Assessed as potential confounders or effect modifiers in the model.", 
+                "measure": "Resection margin status (R0, R1 or R2) (Arm III)", 
+                "safety_issue": "No", 
+                "time_frame": "At time of surgery"
+            }
+        ], 
+        "source": "OHSU Knight Cancer Institute", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "OHSU Knight Cancer Institute", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2014", 
+        "study_design": "Allocation: Non-Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "February 2014"
+    }
+}

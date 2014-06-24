@@ -1,0 +1,1657 @@
+{
+    "clinical_study": {
+        "@rank": "16646", 
+        "arm_group": [
+            {
+                "arm_group_label": "ELLIPTA Period 1 and DISKUS Period 2 Arm", 
+                "arm_group_type": "Experimental", 
+                "description": "Subjects will use the ELLIPTA inhaler once daily for 5 to 9 days during the first period followed by the DISKUS inhaler twice daily for 5 to 9 days during the second period."
+            }, 
+            {
+                "arm_group_label": "DISKUS Period 1 and ELLIPTA Period 2 Arm", 
+                "arm_group_type": "Experimental", 
+                "description": "Subjects will use the DISKUS inhaler twice daily for 5 to 9 days during the first period followed by the ELLIPTA inhaler once daily for 5 to 9 days during the second period."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Subjects who have not used the ELLIPTA\u2122  inhaler nor the DISKUS\u2122 inhaler in the past 6\n      months will be screened to participate in the study. Subjects will have an equal chance of\n      being in any of the following two groups (1:1 allocation). One group will be dispensed the\n      ELLIPTA inhaler at Visit 1 to use during the first period (once daily for 5 to9 days), and\n      the DISKUS inhaler at Visit 2 to use during the second period (twice daily for 5 to 9 days).\n      The other group will be dispensed the DISKUS inhaler at Visit 1 to use during the first\n      period (twice daily for 5 to 9 days), and the ELLIPTA inhaler at Visit 2 to use during the\n      second period (once daily for 5 to9 days).  At the end of the second period, subjects will\n      complete the study by answering 7 questions to assess their preference of device attributes\n      and dosing regimens between the two inhalers.\n\n      The null hypothesis for device preference for a specific attribute is that 50% subjects\n      express a preference in that attribute for ELLIPTA and 50% do NOT express a preference in\n      that attribute for ELLIPTA, i.e., the odds for preferring ELLIPTA to not preferring ELLIPTA\n      is unity.\n\n      The null hypothesis for dosing regimen preference is that 50% subjects express a preference\n      of once daily dosing and 50% do not express a preference of once daily dosing (prefer twice\n      daily dosing or have no preference)."
+        }, 
+        "brief_title": "DISKUS vs. ELLIPTA Device Preference Study in Chronic Obstructive Pulmonary Disease (COPD)", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "B1", 
+                        "description": "Participants who were on their current COPD medication(s) were randomized to receive one of the following two sequences of DPIs containing placebo: (1) DISKUS BID for 5-9 days in Period 1 and ELLIPTA QD for 5-9 days in Period 2; (2) ELLIPTA QD for 5-9 days in Period 1 and DISKUS BID for 5-9 days in Period 2. There was no washout period between the two periods. Neither DPI contained any active treatment; placebo was administered in both DPIs.", 
+                        "title": "DISKUS BID in Period 1 or 2; ELLIPTA QD in Period 1 or 2"
+                    }
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "287"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@spread": "9.74", 
+                                            "@value": "64.7"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "Years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "134"
+                                            }
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "153"
+                                            }
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "Participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "17"
+                                            }
+                                        }, 
+                                        "sub_title": "African American/African Heritage"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "270"
+                                            }
+                                        }, 
+                                        "sub_title": "White - White/Caucasian/European Heritage"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Race/Ethnicity, Customized", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "GSK agreements may vary with individual investigators, but will not prohibit any investigator from publishing. GSK supports the publication of results from all centers of a multi-center trial but requests that reports based on single-site data not precede the primary publication of the entire clinical trial."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "method": "Cochran-Mantel-Haenszel", 
+                                "non_inferiority": "No", 
+                                "p_value": "<0.001", 
+                                "p_value_desc": "The response  was analyzed and adjusted for study inhaler use sequence and preference question version. The method accounted for participants who indicated no preference."
+                            }
+                        }, 
+                        "description": "The number of participants who expressed the indicated device preference (i.e., preference for ELLIPTA inhaler, preference for DISKUS inhaler, and no preference) based on the size of the numbers on the dose counter was summarized by study inhaler use sequence.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Participants who were on their current COPD medication(s) were randomized to receive DISKUS BID for 5-9 days in Period 1 and ELLIPTA QD for 5-9 days in Period 2. There was no washout period between the two periods. Neither DPI contained any active treatment; placebo was administered in both DPIs.", 
+                                    "title": "DISKUS BID in Period 1; ELLIPTA QD in Period 2"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Participants who were on their current COPD medication(s) were randomized to receive ELLIPTA QD for 5-9 days in Period 1 and DISKUS BID for 5-9 days in Period 2. There was no washout period between the two periods. Neither DPI contained any active treatment; placebo was administered in both DPIs.", 
+                                    "title": "ELLIPTA QD in Period 1; DISKUS BID in Period 2"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "143"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "142"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "107"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "86"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "ELLIPTA inhaler"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "23"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "34"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "DISKUS inhaler"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "13"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "22"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "No preference"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "The number of participants who expressed the indicated device preference (i.e., preference for ELLIPTA inhaler, preference for DISKUS inhaler, and no preference) based on the size of the numbers on the dose counter was summarized by study inhaler use sequence.", 
+                                    "param": "Number", 
+                                    "title": "Number of Participants With the Indicated Device Preference Based on the Size of the Numbers on the Dose Counter", 
+                                    "units": "participants"
+                                }
+                            ]
+                        }, 
+                        "population": "Per Protocol (PP) Population: all participants in the Intent-to-Treat (ITT) Population (comprised of all participants who had been randomized and received one dose of at least one study inhaler) who completed at least one question from the seven preference questions", 
+                        "safety_issue": "No", 
+                        "time_frame": "up to Study Day 26", 
+                        "title": "Number of Participants With the Indicated Device Preference Based on the Size of the Numbers on the Dose Counter", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "The number of participants who expressed the indicated device preference (i.e., preference for ELLIPTA inhaler, preference for DISKUS inhaler, and no preference) based on the number of steps needed to take the COPD medication was summarized by study inhaler use sequence.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Participants who were on their current COPD medication(s) were randomized to receive DISKUS BID for 5-9 days in Period 1 and ELLIPTA QD for 5-9 days in Period 2. There was no washout period between the two periods. Neither DPI contained any active treatment; placebo was administered in both DPIs.", 
+                                    "title": "DISKUS BID in Period 1; ELLIPTA QD in Period 2"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Participants who were on their current COPD medication(s) were randomized to receive ELLIPTA QD for 5-9 days in Period 1 and DISKUS BID for 5-9 days in Period 2. There was no washout period between the two periods. Neither DPI contained any active treatment; placebo was administered in both DPIs.", 
+                                    "title": "ELLIPTA QD in Period 1; DISKUS BID in Period 2"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "143"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "142"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "100"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "90"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "ELLIPTA inhaler"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "29"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "36"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "DISKUS inhaler"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "14"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "16"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "No preference"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "The number of participants who expressed the indicated device preference (i.e., preference for ELLIPTA inhaler, preference for DISKUS inhaler, and no preference) based on the number of steps needed to take the COPD medication was summarized by study inhaler use sequence.", 
+                                    "param": "Number", 
+                                    "title": "Number of Participants With the Indicated Device Preference Based on the Number of Steps Needed to Take the COPD Medication", 
+                                    "units": "Participants"
+                                }
+                            ]
+                        }, 
+                        "population": "PP Population", 
+                        "safety_issue": "No", 
+                        "time_frame": "up to Study Day 26", 
+                        "title": "Number of Participants With the Indicated Device Preference Based on the Number of Steps Needed to Take the COPD Medication", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "The number of participants who expressed the indicated device preference (i.e., preference for ELLIPTA inhaler, preference for DISKUS inhaler, and no preference) based on the size of the device was summarized by study inhaler use sequence.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Participants who were on their current COPD medication(s) were randomized to receive DISKUS BID for 5-9 days in Period 1 and ELLIPTA QD for 5-9 days in Period 2. There was no washout period between the two periods. Neither DPI contained any active treatment; placebo was administered in both DPIs.", 
+                                    "title": "DISKUS BID in Period 1; ELLIPTA QD in Period 2"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Participants who were on their current COPD medication(s) were randomized to receive ELLIPTA QD for 5-9 days in Period 1 and DISKUS BID for 5-9 days in Period 2. There was no washout period between the two periods. Neither DPI contained any active treatment; placebo was administered in both DPIs.", 
+                                    "title": "ELLIPTA QD in Period 1; DISKUS BID in Period 2"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "143"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "141"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "75"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "70"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "ELLIPTA inhaler"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "40"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "36"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "DISKUS inhaler"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "28"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "35"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "No preference"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "The number of participants who expressed the indicated device preference (i.e., preference for ELLIPTA inhaler, preference for DISKUS inhaler, and no preference) based on the size of the device was summarized by study inhaler use sequence.", 
+                                    "param": "Number", 
+                                    "title": "Number of Participants With the Indicated Device Preference Based on the Size of the Device", 
+                                    "units": "Participants"
+                                }
+                            ]
+                        }, 
+                        "population": "PP Population. Only those participants responding to the question regarding the specified attribute were analyzed.", 
+                        "safety_issue": "No", 
+                        "time_frame": "up to Study Day 26", 
+                        "title": "Number of Participants With the Indicated Device Preference Based on the Size of the Device", 
+                        "type": "Secondary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "Participants who were on their current chronic obstructive pulmonary disease (COPD) medication(s) were randomized to receive DISKUS twice a day (BID) for 5-9 days in Period 1 and ELLIPTA once a day (QD) for 5-9 days in Period 2. There was no washout period between the two periods. Neither dry powder inhaler (DPI) contained any active treatment; placebo was administered in both DPIs.", 
+                            "title": "DISKUS BID in Period 1; ELLIPTA QD in Period 2"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "Participants who were on their current COPD medication(s) were randomized to receive ELLIPTA QD for 5-9 days in Period 1 and DISKUS BID for 5-9 days in Period 2. There was no washout period between the two periods. Neither DPI contained any active treatment; placebo was administered in both DPIs.", 
+                            "title": "ELLIPTA QD in Period 1; DISKUS BID in Period 2"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": [
+                        {
+                            "drop_withdraw_reason_list": {
+                                "drop_withdraw_reason": {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "2", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "Adverse Event"
+                                }
+                            }, 
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "143", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "144", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "143", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "142", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "2", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Period 1 (5-9 Days)"
+                        }, 
+                        {
+                            "drop_withdraw_reason_list": {
+                                "drop_withdraw_reason": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "1", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "Adverse Event"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "1", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "Protocol-defined Stopping Criteria"
+                                    }
+                                ]
+                            }, 
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "143", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "142", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "141", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "142", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "2", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Period 2 (5-9 Days)"
+                        }
+                    ]
+                }, 
+                "pre_assignment_details": "Eligible participants were randomized (1:1) to one of the two sequences of using the two placebo dry powder inhalers (ELLIPTA once a day then DISKUS twice a day or vise versa), each one taken separately for approximately 1 week. The first inhaler in the sequence was dispensed at Visit 1 and the second at Visit 2.", 
+                "recruitment_details": "A total of 314 participants were screened; 287 participants were randomized, and 283 participants completed the study."
+            }, 
+            "point_of_contact": {
+                "name_or_title": "GSK Response Center", 
+                "organization": "GlaxoSmithKline", 
+                "phone": "866-435-7343"
+            }, 
+            "reported_events": {
+                "desc": "SAEs and non-serious AEs are reported for members of the ITT Population, comprised of all participants who were randomized and received one dose of at least one study inhaler.", 
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "E1", 
+                            "description": "Participants who were on their current COPD medication(s) were randomized to receive ELLIPTA QD for 5-9 days in either Period 1 or Period 2. There was no washout period between the two periods. The DPI did not contain any active treatment; placebo was administered in the DPI.", 
+                            "title": "ELLIPTA QD in Period 1 or 2"
+                        }, 
+                        {
+                            "@group_id": "E2", 
+                            "description": "Subjects will use the DISKUS inhaler twice daily for 5 to 9 days during the first period followed by the ELLIPTA inhaler once daily for 5 to 9 days during the second period.", 
+                            "title": "DISKUS BID in Period 1 or 2"
+                        }
+                    ]
+                }, 
+                "other_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "21", 
+                                                "@subjects_at_risk": "287"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "14", 
+                                                "@subjects_at_risk": "285"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, other adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "287"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "285"
+                                                }
+                                            ], 
+                                            "sub_title": "Conjunctivitis"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "287"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "285"
+                                                }
+                                            ], 
+                                            "sub_title": "Eye pain"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Eye disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "287"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "285"
+                                                }
+                                            ], 
+                                            "sub_title": "Diarrhoea"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "287"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "285"
+                                                }
+                                            ], 
+                                            "sub_title": "Dry mouth"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "287"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "285"
+                                                }
+                                            ], 
+                                            "sub_title": "Abdominal pain upper"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "287"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "285"
+                                                }
+                                            ], 
+                                            "sub_title": "Nausea"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "287"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "285"
+                                                }
+                                            ], 
+                                            "sub_title": "Toothache"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "287"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "285"
+                                            }
+                                        ], 
+                                        "sub_title": "Pyrexia"
+                                    }
+                                }, 
+                                "title": "General disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "287"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "285"
+                                            }
+                                        ], 
+                                        "sub_title": "Sphincter of oddi dysfunction"
+                                    }
+                                }, 
+                                "title": "Hepatobiliary disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "287"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "285"
+                                            }
+                                        ], 
+                                        "sub_title": "Anaphylactic reaction"
+                                    }
+                                }, 
+                                "title": "Immune system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "287"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "285"
+                                                }
+                                            ], 
+                                            "sub_title": "Acute sinusitis"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "287"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "285"
+                                                }
+                                            ], 
+                                            "sub_title": "Cellulitis"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "287"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "285"
+                                                }
+                                            ], 
+                                            "sub_title": "Influenza"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "287"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "285"
+                                                }
+                                            ], 
+                                            "sub_title": "Oral candidiasis"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "287"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "285"
+                                                }
+                                            ], 
+                                            "sub_title": "Sinusitis"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "287"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "285"
+                                                }
+                                            ], 
+                                            "sub_title": "Viral infection"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Infections and infestations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "287"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "285"
+                                            }
+                                        ], 
+                                        "sub_title": "Wrist fracture"
+                                    }
+                                }, 
+                                "title": "Injury, poisoning and procedural complications"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "287"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "285"
+                                            }
+                                        ], 
+                                        "sub_title": "Heart rate increased"
+                                    }
+                                }, 
+                                "title": "Investigations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "287"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "285"
+                                            }
+                                        ], 
+                                        "sub_title": "Gout"
+                                    }
+                                }, 
+                                "title": "Metabolism and nutrition disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "287"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "285"
+                                                }
+                                            ], 
+                                            "sub_title": "Back pain"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "287"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "285"
+                                                }
+                                            ], 
+                                            "sub_title": "Neck pain"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Musculoskeletal and connective tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "287"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "285"
+                                            }
+                                        ], 
+                                        "sub_title": "Skin cancer"
+                                    }
+                                }, 
+                                "title": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "287"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "5", 
+                                                    "@subjects_at_risk": "285"
+                                                }
+                                            ], 
+                                            "sub_title": "Headache"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "287"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "285"
+                                                }
+                                            ], 
+                                            "sub_title": "Cerebral ischaemia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "287"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "285"
+                                                }
+                                            ], 
+                                            "sub_title": "Dizziness"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "287"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "285"
+                                                }
+                                            ], 
+                                            "sub_title": "VIIth nerve paralysis"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Nervous system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "287"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "285"
+                                                }
+                                            ], 
+                                            "sub_title": "Epistaxis"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "287"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "285"
+                                                }
+                                            ], 
+                                            "sub_title": "Rhinitis allergic"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Respiratory, thoracic and mediastinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "287"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "285"
+                                            }
+                                        ], 
+                                        "sub_title": "Hyperhidrosis"
+                                    }
+                                }, 
+                                "title": "Skin and subcutaneous tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "287"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "285"
+                                            }
+                                        ], 
+                                        "sub_title": "Angiopathy"
+                                    }
+                                }, 
+                                "title": "Vascular disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "default_vocab": "MedDRA", 
+                    "frequency_threshold": "0"
+                }, 
+                "serious_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "287"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "285"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, serious adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "287"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "285"
+                                                }
+                                            ], 
+                                            "sub_title": "Bronchitis"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "287"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "285"
+                                                }
+                                            ], 
+                                            "sub_title": "Oesophageal candidiasis"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Infections and infestations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "287"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "285"
+                                            }
+                                        ], 
+                                        "sub_title": "Metastases to liver"
+                                    }
+                                }, 
+                                "title": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "287"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "285"
+                                            }
+                                        ], 
+                                        "sub_title": "Vertebrobasilar insufficiency"
+                                    }
+                                }, 
+                                "title": "Nervous system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "287"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "285"
+                                            }
+                                        ], 
+                                        "sub_title": "Deep vein thrombosis"
+                                    }
+                                }, 
+                                "title": "Vascular disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "default_vocab": "MedDRA"
+                }, 
+                "time_frame": "On-treatment serious adverse events (SAEs) and non-serious AEs collected from the start of placebo until Visit 3 (end of study; up to Study Day 26) are reported."
+            }
+        }, 
+        "completion_date": {
+            "#text": "July 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": "Pulmonary Disease, Chronic Obstructive", 
+        "condition_browse": {
+            "mesh_term": [
+                "Chronic Disease", 
+                "Lung Diseases", 
+                "Respiration Disorders", 
+                "Pulmonary Disease, Chronic Obstructive", 
+                "Lung Diseases, Obstructive"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  1. Informed consent\n\n          -  Subject must give their signed and dated written informed consent to participate.\n\n          -  Subject understands and is willing, able, and likely to comply with study procedures\n             and restrictions.\n\n          -  Subject must be able to read, comprehend, and record information in English.\n\n          -  2. Age: >=40 years of age at Visit 1\n\n          -  3. Gender: Male or female subjects\n\n          -  4. COPD diagnosis subjects with a clinical history of COPD in accordance with the\n             definition by the American Thoracic Society/European Respiratory Society\n\n          -  5. Severity of disease:\n\n          -  Subject with a measured post-albuterol Forced expiratory volume in 1 second (FEV1)/\n             Forced vital capacity (FVC) ratio of <=0.70 at Visit 1\n\n          -  Subjects with a measured post-albuterol FEV1 <=70% of predicted normal values\n             calculated using Third National Health and Nutrition Examination Survey reference\n             equations at Visit 1.\n\n          -  Post-bronchodilator spirometry will be performed approximately 10-15 minutes after\n             the subject has self-administered 4 inhalations (i.e., total 400 micrograms) of\n             albuterol via a metered dose inhaler (MDI) with a valved-holding chamber.  The\n             FEV1/FVC ratio and FEV1 percent predicted values will be calculated by the\n             investigator site.\n\n          -  Documented spirometry measurements that meet this criterion in the last 12 months\n             preceding Visit 1 is acceptable.\n\n          -  6. Tobacco use: current or former smokers\n\n          -  Smokers are defined as those who smoke 10 pack-years of cigarette.\n\n          -  Note: Pipe and/or cigar use cannot be used to calculate pack-year history.\n\n          -  Number of pack years = (number of cigarettes per day/20) x number of years smoked\n\n        Exclusion Criteria:\n\n          -  1. Previous experience with the DISKUS inhaler\n\n          -  Subjects who used any DISKUS inhaler (e.g., ADVAIR DISKUS, FLOVENT DISKUS\u00ae;\n             participated in a clinical study of fluticasone propionate/salmeterol, or any\n             component of them, or placebo) within 6 months (i.e., 180 days) prior to Visit 1.\n\n          -  2. Previous experience with the ELLIPTA inhaler\n\n          -  Subjects who used any ELLIPTA inhaler (e.g., participated in a clinical study of\n             FF/VI or GSK573719/GW642444 [umeclidinium/vilanterol], or any component of them, or\n             placebo) within 6 months (i.e., 180 days) prior to Visit 1.\n\n          -  3. Asthma: Subjects with a current diagnosis of asthma.\n\n          -  Subjects with a prior history of asthma are eligible if they have a current diagnosis\n             of COPD.\n\n          -  4. Poorly controlled COPD: Subjects with symptoms of poorly controlled COPD such as:\n\n          -  Acute worsening of COPD that is managed by the subject with corticosteroids or\n             antibiotics or that requires treatment prescribed by a physician, in the 4 weeks\n             prior to Visit 1.\n\n          -  Hospitalization due to acute worsening of COPD within 4 weeks of Visit 1.\n\n          -  Use of a total of 8 puffs/day or more of short-acting symptom relief medications such\n             as albuterol and ipratropium for 2 consecutive days or any 3 days within 7 days\n             immediately preceding Visit 1.\n\n          -  Changes in COPD symptoms and signs, suggesting worsening COPD health status at Visit\n             1.\n\n          -  5. Other diseases/abnormalities: Subjects with current evidence of uncontrolled or\n             clinically significant disease.\n\n          -  Significant is defined as any disease that, in the opinion of the investigator, would\n             put the safety of the subject at risk through participation, or which would affect\n             the efficacy or safety analysis if the disease/condition exacerbated during the\n             study.\n\n          -  Subjects with suspected or evidence of oropharyngeal candidiasis will be excluded\n             from the study.\n\n          -  Note: subjects who develop oropharyngeal candidiasis during the study will be treated\n             at the discretion of the investigator.\n\n          -  6. Drug/food allergy: Subjects with a history of hypersensitivity to any of the\n             components of the inhalation powder (e.g., lactose, magnesium stearate). In addition,\n             subjects with a history of severe milk protein allergy that, in the opinion of the\n             investigator, contraindicates the subject's participation will also be excluded.\n\n          -  7. Drug/alcohol abuse: Subjects with a known or suspected alcohol or drug abuse at\n             Visit 1 which in the opinion of the investigator could interfere with the subject's\n             proper completion of the protocol requirement\n\n          -  8. Medication prior to spirometry: Subjects who are medically unable or unwilling to\n             withhold their COPD medications prior to spirometry testing at Visit 1.  Subjects,\n             who have documented spirometry measurements that meet the specified Inclusion\n             Criterion in the last 12 months preceding Visit 1, do not have to undergo repeat\n             spirometry at Visit 1.\n\n          -  9. Investigational drug or device: Subjects who participated  in an interventional\n             study or used any investigational drug or device within 30 days or 5 half lives,\n             whichever is longer, prior to Visit 1\n\n          -  10. Affiliation with investigator site: Study investigators, sub-investigators, study\n             coordinators, employees of a participating investigator or immediate family members\n             of the aforementioned are excluded from participating in this study."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "40 Years"
+        }, 
+        "enrollment": {
+            "#text": "287", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "May 30, 2013", 
+        "firstreceived_results_date": "January 16, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01868009", 
+            "org_study_id": "116669"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "DISKUS Period 1 and ELLIPTA Period 2 Arm", 
+                    "ELLIPTA Period 1 and DISKUS Period 2 Arm"
+                ], 
+                "description": "Novel dry powder inhaler (placebo) with 30 doses (2 strips with 30 blisters per strip)", 
+                "intervention_name": "ELLIPTA", 
+                "intervention_type": "Device"
+            }, 
+            {
+                "arm_group_label": [
+                    "DISKUS Period 1 and ELLIPTA Period 2 Arm", 
+                    "ELLIPTA Period 1 and DISKUS Period 2 Arm"
+                ], 
+                "description": "Multidose dry powder inhaler (placebo) containing a foil strip worth 60 blisters (1 strip with 60 blisters per strip)", 
+                "intervention_name": "DISKUS", 
+                "intervention_type": "Device"
+            }
+        ], 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "fluticasone furoate", 
+            "COPD", 
+            "ELLIPTA", 
+            "fluticasone propionate", 
+            "DISKUS", 
+            "Novel Dry Powder Inhaler (NDPI)", 
+            "device preference", 
+            "salmeterol", 
+            "vilanterol"
+        ], 
+        "lastchanged_date": "January 16, 2014", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jasper", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "35501"
+                    }, 
+                    "name": "GSK Investigational Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Riverside", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92506"
+                    }, 
+                    "name": "GSK Investigational Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Clearwater", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33765-2616"
+                    }, 
+                    "name": "GSK Investigational Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Leesburg", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "34748"
+                    }, 
+                    "name": "GSK Investigational Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Orlando", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32825"
+                    }, 
+                    "name": "GSK Investigational Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lafayette", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "70503"
+                    }, 
+                    "name": "GSK Investigational Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charlotte", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "28207"
+                    }, 
+                    "name": "GSK Investigational Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Huntersville", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "28078"
+                    }, 
+                    "name": "GSK Investigational Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Medford", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97504"
+                    }, 
+                    "name": "GSK Investigational Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charleston", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29406-7108"
+                    }, 
+                    "name": "GSK Investigational Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Easley", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29640"
+                    }, 
+                    "name": "GSK Investigational Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Greenville", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29615"
+                    }, 
+                    "name": "GSK Investigational Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seneca", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29678"
+                    }, 
+                    "name": "GSK Investigational Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Spartanburg", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29303"
+                    }, 
+                    "name": "GSK Investigational Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Antonio", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78229"
+                    }, 
+                    "name": "GSK Investigational Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Richmond", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23225"
+                    }, 
+                    "name": "GSK Investigational Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Spokane", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "99204"
+                    }, 
+                    "name": "GSK Investigational Site"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "RLV116669, A Preference Study of Device Attributes Between Two Placebo Dry Powder Inhalers; ELLIPTA and DISKUS, in Adult Subjects With Chronic Obstructive Pulmonary Disease", 
+        "overall_official": {
+            "affiliation": "GlaxoSmithKline", 
+            "last_name": "GSK Clinical Trials", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "July 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "The number of participants who expressed the indicated device preference (i.e., preference for ELLIPTA inhaler, preference for DISKUS inhaler, and no preference) based on the size of the numbers on the dose counter was summarized by study inhaler use sequence.", 
+            "measure": "Number of Participants With the Indicated Device Preference Based on the Size of the Numbers on the Dose Counter", 
+            "safety_issue": "No", 
+            "time_frame": "up to Study Day 26"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01868009"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "The number of participants who expressed the indicated device preference (i.e., preference for ELLIPTA inhaler, preference for DISKUS inhaler, and no preference) based on the number of steps needed to take the COPD medication was summarized by study inhaler use sequence.", 
+                "measure": "Number of Participants With the Indicated Device Preference Based on the Number of Steps Needed to Take the COPD Medication", 
+                "safety_issue": "No", 
+                "time_frame": "up to Study Day 26"
+            }, 
+            {
+                "description": "The number of participants who expressed the indicated device preference (i.e., preference for ELLIPTA inhaler, preference for DISKUS inhaler, and no preference) based on the size of the device was summarized by study inhaler use sequence.", 
+                "measure": "Number of Participants With the Indicated Device Preference Based on the Size of the Device", 
+                "safety_issue": "No", 
+                "time_frame": "up to Study Day 26"
+            }
+        ], 
+        "source": "GlaxoSmithKline", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "GlaxoSmithKline", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "May 2013", 
+        "study_design": "Allocation: Randomized, Intervention Model: Crossover Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "December 2013"
+    }
+}

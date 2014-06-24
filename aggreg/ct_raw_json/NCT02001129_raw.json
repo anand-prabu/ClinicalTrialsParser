@@ -1,0 +1,140 @@
+{
+    "clinical_study": {
+        "@rank": "50352", 
+        "arm_group": [
+            {
+                "arm_group_label": "Automated Telephone System", 
+                "arm_group_type": "Experimental", 
+                "description": "In addition to a standardized reminder letter, patients also received a telephone call from an automated system to remind them of a recommended follow-up appointment."
+            }, 
+            {
+                "arm_group_label": "Personalized Telephone Intervention", 
+                "arm_group_type": "Experimental", 
+                "description": "In addition to the usual care letter, a staff member called patients one month prior of recommended follow-up appointment. During this call, patients were given the option to schedule an appointment."
+            }, 
+            {
+                "arm_group_label": "Placebo", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Patients randomized to this arm receive a \"usual care\" letter which is a standard reminder letter from the primary eye care office. This is usual practice in many primary eye care facilities."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This study aims to examine the effectiveness of three different ways of helping patients\n      attend their recommended eye care appointments. The three ways are 1) usual care, which\n      involves a standard reminder letter; 2) automated telephone calls, which utilizes a machine\n      to automatically call patients one month prior to their recommended follow-up date;\n      3)personalized telephone calls, which utilizes a staff member to personally call patients\n      and offer them the opportunity to schedule at the time of the telephone call."
+        }, 
+        "brief_title": "Improving Follow-Up Adherence in a Primary Eye Care Setting", 
+        "completion_date": {
+            "#text": "August 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Primary Eye Care Adherence, no Specific Ocular Conditions Are Being Examined.", 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Age: Over 18 years\n\n          -  Primary Eye Care Patients who were recommended for a 6-month, 12-month, or 24-month\n             follow-up appointment during September 2013 through November 2013.\n\n          -  Access to a telephone\n\n        Exclusion Criteria:\n\n          -  Does not speak English"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "1000", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 26, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02001129", 
+            "org_study_id": "WEF 14-040"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Personalized Telephone Intervention", 
+                "intervention_name": "Patient Appointment Messages 2000 (PAM2000)", 
+                "intervention_type": "Behavioral", 
+                "other_name": "Automated Telephone System"
+            }, 
+            {
+                "arm_group_label": "Automated Telephone System", 
+                "intervention_name": "Personalized Telephone Call", 
+                "intervention_type": "Behavioral", 
+                "other_name": "Human staff member"
+            }, 
+            {
+                "arm_group_label": [
+                    "Automated Telephone System", 
+                    "Personalized Telephone Intervention", 
+                    "Placebo"
+                ], 
+                "intervention_name": "Usual Care", 
+                "intervention_type": "Behavioral", 
+                "other_name": "Standard reminder letter"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "eye care adherence", 
+            "health care utilization"
+        ], 
+        "lastchanged_date": "December 3, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Philadelphia", 
+                    "country": "United States", 
+                    "state": "Pennsylvania", 
+                    "zip": "19107"
+                }, 
+                "name": "Wills Eye Hospital"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "Improving Follow-Up Adherence in a Primary Eye Care Setting: A Prospective, Randomized Controlled Trial", 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "February 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "A research assistant examines the Electronic Medical Records (EMR) system to assess recommended appointment adherence.", 
+            "measure": "Appointment Adherence", 
+            "safety_issue": "No", 
+            "time_frame": "3 months"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02001129"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Wills Eye", 
+            "investigator_full_name": "Julia Haller", 
+            "investigator_title": "Ophthalmologist-in-Chief", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": {
+            "description": "Tracking whether the patient made an appointment within 1 month of the reminder letter (usual care), automated phone call, or personalized phone call.", 
+            "measure": "Scheduling Appointment", 
+            "safety_issue": "No", 
+            "time_frame": "1 month"
+        }, 
+        "source": "Wills Eye", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Wills Eye", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "August 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Factorial Assignment, Masking: Open Label, Primary Purpose: Health Services Research", 
+        "study_type": "Interventional", 
+        "verification_date": "November 2013"
+    }
+}

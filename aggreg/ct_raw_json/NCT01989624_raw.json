@@ -1,0 +1,955 @@
+{
+    "clinical_study": {
+        "@rank": "41928", 
+        "acronym": "APACH", 
+        "arm_group": {
+            "arm_group_label": "Pancreatic Adenocarcinoma"
+        }, 
+        "brief_summary": {
+            "textblock": "Few data are currently available in the literature on pancreatic adenocarcinoma in France.\n      About 8,000 new cases each year in France. The 5-year survival for all stages combined is\n      <5%. This is the only digestive cancer in which mortality / incidence ratio is 98%.\n\n      Epidemiological characteristics at diagnosis, the impact on the survival of recent advances\n      related to surgery, adjuvant chemotherapy and new standard forms of adjuvant chemotherapy\n      (FOLFIRINOX) are mispriced in real life.\n\n      The development of new drugs and the development of Phase II and III require a better\n      understanding of the state of this disease in the country.\n\n      The main objective is to describe the characteristics of the pancreatic adenocarcinoma at\n      diagnosis in France and make an inventory of diagnostic practices and support."
+        }, 
+        "brief_title": "PAncreatic Adenocarcinoma in Hospital", 
+        "completion_date": {
+            "#text": "November 2020", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Pancreatic Adenocarcinoma", 
+        "condition_browse": {
+            "mesh_term": "Adenocarcinoma"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Living in France\n\n          -  Pancreatic adenocarcinoma histologically or cytologically proven\n\n          -  primary diagnosis\n\n          -  Agreed to participate\n\n        Exclusion Criteria:\n\n          -  Suspected pancreatic adenocarcinoma histologically or cytologically unproven\n\n          -  Refused to participate"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "patient in hepatogastroenterology in general hospital"
+            }
+        }, 
+        "enrollment": {
+            "#text": "1000", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 6, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01989624", 
+            "org_study_id": "CHD064-13"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Pancreatic adenocarcinoma", 
+            "diagnosis", 
+            "treatment"
+        ], 
+        "lastchanged_date": "May 21, 2014", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jolimont", 
+                        "country": "Belgium"
+                    }, 
+                    "name": "CH de Jolimont"
+                }, 
+                "investigator": {
+                    "last_name": "Ralph YEUNG, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint-Paul", 
+                        "country": "France", 
+                        "state": "La R\u00e9union", 
+                        "zip": "97866"
+                    }, 
+                    "name": "CH Gabriel Martin"
+                }, 
+                "investigator": {
+                    "last_name": "Marie De Beauregard, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Aix en Provence", 
+                        "country": "France", 
+                        "zip": "13616"
+                    }, 
+                    "name": "CHIAP"
+                }, 
+                "investigator": {
+                    "last_name": "Val\u00e9rie MOULIN, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Angoul\u00eame", 
+                        "country": "France"
+                    }, 
+                    "name": "CH Angoul\u00eame"
+                }, 
+                "investigator": {
+                    "last_name": "Marie-Pierre LIEBAERT, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Aulnay sous bois", 
+                        "country": "France"
+                    }, 
+                    "name": "CH Robert Ballanger"
+                }, 
+                "investigator": {
+                    "last_name": "Guy BELLAICHE, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Avignon", 
+                        "country": "France"
+                    }, 
+                    "name": "CH Avignon"
+                }, 
+                "investigator": {
+                    "last_name": "Serge BELLON, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bagnols sur Ceze", 
+                        "country": "France"
+                    }, 
+                    "name": "CH Bagnols sur Ceze"
+                }, 
+                "investigator": {
+                    "last_name": "Olivier BOUTET, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Blois", 
+                        "country": "France", 
+                        "zip": "41016"
+                    }, 
+                    "name": "CH Blois"
+                }, 
+                "investigator": {
+                    "last_name": "Dany GARGOT, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bourg en Bresse", 
+                        "country": "France"
+                    }, 
+                    "name": "CH Bourg en Bresse"
+                }, 
+                "investigator": {
+                    "last_name": "Didier PILLON, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bourges", 
+                        "country": "France", 
+                        "zip": "18000"
+                    }, 
+                    "name": "CH de Bourges"
+                }, 
+                "investigator": {
+                    "last_name": "Mohamed ABDOU, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bressuire", 
+                        "country": "France"
+                    }, 
+                    "name": "CH Nord Deux S\u00e8vres"
+                }, 
+                "investigator": {
+                    "last_name": "OUALI Larvi", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bry sur Marne", 
+                        "country": "France"
+                    }, 
+                    "name": "CH Saint Camille"
+                }, 
+                "investigator": {
+                    "last_name": "Martine BLAZQUEZ, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Castres", 
+                        "country": "France", 
+                        "zip": "81108"
+                    }, 
+                    "name": "HPA Castres Mazamet"
+                }, 
+                "investigator": {
+                    "last_name": "\u00a8Pascal GUIVARCH, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chalons en champagne", 
+                        "country": "France"
+                    }, 
+                    "name": "CH Chalons en champagne"
+                }, 
+                "investigator": {
+                    "last_name": "Naceur ABDELLI, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chambery", 
+                        "country": "France"
+                    }, 
+                    "name": "CH Chambery"
+                }, 
+                "investigator": {
+                    "last_name": "Christophe LEGRAND, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cholet", 
+                        "country": "France"
+                    }, 
+                    "name": "Ch Cholet"
+                }, 
+                "investigator": {
+                    "last_name": "Medhi KAASSIS, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ch\u00e2teau Gontier", 
+                        "country": "France"
+                    }, 
+                    "name": "CH Haut Anjou"
+                }, 
+                "investigator": {
+                    "last_name": "Val\u00e9rie ROSSI, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Compi\u00e8gne Noyon", 
+                        "country": "France"
+                    }, 
+                    "name": "CH Compi\u00e8gne Noyon"
+                }, 
+                "investigator": {
+                    "last_name": "Jean Christophe DUCHMANN, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Corbeil Essonnes", 
+                        "country": "France"
+                    }, 
+                    "name": "CH sud francilien"
+                }, 
+                "investigator": {
+                    "last_name": "Khaldoun ELRIZ, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Creil", 
+                        "country": "France", 
+                        "zip": "60109"
+                    }, 
+                    "name": "CH de Creil"
+                }, 
+                "investigator": {
+                    "last_name": "Jean-Fran\u00e7ois Cadranel, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cr\u00e9teil", 
+                        "country": "France", 
+                        "zip": "94000"
+                    }, 
+                    "name": "CHI Cr\u00e9teil"
+                }, 
+                "investigator": {
+                    "last_name": "Herv\u00e9 HAGEGE, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dourdan", 
+                        "country": "France"
+                    }, 
+                    "name": "CH Dourdan"
+                }, 
+                "investigator": {
+                    "last_name": "Luc TURNER, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Draguignan", 
+                        "country": "France"
+                    }, 
+                    "name": "CH Draguignan"
+                }, 
+                "investigator": {
+                    "last_name": "Emmanuel Vaucher, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dreux", 
+                        "country": "France", 
+                        "zip": "28100"
+                    }, 
+                    "name": "CH Dreux"
+                }, 
+                "investigator": {
+                    "last_name": "Alain LANDAU, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Eaubonne", 
+                        "country": "France", 
+                        "zip": "95600"
+                    }, 
+                    "name": "CH Simone Veil"
+                }, 
+                "investigator": {
+                    "last_name": "Djamila OUANEZAR, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ferolles", 
+                        "country": "France"
+                    }, 
+                    "name": "CH Forcilles"
+                }, 
+                "investigator": {
+                    "last_name": "H\u00e9l\u00e8ne DALLOSTO , PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Gap", 
+                        "country": "France"
+                    }, 
+                    "name": "Chicas"
+                }, 
+                "investigator": {
+                    "last_name": "Jean-Guy BERTOLINO, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Gonesse", 
+                        "country": "France", 
+                        "zip": "95500"
+                    }, 
+                    "name": "CH Gonesse"
+                }, 
+                "investigator": {
+                    "last_name": "Val\u00e9rie DHALLUIN-VENIER, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "La Roche sur Yon", 
+                        "country": "France", 
+                        "zip": "85925"
+                    }, 
+                    "name": "Centre hospitalier d\u00e9partemental Vend\u00e9e"
+                }, 
+                "investigator": {
+                    "last_name": "Roger FAROUX, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lagny sur Marne", 
+                        "country": "France", 
+                        "zip": "77400"
+                    }, 
+                    "name": "Centre Hospitalier de Lagny"
+                }, 
+                "investigator": {
+                    "last_name": "Gilles MACAIGNE, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Le Mans", 
+                        "country": "France"
+                    }, 
+                    "name": "CH du Mans"
+                }, 
+                "investigator": {
+                    "last_name": "Alain BLANCHI, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lens", 
+                        "country": "France"
+                    }, 
+                    "name": "Lens"
+                }, 
+                "investigator": {
+                    "last_name": "Ivan TOUZE, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Les Sables d'Olonne", 
+                        "country": "France", 
+                        "zip": "85100"
+                    }, 
+                    "name": "Centre Hospitalier C\u00f4t\u00e9 de lumi\u00e8re"
+                }, 
+                "investigator": {
+                    "last_name": "Claire BECKER, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Macon", 
+                        "country": "France"
+                    }, 
+                    "name": "H\u00f4pital des chanaux"
+                }, 
+                "investigator": {
+                    "last_name": "Chantal NAOURI, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Meaux", 
+                        "country": "France", 
+                        "zip": "77100"
+                    }, 
+                    "name": "Centre Hospitalier de Meaux"
+                }, 
+                "investigator": {
+                    "last_name": "Christophe LOCHER, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Melun", 
+                        "country": "France"
+                    }, 
+                    "name": "CH Melun"
+                }, 
+                "investigator": {
+                    "last_name": "COSCONEA Simona", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Metz", 
+                        "country": "France"
+                    }, 
+                    "name": "CHR de Mercy-Metz"
+                }, 
+                "investigator": {
+                    "last_name": "GEIST Claire", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montargis", 
+                        "country": "France", 
+                        "zip": "45207"
+                    }, 
+                    "name": "CHAM"
+                }, 
+                "investigator": {
+                    "last_name": "Roland EL BRAKS, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montauban", 
+                        "country": "France"
+                    }, 
+                    "name": "CH Montauban"
+                }, 
+                "investigator": {
+                    "last_name": "Jean-Louis PAYEN, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montelimar", 
+                        "country": "France", 
+                        "zip": "26200"
+                    }, 
+                    "name": "Centre Hospitalier Montelimar"
+                }, 
+                "investigator": {
+                    "last_name": "Agn\u00e8s PELAQUIER, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montfermeil", 
+                        "country": "France"
+                    }, 
+                    "name": "CH Montfermeil"
+                }, 
+                "investigator": {
+                    "last_name": "C\u00e9cile POUPARDIN, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Niort", 
+                        "country": "France"
+                    }, 
+                    "name": "CH Niort"
+                }, 
+                "investigator": {
+                    "last_name": "R\u00e9mi COMBES, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oloron Sainte Marie", 
+                        "country": "France"
+                    }, 
+                    "name": "CHG Oloron"
+                }, 
+                "investigator": {
+                    "last_name": "Jean-Louis COQUARD, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Orl\u00e9ans", 
+                        "country": "France", 
+                        "zip": "45000"
+                    }, 
+                    "name": "CHR Orl\u00e9ans"
+                }, 
+                "investigator": {
+                    "last_name": "Jean-Louis LEGOUX, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pau", 
+                        "country": "France"
+                    }, 
+                    "name": "CH Fran\u00e7ois Mitterand"
+                }, 
+                "investigator": {
+                    "last_name": "Ramuntcho Arotcarena , PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Perpignan", 
+                        "country": "France", 
+                        "zip": "66046"
+                    }, 
+                    "name": "Centre Hospitalier de Perpignan"
+                }, 
+                "investigator": {
+                    "last_name": "Faiza KHEMISSA, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Poissy", 
+                        "country": "France", 
+                        "zip": "78600"
+                    }, 
+                    "name": "CHI Poissy Saint Germain"
+                }, 
+                "investigator": {
+                    "last_name": "Ren\u00e9-Louis VITTE, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pontoise", 
+                        "country": "France"
+                    }, 
+                    "name": "CH Pontoise"
+                }, 
+                "investigator": {
+                    "last_name": "MANET LACOMBE Sophie", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pringy", 
+                        "country": "France", 
+                        "zip": "74374"
+                    }, 
+                    "name": "CH de la r\u00e9gion d'Annecy"
+                }, 
+                "investigator": {
+                    "last_name": "Emmanuel MAILLARD, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Roubaix", 
+                        "country": "France"
+                    }, 
+                    "name": "CH Roubaix"
+                }, 
+                "investigator": {
+                    "last_name": "Aurore TECHY, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Brieuc", 
+                        "country": "France", 
+                        "zip": "22200"
+                    }, 
+                    "name": "Centre hospitalier Yves Le Foll"
+                }, 
+                "investigator": {
+                    "last_name": "Vincent QUENTIN, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Quentin", 
+                        "country": "France"
+                    }, 
+                    "name": "CH Saint Quentin"
+                }, 
+                "investigator": {
+                    "last_name": "Innocenti DADAMESSI, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint-Denis", 
+                        "country": "France"
+                    }, 
+                    "name": "CH de la Fontaine"
+                }, 
+                "investigator": {
+                    "last_name": "H\u00e9l\u00e8ne LABADIE, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tarbes", 
+                        "country": "France", 
+                        "zip": "65013"
+                    }, 
+                    "name": "Centre Hospitalier de Bigorre"
+                }, 
+                "investigator": {
+                    "last_name": "Mathieu Frouvelle, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toulon", 
+                        "country": "France"
+                    }, 
+                    "name": "CH Sainte Musse"
+                }, 
+                "investigator": {
+                    "last_name": "Philippe AH-SOUNE, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tourcoing", 
+                        "country": "France"
+                    }, 
+                    "name": "CH Tourcoing"
+                }, 
+                "investigator": {
+                    "last_name": "Nicolas MOZZICONACCI, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Valenciennes", 
+                        "country": "France"
+                    }, 
+                    "name": "CH Valenciennes"
+                }, 
+                "investigator": {
+                    "last_name": "Arnaud BORUCHOWICZ, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Vannes", 
+                        "country": "France", 
+                        "zip": "56017"
+                    }, 
+                    "name": "CHBA de Vannes"
+                }, 
+                "investigator": {
+                    "last_name": "Denis GRASSET, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Villeneuve Saint-Georges", 
+                        "country": "France", 
+                        "zip": "94190"
+                    }, 
+                    "name": "CHIV Villeneuve Saint-Georges"
+                }, 
+                "investigator": {
+                    "last_name": "Anne COURILLON-MALLET, PH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "Belgium", 
+                "France"
+            ]
+        }, 
+        "number_of_groups": "1", 
+        "official_title": "PAncreatic Adenocarcinoma in Hospital", 
+        "overall_contact": {
+            "email": "lucie.auzanneau@chd-vendee.fr", 
+            "last_name": "Lucie AUZANNEAU"
+        }, 
+        "overall_official": {
+            "affiliation": "Centre hospitalier d\u00e9partemental Vend\u00e9e", 
+            "last_name": "Roger FAROUX, PH", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "France: The Commission nationale de l\u2019informatique et des libert\u00e9s", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "October 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "Survival", 
+            "safety_issue": "No", 
+            "time_frame": "patient death (following during 5 year)"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01989624"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Centre Hospitalier Departemental Vendee", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Centre Hospitalier Departemental Vendee", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "October 2013", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "May 2014"
+    }
+}

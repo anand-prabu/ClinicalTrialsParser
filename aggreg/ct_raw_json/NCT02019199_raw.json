@@ -1,0 +1,125 @@
+{
+    "clinical_study": {
+        "@rank": "168261", 
+        "brief_summary": {
+            "textblock": "This study is a research initiative established to explore the use of magnetic resonance\n      imaging (MRI) as a tool for detecting organ motion as it pertains to planning radiation\n      therapy."
+        }, 
+        "brief_title": "Magnetic Resonance Imaging (MRI) in Motion", 
+        "completion_date": {
+            "#text": "November 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Primary or Metastatic Tumors of the Lungs, Liver or Pancreas.", 
+        "condition_browse": {
+            "mesh_term": [
+                "Lung Neoplasms", 
+                "Neoplasm Metastasis"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "The goal with radiation therapy is to treat the defined tumor and spare the surrounding\n      normal tissue from receiving dose above specified tolerance doses. There is evidence of\n      improved local control and survival with higher doses of radiation, however, at the same\n      time there is the need to spare normal tissues from higher doses of radiation.  Technologies\n      that allow the delivery of an increased radiation dose to the tumor while sparing normal\n      tissue have the potential of improving the therapeutic ratio. However, the development of\n      these technologies has been hampered by organ respiratory motion particularly in the case of\n      the lungs and liver. Inadequate radiation coverage of a tumor secondary to organ motion can\n      lead to delivering a lower dose to a portion of the tumor. Making the field of radiation\n      larger to account for organ motion results in unnecessary radiation dose to surrounding\n      healthy tissues.  It is therefore desirable to document the extent of motion of the organ in\n      question prior to carrying out the radiation treatment planning. The organ motion impacts\n      directly on the radiation dose distribution in the treatment volume."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Age \u2265 21\n\n          -  Patients with primary or metastatic tumors in the lungs, liver, or pancreas\n\n          -  Patients undergoing a planning CT scan in the Department of Radiation Oncology with\n             tumor motion assessment - planning 4D-CT ordered by the treating Radiation Oncologist\n\n          -  Signed, specific informed consent prior to study entry\n\n        Exclusion Criteria:\n\n          -  Any condition for which a MRI procedure is contraindicated including presence of\n             metallic material in the body, such as pacemakers, non- MRI compatible surgical\n             clips, shrapnel, etc\n\n          -  Pregnant or breast-feeding women\n\n          -  Subjects who have difficulty lying flat on their back for extended periods of time"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "21 Years", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "Adults males or females with primary or secondary cancer tumors of the lung, liver or\n        pancreas"
+            }
+        }, 
+        "enrollment": {
+            "#text": "30", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "December 18, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02019199", 
+            "org_study_id": "Pro00032595"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "lastchanged_date": "December 18, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Durham", 
+                    "country": "United States", 
+                    "state": "North Carolina", 
+                    "zip": "27710"
+                }, 
+                "name": "Duke University Medical Center"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_groups": "1", 
+        "official_title": "Magnetic Resonance Imaging ( MRI) for Radiation Therapy Treatment Planning Evaluation of Lung, Liver and Pancreatic Motion.", 
+        "overall_official": {
+            "affiliation": "Duke University", 
+            "last_name": "Brian Czito, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Enrolling by invitation", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "November 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "MRI and CT ( all subjects will have  a standard of care CT scan) data in DICOM format will be collected for analysis using commercial or customized - developed software. Image quality will be assessed based on signal-to-noise (SNR), contrast-to-noise ratio (CNR), and the presence of image artifacts. Data to be computed include, but are not limited to, tumor volumes (gross tumor volume, internal target volume, planning target volume, etc.), tumor motion parameters (range, trajectory, frequency, variation, probability distribution, etc.), and treatment plan parameters (target coverage, dose-volume-histogram, etc.).", 
+                "measure": "To evaluate the accuracy, robustness, and efficacy of MRI for tumor motion measurement.", 
+                "safety_issue": "No", 
+                "time_frame": "During MRI approx 1 hour"
+            }, 
+            {
+                "description": "Free breathing/breath-hold MRI will be compared to free breathing/breath-hold CT", 
+                "measure": "Tumor volume", 
+                "safety_issue": "No", 
+                "time_frame": "During MRI approx 1 hour"
+            }, 
+            {
+                "description": "Difference between CNR is measured by 4D-MRI and 4D-CT", 
+                "measure": "Tumor contrast-to-noise ratio (CNR)", 
+                "safety_issue": "No", 
+                "time_frame": "During MRI approx 1 hour"
+            }, 
+            {
+                "description": "Difference between tumor motion as measured by 2D cine-MRI vs 4D-MRI vs 4D-CT", 
+                "measure": "Tumor Motion", 
+                "safety_issue": "No", 
+                "time_frame": "During MRI approx 1 hour"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02019199"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Duke University", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Duke University", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "November 2011", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "December 2013"
+    }
+}

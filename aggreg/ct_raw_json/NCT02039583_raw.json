@@ -1,0 +1,210 @@
+{
+    "clinical_study": {
+        "@rank": "141337", 
+        "arm_group": {
+            "arm_group_label": "full cohort", 
+            "description": "All singleton births in England. See 'statistical analysis' for denominator specification for individual outcomes."
+        }, 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to investigate whether there has been a change in low birth\n      weight and perinatal and infant mortality following the July 2007 introduction of a ban on\n      smoking in public places and workplaces in England."
+        }, 
+        "brief_title": "Impact of Smoke-free Legislation on Early-life Mortality and Low Birth Weight in England", 
+        "completion_date": {
+            "#text": "January 2014", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Stillbirth", 
+            "Infant Mortality", 
+            "Sudden Infant Death", 
+            "Infant, Low Birth Weight", 
+            "Infant, Very Low Birth Weight"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Birth Weight", 
+                "Sudden Infant Death"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Primary research question Has there been a change in the numbers of babies being born with\n      low birth weight or dying in the perinatal or infant period following the 1 July 2007\n      introduction of a ban on smoking in public places in England?\n\n      Study design Retrospective cohort study (using prospective routinely collected health care\n      data)\n\n      Study population All singleton births in England between 1 January 1995 and 31 December\n      2011.\n\n      Intervention The intervention under study is the ban on smoking in enclosed public places\n      and the workplace implemented in England overnight on 1 July 2007.\n\n      Inclusion and exclusion criteria We will include all registered singleton births in England\n      occurring between 1 January 1995 and 31 December 2011. This is the maximum time period\n      surrounding the ban's introduction for which the required birth data are available through\n      the data source. Data were originally extracted for 1 January 1993 to 31 December 2011.\n      However, postcode was not recorded in 1993-1994, leading to missing values for Index of\n      Multiple Deprivation (IMD) quintile, region, and urbanisation level in this period. As these\n      variables were considered key potential confounders in the primary analyses, a decision was\n      made to restrict the modelling to the time period 1 January 1995-31 December 2011.\n\n      International Classification of Disease (ICD) coding changed from version 9 to 10 as of\n      January 2001, leading to an important drop in recorded SIDS cases. Therefore, analyses of\n      SIDS are restricted to the time period 2001-2011.\n\n      Babies with chromosomal anomalies will be excluded.\n\n      Outcome\n\n      The primary outcomes are:\n\n        -  Low birth weight (birth weight < 2500 grams)\n\n        -  Stillbirth (intrauterine death from 24+0 weeks gestation)\n\n        -  Neonatal mortality (death within the first 28 days of life)\n\n        -  Sudden infant death syndrome (SIDS; death within first year of life with mentioning on\n           the death certificate of ICD-10-U code R95, or R99 with no other specification)\n\n      To assess whether smoke-free legislation had a selective impact on certain subgroups of\n      outcomes we furthermore identified a number of secondary outcomes:\n\n        -  Very low birth weight (birth weight < 1500 grams)\n\n        -  Early neonatal mortality (death within first week of life)\n\n        -  Late neonatal mortality (death between 7 and 28 days of life)\n\n        -  Post-neonatal mortality (death between 28 days and 1 year of life)\n\n        -  Infant mortality (death within the first year of life)\n\n      Data sources Data are obtained via the Office for National Statistics (ONS). All registered\n      stillbirths and livebirths occurring in England between 1 January 1995 and 31 December 2011\n      are included. These are linked to death certificates for all deaths occurring before the\n      first birthday.\n\n      Data extraction and handling Individual perinatal and mortality data are linked by ONS in a\n      single database including the following individual-level covariates: month of birth, year of\n      birth, month of death, year of death, age at death, sex, birth weight, maternal age,\n      maternal marital status, parity, IMD, region, urbanisation level.\n\n      The following covariates are categorised for information governance reasons:\n\n        -  Age at death: early neonatal, late neonatal, post-neonatal\n\n        -  Birth weight: <1000 grams, 1000-1499 grams, 1500-2499 grams, 2500-3999 grams, \u22654000\n           grams\n\n        -  Maternal age: <20 years, 20-24 years, 25-29 years, 30-34 years, 35-39 years, >40 years\n\n        -  Parity: 0, 1, 2, \u22653\n\n        -  IMD: quintiles\n\n        -  Region: 10 regions\n\n        -  Urbanisation level: urban, rural\n\n      Sample size Sample size calculation for time-oriented analyses is complicated given the\n      complexity of the models. We will use national data for the current study, which will - to\n      the best of our knowledge - be the largest evaluation of the impact of smoke-free\n      legislation on perinatal health, both regarding population size and time span. As we use the\n      maximum time span and population available, sample size calculation can in a way be\n      considered redundant.\n\n      We are aware of only one published study on smoke-free legislation and early-life mortality\n      (reference 1). Due to design issues it is not possible to involve data from this study for\n      comparison to the current study.\n\n      A number of studies have previously assessed the impact of smoke-free legislation on low\n      birth weight. Our proposed approach is best comparable to that performed earlier in Scotland\n      (reference 2). Using Scottish data on 757,795 deliveries occurring between 1996 and 2009,\n      they showed an immediate -9.9% (95%CI -14.2; -5.2) drop in low-birth-weight-babies. Given\n      the longer study period (1993-2011) and the much larger population size (n>10 million) our\n      study can be expected to have sufficient power to detect a similar reduction in\n      low-birth-weight-babies in England, if present.\n\n      Statistical analysis\n\n      Relevant population characteristics will be described. Logistic regression analysis will be\n      performed to investigate the association between introduction of smoke-free legislation and\n      sudden ('step') and/or gradual ('slope') changes (as appropriate) in the odds of developing\n      each outcome. Analyses will be adjusted for birth weight, sex, maternal age, maternal\n      marital status, parity (secondary analyses only, see below), IMD quintile, region, and\n      urbanisation level. Seasonal patterning and non-linearity of the underlying time trend will\n      be accounted for as appropriate. Final model selection will be based on Akaike's and\n      Bayesian information criteria (AIC and BIC). The denominator for the analyses will differ\n      according to the various outcomes:\n\n        -  stillbirths: all births in the dataset\n\n        -  low birth weight, very low birth weight, neonatal mortality, early neonatal mortality,\n           infant mortality: all livebirths in the dataset\n\n        -  late neonatal mortality: all livebirths in the dataset surviving the early neonatal\n           period\n\n        -  post-neonatal mortality: all livebirths in the dataset surviving the neonatal period\n\n      The primary analyses will be performed on cases with complete data on all covariates. Parity\n      is the only variable that has >10% missing data (approximately 40-50%), as it is only\n      recorded in married women. As parity is not expected to be a key confounder, we will perform\n      the primary analyses without involving parity in the models in order to maximise population\n      size.\n\n      Sensitivity analyses To assess possible confounding by parity, sensitivity analyses will be\n      performed that include parity in the model. In a second set of sensitivity analyses,\n      imputation will be performed to investigate the robustness of the findings to missing data.\n      In order to minimise issues regarding multiple testing, sensitivity analyses will be\n      performed for the primary outcomes only.\n\n      All analyses will be performed using Stata 12.0."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  singleton birth occurring in England between 1 January 1995 and 31 December 2011\n\n        Exclusion Criteria:\n\n          -  chromosomal anomalies\n\n          -  stillbirth (applies to all outcomes other than stillbirth)"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "1 Year", 
+            "minimum_age": "N/A", 
+            "sampling_method": "Probability Sample", 
+            "study_pop": {
+                "textblock": "All singleton births in England. See 'statistical analysis' for specification of base\n        population for each outcome."
+            }
+        }, 
+        "enrollment": {
+            "#text": "10291118", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "January 16, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02039583", 
+            "org_study_id": "TRF NR-0166-1.2"
+        }, 
+        "intervention": {
+            "arm_group_label": "full cohort", 
+            "description": "The intervention under study is the smoke-free legislation in England introduced overnight on 1 July 2007. As of this date virtually all enclosed public places and workplaces were by law required to be smoke-free. More detail can be found via the link provided at the end of this protocol.", 
+            "intervention_name": "Smoke-free legislation", 
+            "intervention_type": "Other"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "live birth", 
+            "infant", 
+            "infant, newborn", 
+            "second-hand smoke", 
+            "tobacco smoke pollution", 
+            "smoke-free", 
+            "smoke-free policy"
+        ], 
+        "lastchanged_date": "January 16, 2014", 
+        "link": {
+            "description": "description of intervention", 
+            "url": "http://www.smokefreeengland.co.uk"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Edinburgh", 
+                    "country": "United Kingdom", 
+                    "state": "Midlothian", 
+                    "zip": "EH8 9AG"
+                }, 
+                "name": "University of Edinburgh"
+            }
+        }, 
+        "location_countries": {
+            "country": "United Kingdom"
+        }, 
+        "number_of_groups": "1", 
+        "official_title": "Impact of Smoke-free Legislation on Early-life Mortality and Low Birth Weight in England: a Quasi-experimental Study", 
+        "overall_official": {
+            "affiliation": "University of Edinburgh", 
+            "last_name": "Jasper V Been, MD MPH PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United Kingdom: National Health Service", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "December 2011", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "birth weight <2,500 grams", 
+                "measure": "low birth weight", 
+                "safety_issue": "No", 
+                "time_frame": "1 Jan 1995 - 31 Dec 2011"
+            }, 
+            {
+                "description": "intrauterine death from 24+0 weeks gestation", 
+                "measure": "stillbirth", 
+                "safety_issue": "No", 
+                "time_frame": "1 Jan 1995 - 31 Dec 2011"
+            }, 
+            {
+                "description": "death within the first 28 days of life", 
+                "measure": "neonatal mortality", 
+                "safety_issue": "No", 
+                "time_frame": "1 Jan 1995 - 31 Dec 2011"
+            }, 
+            {
+                "description": "death within first year of life with mentioning on the death certificate of ICD-10-U code R95, or R99 with no other specification", 
+                "measure": "sudden infant death syndrome (SIDS)", 
+                "safety_issue": "No", 
+                "time_frame": "1 Jan 2001 - 31 Dec 2011"
+            }
+        ], 
+        "reference": [
+            {
+                "PMID": "22412353", 
+                "citation": "Mackay DF, Nelson SM, Haw SJ, Pell JP. Impact of Scotland's smoke-free legislation on pregnancy complications: retrospective cohort study. PLoS Med. 2012;9(3):e1001175. doi: 10.1371/journal.pmed.1001175. Epub 2012 Mar 6."
+            }, 
+            {
+                "PMID": "17498829", 
+                "citation": "Markowitz S. The effectiveness of cigarette regulations in reducing cases of Sudden Infant Death Syndrome. J Health Econ. 2008 Jan;27(1):106-33. Epub 2007 Apr 8."
+            }, 
+            {
+                "PMID": "21112082", 
+                "citation": "Oberg M, Jaakkola MS, Woodward A, Peruga A, Pr\u00fcss-Ust\u00fcn A. Worldwide burden of disease from exposure to second-hand smoke: a retrospective analysis of data from 192 countries. Lancet. 2011 Jan 8;377(9760):139-46. doi: 10.1016/S0140-6736(10)61388-8."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02039583"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University of Edinburgh", 
+            "investigator_full_name": "Jasper Been", 
+            "investigator_title": "Dr.", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "birth weight < 1,500 grams", 
+                "measure": "very low birth weight", 
+                "safety_issue": "No", 
+                "time_frame": "1 Jan 1995 - 31 Dec 2011"
+            }, 
+            {
+                "description": "death within the first week of life", 
+                "measure": "early neonatal mortality", 
+                "safety_issue": "No", 
+                "time_frame": "1 Jan 1995 - 31 Dec 2011"
+            }, 
+            {
+                "description": "death between 7 and 28 days of life", 
+                "measure": "late neonatal mortality", 
+                "safety_issue": "No", 
+                "time_frame": "1 Jan 1995 - 31 Dec 2011"
+            }, 
+            {
+                "description": "death between 28 days and 1 year of life", 
+                "measure": "post-neonatal mortality", 
+                "safety_issue": "No", 
+                "time_frame": "1 Jan 1995 - 31 Dec 2011"
+            }
+        ], 
+        "source": "University of Edinburgh", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "Maastricht University, Maastricht, Netherlands", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "University of Glasgow", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Imperial College London, London, UK", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "University of Edinburgh", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 1995", 
+        "study_design": "Observational Model: Ecologic or Community", 
+        "study_type": "Observational", 
+        "verification_date": "January 2014"
+    }
+}

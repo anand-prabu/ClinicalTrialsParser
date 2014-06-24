@@ -1,0 +1,145 @@
+{
+    "clinical_study": {
+        "@rank": "53790", 
+        "arm_group": [
+            {
+                "arm_group_label": "LABA + tiotropium"
+            }, 
+            {
+                "arm_group_label": "LABA mono"
+            }, 
+            {
+                "arm_group_label": "neither tiotropium nor LABA"
+            }, 
+            {
+                "arm_group_label": "tiotropium + LABA"
+            }, 
+            {
+                "arm_group_label": "tiotropium mono"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Background: Recent observational studies have reported possible arrhythmogenic effects with\n      long-acting beta-agonists (LABA), while the long-acting anticholinergic tiotropium has been\n      associated with cardiovascular and cerebrovascular events. Finally, pneumonia was the object\n      of a recent signal in trials of LABAs submitted for marketing approval.\n\n      Aim: To assess the potential cardio-pulmonary risk arising from the concurrent use of two\n      long-acting bronchodilators as well as from monotherapy use of each of the long-acting\n      bronchodilators.\n\n      Methods: A series of population-based cohort studies, using both cohort and nested\n      case-control analyses will be conducted using data from the United Kingdom's Clinical\n      Practice Research Datalink (CPRD). The base cohort will consist of new users of long-acting\n      bronchodilators from Jan 2002 until Aug 2012, age >= 55 with chronic obstructive pulmonary\n      disease (COPD) and at least two years of baseline medical history information. The\n      high-dimensional propensity score technique will be used to match new users of each\n      long-acting bronchodilator and new users of two bronchodilators with comparable subjects\n      from the base cohort, with one-year follow-up for outcomes of acute myocardial infarction,\n      stroke, heart failure, arrhythmia and community acquired pneumonia. Data will be analysed\n      using time-dependent Cox proportional hazard regression models and conditional logistic\n      regression models."
+        }, 
+        "brief_title": "Combined Bronchodilators in Chronic Obstructive Pulmonary Disease and the Risk of Adverse Cardio-pulmonary Events", 
+        "completion_date": {
+            "#text": "September 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Pulmonary Disease, Chronic Obstructive", 
+        "condition_browse": {
+            "mesh_term": [
+                "Chronic Disease", 
+                "Lung Diseases", 
+                "Respiration Disorders", 
+                "Pulmonary Disease, Chronic Obstructive", 
+                "Lung Diseases, Obstructive"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Purpose:"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion criteria:\n\n          -  New users of long-acting bronchodilators, either a LABA or tiotropium, between\n             January 2002 and August 2012\n\n          -  Age >= 55 years\n\n        Exclusion criteria:\n\n        - Use of LABA or tiotropium in the two years prior to cohort entry"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "55 Years", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "Users of tiotropium or long-acting beta agonists"
+            }
+        }, 
+        "enrollment": {
+            "#text": "40000", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "March 24, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02096731", 
+            "org_study_id": "205.526"
+        }, 
+        "intervention_browse": {
+            "mesh_term": "Bronchodilator Agents"
+        }, 
+        "lastchanged_date": "May 14, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Montreal", 
+                    "country": "Canada", 
+                    "state": "Quebec"
+                }, 
+                "name": "205.526.1 Boehringer Ingelheim Investigational Site"
+            }
+        }, 
+        "location_countries": {
+            "country": "Canada"
+        }, 
+        "number_of_groups": "5", 
+        "official_title": "Combined Bronchodilators in Chronic Obstructive Pulmonary Disease and the Risk of Adverse Cardio-pulmonary Events: A Population-based Observational Study", 
+        "overall_official": {
+            "affiliation": "Boehringer Ingelheim", 
+            "last_name": "Boehringer Ingelheim", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United Kingdom: Medicines and Healthcare Products Regulatory Agency"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "September 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": [
+            {
+                "measure": "myocardial infarction", 
+                "safety_issue": "Yes", 
+                "time_frame": "up to 12  months"
+            }, 
+            {
+                "measure": "Heart failure", 
+                "safety_issue": "Yes", 
+                "time_frame": "up to 12  months"
+            }, 
+            {
+                "measure": "Stroke", 
+                "safety_issue": "No", 
+                "time_frame": "up to 12  months"
+            }, 
+            {
+                "measure": "Cardiac arrhythmia", 
+                "safety_issue": "Yes", 
+                "time_frame": "up to 12  months"
+            }, 
+            {
+                "measure": "Community acquired pneumonia", 
+                "safety_issue": "No", 
+                "time_frame": "up to 12  months"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02096731"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Boehringer Ingelheim", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Boehringer Ingelheim", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "March 2014", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Retrospective", 
+        "study_type": "Observational", 
+        "verification_date": "May 2014"
+    }
+}

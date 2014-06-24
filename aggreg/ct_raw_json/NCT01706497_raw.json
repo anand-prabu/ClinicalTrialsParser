@@ -1,0 +1,213 @@
+{
+    "clinical_study": {
+        "@rank": "164657", 
+        "brief_summary": {
+            "textblock": "The postoperative period after congenital heart surgery in children can be a very critical\n      episode, where it is of utmost importance to closely monitor the circulation in these\n      patients. Invasive hemodynamic monitoring tools available in the adult population, are often\n      not suitable to use in small children.\n\n      The Fore-Sight(TM) is a non-invasive monitor for brain tissue oxygenation (SctO2), by\n      projecting harmless near-infrared light trough the skin, skull, and brain via a disposable\n      sensor that is applied on the forehead of patients. In many centres, the Fore-Sight (TM) is\n      part of the routine monitoring of children during cardio-pulmonary bypass for congenital\n      heart surgery. Although the monitor has not been tested for this purpose, it is often\n      continued in the postoperative phase in the intensive care unit (ICU), where it is used to\n      monitor the hemodynamic situation of the patient.\n\n      The purpose of the present study is to examine and validate the use of the Fore-Sight\n      monitor for hemodynamic monitoring of children in the postoperative phase after cardiac\n      surgery.\n\n      The study hypothesis is whether SctO2 desaturations are predictive for future hemodynamic\n      deterioration of the patient, and whether these SctO2 desaturations are predictive for the\n      outcome of these patients."
+        }, 
+        "brief_title": "Predictive Value of the FORE-SIGHT\u2122 Monitor for Hemodynamic Deterioration", 
+        "completion_date": {
+            "#text": "April 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Pediatric Congenital Heart Surgery", 
+        "detailed_description": {
+            "textblock": "1. Background\n\n           Accurate hemodynamic monitoring often requires the use of invasive tools or catheters.\n           Many of these tools, available for adults, cannot be used for critically ill infants\n           and children, because of their size, and because these invasive techniques carry a high\n           risk of complications. Non-invasive monitoring techniques that allow for detecting\n           critical hemodynamic states are of high interest in this population.\n\n           FORE-SIGHT\u2122 is a non-invasive tool to measure cerebral tissue oxygen saturation.\n           Cerebral tissue oxygen saturation (SctO2) values are important to clinicians because\n           cerebral hypoxia (lack of oxygen supply to brain tissue) is one of the leading causes\n           of brain injuries that occur in many surgical and clinical situations. The FORE-SIGHT\u2122\n           Cerebral Oximeter utilizes optically-based Near Infra-Red Spectroscopy (NIRS)\n           technology to monitor absolute SctO2. It works by projecting harmless near infra-red\n           light through the scalp and skull and into the brain via a disposable sensor on the\n           patient's forehead. The device measures the light that is returned to detectors on the\n           sensor and analyzes this information utilizing patented algorithms to determine\n           absolute cerebral tissue oxygen saturation levels. The FORE-SIGHT\u2122 is designed to\n           monitor SctO2 in a continuous way, and provides clinicians an opportunity to intervene\n           before damage to the brain occurs. The monitor is currently part of the standard\n           monitoring for children undergoing cardiopulmonary bypass, in the operating theatre,\n           and is often continued in the postoperative phase in the pediatric intensive care unit\n           (PICU) of the university hospitals Leuven.\n\n           Several studies have pointed to the potential advantages of SctO2 monitoring in the\n           peri-operative phase after cardiac or abdominal surgery in adults [1,2,3,4], as well as\n           in children undergoing surgical corrections of congenital cardiac defects [5,6,7]. Low\n           SctO2 values are associated with worse outcome, and correspond with data from other\n           monitors indicating that the oxygen content of the brain at that time is insufficient.\n           In particular, the duration of SctO2 desaturations below 55%, 60%, and 65%, is\n           predictive for postoperative complications [8]. These studies, however, have only\n           analyzed the use of NIRS as a tool to monitor the brain at times when it is at the\n           highest risk, during complex surgery with a compromised circulation. Although there is\n           no evidence that has demonstrated that decision making based on NIRS data is favorable\n           for patient outcome, many centers use NIRS as a monitoring tool outside of the surgical\n           environment.\n\n           Because the brain is very sensitive to changes in oxygenation, monitoring of SctO2\n           might provide an indication of critical changes in the hemodynamic state of the\n           patient, and thus serve as a monitor for the general hemodynamic status of the patient.\n           The present study wishes to examine the added value of  SctO2 monitoring over the\n           routine monitoring of pediatric patients in PICU, in the postoperative phase after\n           cardiac surgery. Ideally, in order to be of added value, SctO2 changes should precede\n           an episode of hemodynamic deteriorations.\n\n           Prediction is at the heart of intensive care medicine, where physicians make use of\n           their medical knowledge and all the patient-related data in order to foresee changes in\n           the patient's condition, and administer the appropriate (preventive) treatments. An\n           intensive care unit (ICU) is a very data-rich environment with several information\n           sources, such as admission records, medical history, laboratory analyses of samples,\n           medication and treatment records, and monitoring of vital signals. A Patient Data\n           Management System (PDMS) (MetaVision\u00ae, iMD-Soft\u00ae, Boston, MA) was installed in our ICU\n           starting in February 2006. This PDMS software automatically collects and integrates the\n           data from the multiple information sources. One of the benefits of having all\n           patient-related data in an integrated format is that it can be readily analyzed through\n           the use of computational techniques in general and data mining in particular. These\n           techniques make use of the information in large databases to automatically generate\n           models that can be used for prediction (e.g. to predict a patient's probability of\n           survival in ICU). In previous studies our research group has shown the high predictive\n           performances than can be obtained with data mining models in the intensive care domain.\n\n           In this study we will make use of data mining techniques to assess the predictive power\n           of SctO2-monitoring for future hemodynamic deterioration of the PICU patient after\n           cardiac surgery, by analyzing data collected in the PDMS, including the FORE-SIGHT\u2122\n           NIRS.\n\n        2. Aims of the project\n\n           \u2022 To assess the independent predictive power of the FORE-SIGHT\u2122 NIRS signal for future\n           hemodynamic deterioration of critically ill infants and children, in the postoperative\n           phase after cardiac surgery.\n\n           \u2022 To assess the predictive power of the FORE-SIGHT\u2122 NIRS signal for outcome in\n           critically ill infants and children, in the postoperative phase after cardiac surgery.\n\n        3. Study design\n\n      Prospective, observational, non-interventional study. All eligible children will be\n      monitored with the FORE-SIGHT\u2122, from admission until they are weaned off mechanical\n      ventilation. Typically, patients admitted after cardiac surgery in the PICU of the\n      university hospitals Leuven are mechanically ventilated between 12 hours and  two weeks [8].\n\n      The FORE-SIGHTTM SctO2 signal will be blinded to the bedside clinician and will be stored in\n      the PDMS system for analysis. The first 20 minutes of data after arrival to the ICU will not\n      be used for the analysis, since during this time the patient typically stabilizes to the new\n      environment after transport, and the data are therefore not characteristic of the ICU stay.\n\n      Data from these patients will be used for analysis, to build predictive models. A copy of\n      the PDMS database, after removal of all data that refer to the identity of the patients,\n      will be used for data analysis. Data mining models, such as simple logistic regression\n      models, but also more advanced machine learning techniques (models automatically learned by\n      a computer algorithm, such as Decision Tree models [9], Bayesian Networks, Gaussian\n      Processes, Support Vector Machines, \u2026), will assess the independent predictive power of the\n      FORE-SIGHT\u2122 signal over the routinely monitored data.\n\n      1. FORE-SIGHT\u2122 for early detection of future hemodynamic instability.\n\n      First, models will be built to assess the independent predictive power of the FORE-SIGHT\u2122\n      signal to detect episodes of hemodynamic instability 10 minutes in advance.\n\n      Since cardiac output is not directly measured invasively in children, such an episode is\n      evidenced by indirect signs. If one of more of the following criteria is met, this is\n      considered to be an episode of hemodynamic instability.\n\n        1. Hemodynamic monitoring \u2022 Heart Rate >160 or <90, for at least 5 consecutive minutes \u2022\n           Systolic Blood  Pressure < 55 (infants) or  < 65 (children) , for at least 5\n           consecutive minutes\n\n        2. Point of care laboratory analysis\n\n           \u2022 Venous Saturation (SvO2) <55 (when cyanogenic cardiopathy is present), or <65 (in all\n           other patients)\n\n           \u2022 Lactate  > 2 mmol/L on arterial blood gas sampling\n\n        3. Clinical observation \u2022 Urine Output rate <  normal rate of 0.5 ml/kg/h  over 2\n           consecutive hours\n\n      2. FORE-SIGHT\u2122 for prediction of outcome. Second, models will be built to assess whether the\n      FORE-SIGHT\u2122 signal is predictive for hospital and ICU Length of Stay (LOS ), mortality, and\n      duration of (invasive or non-invasive) mechanical ventilator support.\n\n      In order to assess predictive performance for the 2 predictive tasks, the following\n      statistics will be used:  the positive predictive value, the area under the ROC curve\n      (AUROC), the Hosmer-Lemeshow statistic,  calibration-in-the-large, calibration-slope and\n      Brier scores.\n\n      The positive predictive value is the proportion of positive instances that are correctly\n      classified. It reflects the probability that a positive result corresponds to the underlying\n      condition being tested for.\n\n      The AUROC is a measure of the model's ability to discriminate between positive and negative\n      instances. Usually AUROC as evaluation is preferred above accuracy as it allows to trade off\n      the possibly different costs of incorrectly classifying a negative instance as positive, or\n      equivalently to tradeoff between the model's sensitivity and specificity.\n\n      The Hosmer-Lemeshow statistic, calibration-in-the-large and the calibration-slope are used\n      to determine whether a model is well calibrated. These test assess whether the observed\n      event rates match expected event rates in subgroups of the population. Models for which\n      expected and observed event rates in subgroups are similar are said to be well calibrated.\n\n      Overall model performance will be assessed with the Brier Score and its normalized version,\n      the Brier Scaled Score. Accurate models have a low overall prediction error and therefore a\n      low Brier Score (below the  base case value for each task).\n\n      4 Study population\n\n      All children younger than 12 years of age, admitted to the PICU of the Leuven University\n      hospitals Leuven after cardiac surgery are eligible for the study, if they meet the\n      following inclusion criteria:\n\n        -  Mechanically ventilated upon ICU admission or intubated after admission\n\n        -  Arterial line in place.\n\n        -  Expected to stay at least 24h in the PICU.\n\n      Patients with actual or potential brain damage, such as traumatic brain injury patients,\n      patients with brain tumors, or patients after cardiopulmonary resuscitation (CPR) are\n      excluded. Patients with a condition or a wound that prohibits the placement of a forehead\n      sensor are also excluded.\n\n      The study will collect data for a period of 1,5 year. 300 critically ill children will be\n      recruited. Approximately 20% of the PICU patients exhibit clinical deterioration events, and\n      with a median (IQR) length of stay of 3 (2-7) days [8] and at least one event per day, we\n      expect a minimum of 180 events of clinical deterioration in the yearly population. From\n      previous studies with a similar event distribution [15,16] we expect our models to result in\n      a sensitivity (and specificity) of at least 0.8, with an alpha error of 5% and a statistical\n      power of 80%.\n\n      The study will therefore have the required statistical power to detect the potential of the\n      FORE-SIGHT\u2122 NIRS signal in predicting clinical deterioration."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  younger than 12 years of age\n\n          -  Mechanically ventilated upon ICU admission or intubated after admission\n\n          -  arterial line in place\n\n          -  expected to stay at least 24 hous in the PICU\n\n        Exclusion Criteria:\n\n          -  actual or potential brain damage (such as traumatic brain injury, brain tumors, or\n             patients after cardiopulmonary resuscitation (CPR), ...).\n\n          -  patients with a condition or a wound that prohibits the placement of a forehead\n             sensor are also excluded."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "12 Years", 
+            "minimum_age": "N/A", 
+            "sampling_method": "Probability Sample", 
+            "study_pop": {
+                "textblock": "All children younger than 12 years, admitted after cardiac surgery in the pediatric\n        intensive care unit (PICU) of the university hospitals Leuven, Belgium, on mechanical\n        ventilation or intubated after admission. Children are monitored with the FORE-SIGHT\u2122,\n        from admission until they are weaned off mechanical ventilation (typically, most of these\n        patients are mechanically ventilated between 12 hours and  two weeks after ICU admission)."
+            }
+        }, 
+        "enrollment": {
+            "#text": "300", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "October 10, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01706497", 
+            "org_study_id": "KUL-S54474"
+        }, 
+        "intervention": {
+            "intervention_name": "Cerebral tissue oxygen saturation monitoring, blinded", 
+            "intervention_type": "Device", 
+            "other_name": "Fore-Sight(TM) NIRS"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "cerebral tissue oxygen saturation", 
+            "congenital cardiac surgery", 
+            "pediatric intensive care unit", 
+            "Near Infra-Red Spectroscopy", 
+            "early warning monitor", 
+            "outcome prediction"
+        ], 
+        "lastchanged_date": "November 8, 2012", 
+        "link": {
+            "description": "Laboratory of intensive care medicine, KULeuven - University", 
+            "url": "http://www.kuleuven.be/licm/"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Leuven", 
+                    "country": "Belgium", 
+                    "zip": "3000"
+                }, 
+                "name": "Department of intensive care medicine, university hospitals Leuven"
+            }, 
+            "investigator": {
+                "last_name": "Geert JP Meyfroidt, MD, PhD", 
+                "role": "Principal Investigator"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "Belgium"
+        }, 
+        "number_of_groups": "1", 
+        "official_title": "Validation of the Predictive Value of the FORE-SIGHT\u2122 Monitor for Early Detection of Hemodynamic Deterioration After Pediatric Cardiac Surgery. A Data-mining Study.", 
+        "overall_contact": {
+            "email": "geert.meyfroidt@uzleuven.be", 
+            "last_name": "Geert JP Meyfroidt, MD, PhD", 
+            "phone": "+32 16 344021"
+        }, 
+        "overall_contact_backup": {
+            "email": "fabian.guiza@med.kuleuven.be", 
+            "last_name": "Fabian G\u00fciza Grandas, PhD", 
+            "phone": "+32 16 344232"
+        }, 
+        "overall_official": {
+            "affiliation": "Department of Intensive Care Medicine, University Hospitals Leuven, Belgium and Laboratory of intensive care medicine, department of cellular and molecular medicine, Biomedical sciences group, KULeuven - University, Belgium", 
+            "last_name": "Geert JP Meyfroidt, MD, PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "Belgium: Federal Agency for Medicinal Products and Health Products", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "April 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "If one of more of the following criteria is met, this is considered to be an episode of hemodynamic instability:\nHemodynamic monitoring criteria\nHeart Rate >160 or <90, for at least 5 consecutive minutes\nSystolic Blood  Pressure < 55 (infants) or  < 65 (children) , for at least 5 consecutive minutes Point of care laboratory analysis criteria\nVenous Saturation (SvO2) <55 (when cyanogenic cardiopathy is present), or <65 (in all other patients)\nLactate  > 2 mmol/L on arterial blood gas sampling Clinical observation criteria\nUrine Output rate <  normal rate of 0.5 ml/kg/h  over 2 consecutive hours", 
+            "measure": "Episodes of hemodynamic instability", 
+            "safety_issue": "No", 
+            "time_frame": "predictive window of 10 minutes; patients will be followed as long as they are mechanically ventilated, an expected average of 1-4days"
+        }, 
+        "reference": [
+            {
+                "PMID": "19665397", 
+                "citation": "Pennekamp CW, Bots ML, Kappelle LJ, Moll FL, de Borst GJ. The value of near-infrared spectroscopy measured cerebral oximetry during carotid endarterectomy in perioperative stroke prevention. A review. Eur J Vasc Endovasc Surg. 2009 Nov;38(5):539-45. Epub 2009 Aug 7. Review."
+            }, 
+            {
+                "PMID": "16115985", 
+                "citation": "Casati A, Fanelli G, Pietropaoli P, Proietti R, Tufano R, Danelli G, Fierro G, De Cosmo G, Servillo G. Continuous monitoring of cerebral oxygen saturation in elderly patients undergoing major abdominal surgery minimizes brain exposure to potential hypoxia. Anesth Analg. 2005 Sep;101(3):740-7, table of contents. Erratum in: Anesth Analg. 2006 Jun;102(6):1645. Fierro, Giovanni [corrected to Fierro, Giuseppe]."
+            }, 
+            {
+                "PMID": "17179242", 
+                "citation": "Murkin JM, Adams SJ, Novick RJ, Quantz M, Bainbridge D, Iglesias I, Cleland A, Schaefer B, Irwin B, Fox S. Monitoring brain oxygen saturation during coronary bypass surgery: a randomized, prospective study. Anesth Analg. 2007 Jan;104(1):51-8."
+            }, 
+            {
+                "PMID": "19101265", 
+                "citation": "Slater JP, Guarino T, Stack J, Vinod K, Bustami RT, Brown JM 3rd, Rodriguez AL, Magovern CJ, Zaubler T, Freundlich K, Parr GV. Cerebral oxygen desaturation predicts cognitive decline and longer hospital stay after cardiac surgery. Ann Thorac Surg. 2009 Jan;87(1):36-44; discussion 44-5."
+            }, 
+            {
+                "PMID": "19379890", 
+                "citation": "Phelps HM, Mahle WT, Kim D, Simsic JM, Kirshbom PM, Kanter KR, Maher KO. Postoperative cerebral oxygenation in hypoplastic left heart syndrome after the Norwood procedure. Ann Thorac Surg. 2009 May;87(5):1490-4."
+            }, 
+            {
+                "PMID": "19154918", 
+                "citation": "Hirsch JC, Charpie JR, Ohye RG, Gurney JG. Near-infrared spectroscopy: what we know and what we need to know--a systematic review of the congenital heart disease literature. J Thorac Cardiovasc Surg. 2009 Jan;137(1):154-9, 159e1-12. Epub 2008 Sep 24. Review."
+            }, 
+            {
+                "PMID": "21450312", 
+                "citation": "Uebing A, Furck AK, Hansen JH, Nufer E, Scheewe J, D\u00fctschke P, Jung O, Kramer HH. Perioperative cerebral and somatic oxygenation in neonates with hypoplastic left heart syndrome or transposition of the great arteries. J Thorac Cardiovasc Surg. 2011 Sep;142(3):523-30. doi: 10.1016/j.jtcvs.2011.01.036. Epub 2011 Mar 29."
+            }, 
+            {
+                "PMID": "19176240", 
+                "citation": "Vlasselaers D, Milants I, Desmet L, Wouters PJ, Vanhorebeek I, van den Heuvel I, Mesotten D, Casaer MP, Meyfroidt G, Ingels C, Muller J, Van Cromphaut S, Schetz M, Van den Berghe G. Intensive insulin therapy for patients in paediatric intensive care: a prospective, randomised controlled study. Lancet. 2009 Feb 14;373(9663):547-56. Epub 2009 Jan 26."
+            }, 
+            {
+                "PMID": "10906612", 
+                "citation": "Tsien CL, Kohane IS, McIntosh N. Multiple signal integration by decision tree induction to detect artifacts in the neonatal intensive care unit. Artif Intell Med. 2000 Jul;19(3):189-202."
+            }, 
+            {
+                "PMID": "17160063", 
+                "citation": "Noble WS. What is a support vector machine? Nat Biotechnol. 2006 Dec;24(12):1565-7. Review."
+            }, 
+            {
+                "PMID": "18075031", 
+                "citation": "Faul S, Gregorcic G, Boylan G, Marnane W, Lightbody G, Connolly S. Gaussian process modeling of EEG for the detection of neonatal seizures. IEEE Trans Biomed Eng. 2007 Dec;54(12):2151-62."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01706497"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Katholieke Universiteit Leuven", 
+            "investigator_full_name": "Geert Meyfroidt, MD, PhD", 
+            "investigator_title": "Assistant Professor", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "participants will be followed for the duration of hospital stay, an expected average of 1-2 weeks", 
+                "measure": "Hospital length of stay", 
+                "safety_issue": "No", 
+                "time_frame": "Hospital discharge"
+            }, 
+            {
+                "description": "participants will be followed for the duration of hospital stay, an expected average of 1-2 weeks", 
+                "measure": "Intensive care unit length of stay", 
+                "safety_issue": "No", 
+                "time_frame": "Intensive care unit discharge"
+            }, 
+            {
+                "description": "participants will be followed for the duration of hospital stay, an expected average of 1-2 weeks", 
+                "measure": "Duration of mechanical ventilation", 
+                "safety_issue": "No", 
+                "time_frame": "ICU discharge"
+            }, 
+            {
+                "description": "participants will be followed for the duration of hospital stay, an expected average of 1-2 weeks", 
+                "measure": "Hospital mortality", 
+                "safety_issue": "No", 
+                "time_frame": "Hospital discharge"
+            }, 
+            {
+                "measure": "ICU mortality", 
+                "safety_issue": "No", 
+                "time_frame": "ICU discharge"
+            }
+        ], 
+        "source": "Katholieke Universiteit Leuven", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "CAS Medical Systems, Inc.", 
+                "agency_class": "Industry"
+            }, 
+            "lead_sponsor": {
+                "agency": "Katholieke Universiteit Leuven", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "October 2012", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "November 2012"
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "clinical_study": {
+        "@rank": "18399", 
+        "acronym": "CALIBER", 
+        "brief_summary": {
+            "textblock": "The complete blood count is a commonly performed blood test, and previous small studies have\n      suggested that the counts of some types of white blood cell in the complete blood count may\n      be related to the onset of cardiovascular diseases such as stroke and heart attack. This is\n      of interest because this information may help to predict strokes or heart attacks and may\n      guide new therapies which act on white blood cells to reduce the risk of cardiovascular\n      disease.\n\n      The hypothesis is that counts of particular types of white blood cell are associated with a\n      range of cardiovascular diseases."
+        }, 
+        "brief_title": "White Blood Cell Counts and Onset of Cardiovascular Diseases: a CALIBER Study", 
+        "completion_date": {
+            "#text": "December 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Abdominal Aortic Aneurysm", 
+            "Coronary Artery Disease", 
+            "Stroke", 
+            "Heart Failure", 
+            "Peripheral Arterial Disease"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Aneurysm", 
+                "Aortic Aneurysm", 
+                "Cardiovascular Diseases", 
+                "Coronary Artery Disease", 
+                "Myocardial Ischemia", 
+                "Coronary Disease", 
+                "Heart Failure", 
+                "Stroke", 
+                "Peripheral Arterial Disease", 
+                "Peripheral Vascular Diseases", 
+                "Aortic Aneurysm, Abdominal"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "There is evidence from epidemiological studies that counts of some types of white blood\n      cell, such as neutrophils, are associated with increased incidence of coronary disease.\n      Associations with other initial presentations of cardiovascular diseases have not been\n      studied in large cohorts, but may be of interest for use in risk prediction or to guide\n      therapeutic strategies.\n\n      The aim of this study is to estimate associations between counts of lymphocytes,\n      neutrophils, eosinophils, monocytes and basophils, and initial presentation of a range of\n      cardiovascular diseases.\n\n      The study will use data from the CALIBER dataset of clinically collected electronic health\n      record data from England. Patients enter the study when they have a full blood count\n      (complete blood count) recorded in the dataset, and they are followed up until they\n      experience one of the cardiovascular endpoints, death or transfer out of the participating\n      primary care practice.\n\n      This study is part of the CALIBER (Cardiovascular disease research using linked bespoke\n      studies and electronic records) programme funded over 5 years from the National Institute\n      for Health Research (NIHR) and Wellcome Trust. The central theme of the CALIBER research is\n      linkage of the Myocardial Ischaemia National Audit Project (MINAP) with primary care\n      (Clinical Practice Research Datalink) and other resources. The overarching aim of CALIBER is\n      to better understand the aetiology and prognosis of specific coronary phenotypes across a\n      range of causal domains, particularly where electronic records provide a contribution beyond\n      traditional studies. CALIBER has received both Ethics approval (ref 09/H0810/16) and ECC\n      approval (ref ECC 2-06(b)/2009 CALIBER dataset)."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  All patients aged 30 and over, registered with a participating general practice\n             during the study period.\n\n        Exclusion Criteria:\n\n          -  Patients without a measurement of full blood count during the study period.\n\n          -  Patients with prior atherosclerotic disease, as recorded in primary care or\n             hospitalisation data."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "30 Years", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "Cohort study of patients in the CALIBER database who have a record of a full blood count\n        (complete blood count) during the study period while registered at one of 225 general\n        practices contributing data to CPRD (the Clinical Practice Research Datalink) and\n        consenting to data linkage."
+            }
+        }, 
+        "enrollment": {
+            "#text": "800000", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "December 12, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02014610", 
+            "org_study_id": "CALIBER 13-15", 
+            "secondary_id": [
+                "0938/30/Z/10/Z", 
+                "RP-PG-0407-10314", 
+                "086091/Z/08/Z"
+            ]
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Neutrophil", 
+            "Lymphocyte", 
+            "Eosinophil", 
+            "Leukocyte count", 
+            "Cardiovascular disease", 
+            "Atherosclerosis", 
+            "Monocyte", 
+            "Basophil"
+        ], 
+        "lastchanged_date": "December 12, 2013", 
+        "link": {
+            "description": "CALIBER web site and data portal", 
+            "url": "https://www.caliberresearch.org/"
+        }, 
+        "number_of_groups": "1", 
+        "official_title": "Leukocyte Counts and Initial Presentation of Cardiovascular Diseases: a CALIBER Study", 
+        "overall_official": [
+            {
+                "affiliation": "University College, London", 
+                "last_name": "Anoop D Shah, MRCP", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "University College, London", 
+                "last_name": "Harry Hemingway, FRCP", 
+                "role": "Study Director"
+            }
+        ], 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "UK: CALIBER Scientific Oversight Committee", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "December 2013", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "First recorded diagnosis of cardiovascular disease during follow-up: ventricular arrhythmia / sudden cardiac death, heart failure, unheralded coronary death, myocardial infarction, unstable angina, stable angina, abdominal aortic aneurysm, peripheral arterial disease, subarachnoid haemorrhage, intracerebral haemorrhage, ischaemic stroke, transient ischaemic attack", 
+            "measure": "Initial presentation of cardiovascular disease", 
+            "safety_issue": "No", 
+            "time_frame": "10 years"
+        }, 
+        "reference": {
+            "PMID": "23220717", 
+            "citation": "Denaxas SC, George J, Herrett E, Shah AD, Kalra D, Hingorani AD, Kivimaki M, Timmis AD, Smeeth L, Hemingway H. Data resource profile: cardiovascular disease research using linked bespoke studies and electronic health records (CALIBER). Int J Epidemiol. 2012 Dec;41(6):1625-38. doi: 10.1093/ije/dys188. Epub 2012 Dec 5."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02014610"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "measure": "All cause mortality", 
+            "safety_issue": "No", 
+            "time_frame": "10 years"
+        }, 
+        "source": "University College, London", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "Wellcome Trust", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "National Institute for Health Research, United Kingdom", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Medical Research Council", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "London School of Hygiene and Tropical Medicine", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "University College, London", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 1997", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "December 2013"
+    }
+}

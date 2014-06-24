@@ -1,0 +1,152 @@
+{
+    "clinical_study": {
+        "@rank": "122812", 
+        "acronym": "WAPPS", 
+        "arm_group": {
+            "arm_group_label": "Population pharmacokinetic estimation", 
+            "description": "Patients with severe or moderate hemophilia A or B, providing sparse data for population PK estimation"
+        }, 
+        "brief_summary": {
+            "textblock": "The aims of this trials are:\n\n        1. to collect published and unpublished individual classic pharmacokinetic data\n           (individual patient data from independent investigators and pharmaceutical companies)\n\n        2. to make available population pharmacokinetic models for the concentrates derived from\n           the data collected\n\n        3. to develop a web based application intended to use the above models to calculate\n           pharmacokinetic parameters for individual patients, and\n\n        4. to test the system functionality via simulation of the use of the prototype by use of\n           faked test data."
+        }, 
+        "brief_title": "Web-based Application for the Population Pharmacokinetic Service - Phase 1", 
+        "completion_date": {
+            "#text": "June 2016", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Hemophilia A", 
+            "Hemophilia B"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Hemophilia B", 
+                "Hemophilia A"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Methods: Participants, interventions, and outcomes\n\n      Study setting: All the development phases (a to c) will take place at McMaster University in\n      Hamilton, Ontario, Canada. Phase d) will involve the centers selected for the subsequent\n      twinned protocol, but will not use real patient data. The IT system will sit on a web\n      accessible platform developed and run by the Health Information Research Unit (HiRU) at\n      McMaster University.\n\n      Participants: There are no patients taking part in this development phase. Companies and\n      independent investigators will act as co-investigators and will provide already existing\n      on-file individual PK data. Faked test data will be used for step d).\n\n      Eligibility criteria: There are no patients taking part in this development phase, thus\n      eligibility criteria will be applied to pre-existing datasets. Primary investigators or\n      companies who own original pharmacokinetic data of factor VIII and factor IX concentrates\n      will provide data for the creation of the model. No restriction as to country, language or\n      factor concentrate will be applied.\n\n      Interventions: There is no therapeutic intervention planned as part of this study. The study\n      will result in a system intended to be used to produce patient level estimates potentially\n      useful to modify the treatment regimens of the patients. The phase 1 \"activities\" portion\n      the WAPPS-Hemo project include the following:\n\n        1. a systematic review to identify all the existing publications reporting pharmacokinetic\n           data on factor VIII and IX. Only articles reporting individual classic pharmacokinetic\n           data will be included. The data extracted will be extracted and compiled to be used to\n           create the population pharmacokinetic models. Investigators and companies, fulfilling\n           the eligibility criteria, will be invited to provide data and to sign a bilateral Data\n           Transfer Agreement  Data will be subsequently transferred to HIRU, stored in a secure\n           database and coded as needed for step b).\n\n        2. establishment of a population pharmacokinetic model by splitting the data into two\n           sets: a modeling set, from which the pharmacokinetic model will be built, and a\n           validation set, to be used to test the model before implementation. Initially, the\n           population pharmacokinetic model will be built using only the modeling data and\n           validated using the validation set through goodness-of-fit plots, bootstrapping, and\n           visual prediction checks (VPC). After the model validation, the entire data set will be\n           used to derive the final model for prospective use.\n\n        3. integration of the population pharmacokinetic models into the WAPPS-HEMO web service.\n           The Information Technology Support Group at HIRU will perform extensive in-house\n           beta-testing using fabricated data.\n\n        4. field testing of the website by asking centers participating in the research network to\n           test the website with fabricated patient data. After successful registration, the\n           centers will be provided with this data, and asked to generate records for those\n           patients. We will then run Population PK estimates, pilot the reporting process, gather\n           feedback on the testing process and troubleshoot any issues that come up. As well, we\n           will gather focus group feed-back and modify the service accordingly.\n\n      Outcomes: The WAPPS-Hemo project will result in:\n\n        1. a repository of all published and unpublished dataset of concentration-time point for\n           selected population of hemophilia patients studied after administration of factor\n           concentrates. Published data will be summarized in a systematic review and submitted\n           for publication.\n\n        2. population pharmacokinetic models for the factor concentrates for which\n           concentration-time point for population of hemophilia patients. The model development\n           will be described in a scientific report. The extended version will be available as\n           part of the study documentation, while a synthetic version will be submitted for\n           publication.\n\n        3. availability of the web application to be used in the phase d) of the study.\n\n        4. availability of the prototypal web application to be used in the subsequent phase 2 of\n           the WAPPS-Hemo protocol.\n\n      Participant timeline: We will require 12 months to gather the data, build the model, and\n      create the prototypal web service.\n\n      Sample size: We expect to be able to derive models for concentrates for which we have 50 or\n      more pre-existing individual PK data. We expect to have data available for 4 or more\n      different factor concentrates.\n\n      Recruitment: No patients will be recruited for this phase of the overall WAPPS program. Only\n      already published data or data on file will be used to derive the model and set up the\n      system. All the investigator of the studies identified via the literature search will be\n      contacted and invited to provide data. All the drug manufactures active in the hemophilia\n      field will be invited to provide on-file pharmacokinetic data.\n\n      Methods: Data collection, management, and analysis\n\n      Data collection methods: Data will be collected from the primary investigators and companies\n      that have agreed to provide original pharmacokinetic data on factor VIII and factor IX\n      concentrates.\n\n      Website development A cluster of fully resilient HP servers (Windows web servers in Network\n      load balancing configuration for the hosting the site, Microsoft SQL for the database, and\n      Windows server for the NONMEM software), located in two different buildings, will support\n      the system platform.  The system will also incorporate fully mirrored hard disks, and\n      redundant Https connection. The administrative website and backup database will be\n      accessible only over a VPN. The system will be available 24/7with a downtime of < 0.01 of\n      total up time.  All WAPPS related url (.com, .org, .ca, etc have been blocked immediately at\n      project funding notification - August 2013). All the needed licenses will be acquired,\n      including a single site license for the Icon NONMEM population PK software. The website,\n      database access interface, back-end NONMEM interface will be programmed in dot.net.\n\n      The system will be built ready to transfer information in a format compatible with the\n      hypertext languages used to embed knowledge into Electronic Medical Records (e.g., Arden\n      syntax and SEBASTIAN framework, http://www.openclinical.org/gmmsummaries.html), to\n      facilitate potential interface with the electronic medical record, database, and clinical\n      trial case report form at a later stage.\n\n      Data management: Data from the primary investigators and companies will be stored on a\n      secure McMaster University server and only the research team will be able to access it. As\n      the data provided to the research team will already be anonymized, there will be no need for\n      further anonymization. Notwithstanding in this phase of the study, only already existing\n      data from previous publications and on-file company-owned database will be used. We are\n      providing a description of the data management for the subsequent phase of the study (WAPPS\n      phase 2, protocol: The Implementation, User Testing and Validation of the Web-based\n      Application for the Population Pharmacokinetic Service - Hemophilia (WAPPS-HEMO)). Users\n      will be allowed to access and use the system only after a moderated registration process.\n      The head of the partner research center will need to go through a registration process, and\n      after validation by the McMaster team, she/he will receive credentials to access the\n      website. She/he will subsequently be able to authorize other users from her/his center to\n      access the system. Each individual user will have unique access credentials, and will be\n      authorized to manage patients from the center she/he belong to. Only authorized users will\n      be able to create and access patient record, and/or input the information required for the\n      PK assessment. The identification of patients will happen via a combination of three\n      different keys, a minimum of two of which should be provided in case of subsequent access to\n      the record. The three identifiers will be:\n\n        1. the WAPPS unique identifier, generated by the system at patient's record creation, and\n           reported on each page and printout relative to that patient,\n\n        2. the patient birthdate, in the format \"YYYY-MM-DD\", or\n\n        3. a local patient identifier. As to c, wherever allowed by the local center privacy\n           regulation, we will recommend to use a string composed by\n           \"LASTNAME,FIRSTNAME,LOCAL_CENTER_ID\". For centers whose relevant regulation does not\n           allow the use of this information, any combination of alphanumeric codes will be\n           accepted. It will then be the responsibility of the local center to track the local\n           identifier in the patient file.\n\n      The data above will be provided by the user creating a record for the patient on the system.\n      For subsequent re-access of any user from the same center to any specific patient record\n      from the center, the system will display a list of the registered patient, using the\n      identifier provided (i.e. a) and b) mandatorily, c) with the information provided by the\n      center. The user will be then able to access a specific patient record for the allowed\n      operation (as described in the study protocol for step 2).\n\n      Statistical methods: The NONMEM 7 version 1.0 (ICON Development Solutions, Ellicott City,\n      MD) will be used with an Intel Fortran compiler (version 12) for population pharmacokinetic\n      modeling. The statistical program R (version 2.15.0, R Foundation for Statistical Computing,\n      Vienna, Austria) will be used to compile the NONMEM sets and generate the graphical\n      representations of the models. Perl Speaks NONMEM (PsN, version 3.5.3) and PsN and Xpose 4\n      will be used, respectively, for the bootstrapping and the VPC validation tests.\n\n      In order to estimate the population pharmacokinetic parameters, we will use a first-order\n      conditional estimation with interaction method (FOCEI). Exponential function will be used to\n      model inter-individual variability (IIV), and the inclusion of IIV terms on pharmacokinetic\n      parameters will be tested in sequential order. IIV addition with the most significant\n      objective function value (OFV) reduction will enter the model first. Inter-assessment\n      variability (IAV) will also be evaluated with baseline pharmacokinetics at first available\n      assessment as assessment 1 and repeat pharmacokinetic profiling at the subsequent available\n      time as assessment 2. Any residual errors found in the data will be modeled as combined\n      additive and proportional errors.\n\n      Potential demographic or clinical factors potentially affecting the pharmacokinetics\n      (including the type of concentrates for the basic overarching model to be used for products\n      for which product-specific data will not be available and the characteristics of the\n      laboratory technique used to measure the plasma factor level concentration) will be screened\n      using plots of IIV versus the covariates. When the covariates are continuous, scatter plots\n      of ETA (IIV code used in NONMEM) versus the covariates will be used to determine functional\n      relationships. These scatter plots will be overlaid with a non-parametric locally weighted\n      smoother LOESS line. When the covariates are categorical, potential differences between\n      groups will be identified using box and whisker plots. Any possible influence by continuous\n      covariates should be suggested by a clear trend of positive or negative slopes and\n      outstanding correlation coefficients. Influence from categorical covariates will be\n      suggested by pronounced changes between the mean values of each group. In the covariate\n      modeling, a full stepwise forward addition (P<0.005) and backward elimination (P<0.001)\n      procedure will be used.\n\n      The model selection will also be validated with goodness-of-fit plots, including observation\n      (OV) versus population prediction (PRED), OV versus individual prediction (IPRED),\n      conditional weighted residual (CWRES) versus TIME and PRED plots. Other diagnostics, such as\n      parameter precision, ETA, and CWRES distribution and shrinkage, will also be used to choose\n      the proper population pharmacokinetic model.\u2003 Methods: Monitoring\n\n      Data monitoring: For step I of the WAPPS protocol, there is no need to plan a data\n      monitoring process. Indeed, all data will be validated as part of model derivation, and used\n      as such in the rest of the study. Congruency checks will be performed on user's input data\n      and PK estimations in the subsequent phase 2 of the study and subsequently in routine use of\n      the interface.\n\n      Harms: During the development phases (a to c), we will not offer the web application beyond\n      the boundaries of the developing research unit. The website will be made available to the\n      centers in the research network during the testing phase d) (using only fabricated data) and\n      the subsequent phase 2 of the protocol. We will clearly identify the prototypal and\n      experimental use of the system in both the Research Agreements and the website page as a\n      \"Research tool not yet ready for clinical practice\". A clear disclaimer will indicate that\n      \"Any use of the results of the population pharmacokinetic estimates in the care of\n      individual patients should not be considered part of the project in this phase\".\n\n      Auditing: No auditing is planned for this phase. We will assess the percentage of errors of\n      the centers in inputting the fabricated data."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients with severe or moderate Hemophilia A or B\n\n          -  Informed consent to data processing\n\n        Exclusion Criteria:\n\n          -  Non measurable plasma factor VIII due to high titre inhibitor"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "Patients with severe or moderate Hemophilia A or B"
+            }
+        }, 
+        "enrollment": {
+            "#text": "400", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "February 4, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02061072", 
+            "org_study_id": "13-351-D"
+        }, 
+        "intervention": {
+            "arm_group_label": "Population pharmacokinetic estimation", 
+            "description": "Pre-existing individual PK data will be used to derive population PK models. Sparse concentration time data, acquired via a website, will be used to estimate individual pharmacokinetic parameters", 
+            "intervention_name": "Population pharmacokinetic estimation", 
+            "intervention_type": "Device"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "pharmacokinetics", 
+            "population pharmacokinetics", 
+            "hemophilia", 
+            "factor VIII", 
+            "factor IX"
+        ], 
+        "lastchanged_date": "February 11, 2014", 
+        "number_of_groups": "1", 
+        "official_title": "The Development of the Web-based Application for the Population Pharmacokinetic Service - Hemophilia (WAPPS-Hemo) - Phase 1", 
+        "overall_contact": {
+            "email": "iorioa@mcmaster.ca", 
+            "last_name": "Alfonso Iorio, MD,PhD", 
+            "phone": "9055259140", 
+            "phone_ext": "22421"
+        }, 
+        "overall_contact_backup": {
+            "email": "sheridl@mcmaster.ca", 
+            "last_name": "Sheridan Linda", 
+            "phone": "9055259140", 
+            "phone_ext": "20152"
+        }, 
+        "overall_official": {
+            "affiliation": "McMaster University", 
+            "last_name": "Alfonso Iorio, MD,PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Not yet recruiting", 
+        "oversight_info": {
+            "authority": "Canada: Ethics Review Committee", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "December 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "The performance of the model(s) will be assessed with statistical indexes of goodness of fit, and by simulation exercises where partial data from individual PK estimates will be used to predict concentration at different time points, subsequently comparing observed and expected values, then compared by chi-square statitstics. Similarly, the equivalence of estimates produced on a reduced set of points will be compared with those produced from the analysis of the full data set. Since any PK analysis is by definition providing estimates of the true unknown value, and it is as well know a priori that the population PK estimation will produce estimates with higher uncertainty, only partly dependent on the sample size, the usual approach is not to predefine a cut off to accept or refuse the model, but more so to describe its statistical properties.", 
+            "measure": "Population pharmacokinetic model(s) performance", 
+            "safety_issue": "No", 
+            "time_frame": "up to model estimation completion or 6 months, whichever comes first"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02061072"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Users feed-back will be sought by interviews, questionnaires and focus groups during the entire time frame of the study, until saturation will be reached. Suggested changes to the system will be implemented in cycles. Standard techniques for audit-feed-back processes will be adopted", 
+                "measure": "Usability of the web-interface", 
+                "safety_issue": "No", 
+                "time_frame": "up to final release of the interface or six months, whatever comes first"
+            }, 
+            {
+                "measure": "number of patients with successful population PK estimation", 
+                "safety_issue": "No", 
+                "time_frame": "study completion"
+            }, 
+            {
+                "description": "The definition of concordance will be based on clinical ground as \"a difference non impacting on treatment decision\"", 
+                "measure": "number of patients with concordant population and classic PK estimation", 
+                "safety_issue": "No", 
+                "time_frame": "study completion"
+            }, 
+            {
+                "measure": "minimum number of data point allowing a reliable population PK estimate for a subject", 
+                "safety_issue": "No", 
+                "time_frame": "study completion"
+            }
+        ], 
+        "source": "McMaster University", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Canadian Hemophilia Society", 
+                "agency_class": "Other"
+            }, 
+            "lead_sponsor": {
+                "agency": "McMaster University", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2015", 
+        "study_design": "N/A", 
+        "study_type": "Observational [Patient Registry]", 
+        "target_duration": "1 Year", 
+        "verification_date": "February 2014"
+    }
+}

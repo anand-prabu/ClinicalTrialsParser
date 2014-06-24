@@ -1,0 +1,114 @@
+{
+    "clinical_study": {
+        "@rank": "73752", 
+        "arm_group": [
+            {
+                "arm_group_label": "Low intensity anodal tDCS", 
+                "arm_group_type": "Active Comparator", 
+                "description": "tDCS will be administered for 10 min at 1mA"
+            }, 
+            {
+                "arm_group_label": "High intensity anodal tDCS", 
+                "arm_group_type": "Experimental", 
+                "description": "tDCS will be administered for 10 min at 2.5mA"
+            }, 
+            {
+                "arm_group_label": "Sham tDCS", 
+                "arm_group_type": "Sham Comparator", 
+                "description": "Sham will be administered for 10 min at 0 mA"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "In this study the effect of tDCS intensity on motor performance and corticospinal (CS)\n      excitability is evaluated. The investigators expect that a positive relationship between\n      current intensity and motor performance/CS excitability."
+        }, 
+        "brief_title": "The Effect of tDCS on Motor Performance and Cortical Excitability", 
+        "completion_date": {
+            "#text": "June 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Cortical Excitability", 
+            "Motor Performance", 
+            "tDCS"
+        ], 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n        - Healthy subjects\n\n        Exclusion Criteria:\n\n          -  Contraindications for tDCS/TMS\n\n          -  TMS measurements have to be possible"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "85 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "30", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 26, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01740843", 
+            "org_study_id": "MECU2012-004"
+        }, 
+        "intervention": {
+            "arm_group_label": [
+                "Low intensity anodal tDCS", 
+                "High intensity anodal tDCS", 
+                "Sham tDCS"
+            ], 
+            "description": "The anode is fixed on the primary cortex and the cathode will be fixed on the contralateral supraorbital region.", 
+            "intervention_name": "transcranial direct current stimulation (tDCS) (NeuroConn DC-stimulator)", 
+            "intervention_type": "Device", 
+            "other_name": "NeuroConn DC-stimulator"
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "February 24, 2014", 
+        "number_of_arms": "3", 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Belgium: Ethics Committee", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "April 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "motor performance is assessed using different reaction time paradigms (simple reaction time, choice reaction time). This is done at baseline and immediately after the intervention (30 min after baseline)", 
+                "measure": "Change in motor performance", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline and POST (30 min after baseline) intervention"
+            }, 
+            {
+                "description": "Cortical excitability is measured using trancranial magnetic stimulation (TMS) measuring muscle evoked potentials (MEPs) at baseline and POST (30 min after baseline).", 
+                "measure": "Change in cortical excitability", 
+                "safety_issue": "Yes", 
+                "time_frame": "Baseline and POST (30 min after baseline) intervention"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01740843"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Hasselt University", 
+            "investigator_full_name": "Koen Cuypers", 
+            "investigator_title": "Drs. Koen Cuypers", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "source": "Hasselt University", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Hasselt University", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "August 2012", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Crossover Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "February 2014"
+    }
+}

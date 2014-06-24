@@ -1,0 +1,373 @@
+{
+    "clinical_study": {
+        "@rank": "70440", 
+        "acronym": "PSO4", 
+        "arm_group": [
+            {
+                "arm_group_label": "Pump suspension algorithm", 
+                "arm_group_type": "Active Comparator", 
+                "description": "The pump suspension algorithm will be running actively on the study laptop during the night and suspend the pump if the algorithm predicts hypoglycemia."
+            }, 
+            {
+                "arm_group_label": "Standard of Care", 
+                "arm_group_type": "No Intervention", 
+                "description": "The control algorithm will run passively and not suspend the patient's pump."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to see whether low blood sugar at night can be reduced by using\n      a system that turns off the insulin pump automatically. The study system includes a\n      continuous glucose monitor (CGM) and an insulin pump. The CGM and pump work with a regular\n      laptop computer.  A The system works by (1) measuring the glucose levels under the skin with\n      the CGM, (2) using a computer program on the laptop to predict whether a low blood sugar is\n      likely to occur, and (3) turning off the insulin pump when the computer program predicts\n      that a low blood sugar will occur.\n\n      We have tested the system in the home environment in individuals with type 1 diabetes age 15\n      years and older.  We have found an indication that the system can decrease the frequency of\n      hypoglycemia.  We have not had any serious cases of  high blood sugars or other problems.\n      We are now ready to further test the system in the home environment in a younger age group\n      to learn more about its ability to reduce overnight low blood sugar risk.\n\n      This study has several phases and will take about 3 months for a patient to complete.\n\n        -  First, the patient will use the CGM and pump at home for up to 15 days with the help of\n           a parent/guardian.  This is done to determine if the patient meets our study criteria\n           to proceed with the next phase of the study.\n\n        -  If the patient is eligible to continue in the study, the patient will need to use the\n           full study system for at least 5 nights at home with the help of a parent/guardian.\n           This is done to make sure the patient and parent/guardian are able to use the system\n           correctly.  The patient may participate in starting and stopping the system at home,\n           but the parent/guardian is responsible for making sure it is used as instructed.\n\n        -  After that, the patient will be asked to use the study system each night for an\n           additional 6 to 8 weeks.  The parent/guardian will remain responsible for making sure\n           the system is used as instructed.\n\n      The study will include about 90 individuals with type 1 diabetes at 3 clinical centers in\n      the United States and Canada.  First a study of children 8 to less than 15 years old will be\n      done. Then, a study of children 3 to less than 8 years old will be conducted."
+        }, 
+        "brief_title": "Outpatient Reduction of Nocturnal Hypoglycemia by Using Predictive Algorithms and Pump Suspension in Children", 
+        "completion_date": {
+            "#text": "January 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Type 1 Diabetes", 
+        "condition_browse": {
+            "mesh_term": [
+                "Diabetes Mellitus", 
+                "Diabetes Mellitus, Type 1", 
+                "Hypoglycemia"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Patients who are eligible for the clinical trial initially will use a Veo insulin pump and\n      Enlite sensor at home to verify that the patient is able to use the continuous glucose\n      monitor (CGM) and insert sensors and is eligible to continue in the study. A parent or\n      guardian of the child subject will oversee the actions of the subject and be responsible for\n      the patient's overall participation during the proposed study, including operation of the\n      investigational device system.\n\n      The first 10 patients 8 to <15 years of age will participate in an Algorithm Assessment\n      Phase of approximately 10 nights of active system use each (for a nominal total of 100\n      nights of use) to determine if any adjustments to the algorithm parameters are needed and if\n      it is safe to advance to a randomized clinical trial phase with these subjects.  If\n      adjustments are needed, the Algorithm Assessment Phase will be repeated, using the same 10\n      patients if possible.  Once the randomized clinical trial phase begins for patients 8 to <15\n      years of age, approximately 200 nights of randomized system use will be collected and\n      assessed for safety before any patients 3 to <8 years of age may be enrolled in the study.\n      When enrollment does begin for patients 3 to <8 years of age, a second Algorithm Assessment\n      Phase will be conducted with the first 10 patients in that younger age group using the same\n      approach described above for the older subjects.  Once the randomized clinical trial phase\n      begins for patients 3 to <8 years of age, a final Data Safety Monitoring Board safety\n      assessment will be performed after approximately the first 200 nights of randomized system\n      use.\n\n      Patients who enroll in the study after the completion of the Algorithm Assessment Phase for\n      their age group will use the closed-loop system at home for at least 5 days to demonstrate\n      their ability to use the system and submit study data to the Coordinating Center.\n\n      Patients who successfully demonstrate their ability to use the system at home as described\n      above will be eligible for the randomized trial phase.  This phase consists of use of the\n      full system as an outpatient for approximately 42 nights:\n\n        -  Each night the blood glucose (BG) level will be checked with the BG meter and used to\n           perform a calibration of the CGM.  This calibration must occur no more than 90 minutes\n           prior to activation of the system.  NOTE:  Subjects will be instructed to calibrate the\n           CGM per manufacturer guidelines.\n\n        -  Then the system will be activated, linking the CGM and insulin pump to the computer at\n           the bedside.\n\n        -  A randomization schedule on the laptop will be used to determine whether the 'pump shut\n           off' application will be active that night or not.\n\n        -  Patients will be blinded as to whether the pump shut off is active when a session is\n           initiated each night.\n\n        -  There will not be an alarm if the pump shuts off.  The CGM alarm will be set to 60\n           mg/dL (3.3 mmol/L).  When a CGM alarm occurs, the subject will be asked to measure the\n           blood glucose with a BG meter, if he/she is aware of the alarm.\n\n        -  Patients will be asked to check blood ketones with the study ketone meter if the\n           subject has a fingerstick BG \u2265250 mg/dL (13.9 mmol/L).\n\n        -  Patients will be asked to check blood glucose with the study BG meter, blood ketones\n           with the study ketone meter, and urine ketones with a ketone strip each morning prior\n           to breakfast and enter the results using the controller software interface.  The\n           patient will be instructed to contact the study physician if the blood glucose or\n           ketone readings are out of an expected range.\n\n        -  Patients will be asked to record all overnight carbohydrate intake using the controller\n           software interface.\n\n        -  Patients will be asked to perform periodic CGM data uploads using the controller\n           software interface.\n\n      Upon completion of the study, patients as well as study clinicians will be asked to complete\n      a human factors usability questionnaire regarding use of the study system."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Clinical diagnosis of type 1 diabetes and using daily insulin therapy for at least\n             one year and an insulin infusion pump for at least 6 months\n\n          -  Age 3 to <15 years\n\n          -  HbA1c <=8.5%\n\n          -  Availability of internet access for periodic upload of study data\n\n        Exclusion Criteria:\n\n          -  Diabetic ketoacidosis in the past 3 months\n\n          -  Hypoglycemic seizure or loss of consciousness in past 6 months\n\n          -  History of seizure disorder (except for hypoglycemic seizures)\n\n          -  Cystic fibrosis\n\n          -  Current use of oral/inhaled glucocorticoids, beta-blockers or other medications,\n             which in the judgment of the investigator would be a contraindication to\n             participation in the study\n\n          -  History of ongoing renal disease (other than microalbuminuria), or liver disease\n             (Creatinine is > 1.5 mg/dL (132 \u00b5mol/L))\n\n          -  Medical or psychiatric condition that in the judgment of the investigator might\n             interfere with the completion of the protocol such as:\n\n               -  Inpatient psychiatric treatment in the past 6 months\n\n               -  Uncontrolled adrenal disorder\n\n               -  Abuse of alcohol\n\n          -  Pregnancy\n\n          -  Liver disease as defined by an Alanine Aminotransferase Test (ALT) greater than 3\n             times the upper limit of normal"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "14 Years", 
+            "minimum_age": "3 Years"
+        }, 
+        "enrollment": {
+            "#text": "120", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "March 29, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01823341", 
+            "org_study_id": "PSO4", 
+            "secondary_id": "5R01DK085591"
+        }, 
+        "intervention": {
+            "arm_group_label": "Pump suspension algorithm", 
+            "description": "The study laptop will communicate to the pump causing a suspension based on output from the algorithm which predicts hypoglycemia.", 
+            "intervention_name": "Pump suspension algorithm", 
+            "intervention_type": "Device"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "Type 1 Diabetes", 
+            "Hypoglycemia", 
+            "Continuous Glucose Monitoring", 
+            "Pump Suspension"
+        ], 
+        "lastchanged_date": "March 11, 2014", 
+        "location": [
+            {
+                "contact": {
+                    "email": "pclinton@stanford.edu", 
+                    "last_name": "Paula Clinton, RD, CDE", 
+                    "phone": "650-736-2313"
+                }, 
+                "contact_backup": {
+                    "email": "bpharris@stanford.edu", 
+                    "last_name": "Breanne Harris", 
+                    "phone": "650-736-8948"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Stanford", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94305"
+                    }, 
+                    "name": "Stanford University"
+                }, 
+                "investigator": [
+                    {
+                        "last_name": "Bruce A Buckingham, MD", 
+                        "role": "Principal Investigator"
+                    }, 
+                    {
+                        "last_name": "Darrell Wilson, MD", 
+                        "role": "Sub-Investigator"
+                    }, 
+                    {
+                        "last_name": "Tandy Aye, MD", 
+                        "role": "Sub-Investigator"
+                    }
+                ], 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "dena.gottesman@ucdenver.edu", 
+                    "last_name": "Dena Gottesman, RN, CDE", 
+                    "phone": "303-724-5645"
+                }, 
+                "contact_backup": {
+                    "email": "laurel.messer@ucdenver.edu", 
+                    "last_name": "Laurel Messer, RN, MPH, CDE", 
+                    "phone": "303-724-6742"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Aurora", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80045"
+                    }, 
+                    "name": "Barbara Davis Center for Childhood Diabetes"
+                }, 
+                "investigator": [
+                    {
+                        "last_name": "Peter Chase, MD", 
+                        "role": "Principal Investigator"
+                    }, 
+                    {
+                        "last_name": "Robert Slover, MD", 
+                        "role": "Sub-Investigator"
+                    }, 
+                    {
+                        "last_name": "David Maahs, MD", 
+                        "role": "Sub-Investigator"
+                    }, 
+                    {
+                        "last_name": "Paul Wadwa, MD", 
+                        "role": "Sub-Investigator"
+                    }
+                ], 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "Sue.Tereschyn@lhsc.on.ca", 
+                    "last_name": "Sue Tereschyn, RN, CDE", 
+                    "phone": "519-646-6100", 
+                    "phone_ext": "65423"
+                }, 
+                "contact_backup": {
+                    "email": "Marsha.Driscoll@sjhc.london.on.ca", 
+                    "last_name": "Marsha Driscoll"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "London", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "N6A4V2"
+                    }, 
+                    "name": "St. Joseph's Health Care"
+                }, 
+                "investigator": [
+                    {
+                        "last_name": "Irene Hramiak, MD", 
+                        "role": "Principal Investigator"
+                    }, 
+                    {
+                        "last_name": "Tamara Spaic, MD", 
+                        "role": "Sub-Investigator"
+                    }, 
+                    {
+                        "last_name": "Terri Paul, MD", 
+                        "role": "Sub-Investigator"
+                    }
+                ], 
+                "status": "Recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Canada"
+            ]
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Outpatient Reduction of Nocturnal Hypoglycemia by Using Predictive Algorithms and Pump Suspension in Children", 
+        "overall_contact": {
+            "email": "jsibayan@jaeb.org", 
+            "last_name": "Judy Sibayan, MPH", 
+            "phone": "813-975-8690"
+        }, 
+        "overall_contact_backup": {
+            "email": "jlum@jaeb.org", 
+            "last_name": "John Lum, MS", 
+            "phone": "813-975-8690"
+        }, 
+        "overall_official": [
+            {
+                "affiliation": "Jaeb Center for Health Research", 
+                "last_name": "Roy W Beck, MD, PhD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Stanford University", 
+                "last_name": "Bruce A Buckingham, MD", 
+                "role": "Study Chair"
+            }, 
+            {
+                "affiliation": "Jaeb Center for Health Research", 
+                "last_name": "John Lum, MS", 
+                "role": "Study Director"
+            }
+        ], 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "January 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Each night is categorized as to whether hypoglycemia occurred. Hypoglycemia is defined as the occurrence of one or more CGM glucose values \u226470 mg/dL (3.9 mmol/L). The time period for outcome assessment each night will be from the time the system is activated in the evening until the time it is deactivated in the morning. The percentage of hypoglycemic nights (CGM glucose value \u226470 mg/dL (3.9 mmol/L)) will be tabulated separately with versus without the closed-loop control system in use.", 
+            "measure": "Comparison of the time spent in hypoglycemia (<70 mg/dl, 3.9 mmol/L) overnight on intervention nights versus control nights, normalized to an 8-hour period.", 
+            "safety_issue": "No", 
+            "time_frame": "42 nights"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01823341"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Percentage of sensor glucose values 71 to 180 mg/dL (3.9 to 10.0 mmol/L)", 
+                "safety_issue": "No", 
+                "time_frame": "42 nights"
+            }, 
+            {
+                "measure": "Proportion of nights with a sensor glucose value <=70 mg/dL (<=3.9 mmol/L)", 
+                "safety_issue": "No", 
+                "time_frame": "42 nights"
+            }, 
+            {
+                "measure": "Proportion of nights with sensor glucose value <=50 mg/dL (<=2.8 mmol/L)", 
+                "safety_issue": "No", 
+                "time_frame": "42 nights"
+            }, 
+            {
+                "description": "For instances where blood glucose was measured using a study blood glucose meter, a comparison will be made between the sensor glucose values and meter blood glucose values.", 
+                "measure": "For the nights when sensor glucose is <=60 mg/dL (<= 3.3 mmol/L), tabulation will be made as to whether blood glucose measured with study blood glucose meter", 
+                "safety_issue": "No", 
+                "time_frame": "42 nights"
+            }, 
+            {
+                "measure": "Mean home glucose meter morning glucose", 
+                "safety_issue": "Yes", 
+                "time_frame": "42 nights"
+            }, 
+            {
+                "measure": "Morning glucose measured with home glucose meter >=250 mg/dL (>=13.9 mmol/L)", 
+                "safety_issue": "Yes", 
+                "time_frame": "42 nights"
+            }, 
+            {
+                "measure": "Morning blood ketones >1.0 mmol/L", 
+                "safety_issue": "Yes", 
+                "time_frame": "42 nights"
+            }, 
+            {
+                "measure": "Morning urine ketones >=small amount", 
+                "safety_issue": "Yes", 
+                "time_frame": "42 nights"
+            }, 
+            {
+                "description": "Mean sensor glucose will be assessed over 24 hours and for 4 hours post system deactivation.", 
+                "measure": "Mean sensor glucose overnight", 
+                "safety_issue": "No", 
+                "time_frame": "42 nights"
+            }, 
+            {
+                "description": "Percentage of sensor glucose values 71 to 180 mg/dL (3.9 to 10.0 mmol/L) overnight assessed over 24 hours and over the first 4 hours following system deactivation.", 
+                "measure": "Percentage of sensor glucose values 71 to 180 mg/dL (3.9 to 10.0 mmol/L) overnight", 
+                "safety_issue": "No", 
+                "time_frame": "42 nights"
+            }, 
+            {
+                "description": "Area under the curve will be assessed over 24 hours and over the first 4 hours following system deactivation.", 
+                "measure": "Area under the curve for sensor glucose <70 mg/dL (3.9 mmol/L), 60 mg/dL (3.3 mmol/L), and 50 mg/dL (2.8 mmol/L)", 
+                "safety_issue": "No", 
+                "time_frame": "42 nights"
+            }, 
+            {
+                "description": "Area under the curve will be assessed over 24 hours and over the first 4 hours following system deactivation.", 
+                "measure": "Area under the curve sensor glucose >180 mg/dL (10.0 mmol/L) and 240 mg/dl (13.3 mmol/L) overnight", 
+                "safety_issue": "No", 
+                "time_frame": "42 nights"
+            }, 
+            {
+                "measure": "Percent of nights with a CGM value > 250 mg/dL (13.9 mmol/L)", 
+                "safety_issue": "No", 
+                "time_frame": "42 nights"
+            }, 
+            {
+                "measure": "Morning glucose measured with home glucose meter >250 mg/dL (13.9 mmol/L)", 
+                "safety_issue": "No", 
+                "time_frame": "42 nights"
+            }, 
+            {
+                "measure": "Morning ketones >0.6 mmol/L", 
+                "safety_issue": "No", 
+                "time_frame": "42 nights"
+            }, 
+            {
+                "measure": "Episodes of Diabetic Ketoacidosis (DKA)", 
+                "safety_issue": "Yes", 
+                "time_frame": "42 nights"
+            }, 
+            {
+                "measure": "Episodes of severe hypoglycemia", 
+                "safety_issue": "Yes", 
+                "time_frame": "42 nights"
+            }, 
+            {
+                "measure": "Change in Hemoglobin A1c", 
+                "safety_issue": "No", 
+                "time_frame": "42 nights"
+            }, 
+            {
+                "measure": "All reported adverse events", 
+                "safety_issue": "Yes", 
+                "time_frame": "42 nights"
+            }, 
+            {
+                "measure": "The pump settings will be analyzed for any changes from the baseline visit", 
+                "safety_issue": "No", 
+                "time_frame": "21 and 42 nights"
+            }
+        ], 
+        "source": "In Home Closed Loop Study Group", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)", 
+                    "agency_class": "NIH"
+                }, 
+                {
+                    "agency": "Juvenile Diabetes Research Foundation", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "In Home Closed Loop Study Group", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "May 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Prevention", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2014"
+    }
+}

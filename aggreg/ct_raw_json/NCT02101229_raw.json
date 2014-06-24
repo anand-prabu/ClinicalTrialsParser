@@ -1,0 +1,194 @@
+{
+    "clinical_study": {
+        "@rank": "50427", 
+        "acronym": "WP6 1", 
+        "arm_group": [
+            {
+                "arm_group_label": "unsual treatment", 
+                "arm_group_type": "No Intervention", 
+                "description": "The patient will have his usual treatment in this arm"
+            }, 
+            {
+                "arm_group_label": "The Diabeloop algorithm", 
+                "arm_group_type": "Experimental", 
+                "description": "In this arm, the insulin Asp(B28) dose is calculated by the algorithm based on the usual treatment of the patient, the ratio I / C, the intensity of physical activity and blood glucose sensor."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "To assess whether the DIABELOOP algorithm provides better glycemic control than the usual\n      algorithm of T1D patients on pump therapy:\n\n        -  at meals, with CHO roughly assessed by the patient.\n\n        -  during and after physical activity sessions qualified as moderate by the patient.\n\n      Primary endpoint : time within the glycemic reference range. The study will be conduct with\n      15 patients at the following investigation centers : Corbeil Hospital, CHU of Grenoble, and\n      CHU of Montpellier."
+        }, 
+        "brief_title": "Validation of the Artificial Pancreas Diabeloop Algorithm in the Hospital", 
+        "completion_date": {
+            "#text": "August 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Type 1 Diabetes", 
+        "condition_browse": {
+            "mesh_term": "Diabetes Mellitus, Type 1"
+        }, 
+        "detailed_description": {
+            "textblock": "The 15 patients will have 2 visits during 24 hours (day and night), once with their usual\n      algorithm and once with the Diabeloop system."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patient type 1 diabetic for at least one year\n\n          -  Patient treated by external insulin pump for at least 6 months\n\n          -  Patients with HbA1c <9%\n\n          -  Patient affiliated with Social Security.\n\n          -  Patient able to perform two tests of physical activity of 30 minutes (one event in\n             each treatment period);\n\n          -  aged at least 18 years Patient;\n\n          -  Patient who signed consent\n\n        Exclusion Criteria:\n\n          -  All serious disease that could interfere with the study\n\n          -  BMI > 30 kg/m2\n\n          -  insulin requirement > 2 U/kg/day\n\n          -  Patient benefiting from a measure of legal protection;\n\n          -  Pregnant or likely to be women."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "15", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "March 21, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02101229", 
+            "org_study_id": "2013-A01657-38"
+        }, 
+        "intervention": {
+            "arm_group_label": "The Diabeloop algorithm", 
+            "description": "the insulin dose is calculated by the \"Diabeloop\" algorithm and then administered to the patient", 
+            "intervention_name": "Insulin, Asp(B28)-", 
+            "intervention_type": "Drug", 
+            "other_name": "NovoRapid insulin"
+        }, 
+        "intervention_browse": {
+            "mesh_term": [
+                "Insulin", 
+                "Pancrelipase"
+            ]
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Glycemic control algorithm", 
+            "closed loop", 
+            "artificial pancreas"
+        ], 
+        "lastchanged_date": "March 28, 2014", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Evry", 
+                        "country": "France", 
+                        "zip": "91058"
+                    }, 
+                    "name": "Centre Hospitalier du Sud Francillien"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Grenoble", 
+                        "country": "France", 
+                        "zip": "38043"
+                    }, 
+                    "name": "University Hospital of Grenoble"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montpellier", 
+                        "country": "France", 
+                        "zip": "34295"
+                    }, 
+                    "name": "University Hospital of Montpellier"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "France"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Diabeloop WP6. 1 : Validation of the Artificial Pancreas Diabeloop Algorithm in the Hospital", 
+        "overall_contact": {
+            "email": "pers@ceritd.fr", 
+            "last_name": "Guillaume CHARPENTIER, MD", 
+            "phone": "+33164968654"
+        }, 
+        "overall_official": [
+            {
+                "affiliation": "Centre d\u2019Etudes et de Recherche pour l\u2019Intensification du Traitement du Diab\u00e8te", 
+                "last_name": "Sylvia FRANC, MD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Centre d\u2019Etudes et de Recherche pour l\u2019Intensification du Traitement du Diab\u00e8te", 
+                "last_name": "Ahmed DAOUDI, MD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "CHU of Grenoble", 
+                "last_name": "Pierre-Yves BENHAMOU, Pr", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "CHU of Grenoble", 
+                "last_name": "Sandrine LABLANCHE, MD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "CHU of Montpellier", 
+                "last_name": "Eric RENARD, Pr", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "CHU of Montpellier", 
+                "last_name": "Anne FARRET, MD", 
+                "role": "Principal Investigator"
+            }
+        ], 
+        "overall_status": "Not yet recruiting", 
+        "oversight_info": {
+            "authority": "France: Agence Nationale de S\u00e9curit\u00e9 du M\u00e9dicament et des produits de sant\u00e9", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "July 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "comparing the time spent in [70-180 mg/dl] with usual algorithm vs Diabeloop algorithm.", 
+            "measure": "Time spent in blood glucose range [70-180 mg/dl]", 
+            "safety_issue": "Yes", 
+            "time_frame": "up to 24 hours after each treatment period"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02101229"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Comparing the time spent in range [80-140 mg/dl] with usual algorithm vs Diabeloop algorithm", 
+                "measure": "Time spent Blood Glucose range [80-140 mg/dl]", 
+                "safety_issue": "Yes", 
+                "time_frame": "24 hours after each treatment period"
+            }, 
+            {
+                "measure": "time spent below 70 mg/dl and above 180 mg/dl", 
+                "safety_issue": "Yes", 
+                "time_frame": "up to 24 hours after each treatment period"
+            }
+        ], 
+        "source": "Centre d\u2019Etudes et de Recherche pour l\u2019Intensification du Traitement du Diab\u00e8te", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Centre d\u2019Etudes et de Recherche pour l\u2019Intensification du Traitement du Diab\u00e8te", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "June 2014", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Crossover Assignment, Masking: Open Label, Primary Purpose: Health Services Research", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2014"
+    }
+}

@@ -1,0 +1,229 @@
+{
+    "clinical_study": {
+        "@rank": "8040", 
+        "acronym": "CAP-START", 
+        "arm_group": [
+            {
+                "arm_group_label": "Betalactam monotherapy", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Preferred empirical treatment for patients in this arm is Beta-lactam monotherapy e.g. co-amoxiclav or ceftriaxone"
+            }, 
+            {
+                "arm_group_label": "Betalactam combination with macrolide", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Preferred empirical treatment for patients in this arm is beta-lactam combination therapy with a macrolide e.g. ceftriaxone and erythromycin"
+            }, 
+            {
+                "arm_group_label": "Quinolone monotherapy", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Preferred empirical treatment for patients in this arm is quinolone monotherapy e.g. moxifloxacin or levofloxacin"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to compare the cost(effectiveness) of three existing antibiotic\n      strategies for patients with community-acquired pneumonia admitted to the hospital, but not\n      the ICU."
+        }, 
+        "brief_title": "Community-Acquired Pneumonia - Study on the Initial Treatment With Antibiotics of Lower Respiratory Tract Infections", 
+        "completion_date": {
+            "#text": "January 2014", 
+            "@type": "Actual"
+        }, 
+        "condition": "Community-acquired Pneumonia", 
+        "condition_browse": {
+            "mesh_term": [
+                "Pneumonia", 
+                "Respiratory Tract Infections"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  All patients admitted to one of the participating hospitals needing treatment for\n             CAP, not being admitted to the ICU are eligible for study inclusion.\n\n          -  Admission is defined as hospital stay for more than 24 hours.\n\n        Exclusion Criteria:\n\n          -  Patients who are readmitted with CAP within 2 weeks after a previous episode are not\n             eligible.\n\n          -  Patients with cystic fibrosis are not eligible."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "2283", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "May 2, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01660204", 
+            "org_study_id": "10-148", 
+            "secondary_id": "80-82310-97-12044"
+        }, 
+        "intervention": {
+            "arm_group_label": [
+                "Betalactam monotherapy", 
+                "Betalactam combination with macrolide", 
+                "Quinolone monotherapy"
+            ], 
+            "description": "The investigators are using a cluster-randomized cross-over design for preferred empirical treatment. One of the 3 treatment arms is used as preferred empirical therapy during a period of 4 consecutive months, after which preferred treatment will rotate to 1 of the other 2 regimens. The order of change is randomised per hospital, thereby controlling for inter-hospital variables and minimizing seasonal influences.", 
+            "intervention_name": "Preferred empirical treatment", 
+            "intervention_type": "Other"
+        }, 
+        "intervention_browse": {
+            "mesh_term": [
+                "Anti-Bacterial Agents", 
+                "Beta-Lactams", 
+                "Antibiotics, Antitubercular"
+            ]
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": "pneumonia, anti-bacterial agents, (cost)efficacy", 
+        "lastchanged_date": "April 22, 2014", 
+        "link": {
+            "description": "Dutch website of study progress", 
+            "url": "http://www.cap-studies.nl"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Alkmaar", 
+                        "country": "Netherlands"
+                    }, 
+                    "name": "Medical Center Alkmaar"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Amsterdam", 
+                        "country": "Netherlands"
+                    }, 
+                    "name": "AMC Amsterdam"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Breda", 
+                        "country": "Netherlands"
+                    }, 
+                    "name": "Amphia Hospital Breda"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Haarlem", 
+                        "country": "Netherlands"
+                    }, 
+                    "name": "Kennemer Gasthuis"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hoofddorp", 
+                        "country": "Netherlands"
+                    }, 
+                    "name": "Spaarne Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Utrecht", 
+                        "country": "Netherlands"
+                    }, 
+                    "name": "UMC Utrecht"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Utrecht", 
+                        "country": "Netherlands"
+                    }, 
+                    "name": "Diakonessenhuis Utrecht"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "Netherlands"
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "Antibiotic Treatment of Community-acquired Pneumonia: a Prospective Comparison of Dutch Guideline Advices.", 
+        "overall_official": {
+            "affiliation": "UMC Utrecht", 
+            "last_name": "Marc J. Bonten, MD PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Netherlands: Medical Ethics Review Committee (METC)", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "November 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "We will assess all-cause mortality on day 90 from admission from the municipal personal records database", 
+            "measure": "Day 90 Mortality", 
+            "safety_issue": "No", 
+            "time_frame": "90 days from admission"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01660204"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "UMC Utrecht", 
+            "investigator_full_name": "MJM Bonten", 
+            "investigator_title": "Professor", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Length of intravenous antibiotic treatment", 
+                "safety_issue": "No", 
+                "time_frame": "Participants will be followed for the duration of hospital stay, an expected average of 1 week"
+            }, 
+            {
+                "measure": "Length of hospital stay", 
+                "safety_issue": "No", 
+                "time_frame": "Participants will be followed for the duration of hospital stay, an expected average of 1 week"
+            }, 
+            {
+                "description": "Side-effects and complications from antibiotic therapy are registered from clinical record", 
+                "measure": "Tolerability", 
+                "safety_issue": "No", 
+                "time_frame": "Participants will be followed for the duration of hospital stay, an expected average of 1 week"
+            }, 
+            {
+                "description": "Complications of pneumonia during admission are registered from clinical record.", 
+                "measure": "Complications", 
+                "safety_issue": "No", 
+                "time_frame": "Participants will be followed for the duration of hospital stay, an expected average of 1 week"
+            }, 
+            {
+                "description": "Health care costs and non-health care costs are assessed using a short questionnaire 28 days from admission", 
+                "measure": "Health care costs and non-health care costs", 
+                "safety_issue": "No", 
+                "time_frame": "28 days from admission"
+            }
+        ], 
+        "source": "UMC Utrecht", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "ZonMw: The Netherlands Organisation for Health Research and Development", 
+                "agency_class": "Other"
+            }, 
+            "lead_sponsor": {
+                "agency": "UMC Utrecht", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "February 2011", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Crossover Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2014"
+    }
+}

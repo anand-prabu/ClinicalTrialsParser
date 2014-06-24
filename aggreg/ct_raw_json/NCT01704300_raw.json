@@ -1,0 +1,130 @@
+{
+    "clinical_study": {
+        "@rank": "1329", 
+        "acronym": "CALIBER", 
+        "arm_group": {
+            "arm_group_label": "CALIBER Healthy Cohort", 
+            "description": "We will report findings from the  CALIBER (CArdiovascular disease research using Linked BEspoke studies and Electronic Records) collaboration where we linked primary care data (from the General Practice Research Database [GPRD]) to three further sources of electronic health records: the Myocardial Ischemia National Audit Project registry (MINAP),cause specific discharge data from Hospital Episodes Statistics (HES) and cause specific mortality from the Office for National Statistics (ONS)."
+        }, 
+        "brief_summary": {
+            "textblock": "The association between obesity and cardiovascular disease (CVD) has mostly been studied\n      using broad endpoints or have focused on cause-specific mortality. The investigators aim to\n      compare the effect of body mass index (BMI) on different types of initial presentation of\n      CVD."
+        }, 
+        "brief_title": "Body Mass Index and Initial Presentations of Cardiovascular Diseases", 
+        "completion_date": {
+            "#text": "March 2010", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Abdominal Aortic Aneurysm", 
+            "Acute Myocardial Infarction", 
+            "Stroke", 
+            "Heart Failure", 
+            "Peripheral Arterial Disease", 
+            "Angina"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Aneurysm", 
+                "Angina Pectoris", 
+                "Aortic Aneurysm", 
+                "Cardiovascular Diseases", 
+                "Heart Failure", 
+                "Infarction", 
+                "Myocardial Infarction", 
+                "Stroke", 
+                "Peripheral Arterial Disease", 
+                "Peripheral Vascular Diseases", 
+                "Aortic Aneurysm, Abdominal"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Obesity has many detrimental effects on the cardiovascular system that can manifest in a\n      range of clinical presentations. Many of these are mediated by frequently coexisting\n      conditions such as diabetes, hypertension and dyslipidemia but there are also direct,\n      progressive effects on the arteries and the heart muscle. As evident from autopsies, even\n      from early adulthood the degree of  coronary artery disease (CAD) correlates with the BMI\n      and particularly the amount of abdominal fat. The multiple mechanisms by which obesity\n      exerts its effects are still being elucidated.\n\n      Previous studies have assessed the effect of obesity on cause-specific mortality. Here the\n      investigators analyze association of BMI with the first symptomatic presentation of\n      cardiovascular disease across any phenotypes, to which the investigators refer to as\n      \"initial presentation\" to distinguish from first presentation within a specific phenotype.\n      For example, an initial presentation with myocardial infarction is an MI which is not\n      preceded by stable angina, ischemic stroke or any other phenotype, rather than the first MI\n      in a possible series of MIs, as is commonly used in other studies.\n\n      Adjustments The key risk factor of interest is baseline BMI, which the investigators define\n      as the most recent measurement of BMI recorded up to 2 years prior to cohort entry date. BMI\n      will be analyzed based on the following categories: underweight (<18.5 kg/m2), healthy (18.5\n      to 24 kg/m2), overweight (25 to 29 kg/m2), moderately obese (30 to 34 kg/m2), morbidly obese\n      (>35 kg/m2). The healthy BMI category will be used as the reference in regression models.\n\n      Associations with BMI will be adjusted for age, sex, ethnicity, social deprivation, smoking,\n      diabetes, and systolic blood pressure, total cholesterol (TCHOL) and high-density\n      lipoprotein cholesterol (HDL). All baseline covariates will be obtained from within a 2 year\n      window prior to study entry.\n\n      Statistical analyses Cause-specific Cox models will be used to measure the association\n      between BMI categories and endpoints of interest. Multiple imputation will be used to\n      replace missing values in prognostic factors. The investigators will estimate lifetime risk\n      for each endpoint over time adjusting for competing risks."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Baseline age \u226530 years\n\n        Exclusion Criteria:\n\n          -  prior atherosclerotic disease or stroke"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "30 Years", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "The cohort we will use in the present analysis has been drawn from patients across 225\n        practices in England contributing data to GPRD, covering approximately 5% of the UK\n        population (Figure 1).  The study period is 1st January 2001 to 25th March 2010 (the date\n        of the last GPRD data submission).   To allow time for medical history and risk factors to\n        be measured and recorded we require that patients enter the cohort after having completed\n        at least 1 year of registration with their current practice during which the practice\n        provides data that meet research quality criteria. Patients are followed up from the date\n        they become eligible to be included in the cohort until the earliest date among a) the\n        date of an initial presentation with one of the endpoints of interest, b) the date of\n        leaving the practice or c) the date of last data submission from their practice."
+            }
+        }, 
+        "enrollment": {
+            "#text": "2240000", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "October 8, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01704300", 
+            "org_study_id": "CALIBER 10_14"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Abdominal aortic aneurysm", 
+            "Acute Myocardial Infarction", 
+            "Coronary heart disease not otherwise specified", 
+            "Haemorrhagic stroke", 
+            "Heart failure", 
+            "Ischaemic stroke", 
+            "Peripheral arterial disease", 
+            "Stable angina", 
+            "Unheralded coronary death", 
+            "Unstable angina", 
+            "Ventricular arrhythmias, cardiac arrest and sudden cardiac death", 
+            "Transient Ischemic Attack"
+        ], 
+        "lastchanged_date": "October 10, 2012", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "London", 
+                    "country": "United Kingdom", 
+                    "zip": "WC1E 6BT"
+                }, 
+                "name": "University College London"
+            }
+        }, 
+        "location_countries": {
+            "country": "United Kingdom"
+        }, 
+        "number_of_groups": "1", 
+        "official_title": "Body Mass Index and Initial Presentations of Cardiovascular Diseases", 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United Kingdom: Research Ethics Committee", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "March 2010", 
+            "@type": "Actual"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01704300"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University College, London", 
+            "investigator_full_name": "Harry Hemingway", 
+            "investigator_title": "Harry Hemingway, FRCP", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "source": "University College, London", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University College, London", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2001", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Retrospective", 
+        "study_type": "Observational", 
+        "verification_date": "October 2012"
+    }
+}

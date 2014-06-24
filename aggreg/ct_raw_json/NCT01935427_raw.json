@@ -1,0 +1,128 @@
+{
+    "clinical_study": {
+        "@rank": "46930", 
+        "arm_group": {
+            "arm_group_label": "Volunteer test subjects", 
+            "description": "Healthy volunteer with no cardiovascular disease"
+        }, 
+        "brief_summary": {
+            "textblock": "This study is designed to validate implementation of the CRI algorithm in the CypherOx CRI\n      system.\n\n      Healthy human subjects will undergo progressive reduction in central blood volume to the\n      point of hemodynamic instability (defined by a precipitous fall in systolic blood pressure\n      (SBP) below 70 mmHg and/or voluntary subject termination due to discomfort (such as\n      sweating, nausea, or dizziness) to validate the following hypotheses:\n\n      The CypherOx CRI system will A. Trend intravascular volume changes (hemorrhage) B. Trend\n      stroke volume changes and C. The CRI trend value is not relative to an initial CRI reading,\n      instead it is an actual CRI trend value that does not require calibration or being placed\n      during normal physiological conditions."
+        }, 
+        "brief_title": "Comparison of Compensatory Reserve Index to Intravascular Volume Change and Stroke Volume", 
+        "completion_date": {
+            "#text": "December 2013", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Hemorrhage", 
+        "condition_browse": {
+            "mesh_term": [
+                "Hemorrhage", 
+                "Stroke"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Hemorrhagic shock is a leading cause of death in both civilian and battlefield trauma.\n      Currently available medical monitors provide the capabilities to measure standard vital\n      signs that are often imprecise, subjective, intermittent and inconsistent. More importantly,\n      the appearance of hypotension and other signs and symptoms of shock represent a point in\n      time when it may be too late to apply effective lifesaving interventions. Understanding the\n      physiological signals that provide the best indicators of blood volume loss and impending\n      circulatory failure is critical to bridging the capability gap of identifying the need for\n      early intervention. Under a previous BAMC IRB-approved protocol, we used lower body negative\n      pressure (LBNP) as an experimental model of central hypovolemia to simulate progressive\n      blood loss that results in hemodynamic instability (e.g., hypotension, tachycardia,\n      presyncopal symptoms) in conscious, healthy human subjects. From data collected within this\n      original protocol, we now understand that arterial waveforms (either blood pressure or pulse\n      oximetry) are important variables associated with hypovolemia.  Feature extraction and\n      machine learning techniques were applied to these previously collected data and an algorithm\n      was developed called Compensatory Reserve Index (CRI) which was designed to reflect\n      progressive blood loss and decreasing stroke volume.  This algorithm was installed in a\n      pulse oximeter in which the photo-plethysmographic waveform (PPG) was used to calculate the\n      CRI.  Using this CRI Pulse oximeter, a pretrial study of 24 subjects indicated a high\n      correlation in trending of blood volume loss (DOD study at Mayo Clinic) and a mean\n      correlation of 0.96 when comparing CRI to stroke volume (LBNP at AISR Laboratory).  The work\n      proposed herein will validate those findings.  During each experiment each test subject will\n      wear 4 FDA cleared pulse oximeters which transmit PPG data to an off-the-shelf handheld\n      tablet (meets military specs) which will calculate and display the CRI value.  The subjects\n      will also wear 2 FDA cleared Nexfin hemodynamic monitors that display stroke volume.  LBNP\n      will be used to produce progressive central hypovolemia in healthy human subjects until the\n      point of hemodynamic decompensation (presyncope).  This approach will validate the\n      correlation of CRI to stroke volume."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Healthy nonsmoking normotensive (<140/90) males or females.\n\n          -  Age 18 to 55 yr.\n\n          -  Normal clinical results from a Medical History and Physical form DD 2807-1\n\n          -  Military or civilian.\n\n          -  Documentation of a negative pregnancy test within 24 hours prior to each study\n             period, if necessary.\n\n          -  Not obese, as defined by body mass index (BMI) < 30, unless individual is athletic\n             (BMI may not be the best method of assessing obesity in athletic individuals). BMI is\n             calculated as the weight in kilograms divided by the square of the height in meters.\n\n        Exclusion Criteria:\n\n          -  (a) Age <18 and >55 years.\n\n          -  Individuals taking prescription drugs, non-prescription drugs or herbal medicines\n             known to alter autonomic function unless cleared by the Medical Screener.\n\n          -  Subjects using prescription medications within 30 days before initiation of the\n             experiments unless cleared by the Medical Screener.\n\n          -  Subjects with a history of alcohol or drug abuse which inhibits the subject's ability\n             to complete this study.\n\n          -  Smokers.\n\n          -  Subjects with signs of cardiovascular abnormalities  (e.g., hypertension (> 140/90),\n             autonomic dysfunction (Shy-Drager Syndrome, Bradbury-Eggleston syndrome, sinus\n             arrhythmia, idiopathic orthostatic hypotension), fainting disorder, etc.).\n\n          -  Subjects with respiratory illnesses (e.g., asthma, Chronic Obstructive Pulmonary\n             Disease, Reactive Airway Disease, etc.).\n\n          -  Subjects with a history of anaphylaxis.\n\n          -  Subjects with allergies to medications not cleared by the Medical Screener.\n             Individuals reporting a history of pre-syncopal/syncopal episodes or orthostatic\n             hypotension.\n\n          -  Subjects with a history or family history of abnormal blood clotting, clots in deep\n             veins in the legs or pelvis, or blood clots to the lungs.\n\n          -  Individuals taking prescription medications for hypertension (high blood pressure).\n             (l)   Individuals with known or suspected abdominal hernias\n\n          -  Pregnancy, trying to become pregnant, or breastfeeding"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "55 Years", 
+            "minimum_age": "18 Years", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "Healthy non-pregnant volunteers with no cardiovascular disease or other health issues."
+            }
+        }, 
+        "enrollment": {
+            "#text": "100", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "August 28, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01935427", 
+            "org_study_id": "CRIV2"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Pulse Oximeter", 
+            "Stroke Volume", 
+            "Hemorrhagic shock", 
+            "Compensatory Reserve Index"
+        ], 
+        "lastchanged_date": "August 30, 2013", 
+        "location": {
+            "contact": {
+                "email": "victor.a.convertino.civ@mail.mil", 
+                "last_name": "Gary Muniz", 
+                "phone": "210-539-5633"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "San Antonio", 
+                    "country": "United States", 
+                    "state": "Texas", 
+                    "zip": "78234-7767"
+                }, 
+                "name": "US Army Institute of Surgical Research"
+            }, 
+            "investigator": {
+                "last_name": "Victor A Convertino, Ph.D.", 
+                "role": "Principal Investigator"
+            }, 
+            "status": "Not yet recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_groups": "1", 
+        "official_title": "Comparison of Compensatory Reserve Index to Intravascular Volume Change and Stroke Volume", 
+        "overall_contact": {
+            "last_name": "Gary Muniz", 
+            "phone": "539-0489"
+        }, 
+        "overall_official": {
+            "affiliation": "US Army Institute of Surgical Research", 
+            "last_name": "Victor A Convertino, Ph.D.", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Not yet recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "December 2013", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "15 subjects must complete the LBNP trial to 70mmHg negative pressure", 
+            "measure": "15 subjects must complete the LBNP trial", 
+            "safety_issue": "No", 
+            "time_frame": "Up to 4 months"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01935427"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Flashback Technologies", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Flashback Technologies", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "September 2013", 
+        "study_design": "Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "August 2013"
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "clinical_study": {
+        "@rank": "94111", 
+        "brief_summary": {
+            "textblock": "The main goal of this research is to characterize patient-specific respiration-induced tumor\n      and surrogate motion to evaluate the accuracy and effectiveness of the surrogate-based\n      motion management strategies currently used in clinics. Specifically, the investigators\n      hypothesize that dynamic MRI (Magnetic Resonance Imaging)  obtained over a temporal duration\n      consistent with radiotherapy treatments will provide spatio-temporal information of both the\n      tumor and surrogate, and therefore can serve as a means to assess the quality of the tumor\n      motion tracking with the surrogate. To test this hypothesis, the investigators specifically\n      propose to 1) track and characterize the tumor and surrogate motion with 4D (4\n      dimensional)-MRI and 2) evaluate surrogate-based motion tracking in a cohort of patients\n      with thoracic tumors.\n\n      External and internal surrogate-based strategies commonly used in clinics have not been\n      appropriately validated. With the increasing adaptation of these surrogate methods for\n      motion management, the proposed research addresses these urgent issues in clinical\n      radiotherapy while providing a means to achieve patient-specific motion management."
+        }, 
+        "brief_title": "Tumor Motion Management in Radiotherapy Using 4D-MRI", 
+        "condition": "Cancer", 
+        "detailed_description": {
+            "textblock": "Respiration-induced patient motion has become a major obstacle for achieving high-precision\n      radiotherapy of cancers especially in the thorax and upper abdomen. As the target is\n      continuously moving, an additional margin has to be added to the clinical target volume to\n      compensate for the uncertainty in the tumor and organ motion, causing toxicity to the normal\n      tissue and limiting the dose delivered to the target. To account for the tumor motion,\n      surrogate tracking methods are commonly used in clinics during radiotherapy. However, the\n      relationship between the surrogate and tumor motion is hard to generalize as it depends on\n      individual patients, tumor location, treatment fractions, and sometimes shows complex\n      patterns or transient, unpredictable changes. Hence, there is an urgent need to better\n      scrutinize the current surrogate-based motion management strategies. Moreover, the most\n      robust motion management strategy for the given patient should be determined in the\n      pre-treatment setting but the investigators currently lack a sufficient tool to provide this\n      information.\n\n      4D-CT is typically used to characterize the tumor motion over the course of the\n      radiotherapy. However, 4D-CT is an oversimplified snapshot representation of a\n      single-breathing cycle with low soft tissue contrast while imparting a considerable amount\n      of radiation dose to the patient. Consequently, the limitations of 4D-CT prevent\n      applicability in acquiring information over timescales that represent a treatment session.\n      MRI is highly advantageous as it is non-ionizing and provides excellent soft tissue\n      contrast. Although real-time 3D dynamic MRI is limited by low image quality and temporal\n      resolution, 2D dynamic MRI techniques have high fidelity and spatio-temporal resolution\n      requisite for real-time tracking of the moving target. Furthermore, a respiration-correlated\n      4D-MRI can be reconstructed from multi-slice 2D dynamic MR images, enabling volumetric image\n      processing and analysis. Therefore, 4D-MRI is an attractive solution to address breathing\n      motion and tumor tracking obstacles in radiotherapy.\n\n      The main goal of this research is to characterize patient-specific respiration-induced tumor\n      and surrogate motion to evaluate the accuracy and effectiveness of the surrogate-based\n      motion management strategies currently used in clinics. Specifically, the investigators\n      hypothesize that dynamic MRI obtained over a temporal duration consistent with radiotherapy\n      treatments will provide spatio-temporal information of both the tumor and surrogate, and\n      therefore can serve as a means to assess the quality of the tumor motion tracking with the\n      surrogate. To test their hypothesis, the investigators specifically propose to 1) track and\n      characterize the tumor and surrogate motion with 4D-MRI and 2) evaluate surrogate-based\n      motion tracking in a cohort of patients with thoracic tumors.\n\n      External and internal surrogate-based strategies commonly used in clinics have not been\n      appropriately validated. With the increasing adaptation of these surrogate methods for\n      motion management, the proposed research addresses these urgent issues in clinical\n      radiotherapy while providing a means to achieve patient-specific motion management."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Histologically-confirmed primary lung cancer (non-small cell OR small cell)\n\n          -  Plan to undergo external radiation treatment of lung cancer\n\n        Exclusion Criteria:\n\n          -  Patients who cannot undergo MRIs.\n\n          -  Patients who have a cardiac device or other electronic or metal implant"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "Patients with cancer being treated with radiotherapy"
+            }
+        }, 
+        "enrollment": {
+            "#text": "30", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "August 30, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01934855", 
+            "org_study_id": "J-1370", 
+            "secondary_id": "NA_00085958"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "cancer", 
+            "radiotherapy", 
+            "4D-MRI", 
+            "4D-CT", 
+            "MRI"
+        ], 
+        "lastchanged_date": "September 3, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Baltimore", 
+                    "country": "United States", 
+                    "state": "Maryland", 
+                    "zip": "21287"
+                }, 
+                "name": "The Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins"
+            }, 
+            "investigator": {
+                "last_name": "Junghoon Lee, Ph.D.", 
+                "role": "Sub-Investigator"
+            }, 
+            "status": "Not yet recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_groups": "1", 
+        "official_title": "Evaluation of Tumor Motion Management Strategies in Radiotherapy Using 4D-MRI", 
+        "overall_contact": {
+            "email": "rhales1@jhmi.edu", 
+            "last_name": "Russell Hales, M.D.", 
+            "phone": "410-614-6828"
+        }, 
+        "overall_contact_backup": {
+            "email": "caldwte@jhmi.edu", 
+            "last_name": "Terrence Caldwell", 
+            "phone": "443-287-1889"
+        }, 
+        "overall_official": {
+            "affiliation": "Johns Hopkins University", 
+            "last_name": "Russell Hales, M.D.", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Not yet recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "October 2016", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "To characterize patient-specific respiration-induced tumor and surrogate motion to evaluate the accuracy and effectiveness of the surrogate-based motion management strategies currently used in radiotherapy.", 
+            "measure": "Tumor motion characterization during radiation therapy", 
+            "safety_issue": "No", 
+            "time_frame": "1 year"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01934855"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Tumor and surrogate motion will be quantified by measuring the displacements from their end-exhale positions. Since the tumor may deform during motion, we will not only consider the trajectories of the center of mass but also the tumor borders. The tumor position as a function of the surrogate position will be analyzed along each moving direction. Pearson correlation coefficients and the sum of squared residual errors based on a regression analysis will be computed to provide a quantitative measure of the correlation between the surrogate and tumor positions. To measure the tumor deformation, correlations of the motion between the SI borders, AP borders, LR borders will also be computed. Although lung tumor likely does not significantly deform, this analysis will be useful for tumors that may deform significantly during motion. The motion under the different breathing patterns will be analyzed separately, and compared to each other.", 
+                "measure": "Correlation of tumor and surrogate motion", 
+                "safety_issue": "No", 
+                "time_frame": "1 year"
+            }, 
+            {
+                "description": "Respiratory gating is one predominant technique for managing respiratory motion. Gating attempts to minimize normal tissue dose by delivering radiation during a portion of the respiratory cycle where the respiratory state is typically determined from an external surrogate as an optical signal. We will use different gating boundaries, e.g. 10%, 20% of the surrogate motion range (from mean exhale to mean inhale) on each axes as commonly used in clinical practice. Sensitivity and specificity of the gating will be computed by comparing the portion of time the surrogate is below/above the gating boundary and that the tumor is below/above the gating boundary.", 
+                "measure": "Sensitivity and specificity of gating", 
+                "safety_issue": "No", 
+                "time_frame": "1 year"
+            }, 
+            {
+                "description": "MRI scans of the patient will be acquired pre- and intra-treatment. Tumor motion variability will be computed between these two scans. We will evaluate the correlation of the target location captured at different time points by computing target volume overlap and systematic volume shift. We will also analyze the tumor position as a function of the surrogate position for both pre- and intra-treatment scans, and will investigate how well these two distributions match. To quantitatively measure the differences, we will compute various statistical similarity measures such as correlation coefficient and mutual information. We will also calculate pre-treatment margins to account for the tumor motion using the pre-treatment retrospective 4D-MRI reconstruction, and calculate the portion of treatment time the tumor moves within or outside the specified margins during the successive scans.", 
+                "measure": "Pre- and intra-treatment motion variability", 
+                "safety_issue": "No", 
+                "time_frame": "1 year"
+            }
+        ], 
+        "source": "Sidney Kimmel Comprehensive Cancer Center", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Sidney Kimmel Comprehensive Cancer Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "October 2013", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "August 2013"
+    }
+}

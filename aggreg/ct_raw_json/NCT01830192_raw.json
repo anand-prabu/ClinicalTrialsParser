@@ -1,0 +1,149 @@
+{
+    "clinical_study": {
+        "@rank": "156331", 
+        "acronym": "REM", 
+        "arm_group": [
+            {
+                "arm_group_label": "Training set", 
+                "arm_group_type": "Other", 
+                "description": "We evaluate the clinical, ultrasound and laboratory features to predict endometrial cancer disease preoperative"
+            }, 
+            {
+                "arm_group_label": "VERIFICATION SET", 
+                "arm_group_type": "Other", 
+                "description": "We evaluate the clinical, ultrasound and laboratory features to predict endometrial cancer disease preoperative"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of this study was to obtain a predictive model to asses the Risk of Endometrial\n      Malignancy (REM) in women with ultrasound endometrial abnormalities."
+        }, 
+        "brief_title": "REM (Risk Of Endometrial Malignancy)", 
+        "completion_date": {
+            "#text": "December 2012", 
+            "@type": "Actual"
+        }, 
+        "condition": "Endometrial Disease", 
+        "condition_browse": {
+            "mesh_term": [
+                "Neoplasms", 
+                "Uterine Diseases"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Objective: It is often difficult to distinguish a benign endometrial disease from a\n      malignancy and tools to help physician are needed, in order to triage patients into high and\n      low risk of endometrial cancer (EC). The purpose of this study was to obtain a predictive\n      model to asses the Risk of Endometrial Malignancy (REM) in women with ultrasound endometrial\n      abnormalities.Women, between 45 and 80 years, diagnosed with ultrasound endometrial\n      abnormalities and scheduled to have surgery were enrolled on a prospective study at\n      Department of Gynaecologic Oncology of Campus Bio-Medico of Rome. Preoperative clinical,\n      ultrasound and laboratory features were taken into account. Logistic regression algorithm\n      was utilized to categorize patients into low and high risk groups for EC."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. aged between 45 and 80 years;\n\n          2. Eastern Cooperative Oncology Group performance status 0-2 according to World Health\n             Organization (WHO) criteria;\n\n          3. informed consent obtained from the patients.\n\n        Exclusion Criteria:\n\n          1. abnormal cardiac, haematological, renal, respiratory and/or hepatic functions;\n\n          2. presence of a previous malignancy;\n\n          3. presence of concomitant adnexal masses."
+            }, 
+            "gender": "Female", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "80 Years", 
+            "minimum_age": "45 Years"
+        }, 
+        "enrollment": {
+            "#text": "741", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "April 5, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_alias": "NCT01830179", 
+            "nct_id": "NCT01830192", 
+            "org_study_id": "47/09 RA CBM"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Training set", 
+                "description": "We evaluate the clinical, ultrasound and laboratory features to predict endometrial cancer disease preoperative", 
+                "intervention_name": "Training set", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": "VERIFICATION SET", 
+                "description": "We evaluate the clinical, ultrasound and laboratory features to predict endometrial cancer disease preoperative", 
+                "intervention_name": "VERIFICATION SET", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "endometrial cancer", 
+            "score", 
+            "nomogram", 
+            "ultrasound", 
+            "HE4"
+        ], 
+        "lastchanged_date": "April 11, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Rome", 
+                    "country": "Italy", 
+                    "zip": "00128"
+                }, 
+                "name": "campus bio-medico of Rome"
+            }
+        }, 
+        "location_countries": {
+            "country": "Italy"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "REM (Risk Of Endometrial Malignancy): A Proposal for a New Scoring System to Evaluate Risk of Endometrial Malignancy", 
+        "other_outcome": {
+            "description": "We consider training and verification set together to evaluate the overall sensitivity and specificity of predictive tool", 
+            "measure": "REM", 
+            "safety_issue": "No", 
+            "time_frame": "2 years"
+        }, 
+        "overall_official": {
+            "affiliation": "Campus Biomedico University of Rome", 
+            "last_name": "Roberto Angioli, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Italy: Ethics Committee", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "November 2012", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "We select patients affected by endometrial cancer and benign endometrial disease. Preoperative they underwent to pelvic ultrasound, CA125 and HE4 dosage and anamnesis. They will be considered as training group to obtaine the probability of endometrial malignancy based on HE4, ultrasound features and symptoms.", 
+            "measure": "REM (RISK OF ENDOMETRIAL MALIGNANCY): a proposal for a new scoring system to evaluate risk of endometrial malignancy.", 
+            "safety_issue": "Yes", 
+            "time_frame": "2 year"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01830192"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Campus Bio-Medico University", 
+            "investigator_full_name": "Roberto Angioli", 
+            "investigator_title": "Professor", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": {
+            "description": "We select a verification set, composed by endometrial cancer disease and benign endometrial pathologies patients. In this set we apply the risk of endometrial cancer tool, obtained in the training set, in order to verify the sensitivity, specificity and reproducibility.", 
+            "measure": "REM", 
+            "safety_issue": "No", 
+            "time_frame": "2 years"
+        }, 
+        "source": "Campus Bio-Medico University", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Campus Bio-Medico University", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2010", 
+        "study_design": "Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2013"
+    }
+}

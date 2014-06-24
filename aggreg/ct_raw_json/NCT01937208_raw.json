@@ -1,0 +1,169 @@
+{
+    "clinical_study": {
+        "@rank": "14979", 
+        "arm_group": [
+            {
+                "arm_group_label": "high-dose", 
+                "arm_group_type": "Experimental", 
+                "description": "concurrent chemoradiation:CT:DDP 25mg/m2 D1+docetaxel 25mg/m2  D1,Weekly for 5 wks;RT\uff1a60Gy/30F/6W(3D-CRT or IMRT).Then,2 cycles consolidation chemotherapy were used:DDP 75mg/m2 D1+docetaxel 75mg/m2 D1, Q3W"
+            }, 
+            {
+                "arm_group_label": "standard dose", 
+                "arm_group_type": "Active Comparator", 
+                "description": "concurrent chemoradiation:CT:DDP 25mg/m2 D1+Docetaxel 25mg/m2 D1,Weekly for 5 wks;RT\uff1a50Gy/25F/5W(3D-CRT or IMRT).Then,2 cycles consolidation chemotherapy were used:DDP 5mg/m2 D1+Docetaxel75mg/m2 D1, Q3W"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Radiation therapy plus concurrent chemotherapy is now the standard therapy for patients with\n      localized carcinoma of the esophagus selected for nonsurgical treatment. The standard\n      radiation dose is 50-50.4Gy/1.8-2.0Gy/F.All of this were based on 2D radiation technology.\n      Entering new century, 3D-CRT or IMRT has used on esophageal cancer. In China,the recommend\n      radiation dose of concurrent chemoradiation was 60Gy. The study is a clinical phase III,\n      randomized trial to compare the different radiation dose(60Gy vs 50Gy) of concurrent\n      chemoradiation using 3D-CRT or IMRT in patients with unresectable esophageal carcinoma."
+        }, 
+        "brief_title": "Comparable Study of Different Radiation Dose in Esophageal Carcinoma", 
+        "completion_date": {
+            "#text": "July 2017", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Esophageal Carcinoma", 
+        "condition_browse": {
+            "mesh_term": [
+                "Carcinoma", 
+                "Esophageal Neoplasms"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Histological or cytologic diagnosis of esophageal carcinoma\n\n          -  ECOG performance status 0-1\n\n          -  Age:18-70 years\n\n          -  Joined the study voluntarily and signed informed consent form\n\n          -  Patients must not have received any prior anticancer therapy\n\n          -  Unresectable disease, or refuse surgery.Stage \u2160-\u2163A\uff08AJCC 2009\uff09\n\n          -  Target lesions can be measured according to RECIST criteria\n\n          -  No serious system dysfunction and immuno-deficiency, Adequate organ function\n             including the following: Hemoglobin \u22659 g/dL, WBC\u22653x109/L, Neutrophils (ANC\n             )\u22651.5x109/L, platelet count \u2265100x 109/L, TBIL<1.5 x ULN, ALT and AST \u2266 2.5 x ULN,\n             creatinine \u2266 1.5 x ULN\n\n          -  Use of an effective contraceptive for adults to prevent pregnancy\n\n          -  Life expectancy of more than 3 months\n\n        Exclusion Criteria:\n\n          -  Multiple carcinomas of the esophagus,\n\n          -  Biopsy-proven invasion of the tracheobronchial tree or tracheoesophageal fistula,\n\n          -  Metastatic disease (M1),\n\n          -  A primary tumor that extended to within 2 cm of the gastroesophageal junction,\n\n          -  Prior chemotherapy, prior thoracic radiation, surgical resection of the primary\n             tumor,\n\n          -  Concurrent pregnancy or lactation, history of a second malignancy other than\n             nonmelanoma skin cancer"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "70 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "300", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "August 25, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01937208", 
+            "org_study_id": "ESC-130825"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "high-dose", 
+                    "standard dose"
+                ], 
+                "intervention_name": "intensity modulated radiation therapy in both arms", 
+                "intervention_type": "Radiation"
+            }, 
+            {
+                "arm_group_label": [
+                    "high-dose", 
+                    "standard dose"
+                ], 
+                "description": "docetaxel plus cisplatin were used weekly in both arms", 
+                "intervention_name": "concurrent chemotherapy with radiation", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Esophageal Carcinoma", 
+            "chemoradiation", 
+            "radiation dose"
+        ], 
+        "lastchanged_date": "September 3, 2013", 
+        "location": {
+            "contact": {
+                "email": "zhengxiao@medmail.com", 
+                "last_name": "xiao zheng, MD", 
+                "phone": "0086-571-88122078"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Hangzhou", 
+                    "country": "China", 
+                    "state": "Zhejiang", 
+                    "zip": "310022"
+                }, 
+                "name": "Zhejiang Cancer Hospital"
+            }, 
+            "investigator": {
+                "last_name": "ming chen, PHD", 
+                "role": "Principal Investigator"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "China"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "A Prospective, Randomised Phase 3 Study of High-dose Versus Standard-dose Radiation of Inoperable Esophageal Carcinoma Treated With Concurrent Chemoradiation", 
+        "other_outcome": [
+            {
+                "measure": "local control rate; relapse location; toxicity", 
+                "safety_issue": "Yes", 
+                "time_frame": "5 years"
+            }, 
+            {
+                "measure": "radiation-related advent events", 
+                "safety_issue": "Yes", 
+                "time_frame": "at least 3 years"
+            }
+        ], 
+        "overall_contact": {
+            "email": "zhengxiao@medmail.com", 
+            "last_name": "xiao zheng, MD", 
+            "phone": "0086-571-88122078"
+        }, 
+        "overall_contact_backup": {
+            "email": "chenming@sysucc.org.cn", 
+            "last_name": "ming chen, PHD", 
+            "phone": "0086-571-88122068"
+        }, 
+        "overall_official": {
+            "affiliation": "Zhejiang Cancer Hospital", 
+            "last_name": "Xiao Zheng, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "China: Ministry of Health", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "August 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "Progression-free survival", 
+            "safety_issue": "Yes", 
+            "time_frame": "5 years"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01937208"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "measure": "Overall survival", 
+            "safety_issue": "Yes", 
+            "time_frame": "5 years"
+        }, 
+        "source": "Zhejiang Cancer Hospital", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Zhejiang Cancer Hospital", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "August 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "September 2013"
+    }
+}

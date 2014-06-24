@@ -1,0 +1,813 @@
+{
+    "clinical_study": {
+        "@rank": "166308", 
+        "arm_group": [
+            {
+                "arm_group_label": "Placebo", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "maltodextrin powder"
+            }, 
+            {
+                "arm_group_label": "Probiotic", 
+                "arm_group_type": "Active Comparator", 
+                "description": "probiotic blended in maltodextrin"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of the current study is to evaluate the effect of administering a probiotic\n      strain on allergic symptoms and immune parameters (Th-2 cytokines, effector cells) in\n      seasonal allergic rhinitis subjects."
+        }, 
+        "brief_title": "Immune-modulatory Effect of Probiotic Strain on Grass Pollen Allergic Individuals", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "maltodextrin powder\nMaltodextrin : maltodextrin powder", 
+                            "title": "Placebo"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "probiotic blended in maltodextrin\nProbiotic : probiotic blended in maltodextrin powder", 
+                            "title": "Probiotic"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "10"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "10"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "20"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "10"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "10"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "20"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@lower_limit": "29.25", 
+                                                "@upper_limit": "44", 
+                                                "@value": "34"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@lower_limit": "31.5", 
+                                                "@upper_limit": "38", 
+                                                "@value": "35.5"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@lower_limit": "29.25", 
+                                                "@upper_limit": "44", 
+                                                "@value": "34.7"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Inter-Quartile Range", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "6"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "6"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "12"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "4"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "4"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "8"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "10"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "10"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "20"
+                                            }
+                                        ]
+                                    }, 
+                                    "sub_title": "Switzerland"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "description": "A maximum of 10 ml heparinized, venous blood will be collected during Visit 1, 2 and 3. Whole blood cells will be cultured for 120 hours (5 days) with culture medium with different stimuli. Cell supernatants will be collected and analyzed for different cytokines.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "maltodextrin powder\nMaltodextrin : maltodextrin powder", 
+                                    "title": "Placebo"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "probiotic blended in maltodextrin\nProbiotic : probiotic blended in maltodextrin powder", 
+                                    "title": "Probiotic"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "10"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "10"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "1453", 
+                                                            "@value": "1238"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "854", 
+                                                            "@value": "720"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "IL13 at V1 (beginning of product intake)"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "1019", 
+                                                            "@value": "975"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "1383", 
+                                                            "@value": "998"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "IL13 at 1 month (4 weeks)"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "1206", 
+                                                            "@value": "968"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "151", 
+                                                            "@value": "218"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "IL13 at 2 months (8 weeks)"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "A maximum of 10 ml heparinized, venous blood will be collected during Visit 1, 2 and 3. Whole blood cells will be cultured for 120 hours (5 days) with culture medium with different stimuli. Cell supernatants will be collected and analyzed for different cytokines.", 
+                                    "dispersion": "Standard Error", 
+                                    "param": "Mean", 
+                                    "title": "Comparison of Th2 Cytokines (IL-13) Between Placebo and Probiotic Groups at Baseline (Beginning of Product Intake), 4 Weeks (Mid Period of Product Intake) and 8 Weeks (End of Product Intake)", 
+                                    "units": "ng/mL"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "0 (baseline), 1 and 2 months", 
+                        "title": "Comparison of Th2 Cytokines (IL-13) Between Placebo and Probiotic Groups at Baseline (Beginning of Product Intake), 4 Weeks (Mid Period of Product Intake) and 8 Weeks (End of Product Intake)", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "TNSS Questionnaire were distributed at every visit (1 questionnaire for every week). The scored questionnaire were collected at subsequent visits. The symptom scores for nasal congestion, runny nose, nasal itching and sneezing were expressed as weekly sums (scale 0-3 for each symptom). The TNSS was the weekly sum for all the symptoms (scale 0-12). The TNSS data were analyzed as both monthly averages (at V2 and V3 compared to baseline V1) and weekly TNSS scores. Monthly TNSS scores were calculated as average over the 4 weeks preceding the visits. The higher the score is, the worse the outcome is.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "maltodextrin powder\nMaltodextrin : maltodextrin powder", 
+                                    "title": "Placebo"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "probiotic blended in maltodextrin\nProbiotic : probiotic blended in maltodextrin powder", 
+                                    "title": "Probiotic"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "10"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "10"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "3.11", 
+                                                            "@value": "4.10"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "3.35", 
+                                                            "@value": "4.90"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "TNSS score at baseline"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "1.86", 
+                                                            "@value": "3.05"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "1.89", 
+                                                            "@value": "3.92"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "TNSS score at 1 month"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "2.04", 
+                                                            "@value": "3.00"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "1.33", 
+                                                            "@value": "1.50"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "TNSS score at 2 months"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "TNSS Questionnaire were distributed at every visit (1 questionnaire for every week). The scored questionnaire were collected at subsequent visits. The symptom scores for nasal congestion, runny nose, nasal itching and sneezing were expressed as weekly sums (scale 0-3 for each symptom). The TNSS was the weekly sum for all the symptoms (scale 0-12). The TNSS data were analyzed as both monthly averages (at V2 and V3 compared to baseline V1) and weekly TNSS scores. Monthly TNSS scores were calculated as average over the 4 weeks preceding the visits. The higher the score is, the worse the outcome is.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Comparison Between Probiotic and Placebo at Baseline (Beginning of Product Intake), 1 Month and 2 Months (End of Product Intake)", 
+                                    "units": "units on a scale"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "Measures at baseline, 1, and 2 months", 
+                        "title": "Comparison Between Probiotic and Placebo at Baseline (Beginning of Product Intake), 1 Month and 2 Months (End of Product Intake)", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "safety_issue": "No", 
+                        "time_frame": "8 weeks", 
+                        "title": "Change From Baseline in Pro-inflammatory Cytokines (TNF-alpha, IL-1beta) at 8 Weeks in ex Vivo Stimulated Whole Blood Cells", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "safety_issue": "No", 
+                        "time_frame": "8 weeks", 
+                        "title": "Change From Baseline in Immunoglobulin Levels in Serum Between Treatment Groups", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "safety_issue": "No", 
+                        "time_frame": "8 weeks", 
+                        "title": "Change From Baseline in Basophil Activation at 8 Weeks in ex Vivo Stimulated Whole Blood Cells", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "A maximum of 10 ml heparinized, venous blood will be collected during Visit 1, 2 and 3. Whole blood cells will be cultured for 120 hours (5 days) with culture medium with different stimuli. Cell supernatants will be collected and analyzed for different cytokines.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "maltodextrin powder\nMaltodextrin : maltodextrin powder", 
+                                    "title": "Placebo"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "probiotic blended in maltodextrin\nProbiotic : probiotic blended in maltodextrin powder", 
+                                    "title": "Probiotic"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "10"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "10"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "1501", 
+                                                            "@value": "1439"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "683", 
+                                                            "@value": "700"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "IL-5 at baseline (begining of product intake)"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "1005", 
+                                                            "@value": "1191"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "905", 
+                                                            "@value": "980"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "IL-5 at 1 month (4 weeks)"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "956", 
+                                                            "@value": "1277"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "301", 
+                                                            "@value": "323"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "IL-5 at 2 months (8 weeks)"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "A maximum of 10 ml heparinized, venous blood will be collected during Visit 1, 2 and 3. Whole blood cells will be cultured for 120 hours (5 days) with culture medium with different stimuli. Cell supernatants will be collected and analyzed for different cytokines.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Comparison of Th2 Cytokines (IL-5) Between Placebo and Probiotic Groups at Baseline (Beginning of Product Intake), 4 Weeks (Mid Period of Product Intake) and 8 Weeks (End of Product Intake)", 
+                                    "units": "ng/mL"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "0 (baseline), 1, and 2 months", 
+                        "title": "Comparison of Th2 Cytokines (IL-5) Between Placebo and Probiotic Groups at Baseline (Beginning of Product Intake), 4 Weeks (Mid Period of Product Intake) and 8 Weeks (End of Product Intake)", 
+                        "type": "Primary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "maltodextrin powder\nMaltodextrin : maltodextrin powder", 
+                            "title": "Placebo"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "probiotic blended in maltodextrin\nProbiotic : probiotic blended in maltodextrin powder", 
+                            "title": "Probiotic"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "10", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "10", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "10", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "10", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "pre_assignment_details": "Subjects assigned to either: probiotic or placebo groups and taking assigned product for 8 weeks with three visits: V1(at baseline), V2 (4 weeks after treatment) and V3 (8 weeks after treatment).", 
+                "recruitment_details": "Recruitment at the Metabolic Unit, (study no. 11.03.MET, NCT01660698) during the Grass Pollen (GP) season. Twenty seven adults volunteered, of which twenty four who gave written informed consent were screened for clinical history of allergy  to GP > 2 years and a confirmatory skin prick test (SPT) to GP. Twenty subjects were randomized."
+            }, 
+            "point_of_contact": {
+                "email": "maurice.beaumont@rdls.nestle.com", 
+                "name_or_title": "Dr Maurice Beaumont, Principal Investigator", 
+                "organization": "Clinical Development Unit / Metabolic Unit", 
+                "phone": "+41217858054"
+            }
+        }, 
+        "completion_date": {
+            "#text": "January 2012", 
+            "@type": "Actual"
+        }, 
+        "condition": "Seasonal Allergic Rhinitis", 
+        "condition_browse": {
+            "mesh_term": [
+                "Rhinitis, Allergic, Seasonal", 
+                "Rhinitis"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "To identify immune markers in allergic individuals that are impacted by probiotic treatment\n      during seasonal exposure"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Confirmed allergy (allergic rhinitis) to grass pollen > 1 year and positive SPT > 3mm\n             wheal diameter to grass pollen.\n\n          -  Age 20-65 years adults\n\n          -  Body Mass Index 19- 29 (people in the normal and overweight range)\n\n          -  Having obtained his/her informed consent.\n\n        Exclusion Criteria:\n\n          -  Anemia\n\n          -  Family history of congenital immunodeficiency\n\n          -  Regular consumption of immunosuppressive or anti-inflammatory treatment\n\n          -  Under medication against allergy (e.g. anti histaminic)\n\n          -  Avoid regular consumption of probiotic and other dietary nutritional interventions\n\n          -  Have a high alcohol consumption (more than 1 drink/day)\n\n          -  Consumption of illicit drugs\n\n          -  Pregnancy\n\n               -  Subject who cannot be expected to comply with the study procedures, including\n                  consuming the test products\n\n               -  Currently participating or having participated in another clinical trial during\n                  the last 4 weeks prior to the beginning of this study"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "65 Years", 
+            "minimum_age": "20 Years"
+        }, 
+        "enrollment": {
+            "#text": "20", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "August 2, 2012", 
+        "firstreceived_results_date": "April 2, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01660698", 
+            "org_study_id": "11.03.MET"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Placebo", 
+                "description": "maltodextrin powder", 
+                "intervention_name": "Maltodextrin", 
+                "intervention_type": "Dietary Supplement"
+            }, 
+            {
+                "arm_group_label": "Probiotic", 
+                "description": "probiotic blended in maltodextrin powder", 
+                "intervention_name": "Probiotic", 
+                "intervention_type": "Dietary Supplement"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "July 11, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Lausanne", 
+                    "country": "Switzerland", 
+                    "state": "VD", 
+                    "zip": "1000"
+                }, 
+                "name": "Metabolic Unit, Nestl\u00e9 Research Center"
+            }
+        }, 
+        "location_countries": {
+            "country": "Switzerland"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Immune-modulatory Effect of Candidate Probiotic Strain on Whole Blood Cells of Grass Pollen Allergic Individuals", 
+        "overall_official": {
+            "affiliation": "Nestl\u00e9", 
+            "last_name": "Dr Maurice Beaumont, MD, PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Switzerland: Ethikkommission", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "August 2011", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "A maximum of 10 ml heparinized, venous blood will be collected during Visit 1, 2 and 3. Whole blood cells will be cultured for 120 hours (5 days) with culture medium with different stimuli. Cell supernatants will be collected and analyzed for different cytokines.", 
+                "measure": "Comparison of Th2 Cytokines (IL-13) Between Placebo and Probiotic Groups at Baseline (Beginning of Product Intake), 4 Weeks (Mid Period of Product Intake) and 8 Weeks (End of Product Intake)", 
+                "safety_issue": "No", 
+                "time_frame": "0 (baseline), 1 and 2 months"
+            }, 
+            {
+                "description": "A maximum of 10 ml heparinized, venous blood will be collected during Visit 1, 2 and 3. Whole blood cells will be cultured for 120 hours (5 days) with culture medium with different stimuli. Cell supernatants will be collected and analyzed for different cytokines.", 
+                "measure": "Comparison of Th2 Cytokines (IL-5) Between Placebo and Probiotic Groups at Baseline (Beginning of Product Intake), 4 Weeks (Mid Period of Product Intake) and 8 Weeks (End of Product Intake)", 
+                "safety_issue": "No", 
+                "time_frame": "0 (baseline), 1, and 2 months"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01660698"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "results_reference": {
+            "PMID": "23299716", 
+            "citation": "Singh A, Hacini-Rachinel F, Gosoniu ML, Bourdeau T, Holvoet S, Doucet-Ladeveze R, Beaumont M, Mercenier A, Nutten S. Immune-modulatory effect of probiotic Bifidobacterium lactis NCC2818 in individuals suffering from seasonal allergic rhinitis to grass pollen: an exploratory, randomized, placebo-controlled clinical trial. Eur J Clin Nutr. 2013 Feb;67(2):161-7. doi: 10.1038/ejcn.2012.197. Epub 2013 Jan 9."
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "TNSS Questionnaire were distributed at every visit (1 questionnaire for every week). The scored questionnaire were collected at subsequent visits. The symptom scores for nasal congestion, runny nose, nasal itching and sneezing were expressed as weekly sums (scale 0-3 for each symptom). The TNSS was the weekly sum for all the symptoms (scale 0-12). The TNSS data were analyzed as both monthly averages (at V2 and V3 compared to baseline V1) and weekly TNSS scores. Monthly TNSS scores were calculated as average over the 4 weeks preceding the visits. The higher the score is, the worse the outcome is.", 
+                "measure": "Comparison Between Probiotic and Placebo at Baseline (Beginning of Product Intake), 1 Month and 2 Months (End of Product Intake)", 
+                "safety_issue": "No", 
+                "time_frame": "Measures at baseline, 1, and 2 months"
+            }, 
+            {
+                "measure": "Change From Baseline in Pro-inflammatory Cytokines (TNF-alpha, IL-1beta) at 8 Weeks in ex Vivo Stimulated Whole Blood Cells", 
+                "safety_issue": "No", 
+                "time_frame": "8 weeks"
+            }, 
+            {
+                "measure": "Change From Baseline in Immunoglobulin Levels in Serum Between Treatment Groups", 
+                "safety_issue": "No", 
+                "time_frame": "8 weeks"
+            }, 
+            {
+                "measure": "Change From Baseline in Basophil Activation at 8 Weeks in ex Vivo Stimulated Whole Blood Cells", 
+                "safety_issue": "No", 
+                "time_frame": "8 weeks"
+            }
+        ], 
+        "source": "Nestl\u00e9", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Nestl\u00e9", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "May 2011", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator, Outcomes Assessor), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "July 2013"
+    }
+}

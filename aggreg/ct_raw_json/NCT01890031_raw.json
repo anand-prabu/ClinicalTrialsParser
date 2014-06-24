@@ -1,0 +1,159 @@
+{
+    "clinical_study": {
+        "@rank": "53631", 
+        "acronym": "ICAT", 
+        "arm_group": [
+            {
+                "arm_group_label": "Low Risk, No ICAT", 
+                "arm_group_type": "No Intervention", 
+                "description": "Low risk, not randomized to use the Interactive Cholesterol Advisory Tool, no study physician visits"
+            }, 
+            {
+                "arm_group_label": "Low risk, ICAT", 
+                "arm_group_type": "Other", 
+                "description": "Low risk, randomized to use the Interactive Cholesterol Advisory Tool, no study physician visits"
+            }, 
+            {
+                "arm_group_label": "Low risk, ICAT, and study physician", 
+                "arm_group_type": "Other", 
+                "description": "Low risk, assigned to use the Interactive Cholesterol Advisory Tool, and study physician visits."
+            }, 
+            {
+                "arm_group_label": "Moderate risk, no ICAT", 
+                "arm_group_type": "Other", 
+                "description": "Moderate risk, study physician visits, and not randomized to use the Interactive Cholesterol Advisory Tool"
+            }, 
+            {
+                "arm_group_label": "Moderate risk, ICAT", 
+                "arm_group_type": "Other", 
+                "description": "Moderate risk, study physician visits, and randomized to use the Interactive Cholesterol Advisory Tool"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to show that we can effectively deliver health information and\n      education, online, via computer regarding cholesterol. This computer program is called the\n      Interactive Cholesterol Advisory Tool (ICAT)."
+        }, 
+        "brief_title": "Interactive Cholesterol Advisory Tool", 
+        "completion_date": {
+            "#text": "June 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Low Risk (0-10% Chance) of Developing Cardiovascular Disease Within 10 Years Based on Risk Factors", 
+            "Moderate Risk (10-20% Chance) of Developing Cardiovascular (Heart) Disease Within 10 Years Based on Risk Factors"
+        ], 
+        "condition_browse": {
+            "mesh_term": "Cardiovascular Diseases"
+        }, 
+        "detailed_description": {
+            "textblock": "Participants will be recruited and categorized based on screening labs into 1 of 2 groups:\n      Low or moderate risk of developing cardiovascular disease within 10 years based on risk\n      factors. The low risk group will be advised to take the blood test results furnished by the\n      study to their primary care doctor to discuss managing cholesterol. The moderate risk group\n      will see the study physician for 4 visits about high cholesterol. Both groups complete a\n      total of 4 blood draws over 9 months. Both groups will be randomized at consent into 2\n      groups: 1 who uses the Interactive Cholesterol Advisory Tool (ICAT) and 1 that does not use\n      the ICAT.  Because recruitment goals for the low risk group were met, a third group was\n      created: low risk who both the study physician for 4 visits about high cholesterol and use\n      the ICAT."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Fluency in English,\n\n          -  Willing to come in for 1-5 visits,\n\n          -  Low and moderate CVD risk.\n\n          -  Having access to a computer with internet connection\n\n        Exclusion Criteria:\n\n          -  CVD diagnosis or CVD equivalent,\n\n          -  Psychosis, terminal illness,\n\n          -  Pregnancy,\n\n          -  Current statin use if assigned to the low risk group\n\n          -  Liver disease,\n\n          -  Peripheral Vascular Disease,\n\n          -  Diabetes Mellitus,\n\n          -  Abdominal Aortic Aneurism,\n\n          -  Cerebral Vascular Disease\n\n          -  Triglyceride level above 500 mg/dl\n\n          -  Uncorrected hypothyroidism"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "131", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "June 18, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01890031", 
+            "org_study_id": "1 R44 HL097506-01"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Low risk, ICAT", 
+                    "Low risk, ICAT, and study physician", 
+                    "Moderate risk, ICAT"
+                ], 
+                "description": "using the virtual clinician computer program for cholesterol information and education.", 
+                "intervention_name": "Interactive Cholesterol Advisory Tool", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": [
+                    "Low risk, ICAT, and study physician", 
+                    "Moderate risk, no ICAT", 
+                    "Moderate risk, ICAT"
+                ], 
+                "description": "In-person individual visits with a study physician to give information on cholesterol", 
+                "intervention_name": "Study physician visits", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "cardiovascular disease", 
+            "cholesterol"
+        ], 
+        "lastchanged_date": "July 3, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Rochester", 
+                    "country": "United States", 
+                    "state": "New York", 
+                    "zip": "14607"
+                }, 
+                "name": "University of Rochester"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "5", 
+        "official_title": "The Interactive Cholesterol Advisory Tool", 
+        "overall_official": {
+            "affiliation": "University of Rochester", 
+            "last_name": "Robert Block, MD, MPH", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Data and Safety Monitoring Board", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 1", 
+        "primary_completion_date": {
+            "#text": "June 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "Improvement in LDL-C and HLD-C in all ICAT group participants versus non-ICAT group participants", 
+            "safety_issue": "No", 
+            "time_frame": "9 months"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01890031"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "description": "We will assess adherence (for those who are prescribed a statin in the moderate CVD risk group) by both indirect objective measures and subjective reports.MEMS caps will be used to monitor when medication bottles are opened.", 
+            "measure": "medication adherence", 
+            "safety_issue": "No", 
+            "time_frame": "9 months"
+        }, 
+        "source": "University of Rochester", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of Rochester", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2012", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label", 
+        "study_type": "Interventional", 
+        "verification_date": "July 2013"
+    }
+}

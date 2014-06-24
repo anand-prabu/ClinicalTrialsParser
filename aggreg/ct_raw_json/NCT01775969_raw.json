@@ -1,0 +1,141 @@
+{
+    "clinical_study": {
+        "@rank": "117563", 
+        "arm_group": [
+            {
+                "arm_group_label": "Standard of Care", 
+                "arm_group_type": "No Intervention", 
+                "description": "Written discharge instructions only"
+            }, 
+            {
+                "arm_group_label": "Text Message", 
+                "arm_group_type": "Experimental", 
+                "description": "Written discharge instructions plus a text message with antibiotic prescription instructions"
+            }, 
+            {
+                "arm_group_label": "Voicemail", 
+                "arm_group_type": "Experimental", 
+                "description": "Written discharge instructions plus a voicemail with antibiotic prescription instructions"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Outpatient antibiotics are frequently prescribed from the emergency department, and limited\n      health literacy may impact compliance with recommended treatments. The investigators are\n      looking to determine if patient preference for multimodality discharge instructions for\n      outpatient antibiotic therapy varies by health literacy level, and if modality effected\n      patient-reported antibiotic compliance and 72-hour antibiotic pick-up."
+        }, 
+        "brief_title": "Effect of Modality on Discharge Instruction in Patients Receiving Outpatient Antibiotic Prescriptions From the Emergency Department", 
+        "completion_date": {
+            "#text": "February 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": "Modality of Discharge Instructions", 
+        "condition_browse": {
+            "mesh_term": "Emergencies"
+        }, 
+        "detailed_description": {
+            "textblock": "This is a prospective randomized trial that includes consenting patients discharged with\n      outpatient antibiotics. Health literacy is assessed using a validated health literacy\n      assessment, the Newest Vital Sign (NVS). Patients are randomized to a discharge instruction\n      modality: 1) standard of care, typed and verbal medication and case-specific instructions;\n      2) standard of care plus text messaged instructions sent to the patient's cell phone; or 3)\n      standard of care plus voicemailed instructions sent to the patient's cell phone. Antibiotic\n      pick-up is verified with the patient's pharmacy at 72 hours. Patients are called at 30 days\n      to determine antibiotic compliance."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Emergency department patient being prescribed an outpatient antibiotic or the parent\n             of a patient under the age of 18 being prescribed on outpatient antibiotic\n\n        Exclusion Criteria:\n\n          -  Doesn't have a cell phone that can receive text messages and voicemail messages\n\n          -  Unable to provide informed consent\n\n          -  Prisoners"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "2874", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "January 23, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01775969", 
+            "org_study_id": "11-3329"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Text Message", 
+                "description": "A text message with instructions is sent to the patient", 
+                "intervention_name": "Text Message", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": "Voicemail", 
+                "description": "A voicemail with instructions is sent to the patient", 
+                "intervention_name": "Voicemail", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Anti-Bacterial Agents", 
+                "Antibiotics, Antitubercular"
+            ]
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "October 24, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Minneapolis", 
+                    "country": "United States", 
+                    "state": "Minnesota", 
+                    "zip": "55415"
+                }, 
+                "name": "Hennepin County Medical Center"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "Effect of Modality on Discharge Instruction in Patients Receiving Outpatient Antibiotic Prescriptions From the Emergency Department", 
+        "overall_official": {
+            "affiliation": "Minneapolis Medical Research Foundation", 
+            "last_name": "James R Miner, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "February 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "Whether or not the patient picked up their antibiotic prescription at the pharmacy", 
+                "measure": "72-hour antibiotic pickup", 
+                "safety_issue": "No", 
+                "time_frame": "72 hours"
+            }, 
+            {
+                "description": "If the patient completed the entire course of antibiotics", 
+                "measure": "Antibiotic compliance", 
+                "safety_issue": "No", 
+                "time_frame": "30 days"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01775969"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Minneapolis Medical Research Foundation", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Minneapolis Medical Research Foundation", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "May 2011", 
+        "study_design": "Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Health Services Research", 
+        "study_type": "Interventional", 
+        "verification_date": "October 2013"
+    }
+}

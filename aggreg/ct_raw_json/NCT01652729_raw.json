@@ -1,0 +1,813 @@
+{
+    "clinical_study": {
+        "@rank": "50080", 
+        "acronym": "DURATION-NEO-2", 
+        "arm_group": [
+            {
+                "arm_group_label": "Exenatide once weekly suspension", 
+                "arm_group_type": "Experimental", 
+                "description": "Exenatide once weekly suspension 2mg subcutaneous injection"
+            }, 
+            {
+                "arm_group_label": "Sitagliptin 100mg", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Sitagliptin 100mg oral tablet once daily"
+            }, 
+            {
+                "arm_group_label": "Placebo", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Placebo oral tablet once daily"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "To compare the effect on glycemic control (HbA1c) of exenatide suspension administered once\n      weekly to that achieved by sitagliptin or placebo administered once daily for 28 weeks in\n      subjects with type 2 diabetes mellitus."
+        }, 
+        "brief_title": "Comparison Study of the Glycemic Effects, Safety, and Tolerability of Exenatide Once Weekly Suspension to Sitagliptin and Placebo in Subjects With Type 2 Diabetes Mellitus", 
+        "completion_date": {
+            "#text": "June 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Diabetes Type 2", 
+        "condition_browse": {
+            "mesh_term": [
+                "Diabetes Mellitus", 
+                "Diabetes Mellitus, Type 2"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  At least 18 years old\n\n          -  Diagnosed with type 2 diabetes mellitus\n\n          -  HbA1c of 7.1% to 11.0%, inclusive, at screening\n\n          -  Has stable body weight, i.e., not varying by >3% for at least 3 months prior to\n             screening\n\n          -  Fasting plasma glucose concentration <280 mg/dL (15.5 mmol/L) at screening\n\n          -  Body mass index of <45 kg/m2 at screening\n\n          -  Has been treated with a stable regimen of \u22651500 mg/day metformin for a minimum of 2\n             months prior to Visit 1 (Screening)\n\n        Exclusion Criteria:\n\n          -  History of pancreatitis or triglycerides >=500 mg/dL\n\n          -  Medullary carcinoma or multiple endocrine neoplasia (MEN2) or a family history of\n             either\n\n          -  History of renal transplantation, or is currently receiving renal dialysis, or has an\n             estimated creatinine clearance <50 mL/min\n\n          -  Active cardiovascular disease\n\n          -  Presence or history of severe congestive heart failure\n\n          -  Central nervous system disease, including epilepsy\n\n          -  Liver disease\n\n          -  History of severe gastrointestinal diseases\n\n          -  Clinically significant malignant disease\n\n          -  Repeated severe hypoglycemia within the last 6 months\n\n          -  Any exposure to exenatide (BYETTA\u00ae or BYDUREON\u2122) or any GLP-1 analog\n\n          -  Any DPP-4 inhibitor within 3 months prior screening"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "360", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "July 26, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01652729", 
+            "org_study_id": "BCB120", 
+            "secondary_id": "MB001-004"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Exenatide once weekly suspension", 
+                "intervention_name": "Exenatide once weekly suspension", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Sitagliptin 100mg", 
+                "intervention_name": "Sitagliptin", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Exenatide", 
+                "Sitagliptin"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": "Diabetes, Type 2, exenatide, Sitagliptin", 
+        "lastchanged_date": "May 21, 2014", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Birmingham", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "35216"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Huntsville", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "35801"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Phoenix", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85020"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Phoenix", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85018"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Beverly Hills", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90036"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Buena Park", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90620"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chino", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "91710"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chula Vista", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "91910"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Encinitas", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92024"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Greenbrae", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94904"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90059"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90057"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "North Hollywood", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "91606"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Walnut Creek", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94598"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "West Hills", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "91307"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boca Raton", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33432"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hialeah", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33012"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miami", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33183"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miami", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33143"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miami", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33169"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Port Orange", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32127"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St. Petersburg", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33709"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60607"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Evanston", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60201"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Indianapolis", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46254"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oxon Hill", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "20745"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Omaha", 
+                        "country": "United States", 
+                        "state": "Nebraska", 
+                        "zip": "68130"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Henderson", 
+                        "country": "United States", 
+                        "state": "Nevada", 
+                        "zip": "89052"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Las Vegas", 
+                        "country": "United States", 
+                        "state": "Nevada", 
+                        "zip": "89101"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Las Vegas", 
+                        "country": "United States", 
+                        "state": "Nevada", 
+                        "zip": "89123"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Albuquerque", 
+                        "country": "United States", 
+                        "state": "New Mexico", 
+                        "zip": "87102"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Buffalo", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14215"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hartsdale", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10530"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charlotte", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "28204"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Clayton", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27520"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Durham", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27710"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Greensboro", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27410"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mooresville", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "28117"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Salisbury", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "28144"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cincinnati", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45246"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Franklin", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45005"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Marion", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "43302"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Yukon", 
+                        "country": "United States", 
+                        "state": "Oklahoma", 
+                        "zip": "73099"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Eugene", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97404"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97210"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Greer", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29651"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Simpsonville", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29681"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rapid City", 
+                        "country": "United States", 
+                        "state": "South Dakota", 
+                        "zip": "57702"
+                    }, 
+                    "name": "Reseach Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chattanooga", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37421"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Carrolton", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75007"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Corpus Christi", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78404"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75390"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77074"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77072"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Katy", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77450"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Antonio", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78205"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Salt Lake City", 
+                        "country": "United States", 
+                        "state": "Utah", 
+                        "zip": "84107"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Salt Lake City", 
+                        "country": "United States", 
+                        "state": "Utah", 
+                        "zip": "84095"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Burke", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "22015"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Spokane", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "99202"
+                    }, 
+                    "name": "Research Site"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "A Randomized, Long-Term, Open-Label, 3-Arm, Multicenter Study to Compare the Glycemic Effects, Safety, and Tolerability of Exenatide Once Weekly Suspension to Sitagliptin and Placebo in Subjects With Type 2 Diabetes Mellitus", 
+        "overall_official": {
+            "affiliation": "Amylin Pharmaceuticals, LLC.", 
+            "last_name": "Vice President Medical Research & Development, M.D.", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "June 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "Change in HbA1c (glycosylated hemoglobin) from baseline to Week 28", 
+            "safety_issue": "No", 
+            "time_frame": "Baseline to Week 28"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01652729"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Proportion of subjects achieving HbA1c <7% at Week 28", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to Week 28"
+            }, 
+            {
+                "measure": "Change in fasting plasma glucose concentrations from baseline to Week 28", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to Week 28"
+            }, 
+            {
+                "measure": "Change in body weight (kg) from baseline to Week 28", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to Week 28"
+            }, 
+            {
+                "measure": "Change in 2-hour postprandial glucose concentrations from baseline to Week 16", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to Week 16"
+            }, 
+            {
+                "measure": "Proportion of subjects achieving HbA1c <=6.5% at Week 28", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to Week 28"
+            }
+        ], 
+        "source": "Bristol-Myers Squibb", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Bristol-Myers Squibb", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "February 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2014"
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "clinical_study": {
+        "@rank": "149674", 
+        "acronym": "BRAPROST", 
+        "arm_group": {
+            "arm_group_label": "MRI-TRUS fusion guided real time HDR", 
+            "arm_group_type": "Experimental", 
+            "description": "Patients treated with dose escalation to Dominant Intraprostatic Lesions"
+        }, 
+        "brief_summary": {
+            "textblock": "The Magnetic Resonance (MR) provides high resolution of soft tissue images allowing an\n      appropriate assessment of the local extent of the disease. Recent studies have shown an\n      increase in sensitivity and specificity for the detection of Dominant intraprostatic lesions\n      when using multiparametric MRI as a diagnostic tool in the staging of the disease.\n\n      Among the various irradiation techniques currently available for prostate cancer,\n      Brachytherapy is the superior in terms of dose conformation; this conformation allows\n      greater dose escalation, adjusting the isodoses to the prostate with exquisite accuracy,\n      keeping healthy adjacent organs, such as the urethra and rectum, in a tolerable dose range\n\n      Brachytherapy companies have recently developed software allowing for TRUS-MR image fusion.\n\n      The purpose of this study is to demonstrate the feasibility of the delivery of a higher than\n      prescription dose to the dominant intra-prostatic nodule as defined on multiparametric MRI.\n\n      Dose to prostate, and adjacent structure will remain the same as the current treatment\n      practice. Timing and the delivery of brachytherapy will not change from our current practice"
+        }, 
+        "brief_title": "Dose Escalation to Dominant Intraprostatic Lesions (DIL) With MRI-TRUS Fusion High Dose Rate (HDR) Prostate Brachytherapy", 
+        "completion_date": {
+            "#text": "July 2016", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Prostate Cancer", 
+        "condition_browse": {
+            "mesh_term": "Prostatic Neoplasms"
+        }, 
+        "detailed_description": {
+            "textblock": "Treatment:\n\n      The patient's treatment will consist of combined Hypofractionated external beam (3750 cGray\n      in 15 fractions) and MRI-TRUS fusion HDR brachytherapy boost (1 fraction of 1500 cGray.\n\n      Brachytherapy performed under general anesthesia as an outpatient procedure\n\n      TRUS-MRI fusion:\n\n      T2 axial volumetric sequence (VISTA) is imported directly from the picture archiving and\n      communication systems (PACS). Then MR images are reconstructed and segmented. Target volumes\n      (prostate gland, dominant intraprostatic lesions (DILs)and Organs at risk (OARs) urethra and\n      rectum are delineated.\n\n      A transrectal sagittal volumetric ultrasound image is immediately adquired every 2 degrees,\n      a rapid reconstruction algorithm converts the series of 2D images into a 3D volume, which is\n      then displayed in axial, sagittal and coronal views and transferred to the module of fusion\n      with the MRI.\n\n      The MRI images and the real-time sonography examination are displayed on a split-screen with\n      the possibility of overlaying the images live in one image. A graphical user interface is\n      used for rigid manual registration of the ultrasound and MRI volumes. This interface allows\n      for displacements in the three dimensions and rotations, until both images are correctly\n      superimposed.\n\n      Then the contoured structures are transferred to the US dataset, and these contours are\n      slightly modified until a perfect matching with the US images is achieved.\n\n      Dose prescription:\n\n      The homogeneity parameters used for optimization aim for prostate V100 > 98%, V150 of\n      25-33%, V200 < 8%, where Vn is the fractional volume of the organ that receives n% of the\n      prescribed dose, urethral dmax < 115% and rectal 1cc < 70% of prescribed dose.\n\n      The treatment plan will be manipulated such that the normally occurring high dose regions\n      (125%, 150%) are positioned at the site of the identified disease\n\n      Endpoints Feasibility of higher doses administration, toxicity and efficacy will be measured"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Men \u226518 years\n\n          -  Histologically proven adenocarcinoma of the prostate\n\n          -  Intermediate or high risk prostate cancer\n\n        Intermediate risk prostate cancer patients must have:\n\n        Clinical stage \u2264 T2c, Gleason score = 7 and iPSA \u2264 20, or Gleason score \u2264 6 and iPSA > 10\n        and \u2264 20. High risk patients may have Clinical stage T3 Gleason score 8-10 PSA > 20 ng/ml\n\n          -  A palpable nodule or a cluster of positive biopsies from a single region suggesting\n             the presence of dominant nodule and with radiologic correlation by MRI.\n\n          -  Estimated life expectancy of at least 10 years.\n\n          -  ECOG performance status of 0 - 2.\n\n          -  Signature of informed conseny\n\n        Exclusion Criteria:\n\n          -  Contraindications to interstitial prostate brachytherapy.\n\n          -  If on coumadin therapy and NOT able to stop safely for 7 days.\n\n          -  Does not have a localized high volume of intraprostatic disease and MRI\n             contraindicated\n\n          -  Unfit for general anesthetic"
+            }, 
+            "gender": "Male", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "15", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "July 17, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01909388", 
+            "org_study_id": "BRAPROST"
+        }, 
+        "intervention": {
+            "arm_group_label": "MRI-TRUS fusion guided real time HDR", 
+            "intervention_name": "MRI-TRUS fusion guided real time HDR", 
+            "intervention_type": "Radiation", 
+            "other_name": [
+                "Dose escalation to 125% of prescription dose", 
+                "Planning software Oncentra Prostate for Nucletron"
+            ]
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Cancer", 
+            "Prostate Cancer", 
+            "Brachytherapy", 
+            "Dose escalation", 
+            "High Dose Rate", 
+            "MRI-TRUS fusion", 
+            "Detection of DILs by MRI"
+        ], 
+        "lastchanged_date": "July 23, 2013", 
+        "location": {
+            "contact": {
+                "email": "alfonso.gomezdeiturriaga@osakidetza.net", 
+                "last_name": "Alfonso Gomez-Iturriaga, MD PhD", 
+                "phone": "+34946006000", 
+                "phone_ext": "6232"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Barakaldo", 
+                    "country": "Spain", 
+                    "state": "Bizkaia", 
+                    "zip": "48903"
+                }, 
+                "name": "Hospital Universitario Cruces"
+            }, 
+            "investigator": [
+                {
+                    "last_name": "Alfonso Gomez-Iturriaga, MD, PhD", 
+                    "role": "Principal Investigator"
+                }, 
+                {
+                    "last_name": "Francisco Casquero Ocio, MD PhD", 
+                    "role": "Sub-Investigator"
+                }
+            ], 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "Spain"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Phase II Study of Dose Escalation to Dominant Intraprostatic Lesions (DIL) With MRI-TRUS Fusion Real Time High Dose Rate (HDR) Brachytherapy in Patients With Intermediate and High Risk Prostate Cancer", 
+        "overall_contact": {
+            "email": "ALFONSO.GOMEZDEITURRIAGAPINA@osakidetza.net", 
+            "last_name": "Alfonso Gomez-Iturriaga, MD, PhD", 
+            "phone": "946006233"
+        }, 
+        "overall_official": {
+            "affiliation": "Hospital Universitario Cruces", 
+            "last_name": "Alfonso Gomez-Iturriaga, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "Spain: Agencia Espa\u00f1ola de Medicamentos y Productos Sanitarios", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "May 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Use the multiparametric MRI to identify dominant intraprostatic lesions (DIL) and deliver higher doses to these lesions with real time HDR brachytherapy. The procedure will be considered feasible if DIL is covered by the 125% of prescription dose while respecting tolerance doses of adjacent normal organs", 
+            "measure": "Feasibility of delivery higher than prescription doses (at least 125% of the dose)using inverse planned MRI-TRUS fusion high dose rate (HDR) brachytherapy.", 
+            "safety_issue": "Yes", 
+            "time_frame": "12 months"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01909388"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Hospital de Cruces", 
+            "investigator_full_name": "Alfonso Gomez-Iturriaga", 
+            "investigator_title": "Staff physician department of Radiation Oncology", 
+            "responsible_party_type": "Sponsor-Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Data to be collected: urinary retention rate, International Prostate Symptom Score over time, rectal toxicity and genitourinary toxicity", 
+                "measure": "Acute toxicity and tolerability compared to the historic cohort of patients treated with standard HDR brachytherapy", 
+                "safety_issue": "Yes", 
+                "time_frame": "24 months"
+            }, 
+            {
+                "description": "Patients will be followed with PSA at every follow-up; Multiparametric MRI: at 12 months and 30 months; and TRUS guided biopsy: at 30 months", 
+                "measure": "Efficacy assessed by PSA, Multiparametric MRI and prostate biopsy", 
+                "safety_issue": "No", 
+                "time_frame": "30 months"
+            }
+        ], 
+        "source": "Hospital de Cruces", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Hospital de Cruces", 
+                "agency_class": "Other"
+            }, 
+            "lead_sponsor": {
+                "agency": "Alfonso Gomez-Iturriaga", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "June 2013", 
+        "study_design": "Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "July 2013"
+    }
+}

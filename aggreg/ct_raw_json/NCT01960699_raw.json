@@ -1,0 +1,140 @@
+{
+    "clinical_study": {
+        "@rank": "168208", 
+        "arm_group": [
+            {
+                "arm_group_label": "CPC < 3", 
+                "description": "Good neurological outcome"
+            }, 
+            {
+                "arm_group_label": "CPC >/= 3", 
+                "description": "Unvavourable neurologic outcome"
+            }
+        ], 
+        "biospec_descr": {
+            "textblock": "Plasma samples stored at -80\u00b0C"
+        }, 
+        "biospec_retention": "Samples Without DNA", 
+        "brief_summary": {
+            "textblock": "Background: Cardiac arrest is a life-threatening event. Intensivists are challenged with an\n      increasing number of patients with uncertain neurological outcome following cardiopulmonary\n      resuscitation (CPR). The prognostic value of current biomarkers for neurophysiologic\n      long-term outcome is limited.\n\n      Hypothesis: We hypothesize that specific brain-derived tissue leakage proteins can be\n      identified to reveal novel, more reliable prognostic biomarkers for good neurological\n      outcome.\n\n      Methods: This translational study (n=100) is a combination of a prospective basic science\n      study intended to reduce the number of potential plasma biomarker candidates by proteomic\n      shotgun analyses in brain tissue autopsy samples and plasma samples from resuscitated\n      patients (n=10) and a prospective clinical validation study in a large study population\n      (n=100) by high-throughput analyses. Selection of proteomic markers and signature estimation\n      will be performed to discriminate patients with good and poor outcome.\n\n      Clinical perspective: A structured proteomic analysis approach might identify the best\n      marker out of all proteins liberated during cellular damage."
+        }, 
+        "brief_title": "Proteomic Profiling to Reveal Novel Prognostic Markers for Neurological Outcome Following Resuscitation", 
+        "completion_date": {
+            "#text": "October 2018", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Cardiac Arrest With Successful Resuscitation", 
+        "condition_browse": {
+            "mesh_term": "Heart Arrest"
+        }, 
+        "detailed_description": {
+            "textblock": "Background: Cardiac arrest is a life-threatening event. Intensivists are challenged with an\n      increasing number of patients with uncertain neurological outcome following cardiopulmonary\n      resuscitation (CPR). The prognostic value of current biomarkers for neurophysiologic\n      long-term outcome is limited. Therefore, identification of novel plasma markers with higher\n      predictive value for neurophysiological recovery is critical for patient management after\n      CPR.\n\n      Hypothesis: We hypothesize that specific brain-derived tissue leakage proteins can be\n      identified to reveal novel, more reliable prognostic biomarkers for good neurological\n      outcome.\n\n      Methods: This translational study (n=100) is a combination of a prospective basic science\n      study intended to reduce the number of potential plasma biomarker candidates by proteomic\n      shotgun analyses in brain tissue autopsy samples and plasma samples from resuscitated\n      patients (n=10) and a prospective clinical validation study in a large study population\n      (n=100) by high-throughput analyses, including the patients used for proteomic analysis, as\n      outcome was not compared in these patients. Samples will be analyzed by proteomic shotgun\n      analyses using the Q-Exactive quadrupole-orbitrap mass spectrometer (MS). MS/MS data will be\n      interpreted by the MaxQuant and Perseus Software. In order to identify brain-derived\n      proteins within plasma, the plasma proteome of 10 resuscitated patients will be compared to\n      the proteomic profile of brain tissue. This will reduce the number of potential plasma\n      biomarker candidates associated with neurologic outcome. The prospective validation in\n      plasma samples will be performed by a targeted proteomics approach using selected reaction\n      monitoring (SRM) on a triple quadrupole ion MS. Neurological outcome will be assessed by the\n      five-point scale (death, persistent vegetative state, severe disability, moderate\n      disability, and good recovery) according to the cerebral performance categories (CPC). A CPC\n      sore of <3 is considered a good neurological outcome. Selection of proteomic markers and\n      signature estimation will be performed by L1 regularized logistic regression, where the\n      tuning parameter will be optimized by cross-validated model performance. The signature's\n      ability to discriminate patients with good and poor outcome will be described by ROC\n      analysis.\n\n      Clinical perspective: An accurate predictor of neurological outcome following CPR is of\n      utmost clinical importance. However, previous studies focused on a very limited array of\n      biomarkers. Therefore, a structured proteomic analysis approach might identify the best\n      marker out of all proteins liberated during cellular damage."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Nontraumatic, normothermic cardiac arrest due to cardiac disorders, respiratory\n             failures, or hemodynamic or metabolic factors.\n\n          2. A Glasgow Coma Scale of 3, none of the patients will be conscious at the time of\n             hospital admission.\n\n          3. No previous cardiac arrest, as well as known or coexisting neurological disorders or\n             neoplasms of the central nervous system.\n\n          4. No history of psychiatric illness, no alcohol or drug dependency, and no psychotropic\n             medication.\n\n          5. Initiation of mild therapeutic hypothermia\n\n        Exclusion Criteria:\n\n          1. hydrocephalus and shunt artifact\n\n          2. severe movement artifacts\n\n          3. intracerebral hemorrhage\n\n          4. old large ischemic lesion"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years", 
+            "sampling_method": "Probability Sample", 
+            "study_pop": {
+                "textblock": "Resuscitated patients"
+            }
+        }, 
+        "enrollment": {
+            "#text": "100", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "October 8, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01960699", 
+            "org_study_id": "EK_Nr_1740/2013"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Prognosis", 
+            "Neurological outcome", 
+            "Resuscitation", 
+            "Biomarker"
+        ], 
+        "lastchanged_date": "October 9, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Vienna", 
+                    "country": "Austria", 
+                    "zip": "1090"
+                }, 
+                "name": "Medical University of Vienna"
+            }
+        }, 
+        "location_countries": {
+            "country": "Austria"
+        }, 
+        "number_of_groups": "2", 
+        "official_title": "Proteomic Profiling to Reveal Novel Prognostic Markers for Neurological Outcome Following Resuscitation", 
+        "other_outcome": [
+            {
+                "measure": "Brain glucose metabolism", 
+                "safety_issue": "No", 
+                "time_frame": "Day 1 after end of cooling period"
+            }, 
+            {
+                "measure": "Clinical outcome (rehospitalization and death)", 
+                "safety_issue": "No", 
+                "time_frame": "3 years"
+            }
+        ], 
+        "overall_official": {
+            "affiliation": "Medical University of Vienna", 
+            "last_name": "Christopher Adlbrecht, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Enrolling by invitation", 
+        "oversight_info": {
+            "authority": "Austria : Federal Ministry for Labour, Health, and Social Affairs", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "October 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "Cerebral performance categories (CPC)of <3", 
+            "safety_issue": "No", 
+            "time_frame": "participants will be followed for the duration of intensive-care unit stay, an expected average of 2 weeks."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01960699"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Medical University of Vienna", 
+            "investigator_full_name": "Christopher Adlbrecht", 
+            "investigator_title": "PI", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": {
+            "measure": "Cerebral performance categories (CPC)of <3", 
+            "safety_issue": "No", 
+            "time_frame": "6 Months"
+        }, 
+        "source": "Medical University of Vienna", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Medical University of Vienna", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "October 2013", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Prospective", 
+        "study_type": "Observational [Patient Registry]", 
+        "target_duration": "3 Years", 
+        "verification_date": "October 2013"
+    }
+}

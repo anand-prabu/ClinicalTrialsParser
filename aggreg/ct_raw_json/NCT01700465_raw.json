@@ -1,0 +1,152 @@
+{
+    "clinical_study": {
+        "@rank": "110791", 
+        "arm_group": {
+            "arm_group_label": "Hemodialysis", 
+            "description": "Patients undergoing hemodialysis"
+        }, 
+        "brief_summary": {
+            "textblock": "Machine learning techniques and algorithms originally developed for use in the field of\n      robotics can be applied to continuous, noninvasive physiological waveform data to discover\n      hidden, hemodynamic relationships.  Newly developed algorithms can, in real-time:  1)\n      estimate acute blood loss volume, 2) monitor and estimate fluid resuscitation needs, 3)\n      predict cardiovascular collapse well ahead of any clinically significant changes in standard\n      vital signs, and 4) estimate intracranial pressure.  We hypothesize that these same methods\n      can be used to monitor volume loss during hemodialysis, as well as predict intradialytic\n      hypotension, well before it occurs."
+        }, 
+        "brief_title": "Estimating and Predicting Hemodynamic Changes During Hemodialysis", 
+        "completion_date": {
+            "#text": "December 2013", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Hemodialysis", 
+        "detailed_description": {
+            "textblock": "1. Collect physiological waveform data from patients undergoing hemodialysis at the\n           University of Colorado Hospital, Children's Hospital Colorado, and Fresenius Medical\n           Centers using non-invasive monitoring techniques.\n\n        2. Combine the physiological data from patient monitors with clinical and demographic\n           data, including age, gender, race, problem list, reason for dialysis, estimated dry\n           weight, volume removed, arterial and venous pressures, etc. for use in developing\n           mathematical models of hemodialysis.\n\n        3. Develop robust, real-time, computational models for:\n\n             -  estimating acute intravascular volume loss during hemodialysis\n\n             -  predicting an optimal, individual specific, intravascular volume to be removed\n                during a hemodialysis session\n\n             -  predicting intradialytic hypotension\n\n        4. Determine:\n\n             -  which non-invasive signals are relevant to each model type\n\n             -  which features extracted from these signals are relevant\n\n             -  which algorithms are capable of using the extracted features for each decision\n                type"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Age: 2 - 89 years\n\n          -  Undergoing hemodialysis at the Fresenius Medical Centers, University of Colorado\n             Hospital or Children's Hospital Colorado\n\n        Exclusion Criteria:\n\n          -  Pregnant\n\n          -  Incarcerated\n\n          -  Decisionally challenged\n\n          -  Positive for hepatitis B surface antigen\n\n          -  Limited access to or compromised monitoring sites for non-invasive finger and ear or\n             forehead sensors"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "89 Years", 
+            "minimum_age": "2 Years", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "Adult and pediatric patients undergoing hemodialysis at Fresenius Medical Centers,\n        University of Colorado Hospital or Children's Hospital Colorado will be the population\n        base for enrollment in this study.  Patients may have acute kidney injury or end stage\n        renal disease.  Subjects may be inpatients or outpatients."
+            }
+        }, 
+        "enrollment": {
+            "#text": "250", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "September 27, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01700465", 
+            "org_study_id": "11-1437"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Hemodialysis", 
+            "Hemodynamics"
+        ], 
+        "lastchanged_date": "March 8, 2013", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Aurora", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80045"
+                    }, 
+                    "name": "Children's Hospital Colorado"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Aurora", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80045"
+                    }, 
+                    "name": "University of Colorado Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Aurora", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80011"
+                    }, 
+                    "name": "Fresenius Medical Center East Denver"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Denver", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80220"
+                    }, 
+                    "name": "Fresenius Medical Center Rocky Mountain"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Denver", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80209"
+                    }, 
+                    "name": "Fresenius Medical Center Central"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_groups": "1", 
+        "official_title": "Estimating and Predicting Hemodynamic Changes During Hemodialysis", 
+        "overall_official": {
+            "affiliation": "Children's Hospital Colorado", 
+            "last_name": "Steve Moulton, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Enrolling by invitation", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "September 2013", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "development of algorithm to estimate acute intravascular volume loss during hemodialysis", 
+            "measure": "Acute intravascular volume loss during hemodialysis", 
+            "safety_issue": "No", 
+            "time_frame": "one hemodialysis session (approx 3-4 hours)"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01700465"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "University of Colorado, Denver", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of Colorado, Denver", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "September 2012", 
+        "study_design": "Observational Model: Case-Only, Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "March 2013"
+    }
+}

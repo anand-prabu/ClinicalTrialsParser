@@ -1,0 +1,162 @@
+{
+    "clinical_study": {
+        "@rank": "129472", 
+        "arm_group": [
+            {
+                "arm_group_label": "Control", 
+                "arm_group_type": "No Intervention", 
+                "description": "Individuals in the control group will not use the smart phone application"
+            }, 
+            {
+                "arm_group_label": "Intervention", 
+                "arm_group_type": "Experimental", 
+                "description": "Individuals in the intervention group will use the smart phone application in insulin titration"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The primary aim of this study is to investigate the feasibility of using a patient-centered\n      smart phone application for insulin self-titration on glycemic control. Over a 18-month\n      period, suboptimally controlled type 2 diabetes mellitus (T2DM) on oral antidiabetic agents,\n      thus requiring insulin treatment patients, will be recruited from the Singapore General\n      Hospital (SGH). Patients randomized to the intervention group will be instructed to\n      self-adjust their insulin dose using a smart phone application designed to guide\n      self-titration; patients randomized to the control group will receive the usual clinical\n      care. The primary outcome measure is change in glycated hemoglobin level (HbA1c), 6 months\n      post-enrollment. The investigators hypothesize that using a smart phone application for\n      insulin self-titration is effective in improving glycemic control in T2DM patients compared\n      with usual care."
+        }, 
+        "brief_title": "Feasibility of Using a Smart Phone Application for Self-titration of Insulin on Glycemic Control in Patients With T2DM", 
+        "completion_date": {
+            "#text": "March 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Diabetes Mellitus", 
+        "condition_browse": {
+            "mesh_term": "Diabetes Mellitus"
+        }, 
+        "detailed_description": {
+            "textblock": "Background:\n\n      Many patients with type 2 diabetes mellitus (T2DM) require insulin therapy after suboptimal\n      glycemic control with oral antidiabetic agents. Initiating insulin therapy and adjusting\n      dosage is vital in improving clinical outcomes among patients with diabetes. However, timely\n      and appropriate dosage titration is challenging for many patients. Doctors also contend with\n      many patients lacking the confidence to self-titrate insulin. Hence, reinforcing patients'\n      self-empowerment is important in diabetes management. Developing tools that facilitate\n      dosage adjustment of insulin may have substantial benefits to glycemic control.\n\n      Objectives:\n\n      The overall aim of this study is to investigate the feasibility of using a patient-centered\n      smart phone application for insulin self-titration to improve glycemic control relative to\n      usual care in patients with T2DM. The specific aim of the study is to determine the\n      technical and clinical feasibility of a patient-centered smart phone application for insulin\n      self-titration on glycemic control (HbA1c) of suboptimally controlled patients with T2DM who\n      are starting insulin treatment.\n\n      Study Design:\n\n      This 24-week study is a randomized controlled trial that will involve participants recruited\n      from Singapore General Hospital, a 1500-bed tertiary care hospital. The target population\n      will consist of insulin naive patients with T2DM (40-70 years old) with suboptimal glycemic\n      control (HbA1c \u2265 7.5%) while on oral antidiabetic agents.\n\n      Sample Size:\n\n      Eighty patients will be recruited in the study and randomized into either the intervention\n      or control group in equal numbers (n=40) within strata defined by provider (i.e., within\n      each of the five doctors). Patients will be nested within providers, and randomization\n      within each provider will be performed in blocks of 4 subjects: 2 for the intervention and 2\n      for the control.\n\n      Subject Selection:\n\n      Eligible patients will be recruited over a 18-month period from the Singapore General\n      Hospital. All patients newly initiated on insulin therapy will receive standard diabetes\n      education from Diabetes Nurse Educators (DNEs). The research coordinator and doctors will\n      work closely with the DNEs to identify eligible patients for this study. When a patient is\n      eligible to participate in the study, the research coordinator will provide a study\n      information brochure and explain the study design to the patient. Investigators will obtain\n      an informed consent from patients prior to randomization.\n\n      Intervention:\n\n      Use of a smart phone application in self-titration of insulin\n\n      Primary Outcome Variable:\n\n      Difference in change in glycemic control (HbA1c) between the intervention and the control\n      group\n\n      Procedures:\n\n      Recruited patients will receive once-daily injections of insulin detemir, a long-acting\n      insulin, to be given at bedtime. The physicians are free to keep patients on all oral\n      antidiabetic agents, except for thiazolidediones. All recruited patients will receive free\n      glucometers and test strips.\n\n      Statistical Analysis:\n\n      The primary analysis will be a comparison of mean reduction in HbA1c at 24 weeks\n      post-randomization in the treatment and control groups in the context of a linear\n      mixed-effects model with random effects for patients and doctors. The study is randomized,\n      so baseline features and potential confounders should be approximately balanced between the\n      treatment and control groups. However, the sample size is small (80 patients in total) so\n      the mixed-effects model will be adjusted for covariates selected using forward stepwise\n      variable selection with the AIC criterion. Potential covariates include age, gender, whether\n      the patient themselves has a smart-phone, and treatment satisfaction.\n\n      The mixed-effects model allows all non-missing data to be used in the analysis without\n      imputation. However, for the estimate of the difference in reduction in HbA1c to be\n      unbiased, it is required that the distribution of the data missingness conditional on the\n      variables in the model and the observed data does not depend on the values of the missing\n      data, so that the data is missing-at-random.This is a common and a reasonable assumption.\n      However, it is possible that the analysis of attrition will indicate that additional\n      covariates need to be included in the mixed-effects model. With the aim of developing a\n      tailored analysis plan for a definitive study, a few additional models for comparison of\n      mean reduction in HbA1c will also be considered. For example, a linear mixed-effects model\n      with random slope and intercept for each patient and doctor which incorporates the\n      intermediate HbA1c measurements for each patient will also be fit. It is unknown a priori\n      whether such a model will have reduced power because of patients attaining equilibrium\n      titration at different times or if such a model will have increased power because it uses\n      more observations albeit on the same group of patients. Depending on the rate of attrition\n      and whether attrition is related to covariates, a propensity score for missingness may be\n      developed and models fit which are adjusted for or stratified by this score.\n\n      The primary examination of efficacy will be through a linear mixed-effects model with random\n      effects for each doctor and patient, under the assumption that the distribution of\n      missingness conditional on the covariates and observed data does not depend on the missing\n      data values. However, the investigators will examine several analyses for appropriateness\n      including simple comparisons of the reductions in HbA1c between the treatment and control\n      groups under last-observation-carried-forward, which is expected to be fairly conservative,\n      and worst-observation-carried-forward, which is expected to be extremely conservative. What\n      these methods lack in rigor may be offset by their simplicity."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Insulin na\u00efve patient with T2DM\n\n          -  Between 40 and 70 years of age\n\n          -  HbA1c \u22657.5%\n\n          -  Ability and willingness to inject once-a-day long-acting insulin\n\n          -  Ability and willingness to perform self-monitoring of blood glucose (SMBG)\n\n          -  Access to a smart phone Exclusion Criteria:\n\n        Exclusion Criteria:\n\n          -  Hypoglycemia unawareness\n\n          -  Severe renal impairment (i.e., eGFR <30 ml/min)\n\n          -  Corticosteroid use\n\n          -  Serious disease with life expectancy <1 year\n\n          -  Pregnancy\n\n          -  Patients with labile medical conditions that would predispose them to poor insulin\n             control (e.g., frequent or recurrent infections)\n\n          -  Patients with psychological and social issues that would prevent continuous injection\n             of insulin and monitoring of blood glucose (e.g., major depressive disorder,\n             homelessness)"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "70 Years", 
+            "minimum_age": "40 Years"
+        }, 
+        "enrollment": {
+            "#text": "80", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "September 22, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01950676", 
+            "org_study_id": "Duke-NUS-TIDR/2012/0004"
+        }, 
+        "intervention": {
+            "arm_group_label": "Intervention", 
+            "description": "The smart phone application (Diabetes Pal), will guide patients on self-titration of insulin. Patients will be required to key in the CBG readings into the application. Up-titration of insulin dose will be carried out once every 3 days and the recommended insulin dose will be based on the mean of 3 CBG readings and a pre-specified titration algorithm. The process of using the insulin self-titration application will continue until the patient has reached the target pre-breakfast CBG.", 
+            "intervention_name": "Smart phone application", 
+            "intervention_type": "Device"
+        }, 
+        "intervention_browse": {
+            "mesh_term": "Insulin"
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "September 24, 2013", 
+        "location": {
+            "contact": {
+                "email": "bee.yong.mong@sgh.com.sg", 
+                "last_name": "Yong Mong Bee, MBBS"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Singapore", 
+                    "country": "Singapore", 
+                    "zip": "169608"
+                }, 
+                "name": "Singapore General Hospital Department of Endocrinology"
+            }, 
+            "investigator": {
+                "last_name": "Yong Mong Bee, MBBS", 
+                "role": "Principal Investigator"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "Singapore"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Feasibility of Using a Smart Phone Application for Self-titration of Insulin on Glycemic Control in Patients With Type 2 Diabetes", 
+        "overall_contact": {
+            "email": "david.matchar@duke-nus.edu.sg", 
+            "last_name": "David Matchar, MD", 
+            "phone": "(65) 6516 2584"
+        }, 
+        "overall_official": [
+            {
+                "affiliation": "Duke-NUS Graduate Medical School Singapore", 
+                "last_name": "David Matchar, MD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Singapore General Hospital", 
+                "last_name": "Yong Mong Bee, MBBS", 
+                "role": "Principal Investigator"
+            }
+        ], 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "Singapore: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "March 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "Change in glycemic control (HbA1c) between the intervention and the control group", 
+            "safety_issue": "No", 
+            "time_frame": "Baseline and Week 24"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01950676"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "National University, Singapore", 
+            "investigator_full_name": "Dr. David Matchar", 
+            "investigator_title": "Professor and Director of the Program in Health Services and Systems Research, Duke-NUS Graduate Medical School Singapore", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Frequency of hypoglycemic episodes", 
+                "safety_issue": "Yes", 
+                "time_frame": "up to Week 24"
+            }, 
+            {
+                "measure": "Treatment satisfaction as measured by DTSCs and DTSQc", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline and Week 24"
+            }
+        ], 
+        "source": "National University, Singapore", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "Duke-NUS Graduate Medical School", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Singapore General Hospital", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "National University, Singapore", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "March 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Health Services Research", 
+        "study_type": "Interventional", 
+        "verification_date": "September 2013"
+    }
+}

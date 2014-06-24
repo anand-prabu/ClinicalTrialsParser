@@ -1,0 +1,127 @@
+{
+    "clinical_study": {
+        "@rank": "73711", 
+        "arm_group": {
+            "arm_group_label": "Epidural", 
+            "description": "subjects under epidural anesthesia"
+        }, 
+        "brief_summary": {
+            "textblock": "Machine learning techniques and algorithms originally developed for use in the field of\n      robotics can be applied to continuous, noninvasive physiological waveform data to discover\n      hidden, hemodynamic relationships.  Newly developed algorithms can, in real-time: 1) predict\n      cardiovascular collapse well ahead of any clinically significant changes in standard vital\n      signs, 2) monitor and estimate fluid resuscitation needs, 3) estimate acute blood loss\n      volume, and 4) estimate intracranial pressure. We hypothesize that these same methods can be\n      used to predict functional hypovolemia during regional anesthesia for labor or fetal\n      intervention."
+        }, 
+        "brief_title": "Continuous Noninvasive Method for Estimating and Predicting Maternal and Fetal Hemodynamic Changes During Regional Anesthesia", 
+        "completion_date": {
+            "#text": "December 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Pregnancy", 
+            "Anesthesia"
+        ], 
+        "detailed_description": {
+            "textblock": "Specific aims:\n\n        1. Collect noninvasive physiological waveform data from patients undergoing regional\n           anesthesia for labor or fetal intervention at the University of Colorado Hospital and\n           Children's Hospital Colorado.\n\n        2. Combine the physiological data from patient monitors with clinical and demographic\n           data, including maternal problem list, medications, volume infused, use of\n           vasopressors, arterial and venous pressures, fetal heart rate, fetal umbilical artery\n           Doppler velocimetry, maternal uterine artery Doppler waveform, fetal and neonatal\n           outcomes etc. for use in developing mathematical model for early detection of maternal\n           functional hypovolemia.\n\n        3. Develop robust, real-time, computational models for:\n\n             -  estimating maternal volume status prior to administration of epidural anesthesia\n\n             -  estimating effective intravascular volume loss during maternal regional anesthesia\n\n             -  predicting an optimal, individual specific requirement for IV resuscitation and/or\n                need for vasopressor agents while providing adequate analgesia using regional\n                techniques and optimizing the fetal outcomes\n\n             -  identifying mothers susceptible to epidural induced hypotension"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  1. Age: 14 - 44 years\n\n          -  2. Pregnant\n\n          -  3. Undergoing regional anesthesia for labor or fetal intervention at the University\n             of Colorado Hospital and Children's Hospital Colorado\n\n        Exclusion Criteria:\n\n          -  1. Severe pre-eclampsia/eclampsia\n\n          -  2. Pre-procedural maternal hypertension requiring treatment\n\n          -  3. Significant fetal heart rate abnormalities prior to regional anesthesia\n\n          -  4. Incarcerated\n\n          -  5. Decisionally challenged\n\n          -  6. Limited access to or compromised monitoring sites for non-invasive finger and ear\n             or forehead sensors"
+            }, 
+            "gender": "Female", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "44 Years", 
+            "minimum_age": "14 Years", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "All pregnant females undergoing regional anesthesia for labor or fetal intervention at the\n        University of Colorado Hospital and Children's Hospital Colorado."
+            }
+        }, 
+        "enrollment": {
+            "#text": "200", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "October 1, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01699243", 
+            "org_study_id": "12-0990"
+        }, 
+        "intervention_browse": {
+            "mesh_term": "Anesthetics"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "pregnancy", 
+            "labor", 
+            "epidural", 
+            "fetal intervention"
+        ], 
+        "lastchanged_date": "March 8, 2013", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Aurora", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80045"
+                    }, 
+                    "name": "Children's Hospital Colorado"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Aurora", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80045"
+                    }, 
+                    "name": "University of Colorado Hospital"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_groups": "1", 
+        "official_title": "A Continuous, Noninvasive Method for Estimating and Predicting Maternal and Fetal Hemodynamic Changes During Regional Anesthesia", 
+        "overall_official": {
+            "affiliation": "University of Colorado, Denver", 
+            "last_name": "Steve Moulton, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Enrolling by invitation", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "September 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Develop algorithm for estimating effective intravascular volume loss during maternal regional anesthesia", 
+            "measure": "effective intravascular volume loss during maternal regional anesthesia", 
+            "safety_issue": "No", 
+            "time_frame": "during epidural, 1-4 hours"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01699243"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "University of Colorado, Denver", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of Colorado, Denver", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "September 2012", 
+        "study_design": "Observational Model: Case-Only, Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "March 2013"
+    }
+}

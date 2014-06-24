@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="83880">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 04, 2014</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01774149</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2011/1939 (REK)</org_study_id>
+    <nct_id>NCT01774149</nct_id>
+  </id_info>
+  <brief_title>Model Driven Diabetes Care</brief_title>
+  <acronym>MDDC</acronym>
+  <official_title>Data Driven Feedback as a Method to Improve Glycaemic Control in Type 1 Diabetes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital of North Norway</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Tromso</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The Research Council of Norway</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospital of North Norway</source>
+  <oversight_info>
+    <authority>Norway: Regional Ethics Commitee</authority>
+    <authority>Norway: Data Protection Authority</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Patients with Diabetes Mellitus Type 1 using electronic self-help tools typically registers
+      a large amount of data on their disease. The study intends to see if giving advanced
+      feedback on these data can improve their blood glucose management.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      All patients will be given access to a mobile phone with the diabetes diary known as the Few
+      Touch Application (FTA) installed. They may use either their own compatible Android
+      handsets, or provided handsets. The study uses a delayed start design. Participants are
+      randomized into two groups, who get access to the module &quot;Diastat&quot; after 4 and 12 weeks
+      post-enrollment respectively. Each group uses the FTA with Diastat for 8 weeks
+      post-intervention (i.e. access to Diastat).
+
+      Diastat is a module within FTA that provides data-driven feedback to the patients using
+      their own data. This module is based on the data recorded in a previous trial [1]. Three
+      submodules are part of Diastat; Periodicity detection and visualization, multiscale trend
+      detection based on the c-SiZer algorithm [2], and situation matching for insulin dosage [3].
+
+        1. Skrøvseth SO et al, Diabetes Technol Ther (2012)
+
+        2. Skrøvseth SO et al, PLoS ONE (2012)
+
+        3. Skrøvseth SO et al, Accepted for Advanced Technologies and Treatments for Diabetes,
+           Paris, France, 2013.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>March 2013</start_date>
+  <completion_date type="Anticipated">August 2013</completion_date>
+  <primary_completion_date type="Anticipated">August 2013</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Supportive Care</study_design>
+  <primary_outcome>
+    <measure>Change in the frequency of hyper- and hypo-glycemic events from baseline to week 8-12 and the last 4 weeks of intervention.</measure>
+    <time_frame>Up to 20 weeks post-enrollment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The number of self-measured blood glucose values &lt; 4 mmol/L (72 mg/dL) or &gt; 15 mmol/L (270 mg/dL) will be recorded during baseline (first 4 weeks post-enrollment/start of study), during weeks 8-12 post-enrollment for all participants, and weeks 16-20 post-enrollment for the active comparator group.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in HbA1c</measure>
+    <time_frame>up to 20 weeks post-enrollment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>HbA1c will be measured at the start of the study (week 1 post-enrollment) and during the last week of intervention (week 12 for the intervention group and week 20 for the active comparator group).</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Usability</measure>
+    <time_frame>up to 20 weeks post-enrollment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>System Usability Scale (SUS) will be applied to assess usability of the approach and recorded  during the last week of intervention (week 12 for the intervention group and week 20 for the active comparator group).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Empowerment</measure>
+    <time_frame>Up to 12 weeks post-enrollment.</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Diabetes Empowerment Scale-Short Form (DES-SF) will be used to assess empowerment at the start of the study (week 1 post-enrollment) and during week 12 of intervention.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Diabetes Mellitus, Type 1</condition>
+  <arm_group>
+    <arm_group_label>Delayed Diastat</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Mobile phone application Few Touch Application (FTA) in the regular version, with Diastat turned on in week 12 post-enrollment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Diastat</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Few Touch Application with Diastat module turned on in  week 4 post-enrollment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Few Touch Application</intervention_name>
+    <description>Users get access to the regular version of the Few Touch Application for Type 1 Diabetes.</description>
+    <arm_group_label>Delayed Diastat</arm_group_label>
+    <arm_group_label>Diastat</arm_group_label>
+    <other_name>Diabetesdagboka</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Diastat</intervention_name>
+    <description>Users get the Few Touch Application with Diastat module activated.</description>
+    <arm_group_label>Delayed Diastat</arm_group_label>
+    <arm_group_label>Diastat</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Confirmed diagnosis with Diabetes Mellitus type 1 for at least one year.
+
+          -  Age over 18 years
+
+          -  Has basic familiarity with mobile phones, and uses mobile phone on a daily basis.
+
+        Exclusion Criteria:
+
+          -  Severe complications due to their diabetes.
+
+          -  Unable to understand or conform to the guidelines when presented with the phone's
+             software.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Stein Olav Skrøvseth, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospital of North Norway</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University Hopital of North Norway</name>
+      <address>
+        <city>Tromsø</city>
+        <zip>9038</zip>
+        <country>Norway</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Norway</country>
+  </location_countries>
+  <reference>
+    <citation>Skrøvseth SO, Arsand E, Godtliebsen F, Hartvigsen G. Mobile phone-based pattern recognition and data analysis for patients with type 1 diabetes. Diabetes Technol Ther. 2012 Dec;14(12):1098-104. doi: 10.1089/dia.2012.0160. Epub 2012 Oct 4.</citation>
+    <PMID>23035775</PMID>
+  </reference>
+  <reference>
+    <citation>Skrøvseth SO, Arsand E, Godtliebsen F, Joakimsen RM. Model driven mobile care for patients with type 1 diabetes. Stud Health Technol Inform. 2012;180:1045-9.</citation>
+    <PMID>22874353</PMID>
+  </reference>
+  <reference>
+    <citation>Årsand E, Frøisland DH, Skrøvseth SO, Chomutare T, Tatara N, Hartvigsen G, Tufano JT. Mobile health applications to assist patients with diabetes: lessons learned and design implications. J Diabetes Sci Technol. 2012 Sep 1;6(5):1197-206.</citation>
+    <PMID>23063047</PMID>
+  </reference>
+  <reference>
+    <citation>Skrøvseth SO, Bellika JG, Godtliebsen F. Causality in scale space as an approach to change detection. PLoS One. 2012;7(12):e52253. doi: 10.1371/journal.pone.0052253. Epub 2012 Dec 27.</citation>
+    <PMID>23300626</PMID>
+  </reference>
+  <verification_date>April 2013</verification_date>
+  <lastchanged_date>April 30, 2013</lastchanged_date>
+  <firstreceived_date>January 11, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 1</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Diazepam</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

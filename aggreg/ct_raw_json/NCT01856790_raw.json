@@ -1,0 +1,218 @@
+{
+    "clinical_study": {
+        "@rank": "152995", 
+        "arm_group": [
+            {
+                "arm_group_label": "ePID closed loop system without liraglutide", 
+                "arm_group_type": "Active Comparator", 
+                "description": "liraglutide will not be given while subject uses ePID closed loop system"
+            }, 
+            {
+                "arm_group_label": "ePID closed loop system with liraglutide", 
+                "arm_group_type": "Experimental", 
+                "description": "liraglutide will be given while subject uses ePID closed loop system"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "\"Closed loop artificial pancreas\" systems have been under development for the control of\n      blood sugars in those living with diabetes.  These systems consist of a continuous glucose\n      sensor, which sends a signal to a computer program that automatically determines how much\n      insulin to give.  The computer program then tells an insulin pump to deliver the insulin.\n      While such systems have been tested under a number of conditions, post-meal blood sugars are\n      difficult to control.  This study is designed to see if liraglutide, a glucagon like peptide\n      receptor agonist, can help minimize the post meal blood sugar spikes in subjects with type 1\n      diabetes while they are on a closed loop system."
+        }, 
+        "brief_title": "Effect of Liraglutide on Automated Closed-loop Glucose Control in Type 1 Diabetes", 
+        "completion_date": {
+            "#text": "December 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Type 1 Diabetes", 
+        "condition_browse": {
+            "mesh_term": [
+                "Diabetes Mellitus", 
+                "Diabetes Mellitus, Type 1"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Open-label, crossover study comparing the peak post-prandial glucose levels and the\n      incremental post-prandial glucose AUC during CL control alone and during CL control with\n      liraglutide in an inpatient research setting.  Data generated during outpatient baseline\n      evaluation and liraglutide dose titration phases of the study will be compared to assess the\n      short-term efficacy of this agent during open-loop CSII pump treatment."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. age 18-40 years\n\n          2. clinical diagnosis of T1D (formal antibody and/or genetic testing will not be\n             required)\n\n          3. duration of T1D \u2265 1 year\n\n          4. HbA1c \u2264 9 %\n\n          5. Treated with CSII for at least 3 months\n\n          6. Body weight > 50 kg (to accommodate phlebotomy)\n\n          7. Be in good general health without other medical or psychiatric illnesses that would,\n             in the judgment of the investigator, interfere with subject safety or study conduct\n\n        Exclusion Criteria:\n\n          1. Insulin resistant (defined as requiring > 1.5 units/kg/day at time of study\n             enrollment)\n\n          2. Presence of any medical or psychiatric disorder that may interfere with subject\n             safety or study conduct\n\n          3. Use of any medications (besides insulin) known to blood glucose levels, including\n             oral or other systemic glucocorticoid therapy.  Inhaled, intranasal, or rectal\n             corticosteroid use is allowed along as not given within 4 weeks of admission to the\n             HRU.  Use of topical glucocorticoids is allowable as long as affected skin area does\n             not overlap with study device sites.  Subjects using herbal supplements will be\n             excluded, due to the unknown effects of these supplements on glucose control\n\n          4. History of hypoglycemic seizure within last 3 months\n\n          5. Anemic (low hematocrit), evidence of renal insufficiency (elevated serum creatinine,\n             BUN) or elevated liver function tests.\n\n          6. Female subjects who are pregnant, lactating, or unwilling to be tested for pregnancy\n\n          7. History of celiac disease gastroparesis, gastroesophageal reflux disease (GERD),\n             disorder of gastric emptying, or disorder of intestinal motility\n\n          8. Taking a medication known to affect gastric motility\n\n          9. History of pancreatitis, gallstones, alcoholism or high triglyceride levels\n\n         10. Personal or family history of thyroid cancer or multiple endocrine neoplasia type 2\n             (MEN2)\n\n         11. Subjects unable to give consent"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "40 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "16", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "May 14, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01856790", 
+            "org_study_id": "1211011156"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "ePID closed loop system without liraglutide", 
+                    "ePID closed loop system with liraglutide"
+                ], 
+                "description": "Insulin pump controlled by closed loop unit and algorithm", 
+                "intervention_name": "ePID closed loop system", 
+                "intervention_type": "Device"
+            }, 
+            {
+                "arm_group_label": "ePID closed loop system with liraglutide", 
+                "description": "Liraglutide is a long-acting analog of human GLP-1 that works as a GLP-1 receptor agonist", 
+                "intervention_name": "liraglutide", 
+                "intervention_type": "Drug", 
+                "other_name": "Victoza"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Glucagon-Like Peptide 1"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "lastchanged_date": "April 16, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "New Haven", 
+                    "country": "United States", 
+                    "state": "Connecticut", 
+                    "zip": "06520"
+                }, 
+                "name": "Yale University School of Medicine"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Effect of Liraglutide on Automated Closed-loop Glucose Control in Type 1 Diabetes", 
+        "other_outcome": [
+            {
+                "measure": "nadir glucose levels following the meals", 
+                "safety_issue": "No", 
+                "time_frame": "48 hours"
+            }, 
+            {
+                "measure": "mean 24-hour glucose levels", 
+                "safety_issue": "No", 
+                "time_frame": "48 hours"
+            }, 
+            {
+                "measure": "mean time to peak post-meal glucose value", 
+                "safety_issue": "No", 
+                "time_frame": "48 hours"
+            }, 
+            {
+                "measure": "mean daytime and nighttime glucose levels", 
+                "safety_issue": "No", 
+                "time_frame": "48 hours"
+            }, 
+            {
+                "measure": "MAGE, SD score and other measures of glucose variability", 
+                "safety_issue": "No", 
+                "time_frame": "48 hours"
+            }, 
+            {
+                "measure": "peak post-prandial insulin levels following meals", 
+                "safety_issue": "No", 
+                "time_frame": "48 hours"
+            }, 
+            {
+                "measure": "AUC meal-related insulin excursion following meals", 
+                "safety_issue": "No", 
+                "time_frame": "48 hours"
+            }, 
+            {
+                "measure": "rise (and/or fall) in plasma glucagon and C-peptide during MMTT", 
+                "safety_issue": "No", 
+                "time_frame": "10 hours"
+            }, 
+            {
+                "measure": "AUC plasma glucagon during MMTT", 
+                "safety_issue": "No", 
+                "time_frame": "10 hours"
+            }, 
+            {
+                "measure": "differences in daily insulin requirements", 
+                "safety_issue": "No", 
+                "time_frame": "48 hours"
+            }, 
+            {
+                "measure": "differences in meal stimulated insulin doses", 
+                "safety_issue": "No", 
+                "time_frame": "48 hours"
+            }
+        ], 
+        "overall_contact": {
+            "email": "lori.carria@yale.edu", 
+            "last_name": "Lori Carria, MS", 
+            "phone": "203-737-3595"
+        }, 
+        "overall_official": {
+            "affiliation": "Yale University", 
+            "last_name": "Jennifer Sherr, MD, PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": [
+                "United States: Food and Drug Administration", 
+                "United States: Institutional Review Board"
+            ], 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 0", 
+        "primary_completion_date": {
+            "#text": "December 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "peak post-prandial venous glucose levels obtained after breakfast, lunch, and dinner between CL alone and CL + liraglutide", 
+            "measure": "peak post-prandial venous glucose levels", 
+            "safety_issue": "No", 
+            "time_frame": "48 hours"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01856790"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Yale University", 
+            "investigator_full_name": "Jennifer Sherr", 
+            "investigator_title": "Instructor", 
+            "responsible_party_type": "Sponsor-Investigator"
+        }, 
+        "secondary_outcome": {
+            "measure": "the incremental meal-related glucose AUC", 
+            "safety_issue": "No", 
+            "time_frame": "48 hours"
+        }, 
+        "source": "Yale University", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "Juvenile Diabetes Research Foundation", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Yale Center for Clinical Investigation", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "Jennifer Sherr", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "February 2013", 
+        "study_design": "Allocation: Non-Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Crossover Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2014"
+    }
+}

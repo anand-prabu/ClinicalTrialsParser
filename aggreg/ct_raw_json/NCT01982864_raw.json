@@ -1,0 +1,166 @@
+{
+    "clinical_study": {
+        "@rank": "109325", 
+        "acronym": "DIAMS", 
+        "arm_group": {
+            "arm_group_label": "hemodialysis patients", 
+            "arm_group_type": "Experimental", 
+            "description": "The administration of gentamicin at the beginning of the hemodialysis."
+        }, 
+        "brief_summary": {
+            "textblock": "Aminoglycosides are widely used for the treatment of Gram-negative bacilli and\n      Staphylococcus aureus infections because of their effectiveness and low cost. Nevertheless,\n      many aspects of their optimal use in hemodialysis patients remain unsolved and little is\n      known about their pharmacokinetics in this context. The current practice for prescribing\n      aminoglycosides to these particular patients consists in giving after each hemodialysis\n      session about half the dose usually given to patients with normal renal function.\n\n      However, theoretical considerations and emerging clinical data suggest that this may not be\n      the most beneficial dosing regimen as efficient peak concentrations are often not attained\n      and the occurrence of ototoxicity and nephrotoxicity is still frequent."
+        }, 
+        "brief_title": "Pharmacokinetics of an Aminoglycoside in Hemodialysis Patients.", 
+        "completion_date": {
+            "#text": "December 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Renal Failure Chronic Requiring Hemodialysis", 
+        "condition_browse": {
+            "mesh_term": [
+                "Kidney Failure, Chronic", 
+                "Renal Insufficiency"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Recent evidence about the pharmacokinetics and pharmacodynamics of aminoglycosides strongly\n      supports administration of aminoglycosides before, rather than after, hemodialysis.\n      Therapeutic drug monitoring using pharmacokinetic modeling is currently used in\n      non-hemodialysis patients. However, the PK tools employed are not suitable to dialysis\n      patients.\n\n      For aminoglycosides, the ratio of peak to Minimal Inhibitory Concentration (MIC) has been\n      shown to be the parameter that best correlates with clinical efficacy, whilst prolonged\n      exposure to high concentrations have been related to either nephrotoxicity or ototoxicity.\n      Additionally, aminoglycosides are mostly excreted as unchanged drugs in urine and their\n      clearance is directly proportional to the glomerular filtration rate. The elimination\n      half-life of aminoglycosides is approximately 1.5-3 hours in adults with normal renal\n      function, but is greatly prolonged up to 36-70 hours in patients with end-stage renal\n      failure. In a standard patient, aminoglycosides are administered as a single dose, over a\n      short time interval, to obtain an elevated blood peak concentration (the effective level).\n      The next injection is not administered before 24 hours, to allow the patient to wash out the\n      aminoside and to minimize the residual blood concentration (the toxic level). The aim here\n      is to maximize the peak concentration during a fair amount of time (by repeating the peaks)\n      and to minimize the overall drug exposure, responsible for the toxicity.\n\n      For the renal impaired patient, our hypothesis is that the hemodialyzer can be regarded as a\n      kidney. Thus, the administration of the aminoside at the beginning of the hemodialysis could\n      lead to profiles of elimination comparable to those observed in normorenal patients.\n\n      The research aims at performing a population pharmacokinetic (POPPK) study of gentamicin\n      when given to hemodialysis patients."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  age upper to 18 years\n\n          -  Patients hospitalized in the \"Service de N\u00e9phrologie - H\u00e9modialyse, Transplantations,\n             CHU de Limoges\"\n\n          -  Patients requiring chronic hemodialysis\n\n          -  Patients requiring a treatment by aminoglycosides\n\n          -  Patients willing to give their written informed consent for their participation to\n             the study\n\n          -  Patients affiliated to the French social security system or equivalent\n\n        Exclusion Criteria:\n\n          -  Patients under legal protection\n\n          -  Patients unable or unwilling to provide informed consent and not under legal\n             protection\n\n          -  Patients deprived of liberty\n\n          -  Contraindications to gentamicin\n\n          -  Pregnant or breast-feeding women or women of childbearing potential without efficient\n             contraception (based on declaration)\n\n          -  Patients with any altered mental status or any psychiatric condition that would\n             interfere with the understanding of the study\n\n          -  Patients enrolled in another clinical trial testing drugs or therapeutic strategies"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "50", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "October 31, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01982864", 
+            "org_study_id": "I12008 DIAMS"
+        }, 
+        "intervention": {
+            "arm_group_label": "hemodialysis patients", 
+            "description": "The decision to introduce the antibiotic is made during a session or between two sessions according to both the clinicians usual procedure.\nDepending on the number of injections, 8 to 10 blood samples will be drawn per patient. Clinical and biological data will be concomitantly collected (e.g., hemodialysis session duration, creatinine clearance\u2026).\nThe number of blood sampling and the time schedule will be adapted to the prescription and the possible follow-up of the treatment after the first injection. Whatever the time is between the first injection and the following dialysis session, a sampling will be performed 30 minutes after the end of the injection (T1), 8h after the end of the injection (T2), juste before (TAD), in the middle (TMD) and at the end of the dialysis (TFD).", 
+            "intervention_name": "Gentamicin", 
+            "intervention_type": "Drug"
+        }, 
+        "intervention_browse": {
+            "mesh_term": "Gentamicins"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Aminoglycosides", 
+            "hemodialysis", 
+            "clinical pharmacokinetics", 
+            "pharmacokinetic modelling", 
+            "Bayesian estimation", 
+            "Necessity", 
+            "of the treatment", 
+            "gentamicin"
+        ], 
+        "lastchanged_date": "November 6, 2013", 
+        "location": [
+            {
+                "contact": {
+                    "last_name": "Frank SAINT MARCOUX", 
+                    "phone": "05 55 05 61 40"
+                }, 
+                "contact_backup": {
+                    "last_name": "Caroline MONCHAUD", 
+                    "phone": "05 55 05 61 40"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Limoges", 
+                        "country": "France", 
+                        "zip": "87042"
+                    }, 
+                    "name": "CHU LIMOGES - Laboratoire de Pharmacologie"
+                }, 
+                "investigator": {
+                    "last_name": "Pierre MARQUET, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Marie ESSIG, MD", 
+                    "phone": "05 55 05 66 18"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Limoges", 
+                        "country": "France", 
+                        "zip": "87042"
+                    }, 
+                    "name": "CHU LIMOGES - Service N\u00e9phrologie"
+                }, 
+                "investigator": {
+                    "last_name": "Marie ESSIG, MD", 
+                    "role": "Sub-Investigator"
+                }, 
+                "status": "Recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": "France"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Pharmacokinetics of an Aminoglycoside in Hemodialysis Patients.", 
+        "overall_contact": {
+            "last_name": "Franck SAINT MARCOUX", 
+            "phone": "05 55 05 61 40"
+        }, 
+        "overall_contact_backup": {
+            "last_name": "Caroline MONCHAUD", 
+            "phone": "05 55 05 61 40"
+        }, 
+        "overall_official": {
+            "affiliation": "CHU LIMOGES", 
+            "last_name": "Pierre MARQUET, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "France: Agence Nationale de S\u00e9curit\u00e9 du M\u00e9dicament et des produits de sant\u00e9", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 4", 
+        "primary_completion_date": {
+            "#text": "October 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "The research aims at performing a population pharmacokinetic (POPPK) study of gentamicin when given to hemodialysis patients.\nThe ability to describe the concentration curves versus time (Biais (%) between the observed concentrations and the concentrations predicted by the model).", 
+            "measure": "Concentration curves of gentamicin", 
+            "safety_issue": "No", 
+            "time_frame": "1 week"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01982864"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "University Hospital, Limoges", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University Hospital, Limoges", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "October 2013", 
+        "study_design": "Endpoint Classification: Pharmacokinetics Study, Intervention Model: Single Group Assignment, Masking: Open Label", 
+        "study_type": "Interventional", 
+        "verification_date": "October 2013"
+    }
+}

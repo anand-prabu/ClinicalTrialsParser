@@ -1,0 +1,146 @@
+{
+    "clinical_study": {
+        "@rank": "159611", 
+        "arm_group": [
+            {
+                "arm_group_label": "Closed Loop Procedure AB", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Closed loop procedure with normal calibration first followed by closed loop procedure B with calibration error induced."
+            }, 
+            {
+                "arm_group_label": "Closed loop Procedure BA", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Closed loop procedure with an induced calibration error first followed by closed loop procedure with normal calibration."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Currently, patients diagnosed with type 1 diabetes rely on either finger stick or sensor\n      glucose readings when making their insulin dosage decisions.  Designing a computerized\n      system that mimics the way insulin is produced naturally in a person who does not have type\n      1 diabetes holds many challenges; all of which cannot be addressed in just one study.   The\n      purpose of the Medtronic Overnight Closed Loop study is to assess the performance of a\n      system designed to automatically infuse the correct insulin dose during the hours that the\n      patient is sleeping.\n\n      The system consists of an insulin pump that provides insulin to the patient through an\n      infusion set.  A sensor inserted just under the patient's skin measures glucose levels and a\n      transmitter sends this information to the pump.  To enable the sensor to register the\n      glucose information correctly, it must be set (calibrated) by a finger stick blood glucose\n      3-4 times a day.  In the commercially released system, the physician would recommend the\n      continuous background (basal) insulin rates and the patient would be required to make\n      decisions regarding extra insulin (bolus) for meals or as a response to high glucose levels.\n\n      In the Closed Loop System, a mobile control system is added to these devices.  This consists\n      of an Android phone, a closed loop algorithm and a translator.  This system is designed to\n      translate the sensor information and direct the pump to provide the required dosage of\n      insulin automatically without requiring input from the patient.\n\n      Reliable calibration has proved challenging, and so it is important that the system function\n      safely, even when calibration is inaccurate.  In this study, a calibration error will be\n      introduced under very controlled circumstances.  This testing will identify if the system\n      can maintain acceptable overnight glucose levels, regardless of whether or not calibration\n      is ideal."
+        }, 
+        "brief_title": "Safety and Effectiveness Study of a Closed Loop System Maintaining Patients' Glucose Levels During an Overnight Period", 
+        "completion_date": {
+            "#text": "April 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Type 1 Diabetes", 
+        "condition_browse": {
+            "mesh_term": "Diabetes Mellitus, Type 1"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  A clinical diagnosis of Type 1 diabetes as determined by the Investigator for a\n             minimum of 36 months prior to enrollment\n\n          -  Weight is between 50 and 120 kg\n\n          -  Subject has used a Medtronic insulin pump for at least the previous 6 months\n\n          -  Subject has an glycated hemoglobin (A1C) value \u2264 9.0% demonstrated at the time of\n             enrollment\n\n          -  Subject uses a rapid-acting analogue insulin in his/her pump\n\n        Exclusion Criteria:\n\n          -  Female subject who has a positive serum pregnancy screening test, or who plans to\n             become pregnant during the course of the study\n\n          -  Subject has a history of hypoglycemic seizure or hypoglycemic coma within the past 12\n             months\n\n          -  Subject has  an exclusionary cardiac disorder"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "70 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "18", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "October 19, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01712594", 
+            "org_study_id": "CEP223"
+        }, 
+        "intervention": {
+            "arm_group_label": [
+                "Closed Loop Procedure AB", 
+                "Closed loop Procedure BA"
+            ], 
+            "description": "The procedure A is the device running under normal conditions, procedure B will incorporate an induced calibration error.", 
+            "intervention_name": "Closed Loop Procedure (Medtronic)", 
+            "intervention_type": "Device", 
+            "other_name": "AAGC"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": "United Kingdom Overnight closed loop", 
+        "lastchanged_date": "November 18, 2013", 
+        "location": {
+            "contact": {
+                "email": "pratik.choudhary@kcl.ac.uk", 
+                "last_name": "Pratik Choudhary, MD", 
+                "phone": "44 203 299 1737"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "London", 
+                    "country": "United Kingdom", 
+                    "zip": "SE5 9PJ"
+                }, 
+                "name": "King's College London"
+            }, 
+            "investigator": {
+                "last_name": "Pratik Choudhary, MBBS MRCP MD", 
+                "role": "Principal Investigator"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "United Kingdom"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Feasibility and Safety of a Closed Loop Insulin Delivery System (Aka AAGC) With an Artificially Induced Calibration Error During the Overnight Period", 
+        "other_outcome": {
+            "description": "A meter blood glucose (BG) value is entered into the Android and a sensor and calibration error check are performed. If the routine determines that the sensor and BG are valid values, the Closed Loop will start.", 
+            "measure": "All descriptive endpoints stratified by the accuracy of the sensor based on mean absolute relative difference (MARD) overnight", 
+            "safety_issue": "Yes", 
+            "time_frame": "Two overnight closed loop sessions"
+        }, 
+        "overall_contact": {
+            "email": "yiming.deng@medtronic.com", 
+            "last_name": "Yiming Deng", 
+            "phone": "+18185765472"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United Kingdom: Medicines and Healthcare Products Regulatory Agency", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "August 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Subjects will arrive at the research facility between 17:00 and 18:00. Plasma glucose will be measured and they will have their evening meal of no more than 80 g of carbohydrate. They will bolus for this meal using their usual Bolus Wizard (Medtronic) settings. After the meal, an IV catheter will be inserted for the collection of venous blood samples. The Mobile Control System will be connected and closed-loop control will be started approximately 4 hours after dinner. The subject will remain under closed-loop control overnight (approximately 11 p.m.-6 a.m.). During one of the Closed Loop nights the system will be challenged by a calibration error of 30%. At approximately 7 am (before breakfast), the Mobile Control System will be turned off and the patient will be provided with a breakfast (approximately 40-70 gm of carbohydrate) and will take a bolus according to the Bolus Wizard. The patient will return to their usual pump treatment with the MiniMed Paradigm Veo System.", 
+            "measure": "Amount of time spent in the target range defined as 3.8-8.8 mmol/l (70 to 160 mg/dL) YSI glucose during in-clinic overnight visits", 
+            "safety_issue": "Yes", 
+            "time_frame": "Two in-patient nights"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01712594"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Blood glucose samples will be obtained from the line approximately every 30 minutes, or every 5-15 minutes at treating physician's discretion, if either the sensor or a previous glucose reading is < 81mg/dL or > 360mg/dL (< 3.5 mmol/l or > 20 mmol/l). Plasma samples will be analyzed using a YSI 2300 Glucose and Lactate Analyzer between 18:00 and 6:00.", 
+                "measure": "Glucose Area under the curve (AUC) below 3.8 mmol/l (70 mg/dL ) YSI glucose obtained during in-clinic overnight visits", 
+                "safety_issue": "Yes", 
+                "time_frame": "Two overnight closed loop sessions"
+            }, 
+            {
+                "description": "Blood glucose samples will be obtained from the line approximately every 30 minutes, or every 5-15 minutes at treating physician's discretion, if either the sensor or a previous glucose reading is < 81mg/dL or > 360mg/dL (< 3.5 mmol/l or > 20 mmol/l). Plasma samples will be analyzed using a YSI 2300 Glucose and Lactate Analyzer (YSI, Inc., OH, USA) between 18:00 and 6:00.", 
+                "measure": "Glucose AUC above 8.8mmol/l (160 mg/dL) YSI glucose obtained during in-clinic overnight visits", 
+                "safety_issue": "Yes", 
+                "time_frame": "Two overnight closed loop sessions"
+            }
+        ], 
+        "source": "Medtronic Diabetes", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Medtronic Diabetes", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "May 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Crossover Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "November 2013"
+    }
+}

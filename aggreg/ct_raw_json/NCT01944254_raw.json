@@ -1,0 +1,140 @@
+{
+    "clinical_study": {
+        "@rank": "92442", 
+        "acronym": "TEMP2", 
+        "arm_group": [
+            {
+                "arm_group_label": "random to respiration", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Cardiac output measurement at random to respiration"
+            }, 
+            {
+                "arm_group_label": "timed with expiration start", 
+                "arm_group_type": "Experimental", 
+                "description": "Cardiac output measurement synchronised at start of expiration."
+            }, 
+            {
+                "arm_group_label": "timed to instructed exhalation", 
+                "arm_group_type": "Experimental", 
+                "description": "Cardiac output measurement timed to instructed exhalation. The patient will receive instructions to exhale slowly using a peak expiratory flow (PEF)-flute and the cardiac output measurement will be started (i.e bolus given) at the start of expiration."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The intention of this study is to determine whether the precision of the measure of cardiac\n      output can be optimized by conducting the measurement while the participant is instructed to\n      exhale slowly. This will be compared to measurements done at random to respiration and timed\n      with the participant's spontaneous expiration."
+        }, 
+        "brief_title": "The Precision of Pulmonary Artery Cardiac Output-measurements in Spontaneously Breathing Patients", 
+        "completion_date": {
+            "#text": "November 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": "Heart Diseases", 
+        "condition_browse": {
+            "mesh_term": "Heart Diseases"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Every patient that receives a pulmonary artery catheter (PAC) related to elective\n             cardiac surgeries,\n\n          -  informed and written consent to participation in the study in accordance with the\n             Helsinki declaration\n\n          -  hemodynamic stability\n\n        Exclusion Criteria:\n\n          -  Hemodynamical instability\n\n          -  atrial fibrillation\n\n          -  tricuspid insufficiency \u2265 grade 2\n\n          -  hemodialysis or other conditions where extra volume load can be negative,\n\n          -  lack of ability to give a written consent to participate in the study"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "90 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "18", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "September 7, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01944254", 
+            "org_study_id": "2013/409"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "random to respiration", 
+                "description": "Cardiac output measurement obtained by pulmonary artery catheter thermodilution technique (PAC TD)", 
+                "intervention_name": "Cardiac output measurement  at random to respiration", 
+                "intervention_type": "Procedure"
+            }, 
+            {
+                "arm_group_label": "timed with expiration start", 
+                "description": "Cardiac output measurement obtained by PAC TD", 
+                "intervention_name": "Cardiac output measurement synchronised at start of expiration", 
+                "intervention_type": "Procedure"
+            }, 
+            {
+                "arm_group_label": "timed to instructed exhalation", 
+                "description": "Cardiac output measurement obtained by PAC TD", 
+                "intervention_name": "Cardiac output measurement timed to instructed exhalation", 
+                "intervention_type": "Procedure"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Cardiac surgical procedures", 
+            "Pulmonary Artery Catheterizations", 
+            "Cardiac output", 
+            "Swan Ganz Catheterization"
+        ], 
+        "lastchanged_date": "November 28, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Trondheim", 
+                    "country": "Norway"
+                }, 
+                "name": "Department of circulation and medical imaging, NTNU"
+            }
+        }, 
+        "location_countries": {
+            "country": "Norway"
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "Comparison of the Precision of Cardiac Output-measures at Random to Respiration, Synchronised With Expiration and Instructed Slow Exhalation, Obtained by Pulmonal Artery Catheter Thermodilution Technique With Cold Injection", 
+        "overall_official": {
+            "affiliation": "Norwegian University of Science and Technology", 
+            "last_name": "Idar Kirkeby-Garstad, Dr.", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Norway:National Committee for Medical and Health Research Ethics", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "November 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "The measures will be obtained the first postoperative morning by pulmonary artery catheter thermodilution technique. In total 24 measurements will be done in each patient, i.e 8 measurements in each interventional series described later. The variance observed will create the foundation for calculating the precision of the measures.", 
+            "measure": "The observed variance amongst the cardiac output measures", 
+            "safety_issue": "No", 
+            "time_frame": "1 hour"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01944254"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Norwegian University of Science and Technology", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "St. Olavs Hospital", 
+                "agency_class": "Other"
+            }, 
+            "lead_sponsor": {
+                "agency": "Norwegian University of Science and Technology", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "September 2013", 
+        "study_design": "Allocation: Randomized, Intervention Model: Crossover Assignment, Masking: Open Label", 
+        "study_type": "Interventional", 
+        "verification_date": "December 2013"
+    }
+}

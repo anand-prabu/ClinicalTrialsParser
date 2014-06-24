@@ -1,0 +1,118 @@
+{
+    "clinical_study": {
+        "@rank": "47089", 
+        "arm_group": {
+            "arm_group_label": "Sevoflurane", 
+            "arm_group_type": "Experimental", 
+            "description": "Single arm: dose escalation of study medication"
+        }, 
+        "brief_summary": {
+            "textblock": "In imaging functional connectivity (FC) analyses of the resting brain, alterations of FC\n      during unconsciousness have been reported. These results are in accordance to recent\n      electroencephalographic studies observing impaired top-down processing during anesthesia. In\n      this study, simultaneous records of functional magnetic resonance imaging (fMRI) and\n      electroencephalogram (EEG) were performed to investigate the causality of neural mechanisms\n      during sevoflurane anesthesia by correlating FC in fMRI and directional connectivity (DC) in\n      electroencephalogram."
+        }, 
+        "brief_title": "Neural Mechanisms of Sevoflurane Induced Anesthesia: an EEG fMRI Study in Healthy Volunteers", 
+        "completion_date": {
+            "#text": "January 2014", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Anesthesia", 
+            "Drug Effects"
+        ], 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  ASA I\n\n          -  male\n\n          -  age > 18y\n\n        Exclusion Criteria:\n\n          -  drug abuse\n\n          -  history of psychiatric or neurologic diseases\n\n          -  amblyacousia, deafness\n\n          -  contradictions to the study drug (sevoflurane)\n\n          -  implants\n\n          -  piercings, tatoos"
+            }, 
+            "gender": "Male", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "35 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "20", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "April 22, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02149927", 
+            "org_study_id": "56012/12"
+        }, 
+        "intervention": {
+            "arm_group_label": "Sevoflurane", 
+            "intervention_name": "Sevoflurane", 
+            "intervention_type": "Drug"
+        }, 
+        "intervention_browse": {
+            "mesh_term": "Sevoflurane"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "EEG", 
+            "fMRI", 
+            "connectivity", 
+            "sevoflurane"
+        ], 
+        "lastchanged_date": "May 23, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Munich", 
+                    "country": "Germany", 
+                    "state": "Bayern", 
+                    "zip": "81675"
+                }, 
+                "name": "Klinikum rechts der Isar"
+            }
+        }, 
+        "location_countries": {
+            "country": "Germany"
+        }, 
+        "number_of_arms": "1", 
+        "overall_official": {
+            "affiliation": "Klinikum rechts der Isar, Technische Universit\u00e4t M\u00fcnchen, Munich, Germany", 
+            "last_name": "Eberhard F Kochs, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Germany: Ethics Commission", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 0", 
+        "primary_completion_date": {
+            "#text": "December 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Changes of fMRI functional connectivity and of EEG information processing during different levels of sevoflurane anesthesia from wakefulness to deep anesthesia:\nAt each anesthetic level at equilibrated states awake, 2vol%, 3vol% and EEG endpoint burst suppression, EEG and fMRI are recorded simultaneously for about 10 minutes. For each level EEG and fMRI connectivity analysis are performed using the recording length of 10 minutes. This results in one outcome parameter for EEG and fMRI connectivity. Furthermore, both modalities are combined resulting in one combined parameter for each level.\nFor EEG analysis permutation entropy as a measure of information content in EEG, and symbolic transfer entropy as a measure of directed interaction in EEG are used. fMRI functional connectivity analysis is based on BOLD ICA and on network analysis of the BOLD time series.", 
+            "measure": "Changes of information processing (entropy) in EEG and functional connectivity (BOLD ICA and small group network architecture) in fMRI during sevoflurane anesthesia at states awake, 2vol%, 3vol% and EEG endpoint burst suppression", 
+            "safety_issue": "No", 
+            "time_frame": "10 minutes for each condition"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02149927"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "description": "Identical technical setup than main outcome", 
+            "measure": "Assessment of the brain network structure during recovery in EEG and fMRI", 
+            "safety_issue": "No", 
+            "time_frame": "10 minutes for each condition"
+        }, 
+        "source": "Technische Universit\u00e4t M\u00fcnchen", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Technische Universit\u00e4t M\u00fcnchen", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "June 2013", 
+        "study_design": "Endpoint Classification: Pharmacokinetics/Dynamics Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Basic Science", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2014"
+    }
+}

@@ -1,0 +1,229 @@
+{
+    "clinical_study": {
+        "@rank": "82487", 
+        "arm_group": [
+            {
+                "arm_group_label": "Intervention practices", 
+                "arm_group_type": "Experimental", 
+                "description": "Intervention practices will implement an interactive preventive health record in addition to their standard personal health record functionality."
+            }, 
+            {
+                "arm_group_label": "Control practices", 
+                "arm_group_type": "No Intervention", 
+                "description": "Control practices will continue to field their existing personal health record"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Cancer screening can improve the length and quality of life, yet the average American\n      receives only half of recommended services. Patient-centered personal health records with\n      higher levels of functionality, combined with practice redesign to make use of these\n      functions, can help patients obtain recommended cancer screening tests by linking them to\n      their doctor's records, explaining information in lay language, displaying tailored\n      recommendations and educational resources, providing logistical support and tools to\n      stimulate action, and generating reminders. This project will measure whether making these\n      resources available to primary care practices and patients promotes shared decision-making\n      and increases the delivery of cancer screening compared to existing information systems."
+        }, 
+        "brief_title": "Implementing Personal Health Recordsto Promote Evidence-Based Cancer Screening", 
+        "completion_date": {
+            "#text": "September 2019", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Cancer", 
+            "Prevention"
+        ], 
+        "detailed_description": {
+            "textblock": "We developed a theory-driven interactive Patient Health Record (PHR) that uses higher\n      functionality to more deeply engage patients in health promotion. The model defines five\n      levels of PHR functionality: (1) collecting patient information, (2) integrating with\n      electronic health records (EHRs), (3) translating information into lay language, (4)\n      providing individualized, guideline-based clinical recommendations, and (5) facilitating\n      patient action. We hypothesize that implementing PHRs with these higher levels of\n      functionality will inform and activate patients in ways that simpler PHRs cannot achieve and\n      will increase uptake of preventive services. In Phase 1, we will randomize 46 practices from\n      three practice-based research networks in eight states to implement a PHR with advanced\n      versus simpler functionality. Control practices will use their existing PHR. Intervention\n      practices will upgrade their PHR to feature an interactive preventive health record (IPHR)\n      that we have previously developed and tested. Intervention practices will locally tailor the\n      IPHR content and learn how to integrate new functions into practice. Phase 1 will feature an\n      implementation assessment in intervention practices, based on the RE-AIM model, to measure\n      Reach (creation of IPHR accounts by patients), Adoption (practice decision to use the IPHR),\n      Implementation (consistency, fidelity, barriers, and facilitators of use), and Maintenance\n      (sustained use). The randomized comparison of intervention and control practices will\n      measure the incremental effect of the IPHR on shared decision-making and receipt of cancer\n      screening tests compared to traditional PHRs (Effectiveness). Data sources will include the\n      EHR/PHR/IPHR databases, patient and practice surveys, recruitment field notes, practice\n      learning collaborative transcripts, practice diaries, and patient phone interviews. This\n      study will inform future efforts to use patient-centered information technology to promote\n      cancer prevention and the feasibility of national dissemination."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Practices in a practice based research network participating in our study that have\n             an existing patient health record\n\n          2. Patients that attend our study practices\n\n        Exclusion Criteria:\n\n        Practices without a patient health record"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "75 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "46", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "May 12, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02138448", 
+            "org_study_id": "PD302893", 
+            "secondary_id": "1R01CA168795-01A1"
+        }, 
+        "intervention": {
+            "arm_group_label": "Intervention practices", 
+            "description": "The interactive preventive healthcare record (IPHR) is a patient-centered application that links patients to their clinician's record, explains information in lay language, displays tailored recommendations and educational resources, and makes preventive care actionable.", 
+            "intervention_name": "Interactive Preventive Health Record", 
+            "intervention_type": "Behavioral", 
+            "other_name": "MyPreventiveCare"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Cancer Screenings", 
+            "Health Information Technology", 
+            "Patient Health Record", 
+            "Preventive Services"
+        ], 
+        "lastchanged_date": "May 14, 2014", 
+        "link": [
+            {
+                "description": "An Interactive Preventive Care Record: A handbook for implementing patient centered personal health records to promote prevention.", 
+                "url": "http://healthit.ahrq.gov/sites/default/files/docs/page/PreventiveCareHandbook_062912comp.pdf"
+            }, 
+            {
+                "description": "AHRQ Innovations Exchange: Primary care patients use interactive preventive health record integrated with electronic health record, leading to enhanced provision of preventive services.", 
+                "url": "http://www.innovations.ahrq.gov/content.aspx?id=3743"
+            }
+        ], 
+        "location": [
+            {
+                "contact": {
+                    "email": "nelsonc@ochin.org", 
+                    "last_name": "Christine Nelson, PhD", 
+                    "phone": "503-943-2500"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97201"
+                    }, 
+                    "name": "OCHIN"
+                }, 
+                "investigator": {
+                    "last_name": "Jennifer Devoe, MD DrPhil", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "ahkrist@vcu.edu", 
+                    "last_name": "Alexander H Krist, MD, MPH", 
+                    "phone": "804-827-6750"
+                }, 
+                "contact_backup": {
+                    "email": "raycock@vcu.edu", 
+                    "last_name": "Rebecca A Aycock, PhD", 
+                    "phone": "804-827-4121"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Richmond", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23298"
+                    }, 
+                    "name": "Virginia Commonwalth University"
+                }, 
+                "investigator": {
+                    "last_name": "Alexander H Krist, MD, MPH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Implementing Personal Health Recordsto Promote Evidence-Based Cancer Screening", 
+        "overall_contact": {
+            "email": "ahkrist@vcu.edu", 
+            "last_name": "Alexander H Krist, MD, MPH", 
+            "phone": "804-827-6750"
+        }, 
+        "overall_contact_backup": {
+            "email": "raycock@vcu.edu", 
+            "last_name": "Rebecca A Aycock, PhD", 
+            "phone": "8048274121"
+        }, 
+        "overall_official": {
+            "affiliation": "Virginia Commonwalth University", 
+            "last_name": "Alexander H Krist, MD, MPH", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "September 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "The percent of eligible patients who are up-to-date with all indicated cancer screenings (all-or-none measure).", 
+            "measure": "Precent of patients who are up-to-date with recommended cancer screening tests in intervention versus control practices.", 
+            "safety_issue": "No", 
+            "time_frame": "1 year"
+        }, 
+        "reference": [
+            {
+                "PMID": "22115059", 
+                "citation": "Krist AH, Peele E, Woolf SH, Rothemich SF, Loomis JF, Longo DR, Kuzel AJ. Designing a patient-centered personal health record to promote preventive care. BMC Med Inform Decis Mak. 2011 Nov 24;11:73. doi: 10.1186/1472-6947-11-73."
+            }, 
+            {
+                "PMID": "21245186", 
+                "citation": "Krist AH, Woolf SH. A vision for patient-centered health information systems. JAMA. 2011 Jan 19;305(3):300-1. doi: 10.1001/jama.2010.2011."
+            }, 
+            {
+                "PMID": "23901027", 
+                "citation": "Kerns JW, Krist AH, Longo DR, Kuzel AJ, Woolf SH. How patients want to engage with their personal health record: a qualitative study. BMJ Open. 2013 Jul 30;3(7). pii: e002931. doi: 10.1136/bmjopen-2013-002931."
+            }, 
+            {
+                "PMID": "22778119", 
+                "citation": "Krist AH, Woolf SH, Rothemich SF, Johnson RE, Peele JE, Cunningham TD, Longo DR, Bello GA, Matzke GR. Interactive preventive health record to enhance delivery of recommended care: a randomized trial. Ann Fam Med. 2012 Jul-Aug;10(4):312-9. doi: 10.1370/afm.1383."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02138448"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "To assess shared decision making a composite score based on the following measures will be calculated.\nKnowledge gained will be measured by using the IPHR, we will use questions from NCI's Health Information National Trends Survey (HINTS).\nTo assess whether the IPHR helps patients weigh values regarding risks and benefits 2 measures will be used: (a) process (patient-clinician communication) and (b) patient perception (decisional conflict).\nCommunication will be measured by using questions from AHRQ's Consumer Assessment of HealthCare Providers and Systems (CAHPS) survey.\nO'Connor's low literacy decisional conflict scale will be used to measure decisional conflict.\nTo assess whether the IPHR fosters decision-making engagement at the desired level,  Degner's locus of control metric will be used.", 
+                "measure": "Shared decision-making outcomes (knowledge, communication, decisional conflict, and decision control) reported by patients in intervention versus control practices", 
+                "safety_issue": "No", 
+                "time_frame": "1 year"
+            }, 
+            {
+                "description": "The difference in delivery of preventive services (Effectiveness) will be calculated for disadvantaged patients and the general population, using a two-level mixed-effects logistic regression for the all-or-none, composite, and individual screening tests.", 
+                "measure": "To assess whether cancer screening rates differ for disadvantaged patients, defined as minorities and Medicaid beneficiaries.", 
+                "safety_issue": "No", 
+                "time_frame": "1 year"
+            }, 
+            {
+                "description": "To assess shared decision making a composite score based on the following measures will be calculated.\nKnowledge gained will be measured by using the IPHR, we will use questions from NCI's Health Information National Trends Survey (HINTS).\nTo assess whether the IPHR helps patients weigh values regarding risks and benefits 2 measures will be used: (a) process (patient-clinician communication) and (b) patient perception (decisional conflict).\nCommunication will be measured by using questions from AHRQ's Consumer Assessment of HealthCare Providers and Systems (CAHPS) survey.\nO'Connor's low literacy decisional conflict scale will be used to measure decisional conflict.\nTo assess whether the IPHR fosters decision-making engagement at the desired level,  Degner's locus of control metric will be used.\nThese scores will be calculated for disadvantaged patients (minorities and Medicaid patients) and the general population that use the IPHR, then compared.", 
+                "measure": "To assess whether shared decision-making differ for disadvantaged patients, defined as minorities and Medicaid beneficiaries.", 
+                "safety_issue": "No", 
+                "time_frame": "1 year"
+            }, 
+            {
+                "description": "Post-implementation patient phone interviews will be conducted then analyzed using grounded-theory approach to understand disadvantaged patients' perceptions of and experience with the IPHR. These results will be compared to the phone interviews done with patients from the general population.", 
+                "measure": "To assess whether perceptions of the technology differ for disadvantaged patients, defined as minorities and Medicaid beneficiaries.", 
+                "safety_issue": "No", 
+                "time_frame": "1 year"
+            }
+        ], 
+        "source": "Virginia Commonwealth University", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Virginia Commonwealth University", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "February 2014", 
+        "study_design": "Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Prevention", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2014"
+    }
+}

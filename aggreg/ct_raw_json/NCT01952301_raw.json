@@ -1,0 +1,386 @@
+{
+    "clinical_study": {
+        "@rank": "3209", 
+        "arm_group": [
+            {
+                "arm_group_label": "xenogeneic collagen matrix", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Xenogeneic collagen matrix device placed on treatment wound bed site"
+            }, 
+            {
+                "arm_group_label": "Free Gingival Graft", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Traditional free gingival graft (autogenous graft device harvested from patient's palate) placed on treatment site wound bed"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "A split-mouth study comparing soft tissue augmentation results using free gingival graft\n      (FGG) versus xenogeneic collagen matrix (CM) for the generation of keratinized tissue (KT)\n      around teeth with insufficient (< 2mm) KT."
+        }, 
+        "brief_title": "Xenogeneic Collagen Matrix as an Alternative to Free Gingival Grafting for Oral Soft Tissue Augmentation", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "B1", 
+                        "description": "free gingival graft versus a xenogeneic collagen matrix over an apically positioned flap used to generate keratinized tissue", 
+                        "title": "Xenogeneic Collagen Matrix Versus Free Gingival Graft"
+                    }
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "30"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "30"
+                                            }
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@spread": "11.2", 
+                                            "@value": "51.9"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "6"
+                                            }
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "24"
+                                            }
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "30"
+                                        }
+                                    }, 
+                                    "sub_title": "United States"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": {
+                    "analysis_list": {
+                        "analysis": {
+                            "group_id_list": {
+                                "group_id": [
+                                    "O1", 
+                                    "O2"
+                                ]
+                            }, 
+                            "method": "Wilcoxon (Mann-Whitney)", 
+                            "non_inferiority": "Yes", 
+                            "non_inferiority_desc": "The primary hypothesis of the study evaluated whether CM was not inferior to Control in the generation of KT width from baseline to 6 months. A paired t-test was used to test for non-inferiority, using a one-sided significance level of 0.05 and a non-inferiority margin of 1.0 mm.", 
+                            "p_value": "0.05"
+                        }
+                    }, 
+                    "description": "Change in Keratinized Tissue width", 
+                    "group_list": {
+                        "group": [
+                            {
+                                "@group_id": "O1", 
+                                "description": "free gingival graft over an apically positioned flap used to generate keratinized tissue", 
+                                "title": "Free Gingival Graft"
+                            }, 
+                            {
+                                "@group_id": "O2", 
+                                "description": "xenogeneic collagen matrix over an apically positioned flap to generate keratinized tissue", 
+                                "title": "Xenogeneic Collagen Matrix"
+                            }
+                        ]
+                    }, 
+                    "measure_list": {
+                        "measure": [
+                            {
+                                "category_list": {
+                                    "category": {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "O1", 
+                                                    "@value": "30"
+                                                }, 
+                                                {
+                                                    "@group_id": "O2", 
+                                                    "@value": "30"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }, 
+                                "param": "Number", 
+                                "title": "Number of Participants", 
+                                "units": "participants"
+                            }, 
+                            {
+                                "category_list": {
+                                    "category": {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "O1", 
+                                                    "@spread": "0.64", 
+                                                    "@value": "4.42"
+                                                }, 
+                                                {
+                                                    "@group_id": "O2", 
+                                                    "@spread": "0.88", 
+                                                    "@value": "2.92"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }, 
+                                "description": "Change in Keratinized Tissue width", 
+                                "dispersion": "Standard Deviation", 
+                                "param": "Mean", 
+                                "title": "Keratinized Tissue Width", 
+                                "units": "mm"
+                            }
+                        ]
+                    }, 
+                    "population": "Sample size was determined using 80% power fans assuming a paired t-test of non-inferiority with a non-inferiority margin of 1.0 mm, a within-subject standard deviation of 1.0 mm, and a one-sided alpha of 0.05, resulting in a sample size of 27. To account for potential loss-to-follow-up, 30 subjects were enrolled in the trial.", 
+                    "safety_issue": "No", 
+                    "time_frame": "6 months", 
+                    "title": "Keratinized Tissue Width", 
+                    "type": "Primary"
+                }
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "P1", 
+                        "description": "xenogeneic collagen matrix versus free gingival graft", 
+                        "title": "XCM Versus FGG"
+                    }
+                }, 
+                "period_list": {
+                    "period": {
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "#text": "We designed and implemented a single-blind, randomized, controlled, split-mouth study of 30 subjects", 
+                                            "@count": "30", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "30", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "0", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "recruitment_details": "Our study sample was derived from the population of patients who presented at our practice between 11-3-2010 and 3-16-2011 and met predetermined selection criteria"
+            }, 
+            "point_of_contact": {
+                "email": "mkmperio@swbell.net", 
+                "name_or_title": "Dr. Michael K. McGuire", 
+                "organization": "Perio Health Professionals, PLLC", 
+                "phone": "713-783-5442"
+            }
+        }, 
+        "completion_date": {
+            "#text": "January 2012", 
+            "@type": "Actual"
+        }, 
+        "condition": "Gingival Diseases", 
+        "condition_browse": {
+            "mesh_term": "Gingival Diseases"
+        }, 
+        "detailed_description": {
+            "textblock": "A single-blind, randomized, controlled, split-mouth study of 30 subjects with insufficient\n      zones of KT (< 2mm). The study utilized a within subject treatment comparison design to\n      establish non-inferiority of the test (CM) versus control (FGG) therapy. The primary\n      efficacy endpoint was KT width at 6-months. Secondary endpoints included traditional\n      periodontal measures, such as clinical attachment, recession and bleeding on probing.\n      Patient reported pain, discomfort and esthetic satisfaction were also recorded. Biopsies\n      were obtained at 6-months."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  At least two non-adjacent teeth in contralateral quadrants of the same jaw with < 2mm\n             of KT that requires soft tissue grafting (1-4 teeth may be treated).  In case of\n             adjacent teeth requiring grafting, only one tooth at each site will act as test or\n             control tooth, but all teeth will get the same treatment).  The number of teeth\n             treated must be the same on the test and control sites.\n\n               -  Root coverage is not desired at the time of grafting.\n\n               -  Females of childbearing potential must have a documented negative urine\n                  pregnancy test.\n\n               -  Read, understood and signed an institutional review board (IRB) approved\n                  Informed Consent Form (ICF).\n\n               -  Able and willing to follow study procedures and instructions.\n\n               -  Multi-rooted teeth may be treated but will not be included as study teeth\n\n        Exclusion Criteria:\n\n          -  Vestibule depth of less than 7mm from base of recession, and/or teeth with Miller\n             Grade 2 or higher mobility.\n\n               -  Any systemic conditions (i.e., diabetes mellitus, cancer, HIV, bone metabolic\n                  diseases) that could compromise wound healing and/ or preclude periodontal\n                  surgery; or who are currently receiving or have received within two months prior\n                  to study entry, systemic corticosteroids, immunosuppressive agents, radiation\n                  therapy, and/or chemotherapy which could compromise wound healing and preclude\n                  periodontal surgery.\n\n               -  Presence of acute infectious lesions in the areas intended for surgery.\n\n               -  History of any tobacco use within the last six months.\n\n               -  Taking intramuscular or intravenous bisphosphonates.\n\n               -  Known hypersensitivity to collagen products, and/or allergy to iodine or\n                  shellfish.\n\n               -  Participating in other clinical studies involving therapeutic intervention\n                  (either medical or dental).\n\n               -  Previously undergone a gingival grafting procedure on the test or control teeth\n                  or the teeth adjacent to the study site.\n\n               -  Female subjects who are pregnant or lactating, or who intend to become pregnant\n                  during the study duration following entrance into the study.\n\n               -  Subjects, who in the opinion of the investigator, for any reason other than\n                  those listed above, will not be able to complete the study per protocol."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "70 Years", 
+            "minimum_age": "8 Years"
+        }, 
+        "enrollment": {
+            "#text": "30", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "September 24, 2013", 
+        "firstreceived_results_date": "January 28, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01952301", 
+            "org_study_id": "13562-007"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "xenogeneic collagen matrix", 
+                "description": "A type I and III porcine collagen matrix, as cleared by FDA (K012423)", 
+                "intervention_name": "Xenogeneic Collagen Matrix", 
+                "intervention_type": "Device"
+            }, 
+            {
+                "arm_group_label": "Free Gingival Graft", 
+                "description": "Autogenous, full-thickness soft tissue graft harvested from patient's palate.", 
+                "intervention_name": "Free Gingival Graft", 
+                "intervention_type": "Device", 
+                "other_name": "Free Autogenous Graft"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": "Autologous; Collagen Matrix; Keratinized Tissue", 
+        "lastchanged_date": "May 15, 2014", 
+        "number_of_arms": "2", 
+        "official_title": "A Randomized, Controlled Clinical Trial to Evaluate a Xenogeneic Collagen Matrix as an Alternative to Free Gingival Grafting for Oral Soft Tissue Augmentation", 
+        "overall_official": {
+            "affiliation": "Perio Health Professionals", 
+            "last_name": "Michael K McGuire, DDS", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "October 2011", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Change in Keratinized Tissue width", 
+            "measure": "Keratinized Tissue Width", 
+            "safety_issue": "No", 
+            "time_frame": "6 months"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01952301"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Perio Health Professionals, PLLC", 
+            "investigator_full_name": "Michael K McGuire", 
+            "investigator_title": "Michael K McGuire DDS", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "source": "Perio Health Professionals, PLLC", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Perio Health Professionals, PLLC", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "November 2010", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Single Blind (Outcomes Assessor), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2014"
+    }
+}

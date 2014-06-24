@@ -1,0 +1,177 @@
+{
+    "clinical_study": {
+        "@rank": "67020", 
+        "arm_group": [
+            {
+                "arm_group_label": "CDS", 
+                "arm_group_type": "Active Comparator", 
+                "description": "The CDS tool will be activated when a BP is entered in the vital sign section of the EHR during any visit to a family practice or pediatric clinic (including both preventive care and sick visits, excluding prenatal and postpartum visits). The algorithm will be embedded in the EHR. In most cases, when a normal BP <90% and <120/80 mm Hg is entered, no alerts will be triggered. In some cases, clinical staff may receive up to two alerts, either to measure height or to repeat a first elevated BP reading. In cases with confirmed elevated BP measures, providers will receive a single CDS message summarizing that patient's current BP status and recommending specific clinical actions."
+            }, 
+            {
+                "arm_group_label": "Control", 
+                "arm_group_type": "No Intervention"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The goal of this project is to improve detection and management of elevated blood pressure\n      in adolescents. It (a) uses electronic health record (EHR) technology to deliver\n      patient-specific clinical decision support (CDS) to providers at the point of care, (b)\n      assesses the impact of this intervention on identification and clinical care of hypertension\n      in adolescents, and (c) assesses the impact of the intervention on costs of care."
+        }, 
+        "brief_title": "EHR-Based Clinical Decision Support to Improve BP Management in Adolescents", 
+        "completion_date": {
+            "#text": "August 2017", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Hypertension", 
+            "Pre Hypertension", 
+            "Obesity"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Hypertension", 
+                "Obesity", 
+                "Prehypertension"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Hypertension (HT) during adolescence tracks into adulthood, contributing to adult\n      cardiovascular morbidity and mortality. National guidelines for the diagnosis and treatment\n      of hypertension in children and adolescents were developed by the National High Blood\n      Pressure Education Program (NHBPEP); their Fourth Report was published in 2004. Despite\n      heightened awareness of hypertension in pediatric populations, most adolescents with\n      elevated blood pressure remain clinically unrecognized. Factors that contribute to this gap\n      in care include: the need to translate adolescent blood pressure (BP) measures into BP\n      percentiles on the basis of age, gender, and height, lack of familiarity with NHBPEP\n      clinical guidelines, and competing demands at clinical encounters.\n\n      Electronic health record (EHR)-based clinical decision support (CDS) can be used to address\n      these barriers and support better care of elevated BP and HT in adolescents. In this\n      project, the investigators integrate EHR-extracted data with sophisticated Web-based CDS\n      algorithms to provide patient-specific point-of-care clinical recommendations, in accordance\n      with NHBPEP guidelines. To evaluate the impact of this innovation on quality and cost of\n      care, the investigators randomize 18 clinics with their 130 pediatric care providers (PCP)\n      and their estimated 17,000 adolescent patients to receive or not receive this EHR-based CDS\n      intervention.  The investigators hypothesize that the intervention will improve recognition\n      and early management of elevated BP and that short-term increases in outpatient care costs\n      will be offset by longer-term clinical benefits, estimated using established econometric\n      models.\n\n      This innovative project (a) addresses the under-recognized high-risk patient population of\n      adolescents, (b) integrates EHR and Web-based CDS technology to provide sophisticated\n      patient-specific point-of-care CDS, (c) develops and implements novel and intuitive visual\n      interfaces to communicate CDS recommendations to PCPs, and (d) provides both clinical and\n      cost outcome data useful to clinicians and policymakers. If the EHR-based CDS intervention\n      improves adherence to NHBPEP recommendations, it will provide a much-needed tool to combat\n      the burgeoning problem of rising cardiovascular risk factors in children and adolescents.\n      Further, regardless of outcome, the technology that is developed and tested will provide\n      many useful insights to advance the science of EHR-based CDS. This will, in turn, help\n      translate the massive public and private investments in EHR technology into improved\n      adolescent health outcomes."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Adolescents age 12-19\n\n          -  Pediatric and Family Medicine Providers\n\n        Exclusion Criteria:\n\n          -  Pregnant adolescents\n\n          -  Within 12 weeks post partum"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "19 Years", 
+            "minimum_age": "12 Years"
+        }, 
+        "enrollment": {
+            "#text": "130", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "January 2, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01760239", 
+            "org_study_id": "11-090", 
+            "secondary_id": "R01HL115082"
+        }, 
+        "intervention": {
+            "arm_group_label": "CDS", 
+            "description": "The CDS tool will be activated when a BP is entered in the vital sign section of the EHR. The CDS tool includes six key features: (i) prompts regarding the need for height data to classify the BP by percentile (ii) prompts to repeat any BP that is \u226590% or \u2265120/80 mm Hg (iii) classification of BPs by percentile, including classification of those in pre-HT, stage 1 HT and stage 2 HT range (iv) review of previous HT diagnoses and BPs in order to classify elevated BPs as incident (first or second elevated BP) or persistent (third or greater elevated BP) (v) tailored CDS based on HT category and previous diagnoses (vi) graphical representation of current and historical BP data by age and BP percentile.", 
+            "intervention_name": "CDS", 
+            "intervention_type": "Behavioral"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Adolescent Hypertension", 
+            "Adolescent Pre Hypertension", 
+            "Adolescent Pre Hypertension and Obesity"
+        ], 
+        "lastchanged_date": "October 11, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Minneapolis", 
+                    "country": "United States", 
+                    "state": "Minnesota", 
+                    "zip": "55440"
+                }, 
+                "name": "HealthPartners Medical Group"
+            }, 
+            "investigator": {
+                "last_name": "Elyse O Kharbanda, MD", 
+                "role": "Principal Investigator"
+            }, 
+            "status": "Not yet recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "EHR-Based Clinical Decision Support to Improve BP Management in Adolescents", 
+        "overall_contact": {
+            "email": "elyse.o.kharbanda@healthpartners.com", 
+            "last_name": "Elyse O Kharbanda, MD", 
+            "phone": "952-967-5038"
+        }, 
+        "overall_contact_backup": {
+            "email": "heidi.l.ekstrom@healthpartners.com", 
+            "last_name": "Heidi L Ekstrom, MA", 
+            "phone": "952-967-7602"
+        }, 
+        "overall_official": {
+            "affiliation": "HealthPartners Institute for Education and Research", 
+            "last_name": "Elyse O Kharbanda, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Not yet recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "January 2016", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "EHR-based CDS will prompt providers to repeat incident elevated BPs at intervals, consistent with NHBPEP guidelines. Specifically, providers will be alerted as follows: (1) any BP >=99% +5 mm Hg (stage 2 HT) requires immediate evaluation (2) First or second BPs >=95% but <99% + 5 mm Hg (stage 1 HT) should be repeated within 1 or 2 weeks, and (3) Any BP >=90% or \u2265120/80 mm Hg but <95% (pre-HT) should be repeated within 6 months. While follow-up of pre-HT BPs is clinically important, the long time interval between measurements makes this an impractical study outcome. Therefore, for Hypothesis 1, we measure the proportion of new (first or second) BPs >=95% (stage 1 or stage 2 HT) that are repeated within 30 days.", 
+                "measure": "Follow up of an elevated blood pressure within recommended interval", 
+                "safety_issue": "No", 
+                "time_frame": "1 month"
+            }, 
+            {
+                "description": "The CDS utilizes current and previous BP measurements to alert providers when patients meet definitions for stage 1 HT (three or more BPs >=95% but <99% + 5 mm Hg) and when patients have any BP at the level of stage 2 HT (>=99% + 5 mm Hg). For Hypothesis 2, we will conduct chart reviews for all patients meeting case definitions for stage 1 HT and/or any BP at the level of stage 2 HT and evaluate whether these events were clinically recognized. To compare with previous reports, we define clinical recognition as any of the following within 6 months of the index visit (when the alert was triggered): 1) adding diagnosis of HT (ICD-9 codes 401.x, 405.x) and/or elevated BP (796.2) to the problem list or as a diagnosis code for the visit, 2) initiating a workup for target organ damage and/or secondary causes of HT, (as specified in the NHBPEP Fourth Report), 3) initiating anti-hypertensive medication, or 4) documenting \"elevated BP\" or \"HT\" in the assessment portion of the clinical note.", 
+                "measure": "Recognition of HT", 
+                "safety_issue": "No", 
+                "time_frame": "6 months"
+            }, 
+            {
+                "description": "Clinical work-up of adolescents with HT serves two important purposes, (1) identifies youth with secondary causes of HT, (2) assesses target organ damage and (3) assesses other cardiovascular risk factors. NHBPEP guidelines regarding recommended laboratory and imaging studies for children and adolescents with newly diagnosed HT were developed largely on the basis of expert consensus. Many laboratory and imaging studies are to be considered but not routinely recommended. For our purposes, any lipid or glucose measured within 6 months of a BP >=99% +5 mm Hg or his/her third BP >=95%, will be coded as an appropriate workup.", 
+                "measure": "Appropriate workup for those with HT", 
+                "safety_issue": "No", 
+                "time_frame": "6 months"
+            }, 
+            {
+                "description": "NHBPEP guidelines recommend exercise and nutritional counseling for adolescents who are overweight or obese and have persistent pre-HT or HT. The CDS will specifically alert the PCP to recommend exercise and dietary changes or referral to a nutrition health educator for patients with a BMI \u226585% and two or more BP \u226590% or \u2265120/80 mm Hg. To assess provision of lifestyle referral, we will conduct chart reviews for all patients meeting criteria for new-onset HT who are overweight or obese and a subset of patients with persistent pre-HT. For patients with HT, we will review notes for all visits to pediatrics or family practice within 6 months of meeting clinical criteria for HT.  For patients with persistent pre-HT, we will review notes from pediatric or family practice visits up to 6 months following their second BP \u226590% or \u2265120/80 mm Hg.", 
+                "measure": "Appropriate Lifestyle Referral", 
+                "safety_issue": "No", 
+                "time_frame": "6 months"
+            }, 
+            {
+                "description": "Total costs include (a) costs of developing and implementing the CDS intervention on the basis of quantification of research staff and clinical staff efforts to develop and implement the intervention, and (b) the costs of medical services attributable to the CDS (captured from insurance claims data). The CDS may induce additional follow-up visits, prescription drugs, and laboratory and radiology services related to diagnostic workup. In measuring costs of care related to the CDS, we will include outpatient services and prescription drug use, occurring within 12 months of the index elevated BP, which would be consistent with NHBPEP Fourth Report recommendations for evaluation of an adolescent with pre-HT or HT. This will allow most relevant costs to be reflected in the difference between the CDS intervention group and the non-intervention group while reducing the possibility that a meaningful difference in costs will fail to be detected due to person-level variation in unrelated costs.", 
+                "measure": "Costs of Care", 
+                "safety_issue": "No", 
+                "time_frame": "6 months"
+            }
+        ], 
+        "reference": {
+            "PMID": "15286277", 
+            "citation": "National High Blood Pressure Education Program Working Group on High Blood Pressure in Children and Adolescents. The fourth report on the diagnosis, evaluation, and treatment of high blood pressure in children and adolescents. Pediatrics. 2004 Aug;114(2 Suppl 4th Report):555-76. No abstract available."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01760239"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "HealthPartners Institute for Education and Research", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Heart, Lung, and Blood Institute (NHLBI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "HealthPartners Institute for Education and Research", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2014", 
+        "study_design": "Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "October 2013"
+    }
+}

@@ -1,0 +1,180 @@
+{
+    "clinical_study": {
+        "@rank": "164789", 
+        "acronym": "UMP", 
+        "arm_group": [
+            {
+                "arm_group_label": "CEA Cohort", 
+                "description": "Subjects with atherosclerotic stenosis of the carotid artery and are scheduled for a clinically indicated Carotid Endarterectomy (CEA) procedure to remove the atherosclerotic plaque. Prior to CEA procedure, a research ultrasound exam will be performed. The plaque tissue removed during the CEA will be collected and processed into histological slides."
+            }, 
+            {
+                "arm_group_label": "Normal Cohort", 
+                "description": "Subjects who are not scheduled for a Carotid Endarterectomy (CEA) procedure and have had no prior carotid artery interventions. Subjects will have a Research Ultrasound Exam performed."
+            }
+        ], 
+        "biospec_descr": {
+            "textblock": "Carotid plaque removed during Carotid Endarterectomy (CEA) for subjects in the CEA Cohort\n      will be collected and processed for production of histology slides."
+        }, 
+        "biospec_retention": "Samples Without DNA", 
+        "brief_summary": {
+            "textblock": "Pilot prospective two cohort observational study to create a model of the carotid plaque\n      composition based on ultrasonic backscattered signals and select clinical data."
+        }, 
+        "brief_title": "Pilot Study of Ultrasonic Determined Carotid Plaque Composition", 
+        "completion_date": {
+            "#text": "December 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Atherosclerosis", 
+        "condition_browse": {
+            "mesh_term": "Atherosclerosis"
+        }, 
+        "detailed_description": {
+            "textblock": "Stroke is a major cause of morbidity and mortality among patients with cardiovascular\n      disease and the major cause of long-term disability in the United States. Current imaging\n      modalities can determine the severity of luminal stenosis resulting from plaque, as in the\n      carotid arteries. However, cerebrovascular accidents (CVAs) are often associated with the\n      rupture of unstable plaques located in regions with a non-significant degree of luminal\n      stenosis. Thus up to 50% of high-risk atherosclerotic plaques may go undetected and\n      untreated. Plaque composition is an additional and perhaps, more important risk factor for\n      CVA rather than stenosis severity alone. Accurate identification of these high-risk,\n      rupture-prone plaques may potentially prevent CVAs in a significant number of patients.\n\n      The data collected during this study (ultrasonic backscatter and histologically processed\n      carotid plaque) will provide the basis for a novel algorithm to add plaque composition\n      information to the plaque size and location information that is currently provided by\n      standard ultrasound imaging. The input parameters for the algorithm are derived from two\n      types of non-invasive ultrasound data: quantitative ultrasound (QUS) and acoustic radiation\n      force impulse (ARFI) imaging data. QUS analyzes the frequency content of the backscattered\n      diagnostic ultrasound signals. These are the same signals currently used for imaging,\n      however, imaging relies solely on the strength of the signal to form the image and ignores\n      the spectral information. Thus QUS is an approach to use the spectral information which is\n      sensitive to the number and nature of the scatterers. In contrast ARFI techniques are\n      provide information on the stiffness and shear modulus of the tissue. Two ARFI techniques\n      will be used to gather information on the carotid plaque and related tissue. ARFI is based\n      on using a ultrasonic push pulse to slightly move the tissue (displacement on the order of\n      microns). From this initial start two types of ARFI data are collected: image of the\n      relative displacements of the tissue (ARFI image) and the measurement of the speed of the\n      shear wave created by the tissue displacement (shear wave speed).\n\n      The ARFI derived data and the QUS derived data will be combined with clinically available\n      measures currently used for diagnosis of carotid stenosis to form the input parameters for\n      the algorithm. In order to train and test the algorithm the plaque removed during CEA\n      procedure will be collected and the histology slides prepared from these plaques will be\n      analyzed for the same regions where ARFI and QUS data were collected. This histology review\n      provides the 'gold' standard for training and testing the algorithm. The majority of these\n      matched sets (75%) will be used for training the algorithm.  While the remainder (25%) will\n      provide a test of the accuracy of the algorithm for these types of matched data. The\n      sensitivity and specificity for each tissue type defined during the histology review will be\n      reported."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "CEA Cohort:\n\n        Inclusion Criteria:\n\n          -  Age \u226540years\n\n          -  Scheduled to undergo CEA for clinically significant carotid stenosis\n\n          -  All subjects are required to have had a duplex ultrasound exam prior to CEA.\n\n          -  CEA is being performed for carotid stenosis of one or more of the following vessels:\n             Internal Carotid Artery (ICA), distal end of the Common Carotid Artery (CCA), and/or\n             CCA bulb.\n\n        Exclusion Criteria:\n\n          -  Pregnancy\n\n          -  Prior surgery or intervention involving the carotid artery\n\n          -  Prior stent in the carotid artery\n\n          -  Unable to provide informed consent\n\n          -  CEA for carotid stenosis for proximal CCA only (ICA and distal CCA are not involved)\n\n          -  CEA is scheduled for non-atherosclerotic vascular disease (e.g.,. fibromuscular\n             dysplasia or systemic vasculitis)\n\n          -  Unable to understand English language.\n\n        Normal Cohort:\n\n        Inclusion Criteria\n\n          -  Age \u226540years\n\n        Exclusion Criteria\n\n          -  Pregnancy\n\n          -  Prior surgery or intervention involving the carotid artery (including CEA)\n\n          -  Prior stent in the carotid artery\n\n          -  Unable to provide informed consent\n\n          -  Unable to understand English language."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "40 Years", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "People 40 years old or older who are scheduled for a CEA for atherosclerotic plaque\n        removal within the carotid artery will be considered for enrollement in the CEA Cohort\n        (anticipated enrollment of 50). A small number of people 40 years old or older with no CEA\n        scheduled and no prior carotid intervention will be enrolled into the Normal Cohort\n        (anticipated enrollment of 5)."
+            }
+        }, 
+        "enrollment": {
+            "#text": "55", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "June 13, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01879397", 
+            "org_study_id": "12-797"
+        }, 
+        "intervention": {
+            "arm_group_label": [
+                "CEA Cohort", 
+                "Normal Cohort"
+            ], 
+            "description": "Collection of backscattered ultrasound data during non-invasive ultrasound exam\nARFI based images of the carotid artery and plaque\nUltrasound signals received by the ultrasound imaging system are recorded. These signals are discarded during the image formation process for a standard duplex ultrasound exam.", 
+            "intervention_name": "Research Ultrasound Exam", 
+            "intervention_type": "Device"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "atherosclerosis", 
+            "arteriosclerosis", 
+            "carotid stenosis", 
+            "carotid endarterectomy", 
+            "Stroke"
+        ], 
+        "lastchanged_date": "June 13, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Cleveland", 
+                    "country": "United States", 
+                    "state": "Ohio", 
+                    "zip": "44195"
+                }, 
+                "name": "Cleveland Clinic"
+            }, 
+            "investigator": [
+                {
+                    "last_name": "D. Geoffrey Vince, PhD", 
+                    "role": "Principal Investigator"
+                }, 
+                {
+                    "last_name": "Heather L. Gornik, MD", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Balaji Tamarappoo, MD, PhD", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Russell Fedewa, PhD", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Daniel Clair, MD", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Timur Sarac, MD", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Alia Grattan", 
+                    "role": "Sub-Investigator"
+                }
+            ], 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_groups": "2", 
+        "official_title": "Ultrasonic Mapping of Carotid Plaque Composition", 
+        "overall_contact": {
+            "email": "fedewar@ccf.org", 
+            "last_name": "Russell Fedewa, PhD", 
+            "phone": "2164453243"
+        }, 
+        "overall_contact_backup": {
+            "email": "vinceg@ccf.org", 
+            "last_name": "D. Geoffrey Vince, PhD", 
+            "phone": "2164456980"
+        }, 
+        "overall_official": {
+            "affiliation": "The Cleveland Clinic", 
+            "last_name": "D. Geoffrey Vince, PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "December 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Classification of carotid artery plaque is produced by an algorithm that uses the QUS and ARFI derived parameters corresponding to a given region in the plaque to produce a classification of the plaque region into one of the following: calcium, fibrous, necrotic, or hemorrhagic. Error rates from both the training and test data sets will be reported.", 
+            "measure": "Classification Algorithm Error Rate", 
+            "safety_issue": "No", 
+            "time_frame": "Baseline"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01879397"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Cleveland Clinic Foundation", 
+            "investigator_full_name": "D. Geoffrey Vince", 
+            "investigator_title": "Department Chair", 
+            "responsible_party_type": "Sponsor-Investigator"
+        }, 
+        "source": "The Cleveland Clinic", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Siemens Medical Solutions", 
+                "agency_class": "Industry"
+            }, 
+            "lead_sponsor": {
+                "agency": "D. Geoffrey Vince", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "May 2013", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "June 2013"
+    }
+}

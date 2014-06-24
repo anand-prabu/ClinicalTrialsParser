@@ -1,0 +1,2772 @@
+{
+    "clinical_study": {
+        "@rank": "153025", 
+        "arm_group": [
+            {
+                "arm_group_label": "Fluticasone propionate nasal spray", 
+                "arm_group_type": "Experimental", 
+                "description": "Fluticasone propionate nasal spray with strength per dose of 50 mcg/spray. Two sprays of study treatment per nostril to be administered in morning."
+            }, 
+            {
+                "arm_group_label": "Placebo nasal spray", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Two sprays of placebo per nostril to be administered in morning."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This study is designed to investigate the efficacy of fluticasone propionate (FP) on ocular\n      symptoms associated with allergic rhinitis (AR)."
+        }, 
+        "brief_title": "Assessment of Fluticasone Propionate on Ocular Allergy Symptoms", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "Two sprays of Fluticasone propionate nasal spray (50 mcg/spray) per nostril to be administered in morning (Total dose 200 mcg).", 
+                            "title": "Fluticasone Propionate Nasal Spray"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "Two sprays of placebo per nostril to be administered in morning.", 
+                            "title": "Placebo Nasal Spray"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "314"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "312"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "626"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@spread": "14.55", 
+                                                "@value": "40.4"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@spread": "16.36", 
+                                                "@value": "40.5"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@spread": "15.47", 
+                                                "@value": "40.5"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "Years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "212"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "201"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "413"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "102"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "111"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "213"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "Participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "GSK agreements may vary with individual investigators, but will not prohibit any investigator from publishing. GSK supports the publication of results from all centers of a multi-center trial but requests that reports based on single-site data not precede the primary publication of the entire clinical trial."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "-0.59", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "-0.13", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Null hypothesis was that no difference exists in the mean change from baseline in Daily rTOSS between the Fluticasone nasal spray and the placebo nasal spray.", 
+                                "method": "ANCOVA", 
+                                "method_desc": "Linear Fixed-effect Model; Treatment and site as fixed factors and baseline score as covariate.", 
+                                "non_inferiority": "No", 
+                                "p_value": "0.0024", 
+                                "p_value_desc": "p-value was not adjusted for multiple comparisons.", 
+                                "param_type": "Least Square Mean Difference", 
+                                "param_value": "-0.36"
+                            }
+                        }, 
+                        "description": "The Reflective Total Ocular Symptom Score (rTOSS) is the sum of 3 individual participant-assessed symptom scores (eye itching/burning, eye tearing/watering, and eye redness), each evaluated using a scale of 0=None, 1=Mild, 2=Moderate, or 3=Severe, for a possible score of 0-9. Subjects completed rTOSS in the evening (PM rTOSS; 12 hours post morning nasal spray use) and once in the morning (AM score: prior to nasal spray use). Daily (i.e. during one dosing interval) rTOSS is defined as the average of the PM rTOSS and the AM rTOSS of the next day prior to AM dosing. The mean change from baseline in (daily, AM, PM) TOSS was calculated as the subject\u2019s treatment period mean (over 14 days; from Day 0 PM to Day 14 AM) minus the baseline period (placebo run-in) mean.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Fluticasone propionate nasal spray with strength per dose of 50 mcg/spray. Two sprays of study treatment per nostril to be administered in morning.", 
+                                    "title": "Fluticasone Propionate Nasal Spray"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Two sprays of placebo per nostril to be administered in morning.", 
+                                    "title": "Placebo Nasal Spray"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "314"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "312"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "1.625", 
+                                                        "@value": "-0.91"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "1.525", 
+                                                        "@value": "-0.63"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "The Reflective Total Ocular Symptom Score (rTOSS) is the sum of 3 individual participant-assessed symptom scores (eye itching/burning, eye tearing/watering, and eye redness), each evaluated using a scale of 0=None, 1=Mild, 2=Moderate, or 3=Severe, for a possible score of 0-9. Subjects completed rTOSS in the evening (PM rTOSS; 12 hours post morning nasal spray use) and once in the morning (AM score: prior to nasal spray use). Daily (i.e. during one dosing interval) rTOSS is defined as the average of the PM rTOSS and the AM rTOSS of the next day prior to AM dosing. The mean change from baseline in (daily, AM, PM) TOSS was calculated as the subject\u2019s treatment period mean (over 14 days; from Day 0 PM to Day 14 AM) minus the baseline period (placebo run-in) mean.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Mean Change From Baseline in Reflective Total Ocular Symptom Score (rTOSS)", 
+                                    "units": "Score on a scale"
+                                }
+                            ]
+                        }, 
+                        "population": "All subjects who were randomized into the study and received at least one dose of study product were included in the intent-to-treat (ITT) population. This analysis was conducted on ITT population.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Baseline to 14 days", 
+                        "title": "Mean Change From Baseline in Reflective Total Ocular Symptom Score (rTOSS)", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "-0.56", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "-0.10", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Null hypothesis was that no difference exists in the mean change from baseline in AM rTOSS between the Fluticasone nasal spray and the placebo nasal spray.", 
+                                "method": "ANCOVA", 
+                                "method_desc": "Linear Fixed-effect Model; Treatment and site as fixed factors and baseline score as covariate.", 
+                                "non_inferiority": "No", 
+                                "p_value": "0.0057", 
+                                "p_value_desc": "p-value was not adjusted for multiple comparisons.", 
+                                "param_type": "Least Square Mean Difference", 
+                                "param_value": "-0.33"
+                            }
+                        }, 
+                        "description": "rTOSS is the sum of 3 individual participant-assessed symptom scores (eye itching/ burning, eye tearing/watering, and eye redness), each evaluated using a scale of 0=None, 1=Mild, 2=Moderate, or 3=Severe, for a possible score of 0-9. For AM rToss, subjects completed rTOSS in the morning (AM score: prior to nasal spray use). The mean change from baseline in AM rTOSS was calculated as the subject's treatment period mean (over 14 days) minus the baseline period (placebo run-in) mean.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Two sprays of Fluticasone propionate nasal spray (50 mcg/spray) per nostril to be administered in morning (Total dose 200 mcg).", 
+                                    "title": "Fluticasone Propionate Nasal Spray"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Two sprays of placebo per nostril to be administered in morning.", 
+                                    "title": "Placebo Nasal Spray"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "314"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "312"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "1.627", 
+                                                        "@value": "-0.96"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "1.573", 
+                                                        "@value": "-0.68"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "rTOSS is the sum of 3 individual participant-assessed symptom scores (eye itching/ burning, eye tearing/watering, and eye redness), each evaluated using a scale of 0=None, 1=Mild, 2=Moderate, or 3=Severe, for a possible score of 0-9. For AM rToss, subjects completed rTOSS in the morning (AM score: prior to nasal spray use). The mean change from baseline in AM rTOSS was calculated as the subject's treatment period mean (over 14 days) minus the baseline period (placebo run-in) mean.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Mean Change From Baseline in AM rTOSS", 
+                                    "units": "Score on a scale"
+                                }
+                            ]
+                        }, 
+                        "population": "All subjects who were randomized into the study and received at least one dose of study product were included in the intent-to-treat (ITT) population. This analysis was conducted on ITT population.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Baseline to 14 days", 
+                        "title": "Mean Change From Baseline in AM rTOSS", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "-0.65", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "-0.17", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Null hypothesis was that no difference exists in the mean change from baseline in PM rTOSS between the Fluticasone nasal spray and the placebo nasal spray.", 
+                                "method": "ANCOVA", 
+                                "method_desc": "Linear Fixed-effect Model; Treatment and site as fixed factors and baseline score as covariate.", 
+                                "non_inferiority": "No", 
+                                "p_value": "0.0009", 
+                                "p_value_desc": "p-value was not adjusted for multiple comparisons.", 
+                                "param_type": "Least Square Mean Difference", 
+                                "param_value": "-0.41"
+                            }
+                        }, 
+                        "description": "rTOSS is the sum of 3 individual participant-assessed symptom scores (eye itching/ burning, eye tearing/watering, and eye redness), each evaluated using a scale of 0=None, 1=Mild, 2=Moderate, or 3=Severe, for a possible score of 0-9. For PM rTOSS, subjects completed rTOSS in the evening, 12 hours post morning nasal spray use. The mean change from baseline in PM rTOSS was calculated as the subject's treatment period mean (over 14 days) minus the baseline period (placebo run-in) mean.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Two sprays of Fluticasone propionate nasal spray (50 mcg/spray) per nostril to be administered in morning (Total dose 200 mcg).", 
+                                    "title": "Fluticasone Propionate Nasal Spray"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Two sprays of placebo per nostril to be administered in morning.", 
+                                    "title": "Placebo Nasal Spray"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "314"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "312"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "1.735", 
+                                                        "@value": "-0.87"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "1.577", 
+                                                        "@value": "-0.60"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "rTOSS is the sum of 3 individual participant-assessed symptom scores (eye itching/ burning, eye tearing/watering, and eye redness), each evaluated using a scale of 0=None, 1=Mild, 2=Moderate, or 3=Severe, for a possible score of 0-9. For PM rTOSS, subjects completed rTOSS in the evening, 12 hours post morning nasal spray use. The mean change from baseline in PM rTOSS was calculated as the subject's treatment period mean (over 14 days) minus the baseline period (placebo run-in) mean.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Mean Change From Baseline in PM rTOSS", 
+                                    "units": "Score on a scale"
+                                }
+                            ]
+                        }, 
+                        "population": "All subjects who were randomized into the study and received at least one dose of study product were included in the intent-to-treat (ITT) population. This analysis was conducted on ITT population.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Baseline to 14 days", 
+                        "title": "Mean Change From Baseline in PM rTOSS", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "-0.19", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "-0.02", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Null hypothesis was that no difference exists in the mean change from baseline in AM reflective symptom scores for Eye itching/burning between the Fluticasone nasal spray and the placebo nasal spray.", 
+                                "method": "ANCOVA", 
+                                "method_desc": "Linear Fixed-effect Model; Treatment and site as fixed factors and baseline score as covariate.", 
+                                "non_inferiority": "No", 
+                                "p_value": "0.0117", 
+                                "p_value_desc": "p-value was not adjusted for multiple comparisons.", 
+                                "param_type": "Least Square Mean Difference", 
+                                "param_value": "-0.10"
+                            }
+                        }, 
+                        "description": "The AM Reflective Ocular Symptom Score was assessed individually for eye itching/burning using a scale of 0=None, 1=Mild, 2=Moderate, or 3=Severe, for a possible score of 0-9. For evaluation, subjects completed the scoring in the morning, prior to nasal spray use. The mean change from baseline in AM Reflective Ocular Symptom Score (eye itching and burning) was calculated as the subject's treatment period mean (over 14 days) minus the baseline period (placebo run-in) mean.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Two sprays of Fluticasone propionate nasal spray (50 mcg/spray) per nostril to be administered in morning (Total dose 200 mcg).", 
+                                    "title": "Fluticasone Propionate Nasal Spray"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Two sprays of placebo per nostril to be administered in morning.", 
+                                    "title": "Placebo Nasal Spray"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "314"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "312"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "0.581", 
+                                                        "@value": "-0.35"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "0.553", 
+                                                        "@value": "-0.28"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "The AM Reflective Ocular Symptom Score was assessed individually for eye itching/burning using a scale of 0=None, 1=Mild, 2=Moderate, or 3=Severe, for a possible score of 0-9. For evaluation, subjects completed the scoring in the morning, prior to nasal spray use. The mean change from baseline in AM Reflective Ocular Symptom Score (eye itching and burning) was calculated as the subject's treatment period mean (over 14 days) minus the baseline period (placebo run-in) mean.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Mean Change From Baseline in Individual AM Reflective Ocular Symptom Scores for Eye Itching/Burning", 
+                                    "units": "Score on a scale"
+                                }
+                            ]
+                        }, 
+                        "population": "All subjects who were randomized into the study and received at least one dose of study product were included in the intent-to-treat (ITT) population. This analysis was conducted on ITT population.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Baseline to 14 days", 
+                        "title": "Mean Change From Baseline in Individual AM Reflective Ocular Symptom Scores for Eye Itching/Burning", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "-0.23", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "-0.06", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Null hypothesis was that no difference exists in the mean change from baseline in PM reflective symptom scores for Eye itching/burning between the Fluticasone nasal spray and the placebo nasal spray.", 
+                                "method": "ANCOVA", 
+                                "method_desc": "Linear Fixed-effect Model; Treatment and site as fixed factors and baseline score as covariate.", 
+                                "non_inferiority": "No", 
+                                "p_value": "0.0005", 
+                                "p_value_desc": "p-value was not adjusted for multiple comparisons.", 
+                                "param_type": "Least Square Mean Difference", 
+                                "param_value": "-0.15"
+                            }
+                        }, 
+                        "description": "The PM Reflective Ocular Symptom Score was assessed individually for eye itching/burning using a scale of 0=None, 1=Mild, 2=Moderate, or 3=Severe, for a possible score of 0-9. For evaluation, subjects completed the scoring in the evening, 12 hours post morning nasal spray use. The mean change from baseline in PM Reflective Ocular Symptom Score (eye itching and burning) was calculated as the subject's treatment period mean (over 14 days) minus the baseline period (placebo run-in) mean.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Two sprays of Fluticasone propionate nasal spray (50 mcg/spray) per nostril to be administered in morning (Total dose 200 mcg).", 
+                                    "title": "Fluticasone Propionate Nasal Spray"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Two sprays of placebo per nostril to be administered in morning", 
+                                    "title": "Placebo Nasal Spray"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "314"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "312"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "0.626", 
+                                                        "@value": "-0.33"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "0.554", 
+                                                        "@value": "-0.24"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "The PM Reflective Ocular Symptom Score was assessed individually for eye itching/burning using a scale of 0=None, 1=Mild, 2=Moderate, or 3=Severe, for a possible score of 0-9. For evaluation, subjects completed the scoring in the evening, 12 hours post morning nasal spray use. The mean change from baseline in PM Reflective Ocular Symptom Score (eye itching and burning) was calculated as the subject's treatment period mean (over 14 days) minus the baseline period (placebo run-in) mean.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Mean Change From Baseline in Individual PM Reflective Ocular Symptom Scores for Eye Itching/Burning", 
+                                    "units": "Score on a scale"
+                                }
+                            ]
+                        }, 
+                        "population": "All subjects who were randomized into the study and received at least one dose of study product were included in the intent-to-treat (ITT) population. This analysis was conducted on ITT population.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Baseline to 14 days", 
+                        "title": "Mean Change From Baseline in Individual PM Reflective Ocular Symptom Scores for Eye Itching/Burning", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "-0.22", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "-0.06", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Null hypothesis was that no difference exists in the mean change from baseline in AM reflective symptom scores for Eye Tearing/Watering between the Fluticasone nasal spray and the placebo nasal spray.", 
+                                "method": "ANCOVA", 
+                                "non_inferiority": "No", 
+                                "p_value": "0.0023", 
+                                "p_value_desc": "p-value was not adjusted for multiple comparisons.", 
+                                "param_type": "Least Square Mean Difference", 
+                                "param_value": "-0.13"
+                            }
+                        }, 
+                        "description": "The AM Reflective Ocular Symptom Score was assessed individually for eye tearing/watering using a scale of 0=None, 1=Mild, 2=Moderate, or 3=Severe, for a possible score of 0-9. For evaluation, subjects completed the scoring in the morning, prior to nasal spray use. The mean change from baseline in AM Reflective Ocular Symptom Score (eye tearing/watering) was calculated as the subject's treatment period mean (over 14 days) minus the baseline period (placebo run-in) mean.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Two sprays of Fluticasone propionate nasal spray (50 mcg/spray) per nostril to be administered in morning (Total dose 200 mcg).", 
+                                    "title": "Fluticasone Propionate Nasal Spray"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Two sprays of placebo per nostril to be administered in morning", 
+                                    "title": "Placebo Nasal Spray"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "314"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "312"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "0.596", 
+                                                        "@value": "-0.35"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "0.589", 
+                                                        "@value": "-0.24"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "The AM Reflective Ocular Symptom Score was assessed individually for eye tearing/watering using a scale of 0=None, 1=Mild, 2=Moderate, or 3=Severe, for a possible score of 0-9. For evaluation, subjects completed the scoring in the morning, prior to nasal spray use. The mean change from baseline in AM Reflective Ocular Symptom Score (eye tearing/watering) was calculated as the subject's treatment period mean (over 14 days) minus the baseline period (placebo run-in) mean.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Mean Change From Baseline in Individual AM Reflective Ocular Symptom Scores for Eye Tearing/Watering", 
+                                    "units": "Score on a scale"
+                                }
+                            ]
+                        }, 
+                        "population": "All subjects who were randomized into the study and received at least one dose of study product were included in the intent-to-treat (ITT) population. This analysis was conducted on ITT population.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Baseline to 14 days", 
+                        "title": "Mean Change From Baseline in Individual AM Reflective Ocular Symptom Scores for Eye Tearing/Watering", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "-0.26", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "-0.09", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Null hypothesis was that no difference exists in the mean change from baseline in PM reflective symptom scores for Eye Tearing/watering between the Fluticasone nasal spray and the placebo nasal spray.", 
+                                "method": "ANCOVA", 
+                                "method_desc": "Linear Fixed-effect Model; Treatment and site as fixed factors and baseline score as covariate.", 
+                                "non_inferiority": "No", 
+                                "p_value": "<0.0001", 
+                                "p_value_desc": "p-value was nor adjusted for multiple comparisons.", 
+                                "param_type": "Least Square Mean Difference", 
+                                "param_value": "-0.18"
+                            }
+                        }, 
+                        "description": "The PM Reflective Ocular Symptom Score was assessed individually for eye tearing/watering using a scale of 0=None, 1=Mild, 2=Moderate, or 3=Severe, for a possible score of 0-9. For evaluation, subjects completed the scoring in the evening, 12 hours post morning nasal spray use. The mean change from baseline in PM Reflective Ocular Symptom Score (eye tearing/watering) was calculated as the subject's treatment period mean (over 14 days) minus the baseline period (placebo run-in) mean.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Two sprays of Fluticasone propionate nasal spray (50 mcg/spray) per nostril to be administered in morning (Total dose 200 mcg).", 
+                                    "title": "Fluticasone Propionate Nasal Spray"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Two sprays of placebo per nostril to be administered in morning.", 
+                                    "title": "Placebo Nasal Spray"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "314"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "312"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "0.653", 
+                                                        "@value": "-0.32"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "0.586", 
+                                                        "@value": "-0.19"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "The PM Reflective Ocular Symptom Score was assessed individually for eye tearing/watering using a scale of 0=None, 1=Mild, 2=Moderate, or 3=Severe, for a possible score of 0-9. For evaluation, subjects completed the scoring in the evening, 12 hours post morning nasal spray use. The mean change from baseline in PM Reflective Ocular Symptom Score (eye tearing/watering) was calculated as the subject's treatment period mean (over 14 days) minus the baseline period (placebo run-in) mean.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Mean Change From Baseline in Individual PM Reflective Ocular Symptom Scores for Eye Tearing/Watering", 
+                                    "units": "Score on a scale"
+                                }
+                            ]
+                        }, 
+                        "population": "All subjects who were randomized into the study and received at least one dose of study product were included in the intent-to-treat (ITT) population. This analysis was conducted on ITT population.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Baseline to 14 days", 
+                        "title": "Mean Change From Baseline in Individual PM Reflective Ocular Symptom Scores for Eye Tearing/Watering", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "-0.18", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "-0.01", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Null hypothesis was that no difference exists in the mean change from baseline in AM reflective symptom scores for Eye Redness between the Fluticasone nasal spray and the placebo nasal spray.", 
+                                "method": "ANCOVA", 
+                                "method_desc": "Linear Fixed-effect Model; Treatment and site as fixed factors and baseline score as covariate.", 
+                                "non_inferiority": "No", 
+                                "p_value": "0.0304", 
+                                "p_value_desc": "p-value was not adjusted for multiple comparisons.", 
+                                "param_type": "Least Square Mean Difference", 
+                                "param_value": "-0.10"
+                            }
+                        }, 
+                        "description": "The AM Reflective Ocular Symptom Score was assessed individually for eye redness using a scale of 0=None, 1=Mild, 2=Moderate, or 3=Severe, for a possible score of 0-9. For evaluation, subjects completed the scoring in the morning, prior to nasal spray use. The mean change from baseline in AM Reflective Ocular Symptom Score (eye redness) was calculated as the subject's treatment period mean (over 14 days) minus the baseline period (placebo run-in) mean.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Two sprays of Fluticasone propionate nasal spray (50 mcg/spray) per nostril to be administered in morning (Total dose 200 mcg).", 
+                                    "title": "Fluticasone Propionate Nasal Spray"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Two sprays of placebo per nostril to be administered in morning.", 
+                                    "title": "Placebo Nasal Spray"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "314"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "312"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "0.597", 
+                                                        "@value": "-0.26"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "0.613", 
+                                                        "@value": "-0.17"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "The AM Reflective Ocular Symptom Score was assessed individually for eye redness using a scale of 0=None, 1=Mild, 2=Moderate, or 3=Severe, for a possible score of 0-9. For evaluation, subjects completed the scoring in the morning, prior to nasal spray use. The mean change from baseline in AM Reflective Ocular Symptom Score (eye redness) was calculated as the subject's treatment period mean (over 14 days) minus the baseline period (placebo run-in) mean.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Mean Change From Baseline in Individual AM Reflective Ocular Symptom Scores for Eye Redness", 
+                                    "units": "Score on a scale"
+                                }
+                            ]
+                        }, 
+                        "population": "All subjects who were randomized into the study and received at least one dose of study product were included in the intent-to-treat (ITT) population. This analysis was conducted on ITT population.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Baseline to 14 days", 
+                        "title": "Mean Change From Baseline in Individual AM Reflective Ocular Symptom Scores for Eye Redness", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "-0.19", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "-0.01", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Null hypothesis was that no difference exists in the mean change from baseline in PM reflective symptom scores for Eye Redness between the Fluticasone nasal spray and the placebo nasal spray.", 
+                                "method": "ANCOVA", 
+                                "method_desc": "Linear Fixed-effect Model; Treatment and site as fixed factors and baseline score as covariate.", 
+                                "non_inferiority": "No", 
+                                "p_value": "0.0361", 
+                                "p_value_desc": "p-value was not adjusted for multiple comparisons.", 
+                                "param_type": "Least Square Mean Difference", 
+                                "param_value": "-0.10"
+                            }
+                        }, 
+                        "description": "The PM Reflective Ocular Symptom Score was assessed individually for eye redness using a scale of 0=None, 1=Mild, 2=Moderate, or 3=Severe, for a possible score of 0-9. For evaluation, subjects completed the scoring in the evening, 12 hours post morning nasal spray use. The mean change from baseline in PM Reflective Ocular Symptom Score (eye redness) was calculated as the subject's treatment period mean (over 14 days) minus the baseline period (placebo run-in) mean.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Two sprays of Fluticasone propionate nasal spray (50 mcg/spray) per nostril to be administered in morning (Total dose 200 mcg).", 
+                                    "title": "Fluticasone Propionate Nasal Spray"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Two sprays of placebo per nostril to be administered in morning.", 
+                                    "title": "Placebo Nasal Spray"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "314"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "312"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "0.628", 
+                                                        "@value": "-0.22"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "0.635", 
+                                                        "@value": "-0.17"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "The PM Reflective Ocular Symptom Score was assessed individually for eye redness using a scale of 0=None, 1=Mild, 2=Moderate, or 3=Severe, for a possible score of 0-9. For evaluation, subjects completed the scoring in the evening, 12 hours post morning nasal spray use. The mean change from baseline in PM Reflective Ocular Symptom Score (eye redness) was calculated as the subject's treatment period mean (over 14 days) minus the baseline period (placebo run-in) mean.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Mean Change From Baseline in Individual PM Reflective Ocular Symptom Scores for Eye Redness", 
+                                    "units": "Score on a scale"
+                                }
+                            ]
+                        }, 
+                        "population": "All subjects who were randomized into the study and received at least one dose of study product were included in the intent-to-treat (ITT) population. This analysis was conducted on ITT population.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Baseline to 14 days", 
+                        "title": "Mean Change From Baseline in Individual PM Reflective Ocular Symptom Scores for Eye Redness", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "-0.50", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "-0.06", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Null hypothesis was that no difference exists in the mean change from baseline in AM iTOSS between the Fluticasone nasal spray and the placebo nasal spray.", 
+                                "method": "ANCOVA", 
+                                "method_desc": "Linear Fixed-effect Model; treatment and site as fixed factors and baseline score as covariate.", 
+                                "non_inferiority": "No", 
+                                "p_value": "0.0129", 
+                                "p_value_desc": "p-value was not adjusted for multiple comparisons.", 
+                                "param_type": "Least Square Mean Difference", 
+                                "param_value": "-0.28"
+                            }
+                        }, 
+                        "description": "Instantaneous total ocular symptom scores (iTOSS) assessments are self perceived evaluation of symptom severity immediately before the dose (how the subject feels at that point in time). iTOSS (possible score of 0-9) is the sum of 3 individual participant-assessed symptom scores for eye itching/burning, eye tearing/watering, and eye redness each evaluated using a scale of 0=None, 1=Mild, 2=Moderate, or 3=Severe. Mean changes from baseline were calculated as treatment period iTOSS minus baseline iTOSS.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Two sprays of Fluticasone propionate nasal spray (50 mcg/spray) per nostril to be administered in morning (Total dose 200 mcg).", 
+                                    "title": "Fluticasone Propionate Nasal Spray"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Two sprays of placebo per nostril to be administered in morning.", 
+                                    "title": "Placebo Nasal Spray"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "314"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "312"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "1.443", 
+                                                        "@value": "-0.80"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "1.531", 
+                                                        "@value": "-0.55"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Instantaneous total ocular symptom scores (iTOSS) assessments are self perceived evaluation of symptom severity immediately before the dose (how the subject feels at that point in time). iTOSS (possible score of 0-9) is the sum of 3 individual participant-assessed symptom scores for eye itching/burning, eye tearing/watering, and eye redness each evaluated using a scale of 0=None, 1=Mild, 2=Moderate, or 3=Severe. Mean changes from baseline were calculated as treatment period iTOSS minus baseline iTOSS.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Mean Change From Baseline in AM Pre-dose Instantaneous Total Ocular Symptom Scores (iTOSS)", 
+                                    "units": "Score on a scale"
+                                }
+                            ]
+                        }, 
+                        "population": "All subjects who were randomized into the study and received at least one dose of study product were included in the intent-to-treat (ITT) population. This analysis was conducted on ITT population.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Baseline to 14 days", 
+                        "title": "Mean Change From Baseline in AM Pre-dose Instantaneous Total Ocular Symptom Scores (iTOSS)", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "-0.22", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "-0.07", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Null hypothesis was that no difference exists in the mean change from baseline in rNCSS between the Fluticasone nasal spray and the placebo nasal spray.", 
+                                "method": "ANCOVA", 
+                                "method_desc": "Linear Fixed-effect Model; treatment and site as fixed factors and baseline score as covariate.", 
+                                "non_inferiority": "No", 
+                                "p_value": "0.0002", 
+                                "p_value_desc": "p-value was not adjusted for multiple comparisons.", 
+                                "param_type": "Least Square Mean Difference", 
+                                "param_value": "-0.14"
+                            }
+                        }, 
+                        "description": "The rNCSS is a participant perceived evaluation of overall congestion symptom severity (evaluated using a scale of 0=None, 1=Mild, 2=Moderate, or 3=Severe) which was completed once in the evening (PM), and once in the morning (AM). rNCSS is defined as the average of the PM rNCSS and the AM rNCSS of the next day prior to AM dosing. The mean change from baseline in  rNCSS (daily, AM, PM)was calculated as the subject's treatment period mean (over 14 days; from Day 0 PM to Day 14 AM) minus the baseline period (placebo run-in) mean.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Two sprays of Fluticasone propionate nasal spray (50 mcg/spray) per nostril to be administered in morning (Total dose 200 mcg).", 
+                                    "title": "Fluticasone Propionate Nasal Spray"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Two sprays of placebo per nostril to be administered in morning.", 
+                                    "title": "Placebo Nasal Spray"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "314"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "312"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "0.547", 
+                                                        "@value": "-0.34"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "0.443", 
+                                                        "@value": "-0.20"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "The rNCSS is a participant perceived evaluation of overall congestion symptom severity (evaluated using a scale of 0=None, 1=Mild, 2=Moderate, or 3=Severe) which was completed once in the evening (PM), and once in the morning (AM). rNCSS is defined as the average of the PM rNCSS and the AM rNCSS of the next day prior to AM dosing. The mean change from baseline in  rNCSS (daily, AM, PM)was calculated as the subject's treatment period mean (over 14 days; from Day 0 PM to Day 14 AM) minus the baseline period (placebo run-in) mean.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Mean Change From Baseline in Reflective Nasal Congestion Symptom Score (rNCSS)", 
+                                    "units": "Score on a scale"
+                                }
+                            ]
+                        }, 
+                        "population": "All subjects who were randomized into the study and received at least one dose of study product were included in the intent-to-treat (ITT) population. This analysis was conducted on ITT population.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Baseline to 14 days", 
+                        "title": "Mean Change From Baseline in Reflective Nasal Congestion Symptom Score (rNCSS)", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Null hypothesis was that no difference exists in the end of treatment assessment of response between the Fluticasone nasal spray and the placebo nasal spray.", 
+                                "method": "Cochran-Mantel-Haenszel", 
+                                "method_desc": "Using this test controlling for investigative site. The response variable lied on ordinal scale of measurement.", 
+                                "non_inferiority": "No", 
+                                "p_value": "0.0118", 
+                                "p_value_desc": "p-value was not adjusted for multiple comparisons."
+                            }
+                        }, 
+                        "description": "Overall response to therapy assessment was done using a 7-point categorical scale in which participants rated their response to therapy as follows: +3 = Significantly Improved; +2 = Moderately Improved; +1 = Mildly Improved;  0 = No Change; -1= Mildly Worse; -2 = Moderately Worse; -3 = Significantly Worse.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Two sprays of Fluticasone propionate nasal spray (50 mcg/spray) per nostril to be administered in morning (Total dose 200 mcg).", 
+                                    "title": "Fluticasone Propionate Nasal Spray"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Two sprays of placebo per nostril to be administered in morning.", 
+                                    "title": "Placebo Nasal Spray"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "313"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "309"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "22"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "16"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Significantly improved"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "76"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "59"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Moderately Improved"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "79"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "71"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Mildly Improved"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "81"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "97"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "No change"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "21"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "20"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Mildly Worse"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "24"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "24"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Moderatly Worse"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "10"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "22"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Significantly Worse"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "Overall response to therapy assessment was done using a 7-point categorical scale in which participants rated their response to therapy as follows: +3 = Significantly Improved; +2 = Moderately Improved; +1 = Mildly Improved;  0 = No Change; -1= Mildly Worse; -2 = Moderately Worse; -3 = Significantly Worse.", 
+                                    "param": "Number", 
+                                    "title": "End-of-treatment Assessment of Response to Therapy for Ocular Symptoms", 
+                                    "units": "Participants"
+                                }
+                            ]
+                        }, 
+                        "population": "All subjects who were randomized into the study and received at least one dose of study product were included in the intent-to-treat (ITT) population. This analysis was conducted on ITT population. In this outcome measure, in Fluticasone propionate group 313/314 participants, and in the placebo group 309/312 participants provided responses.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Day 14", 
+                        "title": "End-of-treatment Assessment of Response to Therapy for Ocular Symptoms", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "-0.12", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "0.10", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Null hypothesis was that no difference exists in the mean change from baseline in objective assessment of conjunctival redness between the Fluticasone nasal spray and the placebo nasal spray.", 
+                                "method": "ANCOVA", 
+                                "non_inferiority": "No", 
+                                "p_value": "0.8586", 
+                                "param_type": "Least Square Mean Difference", 
+                                "param_value": "-0.01"
+                            }
+                        }, 
+                        "description": "Conjunctival redness was evaluated as a clinical sign of SAR by the investigator. Scoring of severity was rated according to a 4-point scale: 0 = normal; 1  = Slightly pink; 2 = Moderately pink, some dilation; 3 = Intense red vessels, dilated.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Two sprays of Fluticasone propionate nasal spray (50 mcg/spray) per nostril to be administered in morning (Total dose 200 mcg).", 
+                                    "title": "Fluticasone Propionate Nasal Spray"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Two sprays of placebo per nostril to be administered in morning.", 
+                                    "title": "Placebo Nasal Spray"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "314"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "312"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "0.815", 
+                                                        "@value": "-0.20"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "0.736", 
+                                                        "@value": "-0.15"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Conjunctival redness was evaluated as a clinical sign of SAR by the investigator. Scoring of severity was rated according to a 4-point scale: 0 = normal; 1  = Slightly pink; 2 = Moderately pink, some dilation; 3 = Intense red vessels, dilated.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Mean Change in Objective Assessment of Conjunctival Redness", 
+                                    "units": "Score on a scale"
+                                }
+                            ]
+                        }, 
+                        "population": "All subjects who were randomized into the study and received at least one dose of study product were included in the intent-to-treat (ITT) population. This analysis was conducted on ITT population.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Baseline to 14 days", 
+                        "title": "Mean Change in Objective Assessment of Conjunctival Redness", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "-0.65", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "-0.29", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Null hypothesis was that no difference exists in the mean change from baseline in MiniRQLQ scores between the Fluticasone nasal spray and the placebo nasal spray.", 
+                                "method": "ANCOVA", 
+                                "method_desc": "Linear Fixed-effect Model; Treatment and site as fixed factors and baseline score as covariate.", 
+                                "non_inferiority": "No", 
+                                "p_value": "<0.0001", 
+                                "p_value_desc": "p-value was not adjusted for multiple comparisons.", 
+                                "param_type": "Least Square Mean Difference", 
+                                "param_value": "-0.47"
+                            }
+                        }, 
+                        "description": "MiniRQLQ is a 14-item, disease-specific instrument for assessing the impact of allergic rhinitis on activities of daily living and overall well-being. It  measures five domains of functional impairment that are most important to subjects with SAR: practical problems, nasal symptoms, eye symptoms, activity limitations, and other symptoms. Participants  scored their degree of impairment on a seven-point scale. (0 - 6). Mini RQLQ final score is the average of sub-scales, ranges from 0 (best possible outcome) to 6 (worst possible outcome).", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Two sprays of Fluticasone propionate nasal spray (50 mcg/spray) per nostril to be administered in morning (Total dose 200 mcg).", 
+                                    "title": "Fluticasone Propionate Nasal Spray"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Two sprays of placebo per nostril to be administered in morning.", 
+                                    "title": "Placebo Nasal Spray"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "314"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "311"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "1.311", 
+                                                        "@value": "-0.98"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "1.091", 
+                                                        "@value": "-0.49"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "MiniRQLQ is a 14-item, disease-specific instrument for assessing the impact of allergic rhinitis on activities of daily living and overall well-being. It  measures five domains of functional impairment that are most important to subjects with SAR: practical problems, nasal symptoms, eye symptoms, activity limitations, and other symptoms. Participants  scored their degree of impairment on a seven-point scale. (0 - 6). Mini RQLQ final score is the average of sub-scales, ranges from 0 (best possible outcome) to 6 (worst possible outcome).", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Mean Changes From Baseline in Mini Rhinoconjunctivitis Quality of Life Questionnaire (MiniRQLQ) Scores", 
+                                    "units": "Score on a scale"
+                                }
+                            ]
+                        }, 
+                        "population": "All subjects who were randomized into the study and received at least one dose of study product were included in the intent-to-treat (ITT) population. This analysis was conducted on ITT population. For analysis of nose symptoms, eye symptoms, and other symptoms, data of one participant each from the two groups are unavailable.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Baseline to 14 days", 
+                        "title": "Mean Changes From Baseline in Mini Rhinoconjunctivitis Quality of Life Questionnaire (MiniRQLQ) Scores", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "-0.68", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "-0.30", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Null hypothesis was that no difference exists in the mean change from baseline in 'Activities' domain of MiniRQLQ scores between the Flutical sone nasal spray and placebo nasal spray", 
+                                "method": "ANCOVA", 
+                                "method_desc": "Linear Fixed-effect Model; Treatment and site as fixed factors and baseline score as covariate.", 
+                                "non_inferiority": "No", 
+                                "p_value": "<0.0001", 
+                                "p_value_desc": "p-value was not adjusted for multiple comparisons.", 
+                                "param_type": "Least Square Mean Difference", 
+                                "param_value": "-0.49"
+                            }
+                        }, 
+                        "description": "MiniRQLQ is a 14-item, disease-specific instrument for assessing the impact of allergic rhinitis on activities of daily living and overall well-being. Activity limitations is one of the domains of Mini RQLQ scores. Participants scored their degree of impairment on a seven-point scale (0 = not troubled, 6 = extremely troubled).", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Two sprays of Fluticasone propionate nasal spray (50 mcg/spray) per nostril to be administered in morning (Total dose 200 mcg).", 
+                                    "title": "Fluticasone Propionate Nasal Spray"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Two sprays of placebo per nostril to be administered in morning.", 
+                                    "title": "Placebo Nasal Spray"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "314"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "311"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "1.384", 
+                                                        "@value": "-0.93"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "1.269", 
+                                                        "@value": "-0.39"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "MiniRQLQ is a 14-item, disease-specific instrument for assessing the impact of allergic rhinitis on activities of daily living and overall well-being. Activity limitations is one of the domains of Mini RQLQ scores. Participants scored their degree of impairment on a seven-point scale (0 = not troubled, 6 = extremely troubled).", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Mean Changes From Baseline in Individual MiniRQLQ Scores: Domain - Activities", 
+                                    "units": "Score on a scale"
+                                }
+                            ]
+                        }, 
+                        "population": "All subjects who were randomized into the study and received at least one dose of study product were included in the intent-to-treat (ITT) population. This analysis was conducted on ITT population.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Baseline to 14 days", 
+                        "title": "Mean Changes From Baseline in Individual MiniRQLQ Scores: Domain - Activities", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "-0.64", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "-0.24", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Null hypothesis was that no difference exists in the mean change from baseline in 'Practical Problems' domain of MiniRQLQ scores between the Flutical sone nasal spray and placebo nasal spray.", 
+                                "method": "ANCOVA", 
+                                "method_desc": "Linear Fixed-effect Model; Treatment and site as fixed factors and baseline score as covariate.", 
+                                "non_inferiority": "No", 
+                                "p_value": "<0.0001", 
+                                "p_value_desc": "p-value was not adjusted for multiple comparisons.", 
+                                "param_type": "Least Square Mean Difference", 
+                                "param_value": "-0.44"
+                            }
+                        }, 
+                        "description": "MiniRQLQ is a 14-item, disease-specific instrument for assessing the impact of allergic rhinitis on activities of daily living and overall well-being. 'Practical Problems' is one of the domains of Mini RQLQ scores. Participants scored their degree of impairment on a seven-point scale (0 = not troubled, 6 = extremely troubled).", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Two sprays of Fluticasone propionate nasal spray (50 mcg/spray) per nostril to be administered in morning (Total dose 200 mcg).", 
+                                    "title": "Fluticasone Propionate Nasal Spray"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Two sprays of placebo per nostril to be administered in morning.", 
+                                    "title": "Placebo Nasal Spray"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "314"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "311"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "1.476", 
+                                                        "@value": "-1.04"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "1.258", 
+                                                        "@value": "-0.57"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "MiniRQLQ is a 14-item, disease-specific instrument for assessing the impact of allergic rhinitis on activities of daily living and overall well-being. 'Practical Problems' is one of the domains of Mini RQLQ scores. Participants scored their degree of impairment on a seven-point scale (0 = not troubled, 6 = extremely troubled).", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Mean Changes From Baseline in Individual MiniRQLQ Scores: Domain - Practical Problems", 
+                                    "units": "Score on a scale"
+                                }
+                            ]
+                        }, 
+                        "population": "All subjects who were randomized into the study and received at least one dose of study product were included in the intent-to-treat (ITT) population. This analysis was conducted on ITT population.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Baseline to 14 days", 
+                        "title": "Mean Changes From Baseline in Individual MiniRQLQ Scores: Domain - Practical Problems", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "-0.73", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "-0.33", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Null hypothesis was that no difference exists in the mean change from baseline in 'Nose Symptoms' domain of MiniRQLQ scores between the Flutical sone nasal spray and placebo nasal spray.", 
+                                "method": "ANCOVA", 
+                                "method_desc": "Linear Fixed-effect Model; Treatment and site as fixed factors and baseline score as covariate.", 
+                                "non_inferiority": "No", 
+                                "p_value": "<0.0001", 
+                                "p_value_desc": "p-value was not adjusted for multiple comparisons.", 
+                                "param_type": "Least Square Mean Difference", 
+                                "param_value": "-0.53"
+                            }
+                        }, 
+                        "description": "MiniRQLQ is a 14-item, disease-specific instrument for assessing the impact of allergic rhinitis on activities of daily living and overall well-being. \"Nose Symptoms\" is one of the domains of Mini RQLQ scores. Participants scored their degree of impairment on a seven-point scale (0 = not troubled, 6 = extremely troubled).", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Two sprays of Fluticasone propionate nasal spray (50 mcg/spray) per nostril to be administered in morning (Total dose 200 mcg).", 
+                                    "title": "Fluticasone Propionate Nasal Spray"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Two sprays of placebo per nostril to be administered in morning.", 
+                                    "title": "Placebo Nasal Spray"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "313"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "310"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "1.456", 
+                                                        "@value": "-1.09"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "1.257", 
+                                                        "@value": "-0.50"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "MiniRQLQ is a 14-item, disease-specific instrument for assessing the impact of allergic rhinitis on activities of daily living and overall well-being. \"Nose Symptoms\" is one of the domains of Mini RQLQ scores. Participants scored their degree of impairment on a seven-point scale (0 = not troubled, 6 = extremely troubled).", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Mean Changes From Baseline in Individual MiniRQLQ Scores: Domain - Nose Symptoms", 
+                                    "units": "Score on a scale"
+                                }
+                            ]
+                        }, 
+                        "population": "All subjects who were randomized into the study and received at least one dose of study product were included in the intent-to-treat (ITT) population. This analysis was conducted on ITT population. For analysis of nose symptoms, data of one participant each from the two groups are unavailable.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Baseline to 14 days", 
+                        "title": "Mean Changes From Baseline in Individual MiniRQLQ Scores: Domain - Nose Symptoms", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "-0.65", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "-0.23", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Null hypothesis was that no difference exists in the mean change from baseline in 'Eye Symptoms' domain of MiniRQLQ scores between the Flutical sone nasal spray and placebo nasal spray.", 
+                                "method": "ANCOVA", 
+                                "method_desc": "Linear Fixed-effect Model; Treatment and site as fixed factors and baseline score as covariate.", 
+                                "non_inferiority": "No", 
+                                "p_value": "<0.0001", 
+                                "p_value_desc": "p-value was not adjusted for multiple comparisons.", 
+                                "param_type": "Least Square Mean Difference", 
+                                "param_value": "-0.44"
+                            }
+                        }, 
+                        "description": "MiniRQLQ is a 14-item, disease-specific instrument for assessing the impact of allergic rhinitis on activities of daily living and overall well-being. \"Eye Symptoms\" is one of the domains of Mini RQLQ scores. Participants scored their degree of impairment on a seven-point scale (0 = not troubled, 6 = extremely troubled).", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Two sprays of Fluticasone propionate nasal spray (50 mcg/spray) per nostril to be administered in morning (Total dose 200 mcg).", 
+                                    "title": "Fluticasone Propionate Nasal Spray"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Two sprays of placebo per nostril to be administered in morning.", 
+                                    "title": "Placebo Nasal Spray"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "313"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "310"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "1.512", 
+                                                        "@value": "-0.98"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "1.284", 
+                                                        "@value": "-0.55"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "MiniRQLQ is a 14-item, disease-specific instrument for assessing the impact of allergic rhinitis on activities of daily living and overall well-being. \"Eye Symptoms\" is one of the domains of Mini RQLQ scores. Participants scored their degree of impairment on a seven-point scale (0 = not troubled, 6 = extremely troubled).", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Mean Changes From Baseline in Individual MiniRQLQ Scores: Domain - Eye Symptoms", 
+                                    "units": "Score on a scale"
+                                }
+                            ]
+                        }, 
+                        "population": "All subjects who were randomized into the study and received at least one dose of study product were included in the intent-to-treat (ITT) population. This analysis was conducted on ITT population. For analysis of eye symptoms, data of one participant each from the two groups are unavailable.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Baseline to 14 days", 
+                        "title": "Mean Changes From Baseline in Individual MiniRQLQ Scores: Domain - Eye Symptoms", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "-0.64", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "-0.21", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Null hypothesis was that no difference exists in the mean change from baseline in 'Other Symptoms' domain of MiniRQLQ scores between the Flutical sone nasal spray and placebo nasal spray.", 
+                                "method": "ANCOVA", 
+                                "non_inferiority": "No", 
+                                "p_value": "<0.0001", 
+                                "p_value_desc": "p-value was not adjusted for multiple comparisons.", 
+                                "param_type": "Least Square Mean Difference", 
+                                "param_value": "-0.42"
+                            }
+                        }, 
+                        "description": "MiniRQLQ is a 14-item, disease-specific instrument for assessing the impact of allergic rhinitis on activities of daily living and overall well-being. \"Other Symptoms\" is one of the domains of Mini RQLQ scores. Participants scored their degree of impairment on a seven-point scale (0 = not troubled, 6 = extremely troubled).", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Two sprays of Fluticasone propionate nasal spray (50 mcg/spray) per nostril to be administered in morning (Total dose 200 mcg).", 
+                                    "title": "Fluticasone Propionate Nasal Spray"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Two sprays of placebo per nostril to be administered in morning.", 
+                                    "title": "Placebo Nasal Spray"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "313"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "310"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "1.607", 
+                                                        "@value": "-0.89"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "1.294", 
+                                                        "@value": "-0.48"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "MiniRQLQ is a 14-item, disease-specific instrument for assessing the impact of allergic rhinitis on activities of daily living and overall well-being. \"Other Symptoms\" is one of the domains of Mini RQLQ scores. Participants scored their degree of impairment on a seven-point scale (0 = not troubled, 6 = extremely troubled).", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Mean Changes From Baseline in Individual MiniRQLQ Scores: Domain - Other Symptoms", 
+                                    "units": "Score on a scale"
+                                }
+                            ]
+                        }, 
+                        "population": "All subjects who were randomized into the study and received at least one dose of study product were included in the intent-to-treat (ITT) population. This analysis was conducted on ITT population. For analysis of \"other symptoms\", data of one participant each from the two groups are unavailable.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Baseline to 14 days", 
+                        "title": "Mean Changes From Baseline in Individual MiniRQLQ Scores: Domain - Other Symptoms", 
+                        "type": "Secondary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "Two sprays of Fluticasone propionate nasal spray (50 mcg/spray) per nostril to be administered in morning (Total dose 200 mcg).", 
+                            "title": "Fluticasone Propionate Nasal Spray"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "Two sprays of placebo per nostril to be administered in morning.", 
+                            "title": "Placebo Nasal Spray"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "drop_withdraw_reason_list": {
+                            "drop_withdraw_reason": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "2", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "Adverse Event"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "Lost to Follow-up"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "2", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "Protocol Violation"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "3", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "Withdrawal by Subject"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "Other: Could not attend appointment"
+                                }
+                            ]
+                        }, 
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "314", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "312", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "310", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "304", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "4", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "8", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "pre_assignment_details": "Of the 855 participants screened, 626 were randomized in the study. Of the 229 participants not randomized into the study, 151 did not meet the study criteria; 3 developed AEs; 10 were lost to follow-up; 4 violated protocol; 28 withdrew consent; and the remaining 33 were not randomized for other reasons.", 
+                "recruitment_details": "Participants were recruited at 6 clinical sites in the US."
+            }, 
+            "point_of_contact": {
+                "name_or_title": "GSK Response Center", 
+                "organization": "GlaxoSmithKline", 
+                "phone": "866-435-7343"
+            }, 
+            "reported_events": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "E1", 
+                            "description": "Two sprays of Fluticasone propionate nasal spray (50 mcg/spray) per nostril to be administered in morning (Total dose 200 mcg).", 
+                            "title": "Fluticasone Propionate Nasal Spray"
+                        }, 
+                        {
+                            "@group_id": "E2", 
+                            "description": "Two sprays of placebo per nostril to be administered in morning.", 
+                            "title": "Placebo Nasal Spray"
+                        }
+                    ]
+                }, 
+                "other_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "8", 
+                                                "@subjects_at_risk": "314"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "8", 
+                                                "@subjects_at_risk": "312"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, other adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "314"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "312"
+                                            }
+                                        ], 
+                                        "sub_title": "Palpitations"
+                                    }
+                                }, 
+                                "title": "Cardiac disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "314"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "312"
+                                                }
+                                            ], 
+                                            "sub_title": "Pain"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "314"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "312"
+                                                }
+                                            ], 
+                                            "sub_title": "Pyrexia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "314"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "312"
+                                                }
+                                            ], 
+                                            "sub_title": "Thirst"
+                                        }
+                                    ]
+                                }, 
+                                "title": "General disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "314"
+                                            }, 
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "312"
+                                            }
+                                        ], 
+                                        "sub_title": "Hypersensitivity"
+                                    }
+                                }, 
+                                "title": "Immune system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "314"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "312"
+                                                }
+                                            ], 
+                                            "sub_title": "Bronchitis"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "314"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "312"
+                                                }
+                                            ], 
+                                            "sub_title": "Gastrointestinal Viral"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "314"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "312"
+                                                }
+                                            ], 
+                                            "sub_title": "Influenza"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Infections and infestations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "314"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "312"
+                                            }
+                                        ], 
+                                        "sub_title": "Laceration"
+                                    }
+                                }, 
+                                "title": "Injury, poisoning and procedural complications"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "314"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "312"
+                                                }
+                                            ], 
+                                            "sub_title": "Headache"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "314"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "312"
+                                                }
+                                            ], 
+                                            "sub_title": "Migraine"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Nervous system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "314"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "312"
+                                                }
+                                            ], 
+                                            "sub_title": "Epistaxis"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "314"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "312"
+                                                }
+                                            ], 
+                                            "sub_title": "Respiratory Tract Congestion"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "314"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "312"
+                                                }
+                                            ], 
+                                            "sub_title": "Throat Irritation"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Respiratory, thoracic and mediastinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "314"
+                                            }, 
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "312"
+                                            }
+                                        ], 
+                                        "sub_title": "Dermatitis"
+                                    }
+                                }, 
+                                "title": "Skin and subcutaneous tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "314"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "312"
+                                            }
+                                        ], 
+                                        "sub_title": "Hypertension"
+                                    }
+                                }, 
+                                "title": "Vascular disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "default_vocab": "MedDRA 15.1", 
+                    "frequency_threshold": "0.3"
+                }, 
+                "time_frame": "Participants were followed for the duration of study, an average of 3 weeks."
+            }
+        }, 
+        "completion_date": {
+            "#text": "February 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Allergic Rhinitis", 
+            "Seasonal Allergic Rhinitis"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Rhinitis, Allergic, Seasonal", 
+                "Rhinitis"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "While the current FP approved indication for GSK marketed formulation is limited to the\n      treatment of nasal symptoms, several large well-controlled studies in which FP maintained\n      adequate control of nasal symptoms when administered in a dose of 200 micrograms (mcg)\n      once-daily (QD) also suggested improvement in ocular symptoms. This study will employ a\n      randomized, double-blind, parallel group, multi-center design that compares FP and placebo\n      nasal sprays in subjects with seasonal allergic rhinitis (SAR) to assess the effectiveness\n      on ocular symptoms associated with AR."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Participants with good general health (in the opinion of the investigator) with no\n             clinically significant and relevant abnormalities of medical history\n\n          2. Participants with diagnosis of seasonal allergic rhinitis\n\n               1. A clinical history (written or verbal confirmation) of allergic rhinitis with\n                  the seasonal onset and offset of nasal and ocular allergy symptoms during each\n                  of the last 2 mountain cedar pollen allergy seasons.\n\n               2. A positive skin test reaction to (at least) the relevant allergen, mountain\n                  cedar pollen, as determined by the skin pricks method performed within 12 months\n                  of Visit 1).\n\n          3. Participants with allergic rhinitis symptom of at least moderate severity for\n             randomization:\n\n               1. An iTOSS of \u2265 4 and an iNCSS of \u22652 on the morning of randomization (Visit\n                  3/Baseline).\n\n               2. An averaged (rTOSS) of \u2265 4, and an averaged rNCSS of \u22652 for three of the five\n                  days during the placebo lead in\n\n          4. Participant residing within a geographical environment where exposure to mountain\n             cedar pollen is significant during the entire study period.\n\n          5. Participant demonstrates understanding of the study and willingness to participate as\n             evidenced by voluntary written informed consent/assent and has received a signed and\n             dated copy of the informed consent/assent form. Children, ages 12 to 17 will be\n             required to sign an assent form as part of the informed consent process.\n\n        Exclusion Criteria:\n\n          1. Participants with known or suspected intolerance or hypersensitivity to the study\n             materials (or closely related compounds) or any of their stated ingredients.\n\n          2. Participants with nasal disorders like:\n\n               1. injury or surgery to their nose that the investigator believes would interfere\n                  with participation in the study.\n\n               2. previously diagnosed with a severe physical obstruction of the nose (e.g.,\n                  deviated septum) that could affect the deposition of double-blind intranasal\n                  study drug.\n\n               3. Rhinitis medicamentosa\n\n          3. Participants who have historical or current evidence of clinically significant\n             uncontrolled disease like asthma, cardiac arrhythmias, hypertension, diabetes\n             mellitus, ocular herpes, glaucoma, hepatic or renal disease, malignancy etc.\n\n          4. Presence of or symptoms of an active bacterial or viral infection.\n\n          5. Participants who have conjunctivitis caused by an infectious agent.\n\n          6. Participants with current, single eye or bilateral cataracts or participants who had\n             cataract surgery within/less than 3 months"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "12 Years"
+        }, 
+        "enrollment": {
+            "#text": "626", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "March 21, 2013", 
+        "firstreceived_results_date": "December 12, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01817790", 
+            "org_study_id": "RH01619"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Fluticasone propionate nasal spray", 
+                "description": "Nasal spray formulation (200 mcg/day)", 
+                "intervention_name": "Fluticasone propionate", 
+                "intervention_type": "Drug", 
+                "other_name": "Flonase"
+            }, 
+            {
+                "arm_group_label": "Placebo nasal spray", 
+                "description": "Vehicle for Fluticasone propionate aqueous nasal spray", 
+                "intervention_name": "Placebo", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Fluticasone"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "lastchanged_date": "March 6, 2014", 
+        "link": {
+            "description": "Related References DeWester 2003", 
+            "url": "http://www.ncbi.nlm.nih.gov/pubmed/14619333"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Wilmington", 
+                    "country": "United States", 
+                    "state": "North Carolina", 
+                    "zip": "28401-3331"
+                }, 
+                "name": "PPD Corporate Headquarters"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Multi-Center Study to Assess the Efficacy of Once-Daily Fluticasone Propionate Aqueous Nasal Spray 200mcg for 14 Days on Ocular Symptoms Associated With Seasonal Allergic Rhinitis", 
+        "overall_official": {
+            "affiliation": "GlaxoSmithKline", 
+            "last_name": "GSK Clinical Trials", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "February 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "The Reflective Total Ocular Symptom Score (rTOSS) is the sum of 3 individual participant-assessed symptom scores (eye itching/burning, eye tearing/watering, and eye redness), each evaluated using a scale of 0=None, 1=Mild, 2=Moderate, or 3=Severe, for a possible score of 0-9. Subjects completed rTOSS in the evening (PM rTOSS; 12 hours post morning nasal spray use) and once in the morning (AM score: prior to nasal spray use). Daily (i.e. during one dosing interval) rTOSS is defined as the average of the PM rTOSS and the AM rTOSS of the next day prior to AM dosing. The mean change from baseline in (daily, AM, PM) TOSS was calculated as the subject's treatment period mean (over 14 days; from Day 0 PM to Day 14 AM) minus the baseline period (placebo run-in) mean.", 
+            "measure": "Mean Change From Baseline in Reflective Total Ocular Symptom Score (rTOSS)", 
+            "safety_issue": "No", 
+            "time_frame": "Baseline to 14 days"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01817790"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "rTOSS is the sum of 3 individual participant-assessed symptom scores (eye itching/ burning, eye tearing/watering, and eye redness), each evaluated using a scale of 0=None, 1=Mild, 2=Moderate, or 3=Severe, for a possible score of 0-9. For AM rToss, subjects completed rTOSS in the morning (AM score: prior to nasal spray use). The mean change from baseline in AM rTOSS was calculated as the subject's treatment period mean (over 14 days) minus the baseline period (placebo run-in) mean.", 
+                "measure": "Mean Change From Baseline in AM rTOSS", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to 14 days"
+            }, 
+            {
+                "description": "rTOSS is the sum of 3 individual participant-assessed symptom scores (eye itching/ burning, eye tearing/watering, and eye redness), each evaluated using a scale of 0=None, 1=Mild, 2=Moderate, or 3=Severe, for a possible score of 0-9. For PM rTOSS, subjects completed rTOSS in the evening, 12 hours post morning nasal spray use. The mean change from baseline in PM rTOSS was calculated as the subject's treatment period mean (over 14 days) minus the baseline period (placebo run-in) mean.", 
+                "measure": "Mean Change From Baseline in PM rTOSS", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to 14 days"
+            }, 
+            {
+                "description": "The AM Reflective Ocular Symptom Score was assessed individually for eye itching/burning using a scale of 0=None, 1=Mild, 2=Moderate, or 3=Severe, for a possible score of 0-9. For evaluation, subjects completed the scoring in the morning, prior to nasal spray use. The mean change from baseline in AM Reflective Ocular Symptom Score (eye itching and burning) was calculated as the subject's treatment period mean (over 14 days) minus the baseline period (placebo run-in) mean.", 
+                "measure": "Mean Change From Baseline in Individual AM Reflective Ocular Symptom Scores for Eye Itching/Burning", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to 14 days"
+            }, 
+            {
+                "description": "The PM Reflective Ocular Symptom Score was assessed individually for eye itching/burning using a scale of 0=None, 1=Mild, 2=Moderate, or 3=Severe, for a possible score of 0-9. For evaluation, subjects completed the scoring in the evening, 12 hours post morning nasal spray use. The mean change from baseline in PM Reflective Ocular Symptom Score (eye itching and burning) was calculated as the subject's treatment period mean (over 14 days) minus the baseline period (placebo run-in) mean.", 
+                "measure": "Mean Change From Baseline in Individual PM Reflective Ocular Symptom Scores for Eye Itching/Burning", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to 14 days"
+            }, 
+            {
+                "description": "The AM Reflective Ocular Symptom Score was assessed individually for eye tearing/watering using a scale of 0=None, 1=Mild, 2=Moderate, or 3=Severe, for a possible score of 0-9. For evaluation, subjects completed the scoring in the morning, prior to nasal spray use. The mean change from baseline in AM Reflective Ocular Symptom Score (eye tearing/watering) was calculated as the subject's treatment period mean (over 14 days) minus the baseline period (placebo run-in) mean.", 
+                "measure": "Mean Change From Baseline in Individual AM Reflective Ocular Symptom Scores for Eye Tearing/Watering", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to 14 days"
+            }, 
+            {
+                "description": "The PM Reflective Ocular Symptom Score was assessed individually for eye tearing/watering using a scale of 0=None, 1=Mild, 2=Moderate, or 3=Severe, for a possible score of 0-9. For evaluation, subjects completed the scoring in the evening, 12 hours post morning nasal spray use. The mean change from baseline in PM Reflective Ocular Symptom Score (eye tearing/watering) was calculated as the subject's treatment period mean (over 14 days) minus the baseline period (placebo run-in) mean.", 
+                "measure": "Mean Change From Baseline in Individual PM Reflective Ocular Symptom Scores for Eye Tearing/Watering", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to 14 days"
+            }, 
+            {
+                "description": "The AM Reflective Ocular Symptom Score was assessed individually for eye redness using a scale of 0=None, 1=Mild, 2=Moderate, or 3=Severe, for a possible score of 0-9. For evaluation, subjects completed the scoring in the morning, prior to nasal spray use. The mean change from baseline in AM Reflective Ocular Symptom Score (eye redness) was calculated as the subject's treatment period mean (over 14 days) minus the baseline period (placebo run-in) mean.", 
+                "measure": "Mean Change From Baseline in Individual AM Reflective Ocular Symptom Scores for Eye Redness", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to 14 days"
+            }, 
+            {
+                "description": "The PM Reflective Ocular Symptom Score was assessed individually for eye redness using a scale of 0=None, 1=Mild, 2=Moderate, or 3=Severe, for a possible score of 0-9. For evaluation, subjects completed the scoring in the evening, 12 hours post morning nasal spray use. The mean change from baseline in PM Reflective Ocular Symptom Score (eye redness) was calculated as the subject's treatment period mean (over 14 days) minus the baseline period (placebo run-in) mean.", 
+                "measure": "Mean Change From Baseline in Individual PM Reflective Ocular Symptom Scores for Eye Redness", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to 14 days"
+            }, 
+            {
+                "description": "Instantaneous total ocular symptom scores (iTOSS) assessments are self perceived evaluation of symptom severity immediately before the dose (how the subject feels at that point in time). iTOSS (possible score of 0-9) is the sum of 3 individual participant-assessed symptom scores for eye itching/burning, eye tearing/watering, and eye redness each evaluated using a scale of 0=None, 1=Mild, 2=Moderate, or 3=Severe. Mean changes from baseline were calculated as treatment period iTOSS minus baseline iTOSS.", 
+                "measure": "Mean Change From Baseline in AM Pre-dose Instantaneous Total Ocular Symptom Scores (iTOSS)", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to 14 days"
+            }, 
+            {
+                "description": "The rNCSS is a participant perceived evaluation of overall congestion symptom severity (evaluated using a scale of 0=None, 1=Mild, 2=Moderate, or 3=Severe) which was completed once in the evening (PM), and once in the morning (AM). rNCSS is defined as the average of the PM rNCSS and the AM rNCSS of the next day prior to AM dosing. The mean change from baseline in  rNCSS (daily, AM, PM)was calculated as the subject's treatment period mean (over 14 days; from Day 0 PM to Day 14 AM) minus the baseline period (placebo run-in) mean.", 
+                "measure": "Mean Change From Baseline in Reflective Nasal Congestion Symptom Score (rNCSS)", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to 14 days"
+            }, 
+            {
+                "description": "Overall response to therapy assessment was done using a 7-point categorical scale in which participants rated their response to therapy as follows: +3 = Significantly Improved; +2 = Moderately Improved; +1 = Mildly Improved;  0 = No Change; -1= Mildly Worse; -2 = Moderately Worse; -3 = Significantly Worse.", 
+                "measure": "End-of-treatment Assessment of Response to Therapy for Ocular Symptoms", 
+                "safety_issue": "No", 
+                "time_frame": "Day 14"
+            }, 
+            {
+                "description": "Conjunctival redness was evaluated as a clinical sign of SAR by the investigator. Scoring of severity was rated according to a 4-point scale: 0 = normal; 1  = Slightly pink; 2 = Moderately pink, some dilation; 3 = Intense red vessels, dilated.", 
+                "measure": "Mean Change in Objective Assessment of Conjunctival Redness", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to 14 days"
+            }, 
+            {
+                "description": "MiniRQLQ is a 14-item, disease-specific instrument for assessing the impact of allergic rhinitis on activities of daily living and overall well-being. It  measures five domains of functional impairment that are most important to subjects with SAR: practical problems, nasal symptoms, eye symptoms, activity limitations, and other symptoms. Participants  scored their degree of impairment on a seven-point scale. (0 - 6). Mini RQLQ final score is the average of sub-scales, ranges from 0 (best possible outcome) to 6 (worst possible outcome).", 
+                "measure": "Mean Changes From Baseline in Mini Rhinoconjunctivitis Quality of Life Questionnaire (MiniRQLQ) Scores", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to 14 days"
+            }, 
+            {
+                "description": "MiniRQLQ is a 14-item, disease-specific instrument for assessing the impact of allergic rhinitis on activities of daily living and overall well-being. Activity limitations is one of the domains of Mini RQLQ scores. Participants scored their degree of impairment on a seven-point scale (0 = not troubled, 6 = extremely troubled).", 
+                "measure": "Mean Changes From Baseline in Individual MiniRQLQ Scores: Domain - Activities", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to 14 days"
+            }, 
+            {
+                "description": "MiniRQLQ is a 14-item, disease-specific instrument for assessing the impact of allergic rhinitis on activities of daily living and overall well-being. 'Practical Problems' is one of the domains of Mini RQLQ scores. Participants scored their degree of impairment on a seven-point scale (0 = not troubled, 6 = extremely troubled).", 
+                "measure": "Mean Changes From Baseline in Individual MiniRQLQ Scores: Domain - Practical Problems", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to 14 days"
+            }, 
+            {
+                "description": "MiniRQLQ is a 14-item, disease-specific instrument for assessing the impact of allergic rhinitis on activities of daily living and overall well-being. \"Nose Symptoms\" is one of the domains of Mini RQLQ scores. Participants scored their degree of impairment on a seven-point scale (0 = not troubled, 6 = extremely troubled).", 
+                "measure": "Mean Changes From Baseline in Individual MiniRQLQ Scores: Domain - Nose Symptoms", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to 14 days"
+            }, 
+            {
+                "description": "MiniRQLQ is a 14-item, disease-specific instrument for assessing the impact of allergic rhinitis on activities of daily living and overall well-being. \"Eye Symptoms\" is one of the domains of Mini RQLQ scores. Participants scored their degree of impairment on a seven-point scale (0 = not troubled, 6 = extremely troubled).", 
+                "measure": "Mean Changes From Baseline in Individual MiniRQLQ Scores: Domain - Eye Symptoms", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to 14 days"
+            }, 
+            {
+                "description": "MiniRQLQ is a 14-item, disease-specific instrument for assessing the impact of allergic rhinitis on activities of daily living and overall well-being. \"Other Symptoms\" is one of the domains of Mini RQLQ scores. Participants scored their degree of impairment on a seven-point scale (0 = not troubled, 6 = extremely troubled).", 
+                "measure": "Mean Changes From Baseline in Individual MiniRQLQ Scores: Domain - Other Symptoms", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to 14 days"
+            }
+        ], 
+        "source": "GlaxoSmithKline", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "GlaxoSmithKline", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "December 2012", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator, Outcomes Assessor)", 
+        "study_type": "Interventional", 
+        "verification_date": "December 2013"
+    }
+}

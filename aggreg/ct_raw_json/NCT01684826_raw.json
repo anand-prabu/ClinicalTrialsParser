@@ -1,0 +1,516 @@
+{
+    "clinical_study": {
+        "@rank": "45058", 
+        "arm_group": [
+            {
+                "arm_group_label": "ClarityIQ", 
+                "arm_group_type": "Experimental", 
+                "description": "Angiographic run with new algorithm and low dose (50% dose)"
+            }, 
+            {
+                "arm_group_label": "AlluraXper", 
+                "arm_group_type": "Experimental", 
+                "description": "Angiographic run with predecessor algorithm and dose (100% dose)"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "ClarityIQ is a novel X-ray imaging technology, that combines advanced real-time image noise\n      reduction algorithms, with state-of-the-art hardware to reduce patient entrance dose\n      significantly. This is realized by anatomy-specific optimization of the full acquisition\n      chain (grid switch, beam filtering, pulse width, spot size, detector and image processing\n      engine) for every clinical task individually. Furthermore, smaller focal spot sizes and\n      shorter pulses are used, which are known to positively influence image quality . The final\n      effect on the clinical image quality is investigated in this study."
+        }, 
+        "brief_title": "X-ray Dose Reduction Study for Cardiac Angiography and Intervention", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "B1", 
+                        "description": "Angiogram with AlluraXper followed by angiogram with ClarityIQ", 
+                        "title": "AlluraXper-ClarityIQ"
+                    }
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "49"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@spread": "11", 
+                                            "@value": "62.8"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "22"
+                                            }
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "27"
+                                            }
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "49"
+                                        }
+                                    }, 
+                                    "sub_title": "Netherlands"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "The only disclosure restriction on the PI is that the sponsor can review results communications prior to public release and can embargo communications regarding trial results for a period that is less than or equal to 60 days. The sponsor cannot require changes to the communication and cannot extend the embargo."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "description": "Overall proportion where diagnostic image quality of ClarityIQ is scored equal or better compared to AlluraXper by the blinded readers. Reading is performed by simultaneous visual comparison of the image quality of AlluraXper and ClarityIQ by multiple blinded reviewers.The images are presented in a randomized order.\nThe hypothesis is that the overall proportion where diagnostic image quality of ClarityIQ is scored equal or better is \u2265 than 0.80. Combined for all raters, the lower bound of the one-sided 95% CI (lower bound of the two-sided 90% CI)is used.", 
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "description": "Angiogram with AlluraXper followed by angiogram with ClarityIQ", 
+                                "title": "AlluraXper-ClarityIQ"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "39"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@lower_limit": "0.82", 
+                                                    "@upper_limit": "0.89", 
+                                                    "@value": "0.85"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Overall proportion where diagnostic image quality of ClarityIQ is scored equal or better compared to AlluraXper by the blinded readers. Reading is performed by simultaneous visual comparison of the image quality of AlluraXper and ClarityIQ by multiple blinded reviewers.The images are presented in a randomized order.\nThe hypothesis is that the overall proportion where diagnostic image quality of ClarityIQ is scored equal or better is \u2265 than 0.80. Combined for all raters, the lower bound of the one-sided 95% CI (lower bound of the two-sided 90% CI)is used.", 
+                                    "dispersion": "90% Confidence Interval", 
+                                    "param": "Mean", 
+                                    "title": "Image Quality", 
+                                    "units": "proportion of readers"
+                                }
+                            ]
+                        }, 
+                        "population": "All patient with recorded dose information and images for both angiograms were used.", 
+                        "safety_issue": "No", 
+                        "time_frame": "1 day", 
+                        "title": "Image Quality", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "Percentage of change of ClarityIQ vs. AlluraXper in Dose Area Product (DAP) calculated by DAP/frame. Negative percentage means a reduction in dose for ClarityIQ vs. AlluraXper.", 
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "description": "Angiogram with AlluraXper followed by angiogram with ClarityIQ", 
+                                "title": "AlluraXper-ClarityIQ"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "39"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@spread": "14", 
+                                                    "@value": "-52"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Percentage of change of ClarityIQ vs. AlluraXper in Dose Area Product (DAP) calculated by DAP/frame. Negative percentage means a reduction in dose for ClarityIQ vs. AlluraXper.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Radiation Dose Measurements: Dose Area Product (DAP)", 
+                                    "units": "percentage of dose change"
+                                }
+                            ]
+                        }, 
+                        "population": "all patients with recorded dose information and images for both angiograms were included (n=39)", 
+                        "safety_issue": "No", 
+                        "time_frame": "Participants were followed for the duration of the procedure", 
+                        "title": "Radiation Dose Measurements: Dose Area Product (DAP)", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "Percentage of change of ClarityIQ vs. AlluraXper in Air Kerma (AK) calculated by AK/frame. Negative percentage means a reduction in dose for ClarityIQ vs. AlluraXper.", 
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "description": "Angiogram with AlluraXper followed by angiogram with ClarityIQ", 
+                                "title": "AlluraXper-ClarityIQ"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "39"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@spread": "12", 
+                                                    "@value": "-53"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Percentage of change of ClarityIQ vs. AlluraXper in Air Kerma (AK) calculated by AK/frame. Negative percentage means a reduction in dose for ClarityIQ vs. AlluraXper.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Radiation Dose Measurements: Air Kerma (AK)", 
+                                    "units": "percentage of dose change"
+                                }
+                            ]
+                        }, 
+                        "population": "all patients with recorded dose information and images for both angiograms were included (n=39)", 
+                        "safety_issue": "No", 
+                        "time_frame": "Participants were followed for the duration of the procedure", 
+                        "title": "Radiation Dose Measurements: Air Kerma (AK)", 
+                        "type": "Other Pre-specified"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "P1", 
+                        "description": "Angiogram with AlluraXper followed by angiogram with ClarityIQ", 
+                        "title": "AlluraXper-ClarityIQ"
+                    }
+                }, 
+                "period_list": {
+                    "period": {
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "49", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "39", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "Collected Dose and Image Information"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "39", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "10", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "pre_assignment_details": "50 patients enrolled the study one subject withdrew consent.", 
+                "recruitment_details": "The enrollment of patients occurred between 11 September and 23 November 2012."
+            }, 
+            "point_of_contact": {
+                "email": "frank.everaerts@philips.com", 
+                "name_or_title": "Frank Everaerts", 
+                "organization": "Philips", 
+                "phone": "+31630728782"
+            }, 
+            "reported_events": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "E1", 
+                        "description": "Angiogram with AlluraXper followed by angiogram with ClarityIQ", 
+                        "title": "AlluraXper-ClarityIQ"
+                    }
+                }, 
+                "serious_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "2", 
+                                            "@subjects_at_risk": "49"
+                                        }, 
+                                        "sub_title": "Total, serious adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "49"
+                                            }, 
+                                            "description": "defibrillation is done with 150 J", 
+                                            "sub_title": "Ventricle Fibrillations (VF)"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "49"
+                                            }, 
+                                            "description": "patient has atypical complaints. Suspected ACS. Troponin negative. Bloodpressure declines. Remaining contrast extra vasal (contrast injection in false lumen). Emergency CT scan made. Confirmed Aorta Dissection. Patient underwent emergency surgery.", 
+                                            "sub_title": "Type 2 Aorta dissection"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Cardiac disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment"
+                }, 
+                "time_frame": "During procedure"
+            }
+        }, 
+        "completion_date": {
+            "#text": "November 2012", 
+            "@type": "Actual"
+        }, 
+        "condition": "Vascular Diseases", 
+        "condition_browse": {
+            "mesh_term": "Vascular Diseases"
+        }, 
+        "detailed_description": {
+            "textblock": "Fluoroscopically guided procedures are associated with a risk of radiation injury to the\n      skin, caused by high peak skin dose. The increasingly complex nature of many of the\n      interventions performed requires the use of significant amounts of radiation for their\n      completion. Of particular relevance to dose reduction concerns are obese patients, for whom\n      additional radiation is often necessary to obtained sufficient diagnostic quality, as well\n      as patients suffering from chronic total coronary occlusions (CTO), for whom long procedures\n      with extended radiation time and contrast usage are common.\n\n      In order to introduce a dose reduction technology the most important aspect is to validate\n      the diagnostic image information. Philips has developed a new algorithm that is capable to\n      process images with similar image quality but acquired at lower dose."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients older than 18 years of age undergoing coronary angiography\n\n        Exclusion Criteria:\n\n          -  Patients not willing or unable to give consent to participate\n\n          -  Patients already involved in a clinical trial\n\n          -  Patients under the age of 18\n\n          -  Pregnant women and breastfeeding women\n\n          -  Patients with severe kidney disease (eGFR < 60)"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "50", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "September 11, 2012", 
+        "firstreceived_results_date": "August 26, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01684826", 
+            "org_study_id": "XCY607-100084"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "ClarityIQ", 
+                "description": "Angiographic run with new algorithm and low dose (50% lower dose compared to Xper)", 
+                "intervention_name": "Angiographic run with new algorithm and low dose (50% dose)", 
+                "intervention_type": "Radiation", 
+                "other_name": "ClarityIQ"
+            }, 
+            {
+                "arm_group_label": "AlluraXper", 
+                "description": "Angiographic run with predecessor algorithm and dose (100% dose)", 
+                "intervention_name": "Angiographic run with predecessor algorithm and dose (100%)", 
+                "intervention_type": "Radiation", 
+                "other_name": "AlluraXper"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "X-rays", 
+            "Image processing", 
+            "Cardiovascular procedure"
+        ], 
+        "lastchanged_date": "November 7, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Nijmegen", 
+                    "country": "Netherlands", 
+                    "zip": "6500HB"
+                }, 
+                "name": "Radboud University Nijmegen Medical Center"
+            }
+        }, 
+        "location_countries": {
+            "country": "Netherlands"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Clinical Validation and Evaluation of ClarityIQ Cardiac Image Processing for Cardiac Angiography and Intervention", 
+        "other_outcome": {
+            "description": "Percentage of change of ClarityIQ vs. AlluraXper in Air Kerma (AK) calculated by AK/frame. Negative percentage means a reduction in dose for ClarityIQ vs. AlluraXper.", 
+            "measure": "Radiation Dose Measurements: Air Kerma (AK)", 
+            "safety_issue": "No", 
+            "time_frame": "Participants were followed for the duration of the procedure"
+        }, 
+        "overall_official": {
+            "affiliation": "Radboud University Nijmegen Medical Center", 
+            "last_name": "Harry Suryapranata, Prof Dr.", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Netherlands: The Central Committee on Research Involving Human Subjects (CCMO)", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "November 2012", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Overall proportion where diagnostic image quality of ClarityIQ is scored equal or better compared to AlluraXper by the blinded readers. Reading is performed by simultaneous visual comparison of the image quality of AlluraXper and ClarityIQ by multiple blinded reviewers.The images are presented in a randomized order.\nThe hypothesis is that the overall proportion where diagnostic image quality of ClarityIQ is scored equal or better is \u2265 than 0.80. Combined for all raters, the lower bound of the one-sided 95% CI (lower bound of the two-sided 90% CI)is used.", 
+            "measure": "Image Quality", 
+            "safety_issue": "No", 
+            "time_frame": "1 day"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01684826"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "description": "Percentage of change of ClarityIQ vs. AlluraXper in Dose Area Product (DAP) calculated by DAP/frame. Negative percentage means a reduction in dose for ClarityIQ vs. AlluraXper.", 
+            "measure": "Radiation Dose Measurements: Dose Area Product (DAP)", 
+            "safety_issue": "No", 
+            "time_frame": "Participants were followed for the duration of the procedure"
+        }, 
+        "source": "Philips Healthcare", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Philips Healthcare", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "September 2012", 
+        "study_design": "Allocation: Non-Randomized, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "November 2013"
+    }
+}

@@ -1,0 +1,203 @@
+{
+    "clinical_study": {
+        "@rank": "110846", 
+        "acronym": "ANGIE02", 
+        "arm_group": [
+            {
+                "arm_group_label": "Fully Automated Closed-Loop Insulin Delivery", 
+                "arm_group_type": "Experimental", 
+                "description": "During the fully closed-loop insulin delivery, the control algorithm will automatically direct between meals and meal-related subcutaneous insulin delivery utilizing real-time continuous glucose monitoring (RT-CGM) data. The subcutaneous insulin pump will deliver insulin Aspart (Novo Nordisk, Copenhagen, Denmark)."
+            }, 
+            {
+                "arm_group_label": "Conventional insulin therapy", 
+                "arm_group_type": "Active Comparator", 
+                "description": "During the conventional therapy, subject's insulin dose and regimen on admission will be adjusted as necessary by the clinical team according to Cambridge University Hospital Foundation Trust's usual clinical practise. Subjects will have masked CGM sensors inserted during the study (CGM readings will be masked throughout the study)."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The main study objective is to compare conventional insulin therapy with automated\n      closed-loop glucose control over 72 hours in achieving target glucose levels in hospitalised\n      insulin-treated Type 2 diabetes (T2D) subjects.\n\n      This is an open-label, two-arm, randomised, parallel design study in hospitalised\n      insulin-treated T2D subjects, during which target glucose levels will be controlled either\n      by closed-loop system combined with real-time continuous subcutaneous glucose monitoring\n      (CGM) or by conventional insulin therapy."
+        }, 
+        "brief_title": "Closed-loop Insulin Delivery in the General Ward", 
+        "condition": "Diabetes Mellitus", 
+        "condition_browse": {
+            "mesh_term": "Diabetes Mellitus"
+        }, 
+        "detailed_description": {
+            "textblock": "Hyperglycaemia in hospitalized patients is becoming a common clinical problem due to the\n      increasing prevalence of diabetes mellitus . Hyperglycaemia in this cohort can also occur in\n      patients with previously undiagnosed diabetes, or during acute illness in those with\n      previously normal glucose tolerance. As a result, the prevalence of acute or stress\n      hyperglycaemia in hospitalised patients has been widely reported. A growing body of evidence\n      currently suggest that the degree of hyperglycaemia upon admission and the duration of\n      hyperglycaemia during their illness are associated with adverse outcomes.In-patient\n      hyperglycaemia is now widely recognised as a poor prognostic marker in terms of morbidity\n      and mortality, increased length of stay and cost to the healthcare system.\n\n      The current management of in-patient hyperglycaemia in non-critical care is still far from\n      ideal, and vary widely between different centres. The discordance between clinical evidence\n      and practice is due to a number of factors which could potentially undermine patient care\n      and safety. Of these, hypoglycaemia remains one the biggest barriers to managing in-patient\n      hyperglycaemia. There is therefore a need to develop and validate a more effective and safer\n      system to manage in-patient hyperglycaemia.\n\n      A closed-loop insulin infusion system has previously been tested and reported to be feasible\n      and safe in intensive care patients. Its utilisation in non-critical patients in the general\n      medical and surgical wards currently remains unproven. Its use in this cohort however could\n      potentially be of significant practical and clinical value, especially in a busy ward\n      environment. The Model Predictive Control (MPC) algorithm developed by our group at the\n      University of Cambridge utilises fundamental glucoregulatory processes and predicts future\n      glucose excursion resulting from projected insulin infusion rates. The algorithm can also\n      account for the patient's meal intake and the duration of action of the short acting insulin\n      used. This has the distinct advantage over the \"reactive\" approach of sliding scale insulin\n      protocols, which treats hyperglycaemia after it has already occurred.\n\n      The MPC algorithm has been studied in intensive care and cardiac surgery patients, and\n      results from these studies to date have been encouraging. It is shown to be associated with\n      a significantly higher percentage of time within the blood glucose target range, without\n      increasing the risk of severe hypoglycaemia. The expectant role of a closed-loop system\n      using the MPC algorithm in non-critical care patients would therefore be to provide\n      clinicians with an effective and safe method to manage hyperglycaemia in hospital."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Aged 18 years or older\n\n          -  Type 2 Diabetes for at least 1 year as defined by WHO\n\n          -  Treatment with subcutaneous insulin alone or in combination with oral\n             glucose-lowering medication(s)\n\n        Exclusion Criteria:\n\n          -  Autoimmune type 1 diabetes\n\n          -  Known or suspected allergy against insulin\n\n          -  Known proliferative retinopathy\n\n          -  Current or planned pregnancy or breast feeding\n\n          -  Unstable or end-stage cardiac and renal disease\n\n          -  Planned surgery during study period\n\n          -  Current in-patient in intensive care unit\n\n          -  Any physical or psychological disease or medication(s) likely to interfere with the\n             conduct of the study and interpretation of the study results, as judged by the study\n             clinician\n\n          -  Likely discharge earlier than 72 hours"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "40", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "January 18, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01774565", 
+            "org_study_id": "ANGIE02", 
+            "secondary_id": "A092763"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Fully Automated Closed-Loop Insulin Delivery", 
+                "intervention_name": "Fully Automated Closed-Loop Insulin Delivery", 
+                "intervention_type": "Device"
+            }, 
+            {
+                "arm_group_label": "Conventional insulin therapy", 
+                "intervention_name": "Conventional insulin therapy", 
+                "intervention_type": "Device"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Insulin"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Diabetes", 
+            "Insulin", 
+            "Closed-Loop", 
+            "Real-time CGM", 
+            "Subcutaneous insulin pump", 
+            "Hospital"
+        ], 
+        "lastchanged_date": "November 13, 2013", 
+        "location": {
+            "contact": {
+                "email": "ht312@medschl.cam.ac.uk", 
+                "last_name": "Hood Thabit, MB BCh MRCP MD"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Cambridge", 
+                    "country": "United Kingdom"
+                }, 
+                "name": "Cambridge University Hospitals NHS Foundation Trust"
+            }, 
+            "investigator": [
+                {
+                    "last_name": "Anthony Coll, MBBS PhD", 
+                    "role": "Principal Investigator"
+                }, 
+                {
+                    "last_name": "Mark Evans, MBBS, MD, FRCP", 
+                    "role": "Principal Investigator"
+                }, 
+                {
+                    "last_name": "David Simmons, MBBS, MD, FRCP", 
+                    "role": "Principal Investigator"
+                }, 
+                {
+                    "last_name": "Roman Hovorka, PhD, MSc, BSc", 
+                    "role": "Principal Investigator"
+                }
+            ], 
+            "status": "Not yet recruiting"
+        }, 
+        "location_countries": {
+            "country": "United Kingdom"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "An Open-label, Single-centre, Randomised, Parallel Design Study to Assess the Efficacy and Safety of 72-hour Automated Closed-loop Glucose Control in Comparison With Conventional Treatment in Insulin Treated Type 2 Diabetes", 
+        "overall_contact": {
+            "email": "ht312@medschl.cam.ac.uk", 
+            "last_name": "Hood Thabit, MBBCh, MRCP, MD"
+        }, 
+        "overall_official": {
+            "affiliation": "University of Cambridge", 
+            "last_name": "Roman Hovorka, PhD, MSc, BSc", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Not yet recruiting", 
+        "oversight_info": {
+            "authority": [
+                "United Kingdom: Research Ethics Committee", 
+                "United Kingdom: Medicines and Healthcare Products Regulatory Agency"
+            ], 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 2/Phase 3", 
+        "primary_completion_date": {
+            "#text": "December 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Primary outcome will be measured using adjusted continuous subcutaneous glucose monitoring (CGM) data.\nDuring the study subjects will have reference glucose (fingerstick capillary blood glucose)measured before every meal and before bedtime (4 times/day).", 
+            "measure": "Time spent in target glucose range (5.6-10.0mmol/l)", 
+            "safety_issue": "Yes", 
+            "time_frame": "72-hours"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01774565"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University of Cambridge", 
+            "investigator_full_name": "Hood Thabit", 
+            "investigator_title": "Clinical Investigator", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Definition of Reference glucose = Fingerstick capillary blood glucose.\nDuring the study subjects will have reference glucose measured before every meal and before bedtime (4 times/day)", 
+                "measure": "Proportion of time with glucose levels in the target glucose range (5.6-10.0mmol/l)as recorded by reference glucose", 
+                "safety_issue": "Yes", 
+                "time_frame": "72- hours"
+            }, 
+            {
+                "description": "Definition of Reference glucose = Fingerstick capillary blood glucose.\nDuring the study subjects will have reference glucose measured before every meal and before bedtime (4 times/day)", 
+                "measure": "Proportion of time with glucose levels below 5.6 mmol/l and above 10.0 mmol/l as recorded by CGM and reference glucose values", 
+                "safety_issue": "Yes", 
+                "time_frame": "72- hours"
+            }, 
+            {
+                "description": "Definition of Reference glucose = Fingerstick capillary blood glucose.\nDuring the study subjects will have reference glucose measured before every meal and before bedtime (4 times/day)", 
+                "measure": "Proportion of time with glucose levels below 3.5 mmol/l as recorded by CGM and reference glucose values", 
+                "safety_issue": "Yes", 
+                "time_frame": "72- hours"
+            }, 
+            {
+                "description": "Definition of Reference glucose = Fingerstick capillary blood glucose.\nDuring the study subjects will have reference glucose measured every before every meal and before bedtime (4 times/day)", 
+                "measure": "Average glucose levels, as recorded by CGM and reference glucose values", 
+                "safety_issue": "Yes", 
+                "time_frame": "72- hours"
+            }, 
+            {
+                "description": "Definition of Reference glucose = Fingerstick capillary blood glucose.\nDuring the study subjects will have reference glucose measured before every meal and before bedtime (4 times/day)", 
+                "measure": "Standard deviation of glucose levels, as recorded by CGM and reference glucose", 
+                "safety_issue": "Yes", 
+                "time_frame": "72- hours"
+            }
+        ], 
+        "source": "University of Cambridge", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "Cambridge University Hospitals NHS Foundation Trust", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "European Foundation for the Study of Diabetes", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "University of Cambridge", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2014", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "November 2013"
+    }
+}

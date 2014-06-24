@@ -1,0 +1,171 @@
+{
+    "clinical_study": {
+        "@rank": "149787", 
+        "acronym": "PPA", 
+        "arm_group": [
+            {
+                "arm_group_label": "open-loop night", 
+                "arm_group_type": "Active Comparator"
+            }, 
+            {
+                "arm_group_label": "closed-loop night", 
+                "arm_group_type": "Experimental"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of the study is to assess a new closed-loop algorithm in type 1 diabetes (Saddle\n      Point Model Predictive Control : SP-MPC)"
+        }, 
+        "brief_title": "Assessment of a New Closed-loop Algorithm in Type 1 Diabetes (Saddle Point Model Predictive Control : SP-MPC) (PPA)", 
+        "condition": "Type 1 Diabetes", 
+        "condition_browse": {
+            "mesh_term": [
+                "Diabetes Mellitus", 
+                "Diabetes Mellitus, Type 1"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Ten patients will be assessed during a closed-loop night and an open-loop night in random\n      order.\n\n      The primary objective is to assess the ability of SP-MPC controler to maintain euglycemia\n      and avoid hypoglycaemia during the night, compared to open loop in type 1 diabetic patients\n      treated by insulin pump."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients with type 1 diabetes (C peptide negative) :\n\n          -  18 to 70 year old,\n\n          -  with type 1 diabetes for more than 3 years,\n\n          -  treated by insulin pump for more than 3 months,\n\n          -  with previous CGM holter allowing preliminary settting of some of the SP-MPC\n             parameters\n\n          -  able to provide written informed consent.\n\n        Exclusion Criteria:\n\n          -  pregnancy or breastfeeding,\n\n          -  severe non stabilized diabetic retinopathy,\n\n          -  cardiovascular event in the previous 6 months,\n\n          -  infectious diseases with recent fever,\n\n          -  anemia (hemoglobin < 11g/l),\n\n          -  HbA1c > 10%,\n\n          -  Current or recent (less than 4 weeks) oral or injectable corticosteroid treatment,\n\n          -  creatinine clearance <40ml/mn,\n\n          -  chronic alcoholism (weekly consumption of alcohol > 280g for men and > 140g for\n             women),\n\n          -  adults legally protected (under judicial protection, guardianship, or supervision),\n             persons deprived of their liberty"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "70 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "10", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "February 11, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02061488", 
+            "org_study_id": "2013-A01604-41", 
+            "secondary_id": "35RC13_8806_PPA"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "open-loop night", 
+                "description": "During the open-loop night the patient is using his insulin pump as usual", 
+                "intervention_name": "open-loop night", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": "closed-loop night", 
+                "description": "During the closed-loop night glucose values measured by the sensor are collected every 15 minutes. The data are entered into the SP-MPC controler that calculate the insulin dose to be delivered. A diabetologist validates the insulin dose before the infusion (manually bolus infusion)", 
+                "intervention_name": "closed-loop night", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": "Artificial pancreas, closed loop glucose control, model predictive control", 
+        "lastchanged_date": "March 25, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Rennes", 
+                    "country": "France", 
+                    "zip": "35033"
+                }, 
+                "name": "Rennes University Hospital"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "France"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Prospective, Monocentric, Crossover Randomized Trial, to Assess a New Closed-loop Algorithm in Type 1 Diabetes (Saddle Point Model Predictive Control : SP-MPC)", 
+        "overall_contact": {
+            "email": "isabelle.guilhem@chu-rennes.fr", 
+            "last_name": "Isabelle Guilhem", 
+            "phone": "33 02 99 26 30 14"
+        }, 
+        "overall_contact_backup": {
+            "email": "jean-yves.poirier@chu-rennes.fr", 
+            "last_name": "Jean-Yves Poirier", 
+            "phone": "02.99.26.71.42"
+        }, 
+        "overall_official": {
+            "affiliation": "Rennes University Hospital", 
+            "last_name": "Isabelle Guilhem", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "France: Agence Nationale de S\u00e9curit\u00e9 du M\u00e9dicament et des produits de sant\u00e9", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "May 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Assessment of the ability of SP-MPC controler to maintain euglycemia and avoid hypoglycaemia during the night, compared to open loop in type 1 diabetic patients treated by insulin pump", 
+            "measure": "Assessment of time spent in target range (glycemia between 70 and 145 mg/dl) and in hypoglycemia (glycemia <70 mg/dl), during the night (11 PM to 8 AM)", 
+            "safety_issue": "No", 
+            "time_frame": "6 weeks"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02061488"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Assessment of hypoglycemia and hyperglycemia cases, average glycemic balance, glycemic variability, insulin doses", 
+                "measure": "Assessment of time spent above 70 mg/dl, between 70-145 or 145-180 mg/dl and above 180 mg/dl (interstitial glucose) in the late post prandial period (9 to 11 PM) and during the night (11 PM to 8 AM)", 
+                "safety_issue": "No", 
+                "time_frame": "6 weeks"
+            }, 
+            {
+                "measure": "Assessment of hypoglycemia occurrence during the night", 
+                "safety_issue": "No", 
+                "time_frame": "6 weeks"
+            }, 
+            {
+                "measure": "Assessment of area under the curves (70-180mg/dl) during the night", 
+                "safety_issue": "No", 
+                "time_frame": "6 weeks"
+            }, 
+            {
+                "measure": "Assessment of Low Blood Glucose Index (LBGI), High Blood Glucose Index (HBGI) and CONGA Index", 
+                "safety_issue": "No", 
+                "time_frame": "6 weeks"
+            }, 
+            {
+                "measure": "Assessment of insulin doses delivered between 9 PM and 8 AM", 
+                "safety_issue": "No", 
+                "time_frame": "6 weeks"
+            }, 
+            {
+                "measure": "Assessment of number of controller propositions rejected for security reasons", 
+                "safety_issue": "No", 
+                "time_frame": "6 weeks"
+            }, 
+            {
+                "measure": "Assessment of glucose values during the night (glycemia and interstitial glucose values)", 
+                "safety_issue": "No", 
+                "time_frame": "6 weeks"
+            }
+        ], 
+        "source": "Rennes University Hospital", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Rennes University Hospital", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "March 2014", 
+        "study_design": "Allocation: Randomized, Intervention Model: Crossover Assignment, Masking: Open Label", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2014"
+    }
+}

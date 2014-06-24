@@ -1,0 +1,124 @@
+{
+    "clinical_study": {
+        "@rank": "137970", 
+        "arm_group": {
+            "arm_group_label": "MRI group", 
+            "arm_group_type": "Other", 
+            "description": "Patient receives one research MRI prior to radiation treatment."
+        }, 
+        "brief_summary": {
+            "textblock": "Currently, appropriate patients undergo MRI imaging with immobilization and sequences\n      optimized for diagnostic radiology purposes.  Using a mutual information algorithm, these\n      images are then registered to a treatment planning CT obtained with custom immobilization to\n      minimize intra-and inter-treatment motion and positional variation.  This image registration\n      process is time-consuming and introduces additional layers of geometric uncertainty into\n      what should be a highly precise treatment planning process.  However, it is necessary, since\n      radiation dose calculations cannot be performed on MRI data due to the lack of crucial\n      density information.  Ultimately, we envision CT-less treatment planning, using only MRI,\n      due to superior imaging characteristics, fully integrated into the radiation oncology\n      clinic.  This study will begin this process."
+        }, 
+        "brief_title": "Optimization of MRI for Radiation Therapy", 
+        "condition": [
+            "Cancer Liver", 
+            "Cancer Brain", 
+            "Cancer Head &Neck", 
+            "Cancer Pelvis"
+        ], 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients \u226518 years of age\n\n          -  A working diagnosis of malignancy in the liver, brain, H&N, or pelvis\n\n          -  A plan to treat with radiotherapy\n\n        Exclusion Criteria:\n\n          -  Patients with contraindications to having a contrast enhanced MRI scan. These\n             contraindications will be assessed at the time of enrollment using the guidelines set\n             up and in clinical use by the Radiology Department."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "140", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "December 18, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02045381", 
+            "org_study_id": "UMCC 2012.113"
+        }, 
+        "intervention": {
+            "arm_group_label": "MRI group", 
+            "description": "One research MRI", 
+            "intervention_name": "MRI Group", 
+            "intervention_type": "Procedure"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "Cancer", 
+            "MRI"
+        ], 
+        "lastchanged_date": "January 22, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Ann Arbor", 
+                    "country": "United States", 
+                    "state": "Michigan", 
+                    "zip": "48109"
+                }, 
+                "name": "Univeristy of Michigan"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Optimization of MRI for Radiation Therapy", 
+        "overall_contact": {
+            "email": "maryfeng@med.umich.edu", 
+            "last_name": "Mary Feng, MD", 
+            "phone": "734-936-4300"
+        }, 
+        "overall_official": {
+            "affiliation": "University of Michigan", 
+            "last_name": "Mary Feng, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": [
+                "United States: Institutional Review Board", 
+                "United States: Food and Drug Administration"
+            ], 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "June 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Patients will be off protocol immediately after the single MRI scan.  Comparative treatment planning will occur off-line and will not be used for patient care.", 
+            "measure": "Number of patients that have treatment plans created using MRI as compared with standard of care.", 
+            "safety_issue": "No", 
+            "time_frame": "Day One"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02045381"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University of Michigan Cancer Center", 
+            "investigator_full_name": "Mary Feng", 
+            "investigator_title": "Principal Investigator", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "source": "University of Michigan Cancer Center", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Institutes of Health (NIH)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "University of Michigan Cancer Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "February 2013", 
+        "study_design": "Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Health Services Research", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2014"
+    }
+}

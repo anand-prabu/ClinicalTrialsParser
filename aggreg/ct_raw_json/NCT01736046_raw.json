@@ -1,0 +1,157 @@
+{
+    "clinical_study": {
+        "@rank": "78796", 
+        "arm_group": {
+            "arm_group_label": "Crohn's Disease patients", 
+            "description": "All patients referred for CT Enterography will be undergo both standard and low dose CT Enterography"
+        }, 
+        "brief_summary": {
+            "textblock": "The investigators will be assessing the efficacy of a Model Based Iterative Reconstruction\n      algorithm (MBIR) as a noise reduction tool in computed tomographic (CT) examinations for\n      Crohn's Disease. MBIR is computer adapted mathematical calculation technique that generates\n      CT images with less picture degradation (noise) than traditional computer reconstruction\n      techniques such as FBP (Filtered Back Projection) and ASIR (Adaptive Statistical Iterative\n      Reconstruction), for enteric Crohn's Disease findings.\n\n      The research involves collection of data from subjects standard of care diagnostic CT scan\n      and from a research low radiation dose scan performed immediately following their diagnostic\n      scan. We will determine the impact on image quality, interpretability, and Crohn's Disease\n      findings of the low dose scan compared to the standard of care scan.\n\n      FBP, MBIR, and ASIR are post processing tools that do not alter the scan acquisition itself."
+        }, 
+        "brief_title": "Comparison of Standard and Low Dose CT Enterography for Crohn's Disease", 
+        "completion_date": {
+            "#text": "November 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Crohn's Disease", 
+        "condition_browse": {
+            "mesh_term": "Crohn Disease"
+        }, 
+        "detailed_description": {
+            "textblock": "1. PURPOSE\n\n           The purpose of this study is to assess the efficacy of a new model based iterative\n           reconstruction algorithm as a noise reduction tool and to compare its sensitivity for\n           the findings of enteric Crohn's Disease with the sensitivity of FBP or ASIR CT\n           Enterography findings in enteric Crohn's Disease.\n\n           Definitions:\n\n           Iterative reconstruction: A computer adapted mathematical calculation technique that\n           allows the ability to generate CT images with less image noise (picture degradation)\n           than traditional image reconstruction techniques.\n\n           Reconstruction algorithms are computer adapted mathematical calculations applied to raw\n           data during image reconstruction.\n\n        2. HYPOTHESIS\n\n           The use of different CT reconstruction algorithms will allow the quantitative\n           assessment of small bowel Crohn's Disease (CD) while exposing patients to lower\n           radiation doses. MBIR and ASIR will provide images with lower noise and similarly\n           accurate quantification of CD. Additionally, MBIR will allow acquisition of CT data at\n           very low radiation doses, with comparable image quality and quantitative assessment of\n           CD compared to higher radiation dose acquisitions performed utilizing FBP and ASIR.\n           MBIR will not be inferior to FBP or ASIR in assessing findings related to Crohn's\n           Disease on CT enterography (CTE).\n\n           Definitions\n\n           MBIR: Model Based Iterative Reconstruction algorithm FBP: Filtered Back Projection\n           ASIR: Adaptive Statistical Iterative Reconstruction\n\n        3. JUSTIFICATION\n\n           Computed tomography imaging traditionally relied upon filtered back projection (FBP)\n           for image reconstruction. This technique uses relatively little computing power, but\n           requires a number of assumptions be made about the data acquisition itself that result\n           in an increase in image noise.\n\n           The use of iterative reconstruction techniques has recently started to take place in CT\n           imaging. The major benefit of iterative reconstruction techniques is the ability to\n           generate CT images with less image noise. This noise reduction allows for tube current\n           reduction with IR images, limiting radiation dose in a linear manner.\n\n           Model based iterative reconstruction (MBIR), is replacing the older iterative\n           technique, adaptive statistical iterative reconstruction (ASIR). MBIR utilizes more\n           accurate modeling and early research suggests MBIR images may be reconstructed from CT\n           acquisitions that use significantly decreased radiation dose, with similar image\n           quality compared to both ASIR and FBP.\n\n           FBP, MBIR, and ASIR are post processing tools that do not alter the scan acquisition\n           itself. Iterative reconstruction algorithms have garnered increased interest,\n           especially with elevated public concern about radiation dose . MBIR techniques have not\n           yet been validated in CT examinations acquired for evaluation of Crohn's Disease (CD).\n\n           Clinical history, physical examination, laboratory investigations and endoscopy have\n           been used to identify and evaluate the extent and severity of Crohn's Disease along\n           with imaging studies to assist in the evaluation of the small bowel involvement of CD.\n           CT Enterography has become the preferred imaging modality for assessing small bowel\n           involvement in inflammatory bowel disease. The dose reduction properties of MBIR are\n           particularly appealing in this area of CT imaging as multiple scans may be performed\n           over time to assess progression or relapse of disease and response to treatment.\n\n           Calprotectin is a protein found inside the cytoplasm of the immune cells within the\n           intestine known as neutrophils, granulocytes and macrophages. Under conditions of\n           mucosal inflammation as seen in inflammatory bowel disease, calprotectin is released\n           into the lumen of the bowel and excreted in the stool. Fecal Calprotectin levels can be\n           measured and serve as a biological marker of the degree of mucosal inflammation in the\n           bowel. Fecal calprotectin levels have not been previously correlated with the degree of\n           mucosal inflammation seen on CT Enterography.\n\n        4. OBJECTIVE\n\n           To determine the impact on image quality, interpretability, and Crohn's Disease\n           findings of low dose computed tomography enterography (CTE) images acquired with a new\n           model based iterative reconstruction algorithm as compared to standard image\n           reconstruction.\n\n        5. RESEARCH METHOD\n\n           The research is a prospective non randomized study of 163 consecutive patients who are\n           clinically referred for CT Enterography.\n\n        6. STATISTICAL ANALYSIS\n\n      Using sensitivity of the CTE to calculate sample size, the planned sample size for this\n      study is 163 subjects. The study will be powered at 80% to demonstrate that the lower\n      radiation CTE (ASIR and MBIR) is non-inferior (type I error rate of 2.5%, one sided) to the\n      standard CTE. The sensitivity of the standard CTE is assumed to be 0.77 based on a pooled\n      estimate [7]. 0.1 is chosen as the non-inferiority margin. The correlation between the two\n      procedures is considered in the sample size calculation. We assume that the prevalence of\n      Crohn's Disease is 80% among the target population.\n\n      Using the nQuery statistical program, with the assumption that the proportion of discordant\n      examinations is 0.15(or the conditional probability of positive finding in standard CTE is\n      0.90 if given a positive finding on the ASIR or MBIR CTE), the sample size needed to detect\n      no more than 0.1 difference in sensitivity of the two procedures for patients with disease\n      is 118, with a 80% power and a type I error of 0.025, one sided. Assuming that 80% of target\n      population will have disease, approximately 148 subjects will need to be recruited. We have\n      factored in a 10% drop out rate ( patients who leave the study for any reason) bringing the\n      total number of patients to be recruited to 163.\n\n      Image quality scores and quantitative analysis will be compared using both standard and the\n      novel reconstruction algorithms. These results will also be compared to the acquired FC\n      levels. Because each patient examination will receive multiple reconstructions, a\n      mixed-model analysis will be conducted to account for repeated observations within patients.\n      Repeated measures analysis of variance will be conducted separately for each outcome\n      (signal, noise, SNR, proportion of interpretable segments, and image quality) against the\n      type of reconstruction used. A 0.05 significance level will be used for all repeated\n      measures and analysis.\n\n      Primary Endpoint:\n\n      FBP, ASIR and MBIR will each be compared to the reference standard described below. The\n      endpoint will be the ability of each method to accurately identify the presence or absence\n      of Crohn's Disease (CD) as compared to the reference standard.\n\n      Reference Standard:\n\n      Dr. B. Bressler, the principal investigator, is a gastroenterologist with an expertise in\n      inflammatory bowel disease (IBD). Dr. Bressler will review all of the available clinical\n      parameters including history and physical exam findings, ileocolonoscopy findings if\n      available and laboratory parameters including bloodwork and Fecal Calprotectin levels. The\n      gastroenterologist will not be blinded to the subject's identity. Based on his review of the\n      above parameters, he will rate the presence of small bowel CD as definitely active, probably\n      active, inactive (remission) or absent."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients age 19 years or older with suspected or known inflammatory bowel disease\n             referred to the St. Paul's Hospital Radiology department for CT Enterography\n             examination will be eligible to participate.\n\n        Exclusion Criteria:\n\n          -  Patients unable to tolerate oral contrast media ( PegLyte (polyethylene glycol) for\n             bowel distension or with kidney disease (gfr<60) where intravenous contrast would be\n             contraindicated.\n\n          -  Patients with a known or suspected allergy/reaction to contrast material.\n\n          -  Pregnant patients Note: As per standard of care in the SPH radiology department, a\n             screening pregnancy test will be done if the patient is of child bearing potential\n             and is not sure that they are pregnant.\n\n          -  Patients who are unwilling to sign the consent form will not be eligible for\n             participation."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "80 Years", 
+            "minimum_age": "19 Years", 
+            "sampling_method": "Probability Sample", 
+            "study_pop": {
+                "textblock": "Patients suspected of having Crohn's Disease who are referred for CT Enterography\n        examination by their gastroenterologist"
+            }
+        }, 
+        "enrollment": {
+            "#text": "166", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 6, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01736046", 
+            "org_study_id": "H12-02211"
+        }, 
+        "intervention": {
+            "arm_group_label": "Crohn's Disease patients", 
+            "description": "Diagnostic CT Enterography Scan (CTE)\nSubjects will have their scheduled diagnostic CTE scan done according to St. Paul's Hospital radiology department standard procedures.  Subjects will be randomly assigned to undergo a low dose CT Enterography  scan either before or after the diagnostic scan. The radiologists who are blinded to the technique used will then interpret the scans to look for signs of Crohn's disease. The low dose scan will be compared to the standard scan in terms of it's ability to detect signs of Crohn's disease.", 
+            "intervention_name": "CT Enterography", 
+            "intervention_type": "Radiation", 
+            "other_name": "CT Scan to include imaging of the small bowel and colon"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "CT Enterography", 
+            "Crohn's Disease", 
+            "Inflammatory Bowel Disease"
+        ], 
+        "lastchanged_date": "March 26, 2014", 
+        "location": {
+            "contact": {
+                "email": "grosenfeld@telus.net", 
+                "last_name": "Greg Rosenfeld, MD", 
+                "phone": "604 688 56332"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Vancovuer", 
+                    "country": "Canada", 
+                    "state": "British Columbia", 
+                    "zip": "V6M 3J9"
+                }, 
+                "name": "St. Paul's Hospital"
+            }, 
+            "investigator": [
+                {
+                    "last_name": "Brian Bressler, MSc,MD", 
+                    "role": "Principal Investigator"
+                }, 
+                {
+                    "last_name": "Greg Rosenfeld, MD", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Jacquie Brown, MD", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Patrick Vos, MD", 
+                    "role": "Sub-Investigator"
+                }
+            ], 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "Canada"
+        }, 
+        "number_of_groups": "1", 
+        "official_title": "Effects of CT Reconstruction Algorithm on the Quantitative Assessment of Crohn's Disease: A Comparison of Standard and Low Dose CT Enterography", 
+        "overall_contact": {
+            "email": "grosenfeld@telus.net", 
+            "last_name": "Greg Rosenfeld, MD", 
+            "phone": "604-688-6332"
+        }, 
+        "overall_contact_backup": {
+            "email": "cgalorport@gmail.com", 
+            "last_name": "Cherry Galorport", 
+            "phone": "604-688-6332"
+        }, 
+        "overall_official": {
+            "affiliation": "UBC", 
+            "last_name": "Brian Bressler, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "Canada: Health Canada", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "November 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "FBP, ASIR and MBIR will each be compared to the reference standard. The endpoint will be the ability of each method to accurately identify the presence or absence of Crohn's Disease (CD) as compared to the reference standard.", 
+            "measure": "Sensitivity of Low Dose and Standard dose CTE for detecting active Crohn's Disease", 
+            "safety_issue": "No", 
+            "time_frame": "1 year"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01736046"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "description": "Fecal Calprotectin levels will be measured and the results will be correlated with findings suggestive of Crohn's Disease on CT Enterography", 
+            "measure": "Correlation of Fecal Calprotectin with Radiology findings of Crohn's Disease", 
+            "safety_issue": "No", 
+            "time_frame": "1 year"
+        }, 
+        "source": "University of British Columbia", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of British Columbia", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "December 2012", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "March 2014"
+    }
+}

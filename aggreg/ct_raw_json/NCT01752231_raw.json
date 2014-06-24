@@ -1,0 +1,112 @@
+{
+    "clinical_study": {
+        "@rank": "53527", 
+        "arm_group": {
+            "arm_group_label": "DCE-MRI (dynamic contrast-enhanced MRI)", 
+            "arm_group_type": "Experimental", 
+            "description": "Patients undergo DCE-MRI over approximately 30-60 minutes consisting of an anatomical scout image to localize the region of interest, a set of pre-injection scans to calibrate the dynamic image set, a dynamic image set during which contrast agent will be injected, and a set of post-injection scans to calibrate the DCE-MRI database."
+        }, 
+        "brief_summary": {
+            "textblock": "This pilot clinical trial studies dynamic contrast enhanced (DCE)-magnetic resonance imaging\n      (MRI) in diagnosing cancer. New diagnostic procedures, such as DCE-MRI may help find and\n      diagnose cancer"
+        }, 
+        "brief_title": "Optimization of Novel DCE-MRI Imaging Sequences for Cancer Therapy Monitoring", 
+        "condition": "Normal Volunteers", 
+        "detailed_description": {
+            "textblock": "PRIMARY OBJECTIVES:\n\n      I. Optimize and develop functional DCE-MRI pulse sequences, which involve the injection of\n      MRI-visible contrast agents, for imaging in the head/neck, abdominal and pelvic regions.\n\n      II. Determine the ideal radiofrequency (RF) coil setup to maximize signal to noise ratio of\n      the optimized pulse sequences.\n\n      III. Distill the findings of specific aims 1 and 2 into streamlined protocols that can be\n      used in subsequent studies for cancer phenotyping and treatment monitoring in a quantitative\n      manner.\n\n      IV. To establish a virtual reference image repository for future studies.\n\n      OUTLINE: Patients undergo DCE-MRI over approximately 30-60 minutes consisting of an\n      anatomical scout image to localize the region of interest, a set of pre-injection scans to\n      calibrate the dynamic image set, a dynamic image set during which contrast agent will be\n      injected, and a set of post-injection scans to calibrate the DCE-MRI database."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n        All subjects are eligible except for the following special cases:\n\n        Exclusion Criteria:\n\n          -  Female subjects who are or may be pregnant will NOT be eligible.\n\n          -  The minimum age for all subjects is 18 years old. No subjects under the age of 18\n             shall be considered.\n\n          -  If subject has received an imaging contrast agent of any kind within the past 7 days,\n             they shall not be included in the study.\n\n          -  Subjects for whom MRI is contraindicated as set forth by the City of Hope Department\n             of Radiology. These include:\n\n               -  electrical implants such as cardiac pacemakers or perfusion pumps\n\n               -  ferromagnetic implants such as aneurysm clips, surgical clips, prostheses,\n                  artificial hearts, valves with steel parts, metal fragments, shrapnel, tattoos\n                  near the eye, or steel implants\n\n               -  ferromagnetic objects such as jewelry or metal clips in clothing\n\n               -  pre-existing medical conditions, including a likelihood of developing seizures\n                  or anxiety disorders such as claustrophobia, panic attacks or any psychiatric\n                  disorder\n\n               -  any greater than normal potential for cardiac arrest\n\n               -  any subject with known kidney insufficiency function as evidenced by an abnormal\n                  serum creatinine (normal = 0.6 - 1.5 mg/dL) from a blood test performed on the\n                  subject within the past 6 months of the study date.\n\n               -  Any subject with abnormal creatinine clearance (normal = 100-130 ml/min/1.73m2),\n                  as measured by a direct test or from plasma creatinine (14) levels shall be\n                  excluded.\n\n          -  Normal subjects with a history of severe claustrophobia will not be eligible.\n\n          -  For ease of recruiting and study management purposes, only subjects who can give\n             consent in English shall be eligible for this study."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "30", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "December 12, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01752231", 
+            "org_study_id": "12050", 
+            "secondary_id": "NCI-2012-03002"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "DCE-MRI (dynamic contrast-enhanced MRI)", 
+                "intervention_name": "MultiHance", 
+                "intervention_type": "Drug", 
+                "other_name": "Gadobenate dimeglumine"
+            }, 
+            {
+                "arm_group_label": "DCE-MRI (dynamic contrast-enhanced MRI)", 
+                "description": "Undergo DCE-MRI using new pulse sequences", 
+                "intervention_name": "dynamic contrast-enhanced magnetic resonance imaging", 
+                "intervention_type": "Procedure", 
+                "other_name": "DCE-MRI"
+            }
+        ], 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "lastchanged_date": "July 26, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Duarte", 
+                    "country": "United States", 
+                    "state": "California", 
+                    "zip": "91010"
+                }, 
+                "name": "City of Hope Medical Center"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Optimization of Novel DCE-MRI Imaging Sequences for Cancer Therapy Monitoring", 
+        "overall_official": {
+            "affiliation": "City of Hope Medical Center", 
+            "last_name": "Jinha Park, MD, Ph.D.", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Enrolling by invitation", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "November 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Analysis of DCE-MRI data will be by semi-quantitative metrics such as the area under the curve (AUC), the slopes of contrast agent uptake and washout curves as well as peak contrast agent uptake. Alternatively quantitative metrics based upon pharmacokinetic modeling will be derived.  The model is the 2-compartment Kety model from which volume transfer constants between compartments and volume of the tissue compartments can be calculated.", 
+            "measure": "Dynamic contrast-enhanced MRI (DCE-MRI) as a measure of tumor treatment response.", 
+            "safety_issue": "No", 
+            "time_frame": "1 year"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01752231"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "City of Hope Medical Center", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "City of Hope Medical Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "November 2012", 
+        "study_design": "Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "July 2013"
+    }
+}

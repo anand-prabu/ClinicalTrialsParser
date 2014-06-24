@@ -1,0 +1,179 @@
+{
+    "clinical_study": {
+        "@rank": "9994", 
+        "acronym": "frequenz", 
+        "arm_group": [
+            {
+                "arm_group_label": "Control", 
+                "arm_group_type": "No Intervention", 
+                "description": "5 minutes chest-compression-only CPR, without any support"
+            }, 
+            {
+                "arm_group_label": "PocketCPR", 
+                "arm_group_type": "Experimental", 
+                "description": "5 minutes chest-compression-only CPR, with support"
+            }, 
+            {
+                "arm_group_label": "Metronome", 
+                "arm_group_type": "Experimental", 
+                "description": "5 minutes chest-compression-only CPR, with support"
+            }, 
+            {
+                "arm_group_label": "110bpm Song", 
+                "arm_group_type": "Experimental", 
+                "description": "5 minutes chest-compression-only CPR, with support"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Comparison of various methods to improve the quality of CPR"
+        }, 
+        "brief_title": "Comparison of the Quality of CPR by Lay Rescuers With and Without Feedback Devices", 
+        "completion_date": {
+            "#text": "February 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Cardiac Arrest", 
+        "condition_browse": {
+            "mesh_term": "Heart Arrest"
+        }, 
+        "detailed_description": {
+            "textblock": "Even for paramedics and emergency physicians, the resuscitation of patients with cardiac\n      arrest remains a challenge. Previous studies have shown that the cardiac output varies\n      widely even among professional helpers. This is especially due to some very different mean\n      frequencies of cardiac compression wich vary from 60 to 160/min for paramedics. Aim of this\n      study is to investigate whether the use of feedback-devices during cardiac-pulmonary\n      resuscitation (CPR) can lead to an improvement of the cardiac output and may improve\n      survival.\n\n      For this, we examine the impact of different feedback-methods on the frequence-variety on\n      manikin by lay rescuers. Overall, we compare three different devices for feedback during\n      CPR. The subjects for this study are lay rescuers who perform a 5 minute\n      chest-compression-only CPR."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  lay rescuers\n\n          -  >18 years\n\n          -  <60 years\n\n        Exclusion Criteria:\n\n          -  professional rescuers\n\n          -  pregnancy"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "60 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "240", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 17, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02000505", 
+            "org_study_id": "10-333"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "PocketCPR", 
+                "description": "5 minutes chest-compression-only CPR, using Zoll PocketCPR", 
+                "intervention_name": "PocketCPR", 
+                "intervention_type": "Device"
+            }, 
+            {
+                "arm_group_label": "Metronome", 
+                "description": "5 minutes chest-compression-only CPR, using a metronome", 
+                "intervention_name": "Metronome", 
+                "intervention_type": "Device"
+            }, 
+            {
+                "arm_group_label": "110bpm Song", 
+                "description": "5 minutes chest-compression-only CPR, using a song with 110bpm for support", 
+                "intervention_name": "110bpm Song", 
+                "intervention_type": "Device"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "January 4, 2014", 
+        "link": {
+            "description": "Department for anaesthesiology and intensive care", 
+            "url": "http://anaesthesie.uk-koeln.de/de"
+        }, 
+        "location": {
+            "contact": {
+                "email": "stefan.braunecker@uk-koeln.de", 
+                "last_name": "Stefan Braunecker, MD", 
+                "phone": "0221-478-97729"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "K\u00f6ln", 
+                    "country": "Germany", 
+                    "zip": "50937"
+                }, 
+                "name": "Uniklinik K\u00f6ln"
+            }, 
+            "investigator": [
+                {
+                    "last_name": "Stefan Braunecker, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                {
+                    "last_name": "Jochen Hinkelbein, MD", 
+                    "role": "Principal Investigator"
+                }
+            ], 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "Germany"
+        }, 
+        "number_of_arms": "4", 
+        "official_title": "Comparison of the Quality of CPR by Lay Rescuers With and Without Telephone Instructions by a Simulated Rescue Coordination Center", 
+        "overall_contact": {
+            "email": "stefan.braunecker@uk-koeln.de", 
+            "last_name": "Stefan Braunecker, MD"
+        }, 
+        "overall_official": [
+            {
+                "affiliation": "University Hospital Cologne", 
+                "last_name": "Stefan Braunecker, MD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "University Hospital Cologne", 
+                "last_name": "Jochen Hinkelbein, MD", 
+                "role": "Study Director"
+            }
+        ], 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "Germany: Ethics Commission", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "February 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "The main goal of the study is the average achieved cardiac output. Data acquisition is carried out on a resuscitation-manikin which can measure compression-rate (CR) and compression-depth (CD). The data are recorded by a computer during the CPR. To calculate the cardiac output, we multiply the average CR [1/min] with the average CD [mm] during the 5 min manikin-resuscitation. The thus obtained average cardiac-output (CO = CR x CD), measured in [mm/min], will be compared in each group.", 
+            "measure": "The average achieved cardiac output", 
+            "safety_issue": "No", 
+            "time_frame": "after 5 minutes"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02000505"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University Hospital of Cologne", 
+            "investigator_full_name": "Dr. med. Stefan Braunecker", 
+            "investigator_title": "Anesthesiologist, Researcher", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": {
+            "description": "Second objective of the study is the variation of the compression-rate and the compression-depth during the resuscitation. We compare the average compression-rate and compression-depth of the first 30 compressions and the last 30 compression of every participant. As a result, the average standard deviation in each group will be calculated. Afterward, the groups will be compared using the mean deviation of every group. The mean deviation will be measured in +/-[mm] for compression-depth and +/-[1/min] for compression rate.", 
+            "measure": "Constancy of the quality of chest-compressions", 
+            "safety_issue": "No", 
+            "time_frame": "after 5 minutes"
+        }, 
+        "source": "University Hospital of Cologne", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University Hospital of Cologne", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "November 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2014"
+    }
+}

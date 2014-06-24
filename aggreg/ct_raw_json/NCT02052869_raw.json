@@ -1,0 +1,136 @@
+{
+    "clinical_study": {
+        "@rank": "117780", 
+        "arm_group": {
+            "arm_group_label": "esophagus intubation", 
+            "arm_group_type": "Other", 
+            "description": "all patients will be intubated in the trachea first, with subsequent intubation in the esophagus. measurements will be performed on both tubes in a blinded manner."
+        }, 
+        "brief_summary": {
+            "textblock": "In endotracheal intubation, it is essential that the trachea is intubated and not the\n      esophagus. In suboptimal situations (outside an operating theatre), malpositioning of the\n      endotracheal tube occurs frequently and is often fatal. The diagnostic tools that are\n      available in the operating theatre are not appropriate for out-of-hospital situations\n      because of several reasons. Moreover, these methods mostly take some time to provide the\n      desired information and don't have optimal specificity and sensitivity. In order to allow\n      fast diagnosis of this potentially fatal complication, we have developed a fully-automatic\n      detection device to diagnose endotracheal tube malpositioning within 2 seconds.\n\n      A high sensitivity/specificity of the algorithm for waveform-analysis was demonstrated in\n      healthy patients and patients with pulmonary diseases (decreased pulmonary compliance).\n\n      A new stand-alone device with integrated sensors and microprocessor was developed that gives\n      immediate diagnosis, and stores data for subsequent research purpose. This device will be\n      evaluated in perioperative situations to demonstrate the high sensitivity and specificity in\n      patients in a clinical setting."
+        }, 
+        "brief_title": "Spirometric Detection of Esophageal Intubation", 
+        "completion_date": {
+            "#text": "August 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Hypoxia", 
+            "Hypoventilation"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Anoxia", 
+                "Hypoventilation", 
+                "Respiratory Insufficiency"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "The fundamental algorithm for waveform analysis is unchanged, but an additional detection\n      algorithm is incorporated for improved detection of ventilation efforts. In addition,\n      sensors are integrated, automatic feedback electronics are improved, and the device is made\n      more user friendly to be appropriate for out-of-hospital situations in demanding\n      environments.\n\n      In addition, waveforms will be recorded for later analysis and evaluation of the  diagnostic\n      value of a thoracic push ( a gentle push on the sternum) to detect tube position."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  General anesthesia with endotracheal intubation required for the procedure\n\n          -  Age: 18 years and older\n\n          -  Total intravenous anesthesia with propofol (in order ro guarantee adequate hypnosis\n             during the procedure)\n\n        Exclusion Criteria:\n\n          -  Oesophageal pathology\n\n          -  Patients at risk for desaturation (SpO2 < 95%) if 20 seconds of apnoea is   induced\n             after adequate preoxygenation"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "60", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "January 28, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02052869", 
+            "org_study_id": "Lazarus 003"
+        }, 
+        "intervention": {
+            "arm_group_label": "esophagus intubation", 
+            "description": "In these patients, automatic pressure waveform analysis is performed during the first three test ventilations on both the tracheal and oesophageal tube. ventilations will be performed by a blinded person. Subsequently, three conventional thoracic pushes will be performed.", 
+            "intervention_name": "esophagus intubation", 
+            "intervention_type": "Procedure"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "endotracheal intubation", 
+            "esophageal intubation"
+        ], 
+        "lastchanged_date": "January 30, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Groningen", 
+                    "country": "Netherlands", 
+                    "zip": "9713EZ"
+                }, 
+                "name": "University Medical Center Groningen"
+            }, 
+            "status": "Not yet recruiting"
+        }, 
+        "location_countries": {
+            "country": "Netherlands"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Spirometric Detection of Esophageal Intubation", 
+        "overall_contact": {
+            "email": "a.kalmar@umcg.nl", 
+            "last_name": "Alain Kalmar, dr"
+        }, 
+        "overall_contact_backup": {
+            "email": "r.spanjersberg@umcg.nl", 
+            "last_name": "rob spanjersberg"
+        }, 
+        "overall_official": {
+            "affiliation": "University hosptal Medical Center Groningen,University of Groningen, The Netherlands", 
+            "last_name": "Alain Kalmar, MD PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Not yet recruiting", 
+        "oversight_info": {
+            "authority": "Netherlands: Medical Ethics Review Committee (METC)", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "August 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Determine the sensitivity/specificity of the fully-automatic device to diagnose oesophageal intubation based on test ventilations", 
+            "measure": "sensitivity/specificity of the fully-automatic device", 
+            "safety_issue": "Yes", 
+            "time_frame": "first 3 minutes after intubation"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02052869"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University Medical Centre Groningen", 
+            "investigator_full_name": "A.F.Kalmar", 
+            "investigator_title": "Dr.", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": {
+            "description": "Evaluate the value of the supplementary algorithm to detect tube position without test ventilation. relying on only pressure waveform analysis during a conventional \"thoracic push\"", 
+            "measure": "Evaluate the value of the supplementary algorithm", 
+            "safety_issue": "Yes", 
+            "time_frame": "first 3 minutes of intubation"
+        }, 
+        "source": "University Medical Centre Groningen", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University Medical Centre Groningen", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2014", 
+        "study_design": "Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2014"
+    }
+}

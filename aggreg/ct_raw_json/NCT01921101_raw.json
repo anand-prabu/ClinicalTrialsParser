@@ -1,0 +1,824 @@
+{
+    "clinical_study": {
+        "@rank": "3207", 
+        "arm_group": [
+            {
+                "arm_group_label": "intensive medical nutrition", 
+                "arm_group_type": "Other", 
+                "description": "participants will receive intensive medical nutrition from hospital admission to discharge"
+            }, 
+            {
+                "arm_group_label": "control", 
+                "arm_group_type": "Other", 
+                "description": "participants will not receive intensive nutriitonal support from hosptial admission to discharge"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The investigators propose a prospective randomized clinical trail to evaluate the impact of\n      intensive medical nutrition therapy (IMNT) in malnourished patients with ARDS on short and\n      long-term outcomes. Participant's (N = 200) will be randomized to receive either standard\n      care (SC e.g. ad lib feeding of standard food) or IMNT provided early as EN and continued as\n      intensive diet therapy tailored to maximize oral intake until hospital discharge. Primary\n      outcomes evaluated include infections while hospitalized, immune parameters (CD4 and CD8\n      cells, serum IL-10 and leptin levels,l numbers of T regulatory cells and markers for T cell\n      anergy), days on mechanical ventilation, in the ICU and hospital , and changes in fat free\n      mass(measured by dual energy x-ray absorptiometry), weight, muscular weakness (measured as\n      hand grip strength), fatigue (measured as distanced traveled in 6-minute walk) and pulmonary\n      function."
+        }, 
+        "brief_title": "Intensive Nutrition in ARDS: A Clinical Trial (INTACT)", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "participants will receive intensive medical nutrition from hospital admission to discharge\nintensive medical nutrition: provision of participants energy and protein needs via enteral, parenteral nutrition from hospital admission to discharge", 
+                            "title": "Intensive Medical Nutrition"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "participants will not receive intensive nutriitonal support from hosptial admission to discharge\ncontrol: participants will receive standard care for nutrition received from hosptial admission to discharge", 
+                            "title": "Control"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "40"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "38"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "78"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@spread": "17.1", 
+                                                "@value": "52.5"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@spread": "16.2", 
+                                                "@value": "58.6"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@spread": "16.7", 
+                                                "@value": "55.4"
+                                            }
+                                        ]
+                                    }, 
+                                    "sub_title": "age"
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "50"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "14"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "14"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "28"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "21"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "17"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "38"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "19"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "21"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "40"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "American Indian or Alaska Native"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Asian"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Native Hawaiian or Other Pacific Islander"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "10"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "11"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "21"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Black or African American"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "30"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "27"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "57"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "White"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "More than one race"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Unknown or Not Reported"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Race (NIH/OMB)", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "40"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "38"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "78"
+                                            }
+                                        ]
+                                    }, 
+                                    "sub_title": "United States"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }, 
+                "population": "gender, race/ethnicity, age, diagnosis, admission height and weight, body mass index, ICU admission Acute Physiology and Chronic Health Evaluation II score,  Sequential Organ Failure Assessment  scores"
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "method": "t-test, 2 sided", 
+                                "non_inferiority": "No", 
+                                "p_value": "0.29"
+                            }
+                        }, 
+                        "description": "All infections that occur (including blood, wound, sputum, urinary tract and pulmonary) following recruitment recorded in the medical record will be included.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "participants will receive intensive medical nutrition from hospital admission to discharge\nintensive medical nutrition: provision of participants energy and protein needs via enteral, parenteral nutrition from hospital admission to discharge", 
+                                    "title": "Intensive Medical Nutrition"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "participants will not receive intensive nutriitonal support from hosptial admission to discharge\ncontrol: participants will receive standard care for nutrition received from hosptial admission to discharge", 
+                                    "title": "Control"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "40"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "30"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "5"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "8"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "All infections that occur (including blood, wound, sputum, urinary tract and pulmonary) following recruitment recorded in the medical record will be included.", 
+                                    "param": "Number", 
+                                    "title": "Infection", 
+                                    "units": "participants"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "Yes", 
+                        "time_frame": "during hospitalization", 
+                        "title": "Infection", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "The total number of days the patient is in the hospital", 
+                        "safety_issue": "Yes", 
+                        "time_frame": "days in hospital", 
+                        "title": "Length of Hospital Stay", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "the total number of days requiring mechanical ventilation while hospitalized", 
+                        "safety_issue": "Yes", 
+                        "time_frame": "days", 
+                        "title": "Days on Mechanical Ventilation", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "The date of death for all participants that die between enrollment and their final data colleciton (6-months after hospital discharge)", 
+                        "safety_issue": "Yes", 
+                        "time_frame": "date of occurance", 
+                        "title": "Death", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "Markers of immune response (including IL-6, IL-10, adiponectin, leptin, CRP, TNF, CD4/CD8 and HLA/CD14", 
+                        "safety_issue": "Yes", 
+                        "time_frame": "baseline and weekly while hospitalized", 
+                        "title": "Immune Parameters", 
+                        "type": "Other Pre-specified"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "participants will receive intensive medical nutrition from hospital admission to discharge\nintensive medical nutrition: provision of participants energy and protein needs via enteral, parenteral nutrition from hospital admission to discharge", 
+                            "title": "Intensive Medical Nutrition"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "participants will not receive intensive nutriitonal support from hosptial admission to discharge\ncontrol: participants will receive standard care for nutrition received from hosptial admission to discharge", 
+                            "title": "Control"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "drop_withdraw_reason_list": {
+                            "drop_withdraw_reason": {
+                                "participants_list": {
+                                    "participants": [
+                                        {
+                                            "@count": "16", 
+                                            "@group_id": "P1"
+                                        }, 
+                                        {
+                                            "@count": "6", 
+                                            "@group_id": "P2"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Death"
+                            }
+                        }, 
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "40", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "38", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "24", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "32", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "16", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "6", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }
+            }, 
+            "point_of_contact": {
+                "email": "braunsch@uic.edu", 
+                "name_or_title": "Dr. Carol Braunschweig, Professor", 
+                "organization": "University of Illinois at Chicago", 
+                "phone": "3129962575"
+            }, 
+            "reported_events": {
+                "desc": "hyperglycemia, hypoglycemia, aspiration, tube feeding complications, parenteral nutrition complications, death", 
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "E1", 
+                            "description": "participants will receive intensive medical nutrition from hospital admission to discharge\nintensive medical nutrition: provision of participants energy and protein needs via enteral, parenteral nutrition from hospital admission to discharge", 
+                            "title": "Intensive Medical Nutrition"
+                        }, 
+                        {
+                            "@group_id": "E2", 
+                            "description": "participants will not receive intensive nutriitonal support from hosptial admission to discharge\ncontrol: participants will receive standard care for nutrition received from hosptial admission to discharge", 
+                            "title": "Control"
+                        }
+                    ]
+                }, 
+                "serious_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "16", 
+                                                "@subjects_at_risk": "40"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "38"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, serious adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "16", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "16", 
+                                                "@subjects_at_risk": "40"
+                                            }, 
+                                            {
+                                                "@events": "6", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "38"
+                                            }
+                                        ], 
+                                        "sub_title": "death"
+                                    }
+                                }, 
+                                "title": "General disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment"
+                }, 
+                "time_frame": "From  enrollment throughout hospitalization in all participants"
+            }
+        }, 
+        "completion_date": {
+            "#text": "June 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": "Acute Lung Injury", 
+        "condition_browse": {
+            "mesh_term": [
+                "Acute Lung Injury", 
+                "Respiratory Distress Syndrome, Adult", 
+                "Lung Injury", 
+                "Wounds and Injuries"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria: Adult patients (> 18 years) with a diagnosis of ARDS, classified as\n        moderate or severely malnourished by SGA, viable GI function for enteral feeding\n\n        -\n\n        Exclusion Criteria: Patients who are (1) transferred from another ICU, (2) previously\n        admitted to the ICU during the same hospitalization, (3) do not recesitate status or < 12\n        month perceived survival due to underlying disease state (4) severely immunosupressed, (5)\n        immobility prior to ICU admission, (6) documented neurologic disease prior to admission.\n        -"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "90 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "78", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "July 3, 2013", 
+        "firstreceived_results_date": "April 15, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_alias": "NCT01071330", 
+            "nct_id": "NCT01921101", 
+            "org_study_id": "685"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "intensive medical nutrition", 
+                "description": "provision of participants energy and protein needs via enteral, parenteral nutrition from hospital admission to discharge", 
+                "intervention_name": "intensive medical nutrition", 
+                "intervention_type": "Behavioral"
+            }, 
+            {
+                "arm_group_label": "control", 
+                "description": "participants will receive standard care for nutrition received from hosptial admission to discharge", 
+                "intervention_name": "control", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "nutrition", 
+            "enteral feeding", 
+            "parenteral feeding", 
+            "hospital malnutrition"
+        ], 
+        "lastchanged_date": "April 15, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Chicago", 
+                    "country": "United States", 
+                    "state": "Illinois", 
+                    "zip": "60612"
+                }, 
+                "name": "Rush University Medical Center"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Intensive Nutrition in ARDS: A Clinical Trail (INTACT)", 
+        "other_outcome": {
+            "description": "Markers of immune response (including IL-6, IL-10, adiponectin, leptin, CRP, TNF, CD4/CD8 and HLA/CD14", 
+            "measure": "Immune Parameters", 
+            "safety_issue": "Yes", 
+            "time_frame": "baseline and weekly while hospitalized"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "June 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "All infections that occur (including blood, wound, sputum, urinary tract and pulmonary) following recruitment recorded in the medical record will be included.", 
+            "measure": "Infection", 
+            "safety_issue": "Yes", 
+            "time_frame": "during hospitalization"
+        }, 
+        "reference": [
+            {
+                "PMID": "23340043", 
+                "citation": "Sheean PM, Peterson SJ, Chen Y, Liu D, Lateef O, Braunschweig CA. Utilizing multiple methods to classify malnutrition among elderly patients admitted to the medical and surgical intensive care units (ICU). Clin Nutr. 2013 Jan 5. doi:pii: S0261-5614(13)00002-2. 10.1016/j.clnu.2012.12.012. [Epub ahead of print]"
+            }, 
+            {
+                "PMID": "22579721", 
+                "citation": "Sheean PM, Peterson SJ, Zhao W, Gurka DP, Braunschweig CA. Intensive medical nutrition therapy: methods to improve nutrition provision in the critical care setting. J Acad Nutr Diet. 2012 Jul;112(7):1073-9. doi: 10.1016/j.jand.2012.02.007. Epub 2012 May 12."
+            }, 
+            {
+                "PMID": "21178611", 
+                "citation": "Peterson SJ, Sheean PM, Braunschweig CL. Orally fed patients are at high risk of calorie and protein deficit in the ICU. Curr Opin Clin Nutr Metab Care. 2011 Mar;14(2):182-5. doi: 10.1097/MCO.0b013e3283428e65. Review."
+            }, 
+            {
+                "PMID": "21034876", 
+                "citation": "Braunschweig CA, Sheean PM, Peterson SJ. Examining the role of nutrition support and outcomes for hospitalized patients: putting nutrition back in the study design. J Am Diet Assoc. 2010 Nov;110(11):1646-9. doi: 10.1016/j.jada.2010.08.019."
+            }, 
+            {
+                "PMID": "20700137", 
+                "citation": "Sheean PM, Peterson SJ, Gurka DP, Braunschweig CA. Nutrition assessment: the reproducibility of subjective global assessment in patients requiring mechanical ventilation. Eur J Clin Nutr. 2010 Nov;64(11):1358-64. doi: 10.1038/ejcn.2010.154. Epub 2010 Aug 11."
+            }, 
+            {
+                "PMID": "20184993", 
+                "citation": "Peterson SJ, Tsai AA, Scala CM, Sowa DC, Sheean PM, Braunschweig CL. Adequacy of oral intake in critically ill patients 1 week after extubation. J Am Diet Assoc. 2010 Mar;110(3):427-33. doi: 10.1016/j.jada.2009.11.020."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01921101"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University of Illinois at Chicago", 
+            "investigator_full_name": "Carol Braunschweig", 
+            "investigator_title": "Professor", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "The total number of days the patient is in the hospital", 
+                "measure": "Length of Hospital Stay", 
+                "safety_issue": "Yes", 
+                "time_frame": "days in hospital"
+            }, 
+            {
+                "description": "the total number of days requiring mechanical ventilation while hospitalized", 
+                "measure": "Days on Mechanical Ventilation", 
+                "safety_issue": "Yes", 
+                "time_frame": "days"
+            }, 
+            {
+                "description": "The date of death for all participants that die between enrollment and their final data colleciton (6-months after hospital discharge)", 
+                "measure": "Death", 
+                "safety_issue": "Yes", 
+                "time_frame": "date of occurance"
+            }
+        ], 
+        "source": "University of Illinois at Chicago", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of Illinois at Chicago", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "July 2009", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Single Blind (Outcomes Assessor), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2014"
+    }
+}

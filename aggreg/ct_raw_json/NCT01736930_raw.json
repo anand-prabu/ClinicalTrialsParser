@@ -1,0 +1,2114 @@
+{
+    "clinical_study": {
+        "@rank": "51843", 
+        "acronym": "PSO1", 
+        "arm_group": [
+            {
+                "arm_group_label": "Predictive pump suspension algorithm", 
+                "arm_group_type": "Active Comparator", 
+                "description": "The study laptop will be running actively during the night and suspending the patient's pump if the algorithm predicts hypoglycemia based on the patient's continuous glucose sensor trend."
+            }, 
+            {
+                "arm_group_label": "Standard of Care", 
+                "arm_group_type": "No Intervention", 
+                "description": "The control algorithm will run passively and not recommend suspensions or resumption to the patient's pump."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to evaluate an overnight system that will turn off the insulin\n      pump automatically if the system predicts that a low blood sugar is likely.  The study\n      system includes a combination continuous glucose monitor (CGM)/ insulin pump made by\n      Medtronic MiniMed, Inc and a regular laptop computer that runs a computer program that\n      predicts low blood sugar. It works by (1) measuring the glucose levels under the skin with a\n      continuous glucose monitor, (2) using a computer program on a laptop to predict what will\n      happen to the glucose level over the next 35-55 minutes, and (3) turning off the insulin\n      pump when the computer program predicts that low blood sugar will occur. We have tested this\n      system overnight in the hospital and are ready to test the system in the home environment to\n      learn more about how well it will work and to make sure that the blood sugar does not go too\n      high when the pump shuts off.\n\n      This study has several phases and will take about a month or a little more for a patient to\n      complete.  Patients will use the study system for about 5 days at home to show that the\n      patient is able to use it correctly.  After that, the patient will be asked to use the study\n      system each night for an additional 3-4 weeks. During this time, the system will be active\n      for two-thirds of the nights and not active for one-third of the nights.  When the system is\n      active and predicts that your blood sugar will become low, the insulin pump will shut off\n      for up to 2 hours.\n\n      The study will include 2 clinical centers in the United States."
+        }, 
+        "brief_title": "An Outpatient Pump Shutoff Pilot Feasibility and Safety Study", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "B1", 
+                        "description": "Each study night will be randomized to have either Predictive Low Glucose Suspend or to be inactive (control).  On nights randomized to the intervention treatment, the study laptop will be running actively during the night and suspending the patient's pump if the algorithm predicts hypoglycemia based on the patient's continuous glucose sensor trend.  (Pump suspension : The study laptop will communicate to the pump causing suspension based on output from the algorithm which predicts hypoglycemia based on the continuous glucose sensor trend.)  On control nights, the algorithm will run passively and not recommend suspensions or resumption to the patient's pump.", 
+                        "title": "Randomized Nights- Treatment or Control"
+                    }
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "20"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "20"
+                                            }
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "11"
+                                            }
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "9"
+                                            }
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": "American Indian or Alaska Native"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": "Asian"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": "Native Hawaiian or Other Pacific Islander"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": "Black or African American"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "19"
+                                            }
+                                        }, 
+                                        "sub_title": "White"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": "More than one race"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "1"
+                                            }
+                                        }, 
+                                        "sub_title": "Unknown or Not Reported"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Race (NIH/OMB)", 
+                            "units": "participants"
+                        }
+                    ]
+                }, 
+                "population": "Each night randomized to have either Predictive Low Glucose suspend  or inactive (control)."
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as mean morning blood glucose (mg/dL).\nAn objective was to evaluate and refine the control algorithm.  The data were reviewed periodically during the study with the pre-stated goal of determining whether any changes should be made in the control algorithm.  Algorithm 1 was used for the first 105 nights of the study (38 Control nights and 67 Intervention nights).  The horizon prediction time of algorithm 1 was set at 70 minutes.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "The study laptop will be running actively during the night and suspending the patient's pump if the algorithm predicts hypoglycemia based on the patient's continuous glucose sensor trend.\nPump suspension : The study laptop will communicate to the pump causing suspension based on output from the algorithm which predicts hypoglycemia based on the continuous glucose sensor trend.", 
+                                    "title": "Predictive Pump Suspension Algorithm"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "The control algorithm will run passively and not recommend suspensions or resumption to the patient's pump.", 
+                                    "title": "Standard of Care"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "5"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "5"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "67"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "38"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Number of Mornings Analyzed analyzed", 
+                                    "units": "Number of Mornings Analyzed"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "52", 
+                                                        "@value": "158"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "53", 
+                                                        "@value": "125"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as mean morning blood glucose (mg/dL).\nAn objective was to evaluate and refine the control algorithm.  The data were reviewed periodically during the study with the pre-stated goal of determining whether any changes should be made in the control algorithm.  Algorithm 1 was used for the first 105 nights of the study (38 Control nights and 67 Intervention nights).  The horizon prediction time of algorithm 1 was set at 70 minutes.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Mean Morning Blood Glucose (mg/dL)- Algorithm 1", 
+                                    "units": "mg/dl"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "Yes", 
+                        "time_frame": "21 study nights", 
+                        "title": "Mean Morning Blood Glucose (mg/dL)- Algorithm 1", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as mean morning blood glucose (mg/dL).\nAlgorithm 1 was modified to reduce the hypoglycemia prediction horizon from 70 minutes to 50 minutes, to suspend the pump only when the continuous glucose monitor sensor glucose value was \u2264 230 mg/dl, not suspend if there was a drop of >40 mg/dl in consecutive sensor glucose readings, and to resume insulin delivery at the first rise in sensor glucose following a suspension.  There was 156 nights of study data collected (48 Control nights and 108 Intervention nights) using algorithm 2.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "The study laptop will be running actively during the night and suspending the patient's pump if the algorithm predicts hypoglycemia based on the patient's continuous glucose sensor trend.\nPump suspension : The study laptop will communicate to the pump causing suspension based on output from the algorithm which predicts hypoglycemia based on the continuous glucose sensor trend.", 
+                                    "title": "Predictive Pump Suspension Algorithm"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "The control algorithm will run passively and not recommend suspensions or resumption to the patient's pump.", 
+                                    "title": "Standard of Care"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "10"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "108"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "48"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Number of Mornings Analyzed analyzed", 
+                                    "units": "Number of Mornings Analyzed"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "57", 
+                                                        "@value": "151"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "63", 
+                                                        "@value": "138"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as mean morning blood glucose (mg/dL).\nAlgorithm 1 was modified to reduce the hypoglycemia prediction horizon from 70 minutes to 50 minutes, to suspend the pump only when the continuous glucose monitor sensor glucose value was \u2264 230 mg/dl, not suspend if there was a drop of >40 mg/dl in consecutive sensor glucose readings, and to resume insulin delivery at the first rise in sensor glucose following a suspension.  There was 156 nights of study data collected (48 Control nights and 108 Intervention nights) using algorithm 2.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Mean Morning Blood Glucose (mg/dL)- Algorithm 2", 
+                                    "units": "mg/dl"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "Yes", 
+                        "time_frame": "21 study nights", 
+                        "title": "Mean Morning Blood Glucose (mg/dL)- Algorithm 2", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as mean morning blood glucose (mg/dL).\nThe hypoglycemia prediction horizon was reduced further in algorithm 3 to 30 minutes.  A total of 114 study nights (37 Control nights and 77 Intervention nights) using algorithm 3.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "The study laptop will be running actively during the night and suspending the patient's pump if the algorithm predicts hypoglycemia based on the patient's continuous glucose sensor trend.\nPump suspension : The study laptop will communicate to the pump causing suspension based on output from the algorithm which predicts hypoglycemia based on the continuous glucose sensor trend.", 
+                                    "title": "Predictive Pump Suspension Algorithm"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "The control algorithm will run passively and not recommend suspensions or resumption to the patient's pump.", 
+                                    "title": "Standard of Care"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "9"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "8"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "77"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "37"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Number of Mornings Analyzed analyzed", 
+                                    "units": "Number of Mornings Analyzed"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "48", 
+                                                        "@value": "144"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "57", 
+                                                        "@value": "133"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as mean morning blood glucose (mg/dL).\nThe hypoglycemia prediction horizon was reduced further in algorithm 3 to 30 minutes.  A total of 114 study nights (37 Control nights and 77 Intervention nights) using algorithm 3.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Mean Morning Blood Glucose (mg/dL)- Algorithm 3", 
+                                    "units": "mg/dl"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "Yes", 
+                        "time_frame": "21 study nights", 
+                        "title": "Mean Morning Blood Glucose (mg/dL)- Algorithm 3", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as the overall percentage of mornings glucose measured with home glucose meter >250 mg/dL.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "The study laptop will be running actively during the night and suspending the patient's pump if the algorithm predicts hypoglycemia based on the patient's continuous glucose sensor trend.\nPump suspension : The study laptop will communicate to the pump causing suspension based on output from the algorithm which predicts hypoglycemia based on the continuous glucose sensor trend.", 
+                                    "title": "Predictive Pump Suspension Algorithm"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "The control algorithm will run passively and not recommend suspensions or resumption to the patient's pump.", 
+                                    "title": "Standard of Care"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "5"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "5"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "67"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "38"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Number of Mornings Analyzed analyzed", 
+                                    "units": "Number of Mornings Analyzed"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "3"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "3"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as the overall percentage of mornings glucose measured with home glucose meter >250 mg/dL.", 
+                                    "param": "Number", 
+                                    "title": "Percent Morning Blood Glucose >250 mg/dL - Algorithm 1", 
+                                    "units": "percentage of mornings"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "Yes", 
+                        "time_frame": "21 days", 
+                        "title": "Percent Morning Blood Glucose >250 mg/dL - Algorithm 1", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "The study laptop will be running actively during the night and suspending the patient's pump if the algorithm predicts hypoglycemia based on the patient's continuous glucose sensor trend.\nPump suspension : The study laptop will communicate to the pump causing suspension based on output from the algorithm which predicts hypoglycemia based on the continuous glucose sensor trend.", 
+                                    "title": "Predictive Pump Suspension Algorithm"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "The control algorithm will run passively and not recommend suspensions or resumption to the patient's pump.", 
+                                    "title": "Standard of Care"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "5"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "5"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "67"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "38"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Number of Nights Analyzed analyzed", 
+                                    "units": "Number of Nights Analyzed"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "34", 
+                                                        "@value": "158"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "42", 
+                                                        "@value": "145"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Mean Sensor Glucose Overnight - Algorithm 1", 
+                                    "units": "mg/dl"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "Overnight from system activation to deactivation in the morning upon awakening for 21 nights of system use", 
+                        "title": "Mean Sensor Glucose Overnight - Algorithm 1", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "The study laptop will be running actively during the night and suspending the patient's pump if the algorithm predicts hypoglycemia based on the patient's continuous glucose sensor trend.\nPump suspension : The study laptop will communicate to the pump causing suspension based on output from the algorithm which predicts hypoglycemia based on the continuous glucose sensor trend.", 
+                                    "title": "Predictive Pump Suspension Algorithm"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "The control algorithm will run passively and not recommend suspensions or resumption to the patient's pump.", 
+                                    "title": "Standard of Care"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "10"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "108"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "48"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Number of Nights Analyzed analyzed", 
+                                    "units": "Number of Nights Analyzed"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "36", 
+                                                        "@value": "137"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "40", 
+                                                        "@value": "123"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Mean Sensor Glucose Overnight - Algorithm 2", 
+                                    "units": "mg/dl"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "Overnight from system activation to deactivation in the morning upon awakening for 21 nights of system use", 
+                        "title": "Mean Sensor Glucose Overnight - Algorithm 2", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "The study laptop will be running actively during the night and suspending the patient's pump if the algorithm predicts hypoglycemia based on the patient's continuous glucose sensor trend.\nPump suspension : The study laptop will communicate to the pump causing suspension based on output from the algorithm which predicts hypoglycemia based on the continuous glucose sensor trend.", 
+                                    "title": "Predictive Pump Suspension Algorithm"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "The control algorithm will run passively and not recommend suspensions or resumption to the patient's pump.", 
+                                    "title": "Standard of Care"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "9"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "8"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "77"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "37"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Number of Nights Analyzed analyzed", 
+                                    "units": "Number of Nights Analyzed"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "42", 
+                                                        "@value": "148"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "37", 
+                                                        "@value": "133"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Mean Sensor Glucose Overnight - Algorithm 3", 
+                                    "units": "mg/dl"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "Overnight from system activation to deactivation in the morning upon awakening for 21 nights of system use", 
+                        "title": "Mean Sensor Glucose Overnight - Algorithm 3", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "The study laptop will be running actively during the night and suspending the patient's pump if the algorithm predicts hypoglycemia based on the patient's continuous glucose sensor trend.\nPump suspension : The study laptop will communicate to the pump causing suspension based on output from the algorithm which predicts hypoglycemia based on the continuous glucose sensor trend.", 
+                                    "title": "Predictive Pump Suspension Algorithm"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "The control algorithm will run passively and not recommend suspensions or resumption to the patient's pump.", 
+                                    "title": "Standard of Care"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "5"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "5"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "67"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "38"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Number of Nights Analyzed analyzed", 
+                                    "units": "Number of Nights Analyzed"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "51", 
+                                                        "@upper_limit": "91", 
+                                                        "@value": "71"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "46", 
+                                                        "@upper_limit": "100", 
+                                                        "@value": "76"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "dispersion": "Inter-Quartile Range", 
+                                    "param": "Median", 
+                                    "title": "Percentage of Sensor Glucose Values 71 to 180 mg/dL - Algorithm 1", 
+                                    "units": "percentage of sensor glucose values"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "Overnight from system activation to deactivation in the morning upon awakening for 21 nights of system use", 
+                        "title": "Percentage of Sensor Glucose Values 71 to 180 mg/dL - Algorithm 1", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "The study laptop will be running actively during the night and suspending the patient's pump if the algorithm predicts hypoglycemia based on the patient's continuous glucose sensor trend.\nPump suspension : The study laptop will communicate to the pump causing suspension based on output from the algorithm which predicts hypoglycemia based on the continuous glucose sensor trend.", 
+                                    "title": "Predictive Pump Suspension Algorithm"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "The control algorithm will run passively and not recommend suspensions or resumption to the patient's pump.", 
+                                    "title": "Standard of Care"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "10"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "108"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "48"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Number of Nights Analyzed analyzed", 
+                                    "units": "Number of Nights Analyzed"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "65", 
+                                                        "@upper_limit": "100", 
+                                                        "@value": "90"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "68", 
+                                                        "@upper_limit": "100", 
+                                                        "@value": "91"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "dispersion": "Inter-Quartile Range", 
+                                    "param": "Median", 
+                                    "title": "Percentage of Sensor Glucose Values 71 to 180 mg/dL - Algorithm 2", 
+                                    "units": "percentage of sensor glucose values"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "Overnight from system activation to deactivation in the morning upon awakening for 21 nights of system use", 
+                        "title": "Percentage of Sensor Glucose Values 71 to 180 mg/dL - Algorithm 2", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "The study laptop will be running actively during the night and suspending the patient's pump if the algorithm predicts hypoglycemia based on the patient's continuous glucose sensor trend.\nPump suspension : The study laptop will communicate to the pump causing suspension based on output from the algorithm which predicts hypoglycemia based on the continuous glucose sensor trend.", 
+                                    "title": "Predictive Pump Suspension Algorithm"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "The control algorithm will run passively and not recommend suspensions or resumption to the patient's pump.", 
+                                    "title": "Standard of Care"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "9"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "8"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "77"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "37"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Number of Nights Analyzed analyzed", 
+                                    "units": "Number of Nights Analyzed"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "50", 
+                                                        "@upper_limit": "100", 
+                                                        "@value": "89"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "69", 
+                                                        "@upper_limit": "100", 
+                                                        "@value": "94"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "dispersion": "Inter-Quartile Range", 
+                                    "param": "Median", 
+                                    "title": "Percentage of Sensor Glucose Values 71 to 180 mg/dL - Algorithm 3", 
+                                    "units": "percentage of sensor glucose values"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "Overnight from system activation to deactivation in the morning upon awakening for 21 nights of system use", 
+                        "title": "Percentage of Sensor Glucose Values 71 to 180 mg/dL - Algorithm 3", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as overall percentage of mornings glucose measured with home glucose meter >250 mg/dL.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "The study laptop will be running actively during the night and suspending the patient's pump if the algorithm predicts hypoglycemia based on the patient's continuous glucose sensor trend.\nPump suspension : The study laptop will communicate to the pump causing suspension based on output from the algorithm which predicts hypoglycemia based on the continuous glucose sensor trend.", 
+                                    "title": "Predictive Pump Suspension Algorithm"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "The control algorithm will run passively and not recommend suspensions or resumption to the patient's pump.", 
+                                    "title": "Standard of Care"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "10"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "108"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "48"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Number of Mornings Analyzed analyzed", 
+                                    "units": "Number of Mornings Analyzed"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "6"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "8"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as overall percentage of mornings glucose measured with home glucose meter >250 mg/dL.", 
+                                    "param": "Number", 
+                                    "title": "Percent Morning Blood Glucose >250 mg/dL - Algorithm 2", 
+                                    "units": "percentage of mornings"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "Yes", 
+                        "time_frame": "21 days", 
+                        "title": "Percent Morning Blood Glucose >250 mg/dL - Algorithm 2", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as overall percentage of mornings glucose measured with home glucose meter >250 mg/dL.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "The study laptop will be running actively during the night and suspending the patient's pump if the algorithm predicts hypoglycemia based on the patient's continuous glucose sensor trend.\nPump suspension : The study laptop will communicate to the pump causing suspension based on output from the algorithm which predicts hypoglycemia based on the continuous glucose sensor trend.", 
+                                    "title": "Predictive Pump Suspension Algorithm"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "The control algorithm will run passively and not recommend suspensions or resumption to the patient's pump.", 
+                                    "title": "Standard of Care"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "9"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "8"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "77"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "37"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Number of Mornings Analyzed analyzed", 
+                                    "units": "Number of Mornings Analyzed"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "1"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "3"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as overall percentage of mornings glucose measured with home glucose meter >250 mg/dL.", 
+                                    "param": "Number", 
+                                    "title": "Percent Morning Blood Glucose >250 mg/dL - Algorithm 3", 
+                                    "units": "percentage of mornings"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "Yes", 
+                        "time_frame": "21 days", 
+                        "title": "Percent Morning Blood Glucose >250 mg/dL - Algorithm 3", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as number of mornings with blood ketones >0.6 mmol/L.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "The study laptop will be running actively during the night and suspending the patient's pump if the algorithm predicts hypoglycemia based on the patient's continuous glucose sensor trend.\nPump suspension : The study laptop will communicate to the pump causing suspension based on output from the algorithm which predicts hypoglycemia based on the continuous glucose sensor trend.", 
+                                    "title": "Predictive Pump Suspension Algorithm"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "The control algorithm will run passively and not recommend suspensions or resumption to the patient's pump.", 
+                                    "title": "Standard of Care"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "5"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "5"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "67"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "38"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Number of Mornings Analyzed analyzed", 
+                                    "units": "Number of Mornings Analyzed"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "0"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "0"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as number of mornings with blood ketones >0.6 mmol/L.", 
+                                    "param": "Number", 
+                                    "title": "Mornings With Blood Ketones >0.6 mmol/L - Algorithm 1", 
+                                    "units": "number of mornings"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "Yes", 
+                        "time_frame": "21 days", 
+                        "title": "Mornings With Blood Ketones >0.6 mmol/L - Algorithm 1", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as number of mornings with blood ketones >0.6 mmol/L.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "The study laptop will be running actively during the night and suspending the patient's pump if the algorithm predicts hypoglycemia based on the patient's continuous glucose sensor trend.\nPump suspension : The study laptop will communicate to the pump causing suspension based on output from the algorithm which predicts hypoglycemia based on the continuous glucose sensor trend.", 
+                                    "title": "Predictive Pump Suspension Algorithm"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "The control algorithm will run passively and not recommend suspensions or resumption to the patient's pump.", 
+                                    "title": "Standard of Care"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "10"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "108"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "48"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Number of Mornings Analyzed analyzed", 
+                                    "units": "Number of Mornings Analyzed"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "3"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "1"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as number of mornings with blood ketones >0.6 mmol/L.", 
+                                    "param": "Number", 
+                                    "title": "Mornings With Blood Ketones >0.6 mmol/L - Algorithm 2", 
+                                    "units": "number of mornings"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "Yes", 
+                        "time_frame": "21 days", 
+                        "title": "Mornings With Blood Ketones >0.6 mmol/L - Algorithm 2", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as number of mornings with blood ketones >0.6 mmol/L.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "The study laptop will be running actively during the night and suspending the patient's pump if the algorithm predicts hypoglycemia based on the patient's continuous glucose sensor trend.\nPump suspension : The study laptop will communicate to the pump causing suspension based on output from the algorithm which predicts hypoglycemia based on the continuous glucose sensor trend.", 
+                                    "title": "Predictive Pump Suspension Algorithm"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "The control algorithm will run passively and not recommend suspensions or resumption to the patient's pump.", 
+                                    "title": "Standard of Care"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "9"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "8"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "77"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "37"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Number of Mornings Analyzed analyzed", 
+                                    "units": "Number of Mornings Analyzed"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "1"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "0"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as number of mornings with blood ketones >0.6 mmol/L.", 
+                                    "param": "Number", 
+                                    "title": "Mornings With Blood Ketones >0.6 mmol/L - Algorithm 3", 
+                                    "units": "number of mornings"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "Yes", 
+                        "time_frame": "21 days", 
+                        "title": "Mornings With Blood Ketones >0.6 mmol/L - Algorithm 3", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as number of mornings with urine ketones characterized as moderate or large based on measurement results of a urine dipstick test taken using Ketostix.  Moderate is considered approximately 30 - 40 mg/dL and Large >80 mg/dL.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "The study laptop will be running actively during the night and suspending the patient's pump if the algorithm predicts hypoglycemia based on the patient's continuous glucose sensor trend.\nPump suspension : The study laptop will communicate to the pump causing suspension based on output from the algorithm which predicts hypoglycemia based on the continuous glucose sensor trend.", 
+                                    "title": "Predictive Pump Suspension Algorithm"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "The control algorithm will run passively and not recommend suspensions or resumption to the patient's pump.", 
+                                    "title": "Standard of Care"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "5"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "5"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "67"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "38"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Number of Mornings Analyzed analyzed", 
+                                    "units": "Number of Mornings Analyzed"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "0"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "1"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as number of mornings with urine ketones characterized as moderate or large based on measurement results of a urine dipstick test taken using Ketostix.  Moderate is considered approximately 30 - 40 mg/dL and Large >80 mg/dL.", 
+                                    "param": "Number", 
+                                    "title": "Mornings With Urine Ketones Characterized as Moderate or Large - Algorithm 1", 
+                                    "units": "number of mornings"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "Yes", 
+                        "time_frame": "21 days", 
+                        "title": "Mornings With Urine Ketones Characterized as Moderate or Large - Algorithm 1", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as number of mornings with urine ketones characterized as moderate or large based on measurement results of a urine dipstick test taken using Ketostix.  Moderate is considered approximately 30 - 40 mg/dL and Large >80 mg/dL.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "The study laptop will be running actively during the night and suspending the patient's pump if the algorithm predicts hypoglycemia based on the patient's continuous glucose sensor trend.\nPump suspension : The study laptop will communicate to the pump causing suspension based on output from the algorithm which predicts hypoglycemia based on the continuous glucose sensor trend.", 
+                                    "title": "Predictive Pump Suspension Algorithm"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "The control algorithm will run passively and not recommend suspensions or resumption to the patient's pump.", 
+                                    "title": "Standard of Care"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "10"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "108"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "48"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Number of Mornings Analyzed analyzed", 
+                                    "units": "Number of Mornings Analyzed"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "7"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "0"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as number of mornings with urine ketones characterized as moderate or large based on measurement results of a urine dipstick test taken using Ketostix.  Moderate is considered approximately 30 - 40 mg/dL and Large >80 mg/dL.", 
+                                    "param": "Number", 
+                                    "title": "Mornings With Urine Ketones Characterized as Moderate or Large - Algorithm 2", 
+                                    "units": "number of mornings"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "Yes", 
+                        "time_frame": "21 days", 
+                        "title": "Mornings With Urine Ketones Characterized as Moderate or Large - Algorithm 2", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as number of mornings with urine ketones characterized as moderate or large based on measurement results of a urine dipstick test taken using Ketostix.  Moderate is considered approximately 30 - 40 mg/dL and Large >80 mg/dL.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "The study laptop will be running actively during the night and suspending the patient's pump if the algorithm predicts hypoglycemia based on the patient's continuous glucose sensor trend.\nPump suspension : The study laptop will communicate to the pump causing suspension based on output from the algorithm which predicts hypoglycemia based on the continuous glucose sensor trend.", 
+                                    "title": "Predictive Pump Suspension Algorithm"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "The control algorithm will run passively and not recommend suspensions or resumption to the patient's pump.", 
+                                    "title": "Standard of Care"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "9"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "8"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "77"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "37"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Number of Mornings Analyzed analyzed", 
+                                    "units": "Number of Mornings Analyzed"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "0"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "0"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as number of mornings with urine ketones characterized as moderate or large based on measurement results of a urine dipstick test taken using Ketostix.  Moderate is considered approximately 30 - 40 mg/dL and Large >80 mg/dL.", 
+                                    "param": "Number", 
+                                    "title": "Mornings With Urine Ketones Characterized as Moderate or Large - Algorithm 3", 
+                                    "units": "number of mornings"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "Yes", 
+                        "time_frame": "21 days", 
+                        "title": "Mornings With Urine Ketones Characterized as Moderate or Large - Algorithm 3", 
+                        "type": "Primary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "P1", 
+                        "description": "Each study night will be randomized to have either Predictive Low Glucose Suspend or to be inactive (control). On nights randomized to the intervention treatment, the study laptop will be running actively during the night and suspending the patient's pump if the algorithm predicts hypoglycemia based on the patient's continuous glucose sensor trend. (Pump suspension : The study laptop will communicate to the pump causing suspension based on output from the algorithm which predicts hypoglycemia based on the continuous glucose sensor trend.) On control nights, the algorithm will run passively and not recommend suspensions or resumption to the patient's pump.", 
+                        "title": "Randomized Nights- Treatment or Control"
+                    }
+                }, 
+                "period_list": {
+                    "period": {
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "#text": "Each night randomized to have either Predictive Low Glucose suspend  or inactive (control).", 
+                                            "@count": "20", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "#text": "Each night randomized to have either Predictive Low Glucose suspend  or inactive (control).", 
+                                            "@count": "19", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "1", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "pre_assignment_details": "After the run-in phase, a 21-night randomized trial was conducted in which each night was randomly assigned 2:1 to have either the predictive low glucose suspend system active (intervention) or inactive (control).  Participants were current users of the MiniMed Paradigm\u00ae REAL-Time Revel\u2122 System and Sof-sensor\u00ae glucose sensor at time of enrollment.", 
+                "recruitment_details": "The study was conducted at Stanford University and the Barbara Davis Center.  A total of 20 subjects were enrolled between January 1, 2012 and June 30, 2012.  Nineteen participants 18-56 years old with type 1 diabetes (HbA1c 6.0%-7.7%) completed the trial."
+            }, 
+            "point_of_contact": {
+                "email": "jdrfapp2@jaeb.org", 
+                "name_or_title": "Roy W. Beck, MD, PhD", 
+                "organization": "Jaeb Center for Health Resesarch", 
+                "phone": "813-975-8690"
+            }
+        }, 
+        "completion_date": {
+            "#text": "June 2012", 
+            "@type": "Actual"
+        }, 
+        "condition": "Type 1 Diabetes", 
+        "condition_browse": {
+            "mesh_term": [
+                "Diabetes Mellitus", 
+                "Diabetes Mellitus, Type 1", 
+                "Hypoglycemia"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Patients who meet all eligibility criteria will use the study system overnight at home for\n      about 5 nights to demonstrate their ability to use the system and submit study data to the\n      Coordinating Center.\n\n      Patients who successfully demonstrate their ability to use the system as described above\n      will be eligible for the randomized trial phase.  This phase consists of use of the full\n      system as an outpatient for approximately 21 nights:\n\n        -  Each night the blood glucose level will be checked with the study blood glucose (BG)\n           meter and used to perform a calibration of the CGM.  The calibration must occur no more\n           than 90 minutes prior to activation of the system.  NOTE:  Patients will be instructed\n           to calibrate the CGM per manufacturer guidelines.\n\n        -  Then the system will be activated, linking the CGM and insulin pump to the computer at\n           the bedside.\n\n        -  A randomization schedule on the laptop will be used to determine whether the 'pump shut\n           off' application will be active that night or not.\n\n        -  Patients will be blinded as to whether the pump shut off is active when a session is\n           initiated each night.\n\n        -  There will not be an alarm if the pump shuts off.  The CGM alarm will be set to 60\n           mg/dL.  When a CGM alarm occurs, the patient will be asked to measure the blood glucose\n           with a BG meter, if he/she is aware of the alarm.\n\n        -  The time period for outcome assessment each night will be from the time the system is\n           activated until it is turned off in the morning.\n\n        -  Pump shut off, when it occurs, will be for up to 2 hours.  Multiple instances of pump\n           suspension can occur if there are recurrent predictions of hypoglycemia during the\n           night.\n\n        -  Patients will be asked to check blood glucose with the study BG meter, blood ketones\n           with the study ketone meter, and urine ketones with a ketone strip each morning prior\n           to breakfast and enter the results on the study laptop.  The patient will be instructed\n           to contact the study physician if the blood glucose or ketone readings are out of an\n           expected range.  Patients will be contacted if these morning safety values are not\n           reported as required or are out of range.\n\n        -  Patients will be asked to record all overnight carbohydrate intake on the study laptop.\n\n        -  Patients will be asked to perform periodic data uploads using the study laptop.\n           Monitoring processes will ensure that the patient is contacted if these uploads do not\n           occur as required, or if review of an upload reveals any extreme, prolonged episodes of\n           low or high blood glucose readings, or elevated morning blood glucose, blood ketone, or\n           urine ketone values.\n\n      Upon completion of the study, patients as well as study clinicians will be asked to complete\n      a questionnaire regarding use of the study system.\n\n      There will a follow-up visit after completion of 21 successful nights of study system use.\n      A successful night of study system use is defined as use of the system for at least four\n      hours.  Phone contacts with the patients will be made once a week."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Clinical diagnosis of type 1 diabetes and using daily insulin therapy for at least\n             one year and an insulin infusion pump for at least 6 months\n\n          -  Age >=18.0 years\n\n          -  HbA1c <=8.0%\n\n          -  Availability of internet access for periodic upload of study data\n\n          -  Experience using the Medtronic pump and CGM and investigator is confident that\n             subject will use CGM on a near-daily basis during the study\n\n          -  Nocturnal hypoglycemia meeting the following criterion based on CGM download:  during\n             the most recent 15 nights with CGM glucose data (must be within the past 42 days),\n             one or more nights with a sensor glucose value <=70 mg/dL.\n\n        Exclusion Criteria:\n\n          -  Diabetic ketoacidosis in the past 3 months\n\n          -  Hypoglycemic seizure or loss of consciousness in the past 6 months\n\n          -  History of seizure disorder (except for hypoglycemic seizure)\n\n          -  Coronary artery disease or heart failure\n\n          -  Cystic fibrosis\n\n          -  Current use of oral/inhaled glucocorticoids, beta-blockers or other medications,\n             which in the judgment of the investigator would be a contraindication to\n             participation in the study.\n\n          -  History of ongoing renal disease (other than microalbuminuria).  Creatinine level to\n             have been  obtained within the last year if subject has diabetes of >10 years\n             duration or is over 50 years of age.  If creatinine is > 1.5 mg/dL, the subject is\n             excluded.\n\n          -  History of liver disease\n\n          -  Medical or psychiatric condition that in the judgment of the investigator might\n             interfere with the completion of the protocol such as:  inpatient psychiatric\n             treatment in the past 6 months, uncontrolled adrenal disorder, and/or abuse of\n             alcohol\n\n          -  Pregnancy:  A negative urine pregnancy test will be required for all premenopausal\n             women who are not surgically sterile.  Subjects who become pregnant will be\n             discontinued from the study."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "20", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 20, 2012", 
+        "firstreceived_results_date": "August 7, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01736930", 
+            "org_study_id": "PSO1", 
+            "secondary_id": "R01DK085591"
+        }, 
+        "intervention": {
+            "arm_group_label": "Predictive pump suspension algorithm", 
+            "description": "The study laptop will communicate to the pump causing suspension based on output from the algorithm which predicts hypoglycemia based on the continuous glucose sensor trend.", 
+            "intervention_name": "Pump suspension", 
+            "intervention_type": "Device"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "Type 1 Diabetes", 
+            "Hypoglycemia", 
+            "Continuous Glucose Monitoring", 
+            "Pump Suspension"
+        ], 
+        "lastchanged_date": "March 10, 2014", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Stanford", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94305"
+                    }, 
+                    "name": "Stanford University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Aurora", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80045"
+                    }, 
+                    "name": "Barbara Davis Center for Childhood Diabetes"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Reduction of Nocturnal Hypoglycemia by Using Predictive Algorithms and Pump Suspension: An Outpatient Pilot Feasibility and Safety Study", 
+        "overall_official": [
+            {
+                "affiliation": "Stanford University", 
+                "last_name": "Bruce A Buckingham, MD", 
+                "role": "Study Chair"
+            }, 
+            {
+                "affiliation": "Jaeb Center for Health Research", 
+                "last_name": "Roy W Beck, MD, PhD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Jaeb Center for Health Research", 
+                "last_name": "John Lum, MS", 
+                "role": "Study Director"
+            }
+        ], 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "June 2012", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as mean morning blood glucose (mg/dL).\nAn objective was to evaluate and refine the control algorithm.  The data were reviewed periodically during the study with the pre-stated goal of determining whether any changes should be made in the control algorithm.  Algorithm 1 was used for the first 105 nights of the study (38 Control nights and 67 Intervention nights).  The horizon prediction time of algorithm 1 was set at 70 minutes.", 
+                "measure": "Mean Morning Blood Glucose (mg/dL)- Algorithm 1", 
+                "safety_issue": "Yes", 
+                "time_frame": "21 study nights"
+            }, 
+            {
+                "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as mean morning blood glucose (mg/dL).\nAlgorithm 1 was modified to reduce the hypoglycemia prediction horizon from 70 minutes to 50 minutes, to suspend the pump only when the continuous glucose monitor sensor glucose value was \u2264 230 mg/dl, not suspend if there was a drop of >40 mg/dl in consecutive sensor glucose readings, and to resume insulin delivery at the first rise in sensor glucose following a suspension.  There was 156 nights of study data collected (48 Control nights and 108 Intervention nights) using algorithm 2.", 
+                "measure": "Mean Morning Blood Glucose (mg/dL)- Algorithm 2", 
+                "safety_issue": "Yes", 
+                "time_frame": "21 study nights"
+            }, 
+            {
+                "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as mean morning blood glucose (mg/dL).\nThe hypoglycemia prediction horizon was reduced further in algorithm 3 to 30 minutes.  A total of 114 study nights (37 Control nights and 77 Intervention nights) using algorithm 3.", 
+                "measure": "Mean Morning Blood Glucose (mg/dL)- Algorithm 3", 
+                "safety_issue": "Yes", 
+                "time_frame": "21 study nights"
+            }, 
+            {
+                "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as the overall percentage of mornings glucose measured with home glucose meter >250 mg/dL.", 
+                "measure": "Percent Morning Blood Glucose >250 mg/dL - Algorithm 1", 
+                "safety_issue": "Yes", 
+                "time_frame": "21 days"
+            }, 
+            {
+                "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as overall percentage of mornings glucose measured with home glucose meter >250 mg/dL.", 
+                "measure": "Percent Morning Blood Glucose >250 mg/dL - Algorithm 2", 
+                "safety_issue": "Yes", 
+                "time_frame": "21 days"
+            }, 
+            {
+                "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as overall percentage of mornings glucose measured with home glucose meter >250 mg/dL.", 
+                "measure": "Percent Morning Blood Glucose >250 mg/dL - Algorithm 3", 
+                "safety_issue": "Yes", 
+                "time_frame": "21 days"
+            }, 
+            {
+                "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as number of mornings with blood ketones >0.6 mmol/L.", 
+                "measure": "Mornings With Blood Ketones >0.6 mmol/L - Algorithm 1", 
+                "safety_issue": "Yes", 
+                "time_frame": "21 days"
+            }, 
+            {
+                "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as number of mornings with blood ketones >0.6 mmol/L.", 
+                "measure": "Mornings With Blood Ketones >0.6 mmol/L - Algorithm 2", 
+                "safety_issue": "Yes", 
+                "time_frame": "21 days"
+            }, 
+            {
+                "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as number of mornings with blood ketones >0.6 mmol/L.", 
+                "measure": "Mornings With Blood Ketones >0.6 mmol/L - Algorithm 3", 
+                "safety_issue": "Yes", 
+                "time_frame": "21 days"
+            }, 
+            {
+                "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as number of mornings with urine ketones characterized as moderate or large based on measurement results of a urine dipstick test taken using Ketostix.  Moderate is considered approximately 30 - 40 mg/dL and Large >80 mg/dL.", 
+                "measure": "Mornings With Urine Ketones Characterized as Moderate or Large - Algorithm 1", 
+                "safety_issue": "Yes", 
+                "time_frame": "21 days"
+            }, 
+            {
+                "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as number of mornings with urine ketones characterized as moderate or large based on measurement results of a urine dipstick test taken using Ketostix.  Moderate is considered approximately 30 - 40 mg/dL and Large >80 mg/dL.", 
+                "measure": "Mornings With Urine Ketones Characterized as Moderate or Large - Algorithm 2", 
+                "safety_issue": "Yes", 
+                "time_frame": "21 days"
+            }, 
+            {
+                "description": "The primary safety outcome will be evaluated by comparing the intervention and control nights and nights with vs. without actual shut-off of the pump for several measures of hyperglycemia such as number of mornings with urine ketones characterized as moderate or large based on measurement results of a urine dipstick test taken using Ketostix.  Moderate is considered approximately 30 - 40 mg/dL and Large >80 mg/dL.", 
+                "measure": "Mornings With Urine Ketones Characterized as Moderate or Large - Algorithm 3", 
+                "safety_issue": "Yes", 
+                "time_frame": "21 days"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01736930"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "results_reference": {
+            "PMID": "23883408", 
+            "citation": "Buckingham BA, Cameron F, Calhoun P, Maahs DM, Wilson DM, Chase HP, Bequette BW, Lum J, Sibayan J, Beck RW, Kollman C. Outpatient safety assessment of an in-home predictive low-glucose suspend system with type 1 diabetes subjects at elevated risk of nocturnal hypoglycemia. Diabetes Technol Ther. 2013 Aug;15(8):622-7. doi: 10.1089/dia.2013.0040. Epub 2013 Jul 24."
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Mean Sensor Glucose Overnight - Algorithm 1", 
+                "safety_issue": "No", 
+                "time_frame": "Overnight from system activation to deactivation in the morning upon awakening for 21 nights of system use"
+            }, 
+            {
+                "measure": "Mean Sensor Glucose Overnight - Algorithm 2", 
+                "safety_issue": "No", 
+                "time_frame": "Overnight from system activation to deactivation in the morning upon awakening for 21 nights of system use"
+            }, 
+            {
+                "measure": "Mean Sensor Glucose Overnight - Algorithm 3", 
+                "safety_issue": "No", 
+                "time_frame": "Overnight from system activation to deactivation in the morning upon awakening for 21 nights of system use"
+            }, 
+            {
+                "measure": "Percentage of Sensor Glucose Values 71 to 180 mg/dL - Algorithm 1", 
+                "safety_issue": "No", 
+                "time_frame": "Overnight from system activation to deactivation in the morning upon awakening for 21 nights of system use"
+            }, 
+            {
+                "measure": "Percentage of Sensor Glucose Values 71 to 180 mg/dL - Algorithm 2", 
+                "safety_issue": "No", 
+                "time_frame": "Overnight from system activation to deactivation in the morning upon awakening for 21 nights of system use"
+            }, 
+            {
+                "measure": "Percentage of Sensor Glucose Values 71 to 180 mg/dL - Algorithm 3", 
+                "safety_issue": "No", 
+                "time_frame": "Overnight from system activation to deactivation in the morning upon awakening for 21 nights of system use"
+            }
+        ], 
+        "source": "In Home Closed Loop Study Group", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "In Home Closed Loop Study Group", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2012", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Prevention", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2014"
+    }
+}

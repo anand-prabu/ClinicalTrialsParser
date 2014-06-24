@@ -1,0 +1,171 @@
+{
+    "clinical_study": {
+        "@rank": "144712", 
+        "arm_group": [
+            {
+                "arm_group_label": "Standard patient-physician counseling interaction", 
+                "arm_group_type": "Active Comparator", 
+                "description": "The control arm will receive counseling regarding treatment options using standard patient-physician interactions and nomogram-predicted probabilities of treatment outcome for the various treatment options and they will be unaware of the decision analysis recommendation."
+            }, 
+            {
+                "arm_group_label": "Personalized treatment recommendations", 
+                "arm_group_type": "Experimental", 
+                "description": "The treatment arm would be provided with a personalized treatment recommendations based on the decision analysis model prior to treatment selection."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This is a psychosocial/behavioral study and does not involve administration of any treatment\n      or diagnostic procedures. We will use a randomized trial to test the hypothesis that a\n      decision analysis model that provides individualized estimates of quality-adjusted\n      disease-free survival for each of the treatment options for clinically localized prostate\n      cancer will lead to higher quality treatment decisions congruent with a patient's values\n      leading to improved decisional regret and treatment satisfaction. In this trial, all\n      patients would be evaluated at baseline for their utilities for various clinically important\n      health states. The control arm will receive counseling regarding treatment options using\n      standard patient-physician interactions and nomogram-predicted probabilities of treatment\n      outcome for the various treatment options and they will be unaware of the decision analysis\n      recommendation. The treatment arm would be counseled using standard patient-physician\n      interactions and they would also be provided with a personalized treatment recommendations\n      based on the decision analysis model prior to treatment selection. The primary endpoint of\n      this study will be regret-free survival at 2 years after treatment. There will be a 1:1\n      randomization. A random permuted design will be used to assure approximate balanced number\n      of patients in the two groups over time."
+        }, 
+        "brief_title": "Treatment Decision Analysis Model for Prostate Cancer: A Randomized Trial", 
+        "completion_date": {
+            "#text": "February 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Adenocarcinoma of Prostate", 
+            "Adenocarcinoma of the Prostate Stage I", 
+            "Adenocarcinoma of the Prostate Stage II", 
+            "Adenocarcinoma of the Prostate Stage III"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Adenocarcinoma", 
+                "Prostatic Neoplasms"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Following institutional review board approval for this study and after informed consent from\n      patients is obtained, men referred to our institution for treatment of clinically localized\n      prostate cancer will be interviewed at baseline following diagnosis but prior to making a\n      treatment decision, by a research study coordinator whom we will train in utility\n      assessment. At that initial interview, the patient's utilities will be assessed, in a\n      private consultation room, for each important post-treatment health state that he\n      potentially may enter. The states we would assess include living with untreated prostate\n      cancer, impotence, urinary dysfunction, bowel dysfunction, rising PSA following definitive\n      local therapy, and metastatic prostate cancer. We will also record characteristics of the\n      patient's disease (pretreatment serum PSA, clinical stage, biopsy Gleason grade),\n      demographics (age, race, level of education, employment, marital status) and comorbidity.\n      Patient-reported urinary, bowel, and sexual function/bother will be assessed at baseline\n      using a short form version of a 48-item validated HRQOL instrument for localized prostate\n      cancer. All patient information will be entered into a secure, HIPAA-compliant database\n      accessible only to the principal investigator, research study coordinator(s), data manager,\n      and biostatistician. All patient identifying information will be removed prior to data\n      analysis and will not be included in any publication or presentation that results from this\n      study. For all patients, the quality-adjusted disease-free survival for each treatment\n      modality will be calculated using the decision analysis model. For the decision analysis arm\n      of the trial, this information will be  conveyed to the patient and the physician prior to\n      treatment decision. These patients will also receive standard treatment counseling. For the\n      control arm, both patients and physicians will be unaware of the decision analysis\n      recommendation and the patients will receive standard treatment counseling alone. After the\n      patient has made a treatment decision he will be given a short questionnaire to assess\n      decisional conflict. If after one month no treatment decision information is available, a\n      letter and form requesting treatment information along with the decisional conflict\n      questionnaire will be sent to patients. At 6, 12, and 24 months following the treatment\n      decision, the patient will be sent a brief validated questionnaire which will measure his\n      regret of treatment choice, treatment satisfaction, decisional conflict and current health\n      state utility using validated instruments. A short form version of a 48-item validated\n      questionnaire will also assess his HRQOL for urinary, bowel and sexual function/bother\n      domains at these time intervals. Approximately two weeks after receiving each follow-up\n      questionnaire and/or letter, a member of the study group will contact the patient by\n      telephone if we have not received the completed questionnaire. S/he will inquire about any\n      difficulties with the questionnaire and will remind the patient about sending it back.\n\n      The primary endpoint of this study (decisional regret) and secondary endpoints (treatment\n      satisfaction, decisional conflict, and current health state utility) will be assessed by\n      means of a patient-reported questionnaire using validated instruments assessed at 6, 12 and\n      24 months after randomization. A decision analysis model will be developed using a Markov\n      modeling approach. Using Treeage Data\u00ae pro suite, the model will incorporate cancer\n      outcomes, treatment-related morbidity probabilities derived from nomograms, and\n      patient-specific utilities to estimate the quality-adjusted disease-free survival for each\n      treatment option. In the model, all patients will begin with localized prostate cancer with\n      no evidence of metastases. A 6-month transition cycle will be used for the Markov model.\n      Bootstrap simulation with replacement will be utilized to derive mean utilities and 95%\n      confidence intervals. Sensitivity analyses will be performed by varying the disease\n      progression rates and utilities within their 95% confidence intervals. To investigate if the\n      decision analytic model, compared to standard interactions alone, will influence treatment\n      choice and lead to higher quality treatment decisions that are congruent with a patient's\n      values, an intent-to-treat analysis will be conducted on patients who did and did not\n      receive the decision analysis  recommendation with decisional regret as the primary\n      endpoint. In a planned secondary analysis, we will analyze both arms of our trial and test\n      the hypothesis that a patients who chooses a treatment strategy that did not appear to\n      maximize his quality-adjusted disease-free survival (i.e. not the one the decision analysis\n      would have yielded) will be at increased risk of regret. This will be conducted by\n      identifying patients in both arms who choose the treatment that is also recommended by the\n      decision model. The probability of selecting the decision analytic treatment strategy (which\n      is also the probability of selecting the highest quality treatment decision congruent with a\n      patient's values) will be investigated using a logistic regression model with covariates\n      that include treatment arm, an indicator variable to define patients whose baseline\n      treatment choice matched the decision analysis model, an interaction between the treatment\n      arm and this indicator variable, as well as other clinically relevant baseline covariates\n      and two way interactions. Testing for an interaction between treatment arm and the indicator\n      variable will allow us to test if the effect that knowledge of the decision analytic model\n      has on the probability of selecting the highest quality treatment decision is different for\n      patients whose baseline treatment choice matched the decision analysis model compared to\n      patients whose baseline treatment choice did not match the decision analysis model. Each\n      patient will also have the following outcomes measured at 6 months, 12 months, and 24 months\n      following their treatment: decisional regret, decisional conflict, treatment satisfaction,\n      health state utility score, and HRQOL for urinary, bowel, and sexual function domain scores.\n      All scores will be standardized such that each patient's score is between 0 and 100.\n      Baseline decisional regret scores, informed decision scores, and treatment satisfaction\n      scores will be set at 100, indicating no decisional regret, a high degree of feeling as\n      though an informed decision was made, and high treatment satisfaction. Scores for health\n      state utility and HRQOL domains will also be obtained at baseline. Based on each patient's\n      final treatment choice, we will also calculate the difference between the number of quality\n      adjusted life years based on the decision analysis model and the final treatment choice.\n\n      For each response, separate linear mixed models that include both fixed and random effects\n      will be applied. To meet the distributional assumptions of this model, responses may be\n      transformed prior to model fitting. Fixed effects that will be included in the model are\n      clinically relevant baseline and time dependent covariates and two way interactions as well\n      as linear or quadratic time trends. In particular, a covariate for treatment arm, an\n      indicator variable to define patients who chose the decision analytic model based treatment\n      choice, and an interaction between these two variables will be included. In this case, the\n      interaction will allow us to test if the effect that knowledge of the decision analytic\n      model has on various responses is different for patients who chose the decision analytic\n      model treatment choice compared to patients who did not chose the decision analytic model\n      treatment choice. A covariate for the difference between the number of quality adjusted life\n      years based on the decision analysis model and the final treatment choice and an interaction\n      between this variable and the treatment arm indicator variable will also be included in the\n      model to examine if the effect that knowledge of the decision analytic model has on various\n      responses is effected by the theoretical degree of mistake. To fully account for the\n      variation in subject specific trajectories over time, a random intercept will be included in\n      this model although linear and quadratic random effects will also be considered if\n      appropriate. In addition, the residual covariance structure for each model will also be\n      investigated to avoid misspecification and invalid inferences. In particular, correct\n      specification of the covariance structure will be investigated using different ways to model\n      the measurement error (due to variation in the measurement of the response) and serial\n      correlation (due to decreasing correlation between measurements over time). For instance,\n      structures for serial correlation will be investigated using a semi-variogram. Although the\n      problem of a misspecified covariance structure can and will be avoided by using a robust\n      variance estimator when making inferences about the fixed effects of interest based on the\n      marginal model, misspecification also leads to an inability to properly account for the\n      effect of missing data, a common occurrence in longitudinal studies. Note that once an\n      appropriate model is fit to each response of interest, inference regarding the fixed\n      treatment and covariate effects on the response will be based on marginal models using the\n      robust variance estimator to protect against model misspecification of the covariance\n      structure. Statistical significance of fixed effects will be based on a 0.05 significance\n      level. As this study is exploratory, no attempt will be made to account for multiple\n      comparisons.\n\n      As discussed previously, missing data is a common problem in longitudinal studies.\n      Typically, patients who drop out of the study are not comparable to patients who remain in\n      the study at all times. Consequently, the likelihood of dropout is correlated with the\n      underlying unobserved data. To account for this problem, pattern mixture models will also be\n      fit in addition to the previous models that ignore the effect of missing data on resulting\n      estimates. Pattern mixture models are based on fitting separate linear mixed model to each\n      of the seven dropout patterns that can occur in the data such that a separate time trend is\n      estimated for each pattern. The marginal treatment effect is then calculated by a weighted\n      average of the pattern-specific treatment effects, with weights given by the probability of\n      occurrence of the various patterns. Because the estimated marginal treatment effects rely on\n      the extrapolation of fitted average profiles to time points where data is not observed,\n      sensitivity analyses will also be performed to examine the robustness of the results to\n      alternative assumptions. For instance, rather than estimating a separate time trend for each\n      pattern, the model could be simplified so that drop-out pattern is used as a covariate in\n      the model. In this case, the time trend within a pattern is unstructured but parallel across\n      patterns. If estimated marginal treatment effects agree among the different models that are\n      investigated, this will suggest that the results are not artifacts of the particular model\n      used to account for dropout."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients referred to the Cleveland Clinic Foundation for the treatment of clinically\n             localized prostate adenocarcinoma\n\n          -  Ability to read English at a grade eight level\n\n        Exclusion Criteria:\n\n          -  No other cancer diagnosis for the past 3 years, except for non-melanoma skin cancer\n\n          -  Prior chemotherapy within the last 3 years\n\n          -  Previous pelvic radiation therapy\n\n          -  Previous pelvic surgery\n\n          -  Neoadjuvant therapy prior to referral, such as hormones"
+            }, 
+            "gender": "Male", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "600", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "December 27, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02024685", 
+            "org_study_id": "CASE19806", 
+            "secondary_id": "NCI-2013-02363"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Personalized treatment recommendations", 
+                "description": "This is a psychosocial/behavioral study. It will use a randomized trial to test the hypothesis that a decision analysis model that provides individualized estimates of quality-adjusted disease-free survival for each of the treatment options for clinically localized prostate cancer will lead to higher quality treatment decisions congruent with a patient's values leading to improved decisional regret and treatment satisfaction. In this trial, all patients would be evaluated at baseline for their utilities for various clinically important health states. The primary endpoint of this study will be regret-free survival at 2 years after treatment. There will be a 1:1 randomization. A random permuted design will be used to assure approximate balanced number of patients in the two groups over time.", 
+                "intervention_name": "Personalized Treatment Recommendations", 
+                "intervention_type": "Behavioral"
+            }, 
+            {
+                "arm_group_label": [
+                    "Standard patient-physician counseling interaction", 
+                    "Personalized treatment recommendations"
+                ], 
+                "description": "Both patients and physicians will be unaware of the decision analysis recommendation and the patients will receive standard treatment counseling alone. After the patient has made a treatment decision he will be given a short questionnaire to assess decisional conflict. If after one month no treatment decision information is available, a letter and form requesting treatment information along with the decisional conflict questionnaire will be sent to patients.", 
+                "intervention_name": "Standard patient-physician counseling interaction", 
+                "intervention_type": "Behavioral"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Prostate", 
+            "Localized Prostate Cancer", 
+            "Decision making"
+        ], 
+        "lastchanged_date": "December 27, 2013", 
+        "location": {
+            "contact": {
+                "last_name": "Andew Stephenson, MD", 
+                "phone": "216-445-1062"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Cleveland", 
+                    "country": "United States", 
+                    "state": "Ohio", 
+                    "zip": "44195"
+                }, 
+                "name": "Cleveland Clinic Taussig Cancer Institute, Case Comprehensive Cancer Center"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Treatment Decision Analysis Model for Prostate Cancer: A Randomized Trial", 
+        "other_outcome": {
+            "description": "HRQOL is a 48-item scale which measures quality of life in the domains of urinary, bowel, and sexual function. A short version of this scale will be used during follow-up. All scores will be standardized to a 0-100 scale where higher scores indicate greater quality of life.", 
+            "measure": "Health Related Quality of Life (HRQOL)", 
+            "safety_issue": "No", 
+            "time_frame": "24 months after start of treatment"
+        }, 
+        "overall_official": {
+            "affiliation": "Case Comprehensive Cancer Center", 
+            "last_name": "Andrew Stephenson, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "February 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "To see if a decision analysis model that considers individualized predictions of cancer outcome, treatment-related morbidity, and patient-specific values for clinically important health states leads to higher quality treatment decisions patients will take a validated four item questionnaire which is standardized to a 0-100 point scale where higher values indicate less decisional regret.  Scores will be compared between study arms.", 
+            "measure": "Decisional regret", 
+            "safety_issue": "No", 
+            "time_frame": "Up to 24 months after randomization"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02024685"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "A patient reported three item questionnaire scored on a 0-100 scale where 100 equals no decisional regret will be used to calculate decisional conflict. Scores will be compared between study arms.", 
+                "measure": "Decisional conflict", 
+                "safety_issue": "No", 
+                "time_frame": "24 months after randomization"
+            }, 
+            {
+                "description": "Treatment satisfaction will be assessed on a 0-100 scale using a validated five item questionnaires where higher scores indicate more satisfaction. Scores will be compared between study arms.", 
+                "measure": "Treatment satisfaction", 
+                "safety_issue": "No", 
+                "time_frame": "24 months after beginning treatment"
+            }, 
+            {
+                "description": "Health state utility will be measured using validated questionnaires on a 0-100 scale where higher scores indicate more utility.", 
+                "measure": "Current health state utility", 
+                "safety_issue": "No", 
+                "time_frame": "24 months"
+            }
+        ], 
+        "source": "Case Comprehensive Cancer Center", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Case Comprehensive Cancer Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "August 2013", 
+        "study_design": "Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Supportive Care", 
+        "study_type": "Interventional", 
+        "verification_date": "December 2013"
+    }
+}

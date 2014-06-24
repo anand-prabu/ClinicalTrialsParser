@@ -1,0 +1,153 @@
+{
+    "clinical_study": {
+        "@rank": "77332", 
+        "acronym": "AGO-Austria", 
+        "arm_group": [
+            {
+                "arm_group_label": "Chemo-insensitive", 
+                "description": "Non-responders to chemotherapy (Probability for pathological negative nodal status)"
+            }, 
+            {
+                "arm_group_label": "Chemo-sensitive", 
+                "description": "Responders to chemotherapy (Probability for pathological negative nodal status)"
+            }
+        ], 
+        "biospec_descr": {
+            "textblock": "Breast cancer tissue"
+        }, 
+        "biospec_retention": "Samples With DNA", 
+        "brief_summary": {
+            "textblock": "A genomic test was developed to predict chemo-sensitivity to taxane-anthracycline-based\n      chemotherapy as neoadjuvant treatment. The primary aim of this study is to prospectively\n      evaluate the microarray-based, genomic test as a predictor of axillary lymph node response.\n      Also, to determine whether the probability of achieving negative axillary nodes, is\n      sufficiently high for patients whose breast cancer is predicted to be chemo-sensitive to\n      support omitting axillary dissection."
+        }, 
+        "brief_title": "Genomic Signatures to Predict Treatment Response", 
+        "completion_date": {
+            "#text": "September 2020", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Breast Neoplasms", 
+        "condition_browse": {
+            "mesh_term": [
+                "Breast Neoplasms", 
+                "Neoplasms"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Clinical status of lymph nodes must be available\n\n          -  Sonographical status of lymph nodes must be available\n\n          -  Patients must consent to documentation of cancer treatment\n\n          -  Histologic diagnosis of invasive breast cancer, clinical stage T1-4, M0\n             (non-inflammatory T4c)\n\n          -  Patients scheduled for neoadjuvant chemotherapy\n\n          -  Treatment with a 3-weekly FEC or AC regimen (3-4 cycles) followed by 3-4 cycles of q3\n             weekly docetaxel or paclitaxel.\n\n          -  Local HER2 status of tumor biopsy must be negative.\n\n        Exclusion Criteria:\n\n          -  The patient has a prior history of invasive or metastatic breast cancer.\n\n          -  The patient had prior excisional biopsy of the primary invasive breast cancer.\n\n          -  The patient had prior ipsilateral sentinel axillary lymph node biopsy for breast\n             cancer.\n\n          -  The patient cannot safely or feasibly undergo biopsy of the primary tumor.\n\n          -  The patient has a diagnosis of Stage IV (distant metastatic) breast cancer.\n\n          -  The patient has proven HER2-positive breast cancer, defined as a pathology report of\n             amplification of the gene or 3+ score for immunohistochemical staining."
+            }, 
+            "gender": "Female", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "80 Years", 
+            "minimum_age": "18 Years", 
+            "sampling_method": "Probability Sample", 
+            "study_pop": {
+                "textblock": "Breast cancer patients with advanced HER 2 negative breast cancer"
+            }
+        }, 
+        "enrollment": {
+            "#text": "277", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 17, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02032745", 
+            "org_study_id": "AGO-35", 
+            "secondary_id": "KLI 406"
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "January 7, 2014", 
+        "location": [
+            {
+                "contact": {
+                    "email": "florentia.peintinger@medunigraz.at", 
+                    "last_name": "Florentia Peintinger, M.D."
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Graz", 
+                        "country": "Austria", 
+                        "zip": "8036"
+                    }, 
+                    "name": "Institute of Pathology, Med. Univ. Graz"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "peter.schrenk@akh.linz.at", 
+                    "last_name": "Peter Schrenk, M.D.", 
+                    "phone": "+43 732 7806", 
+                    "phone_ext": "73288"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Linz", 
+                        "country": "Austria", 
+                        "zip": "4020"
+                    }, 
+                    "name": "General Hospital Linz"
+                }, 
+                "investigator": {
+                    "last_name": "Peter Schrenk, M.D.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": "Austria"
+        }, 
+        "number_of_groups": "2", 
+        "official_title": "Prospective Validation of Genomic Signatures to Predict Treatment Response in the Axillary Nodes After Neoadjuvant Chemotherapy in Patients With HER2-negative Breast Cancer", 
+        "overall_contact": {
+            "email": "florentia.peintinger@medunigraz.at", 
+            "last_name": "Florentia Peintinger, M.D."
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "Austria: Ethikkommission", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "September 2016", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "The overall rate of pathologic lymph node-negative status (pLN0) will be evaluated, including clinically lymph node-negative (cLN-) and lymph node-positive (cLN+) patients. For sample size calculation we will consider the rate of nodal conversion from clinically node-positive (cLN+) before treatment to pathologic node-negative (pLN0) after the completion of neoadjuvant chemotherapy. Patients who are clinically node positive (cLN+) will be evaluated for nodal response, i.e. conversion to pLN0 status. We assume that 30% of these patients will be predicted by the genomic predictor as responders (i.e. pLN0 status) after neoadjuvant chemotherapy, and that 70% of them will actually achieve pLN0 status. The study will be sized to have 80% power to detect observed response (pLN-negative) rates > 50% in cLN-positive patients after neoadjuvant chemotherapy at a 95% confidence level (one sided). Probability will be measured in percent.", 
+            "measure": "Probability of achieving a negative axillary nodal status", 
+            "safety_issue": "No", 
+            "time_frame": "at time of surgery"
+        }, 
+        "reference": [
+            {
+                "PMID": "21558518", 
+                "citation": "Hatzis C, Pusztai L, Valero V, Booser DJ, Esserman L, Lluch A, Vidaurre T, Holmes F, Souchon E, Wang H, Martin M, Cotrina J, Gomez H, Hubbard R, Chac\u00f3n JI, Ferrer-Lozano J, Dyer R, Buxton M, Gong Y, Wu Y, Ibrahim N, Andreopoulou E, Ueno NT, Hunt K, Yang W, Nazario A, DeMichele A, O'Shaughnessy J, Hortobagyi GN, Symmans WF. A genomic predictor of response and survival following taxane-anthracycline chemotherapy for invasive breast cancer. JAMA. 2011 May 11;305(18):1873-81. doi: 10.1001/jama.2011.593."
+            }, 
+            {
+                "PMID": "17634532", 
+                "citation": "Peintinger F, Anderson K, Mazouni C, Kuerer HM, Hatzis C, Lin F, Hortobagyi GN, Symmans WF, Pusztai L. Thirty-gene pharmacogenomic test correlates with residual cancer burden after preoperative chemotherapy for breast cancer. Clin Cancer Res. 2007 Jul 15;13(14):4078-82."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02032745"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Medical University of Graz", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Medical University of Graz", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "August 2011", 
+        "study_design": "Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "January 2014"
+    }
+}

@@ -1,0 +1,582 @@
+{
+    "clinical_study": {
+        "@rank": "58565", 
+        "acronym": "PACT", 
+        "arm_group": [
+            {
+                "arm_group_label": "Control", 
+                "arm_group_type": "No Intervention", 
+                "description": "Patients in the control arm only got a generic health message at the end of the study."
+            }, 
+            {
+                "arm_group_label": "Short Message", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Patients in this arm receive six short text message reminders within 60 hours of treatment initiation at 12 hour intervals."
+            }, 
+            {
+                "arm_group_label": "Long message", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Patients in this arm receive six long text message reminders (reminders including justification for why patients should finish medication) within 60 hours of treatment initiation at 12 hour intervals."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "A randomized controlled trial was conducted to assess the effectiveness of text reminders\n      sent to ACT users through an automated text messaging system short-message-system.\n\n      Study hypothesis: text message reminders increase adherence"
+        }, 
+        "brief_title": "Preserving ACTs - Text Reminders to Increase Adherence to ACT Treatment", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "Patients in this group received only a generic malaria information message (use bed nets) at the end of the study.", 
+                            "title": "Control"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "Patients in this arm receive six short text message reminders within 60 hours of treatment initiation at 12 hour intervals.", 
+                            "title": "Short Message"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Patients in this arm receive six long text message reminders (reminders including justification for why patients should finish medication) within 60 hours of treatment initiation at 12 hour intervals.", 
+                            "title": "Long Message"
+                        }, 
+                        {
+                            "@group_id": "B4", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "554"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "277"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "309"
+                                            }, 
+                                            {
+                                                "@group_id": "B4", 
+                                                "@value": "1140"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "166"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "105"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "111"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "382"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "342"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "158"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "166"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "666"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "46"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "14"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "32"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "92"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "description": "Age is reported for the sick person in the household, which includes children in the care of adults, who were enrolled in the study and who received the message treatments.", 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "Patients"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@spread": "17.7", 
+                                                "@value": "25.3"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@spread": "17.1", 
+                                                "@value": "23"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@spread": "17.8", 
+                                                "@value": "23.8"
+                                            }, 
+                                            {
+                                                "@group_id": "B4", 
+                                                "@spread": "17.6", 
+                                                "@value": "24.3"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "description": "Age reflects age of the patient. For patients of age 18 and younger, caregivers were enrolled and interviewed and thus primary study subjects.", 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "302"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "152"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "180"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "634"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "252"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "125"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "129"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "506"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "554"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "277"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "309"
+                                            }, 
+                                            {
+                                                "@group_id": "B4", 
+                                                "@value": "1140"
+                                            }
+                                        ]
+                                    }, 
+                                    "sub_title": "Ghana"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "limitations_and_caveats": "Main outcome is self-reported adherence. Study was restricted to urban population with mobile phone ownership.", 
+            "outcome_list": {
+                "outcome": {
+                    "description": "Percentage of participants completing full ACT treatment regimen 70 hours after treatment initiation. Subjects were visited at home, and asked to report when each of the prescribed six doses were taken. Adherence was defined as the (self-reported) completion of all six doses.", 
+                    "group_list": {
+                        "group": [
+                            {
+                                "@group_id": "O1", 
+                                "description": "Subjects in this group received only one generic malaria message (use bed nets) at the end of the study.", 
+                                "title": "Control"
+                            }, 
+                            {
+                                "@group_id": "O2", 
+                                "description": "Patients in this arm receive six short text message reminders within 60 hours of treatment initiation at 12 hour intervals.", 
+                                "title": "Short Message"
+                            }, 
+                            {
+                                "@group_id": "O3", 
+                                "description": "Patients in this arm receive six long text message reminders (reminders including justification for why patients should finish medication) within 60 hours of treatment initiation at 12 hour intervals.", 
+                                "title": "Long Message"
+                            }
+                        ]
+                    }, 
+                    "measure_list": {
+                        "measure": [
+                            {
+                                "category_list": {
+                                    "category": {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "O1", 
+                                                    "@value": "538"
+                                                }, 
+                                                {
+                                                    "@group_id": "O2", 
+                                                    "@value": "268"
+                                                }, 
+                                                {
+                                                    "@group_id": "O3", 
+                                                    "@value": "304"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }, 
+                                "param": "Number", 
+                                "title": "Number of Participants", 
+                                "units": "participants"
+                            }, 
+                            {
+                                "category_list": {
+                                    "category": {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "O1", 
+                                                    "@lower_limit": "57.39", 
+                                                    "@upper_limit": "65.648", 
+                                                    "@value": "61.5"
+                                                }, 
+                                                {
+                                                    "@group_id": "O2", 
+                                                    "@lower_limit": "63.45", 
+                                                    "@upper_limit": "74.60", 
+                                                    "@value": "69.0"
+                                                }, 
+                                                {
+                                                    "@group_id": "O3", 
+                                                    "@lower_limit": "58.72", 
+                                                    "@upper_limit": "69.56", 
+                                                    "@value": "64.1"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }, 
+                                "description": "Percentage of participants completing full ACT treatment regimen 70 hours after treatment initiation. Subjects were visited at home, and asked to report when each of the prescribed six doses were taken. Adherence was defined as the (self-reported) completion of all six doses.", 
+                                "dispersion": "95% Confidence Interval", 
+                                "param": "Number", 
+                                "title": "Self-reported Adherence to Artemisinin-combination Therapy (ACT) Treatment", 
+                                "units": "percentage of participants"
+                            }
+                        ]
+                    }, 
+                    "population": "The number of subjects analyzed is smaller than the number of subjects enrolled due to missing data on adherence. A total of 30 observations were lost due to missing information on adherence - 16 in the control group, 9 in the short message group, and 5 in the long message group.", 
+                    "safety_issue": "No", 
+                    "time_frame": "70 hours", 
+                    "title": "Self-reported Adherence to Artemisinin-combination Therapy (ACT) Treatment", 
+                    "type": "Primary"
+                }
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "Control group participants received only a message after five days informing them about the importance of using bed nets for malaria. No reminders to take ACTs were sent.", 
+                            "title": "Control"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "Patients in this arm receive six short text message reminders within 60 hours of treatment initiation at 12 hour intervals.", 
+                            "title": "Short Message"
+                        }, 
+                        {
+                            "@group_id": "P3", 
+                            "description": "Patients in this arm receive six long text message reminders (reminders including justification for why patients should finish medication) within 60 hours of treatment initiation at 12 hour intervals.", 
+                            "title": "Long Message"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "554", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "277", 
+                                                "@group_id": "P2"
+                                            }, 
+                                            {
+                                                "@count": "309", 
+                                                "@group_id": "P3"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "552", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "276", 
+                                                "@group_id": "P2"
+                                            }, 
+                                            {
+                                                "@count": "307", 
+                                                "@group_id": "P3"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "2", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P2"
+                                            }, 
+                                            {
+                                                "@count": "2", 
+                                                "@group_id": "P3"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "pre_assignment_details": "Only subjects from the Tamale area with cell phones were included.", 
+                "recruitment_details": "Subjects were recruited at all private and public facilities distributing Artemisinin-combination Therapies (ACTs)."
+            }, 
+            "point_of_contact": {
+                "email": "gfink@hsph.harvard.edu", 
+                "name_or_title": "Dr G\u00fcnther Fink", 
+                "organization": "Harvard School of Public Health", 
+                "phone": "6174327389"
+            }
+        }, 
+        "completion_date": {
+            "#text": "January 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": "Malaria", 
+        "condition_browse": {
+            "mesh_term": "Malaria"
+        }, 
+        "detailed_description": {
+            "textblock": "A randomized controlled trial was conducted to assess the effectiveness of text reminders\n      sent to ACT users through an automated text messaging system short-message-system. Patients\n      were enrolled at clinics and pharmacies upon receipt of ACTs and enrolled in the automated\n      system for 3 days."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n        -subjects acquiring ACTs in Tamale, Ghana\n\n        Exclusion Criteria:\n\n          -  subjects acquiring ACTs for non household members\n\n          -  subjects under the age of 18\n\n          -  subjects without access to cell phones\n\n          -  subjects living more than 30 minutes from pickup location"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "1140", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 2, 2012", 
+        "firstreceived_results_date": "October 23, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01722734", 
+            "org_study_id": "19850-101"
+        }, 
+        "intervention": {
+            "arm_group_label": [
+                "Short Message", 
+                "Long message"
+            ], 
+            "description": "Patients in the two treatment arms receive six short text message reminders within 60 hours of treatment initiation at 12 hour intervals to remind them to take their malaria medication as prescribed.", 
+            "intervention_name": "Text message reminders", 
+            "intervention_type": "Behavioral"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Malaria", 
+            "ACTs"
+        ], 
+        "lastchanged_date": "February 3, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Tamale", 
+                    "country": "Ghana", 
+                    "state": "Northern Region"
+                }, 
+                "name": "Study site"
+            }
+        }, 
+        "location_countries": {
+            "country": "Ghana"
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "Preserving ACTs - Text Reminders to Increase Adherence to ACT Treatment", 
+        "overall_official": {
+            "affiliation": "Harvard School of Public Health", 
+            "last_name": "Gunther Fink, PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Ghana: Committee on Human Research", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "December 2011", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Percentage of participants completing full ACT treatment regimen 70 hours after treatment initiation. Subjects were visited at home, and asked to report when each of the prescribed six doses were taken. Adherence was defined as the (self-reported) completion of all six doses.", 
+            "measure": "Self-reported Adherence to Artemisinin-combination Therapy (ACT) Treatment", 
+            "safety_issue": "No", 
+            "time_frame": "70 hours"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01722734"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Harvard School of Public Health", 
+            "investigator_full_name": "G\u00fcnther Fink", 
+            "investigator_title": "Assistant Professor of International Health Economics", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "source": "Harvard School of Public Health", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Harvard School of Public Health", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "June 2011", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Single Blind (Outcomes Assessor), Primary Purpose: Supportive Care", 
+        "study_type": "Interventional", 
+        "verification_date": "February 2014"
+    }
+}

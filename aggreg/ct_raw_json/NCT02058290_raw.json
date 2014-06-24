@@ -1,0 +1,2234 @@
+{
+    "clinical_study": {
+        "@rank": "153201", 
+        "acronym": "IMPROVE-Lap", 
+        "arm_group": [
+            {
+                "arm_group_label": "IV Morphine Sulfate or Sponsor-approved Equivalent", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Standard of Care (SOC)"
+            }, 
+            {
+                "arm_group_label": "EXPAREL", 
+                "arm_group_type": "Experimental", 
+                "description": "EXPAREL (bupivacaine liposome injectable suspension)"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This study is designed to compare the standard of care against EXPAREL (bupivacaine liposome\n      injectable suspension) to determine if total opioid consumption is reduced when using\n      EXPAREL, therefore possibly reducing total hospital costs."
+        }, 
+        "brief_title": "A Health Economic Trial in Adult Patients Undergoing Laparoscopic Colectomy", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "Standard of Care (SOC)\nIV morphine sulfate or Sponsor-approved equivalent: Patients in this group received IV morphine sulfate or Sponsor-approved equivalent via a patient-controlled analgesia (PCA) pump, as needed. The PCA pump was set up postsurgically as soon as possible and prior to the patient leaving the post-anesthesia care unit (PACU) or immediately upon transfer to a floor if the stay in the PACU was less than one hour.", 
+                            "title": "IV Morphine Sulfate or Sponsor-approved Equivalent"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "EXPAREL (bupivacaine liposome injectable suspension)\nEXPAREL: Patients received 266 mg EXPAREL diluted with preservative-free 0.9% normal saline to a total volume of 40 cc administered via wound infiltration prior to wound closure. When not contraindicated, 30 mg IV ketorolac was given at the end of surgery. If not indicated, an IV non-steroidal anti-inflammatory drug (NSAID) could be substituted per the site's standard of care.\nAll patients were offered rescue analgesia, as needed.", 
+                            "title": "EXPAREL"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "67"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "38"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "105"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@spread": "14.35", 
+                                                "@value": "58.6"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@spread": "11.86", 
+                                                "@value": "57.8"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@spread": "13.45", 
+                                                "@value": "58.3"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "35"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "21"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "56"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "32"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "17"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "49"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "7"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "4"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "11"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Hispanic or Latino"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "60"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "34"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "94"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Not Hispanic or Latino"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Race/Ethnicity, Customized", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "1"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "1"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Normal [1]"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "32"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "25"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "57"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Mild Systemic Disease [2]"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "32"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "13"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "45"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Severe Systemic Disease [3]"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "2"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "2"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Severe Systemic Disease Threat to Life [4]"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "American Society of Anesthesiologist (ASA) Classification", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@spread": "2.14", 
+                                                "@value": "1.9"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@spread": "0.86", 
+                                                "@value": "1.3"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@spread": "1.81", 
+                                                "@value": "1.7"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "description": "Patient\u2019s Pain Level 24 Hours Prior to Surgery was measured on a scale from 0 to 10 where 0 = no pain and 10 = worst possible pain.", 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Patient's Pain Level 24 Hours Prior to Surgery", 
+                            "units": "units on a scale"
+                        }
+                    ]
+                }, 
+                "population": "122 subjects were enrolled.  Of these, 105 subjects received study drug: 67 subjects received IV morphine sulfate or sponsor-approved equivalent and 38 subjects received EXPAREL."
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "method": "ANOVA", 
+                                "non_inferiority": "No", 
+                                "p_value": "<0.0001"
+                            }
+                        }, 
+                        "description": "Total opioid consumed (IV and PO) postsurgically until hospital discharge order is written or through Day 30, whichever is sooner.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Standard of Care (SOC)\nIV morphine sulfate or Sponsor-approved equivalent: Patients in this group received IV morphine sulfate or Sponsor-approved equivalent via a patient-controlled analgesia (PCA) pump, as needed. The PCA pump was set up postsurgically as soon as possible and prior to the patient leaving the post-anesthesia care unit (PACU) or immediately upon transfer to a floor if the stay in the PACU was less than one hour.", 
+                                    "title": "IV Morphine Sulfate or Sponsor-approved Equivalent"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "EXPAREL (bupivacaine liposome injectable suspension)\nEXPAREL: Patients received 266 mg EXPAREL diluted with preservative-free 0.9% normal saline to a total volume of 40 cc administered via wound infiltration prior to wound closure. When not contraindicated, 30 mg IV ketorolac was given at the end of surgery. If not indicated, an IV non-steroidal anti-inflammatory drug (NSAID) could be substituted per the site's standard of care.\nAll patients were offered rescue analgesia, as needed.", 
+                                    "title": "EXPAREL"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "56"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "26"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "77.74", 
+                                                        "@value": "96.47"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "53.16", 
+                                                        "@value": "32.06"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Total opioid consumed (IV and PO) postsurgically until hospital discharge order is written or through Day 30, whichever is sooner.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Total Opioid Burden", 
+                                    "units": "mg"
+                                }
+                            ]
+                        }, 
+                        "population": "Of the 77 subjects who were enrolled in Group 1, 56 were included in the efficacy analysis set.  Of the 45 subjects who were enrolled in Group 2, 26 were included in the efficacy analysis set.", 
+                        "safety_issue": "Yes", 
+                        "time_frame": "Wound closure to time hospital discharge order is written or Day 30, whichever is sooner.", 
+                        "title": "Total Opioid Burden", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "method": "ANOVA", 
+                                "non_inferiority": "No", 
+                                "p_value": "0.2612"
+                            }
+                        }, 
+                        "description": "Total cost of hospitalization until the time hospital discharge order is written or through Day 30, whichever was sooner.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Standard of Care (SOC)\nIV morphine sulfate or Sponsor-approved equivalent: Patients in this group received IV morphine sulfate or Sponsor-approved equivalent via a patient-controlled analgesia (PCA) pump, as needed. The PCA pump was set up postsurgically as soon as possible and prior to the patient leaving the post-anesthesia care unit (PACU) or immediately upon transfer to a floor if the stay in the PACU was less than one hour.", 
+                                    "title": "IV Morphine Sulfate or Sponsor-approved Equivalent"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "EXPAREL (bupivacaine liposome injectable suspension)\nEXPAREL: Patients received 266 mg EXPAREL diluted with preservative-free 0.9% normal saline to a total volume of 40 cc administered via wound infiltration prior to wound closure. When not contraindicated, 30 mg IV ketorolac was given at the end of surgery. If not indicated, an IV non-steroidal anti-inflammatory drug (NSAID) could be substituted per the site's standard of care.\nAll patients were offered rescue analgesia, as needed.", 
+                                    "title": "EXPAREL"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "56"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "26"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "11417.50", 
+                                                        "@value": "15158.79"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "18382.12", 
+                                                        "@value": "14802.70"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Total cost of hospitalization until the time hospital discharge order is written or through Day 30, whichever was sooner.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Health Economic Benefits - Total Cost of Hospitalization", 
+                                    "units": "dollars"
+                                }
+                            ]
+                        }, 
+                        "population": "Of the 77 subjects who were enrolled in Group 1, 56 were included in the efficacy analysis set.  Of the 45 subjects who were enrolled in Group 2, 26 were included in the efficacy analysis set.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Wound closure to time hospital discharge order is written or Day 30, whichever is sooner.", 
+                        "title": "Health Economic Benefits - Total Cost of Hospitalization", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "method": "Log Rank", 
+                                "non_inferiority": "No", 
+                                "p_value": "0.0019"
+                            }
+                        }, 
+                        "description": "Length of stay, recorded in days, defined as the time of completion of the wound closure until the hospital discharge order is written or through Day 30, whichever is sooner.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Standard of Care (SOC)\nIV morphine sulfate or Sponsor-approved equivalent: Patients in this group received IV morphine sulfate or Sponsor-approved equivalent via a patient-controlled analgesia (PCA) pump, as needed. The PCA pump was set up postsurgically as soon as possible and prior to the patient leaving the post-anesthesia care unit (PACU) or immediately upon transfer to a floor if the stay in the PACU was less than one hour.", 
+                                    "title": "IV Morphine Sulfate or Sponsor-approved Equivalent"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "EXPAREL (bupivacaine liposome injectable suspension)\nEXPAREL: Patients received 266 mg EXPAREL diluted with preservative-free 0.9% normal saline to a total volume of 40 cc administered via wound infiltration prior to wound closure. When not contraindicated, 30 mg IV ketorolac was given at the end of surgery. If not indicated, an IV non-steroidal anti-inflammatory drug (NSAID) could be substituted per the site's standard of care.\nAll patients were offered rescue analgesia, as needed.", 
+                                    "title": "EXPAREL"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "56"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "26"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "0", 
+                                                        "@upper_limit": "30", 
+                                                        "@value": "4.0"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "1.9", 
+                                                        "@upper_limit": "10.7", 
+                                                        "@value": "3.0"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Length of stay, recorded in days, defined as the time of completion of the wound closure until the hospital discharge order is written or through Day 30, whichever is sooner.", 
+                                    "dispersion": "Full Range", 
+                                    "param": "Median", 
+                                    "title": "Health Economic Benefits - Length of Stay (LOS)", 
+                                    "units": "days"
+                                }
+                            ]
+                        }, 
+                        "population": "Of the 77 subjects who were enrolled in Group 1, 56 were included in the efficacy analysis set.  Of the 45 subjects who were enrolled in Group 2, 26 were included in the efficacy analysis set.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Wound closure at time hospital discharge order is written or Day 30, whichever is sooner", 
+                        "title": "Health Economic Benefits - Length of Stay (LOS)", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "Incidence of opioid-related adverse events defined as somnolence, respiratory depression, hypoventilation, hypoxia, dry mouth, nausea, vomiting, constipation, sedation, confusion, pruritus, urinary retention, and postoperative ileus.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Standard of Care (SOC)\nIV morphine sulfate or Sponsor-approved equivalent: Patients in this group received IV morphine sulfate or Sponsor-approved equivalent via a patient-controlled analgesia (PCA) pump, as needed. The PCA pump was set up postsurgically as soon as possible and prior to the patient leaving the post-anesthesia care unit (PACU) or immediately upon transfer to a floor if the stay in the PACU was less than one hour.", 
+                                    "title": "IV Morphine Sulfate or Sponsor-approved Equivalent"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "EXPAREL (bupivacaine liposome injectable suspension)\nEXPAREL: Patients received 266 mg EXPAREL diluted with preservative-free 0.9% normal saline to a total volume of 40 cc administered via wound infiltration prior to wound closure. When not contraindicated, 30 mg IV ketorolac was given at the end of surgery. If not indicated, an IV non-steroidal anti-inflammatory drug (NSAID) could be substituted per the site's standard of care.\nAll patients were offered rescue analgesia, as needed.", 
+                                    "title": "EXPAREL"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "56"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "26"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "23"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "2"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Incidence of opioid-related adverse events defined as somnolence, respiratory depression, hypoventilation, hypoxia, dry mouth, nausea, vomiting, constipation, sedation, confusion, pruritus, urinary retention, and postoperative ileus.", 
+                                    "param": "Number", 
+                                    "title": "Incidence of Opioid-related Adverse Events", 
+                                    "units": "participants"
+                                }
+                            ]
+                        }, 
+                        "population": "Of the 77 subjects who were enrolled in Group 1, 56 were included in the efficacy analysis set.  Of the 45 subjects who were enrolled in Group 2, 26 were included in the efficacy analysis set.", 
+                        "safety_issue": "Yes", 
+                        "time_frame": "Wound closure at time hospital discharge order is written or Day 30, whichever is sooner.", 
+                        "title": "Incidence of Opioid-related Adverse Events", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "Responses to question pertaining to patient satisfaction with pain treatment", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Standard of Care (SOC)\nIV morphine sulfate or Sponsor-approved equivalent: Patients in this group received IV morphine sulfate or Sponsor-approved equivalent via a patient-controlled analgesia (PCA) pump, as needed. The PCA pump was set up postsurgically as soon as possible and prior to the patient leaving the post-anesthesia care unit (PACU) or immediately upon transfer to a floor if the stay in the PACU was less than one hour.", 
+                                    "title": "IV Morphine Sulfate or Sponsor-approved Equivalent"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "EXPAREL (bupivacaine liposome injectable suspension)\nEXPAREL: Patients received 266 mg EXPAREL diluted with preservative-free 0.9% normal saline to a total volume of 40 cc administered via wound infiltration prior to wound closure. When not contraindicated, 30 mg IV ketorolac was given at the end of surgery. If not indicated, an IV non-steroidal anti-inflammatory drug (NSAID) could be substituted per the site's standard of care.\nAll patients were offered rescue analgesia, as needed.", 
+                                    "title": "EXPAREL"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "56"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "26"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "30"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "17"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Extremely Satisfied"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "19"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "5"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Satisfied"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "0"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "2"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Neither Satisfied nor Dissatisfied"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "3"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "0"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Dissatisfied"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "1"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "0"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Extremely Dissatisfied"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "3"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "2"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Not Reported"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "Responses to question pertaining to patient satisfaction with pain treatment", 
+                                    "param": "Number", 
+                                    "title": "Patient Satisfaction With Pain Treatment After Surgery", 
+                                    "units": "participants"
+                                }
+                            ]
+                        }, 
+                        "population": "Of the 77 subjects who were enrolled in Group 1, 56 were included in the efficacy analysis set.  Of the 45 subjects who were enrolled in Group 2, 26 were included in the efficacy analysis set.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Wound closure at time hospital discharge order is written or Day 30, whichever is sooner.", 
+                        "title": "Patient Satisfaction With Pain Treatment After Surgery", 
+                        "type": "Secondary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "Standard of Care (SOC)\nIV morphine sulfate or Sponsor-approved equivalent: Patients in this group received IV morphine sulfate or Sponsor-approved equivalent via a patient-controlled analgesia (PCA) pump, as needed. The PCA pump was set up postsurgically as soon as possible and prior to the patient leaving the post-anesthesia care unit (PACU) or immediately upon transfer to a floor if the stay in the PACU was less than one hour.", 
+                            "title": "IV Morphine Sulfate or Sponsor-approved Equivalent"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "EXPAREL (bupivacaine liposome injectable suspension)\nEXPAREL: Patients received 266 mg EXPAREL diluted with preservative-free 0.9% normal saline to a total volume of 40 cc administered via wound infiltration prior to wound closure. When not contraindicated, 30 mg IV ketorolac was given at the end of surgery. If not indicated, an IV non-steroidal anti-inflammatory drug (NSAID) could be substituted per the site's standard of care.\nAll patients were offered rescue analgesia, as needed.", 
+                            "title": "EXPAREL"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "drop_withdraw_reason_list": {
+                            "drop_withdraw_reason": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "2", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "Protocol Violation"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "Physician Decision"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "8", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "7", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "Didn't meet intraoperative criteria"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "Withdrawal by Subject"
+                                }
+                            ]
+                        }, 
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "77", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "45", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "66", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "36", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "11", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "9", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }
+            }, 
+            "point_of_contact": {
+                "email": "erol.onel@pacira.com", 
+                "name_or_title": "Erol Onel, MD", 
+                "organization": "Pacira Pharmaceuticals, Inc.", 
+                "phone": "858-625-2424"
+            }, 
+            "reported_events": {
+                "desc": "Of the 122 subjects enrolled, the safety analysis set included 67 subjects from Group 1 and 38 subjects from Group 2.", 
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "E1", 
+                            "description": "Standard of Care (SOC)\nIV morphine sulfate or Sponsor-approved equivalent: Patients in this group received IV morphine sulfate or Sponsor-approved equivalent via a patient-controlled analgesia (PCA) pump, as needed. The PCA pump was set up postsurgically as soon as possible and prior to the patient leaving the post-anesthesia care unit (PACU) or immediately upon transfer to a floor if the stay in the PACU was less than one hour.", 
+                            "title": "IV Morphine Sulfate or Sponsor-approved Equivalent"
+                        }, 
+                        {
+                            "@group_id": "E2", 
+                            "description": "EXPAREL (bupivacaine liposome injectable suspension)\nEXPAREL: Patients received 266 mg EXPAREL diluted with preservative-free 0.9% normal saline to a total volume of 40 cc administered via wound infiltration prior to wound closure. When not contraindicated, 30 mg IV ketorolac was given at the end of surgery. If not indicated, an IV non-steroidal anti-inflammatory drug (NSAID) could be substituted per the site's standard of care.\nAll patients were offered rescue analgesia, as needed.", 
+                            "title": "EXPAREL"
+                        }
+                    ]
+                }, 
+                "other_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "53", 
+                                                "@subjects_at_risk": "67"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "15", 
+                                                "@subjects_at_risk": "38"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, other adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "4", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Anemia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "4", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Leukocytosis"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "67"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "38"
+                                            }
+                                        ], 
+                                        "sub_title": "Tachycardia"
+                                    }
+                                }, 
+                                "title": "Cardiac disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "5", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Abdominal Distention"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "5", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Abdominal Pain"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Diarrhea"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "23", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Nausea"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Small Intestinal Obstruction"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "5", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Vomiting"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Chest Pain"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Pyrexia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "General disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Cellulitis"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Clostridial Infection"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "4", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Urinary Tract Infection"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Infections and infestations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "67"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "38"
+                                            }
+                                        ], 
+                                        "sub_title": "Postoperative Ileus"
+                                    }
+                                }, 
+                                "title": "Injury, poisoning and procedural complications"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "67"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "38"
+                                            }
+                                        ], 
+                                        "sub_title": "Blood Pressure Increased"
+                                    }
+                                }, 
+                                "title": "Investigations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Hyperglycemia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Hypocalcemia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Hypokalemia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Hypophosphatemia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Metabolism and nutrition disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Back Pain"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Musculoskeletal Pain"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Musculoskeletal and connective tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "7", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Headache"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Hypoethesia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Nervous system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "67"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "38"
+                                            }
+                                        ], 
+                                        "sub_title": "Confusional State"
+                                    }
+                                }, 
+                                "title": "Psychiatric disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "67"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "38"
+                                            }
+                                        ], 
+                                        "sub_title": "Urinary Retention"
+                                    }
+                                }, 
+                                "title": "Renal and urinary disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "67"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "38"
+                                            }
+                                        ], 
+                                        "sub_title": "Pulmonary Congestion"
+                                    }
+                                }, 
+                                "title": "Respiratory, thoracic and mediastinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Erythema"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "5", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Pruritus"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Skin and subcutaneous tissue disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "default_vocab": "MedDRA (12.0)", 
+                    "frequency_threshold": "3"
+                }, 
+                "serious_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "9", 
+                                                "@subjects_at_risk": "67"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "38"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, serious adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "67"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "38"
+                                            }
+                                        ], 
+                                        "sub_title": "Atrial fibrillation"
+                                    }
+                                }, 
+                                "title": "Cardiac disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Abdominal pain"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Gastrointestinal Perforation"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Intestinal Perforation"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Nausea"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Pancreatitis Acute"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Small Intestinal Obstruction"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Vomiting"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "67"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "38"
+                                            }
+                                        ], 
+                                        "sub_title": "Cholecystitis Acute"
+                                    }
+                                }, 
+                                "title": "Hepatobiliary disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Abscess"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Bacterial Infection"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Bacterial Sepsis"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Clostridial Infection"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Urinary Tract Infection"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Wound Infection"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Infections and infestations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Anastomotic Leak"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Postoperative Ileus"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Injury, poisoning and procedural complications"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Blood Urea Nitrogen (BUN) Increased"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Blood Creatinine Increased"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "White Blood Cells Increased"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Investigations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "67"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "38"
+                                            }
+                                        ], 
+                                        "sub_title": "Dehydration"
+                                    }
+                                }, 
+                                "title": "Metabolism and nutrition disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "67"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "38"
+                                            }
+                                        ], 
+                                        "sub_title": "Colon Cancer"
+                                    }
+                                }, 
+                                "title": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Renal Failure Acute"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "67"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "38"
+                                                }
+                                            ], 
+                                            "sub_title": "Urinary Retention"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Renal and urinary disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "67"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "38"
+                                            }
+                                        ], 
+                                        "sub_title": "Pleural Effusion"
+                                    }
+                                }, 
+                                "title": "Respiratory, thoracic and mediastinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "67"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "38"
+                                            }
+                                        ], 
+                                        "sub_title": "Stent Placement"
+                                    }
+                                }, 
+                                "title": "Surgical and medical procedures"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "67"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "38"
+                                            }
+                                        ], 
+                                        "sub_title": "Deep Vein Thrombosis"
+                                    }
+                                }, 
+                                "title": "Vascular disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "default_vocab": "MedDRA (12.0)"
+                }, 
+                "time_frame": "Through Day 30 post surgery."
+            }
+        }, 
+        "completion_date": {
+            "#text": "February 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": "Bowel Obstruction", 
+        "condition_browse": {
+            "mesh_term": "Intestinal Obstruction"
+        }, 
+        "detailed_description": {
+            "textblock": "This is a Phase 4, prospective, sequential, open-label study designed to evaluate the\n      efficacy, safety, and health economic benefits of intraoperative local wound infiltration\n      with EXPAREL (bupivacaine liposome injectable suspension) compared with postsurgical\n      administration of standardized intravenous (IV) morphine sulfate or Sponsor-approved\n      equivalent for postsurgical analgesia in adult patients undergoing laparoscopic colectomy\n      with general anesthesia."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Male or female, at least 18 years of age.\n\n          -  Patients scheduled to undergo laparoscopic segmental colectomy with planned primary\n             anastamosis, as defined by cecectomy, right hemicolectomy, resection of transverse\n             colon, left hemicolectomy, or sigmoidectomy.  (Note: patients who converted from a\n             planned laparoscopic colectomy to an open colectomy were not eligible.)\n\n          -  Ability to provide informed consent, adhere to study visit schedule, and complete all\n             study assessments.\n\n        Exclusion Criteria:\n\n          -  Patients with a history of hypersensitivity or idiosyncratic reactions or intolerance\n             to any local anesthetic, opioid, or propofol.\n\n          -  Patients who abuse alcohol or other drug substance.\n\n          -  Patients with severe hepatic impairment.\n\n          -  Patients currently pregnant or who may become pregnant during the course of the study\n             or who are unwilling to use acceptable means of contraception for at least 1 month\n             before and 1 month after dosing.  Acceptable means of contraception include hormonal\n             contraceptives (e.g., oral, injectable, implantable), effective barrier methods\n             (e.g., condoms with spermicide), intrauterine device, lifestyle with a personal\n             choice of abstinence, non-heterosexual lifestyle, or in a strictly monogamous\n             relationship with a partner who has had a vasectomy.\n\n          -  Patients with any psychiatric, psychological, or other condition that the\n             Investigator feels may make the patient an inappropriate candidate for this clinical\n             study.\n\n          -  Participation in an EXPAREL study within the last 30 days.\n\n          -  Patients who have received any investigational drug within 30 days prior to study\n             drug administration, or planned administration of another investigational product or\n             procedure during the patient's participation in this study.\n\n        In addition, a patient was ineligible if he or she met the following criteria during\n        surgery:\n\n          -  Patients who had any concurrent surgical procedure.\n\n          -  Patients with unplanned multiple segmental resections of large intestine.\n\n          -  Patients who converted from laparoscopic-assisted colectomy to traditional open\n             colectomy.\n\n          -  Patients who had unplanned, temporary or permanent colostomies, ileostomies, or the\n             like placed.\n\n          -  Patients who received intraoperative administration of opioids (other than fentanyl\n             or analogs) or any other analgesic, local anesthetics, or anti-inflammatory agents.\n\n          -  Patients who received Entereg."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "122", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "February 6, 2014", 
+        "firstreceived_results_date": "February 19, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02058290", 
+            "org_study_id": "MA402S23B6A/6B"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "IV Morphine Sulfate or Sponsor-approved Equivalent", 
+                "description": "Patients in this group will receive IV morphine sulfate or Sponsor-approved equivalent via a patient-controlled analgesia (PCA) pump, as needed. The PCA pump will be set up postsurgically as soon as possible and prior to the patient leaving the post-anesthesia care unit (PACU) or immediately upon transfer to a floor if the stay in the PACU is less than one hour.", 
+                "intervention_name": "IV morphine sulfate or Sponsor-approved equivalent", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "EXPAREL", 
+                "description": "Patients will receive 266 mg EXPAREL diluted with preservative-free 0.9% normal saline to a total volume of 40 cc administered via wound infiltration prior to wound closure. When not contraindicated, 30 mg IV ketorolac will be given at the end of surgery. If not indicated, an IV non-steroidal anti-inflammatory drug (NSAID) may be substituted per the site's standard of care.\nAll patients will be offered rescue analgesia, as needed.", 
+                "intervention_name": "EXPAREL", 
+                "intervention_type": "Drug", 
+                "other_name": "bupivacaine liposome injectable suspension"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Bupivacaine", 
+                "Morphine"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": "laparoscopic colectomy", 
+        "lastchanged_date": "April 15, 2014", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Washington DC", 
+                        "country": "United States", 
+                        "state": "District of Columbia", 
+                        "zip": "20010"
+                    }, 
+                    "name": "Washington Hospital Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miami", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33136"
+                    }, 
+                    "name": "University of Miami, Dept. Anesthesiology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tampa", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33606"
+                    }, 
+                    "name": "Tampa General Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Albany", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "12208"
+                    }, 
+                    "name": "Albany Medical College"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Columbus", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "43210"
+                    }, 
+                    "name": "The Ohio State University Medical Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77030"
+                    }, 
+                    "name": "Methodist Hospital"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "A Pain Relief Trial Utilizing the Infiltration of a Multivesicular Liposome Formulation of Bupivacaine, EXPAREL(R): A Phase 4 Health Economic Trial in Adult Patients Undergoing Laparoscopic Colectomy (IMPROVE-Lap Colectomy)", 
+        "overall_official": [
+            {
+                "affiliation": "Albany Medical College", 
+                "last_name": "Edward C Lee, MD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "University of Miami", 
+                "last_name": "Keith Candiotti, MD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Ohio State University", 
+                "last_name": "Sergio Bergese, MD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "The Methodist Hospital System", 
+                "last_name": "Eric M Haas, MD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Tampa General Hospital", 
+                "last_name": "Jorge Marcet, MD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Washington Hospital Center", 
+                "last_name": "Anjali Kumar, MD", 
+                "role": "Principal Investigator"
+            }
+        ], 
+        "overall_status": "Terminated", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 4", 
+        "primary_completion_date": {
+            "#text": "September 2012", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "Total opioid consumed (IV and PO) postsurgically until hospital discharge order is written or through Day 30, whichever is sooner.", 
+                "measure": "Total Opioid Burden", 
+                "safety_issue": "Yes", 
+                "time_frame": "Wound closure to time hospital discharge order is written or Day 30, whichever is sooner."
+            }, 
+            {
+                "description": "Total cost of hospitalization until the time hospital discharge order is written or through Day 30, whichever was sooner.", 
+                "measure": "Health Economic Benefits - Total Cost of Hospitalization", 
+                "safety_issue": "No", 
+                "time_frame": "Wound closure to time hospital discharge order is written or Day 30, whichever is sooner."
+            }, 
+            {
+                "description": "Length of stay, recorded in days, defined as the time of completion of the wound closure until the hospital discharge order is written or through Day 30, whichever is sooner.", 
+                "measure": "Health Economic Benefits - Length of Stay (LOS)", 
+                "safety_issue": "No", 
+                "time_frame": "Wound closure at time hospital discharge order is written or Day 30, whichever is sooner"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02058290"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Incidence of opioid-related adverse events defined as somnolence, respiratory depression, hypoventilation, hypoxia, dry mouth, nausea, vomiting, constipation, sedation, confusion, pruritus, urinary retention, and postoperative ileus.", 
+                "measure": "Incidence of Opioid-related Adverse Events", 
+                "safety_issue": "Yes", 
+                "time_frame": "Wound closure at time hospital discharge order is written or Day 30, whichever is sooner."
+            }, 
+            {
+                "description": "Responses to question pertaining to patient satisfaction with pain treatment", 
+                "measure": "Patient Satisfaction With Pain Treatment After Surgery", 
+                "safety_issue": "No", 
+                "time_frame": "Wound closure at time hospital discharge order is written or Day 30, whichever is sooner."
+            }
+        ], 
+        "source": "Pacira Pharmaceuticals, Inc", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Registrat-Mapi", 
+                "agency_class": "Other"
+            }, 
+            "lead_sponsor": {
+                "agency": "Pacira Pharmaceuticals, Inc", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "December 2011", 
+        "study_design": "Allocation: Non-Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Health Services Research", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2014", 
+        "why_stopped": "Slower than expected enrollment"
+    }
+}

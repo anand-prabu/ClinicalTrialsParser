@@ -1,0 +1,600 @@
+{
+    "clinical_study": {
+        "@rank": "26746", 
+        "arm_group": [
+            {
+                "arm_group_label": "Control Group", 
+                "arm_group_type": "No Intervention", 
+                "description": "Control Group received standard anesthesia care including intraoperative blood sampling when estimated blood loss was \u226515% of total blood volume and transfusion when hemoglobin was \u226410 g/dL."
+            }, 
+            {
+                "arm_group_label": "SpHb Group.", 
+                "arm_group_type": "Experimental", 
+                "description": "Continuous non-invasive hemoglobin monitoring (SpHb monitoring) was provided to the anesthesiologist to influence administration of care"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Continuous and noninvasive hemoglobin (SpHb) monitoring provides clinicians with real-time\n      trending of changes or lack of changes in hemoglobin, which has the potential to alter red\n      blood cell (RBC) transfusion decision making. The objective of this study was to evaluate\n      the impact of SpHb monitoring on RBC transfusions in high blood loss surgery. The\n      investigators hypothesize that SpHb will improve blood transfusion practice in the for of\n      change the number of blood unit per patient and improve the outcome regards the time to take\n      decision of transfusion trigger."
+        }, 
+        "brief_title": "Impact of SpHb Monitoring on Transfusion", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "In the SpHb Group, the anesthesiologist was guided by the addition of SpHb monitoring.\nContinuous non invasive hemoglobin monitoring arm\nContinuous non invasive hemoglobin monitoring : Masimo radical pulse co oximetry", 
+                            "title": "SpHb Group."
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "Control Group received standard anesthesia care including intraoperative blood sampling when estimated blood loss was \u226515% of total blood volume and transfusion when hemoglobin was \u226410 g/dL.", 
+                            "title": "Control Group"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "45"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "61"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "106"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "6"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "6"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "12"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "39"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "55"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "94"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "25"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "31"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "56"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "20"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "30"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "50"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "45"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "61"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "106"
+                                            }
+                                        ]
+                                    }, 
+                                    "sub_title": "Egypt"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "description": "To assess absolute accuracy, or single point comparison, paired SpHb and Hb measurements were compared pre- and post- transfusion and bias and standard deviation were calculated. A Bland Altman graph with limits of agreement (1.96 x standard deviation, adjusted for the bias) was plotted to show agreement across the range of values.  To assess trending, a regression plot of changes in Hb and corresponding changes in SpHb was plotted and a coefficient of determination (R2) was calculated", 
+                        "safety_issue": "Yes", 
+                        "time_frame": "During surgery (an average of about 4 hours)", 
+                        "title": "SpHb Absolute and Trend Accuracy", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "Potential cost saving resulting from reduced RBC utilization was estimated using activity-based cost estimates established by Shander et al.(8) which determined from both U.S. and European hospitals the total cost of transfusing one RBC unit to be between $522 and $1,183 with a mean and standard deviation of $761 \u00b1 $294.", 
+                        "safety_issue": "No", 
+                        "time_frame": "During surgery (an average of about 4 hours)", 
+                        "title": "Potential Cost Savings", 
+                        "type": "Other Pre-specified"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "method": "t-test, 2 sided", 
+                                "non_inferiority": "No", 
+                                "p_value": "<0.01"
+                            }
+                        }, 
+                        "description": "Determine whether using SpHb can affect the quantity of RBC transfused, per patient receiving a transfusion.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "In the SpHb Group, the anesthesiologist was guided by the addition of SpHb monitoring.\nContinuous non invasive hemoglobin monitoring arm\nContinuous non invasive hemoglobin monitoring : Masimo radical pulse co oximetry", 
+                                    "title": "SpHb Group."
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Control Group received standard anesthesia care including intraoperative blood sampling when estimated blood loss was \u226515% of total blood volume and transfusion when hemoglobin was \u226410 g/dL.", 
+                                    "title": "Control Group"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "19"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "30"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "1.6", 
+                                                        "@upper_limit": "3", 
+                                                        "@value": "2.3"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "3.2", 
+                                                        "@upper_limit": "4.5", 
+                                                        "@value": "3.9"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Determine whether using SpHb can affect the quantity of RBC transfused, per patient receiving a transfusion.", 
+                                    "dispersion": "95% Confidence Interval", 
+                                    "param": "Mean", 
+                                    "title": "RBC Transfusions Per Subject Receiving a Transfusion", 
+                                    "units": "units"
+                                }
+                            ]
+                        }, 
+                        "population": "We only included the participants who received a blood transfusion during the surgery for this analysis. Participants who did not receive a transfusion were excluded from this analysis.", 
+                        "safety_issue": "No", 
+                        "time_frame": "During surgery (an average of about 4 hours)", 
+                        "title": "RBC Transfusions Per Subject Receiving a Transfusion", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "method": "t-test, 2 sided", 
+                                "non_inferiority": "No", 
+                                "p_value": "<0.001"
+                            }
+                        }, 
+                        "description": "Length of time it takes to initiate a RBC transfusion after the need was first established.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "In the SpHb Group, the anesthesiologist was guided by the addition of SpHb monitoring.\nContinuous non invasive hemoglobin monitoring arm.\nContinuous non invasive hemoglobin monitoring : Masimo radical pulse co oximetry", 
+                                    "title": "SpHb Group."
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Control Group received standard anesthesia care including intraoperative blood sampling when estimated blood loss was \u226515% of total blood volume and transfusion when hemoglobin was \u226410 g/dL.", 
+                                    "title": "Control Group"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "19"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "30"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "8.4", 
+                                                        "@upper_limit": "10", 
+                                                        "@value": "9.2"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "47.3", 
+                                                        "@upper_limit": "53", 
+                                                        "@value": "50.2"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Length of time it takes to initiate a RBC transfusion after the need was first established.", 
+                                    "dispersion": "95% Confidence Interval", 
+                                    "param": "Mean", 
+                                    "title": "The Effect of SpHb on Transfusion Timeline", 
+                                    "units": "minutes"
+                                }
+                            ]
+                        }, 
+                        "population": "We only included the participants who received a blood transfusion during the surgery for this analysis. Participants who did not receive a transfusion were excluded from this analysis.", 
+                        "safety_issue": "No", 
+                        "time_frame": "During surgery (an average of about 4 hours)", 
+                        "title": "The Effect of SpHb on Transfusion Timeline", 
+                        "type": "Primary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "In the SpHb Group, the anesthesiologist was guided by the addition of SpHb monitoring.\nContinuous non invasive hemoglobin monitoring arm\ncontinuous non invasive hemoglobin monitoring : Masimo radical pulse co oximetry", 
+                            "title": "SpHb Group."
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "Control Group received standard anesthesia care including intraoperative blood sampling when estimated blood loss was \u226515% of total blood volume and transfusion when hemoglobin was \u226410 g/dL.", 
+                            "title": "Control Group"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "45", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "61", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "45", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "61", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "recruitment_details": "Patients scheduled for neurosurgery"
+            }, 
+            "point_of_contact": {
+                "email": "waoool@hotmail.com", 
+                "name_or_title": "Dr Wael N Awada", 
+                "organization": "Cairo University School Of Medicine", 
+                "phone": "00201006481958"
+            }
+        }, 
+        "completion_date": {
+            "#text": "December 2012", 
+            "@type": "Actual"
+        }, 
+        "condition": "Anemia", 
+        "condition_browse": {
+            "mesh_term": "Anemia"
+        }, 
+        "detailed_description": {
+            "textblock": "Eligible patients scheduled for neurosurgeries were enrolled into either a standard care\n      group (Control Group) or an intervention group (SpHb Group). The Control Group received\n      typical anesthesia care including estimated blood loss (EBL) assessment and intraoperative\n      hemoglobin measurements from the central laboratory (Hb).  Blood samples were taken when EBL\n      was \u226515% of total blood volume.  RBC transfusion was initiated if Hb was \u226410 g/dL and\n      continued until the EBL was replaced and Hb >10g/dL was confirmed. The SpHb Group followed\n      the same transfusion practice as the Control Group except the anesthesiologist was guided by\n      the addition of SpHb monitoring with blood samples still taken pre- and post-transfusion.\n      Additionally, the absolute and trend accuracy of SpHb compared to Hb was evaluated.\n      Potential cost savings from reduced RBC utilization will be calculated if occured."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  ASA 1,2 patients from 15 to 60 years old scheduled for neurosurgical procedure\n\n        Exclusion Criteria:\n\n          -  Exclusion criteria included significant liver or renal disease, coagulopathy,\n             pregnancy, anemia, and patients scheduled for procedures with excepted low blood\n             loss."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "60 Years", 
+            "minimum_age": "15 Years"
+        }, 
+        "enrollment": {
+            "#text": "106", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "July 13, 2013", 
+        "firstreceived_results_date": "September 24, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01906515", 
+            "org_study_id": "doctor19"
+        }, 
+        "intervention": {
+            "arm_group_label": "SpHb Group.", 
+            "description": "Anesthesiologist is provided with real-time continuous non-invasive hemoglobin monitoring to influence care provided to patient", 
+            "intervention_name": "Continuous non-invasive hemoglobin monitoring", 
+            "intervention_type": "Device", 
+            "other_name": "Masimo Radical-7 with SpHb"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Anemia", 
+            "Blood transfusion", 
+            "non invasive hemoglobin monitoring", 
+            "patient safety"
+        ], 
+        "lastchanged_date": "January 24, 2014", 
+        "number_of_arms": "2", 
+        "official_title": "Continuous and Noninvasive Hemoglobin Monitoring Reduces Red Blood Cell Transfusion During Neurosurgery: A Prospective Cohort Study", 
+        "other_outcome": {
+            "description": "Potential cost saving resulting from reduced RBC utilization was estimated using activity-based cost estimates established by Shander et al.(8) which determined from both U.S. and European hospitals the total cost of transfusing one RBC unit to be between $522 and $1,183 with a mean and standard deviation of $761 \u00b1 $294.", 
+            "measure": "Potential Cost Savings", 
+            "safety_issue": "No", 
+            "time_frame": "During surgery (an average of about 4 hours)"
+        }, 
+        "overall_official": {
+            "affiliation": "Department of Anesthesia, ICU, and Pain Management, Cairo University, Egypt", 
+            "last_name": "Wael N Awada, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Egypt: Institutional Review Board", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "October 2012", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "Determine whether using SpHb can affect the quantity of RBC transfused, per patient receiving a transfusion.", 
+                "measure": "RBC Transfusions Per Subject Receiving a Transfusion", 
+                "safety_issue": "No", 
+                "time_frame": "During surgery (an average of about 4 hours)"
+            }, 
+            {
+                "description": "Length of time it takes to initiate a RBC transfusion after the need was first established.", 
+                "measure": "The Effect of SpHb on Transfusion Timeline", 
+                "safety_issue": "No", 
+                "time_frame": "During surgery (an average of about 4 hours)"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01906515"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Cairo University", 
+            "investigator_full_name": "wael awada", 
+            "investigator_title": "Assistant Lecturer Cairo University", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": {
+            "description": "To assess absolute accuracy, or single point comparison, paired SpHb and Hb measurements were compared pre- and post- transfusion and bias and standard deviation were calculated. A Bland Altman graph with limits of agreement (1.96 x standard deviation, adjusted for the bias) was plotted to show agreement across the range of values.  To assess trending, a regression plot of changes in Hb and corresponding changes in SpHb was plotted and a coefficient of determination (R2) was calculated", 
+            "measure": "SpHb Absolute and Trend Accuracy", 
+            "safety_issue": "Yes", 
+            "time_frame": "During surgery (an average of about 4 hours)"
+        }, 
+        "source": "Cairo University", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Masimo Corporation", 
+                "agency_class": "Industry"
+            }, 
+            "lead_sponsor": {
+                "agency": "Cairo University", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "February 2012", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Single Blind (Outcomes Assessor), Primary Purpose: Prevention", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2014"
+    }
+}

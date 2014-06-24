@@ -1,0 +1,197 @@
+{
+    "clinical_study": {
+        "@rank": "87281", 
+        "arm_group": [
+            {
+                "arm_group_label": "HeartNavigator", 
+                "arm_group_type": "Experimental", 
+                "description": "Group with HeartNavigator-Software"
+            }, 
+            {
+                "arm_group_label": "Control", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Control-group without HeartNavigator-Software"
+            }, 
+            {
+                "arm_group_label": "EchoNav", 
+                "arm_group_type": "Experimental", 
+                "description": "Group with EchoNav-Software"
+            }, 
+            {
+                "arm_group_label": "Conrol", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Control-group without EchoNav-Software"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Objectives:\n\n      Goal of the study is to investigate the potential benefit that transcatheter interventions\n      such as Transcatheter Aortic Valve Implantation (TAVI), MitraClip, Left Atrial Appendage\n      Closure and catheter Ablation can gain from multimodal image fusion techniques as they are\n      available in the Hybrid suite.\n\n      Both the HeartNavigator and the EchoNav aim at decreasing the exposure to radiation and\n      contrast agent, to shorten the operation time (efficacy), and to increase the quality of\n      care (safety).\n\n      This pilot study aims at observing these aims on a small patient population and a control\n      group.\n\n      Number of Subjects:\n\n      140 patients total in 6 groups:\n\n        -  MitraClip, Left Atrial Appendage Closure or catheter Ablation with EchoNav (20, lead-in\n           stage).\n\n        -  MitraClip randomized with EchoNav (25), MitraClip randomized without EchoNav (25).\n\n        -  TAVI with HeartNavigator lead in (10)\n\n        -  TAVI randomized with HeartNavigator (30), TAVI randomized without HeartNavigator (30)."
+        }, 
+        "brief_title": "Use of Standardized Diagnostic Imaging Data for Image Fusion in the Hybrid Operating Room", 
+        "completion_date": {
+            "#text": "January 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Heart Valve Diseases", 
+        "condition_browse": {
+            "mesh_term": "Heart Valve Diseases"
+        }, 
+        "detailed_description": {
+            "textblock": "Medical Device:\n\n      HeartNavigator: System for preoperative image-based assessment of aortic root geometry,\n      planning of transcatheter aortic valve implantation, and intraoperative C-Arm control.\n\n      EchoNav: System for intraoperative registration of 3D Echo images with X-ray fluoroscopy\n      images."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion criteria:\n\n          -  Male and female patients over 18 years of age.\n\n          -  Ability and willingness to give informed consent.\n\n          -  Indication for TAVI, MitraClip, catheter ablation  or percutaneous closure of the\n             left atrial appendage procedure performed in the hybrid OR suite.\n\n          -  Recent good quality CTA (TAVI patients only, no CTA needed for EchoNav).\n\n        Exclusion criteria:\n\n          -  Contraindications on ethical grounds,\n\n          -  Women who are pregnant or breast feeding,\n\n          -  Emergency cases,\n\n          -  Contraindication or known hypersensitivity to contrast media which is unresponsive to\n             pretreatment with steroids and antihistamines,\n\n          -  Known renal insufficiency (GFR < 50 ml/min) and patient is not on chronic\n             hemodialysis (TAVI patients only, no contrast agent is necessary during MitraClip and\n             transseptal puncture),\n\n          -  Contraindications for transesophageal Echo (EchoNav patients only, TAVI is possible\n             without TEE and TEE is not needed for the HeartNavigator),\n\n          -  Known or suspected drug or alcohol abuse,\n\n          -  Enrollment into a clinical trial within last 4 weeks if overlapping enrolment is not\n             explicitly approved by ethics committee for the two trials,\n\n          -  Patient is unable or unwilling to cooperate with the study protocol."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "140", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "December 10, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01821651", 
+            "org_study_id": "HOR-1"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "HeartNavigator", 
+                "description": "Procedure with software", 
+                "intervention_name": "HeartNavigator", 
+                "intervention_type": "Device", 
+                "other_name": "HeartNavigator, procedure with software"
+            }, 
+            {
+                "arm_group_label": "EchoNav", 
+                "description": "Procedure with software", 
+                "intervention_name": "EchoNav", 
+                "intervention_type": "Device", 
+                "other_name": "EchoNav, procedure with software"
+            }, 
+            {
+                "arm_group_label": "Conrol", 
+                "description": "Procedure without software", 
+                "intervention_name": "Control-Group EN", 
+                "intervention_type": "Other", 
+                "other_name": "Compare to EchoNav-group"
+            }, 
+            {
+                "arm_group_label": "Control", 
+                "description": "Procedure without software", 
+                "intervention_name": "Control-group HN", 
+                "intervention_type": "Other", 
+                "other_name": "Compare to HeartNavigator-group"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "TAVI", 
+            "MitraClip", 
+            "image modality", 
+            "echocardiography", 
+            "angiography"
+        ], 
+        "lastchanged_date": "June 18, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Zurich", 
+                    "country": "Switzerland", 
+                    "state": "ZH", 
+                    "zip": "8091"
+                }, 
+                "name": "University Hospital Zurich, Division of Cardiovascular Surgery"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "Switzerland"
+        }, 
+        "number_of_arms": "4", 
+        "official_title": "Use of Standardized Diagnostic Imaging Data (Computertomography, Angiography, Echocardiography) for Image Fusion in the Hybrid Operating Room", 
+        "overall_contact": {
+            "email": "simon.suendermann@usz.ch", 
+            "last_name": "Simon S\u00fcndermann, MD"
+        }, 
+        "overall_contact_backup": {
+            "email": "volkmar.falk@usz.ch", 
+            "last_name": "Volkmar Falk, Prof MD"
+        }, 
+        "overall_official": {
+            "affiliation": "University Hospital Zurich, Division of Cardiovascular Surgery", 
+            "last_name": "Volkmar Falk, Prof MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "Switzerland: Swissmedic", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "January 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "At the end of the procedure the recorded radiation-dose is assessed.", 
+            "measure": "Radiation Dose (mSv) administered to each patient", 
+            "safety_issue": "No", 
+            "time_frame": "Day of intervention (day 1)"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01821651"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "At the end of the procedure the skin-to-skin-time is assessed.", 
+                "measure": "Duration of the intervention (minutes)", 
+                "safety_issue": "No", 
+                "time_frame": "Day of intervention (day 1)"
+            }, 
+            {
+                "description": "At the end of the procedure the recorded contrast agent dose is assessed.", 
+                "measure": "Contrast agent dose (ml)", 
+                "safety_issue": "No", 
+                "time_frame": "Day of intervention (day 1)"
+            }, 
+            {
+                "description": "Usually 1 to 5 days after intervention", 
+                "measure": "Increased quality of care (EchoNav group)", 
+                "safety_issue": "No", 
+                "time_frame": "Discharge: 1 to 5 days after intervention"
+            }, 
+            {
+                "description": "Usually 1 to 5 days after intervention", 
+                "measure": "Degree of Mitral Regurgitation (EchoNav group)", 
+                "safety_issue": "No", 
+                "time_frame": "Discharge: 1 to 5 days after intervention"
+            }, 
+            {
+                "description": "Catheter-based direct measurement", 
+                "measure": "Postinterventional transvalvular gradient", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 7 days after intervention"
+            }
+        ], 
+        "source": "University of Zurich", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of Zurich", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2012", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "June 2013"
+    }
+}

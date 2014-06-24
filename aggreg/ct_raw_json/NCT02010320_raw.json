@@ -1,0 +1,159 @@
+{
+    "clinical_study": {
+        "@rank": "35230", 
+        "acronym": "OPTIMAL", 
+        "arm_group": [
+            {
+                "arm_group_label": "Computer dosed", 
+                "arm_group_type": "Experimental", 
+                "description": "Patients for which the computer model will calculate the individual doses"
+            }, 
+            {
+                "arm_group_label": "Control", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Patients which will get their tacrolimus doses determined by experience transplant physicians"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Dosing of tacrolimus is challenging due to the large inter-individual variation in its\n      pharmacokinetics. The investigators have developed a pharmacokinetics population model that\n      can be used to estimate individual doses of tacrolimus in renal transplant recipients. The\n      model will be prospective tested in a randomized clinical trial.\n\n      The hypothesis is that the computer model is superior to experienced transplant physicians\n      in reaching and keeping the patients in the target range of tacrolimus."
+        }, 
+        "brief_title": "Computer Guided Doing of Tacrolimus in Renal Transplantation", 
+        "completion_date": {
+            "#text": "September 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Renal Transplantation", 
+        "detailed_description": {
+            "textblock": "Patients will be randomized to either computer or standard dosing strategies at time of\n      transplantation or as early after transplantation as possible in case of deceased donor\n      transplants.\n\n      For patients in the computer arm the model will calculate the dose with the highest\n      probability to reach the specified concentration target.\n\n      For all concentrations a predictive error will be calculated and this will be the primary\n      endpoint that the statistics will be calculated on.\n\n      All patients will be followed for between 8 to 12 weeks post-transplant, according to center\n      praxis."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  renal transplant recipients using tacrolimus as part of their immunosuppression\n\n          -  above 18 years\n\n          -  signed informed consent\n\n        Exclusion Criteria:\n\n          -  no specific"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "80", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "December 9, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02010320", 
+            "org_study_id": "OPTIMAL-13"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Computer dosed", 
+                "description": "Pharmacokinetic population model for individual dose estimations of tacrolimus based on concentrations measurements and inclusion of relevant covariates", 
+                "intervention_name": "Computer dosing", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": "Control", 
+                "description": "Tacrolimus dose determination according to trough concentrations and standard TDM at the clinic", 
+                "intervention_name": "Standard dose determination", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Tacrolimus"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "population model", 
+            "pharmacokinetic", 
+            "tacrolimus", 
+            "therapeutic drug monitoring", 
+            "individualized dosing"
+        ], 
+        "lastchanged_date": "January 27, 2014", 
+        "location": {
+            "contact": {
+                "email": "karsten.midtvedt@ous-hf.no", 
+                "last_name": "Karsten Midtvedt, MD, PhD", 
+                "phone": "+4723071894"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Oslo", 
+                    "country": "Norway", 
+                    "zip": "0424"
+                }, 
+                "name": "Olso university hospital - Rikshospitalet"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "Norway"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Prospective Testing of Pharmacokinetic Population Models for Dosing of Transplanted Patients", 
+        "other_outcome": {
+            "description": "The model will be run without any information about patients CYP3A5 genotype as this is not clinical praxis at our center yet. All patients will however be genotyped after the study and a model including this covariate will be used to recalculate the data and see if this model is superior to the simple model, primary by comparing predictive errors in the computer arm.", 
+            "measure": "Influence of CYP3A5 genotyping", 
+            "safety_issue": "No", 
+            "time_frame": "8 to 12 weeks post-transplant"
+        }, 
+        "overall_contact": {
+            "email": "karsten.midtvedt@ous-hf.no", 
+            "last_name": "Karsten Midtvedt, MD, PhD", 
+            "phone": "+4723071894"
+        }, 
+        "overall_official": {
+            "affiliation": "OUS-Rikshospitalet and University of Oslo", 
+            "last_name": "Anders \u00c5sberg, PhD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "Norway: Norwegian Medicines Agency", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 4", 
+        "primary_completion_date": {
+            "#text": "September 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "Predictive error will be calculated as the computer predicted concentration minus the measured concentration over the first 8 to 12 weeks post-transplant in the computer group. The calculations will be  binned into weekly assessments.", 
+                "measure": "Predictive error (Cpred-Cobs)", 
+                "safety_issue": "No", 
+                "time_frame": "8 to 12 weeks"
+            }, 
+            {
+                "description": "In each arm the deviation of the observed concentration front he preset target concentration will be calculated for each measured concentration. The deviations will be compared between the two arms.", 
+                "measure": "Reaching the target concentration", 
+                "safety_issue": "No", 
+                "time_frame": "8 to 12 weeks post-transplant"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02010320"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "University of Oslo School of Pharmacy", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Rikshospitalet University Hospital", 
+                "agency_class": "Other"
+            }, 
+            "lead_sponsor": {
+                "agency": "University of Oslo School of Pharmacy", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2014", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Pharmacokinetics Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2014"
+    }
+}

@@ -1,0 +1,216 @@
+{
+    "clinical_study": {
+        "@rank": "21618", 
+        "acronym": "REGIMEN", 
+        "arm_group": [
+            {
+                "arm_group_label": "real-time continuous glucose monitoring", 
+                "arm_group_type": "Experimental", 
+                "description": "real-time continuous glucose monitoring: Use will be made of the online real-time (RT) monitoring facility of the GlucoDay\u00ae (a continuous glucose monitoring (CGM)system). This will allow immediate adaptation of the insulin dose in order to maintain values within an optimal range.\nThe same IV insulin infusion protocol will be used in the experimental and the active comparator group (adapted Yale protocol).\nWhen glycaemic changes of >25 mg/dl per 30 minutes are observed from the RT-CGM - GlucoDay data, this will be checked by measuring arterial blood glucose and the insulin infusion rate will be adapted according to the adapted Yale protocol."
+            }, 
+            {
+                "arm_group_label": "blinded continuous glucose monitoring", 
+                "arm_group_type": "Active Comparator", 
+                "description": "In the active comparator group the same continuous glucose monitoring device (GlucoDay) will be used in a blinded fashion. Glucose data will be analysed retrospectively.\nIV insulin infusion will be adapted according to arterial blood glucose values, using the adapted Yale protocol."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Stress hyperglycemia occurs in 50-85% of patients admitted to a medical intensive care unit\n      (MICU) and is associated with increased morbidity and mortality. However, randomized\n      controlled trials examining the effects of strict glycemic control demonstrated conflicting\n      results. A common finding in these trials was the high risk of hypoglycaemia.\n\n      This randomized controlled trial evaluates the impact of real-time continuous glucose\n      monitoring (RT-CGM) on glycemic control and risk of hypoglycemia in severely ill MICU\n      patients with an APACHE-II (Acute Physiology and Chronic Health Evaluation II) score \u226520."
+        }, 
+        "brief_title": "Glucose Control in the ICU Using Continuous Glucose Monitoring", 
+        "completion_date": {
+            "#text": "February 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": "Critical Illness", 
+        "condition_browse": {
+            "mesh_term": "Critical Illness"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients admitted to a medical intensive care unit\n\n          -  age: \u2265 18 y , < 75 y\n\n          -  APACHE II (Acute Physiology and Chronic Health Evaluation II) score \u2265 20\n\n          -  expected length of stay in ICU > 3 days\n\n        Exclusion Criteria:\n\n          -  pregnancy\n\n          -  patient with a DNR (do not reanimate) code\n\n          -  surgical patient\n\n          -  no informed consent"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "75 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "35", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "February 20, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01799512", 
+            "org_study_id": "REGIMEN"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "real-time continuous glucose monitoring", 
+                "intervention_name": "experimental: real-time continuous glucose monitoring", 
+                "intervention_type": "Device", 
+                "other_name": "RT-CGM using the GlucoDay device (A. Menarini, Italy)"
+            }, 
+            {
+                "arm_group_label": "blinded continuous glucose monitoring", 
+                "intervention_name": "Active comparator: blinded continuous glucose monitoring", 
+                "intervention_type": "Device"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "medical ICU patients", 
+            "APACHE-II score \u226520"
+        ], 
+        "lastchanged_date": "February 22, 2013", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Antwerp", 
+                        "country": "Belgium", 
+                        "zip": "2020"
+                    }, 
+                    "name": "Middelheim General Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Edegem", 
+                        "country": "Belgium", 
+                        "zip": "2650"
+                    }, 
+                    "name": "Antwerp University Hospital"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "Belgium"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Randomized Evaluation of Glycaemic Control in the Medical Intensive Care Unit Using Continuous Glucose Monitoring (REGIMEN Trial)", 
+        "other_outcome": [
+            {
+                "description": "error grid analysis, analysing all data of the 4 days of continuous glucose monitoring period", 
+                "measure": "accuracy of continuous glucose monitoring", 
+                "safety_issue": "No", 
+                "time_frame": "participants will be followed for 96 hours (4 days), during the first week after admission to the medical ICU"
+            }, 
+            {
+                "description": "standard deviation of mean glucose value over 4 days, analysing all data of the 4 days of continuous glucose monitoring period", 
+                "measure": "glycaemic fluctuations", 
+                "safety_issue": "No", 
+                "time_frame": "participants will be followed for 96 hours (4 days), during the first week after admission to the medical ICU"
+            }, 
+            {
+                "description": "Bland-Altman bias plot will be evaluated, analysing all data of the 4 days of continuous glucose monitoring period", 
+                "measure": "accuracy of continuous glucose monitoring", 
+                "safety_issue": "No", 
+                "time_frame": "participants will be followed for 96 hours (4 days), during the first week after admission to the medical ICU"
+            }, 
+            {
+                "description": "mean absolute error and mean relative error will be evaluated, analysing all data of the 4 days of continuous glucose monitoring period", 
+                "measure": "accuracy of continuous glucose monitoring", 
+                "safety_issue": "No", 
+                "time_frame": "participants will be followed for 96 hours (4 days), during the first week after admission to the medical ICU"
+            }, 
+            {
+                "description": "MAGE (mean amplitude of glucose excursions), analysing all data of the 4 days of continuous glucose monitoring period", 
+                "measure": "glycaemic fluctuations", 
+                "safety_issue": "No", 
+                "time_frame": "participants will be followed for 96 hours (4 days), during the first week after admission to the medical ICU"
+            }, 
+            {
+                "description": "CONGA (continuous overlapping net glycemic action), analysing all data of the 4 days of continuous glucose monitoring period", 
+                "measure": "glycaemic fluctuations", 
+                "safety_issue": "No", 
+                "time_frame": "participants will be followed for 96 hours (4 days), during the first week after admission to the medical ICU"
+            }, 
+            {
+                "description": "area under curve (within target glycemia range, above target, below target) analysing all data of the 4 days of continuous glucose monitoring period", 
+                "measure": "glycaemic fluctuations", 
+                "safety_issue": "No", 
+                "time_frame": "participants will be followed for 96 hours (4 days), during the first week after admission to the medical ICU"
+            }, 
+            {
+                "description": "MODD: mean of daily differences; analysing all data of the 4 days of continuous glucose monitoring period", 
+                "measure": "glycaemic fluctuations", 
+                "safety_issue": "No", 
+                "time_frame": "participants will be followed for 96 hours (4 days), during the first week after admission to the medical ICU"
+            }
+        ], 
+        "overall_official": {
+            "affiliation": "Antwerp University Hospital, Dept of Endocrinology, Diabetology & Metabolism", 
+            "last_name": "Christophe De Block, MD PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Belgium: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "September 2010", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "after admission to the ICU, patients will be screened to check inclusion criteria, and CGM monitoring will commence within the first 48hrs after admission. CGM monitoring will be performed during 96 hours (4 days), during the first week after admission to the medical ICU", 
+            "measure": "percentage of time that patients are in target range of glycaemia (80-110 mg/dl)", 
+            "safety_issue": "No", 
+            "time_frame": "participants will be followed for 96 hours (4 days), during the first week after admission to the medical ICU"
+        }, 
+        "reference": [
+            {
+                "PMID": "16873775", 
+                "citation": "De Block C, Manuel-Y-Keenoy B, Van Gaal L, Rogiers P. Intensive insulin therapy in the intensive care unit: assessment by continuous glucose monitoring. Diabetes Care. 2006 Aug;29(8):1750-6."
+            }, 
+            {
+                "PMID": "18690906", 
+                "citation": "De Block C, Manuel-y-Keenoy B, Rogiers P, Jorens P, Van Gaal L. Glucose control and use of continuous glucose monitoring in the intensive care unit: a critical review. Curr Diabetes Rev. 2008 Aug;4(3):234-44. Review."
+            }, 
+            {
+                "PMID": "14747229", 
+                "citation": "Goldberg PA, Siegel MD, Sherwin RS, Halickman JI, Lee M, Bailey VA, Lee SL, Dziura JD, Inzucchi SE. Implementation of a safe and effective insulin infusion protocol in a medical intensive care unit. Diabetes Care. 2004 Feb;27(2):461-7."
+            }, 
+            {
+                "PMID": "22138078", 
+                "citation": "Shetty S, Inzucchi SE, Goldberg PA, Cooper D, Siegel MD, Honiden S. Adapting to the new consensus guidelines for managing hyperglycemia during critical illness: the updated Yale insulin infusion protocol. Endocr Pract. 2012 May-Jun;18(3):363-70. doi: 10.4158/EP11260.OR."
+            }, 
+            {
+                "PMID": "20007948", 
+                "citation": "Holzinger U, Warszawska J, Kitzberger R, Wewalka M, Miehsler W, Herkner H, Madl C. Real-time continuous glucose monitoring in critically ill patients: a prospective randomized trial. Diabetes Care. 2010 Mar;33(3):467-72. doi: 10.2337/dc09-1352. Epub 2009 Dec 10."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01799512"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University Hospital, Antwerp", 
+            "investigator_full_name": "Christophe De Block", 
+            "investigator_title": "MD PhD", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": {
+            "description": "after admission to the ICU, patients will be screened to check inclusion criteria, and CGM monitoring will commence within the first 48hrs after admission. CGM monitoring will be performed during 96 hours (4 days), during the first week after admission to the medical ICU", 
+            "measure": "percentage of time that patients are in hypoglycaemic range", 
+            "safety_issue": "Yes", 
+            "time_frame": "participants will be followed for 96 hours (4 days), during the first week after admission to the medical ICU"
+        }, 
+        "source": "University Hospital, Antwerp", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University Hospital, Antwerp", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "July 2007", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Outcomes Assessor), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "February 2013"
+    }
+}

@@ -1,0 +1,216 @@
+{
+    "clinical_study": {
+        "@rank": "161572", 
+        "arm_group": {
+            "arm_group_label": "Gain increase or decrease", 
+            "arm_group_type": "Experimental", 
+            "description": "Decrease insulin gain by a factor 0.8 and the target increased by 1/0.8 or gain increased by a factor 1.33 with the target lowered by a factor 1/1.33"
+        }, 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to test the ability of an advanced external Physiologic Insulin\n      Delivery (ePID) algorithm (a step by step process used to develop a solution to a problem)\n      to get acceptable meal responses over a range of gain.  Gain is defined as how much insulin\n      is given in response to a change in a patient's glucose level.\n\n      This study also examines the effectiveness of the external Physiologic Insulin Delivery\n      (ePID) closed-loop insulin delivery computer software. The investigators would like to\n      assess whether fasting target levels can be achieved as the closed-loop gain increases or\n      decreases, and to evaluate the system's ability to produce an acceptable breakfast meal\n      response."
+        }, 
+        "brief_title": "Effect of Gain on Closed-Loop Insulin", 
+        "completion_date": {
+            "#text": "September 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Type 1 Diabetes", 
+        "condition_browse": {
+            "mesh_term": "Diabetes Mellitus, Type 1"
+        }, 
+        "detailed_description": {
+            "textblock": "There have been significant advances in diabetes management technology, including more\n      sophisticated insulin pumps and more accurate real-time continuous glucose monitors.  The\n      next technological development is widely thought to be the introduction of an algorithm\n      linking the pump and sensor to form a closed-loop insulin delivery system.  The algorithm\n      used for this purpose needs to be robust to changes in an individual's insulin sensitivity,\n      and the sensor's sensitivity to glucose.  Insulin sensitivity (how much the patient's\n      glucose level changes in response to a change in insulin delivery) and algorithm gain (how\n      much insulin is delivered in response to a change in glucose) determine the systems overall\n      closed-loop gain.  Ideally, the overall gain can be set to achieve the lowest possible peak\n      postprandial glucose response without postprandial hypoglycemia.  However, if the\n      algorithm's gain is set to a fixed value and the subject's insulin sensitivity changes, the\n      overall-gain will change.  Some degradation in closed-loop performance might be acceptable\n      during periods whenever the subject's insulin sensitivity is low (i.e., the subject is\n      insulin resistant) and the risk of hypoglycemia may actually be reduced.  However, if the\n      subject becomes more sensitive the system may become less stable and the risk of\n      postprandial hypoglycemia may increase.  In addition to changes in insulin sensitivity,\n      glucose sensors will sometimes over- or under-read blood glucose as sensor sensitivity\n      increases or decreases.  This will result in a change in the closed-loop algorithm's\n      effective target.  The purpose of this study is to evaluate the ability of an advanced\n      Physiologic Insulin Delivery algorithm achieve an acceptable breakfast response as the gain\n      and effective target glucose level changes.  Specifically:\n\n        1. to assess the fasting glucose levels achieved as the overall closed-loop gain and\n           effective target is increased or decreased, and\n\n        2. determine the system's ability to produce an acceptable breakfast meal response under\n           these conditions"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Type 1 diabetes for > 3 years\n\n          -  Manage diabetes  using a continuous glucose monitor and continuous subcutaneous\n             insulin infusion pump\n\n          -  Non obese (BMI < 30)\n\n          -  Aged 18 - 75 years old\n\n          -  HbA1c < 8 %\n\n        Exclusion Criteria:\n\n          -  renal or hepatic failure\n\n          -  cancer or lymphoma\n\n          -  Malabsorption or malnourishment\n\n          -  Mypercortisolism\n\n          -  Alcoholism or drug abuse\n\n          -  Anemia (hematocrit < 36 in females and <40 in males)\n\n          -  Eating disorder\n\n          -  Dietary restrictions\n\n          -  Acetaminophen allergy\n\n          -  Chronic acetaminophen use\n\n          -  Glucocorticoid therapy\n\n          -  History of Gastropareisis\n\n          -  Use of Beta blockers"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "75 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "12", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "February 7, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02065895", 
+            "org_study_id": "2012P-000401"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Gain increase or decrease", 
+                "description": "The latest revision of the PID algorithm to verify that the scaling factor used to set KP as a function of TDD is robust to the changes in gain and target resulting from over- or under-calibration of the glucose sensor.", 
+                "intervention_name": "Gain (reference)", 
+                "intervention_type": "Device", 
+                "other_name": "Target 120mg/dL"
+            }, 
+            {
+                "arm_group_label": "Gain increase or decrease", 
+                "intervention_name": "Gain decreased by a factor 0.8", 
+                "intervention_type": "Device", 
+                "other_name": "Target increased by 1/0.8"
+            }, 
+            {
+                "arm_group_label": "Gain increase or decrease", 
+                "intervention_name": "Gain increased by a factor 1.33", 
+                "intervention_type": "Device", 
+                "other_name": "Target lowered by a factor 1/1.33"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Insulin"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Physiologic Insulin Delivery (PID)", 
+            "Closed Loop", 
+            "Sensor", 
+            "Insulin sensitivity"
+        ], 
+        "lastchanged_date": "February 14, 2014", 
+        "location": {
+            "contact": {
+                "email": "astrid.atakov-castillo@joslin.harvard.edu", 
+                "last_name": "Astrid Atakov Castillo", 
+                "phone": "617-309-1997"
+            }, 
+            "contact_backup": {
+                "email": "stephanie.edwards@joslin.harvard.edu", 
+                "last_name": "Stephanie Edwards, MPH", 
+                "phone": "617-309-1996"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Boston", 
+                    "country": "United States", 
+                    "state": "Massachusetts", 
+                    "zip": "02215"
+                }, 
+                "name": "Joslin Diabetes Center"
+            }, 
+            "investigator": [
+                {
+                    "last_name": "Howard Wolpert, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                {
+                    "last_name": "Garry Steil, PhD", 
+                    "role": "Sub-Investigator"
+                }
+            ], 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Effect of Gain on Closed-Loop Insulin", 
+        "other_outcome": {
+            "description": "Nighttime incidence of supplemental carbohydrate used to prevent or correct blood glucose less than 60 mg/dL.\nFasting glucose (8 AM value).", 
+            "measure": "Nighttime time-in-target (controller set-point plus and minus 15 mg/dL)", 
+            "safety_issue": "No", 
+            "time_frame": "12:00 AM - 8:00 AM"
+        }, 
+        "overall_contact": {
+            "email": "astrid.atakov-castillo@joslin.harvard.edu", 
+            "last_name": "Astrid Atakov Castillo", 
+            "phone": "617-309-1997"
+        }, 
+        "overall_contact_backup": {
+            "email": "stephanie.edwards@joslin.harvard.edu", 
+            "last_name": "Stephanie Edwards, MPH", 
+            "phone": "617-309-1996"
+        }, 
+        "overall_official": {
+            "affiliation": "Joslin Diabetes Center", 
+            "last_name": "Howard Wolpert, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "June 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Breakfast closed loop control (artificial pancreas).  Closed-loop control calculates insulin delivery based on a minute to minute glucose signal, typically obtained from a glucose sensor.  In this study, the sensor signal is replaced by a gold-standard laboratory standard (YSI) glucose value and three different controller configurations are evaluated.  Low AUC is generally preferred.", 
+            "measure": "Glucose Area Under the Curve (AUC) Breakfast", 
+            "safety_issue": "No", 
+            "time_frame": "8:00 AM to 12:00 PM with samples obtained every 10-15 minutes"
+        }, 
+        "reference": [
+            {
+                "PMID": "14741112", 
+                "citation": "Steil GM, Panteleon AE, Rebrin K. Closed-loop insulin delivery-the path to physiological glucose control. Adv Drug Deliv Rev. 2004 Feb 10;56(2):125-44. Review."
+            }, 
+            {
+                "PMID": "14709197", 
+                "citation": "Steil GM, Rebrin K, Janowski R, Darwin C, Saad MF. Modeling beta-cell insulin secretion--implications for closed-loop glucose homeostasis. Diabetes Technol Ther. 2003;5(6):953-64."
+            }, 
+            {
+                "PMID": "17130478", 
+                "citation": "Steil GM, Rebrin K, Darwin C, Hariri F, Saad MF. Feasibility of automating insulin delivery for the treatment of type 1 diabetes. Diabetes. 2006 Dec;55(12):3344-50."
+            }, 
+            {
+                "PMID": "18252903", 
+                "citation": "Weinzimer SA, Steil GM, Swan KL, Dziura J, Kurtz N, Tamborlane WV. Fully automated closed-loop insulin delivery versus semiautomated hybrid control in pediatric patients with type 1 diabetes using an artificial pancreas. Diabetes Care. 2008 May;31(5):934-9. doi: 10.2337/dc07-1967. Epub 2008 Feb 5."
+            }, 
+            {
+                "PMID": "21367930", 
+                "citation": "Steil GM, Palerm CC, Kurtz N, Voskanyan G, Roy A, Paz S, Kandeel FR. The effect of insulin feedback on closed loop glucose control. J Clin Endocrinol Metab. 2011 May;96(5):1402-8. doi: 10.1210/jc.2010-2578. Epub 2011 Mar 2. PubMed PMID: 21367930; PubMed Central PMCID: PMC3085208."
+            }, 
+            {
+                "PMID": "22226251", 
+                "citation": "Loutseiko M, Voskanyan G, Keenan DB, Steil GM. Closed-loop insulin delivery utilizing pole placement to compensate for delays in subcutaneous insulin delivery. J Diabetes Sci Technol. 2011 Nov 1;5(6):1342-51."
+            }, 
+            {
+                "PMID": "10905487", 
+                "citation": "Buchanan TA, Xiang AH, Peters RK, Kjos SL, Berkowitz K, Marroquin A, Goico J, Ochoa C, Azen SP. Response of pancreatic beta-cells to improved insulin sensitivity in women at high risk for type 2 diabetes. Diabetes. 2000 May;49(5):782-8."
+            }, 
+            {
+                "PMID": "16804068", 
+                "citation": "Panteleon AE, Loutseiko M, Steil GM, Rebrin K. Evaluation of the effect of gain on the meal response of an automated closed-loop insulin delivery system. Diabetes. 2006 Jul;55(7):1995-2000."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02065895"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Joslin Diabetes Center", 
+            "investigator_full_name": "Howard Wolpert", 
+            "investigator_title": "Senior Physician, Adult Diabetes", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": {
+            "description": "Incidence of supplemental carbohydrate (15 grams of juice) used to prevent or correct hypoglycemia  (glucose less than 60 mg/dL)", 
+            "measure": "Peak and nadir postprandial glucose concentration", 
+            "safety_issue": "No", 
+            "time_frame": "8: 00 AM to 12:00 PM"
+        }, 
+        "source": "Joslin Diabetes Center", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Juvenile Diabetes Research Foundation", 
+                "agency_class": "Other"
+            }, 
+            "lead_sponsor": {
+                "agency": "Joslin Diabetes Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "December 2013", 
+        "study_design": "Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "February 2014"
+    }
+}

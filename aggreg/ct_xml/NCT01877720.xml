@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="35126">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 04, 2014</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01877720</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIV-NAVA Physiologic Study</org_study_id>
+    <nct_id>NCT01877720</nct_id>
+  </id_info>
+  <brief_title>Physiologic Comparison Between NIV-NAVA and PS in Preterm Infants</brief_title>
+  <official_title>Physiologic Comparison Between Noninvasive Neurally Adjusted Ventilatory Assist (NAVA) and Pressure Support (PS) in Preterm Infants</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Seoul National University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Rotary</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Seoul National University Hospital</source>
+  <oversight_info>
+    <authority>Korea: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Neurally adjusted ventilatory assist (NAVA) has been shown to improve patient- ventilator
+      interaction and reduce asynchronies. This is a short-term physiologic comparison between PSV
+      (pressure support ventilation) and NAVA in delivering noninvasive ventilation through a
+      nasal cannula, in premature infants postextubation. Patients will undergo a 30-min crossover
+      trial of noninvasive PSV and NAVA, 15 minutes each. Diaphragm electrical activity (EAdi)and
+      airway pressure (Paw) are recorded to derive neural and mechanical respiratory rate and
+      timing, inspiratory trigger delays time of synchrony between diaphragm contraction and
+      ventilator assistance, and the asynchrony index (AI).
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>November 2013</start_date>
+  <completion_date type="Actual">April 2014</completion_date>
+  <primary_completion_date type="Actual">April 2014</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Crossover Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Trigger delay (second)</measure>
+    <time_frame>last 5-min of each 15-min trial</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Inspiratory trigger delay could be calculated by the time interval between beginning of the increase of actual diaphragmatic excitation and start of ventilator inspiratory flow of each respiration. The value will be present as a mean of all inspiratory trigger delay measurements of all respiration during last 5 minutes of each 15 minutes trial.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Ti_excess (inspiratory time in excess)</measure>
+    <time_frame>last 5-min of each 15-min trial</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Ti_excess = (VPT-NIT)/NIT
+VPT: ventilator pressurization time (VPT) between beginning and end of inspiratory flow NIT: neural inspiratory time (NIT) between beginning of the increase in the diaphragmatic excitation and its maximal value</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Asynchrony index</measure>
+    <time_frame>last 5-min of each 15-min trial</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>total number of each event per minute
+ineffective efforts: presence of a characteristic EAdi (electrical activity of diaphragm) activity not followed by a ventilator delivered pressurization
+auto-triggering: a cycle delivered by the ventilator without EAdi signal
+premature cycling
+delayed cycling: VPT &gt; NIT x2
+double triggering
+Asynchrony index = [(1)+(2)+(3)+(4)+(5)]/[(1)+pneumatic respiratory rate] x100</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Leakage</measure>
+    <time_frame>last 5-min of each 15-min trial</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>[TVi (inspiratory tidal volume) - TVe (expiratory tidal volume)]/TVi (inspiratory tidal volume)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>minute ventilation volume</measure>
+    <time_frame>last 5-min of each 15-min trial</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>inspiratory tidal volume / respiratory rate</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>peak inspiratory pressure</measure>
+    <time_frame>last 5-min of each 15-min trial</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SpO2</measure>
+    <time_frame>last 5-min of each 15-min trial</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>transcutaneous peripheral saturation of oxygen by pulse oximeter</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Blood pressure</measure>
+    <time_frame>last 5-min of each 15-min trial</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>systolic, diastolic and mean blood pressure measured by non-invasive cuff</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Heart rate</measure>
+    <time_frame>last 5-min of each 15-min trial</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory rate</measure>
+    <time_frame>last 5-min of each 15-min trial</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">16</enrollment>
+  <condition>Noninvasive Neurally Adjusted Ventilatory Assist and Pressure Support in Preterm Infants</condition>
+  <arm_group>
+    <arm_group_label>NAVA-PS</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>noninvasive NAVA first for 15 minutes and then PSV for 15 minutes</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>PS-NAVA</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>noninvasive PSV first for 15 minutes and then NAVA for 15 minutes</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>crossover of noninvasive respiratory support with NAVA mode and PSV</intervention_name>
+    <arm_group_label>NAVA-PS</arm_group_label>
+    <arm_group_label>PS-NAVA</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  preterm infants less than 32 weeks of gestational age
+
+          -  intubated more than 48 hours after birth
+
+          -  subjected to extubation with minimal ventilator setting (mean airway pressure &lt;
+             7cmH2O + peak inspiratory pressure &lt; 13 cmH2O + FiO2 &lt; 0.4 + respiratory rate &lt;
+             35/min)
+
+          -  with informed consent from parents
+
+        Exclusion Criteria:
+
+          -  with major congenital anomalies
+
+          -  use of sedative or anesthetic drugs
+
+          -  hemodynamic instability
+
+          -  grade 3 or higher intraventricular hemorrhage
+
+          -  phrenic nerve palsy
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>3 Months</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Han-Suk Kim, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Seoul National University Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Seoul National University Bundang Hospital</name>
+      <address>
+        <city>Bundang</city>
+        <state>Gyeonggi-do</state>
+        <zip>463-707</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Seoul National University Children's Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <zip>110-744</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Seoul National University Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <zip>110-744</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>March 2014</verification_date>
+  <lastchanged_date>May 14, 2014</lastchanged_date>
+  <firstreceived_date>June 5, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Seoul National University Hospital</investigator_affiliation>
+    <investigator_full_name>Han-Suk Kim</investigator_full_name>
+    <investigator_title>MD, PhD</investigator_title>
+  </responsible_party>
+  <keyword>Preterm infant less than 32 weeks of gestation age</keyword>
+  <keyword>intubated more than 48 hours after birth</keyword>
+  <keyword>postextubation</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

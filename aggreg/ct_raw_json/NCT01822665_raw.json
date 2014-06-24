@@ -1,0 +1,1680 @@
+{
+    "clinical_study": {
+        "@rank": "110968", 
+        "arm_group": [
+            {
+                "arm_group_label": "Paracetamol Tablet", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Paracetamol 500 mg tablet, 2 tablets administered 4 times a day (QID) with water."
+            }, 
+            {
+                "arm_group_label": "Ibuprofen Tablet", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Ibuprofen 400 mg tablet, 2 tablets administered three times a day (TID) with water"
+            }, 
+            {
+                "arm_group_label": "Placebo Tablet", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Placebo tablets, 2 tablets QID administered with water."
+            }, 
+            {
+                "arm_group_label": "Ibuprofen Capsule", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Ibuprofen 400 mg liquid gel capsules, 2 tablets, TID  administered with water"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This study evaluated the effect of oral fast-dissolving formulations of paracetamol and\n      ibuprofen on the lining of the stomach and duodenum (gastrointestinal mucosa). Endoscopic\n      examinations were conducted to determine the gastrointestinal damage produced post a 7 day\n      treatment regimen."
+        }, 
+        "brief_title": "Gastrointestinal Safety Evaluation of Two Over the Counter Analgesics", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "B1", 
+                        "description": "All randomized participants in the study who took at least one treatment dose.", 
+                        "title": "All Randomized Participants"
+                    }
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "28"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@spread": "12.3", 
+                                            "@value": "38.1"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "Years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "21"
+                                            }
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "7"
+                                            }
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "Participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "GSK agreements may vary with individual investigators, but will not prohibit any investigator from publishing. GSK supports the publication of results from all centers of a multi-center trial but requests that reports based on single-site data not precede the primary publication of the entire clinical trial."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "-1.63", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "-0.59", 
+                                "estimate_desc": "Difference was first named treatment minus second named treatment, such that a positive difference favors the first named treatment.", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Null hypothesis considered no significant difference in mean endoscopy score of gastric mucosal damage between two treatments.", 
+                                "method": "t-test, 2 sided", 
+                                "method_desc": "Period and treatment were included in the model as fixed effects, while subjects were a random effect.", 
+                                "non_inferiority": "No", 
+                                "p_value": "<0.0001", 
+                                "p_value_desc": "No multiple comparisons were carried out.", 
+                                "param_type": "Least squares mean difference", 
+                                "param_value": "-1.11"
+                            }
+                        }, 
+                        "description": "Endoscopic examination of the upper gastrointestinal mucosa evaluated the extent of mucosal injury to the stomach and the duodenum separately using a 5-point Lanza scale, ranging from 0: normal stomach; 1: mucosal hemorrhages; 2: one or two erosions; 3: numerous areas of erosions; and 4: more than 10 erosions or ulcer.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Two paracetamol tablets (500 mg/tablet) was administered QID, orally with water.", 
+                                    "title": "Paracetamol Tablet (1000 mg)"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Two ibuprofen capsules (400 mg/tablet), was administered TID, orally with water.", 
+                                    "title": "Ibuprofen Capsule (400 mg)"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "27"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "23"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "0.68", 
+                                                        "@value": "0.33"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "1.34", 
+                                                        "@value": "1.48"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Endoscopic examination of the upper gastrointestinal mucosa evaluated the extent of mucosal injury to the stomach and the duodenum separately using a 5-point Lanza scale, ranging from 0: normal stomach; 1: mucosal hemorrhages; 2: one or two erosions; 3: numerous areas of erosions; and 4: more than 10 erosions or ulcer.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Gastromucosal Damage (GMD) Score of Paracetamol Tablet vs Ibuprofen Capsule", 
+                                    "units": "Scores on a scale"
+                                }
+                            ]
+                        }, 
+                        "population": "Intent to Treat (ITT) population: all participants who fulfilled all the study entry criteria and receive at least one of the study treatments. The ITT population included all participants with valid data-period. Missing data was not imputed.", 
+                        "safety_issue": "Yes", 
+                        "time_frame": "Day 7", 
+                        "title": "Gastromucosal Damage (GMD) Score of Paracetamol Tablet vs Ibuprofen Capsule", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": [
+                                {
+                                    "ci_lower_limit": "-1.23", 
+                                    "ci_n_sides": "2-Sided", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "-0.18", 
+                                    "estimate_desc": "Difference was first named treatment minus second named treatment, such that a positive difference favors the first named treatment.", 
+                                    "group_id_list": {
+                                        "group_id": [
+                                            "O1", 
+                                            "O3"
+                                        ]
+                                    }, 
+                                    "groups_desc": "Null hypothesis considered no significant difference in mean endoscopy score of gastric mucosal damage between two treatments.", 
+                                    "method": "t-test, 2 sided", 
+                                    "method_desc": "Period and treatment were included in the model as fixed effects, while subjects were a random effect.", 
+                                    "non_inferiority": "No", 
+                                    "p_value": "0.0095", 
+                                    "param_type": "LS Mean Difference", 
+                                    "param_value": "-0.70"
+                                }, 
+                                {
+                                    "ci_lower_limit": "-0.34", 
+                                    "ci_n_sides": "2-Sided", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "0.72", 
+                                    "estimate_desc": "Difference was first named treatment minus second named treatment, such that a positive difference favors the first named treatment.", 
+                                    "group_id_list": {
+                                        "group_id": [
+                                            "O1", 
+                                            "O4"
+                                        ]
+                                    }, 
+                                    "groups_desc": "Null hypothesis considered no significant difference in mean endoscopy score of gastric mucosal damage between two treatments.", 
+                                    "method": "t-test, 2 sided", 
+                                    "method_desc": "Period and treatment were included in the model as fixed effects, while subjects were a random effect.", 
+                                    "non_inferiority": "No", 
+                                    "p_value": "0.4794", 
+                                    "p_value_desc": "No multiple comparisons were carried out.", 
+                                    "param_type": "LS mean difference", 
+                                    "param_value": "0.19"
+                                }, 
+                                {
+                                    "ci_lower_limit": "-0.14", 
+                                    "ci_n_sides": "2-Sided", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "0.95", 
+                                    "estimate_desc": "Difference was first named treatment minus second named treatment, such that a positive difference favors the first named treatment.", 
+                                    "group_id_list": {
+                                        "group_id": [
+                                            "O2", 
+                                            "O3"
+                                        ]
+                                    }, 
+                                    "groups_desc": "Null hypothesis considered no significant difference in mean endoscopy score of gastric mucosal damage between two treatments.", 
+                                    "method": "t-test, 2 sided", 
+                                    "method_desc": "Period and treatment were included in the model as fixed effects, while subjects were a random effect.", 
+                                    "non_inferiority": "No", 
+                                    "p_value": "0.1429", 
+                                    "p_value_desc": "No multiple comparisons were carried out.", 
+                                    "param_type": "LS mean difference", 
+                                    "param_value": "0.40"
+                                }, 
+                                {
+                                    "ci_lower_limit": "0.75", 
+                                    "ci_n_sides": "2-Sided", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "1.84", 
+                                    "estimate_desc": "Difference was first named treatment minus second named treatment, such that a positive difference favors the first named treatment.", 
+                                    "group_id_list": {
+                                        "group_id": [
+                                            "O2", 
+                                            "O4"
+                                        ]
+                                    }, 
+                                    "groups_desc": "Null hypothesis considered no significant difference in mean endoscopy score of gastric mucosal damage between two treatments.", 
+                                    "method": "t-test, 2 sided", 
+                                    "method_desc": "Period and treatment were included in the model as fixed effects, while subjects were a random effect.", 
+                                    "non_inferiority": "No", 
+                                    "p_value": "<0.0001", 
+                                    "p_value_desc": "No multiple comparisons were carried out.", 
+                                    "param_type": "LS mean difference", 
+                                    "param_value": "1.30"
+                                }, 
+                                {
+                                    "ci_lower_limit": "0.34", 
+                                    "ci_n_sides": "2-Sided", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "1.45", 
+                                    "estimate_desc": "Difference was first named treatment minus second named treatment, such that a positive difference favors the first named treatment.", 
+                                    "group_id_list": {
+                                        "group_id": [
+                                            "O3", 
+                                            "O4"
+                                        ]
+                                    }, 
+                                    "groups_desc": "Null hypothesis considered no significant difference in mean endoscopy score of gastric mucosal damage between two treatments.", 
+                                    "method": "t-test, 2 sided", 
+                                    "method_desc": "Period and treatment were included in the model as fixed effects, while subjects were a random effect.", 
+                                    "non_inferiority": "No", 
+                                    "p_value": "0.0020", 
+                                    "p_value_desc": "No multiple comparisons were carried out.", 
+                                    "param_type": "LS mean difference", 
+                                    "param_value": "0.89"
+                                }
+                            ]
+                        }, 
+                        "description": "Endoscopic examination of the upper gastrointestinal mucosa evaluated the extent of mucosal injury to the stomach and the duodenum separately using a 5-point Lanza scale, ranging from 0: normal stomach; 1: mucosal hemorrhages; 2: one or two erosions; 3: numerous areas of erosions; and 4: more than 10 erosions or ulcer.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Two paracetamol tablets (500 mg/tablet) were administered QID, orally with water.", 
+                                    "title": "Paracetamol Tablet (1000 mg)"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Two ibuprofen capsules (400 mg/tablet), were administered TID, orally with water.", 
+                                    "title": "Ibuprofen Capsule (400 mg)"
+                                }, 
+                                {
+                                    "@group_id": "O3", 
+                                    "description": "Two ibuprofen capsules (400 mg/tablet), were administered TID, orally with water.", 
+                                    "title": "Ibuprofen Tablet (400 mg)"
+                                }, 
+                                {
+                                    "@group_id": "O4", 
+                                    "description": "Two placebo tablets were administered QID, orally with water.", 
+                                    "title": "Placebo Tablet"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "27"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "23"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@value": "22"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O4", 
+                                                        "@value": "23"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "0.68", 
+                                                        "@value": "0.33"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "1.34", 
+                                                        "@value": "1.48"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@spread": "1.33", 
+                                                        "@value": "1.05"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O4", 
+                                                        "@spread": "0.35", 
+                                                        "@value": "0.14"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Endoscopic examination of the upper gastrointestinal mucosa evaluated the extent of mucosal injury to the stomach and the duodenum separately using a 5-point Lanza scale, ranging from 0: normal stomach; 1: mucosal hemorrhages; 2: one or two erosions; 3: numerous areas of erosions; and 4: more than 10 erosions or ulcer.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "GMD Scores of Paracetamol Tablet; Ibuprofen Capsule; Ibuprofen Tablet; and Placebo Tablet", 
+                                    "units": "Score on a scale"
+                                }
+                            ]
+                        }, 
+                        "population": "ITT population: All participants who fulfilled all the study entry criteria and received at least one of the study treatments. The ITT population included all participants with valid data-period. Missing data was not imputed.", 
+                        "safety_issue": "Yes", 
+                        "time_frame": "Day 7", 
+                        "title": "GMD Scores of Paracetamol Tablet; Ibuprofen Capsule; Ibuprofen Tablet; and Placebo Tablet", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": [
+                                {
+                                    "ci_lower_limit": "-0.49", 
+                                    "ci_n_sides": "2-Sided", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "0.31", 
+                                    "estimate_desc": "Difference was first named treatment minus second named treatment, such that a positive difference favors the first named treatment.", 
+                                    "group_id_list": {
+                                        "group_id": [
+                                            "O1", 
+                                            "O2"
+                                        ]
+                                    }, 
+                                    "groups_desc": "Null hypothesis considered no significant difference in mean endoscopy score of duodenal mucosal damage between two treatments.", 
+                                    "method": "t-test, 2 sided", 
+                                    "method_desc": "Period and treatment were included in the model as fixed effects, while subjects were a random effect.", 
+                                    "non_inferiority": "No", 
+                                    "p_value": "0.6497", 
+                                    "p_value_desc": "No multiple comparisons were carried out.", 
+                                    "param_type": "LS mean difference", 
+                                    "param_value": "-0.09"
+                                }, 
+                                {
+                                    "ci_lower_limit": "-0.46", 
+                                    "ci_n_sides": "2-Sided", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "0.34", 
+                                    "estimate_desc": "Difference was first named treatment minus second named treatment, such that a positive difference favors the first named treatment.", 
+                                    "group_id_list": {
+                                        "group_id": [
+                                            "O1", 
+                                            "O3"
+                                        ]
+                                    }, 
+                                    "groups_desc": "Null hypothesis considered no significant difference in mean endoscopy score of duodenal mucosal damage between two treatments", 
+                                    "method": "t-test, 2 sided", 
+                                    "method_desc": "Period and treatment were included in the model as fixed effects, while subjects were a random effect.", 
+                                    "non_inferiority": "No", 
+                                    "p_value": "0.7591", 
+                                    "p_value_desc": "No multiple comparisons were carried out.", 
+                                    "param_type": "LS mean difference", 
+                                    "param_value": "-0.06"
+                                }, 
+                                {
+                                    "ci_lower_limit": "-0.24", 
+                                    "ci_n_sides": "2-Sided", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "0.57", 
+                                    "estimate_desc": "Difference was first named treatment minus second named treatment, such that a positive difference favors the first named treatment.", 
+                                    "group_id_list": {
+                                        "group_id": [
+                                            "O1", 
+                                            "O4"
+                                        ]
+                                    }, 
+                                    "groups_desc": "Null hypothesis considered no significant difference in mean endoscopy score of duodenal mucosal damage between two treatments.", 
+                                    "method": "t-test, 2 sided", 
+                                    "method_desc": "Period and treatment were included in the model as fixed effects, while subjects were a random effect.", 
+                                    "non_inferiority": "No", 
+                                    "p_value": "0.4126", 
+                                    "p_value_desc": "No multiple comparisons were carried out.", 
+                                    "param_type": "LS mean difference", 
+                                    "param_value": "0.17"
+                                }, 
+                                {
+                                    "ci_lower_limit": "-0.39", 
+                                    "ci_n_sides": "2-Sided", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "0.45", 
+                                    "estimate_desc": "Difference was first named treatment minus second named treatment, such that a positive difference favors the first named treatment.", 
+                                    "group_id_list": {
+                                        "group_id": [
+                                            "O2", 
+                                            "O3"
+                                        ]
+                                    }, 
+                                    "groups_desc": "Null hypothesis considered no significant difference in mean endoscopy score of duodenal mucosal damage between two treatments", 
+                                    "method": "t-test, 2 sided", 
+                                    "method_desc": "Period and treatment were included in the model as fixed effects, while subjects were a random effect.", 
+                                    "non_inferiority": "No", 
+                                    "p_value": "0.8903", 
+                                    "p_value_desc": "No multiple comparisons were carried out.", 
+                                    "param_type": "LS mean difference", 
+                                    "param_value": "0.03"
+                                }, 
+                                {
+                                    "ci_lower_limit": "-0.16", 
+                                    "ci_n_sides": "2-Sided", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "0.67", 
+                                    "estimate_desc": "Difference was first named treatment minus second named treatment, such that a positive difference favors the first named treatment.", 
+                                    "group_id_list": {
+                                        "group_id": [
+                                            "O2", 
+                                            "O4"
+                                        ]
+                                    }, 
+                                    "groups_desc": "Null hypothesis considered no significant difference in mean endoscopy score of duodenal mucosal damage between two treatments", 
+                                    "method": "t-test, 2 sided", 
+                                    "method_desc": "Period and treatment were included in the model as fixed effects, while subjects were a random effect.", 
+                                    "non_inferiority": "No", 
+                                    "p_value": "0.2227", 
+                                    "p_value_desc": "No multiple comparisons were carried out.", 
+                                    "param_type": "LS mean difference", 
+                                    "param_value": "0.26"
+                                }, 
+                                {
+                                    "ci_lower_limit": "-0.20", 
+                                    "ci_n_sides": "2-Sided", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "0.65", 
+                                    "estimate_desc": "Difference was first named treatment minus second named treatment, such that a positive difference favors the first named treatment.", 
+                                    "group_id_list": {
+                                        "group_id": [
+                                            "O3", 
+                                            "O4"
+                                        ]
+                                    }, 
+                                    "groups_desc": "Null hypothesis considered no significant difference in mean endoscopy score of duodenal mucosal damage between two treatments.", 
+                                    "method": "t-test, 2 sided", 
+                                    "method_desc": "Period and treatment were included in the model as fixed effects, while subjects were a random effect.", 
+                                    "non_inferiority": "No", 
+                                    "p_value": "0.2855", 
+                                    "p_value_desc": "No multiple comparisons were carried out.", 
+                                    "param_type": "LS mean difference", 
+                                    "param_value": "0.23"
+                                }
+                            ]
+                        }, 
+                        "description": "DMD was measured using a 5- point Lanza scale: 0 - normal duodenum; 1 - mucosal hemorrhages; 2 - one or two erosions; 3 - numerous areas of erosions and 4 - more than 10 erosions/ ulcers.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Two paracetamol tablets (500 mg/tablet) were administered QID, orally with water.", 
+                                    "title": "Paracetamol Tablet (1000 mg)"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Two ibuprofen capsules (400 mg/tablet), were administered TID, orally with water.", 
+                                    "title": "Ibuprofen Capsule (400 mg)"
+                                }, 
+                                {
+                                    "@group_id": "O3", 
+                                    "description": "Two ibuprofen tablets (400 mg/tablet), were administered TID, orally with water.", 
+                                    "title": "Ibuprofen Tablet (400 mg)"
+                                }, 
+                                {
+                                    "@group_id": "O4", 
+                                    "description": "Two placebo tablets were administered QID, orally with water.", 
+                                    "title": "Placebo Tablet"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "27"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "23"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@value": "22"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O4", 
+                                                        "@value": "23"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "0.77", 
+                                                        "@value": "0.15"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "0.86", 
+                                                        "@value": "0.26"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@spread": "0.75", 
+                                                        "@value": "0.23"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O4", 
+                                                        "@spread": "0.00", 
+                                                        "@value": "0.00"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "DMD was measured using a 5- point Lanza scale: 0 - normal duodenum; 1 - mucosal hemorrhages; 2 - one or two erosions; 3 - numerous areas of erosions and 4 - more than 10 erosions/ ulcers.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Duodenal Mucosal Damage (DMD) Scores", 
+                                    "units": "Score on a scale"
+                                }
+                            ]
+                        }, 
+                        "population": "ITT population: All participants who fulfilled all the study entry criteria and receive at least one of the study treatments. The ITT population included all participants with valid data-period. Missing data was not imputed.", 
+                        "safety_issue": "Yes", 
+                        "time_frame": "Day 7", 
+                        "title": "Duodenal Mucosal Damage (DMD) Scores", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": [
+                                {
+                                    "ci_lower_limit": "1.60", 
+                                    "ci_n_sides": "2-Sided", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "23.97", 
+                                    "estimate_desc": "Odds Ratio from logistic regression model with treatment as factor and period as covariate.", 
+                                    "group_id_list": {
+                                        "group_id": [
+                                            "O1", 
+                                            "O3"
+                                        ]
+                                    }, 
+                                    "method": "Chi-squared", 
+                                    "non_inferiority": "No", 
+                                    "p_value": "0.0084", 
+                                    "p_value_desc": "P-value associated with chi-square testing odds ratio.", 
+                                    "param_type": "Odds Ratio (OR)", 
+                                    "param_value": "6.19"
+                                }, 
+                                {
+                                    "ci_lower_limit": "0.80", 
+                                    "ci_n_sides": "2-Sided", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "12.74", 
+                                    "estimate_desc": "Odds Ratio from logistic regression model with treatment as factor and period as covariate.", 
+                                    "group_id_list": {
+                                        "group_id": [
+                                            "O2", 
+                                            "O3"
+                                        ]
+                                    }, 
+                                    "method": "Chi-squared", 
+                                    "non_inferiority": "No", 
+                                    "p_value": "0.0999", 
+                                    "p_value_desc": "P-value associated with chi-square testing odds ratio.", 
+                                    "param_type": "Odds Ratio (OR)", 
+                                    "param_value": "3.19"
+                                }, 
+                                {
+                                    "ci_lower_limit": "0.58", 
+                                    "ci_n_sides": "2-Sided", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "6.50", 
+                                    "estimate_desc": "Odds Ratio from logistic regression model with treatment as factor and period as covariate.", 
+                                    "group_id_list": {
+                                        "group_id": [
+                                            "O1", 
+                                            "O2"
+                                        ]
+                                    }, 
+                                    "method": "Chi-squared", 
+                                    "non_inferiority": "No", 
+                                    "p_value": "0.2845", 
+                                    "param_type": "Odds Ratio (OR)", 
+                                    "param_value": "1.94"
+                                }
+                            ]
+                        }, 
+                        "description": "Number of participants with endoscopy score equal to or more than 2 were determined based on Lanza score for both gastric and duodenal mucosal damage.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Two ibuprofen capsules (400 mg/tablet), were administered TID, orally with water.", 
+                                    "title": "Ibuprofen Capsule (400 mg)"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Two ibuprofen capsules (400 mg/tablet), were administered TID, orally with water.", 
+                                    "title": "Ibuprofen Tablet (400 mg)"
+                                }, 
+                                {
+                                    "@group_id": "O3", 
+                                    "description": "Two paracetamol tablets (500 mg/tablet) were administered QID, orally with water.", 
+                                    "title": "Paracetamol Tablet (1000 mg)"
+                                }, 
+                                {
+                                    "@group_id": "O4", 
+                                    "description": "Two placebo tablets were administered QID, orally with water.", 
+                                    "title": "Placebo Tablet"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "23"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "22"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@value": "27"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O4", 
+                                                        "@value": "23"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "8"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@value": "4"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O4", 
+                                                        "@value": "0"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Number of participants with endoscopy score equal to or more than 2 were determined based on Lanza score for both gastric and duodenal mucosal damage.", 
+                                    "param": "Number", 
+                                    "title": "Incidence of Gastric and/or Duodenal Mucosal Injury", 
+                                    "units": "Participants"
+                                }
+                            ]
+                        }, 
+                        "population": "ITT population: All participants who fulfilled all the study entry criteria and receive at least one of the study treatments. The ITT population included all participants with valid data-period. Missing data was not imputed.", 
+                        "safety_issue": "Yes", 
+                        "time_frame": "Day 7", 
+                        "title": "Incidence of Gastric and/or Duodenal Mucosal Injury", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "The incidence of fecal occult blood was recorded as a binary response (0 = no presence of blood; 1 = presence of blood).", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Two paracetamol tablets (500 mg/tablet) were administered QID, orally with water.", 
+                                    "title": "Paracetamol Tablet (1000 mg)"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Two ibuprofen capsules (400 mg/capsule), were administered TID, orally with water.", 
+                                    "title": "Ibuprofen Capsule (400 mg)"
+                                }, 
+                                {
+                                    "@group_id": "O3", 
+                                    "description": "Two ibuprofen tablet (400 mg/tablet), were administered TID, orally with water.", 
+                                    "title": "Ibuprofen Tablet (400 mg)"
+                                }, 
+                                {
+                                    "@group_id": "O4", 
+                                    "description": "Two placebo tablets were administered QID, orally with water.", 
+                                    "title": "Placebo Tablet"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "27"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "23"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@value": "22"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O4", 
+                                                        "@value": "22"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "27"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "23"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O3", 
+                                                            "@value": "22"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O4", 
+                                                            "@value": "22"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Score 0 = no fecal occult blood"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "0"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "0"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O3", 
+                                                            "@value": "0"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O4", 
+                                                            "@value": "0"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Score 1 = fecal occult blood present"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "The incidence of fecal occult blood was recorded as a binary response (0 = no presence of blood; 1 = presence of blood).", 
+                                    "param": "Number", 
+                                    "title": "Incidence of Fecal Occult Blood", 
+                                    "units": "Participants"
+                                }
+                            ]
+                        }, 
+                        "population": "ITT population: All participants who fulfilled all the study entry criteria and received at least one of the study treatments. The ITT population included all participants with valid data-period. Missing data was not imputed.", 
+                        "safety_issue": "Yes", 
+                        "time_frame": "Day 7", 
+                        "title": "Incidence of Fecal Occult Blood", 
+                        "type": "Secondary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "P1", 
+                        "description": "This was a randomized, 4-way crossover study. Participants received two fast dissolving paracetamol tablets (500 milligrams [mg]/tablet) four times daily (QID); two liquid-filled gelatin capsules containing ibuprofen (200 mg/capsule), three times daily (TID); two ibuprofen tablets (200 mg/tablet), TID; and, two fast dissolving placebo tablets QID. All the treatments were administered orally with water. There was a washout period of 7 days following every treatment session.", 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "period_list": {
+                    "period": {
+                        "drop_withdraw_reason_list": {
+                            "drop_withdraw_reason": [
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "3", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "Adverse Event"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "5", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "Other Reason"
+                                }
+                            ]
+                        }, 
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "28", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "#text": "5 participants did not complete; Period 3(2:adverse events;1:other reason); Period 4(2:other reason)", 
+                                            "@count": "23", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "Received Ibuprofen Tablet (400 mg)"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "#text": "5 participants did not complete; Period 2(1:other reason); Period 4(3:adverse event; 1:other reason)", 
+                                            "@count": "23", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "Received Placebo Tablet"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "#text": "Two participants, each in period 3 and period 4 did not complete treatment for 'other reason'.", 
+                                            "@count": "24", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "Received Ibuprofen Capsule (400 mg)"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "28", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "Received Paracetamol Tablet (1000 mg)"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "20", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "8", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "pre_assignment_details": "Of 41 participants screened, 12 did not meet the study criterion and one participant withdrew consent. Remaining 28 participants were randomized into the study to received all the four treatments in a sequential manner.", 
+                "recruitment_details": "Participants were recruited at the clinical site."
+            }, 
+            "point_of_contact": {
+                "name_or_title": "GSK Response Center", 
+                "organization": "GlaxoSmithKline", 
+                "phone": "866-435-7343"
+            }, 
+            "reported_events": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "E1", 
+                            "description": "Two paracetamol tablets (500 mg/tablet) were administered QID, orally with water.", 
+                            "title": "Paracetamol Tablet (1000 mg)"
+                        }, 
+                        {
+                            "@group_id": "E2", 
+                            "description": "Two ibuprofen capsules (400 mg/capsule), were administered TID, orally with water.", 
+                            "title": "Ibuprofen Capsule (400 mg)"
+                        }, 
+                        {
+                            "@group_id": "E3", 
+                            "description": "Two ibuprofen tablets (400 mg/tablet), were administered TID, orally with water.", 
+                            "title": "Ibuprofen Tablet (400 mg)"
+                        }, 
+                        {
+                            "@group_id": "E4", 
+                            "description": "Two placebo tablets were administered QID, orally with water.", 
+                            "title": "Placebo Tablet"
+                        }
+                    ]
+                }, 
+                "other_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "28"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "24"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "23"
+                                            }, 
+                                            {
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "23"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, other adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "28"
+                                                }, 
+                                                {
+                                                    "@events": "3", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "3", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "23"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "23"
+                                                }
+                                            ], 
+                                            "sub_title": "Abdominal Pain upper"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "28"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "23"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "23"
+                                                }
+                                            ], 
+                                            "sub_title": "Diarrhea"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "28"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "23"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "23"
+                                                }
+                                            ], 
+                                            "sub_title": "Dyspepsia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "28"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "23"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "23"
+                                                }
+                                            ], 
+                                            "sub_title": "Abdominal Pain Lower"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "28"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "23"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "23"
+                                                }
+                                            ], 
+                                            "sub_title": "Duodenal Ulcer"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "28"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "23"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "23"
+                                                }
+                                            ], 
+                                            "sub_title": "Flatulence"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "28"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "23"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "23"
+                                                }
+                                            ], 
+                                            "sub_title": "Gastritis Erosive"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "28"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "23"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "23"
+                                                }
+                                            ], 
+                                            "sub_title": "Nausea"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "28"
+                                            }, 
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "24"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "23"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "23"
+                                            }
+                                        ], 
+                                        "sub_title": "Chest Pain"
+                                    }
+                                }, 
+                                "title": "General disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "28"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "23"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "23"
+                                                }
+                                            ], 
+                                            "sub_title": "Arthralgia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "28"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "24"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "23"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "23"
+                                                }
+                                            ], 
+                                            "sub_title": "Back Pain"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Musculoskeletal and connective tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "28"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "24"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "23"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "23"
+                                            }
+                                        ], 
+                                        "sub_title": "Somnolence"
+                                    }
+                                }, 
+                                "title": "Nervous system disorders"
+                            }
+                        ]
+                    }, 
+                    "frequency_threshold": "1"
+                }, 
+                "serious_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "28"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "24"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "23"
+                                            }, 
+                                            {
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "28"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, serious adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "28"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "24"
+                                            }, 
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "23"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "28"
+                                            }
+                                        ], 
+                                        "sub_title": "Breast Cancer"
+                                    }
+                                }, 
+                                "title": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+                            }
+                        ]
+                    }
+                }, 
+                "time_frame": "Adverse events were collected from the start of the investigational product, and until 5 days following last administration of the investigational product."
+            }
+        }, 
+        "completion_date": {
+            "#text": "July 2012", 
+            "@type": "Actual"
+        }, 
+        "condition": "Gastrointestinal Mucosal Damage", 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Body Mass Index: 18-30 kg/m^2\n\n          -  Body Weight  60-80 kg\n\n          -  Participant with both a normal stomach and proximal duodenum mucosa as evidenced by\n             endoscopic results\n\n        Exclusion Criteria:\n\n          -  Participant with evidence of current/active, or a history of gastrointestinal disease\n\n          -  Participant with a history of renal disease, pulmonary edema, cardiomyopathy, liver\n             disease, intrinsic coagulation defects, bleeding diseases or anticoagulant therapy\n\n          -  Participant with a history of using antacids, H2 receptor antagonists, proton pump\n             inhibitors, or misoprostol more than twice a month or has used any of these\n             medications within 1 week of Visit 1.\n\n          -  Participant with a current or recurrent disease, within 12 months of Visit 1, that\n             could affect the action, absorption, disposition, or excretion of the study\n             treatments or evaluation of the clinical or laboratory tests"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "60 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "28", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "March 28, 2013", 
+        "firstreceived_results_date": "June 20, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01822665", 
+            "org_study_id": "A1901106"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Ibuprofen Capsule", 
+                    "Ibuprofen Tablet"
+                ], 
+                "description": "Liquid gelation capsules or tablets of 400 mg strength", 
+                "intervention_name": "Ibuprofen", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Paracetamol Tablet", 
+                "description": "Paracetamol fast dissolving tablets of 500 mg strength", 
+                "intervention_name": "Paracetamol", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Placebo Tablet", 
+                "description": "Placebo tablets", 
+                "intervention_name": "Placebo", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Acetaminophen", 
+                "Ibuprofen", 
+                "Analgesics"
+            ]
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "February 13, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Houston", 
+                    "country": "United States", 
+                    "state": "Texas", 
+                    "zip": "77074"
+                }, 
+                "name": "Houston Institute for Clinical Research"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "4", 
+        "official_title": "A Study to Investigate the Gastrointestinal Safety of OTC Analgesics in Healthy Volunteers by Endoscopic Examination", 
+        "overall_official": {
+            "affiliation": "GlaxoSmithKline", 
+            "last_name": "GSK Clinical Trials", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 4", 
+        "primary_completion_date": {
+            "#text": "July 2012", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Endoscopic examination of the upper gastrointestinal mucosa evaluated the extent of mucosal injury to the stomach and the duodenum separately using a 5-point Lanza scale, ranging from 0: normal stomach; 1: mucosal hemorrhages; 2: one or two erosions; 3: numerous areas of erosions; and 4: more than 10 erosions or ulcer.", 
+            "measure": "Gastromucosal Damage (GMD) Score of Paracetamol Tablet vs Ibuprofen Capsule", 
+            "safety_issue": "Yes", 
+            "time_frame": "Day 7"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01822665"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Endoscopic examination of the upper gastrointestinal mucosa evaluated the extent of mucosal injury to the stomach and the duodenum separately using a 5-point Lanza scale, ranging from 0: normal stomach; 1: mucosal hemorrhages; 2: one or two erosions; 3: numerous areas of erosions; and 4: more than 10 erosions or ulcer.", 
+                "measure": "GMD Scores of Paracetamol Tablet; Ibuprofen Capsule; Ibuprofen Tablet; and Placebo Tablet", 
+                "safety_issue": "Yes", 
+                "time_frame": "Day 7"
+            }, 
+            {
+                "description": "DMD was measured using a 5- point Lanza scale: 0 - normal duodenum; 1 - mucosal hemorrhages; 2 - one or two erosions; 3 - numerous areas of erosions and 4 - more than 10 erosions/ ulcers.", 
+                "measure": "Duodenal Mucosal Damage (DMD) Scores", 
+                "safety_issue": "Yes", 
+                "time_frame": "Day 7"
+            }, 
+            {
+                "description": "Number of participants with endoscopy score equal to or more than 2 were determined based on Lanza score for both gastric and duodenal mucosal damage.", 
+                "measure": "Incidence of Gastric and/or Duodenal Mucosal Injury", 
+                "safety_issue": "Yes", 
+                "time_frame": "Day 7"
+            }, 
+            {
+                "description": "The incidence of fecal occult blood was recorded as a binary response (0 = no presence of blood; 1 = presence of blood).", 
+                "measure": "Incidence of Fecal Occult Blood", 
+                "safety_issue": "Yes", 
+                "time_frame": "Day 7"
+            }
+        ], 
+        "source": "GlaxoSmithKline", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "GlaxoSmithKline", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "February 2012", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety Study, Intervention Model: Crossover Assignment, Masking: Single Blind (Outcomes Assessor), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "July 2013"
+    }
+}

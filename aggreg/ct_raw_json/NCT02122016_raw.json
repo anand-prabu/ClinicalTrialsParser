@@ -1,0 +1,157 @@
+{
+    "clinical_study": {
+        "@rank": "28580", 
+        "arm_group": [
+            {
+                "arm_group_label": "SmartCare", 
+                "arm_group_type": "Experimental", 
+                "description": "A computer driven weaning ventilator, using closed-loop ventilation, taking into account patients lung mechanics and exhaled CO2."
+            }, 
+            {
+                "arm_group_label": "Conventional weaning protocol", 
+                "arm_group_type": "Active Comparator", 
+                "description": "A conventional weaning protocol consisting of a daily weaning screen, which is performed by physiotherapist. All patients who are mechanically ventilated for more than 24 hours are given a spontaneous breathing trial."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Mechanical ventilation is widely used for ICU patients as a lifesaving procedure. However,\n      it is associated with several complications, such as ventilator-associated pneumonia and the\n      increase of hospital morbidity and mortality. To avoid such complications, we need to wean\n      these patients off the ventilator as soon as possible. This must however be done at the\n      right time to avoid other complications, such as the need for re-intubation. For this\n      reason, it is important to have a specific weaning protocol, which will reduce the time on\n      mechanical ventilation, and avoiding the need for re-intubation and other complications.\n      Recently, an  argument has developed as to  which weaning protocol would be more\n      appropriated, and whether a computer driven weaning protocol could have better results than\n      the conventional weaning protocols focusing on daily screening and daily interruption of\n      sedation followed by a spontaneous breathing test. Our objective is to compare mechanical\n      ventilation times, weaning success up to 48 hours after extubation, re-intubation rates\n      between a group with computer driven weaning protocol (SmartCare) versus a weaning protocol\n      with daily weaning screens and spontaneous breathing trials in ICU patients ventilated for\n      more than 24 hours."
+        }, 
+        "brief_title": "Comparison of Two Different Types of Mechanical Ventilation Weaning in Patients in the ICU", 
+        "completion_date": {
+            "#text": "May 2012", 
+            "@type": "Actual"
+        }, 
+        "condition": "Weaning Failure", 
+        "detailed_description": {
+            "textblock": "Background: Mechanical ventilation (MV) weaning is commonly performed using Spontaneous\n      Breathing Trials (SBT) with pressure support ventilation after a daily weaning screen [1].\n      Recently there has been an increased interest in automatic weaning trials, which consists of\n      closed-loop ventilation, using ETCO2 monitoring during SBT [1, 2]. So far, there has been no\n      clinical evidence to compare automatic weaning trials with those of SBT.\n\n      Objective: To compare MV weaning times between an Automatic Weaning Ventilation System\n      (SmartCare/PS) and SBT groups.\n\n      Methods: A randomized, controlled study performed at a general ICU. Adult patients were\n      enrolled who were ventilated for more than 24 hours. Tracheostomies patients, those with\n      neurological conditions, and a Glasgow coma scales lower than 10 were excluded. Patients\n      were randomized to either the control or Smart Care group. All patients were ventilated with\n      a Drager Evita XL (Drager Medical, Lubeck, Germany) ventilator with SmartCare/PS software\n      version 1.1 available for use immediately prior to randomization. The Control group\n      consisted of a daily weaning screen and SBT with pressure support ventilation. If patients\n      tolerated SBT, they were extubated. Smart Care group patients were also submitted to a daily\n      weaning screen, after which they were ventilated with the SmartCare/PS mode. MV and weaning\n      time, maximum inspiratory pressure (MIP), maximum expiratory pressure (MEP), vital capacity\n      (VC), respiratory frequency to tidal volume ration (f/Vt), use of non-invasive ventilation\n      (NIV) post extubation, and re-intubation rate we evaluated."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Recovery from the causes that had led to mechanical ventilation\n\n          -  Capacity to initiate a spontaneous breathing effort\n\n          -  Spontaneous eye opening and responsiveness even with low doses of sedation\n\n          -  Oxygen inspired fraction lower than 50% with oxygen pulse oximeter higher than 95%\n\n          -  Positive end-expiratory pressure under 10 cmH2O\n\n          -  Hemodynamic stability\n\n          -  Vasopressor drugs lower than 0.05mcg/ml/kg\n\n        Exclusion Criteria:\n\n          -  Tracheotomized patients\n\n          -  Neurological sequels with a poor prognostic (post cardiorespiratory arrest or central\n             neurological injury)\n\n          -  Glasgow scale lower than 10"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "70", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "August 27, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02122016", 
+            "org_study_id": "SmartCare\\HIAE11"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "SmartCare", 
+                "description": "Ventilator with a SmartCare module that is capable of performing a computer-driven weaning trial taking into account patients lung mechanics and exaled CO2.", 
+                "intervention_name": "SmartCare", 
+                "intervention_type": "Device"
+            }, 
+            {
+                "arm_group_label": "Conventional weaning protocol", 
+                "description": "A conventional weaning protocol performed by physiotherapist with a daily weaning screen and a spontaneous breathing trial", 
+                "intervention_name": "Conventional weaning protocol", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Ventilator weaning", 
+            "Protocols", 
+            "Computer driven weaning", 
+            "Decision Making, Computer-Assisted", 
+            "Therapy, Computer-Assisted", 
+            "Respiration, Artificial"
+        ], 
+        "lastchanged_date": "April 22, 2014", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "S\u00e3o Paulo", 
+                        "country": "Brazil", 
+                        "state": "SP", 
+                        "zip": "05652-900"
+                    }, 
+                    "name": "Hospital Israelita Albert Einstein"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sao Paulo", 
+                        "country": "Brazil", 
+                        "zip": "05652900"
+                    }, 
+                    "name": "Hospital Israelita Albert Einstein's Critically Ill Department"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "Brazil"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Weaning With Smartcare in Mechanically Ventilated Patients in the ICU - a Controlled and Randomized Study", 
+        "overall_official": {
+            "affiliation": "Hospital Israelita Albert Einstein", 
+            "last_name": "Corinne Taniguchi, PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Brazil: Ethics Committee", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 4", 
+        "primary_completion_date": {
+            "#text": "April 2012", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "The duration that patient's received mechanical ventilation until they were extubated comparing two weaning protocols (computer driven v daily weaning screen and spontaneous breathing trial).", 
+            "measure": "Weaning time from mechanical ventilation", 
+            "safety_issue": "No", 
+            "time_frame": "From June 2011 to April 2012 an 11 month period"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02122016"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Hospital Israelita Albert Einstein", 
+            "investigator_full_name": "Corinne Taniguchi", 
+            "investigator_title": "Physiotherapist, PhD", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Evaluate the rate of weaning success of patients under mechanical ventilation. Success defined as patient not needing re-intubation up to 48 hours after extubation.", 
+                "measure": "weaning success", 
+                "safety_issue": "No", 
+                "time_frame": "From June 2011 to April 2012 an 11 month period"
+            }, 
+            {
+                "description": "Evaluate the re-intubation rate of patients that were extubated.", 
+                "measure": "re-intubation rate", 
+                "safety_issue": "No", 
+                "time_frame": "From June 2011 to April 2012 an 11 month period"
+            }
+        ], 
+        "source": "Hospital Israelita Albert Einstein", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Hospital Israelita Albert Einstein", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "June 2011", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2014"
+    }
+}

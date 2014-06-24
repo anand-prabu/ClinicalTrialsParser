@@ -1,0 +1,212 @@
+{
+    "clinical_study": {
+        "@rank": "149753", 
+        "acronym": "WGA", 
+        "arm_group": [
+            {
+                "arm_group_label": "Control", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Providers do not have access to What's Going Around Tool but receive an instructional video explaining tool"
+            }, 
+            {
+                "arm_group_label": "What's Going Around Tool", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Provider has access to What's Going Around Tool. Provider also shown a video explaining how to use Tool"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Previous work has shown that the epidemiological context of a patient's presentation can\n      provide important information for clinicians to aid in diagnosis and treatment. With current\n      electronic health records, it is increasingly possible to perform syndromic surveillance\n      that is local and specific to a patient's characteristics.\n\n      The investigators have developed algorithms for syndromic surveillance for a number of\n      conditions in which contextual information might be of use to treating clinicians. The\n      syndromic surveillance algorithms already developed are for influenza-like-illness, whooping\n      cough, asthma exacerbation, Group A Streptococcal pharyngitis, and gastroenteritis\n      infection.\n\n      The investigators plan on studying these tools with a clustered randomized control cohort\n      study evaluating how clinical decision making is affected by use of these tools by\n      outpatient general practitioners. The goal is to incorporate these validated algorithms into\n      a quality improvement tool which will provide point-of-care clinical decision support to\n      clinicians"
+        }, 
+        "brief_title": "How Does the Clinical Tool 'What's Going Around' Affect Clinical Practice", 
+        "completion_date": {
+            "#text": "November 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Influenza Like Illness", 
+            "Asthma", 
+            "Group A Streptococcal Infection", 
+            "Pertussis"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Asthma", 
+                "Influenza, Human", 
+                "Whooping Cough", 
+                "Streptococcal Infections"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "The epidemiological context of a patient's presentation can provide important information\n      for clinicians to aid in diagnosis and treatment. The investigators previously developed and\n      validated a syndromic surveillance tool for detecting influenza-like illness (ILI)\n      encounters. The investigators then evaluated 40,642 outpatient ILI episodes during 'flu\n      seasons' over 6 years. The investigators found that even after controlling for patient\n      presentation and physician factors, the context in which a patient presented was strongly\n      associated with the likelihood that an antimicrobial agent would be prescribed.\n      Specifically, patients were less likely to be prescribed an antibiotic if they presented\n      with ILI during the pandemic influenza period (when awareness of 'flu season' was very\n      high), or after their physician had personally seen many patients with ILI in the prior\n      week.\n\n      Currently, most clinicians have only limited access to data regarding the 'context' in which\n      a patient presents. Under such circumstances, physicians are often unaware of local\n      epidemiological information that could help them make optimal treatment decisions.  In\n      centers with advanced use of electronic health records (EHRs), it is increasingly possible\n      to perform syndromic surveillance that is local (e.g. specific to a neighborhood or school\n      district), current (e.g. updated daily), and specific to a patient's characteristics (e.g.\n      age, chief complaint).\n\n      To that end, the investigators have developed algorithms for syndromic surveillance for a\n      number of syndromes including Asthma, ILI, Pertussis, Group A Streptococcus Pharyngitis, and\n      Gastroenteritis. These algorithms may provide contextual information that might be of use to\n      clinicians.\n\n      The purpose of this study is to determine the effect of how a point-of-care clinical\n      decision tool in the form of syndromic surveillance algorithms affect clinical decision\n      making amongst outpatient health care providers and also patient outcomes. We will be using\n      a 2 year look back prior to tool roll out as a comparison.\n\n      Specific Aims:\n\n      To determine the effect this point-of-care clinical decision tool has on clinical decision\n      making amongst primary care providers.\n\n      To determine the clinical outcomes of patients whose physicians had access to these tools\n\n      To understand how these point-of-care clinical decision tools are used among healthcare\n      providers in day to day practice"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n        All patients seen in a Northshore University HealthSystem outpatient clinic (Family\n        Medicine, Internal Medicine or Pediatric) between the Nov 1 2013 to Oct 31 2014\n\n        Exclusion Criteria:\n\n        None"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "15000", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "October 30, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01979588", 
+            "org_study_id": "What's Going Around"
+        }, 
+        "intervention": {
+            "arm_group_label": "What's Going Around Tool", 
+            "description": "Provider has access to the What's Going Around tool", 
+            "intervention_name": "What's Going Around tool", 
+            "intervention_type": "Other"
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "April 1, 2014", 
+        "location": {
+            "contact": {
+                "email": "Arobicsek@northshore.org", 
+                "last_name": "Ari Robicsek, MD", 
+                "phone": "847-570-2490"
+            }, 
+            "contact_backup": {
+                "email": "Nshah2@northshore.org", 
+                "last_name": "Nirav Shah, MD, MPH", 
+                "phone": "7737025232"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Evanston", 
+                    "country": "United States", 
+                    "state": "Illinois", 
+                    "zip": "60201"
+                }, 
+                "name": "Northshore University HealthSystem"
+            }, 
+            "investigator": {
+                "last_name": "Ari Robicsek, MD", 
+                "role": "Principal Investigator"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "How Does the Clinical Tool 'What's Going Around' Affect Clinical Practice", 
+        "other_outcome": [
+            {
+                "measure": "Percentage of visits for pediatric patients with asthma in which asthma counseling performed", 
+                "safety_issue": "No", 
+                "time_frame": "1 year"
+            }, 
+            {
+                "measure": "Percent of time a pertussis PCR was sent for patients with a complaint of cough during a period of high pertussis prevalence", 
+                "safety_issue": "No", 
+                "time_frame": "1 year"
+            }, 
+            {
+                "measure": "Percent of pharyngitis patients who received a Group A Strep test during a period of high prevalence of group A strep", 
+                "safety_issue": "No", 
+                "time_frame": "1 year"
+            }, 
+            {
+                "measure": "Percent of time that a pertussis active antibiotic was prescribed in a patient with a complaint of a cough during a period of high pertussis prevalence", 
+                "safety_issue": "No", 
+                "time_frame": "1 year"
+            }, 
+            {
+                "measure": "Percent of pharyngitis patients who received a Group A Strep test during a period of low prevalence of group A strep", 
+                "safety_issue": "No", 
+                "time_frame": "1 year"
+            }, 
+            {
+                "measure": "Percent of pharyngitis patients who received a Group A strep appropriate antibiotic during a period of high prevalence of group A strep", 
+                "safety_issue": "No", 
+                "time_frame": "1 year"
+            }, 
+            {
+                "measure": "Percent of pharyngitis patients who received a Group A Strep appropriate antibiotic during a period of low prevalence of group A strep", 
+                "safety_issue": "No", 
+                "time_frame": "1 year"
+            }, 
+            {
+                "measure": "Percent of patients with asthma who have a hospital visit for asthma", 
+                "safety_issue": "No", 
+                "time_frame": "1 year"
+            }, 
+            {
+                "measure": "Percentage of days that a physician used the What's Going Around tool of all days he/she worked in a year", 
+                "safety_issue": "No", 
+                "time_frame": "1 year"
+            }
+        ], 
+        "overall_contact": {
+            "email": "Arobicsek@northshore.org", 
+            "last_name": "Ari Robicsek, MD", 
+            "phone": "8475702490"
+        }, 
+        "overall_contact_backup": {
+            "email": "Nshah2@northshore.org", 
+            "last_name": "NIRAV SHAH, MD, MPH", 
+            "phone": "7737025232"
+        }, 
+        "overall_official": {
+            "affiliation": "NorthShore University HealthSystem", 
+            "last_name": "Ari Robicsek, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "November 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "Percentage of visits for ILI in which a patient was prescribed an antibacterial agent during the seasonal flu season", 
+            "safety_issue": "No", 
+            "time_frame": "1 year"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01979588"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "NorthShore University HealthSystem", 
+            "investigator_full_name": "Ari Robiscek", 
+            "investigator_title": "Vice President for Clinical and Quality Informatics, Associate CMIO", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Percentage of visits for ILI in which a patient was prescribed an antiviral agent during the seasonal flu season", 
+                "safety_issue": "No", 
+                "time_frame": "1 year"
+            }, 
+            {
+                "measure": "Percent of primary care visits in which a patient received an antibiotic", 
+                "safety_issue": "No", 
+                "time_frame": "1 year"
+            }
+        ], 
+        "source": "NorthShore University HealthSystem", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "NorthShore University HealthSystem", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "November 2013", 
+        "study_design": "Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2014"
+    }
+}

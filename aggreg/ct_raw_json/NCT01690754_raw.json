@@ -1,0 +1,204 @@
+{
+    "clinical_study": {
+        "@rank": "92244", 
+        "arm_group": [
+            {
+                "arm_group_label": "Control", 
+                "arm_group_type": "No Intervention", 
+                "description": "This arm will receive the regular standard of care given by TB clinics."
+            }, 
+            {
+                "arm_group_label": "Interactive Reminders", 
+                "arm_group_type": "Experimental", 
+                "description": "Patients randomized to this arm will receive Interactive SMS reminders daily."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "In this study, Interactive Research and Development (IRD) in Karachi, Pakistan is evaluating\n      the impact of Interactive Reminders on drug compliance and treatment outcomes.  Interactive\n      Reminders is an interactive SMS reminder system to help patients remember to take their TB\n      medication.  In this system, patients receive daily SMS reminders for the duration of their\n      treatment at a pre-specified time, reminding them to take their medication. Patients are\n      asked to reply back to the system, either through SMS or a missed call, with the time they\n      took their medicine that day.  If a response is not received within two hours, a second\n      reminder is sent.  If a response is still not received in a further two hours, a third and\n      final reminder for the day is sent.  Non-responsive patients are followed up with phone\n      calls and a list of non-responsive patients is shared with clinics based on the parameters\n      of non-responsiveness that they specify.\n\n      IRD seeks to determine the impact of this system on treatment outcomes and compliance to\n      prescribed medication through administering a randomized control trial among newly diagnosed\n      TB patients in Karachi, Pakistan."
+        }, 
+        "brief_title": "Evaluating the Effectiveness of Interactive SMS Reminders on TB Drug Compliance and Treatment", 
+        "completion_date": {
+            "#text": "November 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Tuberculosis", 
+        "condition_browse": {
+            "mesh_term": "Tuberculosis"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  New, smear-positive drug susceptible TB who have been on treatment for less than two\n             weeks\n\n          -  Access to a mobile phone (self-reported)\n\n          -  Intending to reside in Karachi for the duration of their treatment\n\n        Exclusion Criteria:\n\n          -  Patients who do not have regular access to a mobile phone\n\n          -  Patients who have previously received TB treatment\n\n          -  Patients who have another member in their household who is already a part of the\n             study"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "15 Years"
+        }, 
+        "enrollment": {
+            "#text": "2200", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "September 13, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01690754", 
+            "org_study_id": "IRD_IRB_2011_03_002"
+        }, 
+        "intervention": {
+            "arm_group_label": "Interactive Reminders", 
+            "description": "Daily SMS reminders sent to TB patients at a pre-specified time.  They are asked to respond to the reminders.  If a response is not received within two hours, they are sent another reminder for up to three per day.", 
+            "intervention_name": "Interactive Reminders", 
+            "intervention_type": "Other"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "SMS", 
+            "tuberculosis", 
+            "impact evaluation"
+        ], 
+        "lastchanged_date": "September 19, 2012", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Karachi", 
+                        "country": "Pakistan"
+                    }, 
+                    "name": "Indus Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Karachi", 
+                        "country": "Pakistan"
+                    }, 
+                    "name": "Sindh Government Hospital - New Karachi"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Karachi", 
+                        "country": "Pakistan"
+                    }, 
+                    "name": "Jinnah Postgraduate Medical Center"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Karachi", 
+                        "country": "Pakistan"
+                    }, 
+                    "name": "Urban Health Center"
+                }, 
+                "status": "Recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": "Pakistan"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Monitoring Patient Compliance With Tuberculosis Treatment Regimens", 
+        "overall_contact": {
+            "email": "shama.mohammed@irdresearch.org", 
+            "last_name": "Shama Mohammed, MPA/ID"
+        }, 
+        "overall_official": [
+            {
+                "affiliation": "Massachusetts Institute of Technology", 
+                "last_name": "Rachel Glennerster, PhD.", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Interactive Research and Development", 
+                "last_name": "Shama Mohammed, MPA/ID", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Interactive Research and Development", 
+                "last_name": "Aamir J. Khan, MD/PhD.", 
+                "role": "Principal Investigator"
+            }
+        ], 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "Pakistan: Ministry of Health"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "May 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "The investigators will compare clinically reported treatment outcomes between the intervention and control groups.", 
+                "measure": "Treatment Outcomes", 
+                "safety_issue": "No", 
+                "time_frame": "After 6 to 8 months of treatment"
+            }, 
+            {
+                "description": "The investigators will look at sputum test results for patients at months 2, 5, and 6/7 of their treatment to compare when sputum conversion occurs between the intervention and control group at these three periods during their treatment.", 
+                "measure": "Sputum conversion", 
+                "safety_issue": "No", 
+                "time_frame": "At 2, 5, and 6/7 months of treatment"
+            }, 
+            {
+                "description": "The regularity of treatment will be measured using urinalysis tests that detect the presence of isoniazid or rifampacin, a first line drug for TB treatment, in patients' urine. These results will be collected through monthly \"surprise\" visits to the participants' houses. The number of negative results will be compared between treatment and control groups.", 
+                "measure": "Treatment compliance", 
+                "safety_issue": "No", 
+                "time_frame": "Monthly visits for 6 to 8 months of treatment"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01690754"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Interactive Research and Development", 
+            "investigator_full_name": "Shama Mohammed", 
+            "investigator_title": "Director, Community Outreach", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "The investigators will measure physical fitness and mobility through questionnaires conducted with patients during household visits each month that they are on treatment.  The investigators are using two indices.  The physical fitness index will record respondents ability to perform certain tasks.  The mobility index will record the mobility of participants.", 
+                "measure": "Physical fitness and mobility", 
+                "safety_issue": "No", 
+                "time_frame": "Monthly visits for 6 to 8 months of treatment"
+            }, 
+            {
+                "description": "In order to gauge the psychological impacts of the system, the investigators will be looking at participants' perceptions on the likelihood of being cured, how they feel on a given day using the pain scale, and  how supported they feel.  This data will be collected through questionnaires conducted at each monthly mid-line visit.", 
+                "measure": "Psychological Impacts", 
+                "safety_issue": "No", 
+                "time_frame": "Monthly visits for 6 to 8 months of treatment"
+            }, 
+            {
+                "description": "The regularity of treatment will be measured using urinalysis tests that detect the presence of isoniazid or rifampacin, a first line drug for TB treatment, in patients' urine. These results will be collected through monthly \"surprise\" visits to the participants' houses.", 
+                "measure": "Treatment Compliance", 
+                "safety_issue": "No", 
+                "time_frame": "Monthly visits for 6 to 8 months of treatment"
+            }
+        ], 
+        "source": "Interactive Research and Development", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Massachusetts Institute of Technology", 
+                "agency_class": "Other"
+            }, 
+            "lead_sponsor": {
+                "agency": "Interactive Research and Development", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "March 2011", 
+        "study_design": "Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Supportive Care", 
+        "study_type": "Interventional", 
+        "verification_date": "September 2012"
+    }
+}

@@ -1,0 +1,187 @@
+{
+    "clinical_study": {
+        "@rank": "102455", 
+        "arm_group": [
+            {
+                "arm_group_label": "acute-on-chronic hepatitis B liver failure, training group", 
+                "description": "ACHBLF was defined as an acute hepatic insult manifesting as jaundice and coagulopathy, complicated within 4 weeks by ascites and/or encephalopathy in a patient with chronic HBV infection according to consensus recommendations of the Asian Pacific Association for the Study of the Liver in 2009. ACHBLF patients were assigned to a training cohort and a validation cohort randomly. One of the major limitations of ANN is over-training, which can lead to good performance on training sets but poor performance on relatively independent validation sets. To avoid over-training during building ANN, a part of ACHBLF patients were again randomly selected from the training group to train the network and the remaining were used for cross-validation."
+            }, 
+            {
+                "arm_group_label": "acute-on-chronic hepatitis B liver failure, testing group", 
+                "description": "ACHBLF was defined as an acute hepatic insult manifesting as jaundice and coagulopathy, complicated within 4 weeks by ascites and/or encephalopathy in a patient with chronic HBV infection according to consensus recommendations of the Asian Pacific Association for the Study of the Liver in 2009. To avoid over-training during building ANN, a part of ACHBLF patients were again randomly selected from the training group to train the network and the remaining were used for cross-validation."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This study was to predict 3-month mortality risk of acute-on-chronic hepatitis B liver\n      failure (ACHBLF) on an individual patient level using artificial neural network (ANN)\n      system. The area under the curve of receiver operating characteristic (AUROC) were\n      calculated for ANN and MELD-based scoring systems to evaluate the performances of the ANN\n      prediction."
+        }, 
+        "brief_title": "Study of the Model to Predict 3-month Mortality Risk of Acute-on-chronic Hepatitis B Liver Failure", 
+        "completion_date": {
+            "#text": "June 2010", 
+            "@type": "Actual"
+        }, 
+        "condition": "Acute-on-chronic Hepatitis B Liver Failure", 
+        "condition_browse": {
+            "mesh_term": [
+                "Hepatitis", 
+                "Hepatitis A", 
+                "Hepatitis B", 
+                "Hepatitis, Chronic", 
+                "Liver Failure", 
+                "Hepatitis B, Chronic"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Hepatitis B virus (HBV) is a major human pathogen which causes high morbidity and mortality\n      worldwide. HBV is one of the leading causes for rapid deterioration of liver function, which\n      is a serious condition termed as \"acute-on-chronic liver failure (ACLF)\" with high\n      mortality. There is a high prevalence of HBV in Asian developing countries where\n      acute-on-chronic hepatitis B liver failure (ACHBLF) accounts for more than 70% of ACLF and\n      almost 120, 000 patients died of ACHBLF each year. The transplantation of liver is the basic\n      and strong effective therapeutic option for ACHBLF patients. However, liver transplantation\n      is difficult to be extensively applied due to the shortage of liver donors and other\n      socioeconomic problems. Thus, an early predictive model, which is objective, reasonable and\n      accurate, is necessary for severity discrimination and organ allocation to decrease the\n      mortality of ACHBLF.\n\n      MELD-based scoring systems still failed to predict the mortality of a considerable\n      proportion of patients and their predictive accuracy was not satisfying enough.\n\n      The ANN is a novel computer model inspired by the working of human brain. It can build\n      nonlinear statistical models to deal with the complex biological systems. In the recent\n      years, ANN models have been introduced in clinical medicine for clinical validations,\n      including predicting the hepatocellular carcinoma patients' disease-free survival and\n      preoperative tumor grade, predicting the mortality of patients with end-stage liver disease\n      and identifying the risk of prostate carcinoma."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Acute hepatic insult manifesting as jaundice and coagulopathy\n\n          -  Complicated within 4 weeks by ascites\n\n          -  And/or encephalopathy in a patient with chronic HBV infection\n\n        Exclusion Criteria:\n\n          -  Patients with evidence of non-B hepatitis virus\n\n          -  alcohol abuse leads to liver failure\n\n          -  autoimmune leads to liver failure\n\n          -  oxic or other causes that might lead to liver failure\n\n          -  past or current hepatocellular carcinoma\n\n          -  liver transplantation\n\n          -  serious diseases in other organ systems"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "87 Years", 
+            "minimum_age": "19 Years", 
+            "sampling_method": "Probability Sample", 
+            "study_pop": {
+                "textblock": "The patients were collected who were diagnosed with ACLF at the First Affiliated Hospital\n        of Wenzhou Medical College. Patients with ACHBLF were included in the study. ACHBLF was\n        defined as an acute hepatic insult manifesting as jaundice and coagulopathy, complicated\n        within 4 weeks by ascites and/or encephalopathy in a patient with chronic HBV infection.\n        Patients with evidence of non-B hepatitis virus, alcohol abuse, autoimmune, toxic or other\n        causes that might lead to liver failure, past or current hepatocellular carcinoma, liver\n        transplantation, or serious diseases in other organ systems were excluded.\n\n        Informed consent was obtained from each patient included in the study and the research\n        protocol was approved by the Ethics Committee of the First Affiliated Hospital of Wenzhou\n        Medical College."
+            }
+        }, 
+        "enrollment": {
+            "#text": "583", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "March 30, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01826760", 
+            "org_study_id": "wenzhouMC 023"
+        }, 
+        "intervention": {
+            "arm_group_label": [
+                "acute-on-chronic hepatitis B liver failure, training group", 
+                "acute-on-chronic hepatitis B liver failure, testing group"
+            ], 
+            "intervention_name": "Using training and testing groups to construct ANN based on laboratory tests", 
+            "intervention_type": "Other"
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "April 3, 2013", 
+        "link": {
+            "description": "A model to predict 3-month mortality risk of acute-on-chronic hepatitis B liver failure using artificial neural network.", 
+            "url": "http://www.ncbi.nlm.nih.gov/pubmed/?term=A+model+to+predict+3-month+mortality+risk+of+acute-on-chronic+hepatitis+B+liver+failure+using+artificial+neural+network"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Wenzhou", 
+                    "country": "China", 
+                    "state": "Zhejiang", 
+                    "zip": "325000"
+                }, 
+                "name": "Wenzhou Medical College"
+            }
+        }, 
+        "location_countries": {
+            "country": "China"
+        }, 
+        "number_of_groups": "2", 
+        "official_title": "Study of 3-month Mortality Risk of Acute-on-chronic Hepatitis B Liver Failure Using Artificial Neural Network", 
+        "overall_official": [
+            {
+                "affiliation": "First Affiliated Hospital of Wenzhou Medical College", 
+                "last_name": "Ming Hua Zheng, Medical Master", 
+                "role": "Study Chair"
+            }, 
+            {
+                "affiliation": "Wenzhou Medical University", 
+                "last_name": "Xian Feng Lin, Medical undergraduate", 
+                "role": "Study Chair"
+            }, 
+            {
+                "affiliation": "First Affiliated Hospital of Wenzhou Medical College", 
+                "last_name": "Ke Qing Shi, Medical Master", 
+                "role": "Study Chair"
+            }, 
+            {
+                "affiliation": "Wenzhou Medical University", 
+                "last_name": "Wen Yue Liu, Medical undergraduate", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Wenzhou Medical University", 
+                "last_name": "Chen Chen Zhao, Medical undergraduate", 
+                "role": "Principal Investigator"
+            }
+        ], 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "China: Ethics Committee", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "May 2010", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "The routine therapy of patients were same, including absolute bed rest, energy supplements and vitamins, intravenous drop infusion albumin, maintenance water, electrolyte and acid-base equilibrium, and prevention and treatment complications, etc. The start date of the follow-up was the date of the diagnosis of ACHBLF. In this study, patients receiving liver transplantation within 3 months were considered as death. All patients with ACHBLF were followed up for at least 3 months and the outcome (death or survival) of corresponding patient was recorded.", 
+                "measure": "Living status", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 08 months"
+            }, 
+            {
+                "description": "MELD score (R = 9.57 \u00d7 ln (creatinine (mg/dL)) + 3.78\u00d7ln (bilirubin (mg/dL)) + 11.2\u00d7ln (INR) + 6.43) was used to measure the mortality risk in patients with end-stage liver disease. Given the lack of donors, MELD was used as organ allocation tool to increase graft success rate and patient survival rates, which was generally accepted. Recently, some adjustments were added to the original MELD formula to overcome limitations of MELD score. Published data suggested that MELD-Na (R = MELD + 1.59 \u00d7 (135 - serum sodium (mmol/L))) might improve the prognostic accuracy [5].  Furthermore, several other scoring systems such as MELDNa (R = MELD - serum sodium (mmol/L) - (0.025 \u00d7 MELD \u00d7 (140 - serum sodium (mmol/L))) + 140), MESO (R = (MELD/serum sodium (mmol/L)) \u00d7 100), iMELD (R = MELD + (age(year) \u00d7 0.3) - (0.7 \u00d7 serum sodium (mmol/L)) + 100)), etc had been described for predicting the mortality of end-stage liver disease accurately.", 
+                "measure": "Calculating MELD-based Scoring Systems", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 02 months"
+            }, 
+            {
+                "description": "ANN can mimic a biological neural system both structurally and functionally. It consists of a set of highly complex, interconnected processing units (neurons) linked with weighted connections, and include an input layer, an output layer and one or more hidden layers. The input layer contains neurons which receive the data available for the analysis (e.g. various clinical, demographic or laboratory data) and the output layer contains neurons which export different predictive outcomes (e.g. clinical diagnosis or prognosis). The hidden layers are used to allow complex relations between the input and output neurons to evolve.In this study, we built ANN by using a graphical neural network development tool NeuroSolution V5.05 (Neurodimension, Florida, United State).", 
+                "measure": "Construction of ANN", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 01 months"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01826760"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Wenzhou Medical College", 
+            "investigator_full_name": "Ming-Hua Zheng", 
+            "investigator_title": "Attending physician", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "results_reference": {
+            "PMID": "23490369", 
+            "citation": "Zheng MH, Shi KQ, Lin XF, Xiao DD, Chen LL, Liu WY, Fan YC, Chen YP. A model to predict 3-month mortality risk of acute-on-chronic hepatitis B liver failure using artificial neural network. J Viral Hepat. 2013 Apr;20(4):248-55. doi: 10.1111/j.1365-2893.2012.01647.x. Epub 2012 Aug 3."
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Statistical analysis was performed using SPSS 13.0 software and MedCalc 10.0 software. The Kolmogorov-Smirnov test was applied to determine whether sample data were likely to be derived from a normal distribution population. Continuous variables were expressed by mean \u00b1 standard deviation and compared using Wilcoxon signed rank test or Mann-Whitney U test when necessary. Categorical variables were described by proportions or count and compared using proportions Chi-square test or the Fisher's exact test when necessary.\nPerformances of the ANN prediction in the training cohort and in the validation cohort were tested using ROC analysis, in which AUROC was used to compare the performance of ANN and MELD-based scoring series using the Hanley and McNeil method. A value of P < 0.05 was considered statistically significant.", 
+                "measure": "Statistical Analysis", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 02 months"
+            }, 
+            {
+                "description": "Liver function tests, complete blood count and coagulation tests were performed within the first 24h after admission. The liver function tests included alanine aminotranferase, aspartate aminotranferase, total bilirubin (TBil), albumin, serum sodium, alpha-fetoprotein (AFP) and creatinine. Complete blood count was made up of platelet and hemoglobin (Hb). Coagulation tests contained prothrombin activity (PTA) and international normalized ratio (INR). Additionally, hepatitis B e antigen (HBeAg) was detected by conventional serological assays. Serum HBV DNA was measured by quantitative polymerase chain reaction(PCR) assay (Roche Amplicor, limit of detectability of 100 IU/ml) after admission.", 
+                "measure": "Laboratory Tests", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 07 months"
+            }
+        ], 
+        "source": "Wenzhou Medical University", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Wenzhou Medical University", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "April 2010", 
+        "study_design": "Observational Model: Case Control, Time Perspective: Cross-Sectional", 
+        "study_type": "Observational", 
+        "verification_date": "April 2013"
+    }
+}

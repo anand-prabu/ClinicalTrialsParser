@@ -1,0 +1,203 @@
+{
+    "clinical_study": {
+        "@rank": "97328", 
+        "arm_group": [
+            {
+                "arm_group_label": "Dynamic guide resuscitation", 
+                "arm_group_type": "Experimental", 
+                "description": "This arm follows a resuscitation protocol based on dynamic-parameters-guided fluid management."
+            }, 
+            {
+                "arm_group_label": "Standard resuscitation", 
+                "arm_group_type": "Active Comparator", 
+                "description": "This arm follows a common resuscitation protocol based on Surviving Sepsis Campaign recommendations."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Our hypothesis is that hemodynamic fluid resuscitation guided by dynamic parameters will\n      improve outcome in patients with severe sepsis and septic shock, by limiting the deleterious\n      effects of fluid overload."
+        }, 
+        "brief_title": "Monitoring Resuscitation in Severe Sepsis and Septic Shock", 
+        "completion_date": {
+            "#text": "May 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Hemodynamics", 
+        "condition_browse": {
+            "mesh_term": [
+                "Shock, Septic", 
+                "Sepsis"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "To evaluate the efficacy of dynamic parameters versus static measures to guide fluid\n      resuscitation we pretend to detect a 10% relative reduction in mortality. In addition, we\n      pretend to observe an improvement on the length of resuscitation time, mechanical\n      ventilation and vasopressor support-free days, ICU and hospital length of stay, organ\n      failure and renal function."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Age > 18 years\n\n          -  Clinical evidence of sepsis (microbiology confirmation, radiological or direct view -\n             pus in biological fluid or surgical direct view-).\n\n          -  \u2265 2  SIRS criteria:\n\n               -  Temperature < 36.0\u00b0C or > 38.0\u00b0C\n\n               -  Heart rate > 90 bpm\n\n               -  Respiratory rate > 20 rpm or PaCO2 < 32 mmHg or need of mechanical ventilation.\n\n               -  Leukocytes > 12.0 x109/L or < 4.0 x109/L\n\n          -  Hemodynamic insufficiency defined as (at least one of the following):\n\n               -  Sustained systemic hypotension (systolic arterial pressure \u2264 90 mmHg or MAP < 65\n                  mmHg) or a      decrease in MAP of > 30 mm Hg in a hypertensive patient.\n\n               -  Need of vasopressors.\n\n               -  Tachycardia (HR > 110 bpm) or bradycardia (HR < 55 bpm)\n\n               -  Acute onset of oliguria, defined as a decreased urine output  < 0.5 ml/kg/hr for\n                  \u2265 2 hours\n\n               -  Serum lactate > 2 mmol/l\n\n               -  Peripheral cyanosis, mottled skin, prolonged capillary refill\n\n          -  Mechanical ventilation without any kind of inspiratory effort and  Vt 7-10 mL/Kg,\n             Pplateau < 30 mmH2O. Those patients with ARDS under mechanical ventilation will need\n             to tolerate a tidal volume of at least 7 mL/Kg during 30 seconds while the plateau\n             pressure remains < 30 mmH2O.\n\n          -  Prior hemodynamic monitoring by arterial catheter.\n\n          -  Central venous catheter.\n\n        Exclusion Criteria:\n\n          -  Acute myocardial infarction < 7 days.\n\n          -  Pregnancy\n\n          -  Prior request of limited code status or expected life length lower than 3 months.\n\n          -  Shock > 12h\n\n          -  Cardiac arrhythmia\n\n          -  Aortic valvular disease\n\n          -  Inability to properly measure arterial pressure wave forms"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "952", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 29, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01747057", 
+            "org_study_id": "MORESS"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Dynamic guide resuscitation", 
+                "description": "\u25cf In preload-responsive patients defined by the following dynamic parameters: Patients fully adapted to mechanical ventilation* and with sinus rhythm.\nPPV >12%. PPV: Pulse pressure variation PPV = (PPmax-PPmin)/ [(PPmax+PPmin)/2] x100 (during 5 respiratory cycles)\nSVV > 12% (15). SVV: Stroke volume variation\nA tidal volume (Vt) \u2265 7-10cc/kg in mechanically ventilated (in a controlled mode - control volume or control pressure) and well-adapted patients without any inspiratory effort should be guaranteed.\nFluid loading must be performed with crystalloids (1omL/Kg) or colloids (5ml/Kg) every 30 minutes until PPV-SVV < 12%, while hypoperfusion signs are present. Continue resuscitation following Surviving Sepsis Campaign rules excluding more fluid administration (as described in the standard intervention once CVP>12).\n\u25cf Non-preload responsive patients (defined as PPV or SVV < 12%) will resume the same protocol as responders when fluid response parameters are negative.", 
+                "intervention_name": "Dynamic-parameters-guided fluid management", 
+                "intervention_type": "Behavioral"
+            }, 
+            {
+                "arm_group_label": "Standard resuscitation", 
+                "description": "Fluid loading in patients with hypotension or elevated lactates until normalization of MAP (> 65mmHg) or CVP > 12mmHg. If CVP reaches > 12 mmHg and MAP remains < 65mmHg, norepinephrine should be started to reach MAP > 65mmHg. Once MAP is restored, if hypoperfusion signs persist (elevated lactate or urine output < 0.5mL/Kg/h), ScvO2/SvO2 must be measured. In order to reach a ScvO2 \u226570% or SVO2 \u226565%, consider giving blood transfusion if hemoglobin level (Hb) \u2264 7g/dL, and also consider dobutamine (initial dose 2,5 \u00b5g/kg/min, increased by 2,5 \u00b5g/kg/min every 30 min up to a maximum dose of 20 \u00b5g/kg/min, presence of arrhythmia, or FC>110bpm). At that point, if hypoperfusion signs remain present, consider restart protocol from the beginning.", 
+                "intervention_name": "Standard-guided-fluid management", 
+                "intervention_type": "Behavioral"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "February 12, 2014", 
+        "link": {
+            "description": "Spanish webpage of the study", 
+            "url": "http://www.edusepsis.org/proyectos_fic.php?id_pro=10"
+        }, 
+        "location": {
+            "contact": {
+                "email": "ggoma@tauli.cat", 
+                "last_name": "Gemma Goma, RN", 
+                "phone": "937231010", 
+                "phone_ext": "21179"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Sabadell", 
+                    "country": "Spain", 
+                    "state": "Barcelona", 
+                    "zip": "08208"
+                }, 
+                "name": "Area de Critics. Hospital de Sabadell"
+            }, 
+            "investigator": [
+                {
+                    "last_name": "Xaime Garcia, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                {
+                    "last_name": "Guillem Gruartmoner, MD", 
+                    "role": "Sub-Investigator"
+                }
+            ], 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "Spain"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Monitoring Resuscitation in Severe Sepsis and Septic Shock", 
+        "overall_contact": {
+            "email": "xgarcia@tauli.cat", 
+            "last_name": "Xaime Garcia, MD", 
+            "phone": "+34937231010", 
+            "phone_ext": "21156"
+        }, 
+        "overall_contact_backup": {
+            "email": "ggilis@tauli.cat", 
+            "last_name": "Gisela Gili, RN", 
+            "phone": "+34937231010", 
+            "phone_ext": "21159"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "Spain: Ethics Committee", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "February 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "Mortality at 28 days", 
+            "safety_issue": "No", 
+            "time_frame": "28 days after hospital admission"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01747057"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Corporacion Parc Tauli", 
+            "investigator_full_name": "Antonio Artigas Ravent\u00f3s", 
+            "investigator_title": "Director of Critical Care Area", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Vasopressor use and fluid load between 0h to 6h\nVasopressor use and fluid load between 7h to 72h", 
+                "measure": "Length of resuscitation", 
+                "safety_issue": "No", 
+                "time_frame": "72 hours after protocol inclusion"
+            }, 
+            {
+                "description": "From 1 to 28 days over 28 days in a month.", 
+                "measure": "Ventilator-free days", 
+                "safety_issue": "No", 
+                "time_frame": "28 days after admission"
+            }, 
+            {
+                "description": "From 1 to 28 days over 28 days in a month.", 
+                "measure": "Vasopressor-free days", 
+                "safety_issue": "No", 
+                "time_frame": "28 days after admission"
+            }, 
+            {
+                "description": "Cardiovascular, CNS, renal, hepatic, coagulation abnormalities. From 1 to 28 days over 28 days in a month.", 
+                "measure": "Organ failure-free days", 
+                "safety_issue": "No", 
+                "time_frame": "28 days after admission"
+            }, 
+            {
+                "measure": "ICU length of stay", 
+                "safety_issue": "No", 
+                "time_frame": "At ICU discharge (expected average 30 days after admission)"
+            }, 
+            {
+                "measure": "Hospital length of stay", 
+                "safety_issue": "No", 
+                "time_frame": "At hospital discharge (expected average 45 days after hospital admission)"
+            }, 
+            {
+                "description": "Creatinin clearance will be calculated every day for the first 3 days (Cockroft-Gault formula).", 
+                "measure": "Renal function evolution", 
+                "safety_issue": "No", 
+                "time_frame": "3 days after study enrollment"
+            }, 
+            {
+                "measure": "Mortality at 3 months", 
+                "safety_issue": "No", 
+                "time_frame": "3 months after admission"
+            }
+        ], 
+        "source": "Corporacion Parc Tauli", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Corporacion Parc Tauli", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "March 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "February 2014"
+    }
+}

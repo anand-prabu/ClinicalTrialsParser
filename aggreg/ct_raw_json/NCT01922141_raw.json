@@ -1,0 +1,914 @@
+{
+    "clinical_study": {
+        "@rank": "70517", 
+        "acronym": "ASSESS", 
+        "arm_group": [
+            {
+                "arm_group_label": "Aliskiren monotherapy", 
+                "arm_group_type": "Experimental", 
+                "description": "Aliskiren 150 mg, once a day, force titrated to Aliskiren 300 mg after 8 weeks in 50% of patients. Optional addition/titration of amlodipine 5 mg/10 mg and hydrochlorothiazide 12.5/25 mg based on systolic BP control in sequential steps"
+            }, 
+            {
+                "arm_group_label": "Aliskiren dual therapy", 
+                "arm_group_type": "Experimental", 
+                "description": "Aliskiren 150 mg plus amlodipine 5 mg, once a day, force titrated to Aliskiren 300 mg plus amlodipine 5 mg after 8 weeks in 50% of patients. Optional titration of amlodipine 5 mg to 10 mg and optional addition/titration of hydrochlorothiazide 12.5/25 mg based on systolic BP control in sequential steps"
+            }, 
+            {
+                "arm_group_label": "Ramipril monotherapy", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Ramipril 5 mg, once a day, force titrated to Ramipril 10 mg after 8 weeks in 50% of patients. Optional addition/titration of amlodipine 5 mg/10 mg and hydrochlorothiazide 12.5/25 mg based on systolic BP control in sequential steps"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This study is designed to compare the blood pressure lowering efficacy of aliskiren, a\n      combination of aliskiren plus amlodipine, and ramipril in elderly patients with mild to\n      moderate hypertension. It will also compare the long-term safety of an aliskiren-based\n      regimen to a ramipril-based regimen"
+        }, 
+        "brief_title": "Aliskiren Study of Safety and Efficacy in Senior Hypertensives", 
+        "completion_date": {
+            "#text": "May 2017", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Hypertension", 
+        "condition_browse": {
+            "mesh_term": "Hypertension"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients \u2265 65 years of age with a clinical diagnosis of essential hypertension at\n             Visit 1.\n\n          -  Mean sitting SBP (MSSBP) \u2265 140 mmHg and < 180 mmHg at Visit 2/Visit 201 and Visit 3.\n\n          -  Absolute MSSBP difference \u2264 20 mmHg between Visit 3 and the Visit immediately prior\n\n        Exclusion Criteria:\n\n          -  History of hypersensitivity to any of the study drugs or to drugs of similar chemical\n             classes.\n\n          -  Severe hypertension (MSSBP \u2265 180 mmHg or MSDBP \u2265 110 mmHg) at Visit 1, Visit 2, Visit\n             201 or Visit 3 or during patient self measured blood pressure (SMBP) monitoring in\n             the pre-randomization period confirmed by office measurement.\n\n          -  Current treatment with any blocker of the renin angiotensin aldosterone system (RAAS)\n             (aliskiren, ACE inhibitor, angiotensin receptor blocker or an aldosterone antagonist)\n             and unable to discontinue this therapy.\n\n          -  Concurrent use of any anti-hypertensive medications except a stable dose of 3 months\n             prior to Visit 1 of alpha adrenergic blockers for benign prostatic hypertrophy (e.g.,\n             tamsulosin [Flomax\u00ae] for benign prostatic hypertrophy), beta blockers for angina, or\n             beta blocker ophthalmic preparations.\n\n          -  Contraindications to aliskiren, ramipril, amlodipine, or hydrochlorothiazide. Other\n             protocol defined inclusion/exclusion criteria apply"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "65 Years"
+        }, 
+        "enrollment": {
+            "#text": "1395", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "August 12, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01922141", 
+            "org_study_id": "CSPP100A2370", 
+            "secondary_id": "2013-001562-42"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Aliskiren monotherapy", 
+                    "Aliskiren dual therapy"
+                ], 
+                "description": "Aliskiren 150 mg and aliskiren 300 mg tablets will be supplied centrally. These will be blinded with matching placebos for the 2 dose strengths.", 
+                "intervention_name": "Aliskiren", 
+                "intervention_type": "Drug", 
+                "other_name": "Rasilez, Tekturna"
+            }, 
+            {
+                "arm_group_label": [
+                    "Aliskiren monotherapy", 
+                    "Aliskiren dual therapy", 
+                    "Ramipril monotherapy"
+                ], 
+                "description": "Amlodipine 5 mg/10 mg will also be blinded and supplied centrally. For Aliskiren dual therapy arm , Amlodipine is in the regimen; where as for monotherapy arms, Amlodipine is an optional add-on therapy.", 
+                "intervention_name": "Amlodipine", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Ramipril monotherapy", 
+                "description": "Ramipril 5 mg and ramipril 10 mg capsules will be supplied centrally. These will be blinded with matching placebos for the 2 dose strengths.", 
+                "intervention_name": "Ramipril", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "Aliskiren monotherapy", 
+                    "Aliskiren dual therapy", 
+                    "Ramipril monotherapy"
+                ], 
+                "description": "Hydrochlorothiazide 12.5 mg/25 mg will be open label and supplied locally. It is an optional add-on to each arm.", 
+                "intervention_name": "Hydrochlorothiazide", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Hydrochlorothiazide", 
+                "Amlodipine", 
+                "Ramipril"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": "High blood pressure, stage 1 and 2 hypertension", 
+        "lastchanged_date": "November 18, 2013", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chandler", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85249"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Glendale", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85308"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Greenbrae", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94904"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Diego", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92120"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Santa Rosa", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "95405"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Spring Valley", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "91978-1522"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Temecula", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92591"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Denver", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80206"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hollywood", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33021"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pembroke Pines", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33024"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tampa", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33624"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "O'Fallon", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "62269"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Opelousas", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "70570"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Belzoni", 
+                        "country": "United States", 
+                        "state": "Mississippi", 
+                        "zip": "39038"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jackson", 
+                        "country": "United States", 
+                        "state": "Mississippi", 
+                        "zip": "39209"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St. Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63141"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St. Peters", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63376"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Binghamton", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "13901"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Shelby", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "28152"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cincinnati", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45246"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cincinnati", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45224"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charleston", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29412"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Columbia", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29204"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Simpsonville", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29681"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Varnville", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29944"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Irving", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75039"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Plano", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75093"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Antonio", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78238-7676"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Antonio", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78229"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charlottesville", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "22911"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Midlothian", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23114"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bad Woerishofen", 
+                        "country": "Germany", 
+                        "zip": "86825"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bamberg", 
+                        "country": "Germany", 
+                        "zip": "96049"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bensheim", 
+                        "country": "Germany", 
+                        "zip": "64625"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chemnitz", 
+                        "country": "Germany", 
+                        "zip": "09130"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dresden", 
+                        "country": "Germany", 
+                        "zip": "01307"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Essen", 
+                        "country": "Germany", 
+                        "zip": "45138"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Gauting", 
+                        "country": "Germany", 
+                        "zip": "82131"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hamburg", 
+                        "country": "Germany", 
+                        "zip": "22335"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Heilbronn", 
+                        "country": "Germany", 
+                        "zip": "74072"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jena", 
+                        "country": "Germany", 
+                        "zip": "07743"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kassel", 
+                        "country": "Germany", 
+                        "zip": "34117"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Loehne", 
+                        "country": "Germany", 
+                        "zip": "32584"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Meissen", 
+                        "country": "Germany", 
+                        "zip": "01662"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nuernberg", 
+                        "country": "Germany", 
+                        "zip": "90471"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Schwabenheim", 
+                        "country": "Germany", 
+                        "zip": "55270"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jerez de La Frontera", 
+                        "country": "Spain", 
+                        "state": "Andalucia", 
+                        "zip": "11407"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sanl\u00facar de Barrameda", 
+                        "country": "Spain", 
+                        "state": "Andalucia", 
+                        "zip": "11540"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sevilla", 
+                        "country": "Spain", 
+                        "state": "Andalucia", 
+                        "zip": "41009"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Barcelona", 
+                        "country": "Spain", 
+                        "state": "Catalu\u00f1a", 
+                        "zip": "08905"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Centelles", 
+                        "country": "Spain", 
+                        "state": "Catalu\u00f1a", 
+                        "zip": "08540"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hostalets de Balenya", 
+                        "country": "Spain", 
+                        "state": "Catalu\u00f1a", 
+                        "zip": "08550"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tarragona", 
+                        "country": "Spain", 
+                        "state": "Catalu\u00f1a", 
+                        "zip": "43350"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Vic", 
+                        "country": "Spain", 
+                        "state": "Catalu\u00f1a", 
+                        "zip": "08500"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Alzira", 
+                        "country": "Spain", 
+                        "state": "Comunidad Valenciana", 
+                        "zip": "46600"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Quart de Poblet", 
+                        "country": "Spain", 
+                        "state": "Comunidad Valenciana", 
+                        "zip": "46930"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Santiago de Compostela", 
+                        "country": "Spain", 
+                        "state": "Galicia", 
+                        "zip": "15706"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ciudad Real", 
+                        "country": "Spain", 
+                        "state": "Madrid", 
+                        "zip": "13005"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Barcelona", 
+                        "country": "Spain"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Madrid", 
+                        "country": "Spain", 
+                        "zip": "28041"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Madrid", 
+                        "country": "Spain", 
+                        "zip": "28046"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Germany", 
+                "Spain"
+            ]
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "A Randomized, Double-blind, Parallel Group, Active-controlled Study to Compare the Systolic Blood Pressure Lowering Efficacy of Aliskiren, Ramipril and a Combination of Aliskiren and Amlodipine, With an Initial 8-week Evaluation, Followed by a 2-3 Year Follow-up to Compare Long-term Safety of an Aliskiren-based Regimen to a Ramipril-based Regimen in Hypertensive Patients \u2265 65 Years of Age", 
+        "overall_contact": {
+            "last_name": "Novartis Pharmaceuticals", 
+            "phone": "1-888-669-6682"
+        }, 
+        "overall_contact_backup": {
+            "last_name": "Novartis Pharmaceuticals", 
+            "phone_ext": "+41613241111"
+        }, 
+        "overall_official": {
+            "affiliation": "Novartis Pharmaceuticals", 
+            "last_name": "Novartis Pharmaceuticals", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Not yet recruiting", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 4", 
+        "primary_completion_date": {
+            "#text": "May 2017", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "The change from baseline to week 8 in mean sitting systolic blood pressure will be analyzed for aliskiren monotherapy, dual therapy of aliskiren and amlodipine and ramipril monotherapy using ANCOVA model in which treatment arm, region and age (less than 75 and greater than or equal to 75 years) will be included as factors", 
+            "measure": "Change from baseline in mean sitting systolic blood pressure (MSSBP) to week 8", 
+            "safety_issue": "No", 
+            "time_frame": "Baseline, Week 8"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01922141"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Safety and tolerability of study treatments will be analyzed by comparing the frequency of serious adverse events and adverse events at the time frames", 
+                "measure": "Number of patients with serious adverse events and adverse events", 
+                "safety_issue": "Yes", 
+                "time_frame": "Baseline, Week 8, average 2.5 years"
+            }, 
+            {
+                "description": "The incidence of hyperkalemia, hypotension and reduction of eGFR will be compared between aliskiren monotherapy, aliskiren dual therapy with amlodipine and ramipril monotherapy", 
+                "measure": "Number of patients with hyperkalemia, hypotension and reduction of estimated glomerular filtration rate (eGFR)", 
+                "safety_issue": "Yes", 
+                "time_frame": "Baseline, Week 8"
+            }, 
+            {
+                "description": "Change in mean sitting systolic blood pressure will be analyzed for the aliskiren-based regimen vs. the ramipril based regimen", 
+                "measure": "Change from baseline in mean sitting systolic blood pressure (MSSBP) at the end of double blind period", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline, end of double blind period (in average 2.5 years)"
+            }, 
+            {
+                "description": "Percentage of patients achieving blood pressure control, defined as mean sitting systolic BP below 140 mmHg and mean sitting diastolic BP below 90 mmHg, will be analyzed for the study treatments", 
+                "measure": "Percentage of patients achieving blood pressure control", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline, Week 8, average 2.5 years"
+            }, 
+            {
+                "description": "Percentage of patients with major cardiovascular events (defined as composite of cardiovascular death, resuscitated cardiac death, non-fatal stroke, non-fatal myocardial infarction, heart failure hospitalization and atrial fibrillation) will be analyzed for the aliskiren-based regimen and the ramipril-based regimen", 
+                "measure": "Percentage of patients with major cardiovascular events", 
+                "safety_issue": "No", 
+                "time_frame": "Average 2.5 years"
+            }, 
+            {
+                "description": "The frequency of gastrointestinal tract cancer (malignant neoplasms of mouth, esophagus, stomach, small intestine, appendix, anus, gastrointestinal stroma, colon and rectum, excluding pancreatic, biliary tract and liver cancers) will be analyzed for the aliskiren-based regimen and the ramipril-based regimen", 
+                "measure": "Number of patients with gastrointestinal tract cancer", 
+                "safety_issue": "No", 
+                "time_frame": "Average 2.5 years"
+            }
+        ], 
+        "source": "Novartis", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Novartis Pharmaceuticals", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "May 2014", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "November 2013"
+    }
+}

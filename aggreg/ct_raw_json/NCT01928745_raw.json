@@ -1,0 +1,140 @@
+{
+    "clinical_study": {
+        "@rank": "77254", 
+        "arm_group": [
+            {
+                "arm_group_label": "CABG patients", 
+                "description": "15 patient who underwent a CABG will be submitted in this study"
+            }, 
+            {
+                "arm_group_label": "Sepsis patients", 
+                "description": "15 patients with a severe sepsis will be admitted in this study"
+            }
+        ], 
+        "biospec_descr": {
+            "textblock": "24 mL of blood will be drawn"
+        }, 
+        "biospec_retention": "Samples With DNA", 
+        "brief_summary": {
+            "textblock": "To diagnose acid base disturbances using blood gas analysis, multiple approaches are\n      currently in use.  These include the classic Henderson-Hasselbach bicarbonate approach and\n      the physiochemical approach by Stewart1. All have shown to be mathematically compatible2.\n\n      Diagnosing the metabolic component of acid base disturbances relies on the assessment of the\n      so called ion gaps: the anion gap for the classic acid-base approach and the strong ion\n      difference (SID) for the Stewart approach. This gap may unveil unidentified anions to\n      provide a more accurate diagnosis. In particular they allow differentiating between relative\n      hyperchloremia and other strong ions such as lactate, ketones, salicylates, citrate and\n      ethylene glycol3.\n\n      The accuracy of both gaps relies on the estimation of the weak acid dissociation: A-. This\n      A- is dependent on the total concentration of weak acids (Atot) of which albumin is the most\n      important and the effective dissociation constant for these (Ka), which determines the\n      dissociated fraction of the Atot. This dissociation fraction needs to be accounted for in\n      the ion gaps. This is reflected in the recommendation to correct the anion gap for albumin\n      and incorporated in the SID which includes a factor for albumin by design3,4. However, the\n      correction factor for albumin is currently based on data from animals and healthy\n      volunteers4-9. In the critically ill albumin and protein content are very different compared\n      to healthy volunteers, most notably in sepsis. Further, it is unknown if subunit composition\n      of albumin is different in these patients. In addition, different protein species may be\n      either up or downregulated in the critically ill1,8,9.Therefore from a pathophysiological\n      point of view Atot and Ka and thus A- may differ in the critically ill. However it has not\n      been previously investigated if and to what extent these matters affect Atot and Ka and\n      therefore A- in this population.\n\n      In addition, previous studies looking into this values showed a higher than expected value\n      of unmeasured anions from the gap calculations. Despite rigorous experimental effort\n      including high performance liquid chromatography, the origin of these unmeasured anions have\n      not yet been elucidated17-20. However if the assumptions made in the Stewarts approach would\n      not be valid, the existence of these unknown anions may have to be questioned.\n\n      Thus it is of great interest to experimentally determine the exact contribution of the weak\n      acids and their dissociation in sepsis. This could have major implications for these\n      patients because different assumptions will ultimately lead to alterations in their\n      calculated anion gap or SID. This may reduce unnecessary diagnostic test, alter final\n      diagnosis and hence alter therapy.\n\n      In this study the investigators aim to experimentally determine the Atot and Ka and thus\n      their dissociated fraction A- in critically ill septic patients admitted to the intensive\n      care unit by using in vitro CO2 tonometry, plasma dialysis and Marquardt regression\n      analysis. In addition, as a control the investigators will do the same for patients admitted\n      to the intensive care after routine cardiac surgery. Furthermore Atot and Ka values for both\n      groups will be compared to values obtained from human volunteers in a previous study4.\n\n      To achieve this, the investigators will plot CO2 versus pH titration curves from plasma\n      samples of these patients. The investigators will then use Marquardt nonlinear regression\n      analysis to quantify Atot and Ka and the SID by simultaneously solving for these\n      parameters21. To make the quantification for Atot and Ka more robust, the investigators will\n      also perform the same experiments after dialyzing the obtained plasma samples against a\n      crystalloid solution of known composition in order to eliminate errors related to estimation\n      of the SID. Finally, Atot and Ka values for both groups will be compared to values obtained\n      from human volunteers in a previous study4. For application in the bicarbonate and base\n      excess centred frameworks, Atot and Ka values will be related to albumin and protein content\n      to update the correction factor for the anion gap in critically ill."
+        }, 
+        "brief_title": "Experimental Determination of Atot en Ka in the Critically Ill", 
+        "completion_date": {
+            "#text": "May 2014", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Sepsis", 
+            "CABG"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Critical Illness", 
+                "Sepsis"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria septic patients:\n\n          -  >18 years of age\n\n          -  severe septic shock according to SIRS criteria\n\n          -  SOFA score > 9\n\n          -  not pregnant\n\n        Exclusion Criteria septic patients:\n\n          -  parenteral nutrition\n\n        Inclusion criteria cardiac surgery patients\n\n          -  Elective Coronary arterial bypass graft (CABG), Aortic valve replacement (AVR) or\n             combined CABG/AVR\n\n          -  Not pregnant\n\n          -  Admission from home\n\n          -  Euroscore < 7"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years", 
+            "sampling_method": "Probability Sample", 
+            "study_pop": {
+                "textblock": "Patients admitted to the Intensive Care unit of the VU University medical center"
+            }
+        }, 
+        "enrollment": {
+            "#text": "30", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "August 15, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01928745", 
+            "org_study_id": "AcidBasics001"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Stewart approach", 
+            "sepsis", 
+            "SIRS", 
+            "cardiothoracic surgery", 
+            "CABG"
+        ], 
+        "lastchanged_date": "May 19, 2014", 
+        "link": {
+            "description": "website related to acid base following the stewart approach", 
+            "url": "http://acidbase.org"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Amsterdam", 
+                    "country": "Netherlands", 
+                    "state": "Boelelaan 1117", 
+                    "zip": "1081HZ"
+                }, 
+                "name": "VU University medical Center"
+            }
+        }, 
+        "location_countries": {
+            "country": "Netherlands"
+        }, 
+        "number_of_groups": "2", 
+        "official_title": "Experimental Determination of Atot en Ka in the Critically Ill", 
+        "overall_official": {
+            "affiliation": "VU University Medical Center", 
+            "last_name": "P WG Elbers, MD, PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Netherlands: Medical Ethics Review Committee (METC)", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "May 2014", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "The Atot in healthy volunteers was previously investigated. The Atot in critically ill patients might differ from this. Therefore the investigators are interested in the absolute amount of weak acids in critically ill patients.", 
+                "measure": "The absolute amount of weak acids in plasma (Atot) in critically ill patients", 
+                "safety_issue": "No", 
+                "time_frame": "within 24 hours after admission"
+            }, 
+            {
+                "description": "The A- in healthy volunteers was previously investigated. The A- in critically ill patients might differ from this. Therefore the investigators are interested in the weak acid dissociation constant in critically ill patients.", 
+                "measure": "The weak acid dissociation constant (A-) in critically ill patients.", 
+                "safety_issue": "No", 
+                "time_frame": "within 24 hours after admission"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01928745"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "VU University Medical Center", 
+            "investigator_full_name": "victor van bochove", 
+            "investigator_title": "resident intensive care, not in training", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "source": "VU University Medical Center", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "VU University Medical Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "September 2013", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "May 2014"
+    }
+}

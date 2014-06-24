@@ -1,0 +1,3091 @@
+{
+    "clinical_study": {
+        "@rank": "73868", 
+        "arm_group": [
+            {
+                "arm_group_label": "Test nicotine gum (2 mg)", 
+                "arm_group_type": "Experimental", 
+                "description": "A single dose of Nicotine Mint Gum (2 mg) to be chewed."
+            }, 
+            {
+                "arm_group_label": "Test nicotine gum (4 mg)", 
+                "arm_group_type": "Experimental", 
+                "description": "A single dose of Nicotine Mint Gum (4 mg) to be chewed."
+            }, 
+            {
+                "arm_group_label": "Reference nicotine gum (2 mg)", 
+                "arm_group_type": "Active Comparator", 
+                "description": "A single dose of reference nicotine gum (2 mg) to be chewed."
+            }, 
+            {
+                "arm_group_label": "Reference nicotine gum (4 mg)", 
+                "arm_group_type": "Active Comparator", 
+                "description": "A single dose of reference nicotine gum (4 mg) to be chewed."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The primary objective of this study is to compare pharmacokinetic (PK) profiles and assess\n      the bioequivalence between the newly developed nicotine gums (2 mg and 4 mg) and the\n      reference nicotine gums (2 mg and 4 mg) in healthy smokers."
+        }, 
+        "brief_title": "Comparison of Pharmacokinetic Profiles of Two Nicotine Gum Formulations", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "B1", 
+                        "title": "Total Participants"
+                    }
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "84"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@spread": "6.4", 
+                                            "@value": "26.8"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "Years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "40"
+                                            }
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "44"
+                                            }
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "Participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "GSK agreements may vary with individual investigators, but will not prohibit any investigator from publishing. GSK supports the publication of results from all centers of a multi-center trial but requests that reports based on single-site data not precede the primary publication of the entire clinical trial."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "1.070", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "90", 
+                                "ci_upper_limit": "1.147", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Null hypothesis stated that there was no difference between the test and reference gums in AUC(0-t)", 
+                                "non_inferiority": "Yes", 
+                                "non_inferiority_desc": "Bioequivalence was to be established between the test and reference treatment if the 90% CI of ratio of geometric means (Test/Reference) was included within the bioequivalence limits of (0.80, 1.25)", 
+                                "param_type": "Ratio of Geometric means", 
+                                "param_value": "1.107"
+                            }
+                        }, 
+                        "description": "AUC(0-t)  for 2 mg test was compared with 2 mg reference gum", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "A single dose of Nicotine Mint Gum (2 mg) to be chewed.", 
+                                    "title": "Test Nicotine Gum (2 mg)"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "A single dose of Reference Nicotine Gum (2 mg) to be chewed.", 
+                                    "title": "Reference Nicotine Gum (2 mg)"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "62"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "62"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "4.224", 
+                                                        "@value": "11.49"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "3.768", 
+                                                        "@value": "10.24"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "AUC(0-t)  for 2 mg test was compared with 2 mg reference gum", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Area Under the Curve From Time 0 to Time 't' [AUC(0-t)] of Nicotine 2 mg Test and Reference Product", 
+                                    "units": "hr*ng/mL"
+                                }
+                            ]
+                        }, 
+                        "population": "Bioequivalence evaluable subjects' population: participants randomized to 1 of 4 treatment sequences; took atleast one dose of study medication (both test and reference) in 2 mg dose and/or in 4 mg doses; did not have any adverse event assimilated to vomiting in first 4 h post-treatment; and did not have baseline nicotine concentration >5% of Cmax.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Blood samples to be collected from baseline to 12 hours post dose", 
+                        "title": "Area Under the Curve From Time 0 to Time 't' [AUC(0-t)] of Nicotine 2 mg Test and Reference Product", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "Tmax for 2 mg test was compared with 2 mg reference gum, and 4 mg test was compared with 4 mg reference gum", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "A single dose of Nicotine Mint Gum (2 mg) to be chewed.", 
+                                    "title": "Test Nicotine Gum (2 mg)"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "A single dose of Reference Nicotine Gum (2 mg) to be chewed.", 
+                                    "title": "Reference Nicotine Gum (2 mg)"
+                                }, 
+                                {
+                                    "@group_id": "O3", 
+                                    "description": "A single dose of Nicotine Mint Gum (4 mg) to be chewed.", 
+                                    "title": "Test Nicotine Gum (4 mg)"
+                                }, 
+                                {
+                                    "@group_id": "O4", 
+                                    "description": "A single dose of Reference Nicotine Gum (4 mg) to be chewed.", 
+                                    "title": "Reference Nicotine Gum (4 mg)"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "62"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "62"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@value": "73"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O4", 
+                                                        "@value": "73"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "0.5", 
+                                                        "@upper_limit": "1.0", 
+                                                        "@value": "0.75"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "0.5", 
+                                                        "@upper_limit": "1.5", 
+                                                        "@value": "0.75"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@lower_limit": "0.5", 
+                                                        "@upper_limit": "1.5", 
+                                                        "@value": "0.75"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O4", 
+                                                        "@lower_limit": "0.2", 
+                                                        "@upper_limit": "2.0", 
+                                                        "@value": "0.75"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Tmax for 2 mg test was compared with 2 mg reference gum, and 4 mg test was compared with 4 mg reference gum", 
+                                    "dispersion": "Full Range", 
+                                    "param": "Median", 
+                                    "title": "Time to Maximum Observed Concentration (Tmax) of Nicotine 2 mg Test and Reference Products, and Nicotine 4 mg Test and Reference Products", 
+                                    "units": "hr"
+                                }
+                            ]
+                        }, 
+                        "population": "Bioequivalence evaluable subjects' population: participants randomized to 1 of 4 treatment sequences; took atleast one dose of study medication (both test and reference) in 2 mg dose and/or in 4 mg doses; did not have any adverse event assimilated to vomiting in first 4 h post-treatment; and did not have baseline nicotine concentration >5% of Cmax.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Blood samples to be collected from baseline to 12 hours post dose", 
+                        "title": "Time to Maximum Observed Concentration (Tmax) of Nicotine 2 mg Test and Reference Products, and Nicotine 4 mg Test and Reference Products", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "T1/2 of 2 mg test was compared with 2 mg reference gum, and 4 mg test was compared with 4 mg reference gum", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "A single dose of Nicotine Mint Gum (2 mg) to be chewed.", 
+                                    "title": "Test Nicotine Gum (2 mg)"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "A single dose of Reference Nicotine Gum (2 mg) to be chewed.", 
+                                    "title": "Reference Nicotine Gum (2 mg)"
+                                }, 
+                                {
+                                    "@group_id": "O3", 
+                                    "description": "A single dose of Nicotine Mint Gum (4 mg) to be chewed.", 
+                                    "title": "Test Nicotine Gum (4 mg)"
+                                }, 
+                                {
+                                    "@group_id": "O4", 
+                                    "description": "A single dose of Reference Nicotine Gum (4 mg) to be chewed.", 
+                                    "title": "Reference Nicotine Gum (4 mg)"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "62"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "62"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@value": "73"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O4", 
+                                                        "@value": "73"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "1.4", 
+                                                        "@upper_limit": "3.4", 
+                                                        "@value": "2.12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "1.2", 
+                                                        "@upper_limit": "4.2", 
+                                                        "@value": "2.03"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@lower_limit": "1.3", 
+                                                        "@upper_limit": "4.1", 
+                                                        "@value": "2.01"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O4", 
+                                                        "@lower_limit": "1.3", 
+                                                        "@upper_limit": "3.4", 
+                                                        "@value": "2.02"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "T1/2 of 2 mg test was compared with 2 mg reference gum, and 4 mg test was compared with 4 mg reference gum", 
+                                    "dispersion": "Full Range", 
+                                    "param": "Median", 
+                                    "title": "Apparent Terminal Elimination Half-life (T1/2) of Nicotine 2 mg Test and Reference Products, and Nicotine 4 mg Test and Reference Products", 
+                                    "units": "hr"
+                                }
+                            ]
+                        }, 
+                        "population": "Bioequivalence evaluable subjects' population: participants randomized to 1 of 4 treatment sequences; took atleast one dose of study medication (both test and reference) in 2 mg dose and/or in 4 mg doses; did not have any adverse event assimilated to vomiting in first 4 h post-treatment; and did not have baseline nicotine concentration >5% of Cmax.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Blood samples to be collected from baseline to 12 hours post dose", 
+                        "title": "Apparent Terminal Elimination Half-life (T1/2) of Nicotine 2 mg Test and Reference Products, and Nicotine 4 mg Test and Reference Products", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "Kel for 2 mg test was compared with 2 mg reference gum, and 4 mg test was compared with 4 mg reference gum", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "A single dose of Nicotine Mint Gum (2 mg) to be chewed.", 
+                                    "title": "Test Nicotine Gum (2 mg)"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "A single dose of Reference Nicotine Gum (2 mg) to be chewed.", 
+                                    "title": "Reference Nicotine Gum (2 mg)"
+                                }, 
+                                {
+                                    "@group_id": "O3", 
+                                    "description": "A single dose of Nicotine Mint Gum (4 mg) to be chewed.", 
+                                    "title": "Test Nicotine Gum (4 mg)"
+                                }, 
+                                {
+                                    "@group_id": "O4", 
+                                    "description": "A single dose of Reference Nicotine Gum (4 mg) to be chewed.", 
+                                    "title": "Reference Nicotine Gum (4 mg)"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "62"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "62"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@value": "73"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O4", 
+                                                        "@value": "73"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "0.2", 
+                                                        "@upper_limit": "0.5", 
+                                                        "@value": "0.33"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "0.2", 
+                                                        "@upper_limit": "0.6", 
+                                                        "@value": "0.34"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@lower_limit": "0.2", 
+                                                        "@upper_limit": "0.5", 
+                                                        "@value": "0.34"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O4", 
+                                                        "@lower_limit": "0.2", 
+                                                        "@upper_limit": "0.5", 
+                                                        "@value": "0.34"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Kel for 2 mg test was compared with 2 mg reference gum, and 4 mg test was compared with 4 mg reference gum", 
+                                    "dispersion": "Full Range", 
+                                    "param": "Median", 
+                                    "title": "Apparent Terminal Elimination Rate Constant (Kel) of Nicotine 2 mg Test and Reference Products, and Nicotine 4 mg Test and Reference Products", 
+                                    "units": "1/hr"
+                                }
+                            ]
+                        }, 
+                        "population": "Bioequivalence evaluable subjects' population: participants randomized to 1 of 4 treatment sequences; took atleast one dose of study medication (both test and reference) in 2 mg dose and/or in 4 mg doses; did not have any adverse event assimilated to vomiting in first 4 h post-treatment; and did not have baseline nicotine concentration >5% of Cmax.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Blood samples to be collected from baseline to 12 hours post dose", 
+                        "title": "Apparent Terminal Elimination Rate Constant (Kel) of Nicotine 2 mg Test and Reference Products, and Nicotine 4 mg Test and Reference Products", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "AUC(0-\u221e) for 2mg test was compared with 2 mg reference gum, and 4 mg test was compared with 4 mg reference gum", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "A single dose of Nicotine Mint Gum (2 mg) to be chewed.", 
+                                    "title": "Test Nicotine Gum (2 mg)"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "A single dose of Reference Nicotine Gum (2 mg) to be chewed.", 
+                                    "title": "Reference Nicotine Gum (2 mg)"
+                                }, 
+                                {
+                                    "@group_id": "O3", 
+                                    "description": "A single dose of Nicotine Mint Gum (4 mg) to be chewed.", 
+                                    "title": "Test Nicotine Gum (4 mg)"
+                                }, 
+                                {
+                                    "@group_id": "O4", 
+                                    "description": "A single dose of Reference Nicotine Gum (4 mg) to be chewed.", 
+                                    "title": "Reference Nicotine Gum (4 mg)"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "62"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "62"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@value": "73"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O4", 
+                                                        "@value": "73"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "4.409", 
+                                                        "@value": "12.56"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "3.955", 
+                                                        "@value": "11.20"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@spread": "7.845", 
+                                                        "@value": "24.60"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O4", 
+                                                        "@spread": "7.136", 
+                                                        "@value": "22.64"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "AUC(0-\u221e) for 2mg test was compared with 2 mg reference gum, and 4 mg test was compared with 4 mg reference gum", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Area Under Concentration-time Curve From Time 0 Extrapolated to \u221e [AUC(0-\u221e)] of Nicotine 2 mg Test and Reference Products, and Nicotine 4 mg Test and Reference Products", 
+                                    "units": "hr*ng/mL"
+                                }
+                            ]
+                        }, 
+                        "population": "Bioequivalence evaluable subjects' population: participants randomized to 1 of 4 treatment sequences; took atleast one dose of study medication (both test and reference) in 2 mg dose and/or in 4 mg doses; did not have any adverse event assimilated to vomiting in first 4 h post-treatment; and did not have baseline nicotine concentration >5% of Cmax.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Blood samples to be collected from baseline to 12 hours post dose", 
+                        "title": "Area Under Concentration-time Curve From Time 0 Extrapolated to \u221e [AUC(0-\u221e)] of Nicotine 2 mg Test and Reference Products, and Nicotine 4 mg Test and Reference Products", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "1.061", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "90", 
+                                "ci_upper_limit": "1.137", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Null hypothesis stated that there was no difference between the test and reference gums in AUC(0-t)", 
+                                "non_inferiority": "Yes", 
+                                "non_inferiority_desc": "Bioequivalence was to be established between the test and reference treatment if the 90% CI of ratio of geometric means (Test/Reference) was included within the bioequivalence limits of (0.80, 1.25)", 
+                                "param_type": "Ratio of Geometric means", 
+                                "param_value": "1.098"
+                            }
+                        }, 
+                        "description": "AUC(0-t) of Nicotine 4 mg test was compared with 4 mg reference gum", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "A single dose of Nicotine Mint Gum (4 mg) to be chewed.", 
+                                    "title": "Test Nicotine Gum (4 mg)"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "A single dose of Reference Nicotine Gum (4 mg) to be chewed.", 
+                                    "title": "Reference Nicotine Gum (4 mg)"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "73"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "73"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "7.593", 
+                                                        "@value": "23.44"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "6.874", 
+                                                        "@value": "21.50"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "AUC(0-t) of Nicotine 4 mg test was compared with 4 mg reference gum", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "AUC(0-t) of Nicotine 4 mg Test and Reference Product", 
+                                    "units": "hr*ng/mL"
+                                }
+                            ]
+                        }, 
+                        "population": "Bioequivalence evaluable subjects' population: participants randomized to 1of 4 treatment sequences; took atleast one dose of study medication (both test and ref) in 2 mg dose and/or in 4 mg doses; did not have any AE assimilated to vomiting in first 4h post-treatment; and did not have baseline nicotine concentration >5% of Cmax.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Blood samples to be collected from baseline to 12 hours post dose", 
+                        "title": "AUC(0-t) of Nicotine 4 mg Test and Reference Product", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "1.002", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "90", 
+                                "ci_upper_limit": "1.089", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Null hypothesis stated that there was no difference between the test and reference gums in Cmax", 
+                                "non_inferiority": "Yes", 
+                                "non_inferiority_desc": "Bioequivalence was to be established between the test and reference treatment if the 90% CI of ratio of geometric means (Test/Reference) was included within the bioequivalence limits of (0.80, 1.25)", 
+                                "param_type": "Ratio of Geometric means", 
+                                "param_value": "1.044"
+                            }
+                        }, 
+                        "description": "Cmax for 2 mg test was compared with 2 mg reference gum", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "A single dose of Nicotine Mint Gum (2 mg) to be chewed.", 
+                                    "title": "Test Nicotine Gum (2 mg)"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "A single dose of Reference Nicotine Gum (2 mg) to be chewed.", 
+                                    "title": "Reference Nicotine Gum (2 mg)"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "62"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "62"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "1.232", 
+                                                        "@value": "3.93"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "1.289", 
+                                                        "@value": "3.72"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Cmax for 2 mg test was compared with 2 mg reference gum", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Maximum Observed Concentration (Cmax) of Nicotine 2 mg Test and Reference Product", 
+                                    "units": "ng/mL"
+                                }
+                            ]
+                        }, 
+                        "population": "Bioequivalence evaluable subjects' population: participants randomized to 1 of 4 treatment sequences; took atleast one dose of study medication (both test and reference) in 2 mg dose and/or in 4 mg doses; did not have any adverse event assimilated to vomiting in first 4 h post-treatment; and did not have baseline nicotine concentration >5% of Cmax.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Blood samples to be collected from baseline to 12 hours post dose", 
+                        "title": "Maximum Observed Concentration (Cmax) of Nicotine 2 mg Test and Reference Product", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "1.028", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "90", 
+                                "ci_upper_limit": "1.116", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Null hypothesis stated that there was no difference between the test and reference gums in Cmax", 
+                                "non_inferiority": "Yes", 
+                                "non_inferiority_desc": "Bioequivalence was to be established between the test and reference treatment if the 90% CI of ratio of geometric means (Test/Reference) was included within the bioequivalence limits of (0.80, 1.25)", 
+                                "param_type": "Ratio of Geometric means", 
+                                "param_value": "1.071"
+                            }
+                        }, 
+                        "description": "Cmax for 4 mg test was compared with 4 mg reference gum", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "A single dose of Nicotine Mint Gum (4 mg) to be chewed.", 
+                                    "title": "Test Nicotine Gum (4 mg)"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "A single dose of Reference Nicotine Gum (4 mg) to be chewed.", 
+                                    "title": "Reference Nicotine Gum (4 mg)"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "73"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "73"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "1.720", 
+                                                        "@value": "7.49"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "1.777", 
+                                                        "@value": "6.98"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Cmax for 4 mg test was compared with 4 mg reference gum", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Cmax of Nicotine 4 mg Test and Reference Product", 
+                                    "units": "ng/mL"
+                                }
+                            ]
+                        }, 
+                        "population": "Bioequivalence evaluable subjects' population: participants randomized to 1 of 4 treatment sequences; took atleast one dose of study medication (both test and reference) in 2 mg dose and/or in 4 mg doses; did not have any adverse event assimilated to vomiting in first 4 h post-treatment; and did not have baseline nicotine concentration >5% of Cmax.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Blood samples to be collected from baseline to 12 hours post-dose", 
+                        "title": "Cmax of Nicotine 4 mg Test and Reference Product", 
+                        "type": "Primary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "Participants randomly received 2mg nicotine mint gum or 4mg reference (ref) nicotine gum or 4mg nicotine mint gum or 2mg ref nicotine gum once daily on Day 1 of treatment period 1. After a 2-7 day washout period, participants were returned to the next treatment period until all four treatment periods were completed.", 
+                            "title": "2mg Mint Gum/4mg Ref Gum/4mg Mint Gum/2mg Ref Gum"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "Participants randomly received 4mg ref nicotine gum or 2mg ref nicotine gum or 2mg nicotine mint gum or 4mg nicotine mint gum once daily on Day 1 of treatment period 1. After a 2-7 day washout period, participants were returned to the next treatment period until all four treatment periods were completed.", 
+                            "title": "4mg Ref Gum/2mg Ref Gum/2mg Mint Gum/4mg Mint Gum"
+                        }, 
+                        {
+                            "@group_id": "P3", 
+                            "description": "Participants randomly received 2mg ref nicotine gum or 4mg nicotine mint gum or 4mg ref nicotine gum or 2mg nicotine mint gum once daily on Day 1 of treatment period 1. After a 2-7 day washout period, participants were returned to the next treatment period until all four treatment periods were completed.", 
+                            "title": "2mg Ref Gum/4mg Mint Gum/4mg Ref Gum/2mg Mint Gum"
+                        }, 
+                        {
+                            "@group_id": "P4", 
+                            "description": "Participants randomly received 4mg nicotine mint gum or 2mg nicotine mint gum or 2mg ref nicotine gum or 4mg ref nicotine gum once daily on Day 1 of treatment period 1. After a 2-7 day washout period, participants were returned to the next treatment period until all four treatment periods were completed.", 
+                            "title": "4mg Mint Gum/2mg Mint Gum/2mg Ref Gum/4mg Ref Gum"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": [
+                        {
+                            "drop_withdraw_reason_list": {
+                                "drop_withdraw_reason": {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P2"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P3"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P4"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "Withdrawal by Subject"
+                                }
+                            }, 
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "21", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "21", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "21", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "21", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "21", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "20", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "21", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "21", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "1", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Study Period 1"
+                        }, 
+                        {
+                            "drop_withdraw_reason_list": {
+                                "drop_withdraw_reason": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "1", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "1", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "Adverse Event"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "1", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "Other reason"
+                                    }
+                                ]
+                            }, 
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "21", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "20", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "21", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "21", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "19", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "19", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "21", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "21", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "2", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "1", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Washout Period Before Study Period 2"
+                        }, 
+                        {
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "19", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "19", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "21", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "21", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "19", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "19", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "21", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "21", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Study Period 2"
+                        }, 
+                        {
+                            "drop_withdraw_reason_list": {
+                                "drop_withdraw_reason": {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P2"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P3"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P4"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "Other reason"
+                                }
+                            }, 
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "19", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "19", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "21", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "21", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "18", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "19", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "21", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "21", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "1", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Washout Period Before Study Period 3"
+                        }, 
+                        {
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "18", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "19", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "21", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "21", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "18", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "19", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "21", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "21", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Study Period 3"
+                        }, 
+                        {
+                            "drop_withdraw_reason_list": {
+                                "drop_withdraw_reason": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "1", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "Withdrawal by Subject"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "1", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "Positive alcohol test"
+                                    }
+                                ]
+                            }, 
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "18", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "19", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "21", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "21", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "16", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "19", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "21", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "21", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "2", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Washout Period Before Study Period 4"
+                        }, 
+                        {
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "16", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "19", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "21", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "21", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "16", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "19", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "21", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "21", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Study Period 4"
+                        }
+                    ]
+                }, 
+                "pre_assignment_details": "A total of 160 participants were screened for this study, of which 84 participants were randomized. Seventy seven participants completed the study.", 
+                "recruitment_details": "Potential participants were recruited at a single site in the UK."
+            }, 
+            "point_of_contact": {
+                "name_or_title": "GSK Response Center", 
+                "organization": "GlaxoSmithKline", 
+                "phone": "866-435-7343"
+            }, 
+            "reported_events": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "E1", 
+                            "description": "A single dose of Nicotine Mint Gum (2 mg) to be chewed.", 
+                            "title": "Test Nicotine Gum (2 mg)"
+                        }, 
+                        {
+                            "@group_id": "E2", 
+                            "description": "A single dose of Reference Nicotine Gum (2 mg) to be chewed.", 
+                            "title": "Reference Nicotine Gum (2 mg)"
+                        }, 
+                        {
+                            "@group_id": "E3", 
+                            "description": "A single dose of Nicotine Mint Gum (4 mg) to be chewed.", 
+                            "title": "Test Nicotine Gum (4 mg)"
+                        }, 
+                        {
+                            "@group_id": "E4", 
+                            "description": "A single dose of Reference Nicotine Gum (4 mg) to be chewed.", 
+                            "title": "Reference Nicotine Gum (4 mg)"
+                        }
+                    ]
+                }, 
+                "other_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "11", 
+                                                "@subjects_at_risk": "82"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "12", 
+                                                "@subjects_at_risk": "77"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "12", 
+                                                "@subjects_at_risk": "79"
+                                            }, 
+                                            {
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "11", 
+                                                "@subjects_at_risk": "81"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, other adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "82"
+                                            }, 
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "77"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "79"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "81"
+                                            }
+                                        ], 
+                                        "sub_title": "Tachycardia"
+                                    }
+                                }, 
+                                "title": "Cardiac disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Eye irritation"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Eye pain"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Eye disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "3", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Abdominal pain"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Abdominal pain upper"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Chapped lips"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Dry mouth"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Dyspepsia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Flatulence"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Gingival bleeding"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Gingival pain"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Lip blister"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Mouth ulceration"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Nausea"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Toothache"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Vomiting"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Catheter site erythema"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Catheter site related reaction"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Chest pain"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Fatigue"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Feeling hot"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Vessel puncture site anaesthesia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Vessel puncture site pain"
+                                        }
+                                    ]
+                                }, 
+                                "title": "General disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "2", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "82"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "77"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "79"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "81"
+                                            }
+                                        ], 
+                                        "sub_title": "Pharyngitis"
+                                    }
+                                }, 
+                                "title": "Infections and infestations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Dysgeusia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "3", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "4", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "4", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "5", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "5", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Headache"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Presyncope"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Nervous system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Abnormal dreams"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Depressed mood"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Nervousness"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Psychiatric disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "82"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "77"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "79"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "81"
+                                            }
+                                        ], 
+                                        "sub_title": "Dysmenorrhoea"
+                                    }
+                                }, 
+                                "title": "Reproductive system and breast disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Cough"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Dyspnoea"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Nasal congestion"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Oropharyngeal pain"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Sinus congestion"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Throat irritation"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Respiratory, thoracic and mediastinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Dry skin"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Hyperhidrosis"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "82"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "77"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "79"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E4", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "81"
+                                                }
+                                            ], 
+                                            "sub_title": "Rash"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Skin and subcutaneous tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "82"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "77"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "79"
+                                            }, 
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E4", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "81"
+                                            }
+                                        ], 
+                                        "sub_title": "Hot flush"
+                                    }
+                                }, 
+                                "title": "Vascular disorders"
+                            }
+                        ]
+                    }, 
+                    "frequency_threshold": "1"
+                }
+            }
+        }, 
+        "completion_date": {
+            "#text": "June 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": "Smoking Cessation", 
+        "condition_browse": {
+            "mesh_term": "Smoking"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  BMI within the range of 19 to 30 kilograms/meters^2\n\n          -  Current cigarette smokers who have smoked daily for at least a year, and smoke their\n             first cigarette within 30 minutes of waking up\n\n        Exclusion Criteria:\n\n          -  Participants who have attempted to quit smoking in the last 12 months, are currently\n             attempting to quit smoking or reduce the number of cigarettes they smoke, or are\n             intending to quit smoking in the next 3 months, with or without use of smoking\n             cessation aids\n\n          -  Treatment with known hepatic enzyme altering agents"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "55 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "84", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "May 2, 2013", 
+        "firstreceived_results_date": "March 6, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01847443", 
+            "org_study_id": "RH01705"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Reference nicotine gum (2 mg)", 
+                    "Test nicotine gum (2 mg)"
+                ], 
+                "description": "2 mg nicotine gum in two formulations", 
+                "intervention_name": "Nicotine (2 mg)", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "Test nicotine gum (4 mg)", 
+                    "Reference nicotine gum (4 mg)"
+                ], 
+                "description": "4 mg nicotine gum in two formulations", 
+                "intervention_name": "Nicotine (4 mg)", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Nicotine", 
+                "Nicotine polacrilex"
+            ]
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "nicotine", 
+            "nicotine replacement therapy", 
+            "nicotine gum"
+        ], 
+        "lastchanged_date": "March 6, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Belfast", 
+                    "country": "United Kingdom", 
+                    "state": "Northern Ireland", 
+                    "zip": "BT9 6AD"
+                }, 
+                "name": "Celerion - BELFAST"
+            }
+        }, 
+        "location_countries": {
+            "country": "United Kingdom"
+        }, 
+        "number_of_arms": "4", 
+        "official_title": "A Pharmacokinetic Study Comparing Two Nicotine Gum Formulations in a Single Dose Design", 
+        "overall_official": {
+            "affiliation": "GlaxoSmithKline", 
+            "last_name": "GSK Clinical Trials", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United Kingdom: Medicines and Healthcare Products Regulatory Agency", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 1", 
+        "primary_completion_date": {
+            "#text": "June 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "AUC(0-t)  for 2 mg test was compared with 2 mg reference gum", 
+                "measure": "Area Under the Curve From Time 0 to Time 't' [AUC(0-t)] of Nicotine 2 mg Test and Reference Product", 
+                "safety_issue": "No", 
+                "time_frame": "Blood samples to be collected from baseline to 12 hours post dose"
+            }, 
+            {
+                "description": "AUC(0-t) of Nicotine 4 mg test was compared with 4 mg reference gum", 
+                "measure": "AUC(0-t) of Nicotine 4 mg Test and Reference Product", 
+                "safety_issue": "No", 
+                "time_frame": "Blood samples to be collected from baseline to 12 hours post dose"
+            }, 
+            {
+                "description": "Cmax for 2 mg test was compared with 2 mg reference gum", 
+                "measure": "Maximum Observed Concentration (Cmax) of Nicotine 2 mg Test and Reference Product", 
+                "safety_issue": "No", 
+                "time_frame": "Blood samples to be collected from baseline to 12 hours post dose"
+            }, 
+            {
+                "description": "Cmax for 4 mg test was compared with 4 mg reference gum", 
+                "measure": "Cmax of Nicotine 4 mg Test and Reference Product", 
+                "safety_issue": "No", 
+                "time_frame": "Blood samples to be collected from baseline to 12 hours post-dose"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01847443"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Tmax for 2 mg test was compared with 2 mg reference gum, and 4 mg test was compared with 4 mg reference gum", 
+                "measure": "Time to Maximum Observed Concentration (Tmax) of Nicotine 2 mg Test and Reference Products, and Nicotine 4 mg Test and Reference Products", 
+                "safety_issue": "No", 
+                "time_frame": "Blood samples to be collected from baseline to 12 hours post dose"
+            }, 
+            {
+                "description": "T1/2 of 2 mg test was compared with 2 mg reference gum, and 4 mg test was compared with 4 mg reference gum", 
+                "measure": "Apparent Terminal Elimination Half-life (T1/2) of Nicotine 2 mg Test and Reference Products, and Nicotine 4 mg Test and Reference Products", 
+                "safety_issue": "No", 
+                "time_frame": "Blood samples to be collected from baseline to 12 hours post dose"
+            }, 
+            {
+                "description": "Kel for 2 mg test was compared with 2 mg reference gum, and 4 mg test was compared with 4 mg reference gum", 
+                "measure": "Apparent Terminal Elimination Rate Constant (Kel) of Nicotine 2 mg Test and Reference Products, and Nicotine 4 mg Test and Reference Products", 
+                "safety_issue": "No", 
+                "time_frame": "Blood samples to be collected from baseline to 12 hours post dose"
+            }, 
+            {
+                "description": "AUC(0-\u221e) for 2mg test was compared with 2 mg reference gum, and 4 mg test was compared with 4 mg reference gum", 
+                "measure": "Area Under Concentration-time Curve From Time 0 Extrapolated to \u221e [AUC(0-\u221e)] of Nicotine 2 mg Test and Reference Products, and Nicotine 4 mg Test and Reference Products", 
+                "safety_issue": "No", 
+                "time_frame": "Blood samples to be collected from baseline to 12 hours post dose"
+            }
+        ], 
+        "source": "GlaxoSmithKline", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "GlaxoSmithKline", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "May 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Bio-equivalence Study, Intervention Model: Crossover Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2014"
+    }
+}

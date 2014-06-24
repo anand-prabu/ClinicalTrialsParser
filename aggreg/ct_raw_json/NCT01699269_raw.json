@@ -1,0 +1,133 @@
+{
+    "clinical_study": {
+        "@rank": "117532", 
+        "acronym": "TeDi-C2", 
+        "arm_group": {
+            "arm_group_label": "brain tumor", 
+            "arm_group_type": "Other"
+        }, 
+        "brief_summary": {
+            "textblock": "This study will examine the use of a variation of standard magnetic resonance imaging (MRI)\n      called diffusion tensor MRI (DT-MRI), in order to evaluate the peripheral white matter\n      infiltration of high grade brain tumors. Organized architecture is destroyed once brain\n      tumor cells are infiltrating surrounding tissue. The infiltrated tissue is then isotropic\n      (or less anisotropic). DT-MRI can assess anisotropy after datasets post treatment.  Primary\n      outcome is to find if a correlation exists between GA (generalized anisotropy) and the\n      infiltration percentage of stereotactic peritumoral biopsies."
+        }, 
+        "brief_title": "Histopathologic Evaluation of High Grade Brain Tumors by High Order Diffusion Tensor Imaging", 
+        "completion_date": {
+            "#text": "August 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": "High Grade Brain Tumor", 
+        "condition_browse": {
+            "mesh_term": "Brain Neoplasms"
+        }, 
+        "detailed_description": {
+            "textblock": "Patients with high grade brain tumor undergo a usual brain tumor MRI protocol as well as a\n      20 or 60 directions DT-MRI sequence upon patient collaboration. Images are acquired using a\n      3 Tesla MRI scanner (GE MR750 Discovery).\n\n      The usual brain tumor MRI protocol contains the following sequences: 3DT1, Axial T2, Flair,\n      T2 EG, diffusion (b0-b1000), 3DT1CE.\n\n      They will then undergo stereotactic tumor biopsies with Leksell frame mounted.\n\n      Biopsy targets will be surgically planned. The coordinates of this first biopsy will be\n      recorded for later coregistration with DT-MRI datasets.\n\n      Histopathologic analysis of the biopsies will be done using usual procedure. various\n      immunologic markers such as MAP2, Ki67 will be used on the first biopsy sample in order to\n      estimate the percentage of infiltration (ratio of tumor cells number over total cells\n      number).\n\n      Analysis of DT-MRI datasets will be done using home-made software for high order tensor\n      resolution and GA estimation at the exact coordinates of the biopsy sites.\n\n      Finally a statistical analysis (Pearson or Spearman) will be done to correlate GA and the\n      infiltration percentage."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n        - Patients with high grade brain tumor\n\n          -  Age greater than 18 yo and under 85 yo\n\n          -  Signed informed consent from patient\n\n        Exclusion Criteria:\n\n          -  -Any person with pacemaker, metal implant, claustrophobia, or any other\n             contraindication for MR examination\n\n          -  Severe renal failure\n\n          -  Brain tumor biopsy contraindication"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "85 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "30", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "September 13, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01699269", 
+            "org_study_id": "CHU-0125", 
+            "secondary_id": "2011-A0159-40"
+        }, 
+        "intervention": {
+            "arm_group_label": "brain tumor", 
+            "intervention_name": "peritumoral glial cell infiltration", 
+            "intervention_type": "Other"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "High grade brain tumor", 
+            "Glioma", 
+            "Glioblastoma Multiform", 
+            "Brain Cancer", 
+            "Diffusion-Weighted Magnetic Resonance Imaging", 
+            "High order diffusion tensor", 
+            "Imaging guided biopsy", 
+            "Histopathologic evaluation", 
+            "Infiltration percentage"
+        ], 
+        "lastchanged_date": "September 2, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Clermont-Ferrand", 
+                    "country": "France", 
+                    "zip": "63003"
+                }, 
+                "name": "CHU Clermont-Ferrand"
+            }
+        }, 
+        "location_countries": {
+            "country": "France"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Histopathologic Evaluation of High Grade Brain Tumors by High Order Diffusion Tensor Imaging: Peritumoral Glial Cell Infiltration Quantitative Method", 
+        "overall_official": {
+            "affiliation": "University Hospital, Clermont-Ferrand", 
+            "last_name": "Betty JEAN", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "France: Ministry of Health"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "August 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "DTI-MRI", 
+            "safety_issue": "Yes", 
+            "time_frame": "at J0"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01699269"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Biopsy", 
+                "safety_issue": "Yes", 
+                "time_frame": "at J+1"
+            }, 
+            {
+                "measure": "count cell", 
+                "safety_issue": "Yes", 
+                "time_frame": "at J+10"
+            }, 
+            {
+                "measure": "datas co-registration", 
+                "safety_issue": "Yes", 
+                "time_frame": "at J+20"
+            }
+        ], 
+        "source": "University Hospital, Clermont-Ferrand", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University Hospital, Clermont-Ferrand", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "April 2012", 
+        "study_design": "Intervention Model: Single Group Assignment, Masking: Single Blind (Subject), Primary Purpose: Screening", 
+        "study_type": "Interventional", 
+        "verification_date": "September 2013"
+    }
+}

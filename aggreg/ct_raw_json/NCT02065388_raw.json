@@ -1,0 +1,177 @@
+{
+    "clinical_study": {
+        "@rank": "149793", 
+        "arm_group": [
+            {
+                "arm_group_label": "Standard of care dosing for warfarin", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Loading dose (5mg) of warfarin for the first 3 days of treatment. Dose adjustment after initiation will using guideline modified from Tait el al. (1998)."
+            }, 
+            {
+                "arm_group_label": "Genotype-guided dosingTaiwan algorithm for warfarin", 
+                "arm_group_type": "Experimental", 
+                "description": "Initial loading dosing of warfarin for the first 3 days of treatment will be determined by the Taiwan algorithm that uses clinical and genetic information. Dose adjustment after initiation will using guideline modified from Tait el al. (1998)."
+            }, 
+            {
+                "arm_group_label": "Genotype-guided dosing IWPC algorithm for warfarin", 
+                "arm_group_type": "Experimental", 
+                "description": "Initial loading dosing of warfarin for the first 3 days of treatment will be determined by the IWPC algorithm that uses clinical and genetic information. Dose adjustment after initiation will using guideline modified from Tait el al. (1998)."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Purpose:\n\n      Warfarin is now the most commonly used oral anticoagulant. This drug has inter-individual\n      variability due to the genetic polymorphisms in the warfarin metabolizing enzyme, CYP2C9 and\n      warfarin target, VKORC1. The investigators' team developed a pharmacogenetic dosing\n      algorithm which can predict patients required warfarin dose, thus could prevent warfarin\n      induced warfarin adverse events.\n\n      Methods:\n\n      The investigators recruited patients with indications for warfarin, the genotypes of VKORC1\n      and CYP2C9 were determined by the hospitals and verified by National Center for Genome\n      Medicine. The investigators then randomized the patients to one of three arms: 1. Warfarin\n      dose predicted by dosing algorithm developed by the International Warfarin pharmacogenetic\n      Consortium (IWPC), 2. Algorithm developed by the Taiwan Warfarin Consortium and 3. Standard\n      of care. The investigators aimed to determine whether using genetic dosing algorithm can\n      lead to more stable dose and safer use of the drug."
+        }, 
+        "brief_title": "Pharmacogenetic Dosing of Warfarin", 
+        "completion_date": {
+            "#text": "December 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Stroke", 
+            "Venous Thrombosis", 
+            "Atrial Fibrillation", 
+            "Atrial Flutter"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Atrial Fibrillation", 
+                "Atrial Flutter", 
+                "Stroke", 
+                "Thrombosis", 
+                "Venous Thrombosis", 
+                "Venous Thromboembolism"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients must give their informed consent and complete the case report form.\n\n          -  Patients must be over the age of 20.\n\n          -  Patients have clinical indications for warfarin therapy but do not have any prior\n              warfarin treatment.\n\n        Exclusion Criteria:\n\n          -  Patients who did not complete the informed consent form or the CRF\n\n          -  Patients who are less than the age of 20.\n\n          -  Patients who had prior or is currently on warfarin treatment.\n\n          -  Patients who have hemorrhagic tendencies or hemorrhagic diseases defined as copious\n             bleeding caused by viral or bacterial infections; cancer and hepatic dysfunction\n             defined as GOP and GPT values three times higher than normal value\n\n          -  Patients who has Vitamin K deficiency\n\n          -  Female patients who is currently pregnant"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "20 Years"
+        }, 
+        "enrollment": {
+            "#text": "300", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "February 9, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02065388", 
+            "org_study_id": "AS-IRB01-100070"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Standard of care dosing for warfarin", 
+                "intervention_name": "Standard of care dosing for warfarin", 
+                "intervention_type": "Behavioral"
+            }, 
+            {
+                "arm_group_label": "Genotype-guided dosingTaiwan algorithm for warfarin", 
+                "intervention_name": "Genotype-guided dosingTaiwan algorithm for warfarin", 
+                "intervention_type": "Genetic"
+            }, 
+            {
+                "arm_group_label": "Genotype-guided dosing IWPC algorithm for warfarin", 
+                "intervention_name": "Genotype-guided dosing IWPC algorithm for warfarin", 
+                "intervention_type": "Genetic"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Warfarin"
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "February 16, 2014", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kaohsiung", 
+                        "country": "Taiwan", 
+                        "zip": "807"
+                    }, 
+                    "name": "Kaohsiung Medical University"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Taichung", 
+                        "country": "Taiwan", 
+                        "zip": "404"
+                    }, 
+                    "name": "China Medical University Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Taoyuan", 
+                        "country": "Taiwan", 
+                        "zip": "333"
+                    }, 
+                    "name": "Chang Gung Memorial Hospital"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "Taiwan"
+        }, 
+        "number_of_arms": "3", 
+        "overall_official": {
+            "affiliation": "Institute of Biomedical Sciences, Academia Sinica", 
+            "last_name": "Ming Ta Michael Lee, PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Taiwan: Ministry of Health and Welfare", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "December 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "time spent in target INR range Time in the target INR Range will be the primary endpoints because of its strong association with adverse events: patients with subtherapeutic INR values are at increased risk of thrombosis and patients with high INR values are at increased risk of hemorrhage during warfarin treatment initiation.", 
+            "measure": "Time spent in target INR range", 
+            "safety_issue": "Yes", 
+            "time_frame": "first month of therapy"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02065388"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Academia Sinica, Taiwan", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "Chang Gung Memorial Hospital", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "China Medical University Hospital", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Kaohsiung Medical University", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "Academia Sinica, Taiwan", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "September 2009", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Outcomes Assessor), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "February 2014"
+    }
+}

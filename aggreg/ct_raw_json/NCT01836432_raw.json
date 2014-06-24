@@ -1,0 +1,844 @@
+{
+    "clinical_study": {
+        "@rank": "55296", 
+        "acronym": "PILLAR", 
+        "arm_group": [
+            {
+                "arm_group_label": "FOLFIRINOX + Algenpantucel-L (HAPa) Immunotherapy", 
+                "arm_group_type": "Experimental", 
+                "description": "Arm 1A: SOC FOLFIRINOX + Algenpantucel-L (HAPa) Immunotherapy\nDay 71-80 Disease evaluated: New distant disease = salvage regimen Gem/Nab-Paclitaxel (6 cycles) + HAPa given days 8 and 22 for up to 18 doses total.\nDay 71-80 Disease evaluated: No distant disease = 5-FU or capecitabine plus Radiation+ HAPa on days 1 and 15 of Chemoradiotherapy.\nPost-Chemoradiation Disease evaluation: surgically resectable = surgery + adjuvant SOC Gemcitabine + HAPa given 1 and 15 for up to 18 doses total.\nPost-Chemoradiation Disease evaluation: not eligible for surgical resection (Stable) = continue FOLFIRINOX bi-weekly + HAPa bi-weekly 7 days offset from FOLFIRINOX up to18 doses of algenpantucel-L Immunotherapy.\nPost-Chemoradiation Disease evaluation: non-eligible for surgical resection (Progression) = salvage Gem/Nab-Paclitaxel (6 cycles) + HAPa given days 8 and 22 for up to 18 doses total."
+            }, 
+            {
+                "arm_group_label": "FOLFIRINOX (SOC) ALONE", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Arm 2A: FOLFIRINOX (Oxaliplatin 85 mg/m^2 IV over 2 hours; Irinotecan 180 mg/m^2 IV over 90 minutes; Leucovorin 400 mg/m^2 IV over 2 hours; Fluorouracil 2.4 g/m^2 IV over 46 hours) given days 1, 15, 29, 43 & 57\nDay 71-80 Disease eval: New disease = salvage Gem/Nab-Paclitaxel: nab-paclitaxel 125mg/m^2 IV over 30-40 minutes followed by gemcitabine 1000 mg/m^2 IV over 30-60 minutes for 3 weeks (days 1, 8 and 15) with 1 week rest\nDay 71-80 Disease eval: No disease = 5-FU or capecitabine plus Radiation (5-FU continuous IV infusion of 200-250 mg/m^2/day given 5-7 days each week over 5.5 weeks or Capecitabine 825 mg/m^2 PO BID M-F) concurrently with external beam radiation given at 1.8 Gy per fraction for 28 fractions total dose of 50.4 Gy\nPost-XRT Disease eval: surgically resectable = surgery + adjuvant SOC Gemcitabine\nIneligible for surgical resection & stable disease = continue FOLFIRINOX\nIneligible for surgical resection & progressive disease = salvage Gem/Nab-Paclitaxel"
+            }, 
+            {
+                "arm_group_label": "Gemcitabine/Nab-Paclitaxel+Algenpantucel-L HAPa Immunotherapy", 
+                "arm_group_type": "Experimental", 
+                "description": "Arm 1B: Gemcitabine/Nab-Paclitaxel + Algenpantucel-L (HAPa) Immunotherapy\nDay 71-80 Disease evaluated: New distant disease = salvage regimen FOLFIRINOX + HAPa given every 14 days (alternate weeks of FOLFIRINOX) for up to 18 doses total.\nDay 71-80 Disease evaluated: No distant disease = 5-FU or capecitabine plus Radiation + HAPa on days 1 and 15 of Chemoradiotherapy.\nPost-Chemoradiation Disease evaluation: surgically resectable = surgery + adjuvant SOC Gemcitabine + HAPa given days 1 and 15 for up to 18 doses total.\nPost-Chemoradiation Disease evaluation: not eligible for surgical resection (Stable) = continue Gem/Nab-Paclitaxel + HAPa given on days 8 and 22 for up to18 doses of algenpantucel-L Immunotherapy.\nPost-Chemoradiation Disease evaluation: non-eligible for surgical resection (Progression) = salvage FOLFIRINOX + HAPa given every 14 days (alternate weeks of FOLFIRINOX) for up to 18 doses total."
+            }, 
+            {
+                "arm_group_label": "Gemcitabine/Nab-Paclitaxel (SOC) Alone", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Arm 2B: Gemcitabine/Nab-Paclitaxel (SOC) Alone\nSOC Gem/Nab-Paclitaxel: nab-paclitaxel 125mg/m^2 IV over 30-40 minutes followed by gemcitabine 1000 mg/m^2 IV over 30-60 minutes for 3 weeks with 1 week rest. Given on days 1, 8, 15, 29, 36, 43, 57, 64 and 71\nDay 71-80 Disease evaluated: New distant disease = salvage FOLFIRINOX given every 14 days\nDay 71-80 Disease evaluation: No disease = 5-FU or capecitabine plus Radiation (5-FU continuous IV infusion of 200-250 mg/m^2/day given 5-7 days each week over 5.5 weeks or Capecitabine 825 mg/m^2 PO BID M-F) concurrently with external beam radiation given at 1.8 Gy per fraction for 28 fractions total dose of 50.4 Gy\nPost-XRT Disease eval: surgically resectable = surgery + adjuvant SOC Gemcitabine\nIneligible for surgical resection & stable disease = continue gem/nab-paclitaxel given for 3 weeks (days 1, 8 and 15) with 1 week rest\nIneligible for surgical resection & progressive disease = salvage FOLFIRINOX given every 14 days"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Unfortunately, despite the best clinical efforts and breakthroughs in biotechnology, most\n      patients diagnosed with pancreatic cancer continue to die from the rapid progression of\n      their disease. One primary reason for this is that the disease is typically without symptoms\n      until significant local and/or distant spread has occurred and is often beyond the chance\n      for cure at the time of the diagnosis. The lack of any treatment to substantially increase\n      long term survival rates is reflected by the poor outcomes associated with this disease,\n      specifically time to disease progression and overall survival.\n\n      However, another important part of the body is now being looked at as a target for therapy\n      against this disease - the immune system. Scientists have clearly shown that pancreatic\n      tumor cells produce a number of defective proteins, or express normal proteins in highly\n      uncharacteristic ways, as part of this cancer. In some cancers, these abnormalities can\n      cause an immune response to the cancer cells much in the way one responds to infected\n      tissue. In progressive cancers however, the immune system fails to effectively identify or\n      respond to these abnormalities and the cancer cells are not attacked or destroyed for\n      reasons not yet fully understood. This clinical trial proposes a new way to stimulate the\n      immune system to recognize pancreatic cancer cells and to stimulate an immune response that\n      destroys or blocks the growth of the cancer.\n\n      This new method of treatment helps the immune system of pancreatic cancer patients to\n      \"identify\" the cancerous tissue so that it can be eliminated from the body. As an example,\n      most people are aware that patients with certain diseases may require an organ transplant to\n      replace a damaged kidney or heart. After receiving their transplant, these patients receive\n      special drugs because they are at great danger of having an immune response that destroys or\n      \"rejects\" the transplanted organ. This \"rejection\" occurs when their immune system responds\n      to differences between the cells of the transplanted organ and their own immune system by\n      attacking the foreign tissue in the same way as it would attack infected tissue. When the\n      differences between foreign tissues and the patient's body are even larger, as with the\n      differences between organs from different species, the rejection is very rapid, highly\n      destructive, and the immunity it generates is longlasting. This is called hyperacute\n      rejection and the medicine used to immunize patients in this protocol tries to harness this\n      response to teach a patient's immune system to fight their pancreatic cancer just as the\n      body would learn to reject a transplanted organ from an animal.\n\n      To do this, Algenpantucel-L immunotherapy contains human pancreatic cancer cells that\n      contain a mouse gene that marks the cancer cells as foreign to patient's immune systems. The\n      immune system therefore attacks these cancer cells just as they would attack any truly\n      foreign tissue, destroying as much as it can. Additionally, the immune system is stimulated\n      to identify differences (aside from the mouse gene) between these cancer cells and normal\n      human tissue as foreign. This \"education\" of the immune system helps treat the patient\n      because pancreatic cancer cells already present in a treated patient are believed to show\n      some of the same differences from normal tissue as the modified pancreatic cancer cells in\n      the product. Due to these similarities, the immune system, once \"educated\" by the\n      Algenpantucel-L immunotherapy, identifies the patient's cancer as foreign and attacks.\n\n      The chemotherapy combination to be used in this study has been shown to improve survival in\n      advanced pancreatic cancer and is being combined with an experimental pancreatic cancer\n      immunotherapy that stimulates the immune system to recognize and attack the cancer. One goal\n      of this study is to determine whether chemotherapy and immunotherapies can work\n      cooperatively to increase anti-tumor effects to levels beyond what would be seen with either\n      treatment alone.\n\n      In this experimental study, all patients are given a strong combination of anti-tumor\n      chemotherapies while some patients are also given injections of an immunotherapy drug\n      consisting of two types of pancreatic cancer cells that we have modified to make them more\n      easily recognized and attacked by the immune system. We propose to test this new treatment\n      protocol in patients with locally advanced pancreatic cancer to demonstrate that treatment\n      with the immunotherapy increases the time until the tumor progresses or increases overall\n      survival when given in combination with the current standard of care therapy for this\n      disease."
+        }, 
+        "brief_title": "Immunotherapy Study in Borderline Resectable or Locally Advanced Unresectable Pancreatic Cancer", 
+        "completion_date": {
+            "#text": "June 2017", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Pancreatic Cancer", 
+            "Pancreatic Carcinoma Non-resectable", 
+            "Locally Advanced Malignant Neoplasm"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Neoplasms", 
+                "Carcinoma", 
+                "Pancreatic Neoplasms"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "This protocol attempts to treat pancreatic cancer therapy using a naturally occurring\n      barrier to xenotransplantation in humans to increase the efficacy of immunizing patients\n      against their pancreatic cancer. In this protocol, the transfer of the murine \u03b1(1,3)\n      galactosyltransferase [\u03b1(1,3)GT] gene to immunotherapy component cells results in the cell\n      surface expression of \u03b1(1,3)galactosyl-epitopes (\u03b1gal) epitopes on membrane glycoproteins\n      and glycolipids. These epitopes are the major target of the hyperacute rejection response.\n      This response occurs when organs are transplanted from lower animal donor species into\n      primates and results in rapid destruction of transplanted tissue and an augmented response\n      against transplant antigens, including antigens not related to the \u03b1gal epitopes. Human\n      hosts have pre-existing anti-\u03b1-gal antibodies that are thought to result from chronic\n      immunological stimulation due to exposure to \u03b1-gal epitopes that are naturally expressed on\n      normal gut flora and these antibodies may comprise up to 1% of serum immunoglobulin G (IgG).\n      Opsonization and lysis of the immunotherapy component cells mediated by this antibody is\n      believed to increase the efficiency of antigen processing by targeting vaccine components to\n      antigen presenting cells via the Fc\u03b3 receptor."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  A histological diagnosis of adenocarcinoma of the pancreas confirmed by pathology.\n\n          -  Patients must have borderline resectable or locally advanced unresectable pancreatic\n             cancer with no metastatic spread as determined by a baseline diagnostic CT scan with\n             intravenous contrast (or MRI). CT should be performed according to a defined pancreas\n             protocol such as triphasic cross-sectional imaging with thin slices. Optimal\n             multi-phase technique including a non-contrast phase plus arterial, pancreatic\n             parenchymal and portal venous phase of contrast enhancement with thin cuts (3mm)\n             throughout the abdomen is preferred. Studies must be evaluated by a radiologist\n             and/or surgeon and deemed borderline resectable or locally advanced unresectable as\n             defined per the NCCN Practice Guidelines in Oncology V2.2012, as:\n\n          -  Borderline resectable- Tumors considered borderline resectable are defined as\n             follows:\n\n               1. No distant metastases\n\n               2. Venous involvement of the SMV/portal vein demonstrating tumor abutment with\n                  impingement and narrowing of the lumen, encasement of the SMV/portal vein but\n                  without encasement of the nearby arteries, or short-segment venous occlusion\n                  resulting from either tumor thrombus or encasement but with suitable vessel\n                  proximal and distal to the area of vessel involvement, allowing for safe\n                  resection and reconstruction\n\n               3. Gastroduodenal artery encasement up to the hepatic artery with either short\n                  segment encasement or direct abutment of the hepatic artery without extension to\n                  the celiac axis.\n\n               4. Tumor abutment of the SMA not to exceed greater than 180 degrees of the\n                  circumference of the vessel wall.\n\n          -  Tumors considered to be unresectable due to local advancement include an absence of\n             distant metastases as well as:\n\n               1. Head: Greater than 180 degrees SMA encasement or any celiac abutment or\n                  unreconstructible SMV/portal occlusion or aortic invasion or encasement.\n\n               2. Body: Greater than 180 degrees SMA or celiac encasement or  unreconstructible\n                  SMV/portal occlusion or aortic invasion.\n\n               3. Tail: SMA or celiac encasement greater than 180 degrees.\n\n               4. Nodal status: Involvement of lymph nodes beyond the field of resection should be\n                  considered unresectable due to distant spread and therefore not eligible for\n                  this protocol.\n\n          -  Eastern Cooperative Oncology Group (ECOG) Performance Status \u2264 1.\n\n          -  Serum albumin \u2265 2.0 gm/dL.\n\n          -  Expected survival \u2265 6 months.\n\n          -  Adequate organ function including:\n\n               1. Marrow: WBC \u22653000/mm^3 and platelets \u2265100,000/mm^3.\n\n               2. Hepatic: serum total bilirubin \u2264 1.5 mg/dL, ALT (SGPT) and AST (SGOT) \u22643 x upper\n                  limit of normal (ULN) at time of enrollment. If a patient has elevated liver\n                  function tests at the time of initial presentation or develops them during\n                  work-up and they are the result of a mechanical obstruction of biliary drainage\n                  by tumor compression or invasion, a biliary drain may be placed as described in\n                  NCCN Practice Guidelines in Oncology V2.2012. If drainage allows for the liver\n                  function tests to come within inclusion criteria, the patient may be enrolled.\n\n               3. Renal: serum creatinine (sCr) \u22642.0 x ULN, or creatinine clearance (Ccr) \u226530\n                  mL/min.\n\n          -  Patients must have the ability to understand the study, its inherent risks, side\n             effects and potential benefits and be able to give written informed consent to\n             participate. Patients may not be consented by a durable power of attorney (DPA).\n\n          -  All subjects of child producing potential must agree to use contraception or\n             avoidance of pregnancy measures while enrolled on study and receiving the\n             experimental product, and for one month after the last immunization.\n\n        Exclusion Criteria:\n\n          -  Age <18-years-old.\n\n          -  Active metastases.\n\n          -  Other malignancy within five years, unless the probability of recurrence of the prior\n             malignancy is <5% as determined by the Principal Investigator based on available\n             information. Patient's curatively treated for squamous and basal cell carcinoma of\n             the skin or patients with a history of malignant tumor in the past that have been\n             disease free for at least five years are also eligible for this study.\n\n          -  History of organ transplant.\n\n          -  Current, active immunosuppressive therapy such as cyclosporine, tacrolimus, etc.\n\n          -  Subjects taking chronic systemic corticosteroid therapy for any reason are not\n             eligible. Subjects may receive steroids as prophylactic anti-emetics per the\n             FOLFIRINOX or gemcitabine/nab-paclitaxel regimen. Subjects receiving inhaled or\n             topical corticosteroids are eligible. Subjects who require chronic systemic\n             corticosteroids after beginning treatment, will be removed from study.\n\n          -  Significant or uncontrolled congestive heart failure (CHF), myocardial infarction or\n             significant ventricular arrhythmias within the last six months.\n\n          -  Patient has active, uncontrolled bacterial, viral, or fungal infection(s) requiring\n             systemic therapy.\n\n          -  Autoimmune disease (e.g., systemic lupus erythematosis (SLE), rheumatoid arthritis\n             (RA), etc.). Patients with a remote history of asthma or mild active asthma are\n             eligible.\n\n          -  Other serious medical conditions that may be expected to limit life expectancy to\n             less than 2 years (e.g., active liver cirrhosis) or a serious illness in medical\n             opinion of the clinical investigator.\n\n          -  Any condition, psychiatric or otherwise, that would preclude informed consent,\n             consistent follow-up or compliance with any aspect of the study (e.g., untreated\n             schizophrenia or other significant cognitive impairment, etc.).\n\n          -  A known history of allergy or hypersensitivity to any of the study drugs or any of\n             their excipients.\n\n          -  Pregnant or nursing women due to the unknown effects of immunization on the\n             developing fetus or newborn infant. (For patients with child bearing potential, a\n             \u03b2HCG must be completed within 14 days of first treatment).\n\n          -  Known HIV positive.\n\n          -  Prior treatment with chemotherapy or radiation for pancreatic cancer or prior\n             treatment with radiation  for other diagnoses to expected pancreatic cancer treatment\n             fields.\n\n          -  Current grade II or higher peripheral neuropathy."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "280", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "April 17, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01836432", 
+            "org_study_id": "NLG0505", 
+            "secondary_id": "1210-1195"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "FOLFIRINOX + Algenpantucel-L (HAPa) Immunotherapy", 
+                    "FOLFIRINOX (SOC) ALONE", 
+                    "Gemcitabine/Nab-Paclitaxel+Algenpantucel-L HAPa Immunotherapy", 
+                    "Gemcitabine/Nab-Paclitaxel (SOC) Alone"
+                ], 
+                "description": "FOLFIRINOX consisting of Oxaliplatin 85 mg/m^2 IV over 2 hours; Irinotecan 180 mg/m^2 IV over 90 minutes; Leucovorin 400 mg/m^2 IV over 2 hours; Fluorouracil 2.4 g/m^2 IV over 46 hours - given on days 22, 36, 50, and 64 for Arm 1A. FOLFIRINOX given on days 1, 15, 29, 43 and 57 for Arm 2A.\nFor arms 1B and 2B patients with disease progression at day 71-80 evaluation will receive FOLFIRINOX as noted above on a biweekly basis.\nFor arms 1A and 2A patients with stable disease after surgical resection will continue to receive FOLFIRINOX as noted above on a biweekly basis.\nFor arms 1B and 2B patients deemed ineligible for surgical resection with noted disease progression will be given FOLFIRINOX as noted above on a biweekly basis.", 
+                "intervention_name": "FOLFIRINOX", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "Oxaliplatin", 
+                    "Eloxatin\u00ae", 
+                    "Irinotecan", 
+                    "Camptosar\u00ae", 
+                    "Leucovorin", 
+                    "Citrovorum factor", 
+                    "folinic acid", 
+                    "Fluorouracil", 
+                    "5-Fluorouracil", 
+                    "5-FU"
+                ]
+            }, 
+            {
+                "arm_group_label": [
+                    "FOLFIRINOX + Algenpantucel-L (HAPa) Immunotherapy", 
+                    "Gemcitabine/Nab-Paclitaxel+Algenpantucel-L HAPa Immunotherapy"
+                ], 
+                "description": "HAPa1 and HAPa2 immunotherapy components Arm 1 (1A and 1B) only: Algenpantucel-L Immunotherapy (HAPa) consisting of 300 Million HAPa cells given by intradermal injection on days 1, 8, 15, 29, 43 and 57.\nPatients receiving chemoradiation with HAPa will receive HAPa on days 1 and 15 of the 5.5 week 5-FU chemoradiation cycle.\nPatients receiving continuation or salvage FOLFIRINOX with HAPa will receive HAPa biweekly, 7 days offset from the administration of FOLFIRNOX for up to 18 doses total.\nPatients receiving adjuvant gemcitabine therapy with HAPa will receive HAPa on days 1 and 15 of each cycle for 5 cycles for up to 18 doses total.\nPatients receiving continuation or salvage gemcitabine/nab-paclitaxel with HAPa will receive HAPa on days 8 and 22 (of each cycle) for up to 18 doses total.", 
+                "intervention_name": "Algenpantucel-L Immunotherapy", 
+                "intervention_type": "Biological", 
+                "other_name": [
+                    "HyperAcute\u00ae-Pancreas", 
+                    "HAPa"
+                ]
+            }, 
+            {
+                "arm_group_label": [
+                    "FOLFIRINOX + Algenpantucel-L (HAPa) Immunotherapy", 
+                    "FOLFIRINOX (SOC) ALONE", 
+                    "Gemcitabine/Nab-Paclitaxel+Algenpantucel-L HAPa Immunotherapy", 
+                    "Gemcitabine/Nab-Paclitaxel (SOC) Alone"
+                ], 
+                "description": "All Arms; subjects that do not have distant disease at evaluation (day 71-80) are eligible to receive 5-FU Chemoradiation consisting of 5-FU continuous IV infusion  of 200-250 mg/m^2/day given 5-7 days each week over 5.5 weeks concurrently with external beam radiation given at 1.8 Gy per fraction for 28 fractions for a total dose of 50.4 Gy.", 
+                "intervention_name": "5-FU Chemoradiation", 
+                "intervention_type": "Radiation", 
+                "other_name": [
+                    "Fluorouracil", 
+                    "5-Fluorouracil", 
+                    "5-FU"
+                ]
+            }, 
+            {
+                "arm_group_label": [
+                    "FOLFIRINOX + Algenpantucel-L (HAPa) Immunotherapy", 
+                    "FOLFIRINOX (SOC) ALONE", 
+                    "Gemcitabine/Nab-Paclitaxel+Algenpantucel-L HAPa Immunotherapy", 
+                    "Gemcitabine/Nab-Paclitaxel (SOC) Alone"
+                ], 
+                "description": "Gemcitabine 1000 mg/m^2 given intravenously over 30 minutes for 3 weeks (days 1, 8 and 15) with 1 week rest.\nAll Arms: Given as adjuvant treatment (days 1, 8 and 15) with 1 week rest for 6 cycles for all arms after surgical resection.\nArm 1B Gemcitabine/Nab-Paclitaxel on days 22, 29, 36, 50, 57 and 64. Arm 2B Gemcitabine/Nab-Paclitaxel on days 1, 8, 15, 29, 36, 43, 57, 64, and 71.\nArms 1A and 2A: Patients with distant disease at first disease evaluation (days 71-80) - Gemcitabine/Nab-Paclitaxel given as salvage therapy (days 1, 8 and 15) with 1 week rest for 6 cycles.\nArms 1B and 2B: Patients with stable disease after surgical resection will continue to receive Gemcitabine/Nab-Paclitaxel (days 1, 8 and 15) with 1 week rest for 6 cycles.\nArms 1A and 2A: Patients deemed ineligible for surgical resection with noted disease progression will be given salvage Gemcitabine/Nab-Paclitaxel (days 1, 8 and 15) with 1 week rest for 6 cycles.", 
+                "intervention_name": "Gemcitabine", 
+                "intervention_type": "Drug", 
+                "other_name": "Gemzar"
+            }, 
+            {
+                "arm_group_label": [
+                    "FOLFIRINOX + Algenpantucel-L (HAPa) Immunotherapy", 
+                    "FOLFIRINOX (SOC) ALONE", 
+                    "Gemcitabine/Nab-Paclitaxel+Algenpantucel-L HAPa Immunotherapy", 
+                    "Gemcitabine/Nab-Paclitaxel (SOC) Alone"
+                ], 
+                "description": "All Arms; subjects that do not have distant disease at evaluation (day 71-80) are eligible to receive capecitabine in place of 5-FU during radiation.  Capecitabine consisting of 825 mg/m^2 PO BID M-F concurrently with external beam radiation given at 1.8 Gy per fraction for 28 fractions for a total dose of 50.4 Gy.", 
+                "intervention_name": "Capecitabine", 
+                "intervention_type": "Drug", 
+                "other_name": "Xeloda"
+            }, 
+            {
+                "arm_group_label": [
+                    "FOLFIRINOX + Algenpantucel-L (HAPa) Immunotherapy", 
+                    "FOLFIRINOX (SOC) ALONE", 
+                    "Gemcitabine/Nab-Paclitaxel+Algenpantucel-L HAPa Immunotherapy", 
+                    "Gemcitabine/Nab-Paclitaxel (SOC) Alone"
+                ], 
+                "description": "Nab-Paclitaxel 125 mg/m^2 given intravenously over 30-40 minutes (followed by Gemcitabine)\nArm 1B Gemcitabine/Nab-Paclitaxel on days 22, 29, 36, 50, 57 and 64. Arm 2B Gemcitabine/Nab-Paclitaxel on days 1, 8, 15, 29, 36, 43, 57, 64, and 71.\nArms 1A and 2A: Patients with distant disease at first disease evaluation (days 71-80) - Gemcitabine/Nab-Paclitaxel given as salvage therapy (days 1, 8 and 15) with 1 week rest for 6 cycles.\nArms 1B and 2B: Patients with stable disease after surgical resection will continue to receive Gemcitabine/Nab-Paclitaxel (days 1, 8 and 15) with 1 week rest for 6 cycles.\nArms 1A and 2A: Patients deemed ineligible for surgical resection with noted disease progression will be given salvage Gemcitabine/Nab-Paclitaxel (days 1, 8 and 15) with 1 week rest for 6 cycles.", 
+                "intervention_name": "Nab-Paclitaxel", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "Abraxane", 
+                    "Paclitaxel"
+                ]
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Fluorouracil", 
+                "Gemcitabine", 
+                "Capecitabine", 
+                "Oxaliplatin", 
+                "Irinotecan", 
+                "Paclitaxel", 
+                "Leucovorin", 
+                "Levoleucovorin", 
+                "Pancrelipase"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "Pancreatic Cancer", 
+            "Immunotherapy", 
+            "Vaccine Therapy"
+        ], 
+        "lastchanged_date": "May 12, 2014", 
+        "location": [
+            {
+                "contact": {
+                    "email": "lpestana@uacc.arizona.edu", 
+                    "last_name": "Laura Pestana", 
+                    "phone": "520-694-9060"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Tucson", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85719"
+                    }, 
+                    "name": "Arizona Cancer Center"
+                }, 
+                "investigator": {
+                    "last_name": "Emad Elquza, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "jhiett@coh.org", 
+                    "last_name": "Jaclyn Hiett", 
+                    "phone": "626-256-4673", 
+                    "phone_ext": "63113"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Duarte", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "91010"
+                    }, 
+                    "name": "City of Hope National Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Vincent Chung, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "Laura.Sarmiento@cshs.org", 
+                    "last_name": "Laura Sarmiento", 
+                    "phone": "310-423-4295"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90048"
+                    }, 
+                    "name": "Cedars-Sinai Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Nicholas Nissen, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "dunncm@sutterhealth.org", 
+                    "last_name": "Clara Dunn", 
+                    "phone": "916-454-6931"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Sacramento", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "95816"
+                    }, 
+                    "name": "Sutter Institute for Medical Research"
+                }, 
+                "investigator": {
+                    "last_name": "Stacy D'Andre, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "BrechtLa@cpmcri.org", 
+                    "last_name": "Laurel Brechtel", 
+                    "phone": "415-600-1654"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94115"
+                    }, 
+                    "name": "California Pacific Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Ari Baron, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "EHatton@stamhealth.org", 
+                    "last_name": "Ed Hatton", 
+                    "phone": "203-276-8447"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Stamford", 
+                        "country": "United States", 
+                        "state": "Connecticut", 
+                        "zip": "06902"
+                    }, 
+                    "name": "Stamford Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Salvatore Del Prete, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "SGodbout@brrh.com", 
+                    "last_name": "Sylvie Godbout, RN, BSN", 
+                    "phone": "561-955-4800"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Boca Raton", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33486"
+                    }, 
+                    "name": "Boca Raton Regional Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Warren Brenner, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "aivey@ufl.edu", 
+                    "last_name": "Alison Ivey", 
+                    "phone": "352-265-0680", 
+                    "phone_ext": "88411"
+                }, 
+                "contact_backup": {
+                    "email": "ktormes@ufl.edu", 
+                    "last_name": "Kevin Tormes", 
+                    "phone": "(352) 265-0680", 
+                    "phone_ext": "87617"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Gainesville", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32610"
+                    }, 
+                    "name": "University of Florida"
+                }, 
+                "investigator": {
+                    "last_name": "Thomas George, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "k.blackburn@med.miami.edu", 
+                    "last_name": "Karen Blackburn, CCRC", 
+                    "phone": "305-243-0863"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Miami", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33136"
+                    }, 
+                    "name": "University of Miami"
+                }, 
+                "investigator": {
+                    "last_name": "Peter Hosein, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "jowens@health.usf.edu", 
+                    "last_name": "Jerry Owens", 
+                    "phone": "813-844-4618"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Tampa", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33606"
+                    }, 
+                    "name": "USF Tampa General"
+                }, 
+                "investigator": {
+                    "last_name": "Vic Velanovich, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "Helen.Jump@moffitt.org", 
+                    "last_name": "Helen Jump", 
+                    "phone": "813-745-4834"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Tampa", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33612"
+                    }, 
+                    "name": "H. Lee Moffitt Cancer Center"
+                }, 
+                "investigator": {
+                    "last_name": "Gregory Springett, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "Heather.lee@usoncology.com", 
+                    "last_name": "Heather Lee", 
+                    "phone": "847-259-0624"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Arlington Heights", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60005"
+                    }, 
+                    "name": "Illinois Cancer Specialists"
+                }, 
+                "investigator": {
+                    "last_name": "Rich Siegel, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "vdepue@iuhealth.org", 
+                    "last_name": "Vanessa DePue", 
+                    "phone": "574-364-2649"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Goshen", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46526"
+                    }, 
+                    "name": "Indiana University Health Goshen Center for Cancer Care"
+                }, 
+                "investigator": {
+                    "last_name": "Roderich Schwarz, MD, PhD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "lmccrano@iupui.edu", 
+                    "last_name": "Lynne McCranor", 
+                    "phone": "317-278-4712"
+                }, 
+                "contact_backup": {
+                    "email": "matburns@iupui.edu", 
+                    "last_name": "Matt Burns", 
+                    "phone": "317-278-8247"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Indianapolis", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46202"
+                    }, 
+                    "name": "Indiana University"
+                }, 
+                "investigator": {
+                    "last_name": "Romnee Clark, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "dkah1@hfhs.org", 
+                    "last_name": "Dusty Kah", 
+                    "phone": "313-916-1074"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Detroit", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48202"
+                    }, 
+                    "name": "Henry Ford Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Kellie McFarlin, MD, FACS", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "lisa.albers@allina.com", 
+                    "last_name": "Lisa Albers", 
+                    "phone": "612-863-9466"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Minneapolis", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55407-3799"
+                    }, 
+                    "name": "Virginia Piper Cancer Institute"
+                }, 
+                "investigator": {
+                    "last_name": "John Seng, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "prerna.chopra@mountsinai.org", 
+                    "last_name": "Prerna Chopra", 
+                    "phone": "212-241-4863"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10029"
+                    }, 
+                    "name": "Mount Sinai Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Daniel Labow, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "jemaclea@wakehealth.edu", 
+                    "last_name": "Jennifer MacLean", 
+                    "phone": "336-713-3539"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Winston-Salem", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27157"
+                    }, 
+                    "name": "Wake Forest Baptist Health"
+                }, 
+                "investigator": {
+                    "last_name": "Angela Alistar, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "melissa-yarbrough@ouhsc.edu", 
+                    "last_name": "Melissa Yarbrough, RN", 
+                    "phone": "405-271-8001", 
+                    "phone_ext": "48340"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Oklahoma City", 
+                        "country": "United States", 
+                        "state": "Oklahoma", 
+                        "zip": "73104"
+                    }, 
+                    "name": "University of Oklahoma"
+                }, 
+                "investigator": {
+                    "last_name": "Shubham Pant, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "montgobr@ohsu.edu", 
+                    "last_name": "Brigitte Montgomery", 
+                    "phone": "503-494-8699"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97239"
+                    }, 
+                    "name": "Oregon Health and Science University"
+                }, 
+                "investigator": {
+                    "last_name": "Gina Vaccaro, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "mxi195@jefferson.edu", 
+                    "last_name": "Matthew Isenberg", 
+                    "phone": "215-503-2983"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19107"
+                    }, 
+                    "name": "Thomas Jefferson University"
+                }, 
+                "investigator": {
+                    "last_name": "Harish Lavu, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "SOverbey@mc.utmck.edu", 
+                    "last_name": "Shanna Overbey, RN, BSN", 
+                    "phone": "865-305-9773", 
+                    "phone_ext": "4"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Knoxville", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37920"
+                    }, 
+                    "name": "University of Tennessee Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Janakiraman Subramanian, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "tyson.dudley@utsouthwestern.edu", 
+                    "last_name": "Tyson Dudley", 
+                    "phone": "214-648-7031"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75390"
+                    }, 
+                    "name": "University of Texas Southwestern Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "John C. Mansour, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "ggwilson@bcm.tmc.edu", 
+                    "last_name": "Glenn Wilson", 
+                    "phone": "713-798-3468"
+                }, 
+                "contact_backup": {
+                    "email": "carolynt@bcm.edu", 
+                    "last_name": "Carolyn Thibodeaux", 
+                    "phone": "713.798.4797"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77030"
+                    }, 
+                    "name": "Baylor College of Medicine"
+                }, 
+                "investigator": {
+                    "last_name": "Benjamin Musher, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "ggyurkey@seattlecca.org", 
+                    "last_name": "Grace Gyurkey", 
+                    "phone": "206-288-7603"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98109"
+                    }, 
+                    "name": "University of Washington - Seattle Cancer Center Alliance"
+                }, 
+                "investigator": {
+                    "last_name": "Andrew Coveler, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "kate.newbanks@aurora.org", 
+                    "last_name": "Kate Newbanks, RN, BSN, OCN", 
+                    "phone": "920-288-4115"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Green Bay", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "54311"
+                    }, 
+                    "name": "Vince Lombardi Cancer Center"
+                }, 
+                "investigator": {
+                    "last_name": "Dhimant Patel, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "camund@uwcarbone.wisc.edu", 
+                    "last_name": "Carissa Amundson", 
+                    "phone": "608-265-1181"
+                }, 
+                "contact_backup": {
+                    "email": "ksklenar@uwcarbone.wisc.edu", 
+                    "last_name": "Kathryn Sklenar", 
+                    "phone": "(608) 263-9912"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Madison", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "53792"
+                    }, 
+                    "name": "University of Wisconsin"
+                }, 
+                "investigator": {
+                    "last_name": "Clifford Cho, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "4", 
+        "official_title": "A Phase III Study of Chemotherapy With or Without Algenpantucel-L (HyperAcute\u00ae-Pancreas) Immunotherapy in Subjects With Borderline Resectable or Locally Advanced Unresectable Pancreatic Cancer", 
+        "overall_official": {
+            "affiliation": "NewLink Genetics Corporation", 
+            "last_name": "Nicholas N Vahanian, MD", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "September 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "The primary objective of this study is to assess overall survival (OS) in pancreatic cancer patients with borderline resectable or locally advanced unresectable pancreatic cancer who will receive a regimen of FOLFIRINOX or gemcitabine/nab-paclitaxel with or without algenpantucel-L Immunotherapy.", 
+            "measure": "Overall Survival", 
+            "safety_issue": "No", 
+            "time_frame": "13.5 months (assuming enrollment period of 1-2 years)"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01836432"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "A secondary objective of this study is to assess progression free survival after treatment with a regimen of FOLFIRINOX or gemcitabine/nab-paclitaxel with or without algenpantucel-L immunotherapy in subjects who have borderline resectable or locally advanced pancreatic cancer.", 
+                "measure": "Progression Free Survival", 
+                "safety_issue": "No", 
+                "time_frame": "13.5 months (assuming enrollment period of 1-2 years)"
+            }, 
+            {
+                "description": "A secondary objective of this study is to assess the safety (frequency and grade of adverse events) of administration of algenpantucel-L Immunotherapy given in combination with a standard of care regimen of chemotherapy (FOLFIRINOX or gemcitabine/nab-paclitaxel, to be referred to as standard of care, or SOC).", 
+                "measure": "Frequency and grade of adverse events of FOLFIRINOX or gemcitabine/nab-paclitaxel in combination with algenpantucel-L Immunotherapy versus FOLFIRINOX or gemcitabine/nab-paclitaxel alone", 
+                "safety_issue": "Yes", 
+                "time_frame": "13.5 months (assuming enrollment period of 1-2 years)"
+            }, 
+            {
+                "description": "A secondary objective of this study is to assess the immunologic responses of subjects with pancreatic cancer undergoing antitumor immunization with algenpantucel-L Immunotherapy as measured by Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1.", 
+                "measure": "Immune Response", 
+                "safety_issue": "No", 
+                "time_frame": "13.5 months (assuming enrollment period of 1-2 years)"
+            }
+        ], 
+        "source": "NewLink Genetics Corporation", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "NewLink Genetics Corporation", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "April 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2014"
+    }
+}

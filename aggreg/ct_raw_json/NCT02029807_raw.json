@@ -1,0 +1,153 @@
+{
+    "clinical_study": {
+        "@rank": "13367", 
+        "arm_group": {
+            "arm_group_label": "Blood donors", 
+            "description": "Healthy adult volunteers donating blood"
+        }, 
+        "brief_summary": {
+            "textblock": "The investigators have developed a system based on a pulse oximeter, a tablet, and an\n      algorithm running on the tablet that analyzes the pulse oximeter waveform.\n\n      The algorithm that runs on this system should be able to accurately keep track of blood loss\n      during blood donation.  The investigators will compare the algorithm with the blood loss\n      tracked by a device called a flow meter.\n\n      The algorithm that runs on this system should be able to accurately keep track of stroke\n      volume changes.  The investigators will compare the algorithm with the stroke volume changes\n      tracked by a device called a CCNexfin.\n\n      The algorithm that runs on this system should work whether it's in place for the whole blood\n      donation, or if it's placed after the blood donation has started.  The investigators will\n      use two pulse oximeters for the system on each hand and compare one that is used for the\n      whole blood donation versus one that is not used for the whole blood donation."
+        }, 
+        "brief_title": "Comparison of Physiological Variables During Blood Donation", 
+        "completion_date": {
+            "#text": "June 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Hemorrhage", 
+        "condition_browse": {
+            "mesh_term": "Hemorrhage"
+        }, 
+        "detailed_description": {
+            "textblock": "Hypothesis: p-values for testing the hypothesis of no correlation against the alternative\n      that there is a nonzero correlation for each subject will be calculated. The minimum average\n      power correlation, alpha = 0.05, will be used. Correlation will be made (CRI trend during\n      550ml blood volume removal) using pre and post blood draw data.\n\n      Specific Aims: These data will be submitted to the FDA with the following claims: The CRI\n      algorithm\n\n        1. Is intended for use by clinicians and medically qualified personnel to noninvasively\n           display the trend of intravascular volume changes (hemorrhage)\n\n        2. Is intended for use by clinicians and medically qualified personnel to noninvasively\n           display the trend of stroke volume changes and\n\n        3. The CRI trend value is not relative to an initial CRI reading, instead it is an actual\n           CRI trend value that does"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Subject is planning on donating blood and is approved by Children's Hospital\n             Colorado's Blood Donation Center\n\n          -  Age 18-89 years\n\n          -  Previously donated blood (lower likelihood of vasovagal response)\n\n        Exclusion Criteria:\n\n          -  Pregnant\n\n          -  Incarcerated\n\n          -  Limited access to or compromised monitoring sites for non-invasive finger sensors"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "89 Years", 
+            "minimum_age": "18 Years", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "Healthy adult volunteers donating blood"
+            }
+        }, 
+        "enrollment": {
+            "#text": "100", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "December 16, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02029807", 
+            "org_study_id": "13-2334"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "lastchanged_date": "January 24, 2014", 
+        "location": {
+            "contact": {
+                "email": "Mark.Talley@childrenscolorado.org", 
+                "last_name": "Mark Talley, MS", 
+                "phone": "720-777-5371"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Aurora", 
+                    "country": "United States", 
+                    "state": "Colorado", 
+                    "zip": "80045"
+                }, 
+                "name": "Children's Hospital Colorado's Blood Donation Center"
+            }, 
+            "investigator": [
+                {
+                    "last_name": "Steve Moulton, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                {
+                    "last_name": "Camille Stewart, MD", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Kelley Capocelli, MD", 
+                    "role": "Sub-Investigator"
+                }
+            ], 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_groups": "1", 
+        "official_title": "Comparison of Compensatory Reserve Index to Intravascular Volume Change and Stroke Volume During Blood Donation", 
+        "overall_contact": {
+            "email": "Mark.Talley@childrenscolorado.org", 
+            "last_name": "Mark Talley, MS", 
+            "phone": "720-777-5371"
+        }, 
+        "overall_official": {
+            "affiliation": "University of Colorado, Denver", 
+            "last_name": "Steve Moulton, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": [
+                "United States: Food and Drug Administration", 
+                "United States: Institutional Review Board", 
+                "United States: Federal Government"
+            ], 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "April 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "The CRI algorithm is intended to display the trend of intravascular volume changes.  This is measured Day One.", 
+                "measure": "Intravascular volume", 
+                "safety_issue": "No", 
+                "time_frame": "Day One"
+            }, 
+            {
+                "description": "The CRI algorithm is intended to display the trend of stroke volume changes. This is measured Day One.", 
+                "measure": "Stroke volume changes", 
+                "safety_issue": "No", 
+                "time_frame": "Day One"
+            }, 
+            {
+                "description": "The CRI algorithm is intended to not require calibration, or being placed, during normal physiological conditions. This is measured Day One.", 
+                "measure": "CRI trend", 
+                "safety_issue": "No", 
+                "time_frame": "Day One"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02029807"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "University of Colorado, Denver", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Flashback Technologies", 
+                "agency_class": "Industry"
+            }, 
+            "lead_sponsor": {
+                "agency": "University of Colorado, Denver", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2014", 
+        "study_design": "Observational Model: Case-Only, Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "January 2014"
+    }
+}

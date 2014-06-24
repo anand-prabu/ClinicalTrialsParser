@@ -1,0 +1,595 @@
+{
+    "clinical_study": {
+        "@rank": "146470", 
+        "acronym": "ProACT", 
+        "arm_group": [
+            {
+                "arm_group_label": "Procalcitonin (PCT) group", 
+                "arm_group_type": "Experimental", 
+                "description": "Procalcitonin (PCT) level; Results of procalcitonin level to treating clinician; Provide procalcitonin guideline to treating clinician; Telephone Visit at Day 15 and Day 30"
+            }, 
+            {
+                "arm_group_label": "Usual Care group", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Telephone Visit at Day 15 and Day 30"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The ProACT study is a 5 year, multicenter study that will test the effect of implementation\n      of a novel procalcitonin guideline on antibiotic use and adverse outcomes in emergency\n      department (ED) patients with lower respiratory tract infection (LRTI)."
+        }, 
+        "brief_title": "Procalcitonin Antibiotic Consensus Trial (ProACT)", 
+        "completion_date": {
+            "#text": "June 2018", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Lower Respiratory Tract Infection (LRTI)", 
+        "condition_browse": {
+            "mesh_term": "Respiratory Tract Infections"
+        }, 
+        "detailed_description": {
+            "textblock": "There is a need for improved decision-making for antibiotic prescription in acute suspected\n      infection.  Infections, particularly in the early stages, can have protean manifestations,\n      often do not manifest with \"classic\" signs, and clinically overlap with non-infectious\n      conditions. However, the imperative to quickly give antibiotics for bacterial infection has\n      led to antibiotic overuse and resistance.\n\n      Strategies that combine novel diagnostics with therapeutics have improved decision-making in\n      oncology, cardiology, and other fields. These strategies aim to identify those patients most\n      likely to be helped or harmed by the therapeutic intervention and allow more individualized\n      care. This approach takes diagnostics to the next level, by demanding a test not only\n      measure well, but also that clinical care be improved by tying the test to a treatment\n      strategy.\n\n      Procalcitonin, a novel biomarker of bacterial infection, may help physicians make more\n      appropriate antibiotic decisions. Lower respiratory tract infection (LRTI) is an ideal trial\n      population. LRTI accounts for a large proportion of antibiotic prescription, and exemplifies\n      the imprecise clinical phenotype of infection.However, key questions of generalizability and\n      safety preclude widespread application."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  \u2265 18 years old\n\n          -  A primary clinical diagnosis in the ED of acute LRTI (< 28 days duration)\n\n          -  Clinician willing to consider procalcitonin in antibiotic decision-making\n\n        Exclusion Criteria:\n\n          -  Systemic antibiotics before ED presentation (All prophylactic antibiotic regimens, OR\n             received >1 dose within 72 hours prior to ED presentation)\n\n          -  Current vasopressor use\n\n          -  Mechanical ventilation (via endotracheal tube)\n\n          -  Known severe immunosuppression\n\n          -  Accompanying non-respiratory infections\n\n          -  Known lung abscess or empyema\n\n          -  Chronic dialysis\n\n          -  Metastatic cancer\n\n          -  Surgery in the past 7 days (excluding minor surgery such as skin biopsy)\n\n          -  Incarcerated or homeless\n\n          -  Enrolled in ProACT in the past 30 days"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "1514", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "May 1, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02130986", 
+            "org_study_id": "1R01GM101197", 
+            "secondary_id": "1R01GM101197"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Procalcitonin (PCT) group", 
+                "description": "A procalcitonin (PCT) will be drawn level within one hour after randomization in the ED, and if hospitalized, 6-24 hours after the initial ED blood draw, and on Days 3, 5, and 7.  Days 3, 5, and 7 blood draws for procalcitonin will only occur in hospitalized patients on antibiotics and/or at the treating physician's discretion.", 
+                "intervention_name": "Procalcitonin level", 
+                "intervention_type": "Other", 
+                "other_name": "PCT level"
+            }, 
+            {
+                "arm_group_label": "Procalcitonin (PCT) group", 
+                "description": "In the ED, we will quickly (<1 hour goal) provide clinicians the procalcitonin result.", 
+                "intervention_name": "Results of procalcitonin (PCT) level to treating clinician", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": "Procalcitonin (PCT) group", 
+                "description": "Procalcitonin antibiotic guideline --\nProcalcitonin level (ug/L) -- Bacterial etiology -- Recommendation\n< 0.1 --  Very unlikely -- Antibiotics strongly discouraged(1)\n0.1 - 0.25 --                 Unlikely     --            Antibiotics discouraged(1)\n> 0.25 - 0.5  --                Likely       --          Antibiotics recommended(2)\n> 0.5               --                   Very likely -- Antibiotics strongly recommended(2)\nInitial antibiotics can be considered for critical illness, Legionella pneumophilia. Procalcitonin should be evaluated in context with all findings and the total clinical status; clinical judgment always necessary.\nFor outpatients, antibiotic duration based on level (> 0.25-0.5 ug/L:3 days; > 0.5-1.0 ug/L:5 days; >1.0 ug/L:7 days). Physician follow-up is recommended.", 
+                "intervention_name": "Provide procalcitonin guideline to treating clinician", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": [
+                    "Procalcitonin (PCT) group", 
+                    "Usual Care group"
+                ], 
+                "description": "We will collect the number of antibiotic days during telephone visits occurring on or around Day 15 and Day 30", 
+                "intervention_name": "Telephone Visit", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Anti-Bacterial Agents", 
+                "Antibiotics, Antitubercular"
+            ]
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "procalcitonin (PCT)", 
+            "lower respiratory tract infection (LRTI)", 
+            "antibiotic exposure", 
+            "antibiotic decision making", 
+            "community acquired pneumonia (CAP)", 
+            "chronic obstructive pulmonary disease (COPD) exacerbation", 
+            "acute asthma exacerbation", 
+            "acute bronchitis", 
+            "procalcitonin guideline"
+        ], 
+        "lastchanged_date": "May 5, 2014", 
+        "location": [
+            {
+                "contact": {
+                    "email": "npatkar@uabmc.edu", 
+                    "last_name": "Nive Patkar", 
+                    "phone": "205-934-4011"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Birmingham", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "35249"
+                    }, 
+                    "name": "University of Alabama at Birmingham"
+                }, 
+                "investigator": [
+                    {
+                        "last_name": "Michael Kurz, MD", 
+                        "role": "Principal Investigator"
+                    }, 
+                    {
+                        "last_name": "David McCollum, MD", 
+                        "role": "Sub-Investigator"
+                    }
+                ], 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "Frank.LoVecchio@bannerhealth.com", 
+                    "last_name": "Frank LoVecchio, DO, MPH", 
+                    "phone": "602-239-2358"
+                }, 
+                "contact_backup": {
+                    "email": "Mary_mulrow@medprodoctors.com", 
+                    "last_name": "Mary Mulrow, RN, MN", 
+                    "phone": "602-344-5058"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Phoenix", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85008"
+                    }, 
+                    "name": "Maricopa Medical Center"
+                }, 
+                "investigator": [
+                    {
+                        "last_name": "Frank LoVecchio, DO, MPH", 
+                        "role": "Principal Investigator"
+                    }, 
+                    {
+                        "last_name": "Thomas Ardilles, MD", 
+                        "role": "Sub-Investigator"
+                    }
+                ], 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "jonesrd@uci.edu", 
+                    "last_name": "Rick Jones", 
+                    "phone": "714-456-3489"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Orange", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92868"
+                    }, 
+                    "name": "University of California at Irvine Medical Center"
+                }, 
+                "investigator": [
+                    {
+                        "last_name": "Shahram Lotfipour, MD, MPH", 
+                        "role": "Principal Investigator"
+                    }, 
+                    {
+                        "last_name": "Matthew J Butteri, MD", 
+                        "role": "Sub-Investigator"
+                    }
+                ], 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "jonathan.fine@norwalkhealth.org", 
+                    "last_name": "Jonathan Fine, MD", 
+                    "phone": "203-855-3543"
+                }, 
+                "contact_backup": {
+                    "email": "christine.belden@norwalkhealth.org", 
+                    "last_name": "Christine Belden, RN", 
+                    "phone": "203-852-3021"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Norwalk", 
+                        "country": "United States", 
+                        "state": "Connecticut", 
+                        "zip": "06856"
+                    }, 
+                    "name": "Norwalk Hospital"
+                }, 
+                "investigator": [
+                    {
+                        "last_name": "Jonathan Fine, MD", 
+                        "role": "Principal Investigator"
+                    }, 
+                    {
+                        "last_name": "Michael Carius, MD", 
+                        "role": "Sub-Investigator"
+                    }
+                ], 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Feras Khan, MD", 
+                    "phone": "410-328-8025"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21201"
+                    }, 
+                    "name": "University of Maryland/Baltimore"
+                }, 
+                "investigator": [
+                    {
+                        "last_name": "Feras Khan, MD", 
+                        "role": "Principal Investigator"
+                    }, 
+                    {
+                        "last_name": "Michael Winters, MD", 
+                        "role": "Sub-Investigator"
+                    }
+                ], 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "phou@partners.org", 
+                    "last_name": "Peter C. Hou, MD", 
+                    "phone": "617-732-5640"
+                }, 
+                "contact_backup": {
+                    "email": "sparmar@partners.org", 
+                    "last_name": "Siddarth Parmar"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02115"
+                    }, 
+                    "name": "Brigham and Women's Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Peter C. Hou, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "mfilbin@partners.org", 
+                    "last_name": "Michael Filbin, MD", 
+                    "phone": "617-724-0348"
+                }, 
+                "contact_backup": {
+                    "email": "bparry@partners.org", 
+                    "last_name": "Blair Parry, BA", 
+                    "phone": "617-724-4758"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02114"
+                    }, 
+                    "name": "Massachusetts General Hospital"
+                }, 
+                "investigator": [
+                    {
+                        "last_name": "Michael Filbin, MD", 
+                        "role": "Principal Investigator"
+                    }, 
+                    {
+                        "last_name": "Michael Mansour, MD", 
+                        "role": "Sub-Investigator"
+                    }
+                ], 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "mdonnino@bidmc.harvard.edu", 
+                    "last_name": "Michael Donnino, MD", 
+                    "phone": "617-754-2341"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02215"
+                    }, 
+                    "name": "Beth Israel Deaconess Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Michael Donnino, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "drobinso@med.wayne.edu", 
+                    "last_name": "Duane Robinson", 
+                    "phone": "313-966-9265"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Detroit", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48201"
+                    }, 
+                    "name": "Wayne State University/Sanal Grace Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Robert Sherwin, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "michael.hill@osumc.edu", 
+                    "last_name": "Michael Hill", 
+                    "phone": "614-293-6185"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Columbus", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "43210"
+                    }, 
+                    "name": "The Ohio State University, College of Medicine"
+                }, 
+                "investigator": [
+                    {
+                        "last_name": "Thomas Terndrup, MD", 
+                        "role": "Principal Investigator"
+                    }, 
+                    {
+                        "last_name": "Matthew Exline, MD", 
+                        "role": "Sub-Investigator"
+                    }
+                ], 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "mfischer1@hmc.psu.edu", 
+                    "last_name": "Michelle Fischer, MD"
+                }, 
+                "contact_backup": {
+                    "email": "nflint@hmc.psu.edu", 
+                    "last_name": "Nancy Campbell", 
+                    "phone": "717-531-1707", 
+                    "phone_ext": "3"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Hershey", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "17033"
+                    }, 
+                    "name": "Penn State Hershey College of Medicine; Milton S. Hershey Medical Center"
+                }, 
+                "investigator": [
+                    {
+                        "last_name": "Michelle Fischer, MD", 
+                        "role": "Principal Investigator"
+                    }, 
+                    {
+                        "last_name": "Colleen Rafferty, MD", 
+                        "role": "Sub-Investigator"
+                    }
+                ], 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "scholldw@upmc.edu", 
+                    "last_name": "Denise Scholl", 
+                    "phone": "412-647-5023"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Pittsburgh", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "15261"
+                    }, 
+                    "name": "University of Pittsburgh Medical Center"
+                }, 
+                "investigator": [
+                    {
+                        "last_name": "Clif Calloway, MD", 
+                        "role": "Principal Investigator"
+                    }, 
+                    {
+                        "last_name": "Michael J. Fine, MD", 
+                        "role": "Sub-Investigator"
+                    }
+                ], 
+                "status": "Not yet recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Procalcitonin Antibiotic Consensus Trial (ProACT)", 
+        "overall_contact": {
+            "email": "eatontl@upmc.edu", 
+            "last_name": "Tammy L Eaton, MSN FNP-BC", 
+            "phone": "412-647-3689"
+        }, 
+        "overall_official": {
+            "affiliation": "University of Pittsburgh", 
+            "last_name": "David T Huang, MD MPH", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Not yet recruiting", 
+        "oversight_info": {
+            "authority": [
+                "United States: Institutional Review Board", 
+                "United States: Federal Government", 
+                "United States: Data and Safety Monitoring Board"
+            ], 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "June 2018", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "Total antibiotic exposure, defined as the total number of antibiotic-days by Day 30.", 
+                "measure": "Total antibiotic exposure days", 
+                "safety_issue": "No", 
+                "time_frame": "30 days"
+            }, 
+            {
+                "measure": "Combined endpoint of adverse outcomes that could be attributable to withholding antibiotics in LRTI", 
+                "safety_issue": "Yes", 
+                "time_frame": "30 days"
+            }
+        ], 
+        "reference": [
+            {
+                "PMID": "16175035", 
+                "citation": "Meisner M. Biomarkers of sepsis: clinically useful? Curr Opin Crit Care. 2005 Oct;11(5):473-80. Review."
+            }, 
+            {
+                "PMID": "19529989", 
+                "citation": "Schuetz P, Christ-Crain M, M\u00fcller B. Procalcitonin and other biomarkers to improve assessment and antibiotic stewardship in infections--hope for hype? Swiss Med Wkly. 2009 Jun 13;139(23-24):318-26. doi: smw-12584. Review."
+            }, 
+            {
+                "PMID": "11232031", 
+                "citation": "M\u00fcller B, White JC, Nyl\u00e9n ES, Snider RH, Becker KL, Habener JF. Ubiquitous expression of the calcitonin-i gene in multiple tissues in response to sepsis. J Clin Endocrinol Metab. 2001 Jan;86(1):396-404."
+            }, 
+            {
+                "PMID": "12627371", 
+                "citation": "Nylen E, Muller B, Becker KL, Snider R. The future diagnostic role of procalcitonin levels: the need for improved sensitivity. Clin Infect Dis. 2003 Mar 15;36(6):823-4; author reply 826-7. No abstract available."
+            }, 
+            {
+                "PMID": "16715031", 
+                "citation": "Uzzan B, Cohen R, Nicolas P, Cucherat M, Perret GY. Procalcitonin as a diagnostic test for sepsis in critically ill adults and after surgery or trauma: a systematic review and meta-analysis. Crit Care Med. 2006 Jul;34(7):1996-2003. Review."
+            }, 
+            {
+                "PMID": "17161501", 
+                "citation": "Jones AE, Fiechtl JF, Brown MD, Ballew JJ, Kline JA. Procalcitonin test in the diagnosis of bacteremia: a meta-analysis. Ann Emerg Med. 2007 Jul;50(1):34-41. Epub 2006 Dec 11. Review."
+            }, 
+            {
+                "PMID": "15307030", 
+                "citation": "Simon L, Gauvin F, Amre DK, Saint-Louis P, Lacroix J. Serum procalcitonin and C-reactive protein levels as markers of bacterial infection: a systematic review and meta-analysis. Clin Infect Dis. 2004 Jul 15;39(2):206-17. Epub 2004 Jul 2. Review. Erratum in: Clin Infect Dis. 2005 May 1;40(9):1386-8."
+            }, 
+            {
+                "PMID": "16862463", 
+                "citation": "Stolz D, Christ-Crain M, Gencay MM, Bingisser R, Huber PR, M\u00fcller B, Tamm M. Diagnostic value of signs, symptoms and laboratory values in lower respiratory tract infection. Swiss Med Wkly. 2006 Jul 8;136(27-28):434-40."
+            }, 
+            {
+                "PMID": "18329217", 
+                "citation": "Hirakata Y, Yanagihara K, Kurihara S, Izumikawa K, Seki M, Miyazaki Y, Kohno S. Comparison of usefulness of plasma procalcitonin and C-reactive protein measurements for estimation of severity in adults with community-acquired pneumonia. Diagn Microbiol Infect Dis. 2008 Jun;61(2):170-4. doi: 10.1016/j.diagmicrobio.2008.01.014. Epub 2008 Mar 7."
+            }, 
+            {
+                "PMID": "18839468", 
+                "citation": "Prieto B, Llorente E, Gonz\u00e1lez-Pinto I, Alvarez FV. Plasma procalcitonin measured by time-resolved amplified cryptate emission (TRACE) in liver transplant patients. A prognosis marker of early infectious and non-infectious postoperative complications. Clin Chem Lab Med. 2008;46(5):660-6."
+            }, 
+            {
+                "PMID": "18661397", 
+                "citation": "Prat C, Sancho JM, Dominguez J, Xicoy B, Gimenez M, Ferra C, Blanco S, Lacoma A, Ribera JM, Ausina V. Evaluation of procalcitonin, neopterin, C-reactive protein, IL-6 and IL-8 as a diagnostic marker of infection in patients with febrile neutropenia. Leuk Lymphoma. 2008 Sep;49(9):1752-61. doi: 10.1080/10428190802258956."
+            }, 
+            {
+                "PMID": "19386110", 
+                "citation": "Charles PE, Kus E, Aho S, Prin S, Doise JM, Olsson NO, Blettery B, Quenot JP. Serum procalcitonin for the early recognition of nosocomial infection in the critically ill patients: a preliminary report. BMC Infect Dis. 2009 Apr 22;9:49. doi: 10.1186/1471-2334-9-49."
+            }, 
+            {
+                "PMID": "18342993", 
+                "citation": "Huang DT, Weissfeld LA, Kellum JA, Yealy DM, Kong L, Martino M, Angus DC; GenIMS Investigators. Risk prediction with procalcitonin and clinical rules in community-acquired pneumonia. Ann Emerg Med. 2008 Jul;52(1):48-58.e2. doi: 10.1016/j.annemergmed.2008.01.003. Epub 2008 Mar 17."
+            }, 
+            {
+                "PMID": "17335562", 
+                "citation": "M\u00fcller B, Harbarth S, Stolz D, Bingisser R, Mueller C, Leuppi J, Nusbaumer C, Tamm M, Christ-Crain M. Diagnostic and prognostic accuracy of clinical and laboratory parameters in community-acquired pneumonia. BMC Infect Dis. 2007 Mar 2;7:10."
+            }, 
+            {
+                "PMID": "21369807", 
+                "citation": "Cuquemelle E, Soulis F, Villers D, Roche-Campo F, Ara Somohano C, Fartoukh M, Kouatchet A, Mourvillier B, Dellamonica J, Picard W, Schmidt M, Boulain T, Brun-Buisson C; A/H1N1 REVA-SRLF Study Group. Can procalcitonin help identify associated bacterial infection in patients with severe influenza pneumonia? A multicentre study. Intensive Care Med. 2011 May;37(5):796-800. doi: 10.1007/s00134-011-2189-1. Epub 2011 Mar 3."
+            }, 
+            {
+                "PMID": "21614897", 
+                "citation": "Schappert SM, Rechtsteiner EA. Ambulatory medical care utilization estimates for 2007. Vital Health Stat 13. 2011 Apr;(169):1-38."
+            }, 
+            {
+                "PMID": "14987884", 
+                "citation": "Christ-Crain M, Jaccard-Stolz D, Bingisser R, Gencay MM, Huber PR, Tamm M, Muller B. Effect of procalcitonin-guided treatment on antibiotic use and outcome in lower respiratory tract infections: cluster-randomised, single-blinded intervention trial. Lancet. 2004 Feb 21;363(9409):600-7."
+            }, 
+            {
+                "PMID": "17218551", 
+                "citation": "Stolz D, Christ-Crain M, Bingisser R, Leuppi J, Miedinger D, M\u00fcller C, Huber P, M\u00fcller B, Tamm M. Antibiotic treatment of exacerbations of COPD: a randomized, controlled trial comparing procalcitonin-guidance with standard therapy. Chest. 2007 Jan;131(1):9-19."
+            }, 
+            {
+                "PMID": "19738090", 
+                "citation": "Schuetz P, Christ-Crain M, Thomann R, Falconnier C, Wolbers M, Widmer I, Neidert S, Fricker T, Blum C, Schild U, Regez K, Schoenenberger R, Henzen C, Bregenzer T, Hoess C, Krause M, Bucher HC, Zimmerli W, Mueller B; ProHOSP Study Group. Effect of procalcitonin-based guidelines vs standard guidelines on antibiotic use in lower respiratory tract infections: the ProHOSP randomized controlled trial. JAMA. 2009 Sep 9;302(10):1059-66."
+            }, 
+            {
+                "PMID": "21507143", 
+                "citation": "Long W, Deng X, Zhang Y, Lu G, Xie J, Tang J. Procalcitonin guidance for reduction of antibiotic use in low-risk outpatients with community-acquired pneumonia. Respirology. 2011 Jul;16(5):819-24. doi: 10.1111/j.1440-1843.2011.01978.x."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02130986"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "measure": "Rate of antibiotic initiation by the initial ED clinician", 
+            "safety_issue": "No", 
+            "time_frame": "during initial ED visit"
+        }, 
+        "source": "University of Pittsburgh", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "National Institute of General Medical Sciences (NIGMS)", 
+                    "agency_class": "NIH"
+                }, 
+                {
+                    "agency": "Biomerieux", 
+                    "agency_class": "Industry"
+                }, 
+                {
+                    "agency": "ThermoFisher Scientific Brahms Biomarkers France", 
+                    "agency_class": "Industry"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "University of Pittsburgh", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "June 2014", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Single Blind (Outcomes Assessor), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2014"
+    }
+}

@@ -1,0 +1,617 @@
+{
+    "clinical_study": {
+        "@rank": "104230", 
+        "arm_group": [
+            {
+                "arm_group_label": "Lomustine+ buparlisib (Phase Ib)", 
+                "arm_group_type": "Experimental"
+            }, 
+            {
+                "arm_group_label": "carboplatin+ buparlisib (Phase Ib)", 
+                "arm_group_type": "Experimental"
+            }, 
+            {
+                "arm_group_label": "lomustine+ buparlisib (Phase II)", 
+                "arm_group_type": "Experimental"
+            }, 
+            {
+                "arm_group_label": "lumustine + placebo (Phase II)", 
+                "arm_group_type": "Placebo Comparator"
+            }, 
+            {
+                "arm_group_label": "carboplatin+ buparlisib (Phase II)", 
+                "arm_group_type": "Experimental"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This is a multi-center, phase Ib/ II study (two parts) with patients that have recurrent\n      glioblastoma multiforme. The first part (phase Ib) will investigate the maximum tolerated\n      dose/Recommended phase ll dose (MTD/RP2D) of once daily buparlisib in combination with\n      every-three-week carboplatin or buparlisib once daily in combination with every-six-week\n      lomustine (CCNU) using a Bayesian model. Once MTD/ RP2D is established in either of the 2\n      arms, the corresponding phase II portion of the study will start. Phase II will assess the\n      treatment effect of buparlisib in combination with carboplatin in terms of Progression Free\n      Survival (PFS) and will compare the treatment effect of buparlisib with lomustine versus\n      lomustine plus placebo in terms of PFS."
+        }, 
+        "brief_title": "Phase Ib/II Study of Buparlisib Plus Carboplatin or Lomustine in Patients With Recurrent Glioblastoma Multiforme", 
+        "completion_date": {
+            "#text": "December 2016", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Recurrent Glioblastoma Multiforme (rGBM)", 
+        "condition_browse": {
+            "mesh_term": "Glioblastoma"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patient is an adult \u2265 18 years old at the time of informed consent.\n\n          -  Patient has histologically confirmed diagnosis of GBM with documented recurrence\n             after first line treatment including radiotherapy and TMZ (SoC), not suitable for\n             curative surgery or re-irradiation.\n\n          -  Patient has at least one measurable and/or non-measurable lesion as per RANO criteria\n\n          -  Patient has recovered (to Grade \u22641) from all clinically significant toxicities\n             related to prior antineoplastic therapies.\n\n          -  Patient has Karnofsky performance status (KPS) \u226570%.\n\n          -  Patient has adequate organ and bone marrow functions:\n\n               -  Absolute Neutrophils Count (ANC) \u2265 1.5 x 109/L\n\n               -  Platelets \u2265 100 x 109/L (in case of transfusion stable for \u226514 days prior to\n                  treatment start)\n\n               -  Hemoglobin \u2265 9.0 g/dL (in case of transfusion stable for \u226514 days prior to\n                  treatment start)\n\n               -  INR \u2264 1,5\n\n               -  Serum Creatinine \u2264 1.5 x ULN, or Creatinine Clearance > 45mL/min\n\n               -  Potassium and calcium (corrected for albumin), sodium and magnesium within\n                  institutional normal limits\n\n               -  Serum Bilirubin \u2264 ULN, AST and ALT \u2264 ULN\n\n               -  HbA1c \u2264 8%\n\n               -  Fasting plasma glucose (FPG) \u2264 120 mg/dL or \u2264 6.7 mmol/L\n\n          -  Patient has tumor tissues available (archival or fresh).\n\n        Exclusion Criteria:\n\n          -  Patient has received previous treatment with PI3K inhibitors, lomustine or\n             carboplatin.\n\n          -  Patient has received previous antineoplastic treatment for recurrent GBM (e.g. VEGF\n             inhibitors, cytotoxic agents).\n\n          -  Patient has received more than one line of cytotoxic chemotherapy\n\n          -  Patient has concurrent use of anti-neoplastic agents including investigational\n             therapy\n\n          -  Patient is currently receiving warfarin or other coumarin derived anti-coagulant, for\n             treatment, prophylaxis or otherwise. Therapy with heparin, low molecular weight\n             heparin (LMWH), or fondaparinux is allowed.\n\n          -  Patient is currently receiving treatment with drugs known to be moderate or strong\n             inhibitors or inducers of isoenzyme CYP3A. The patient must have discontinued strong\n             inducers for at least one week and must have discontinued strong inhibitors before\n             the treatment is initiated. Switching to a different medication prior to\n             randomization is allowed.\n\n          -  Patient is currently receiving an enzyme-inducing anti-epileptic drug (EIAED). The\n             patient must have discontinued EIAED therapy for at least two weeks prior to starting\n             study drug.\n\n        Other protocol-defined Inclusion/exclusion criteria may apply."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "176", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "August 20, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01934361", 
+            "org_study_id": "CBKM120E2102", 
+            "secondary_id": "2013-003129-27"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Lomustine+ buparlisib (Phase Ib)", 
+                    "carboplatin+ buparlisib (Phase Ib)", 
+                    "lomustine+ buparlisib (Phase II)", 
+                    "carboplatin+ buparlisib (Phase II)"
+                ], 
+                "description": "Buparlisib administered orally on a continuous daily schedule. Buparlisib is manufactured as 10mg and 50mg hard gelatin capsules.", 
+                "intervention_name": "buparlisib", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "carboplatin+ buparlisib (Phase Ib)", 
+                    "carboplatin+ buparlisib (Phase II)"
+                ], 
+                "description": "Carboplatin intravenous infusion will be administered at a dose of AUC 5 in a 21 day cycle (every 3 weeks).", 
+                "intervention_name": "carboplatin", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "Lomustine+ buparlisib (Phase Ib)", 
+                    "lomustine+ buparlisib (Phase II)", 
+                    "lumustine + placebo (Phase II)"
+                ], 
+                "description": "Lomustine will be administered as a single oral dose of 100 mg/m\u00b2 every 6 weeks in a 42 day cycles.", 
+                "intervention_name": "lomustine", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "lumustine + placebo (Phase II)", 
+                "description": "Placebo will be administered orally on a continuous QD dosing schedule for cycles of 42 days. Buparlisib matching placebo is manufactured as 10 mg and 50 mg hard gelatin capsules.", 
+                "intervention_name": "placebo", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Lomustine", 
+                "Carboplatin"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "BKM120,", 
+            "Recurrent glioblastoma multiforme,", 
+            "rGBM,", 
+            "buparlisib"
+        ], 
+        "lastchanged_date": "March 13, 2014", 
+        "location": [
+            {
+                "contact": {
+                    "email": "AKolb@ironwoodcrc.com", 
+                    "last_name": "Ann Kolb"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Chandler", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85224"
+                    }, 
+                    "name": "Ironwood Cancer and Research Centers SC"
+                }, 
+                "investigator": {
+                    "last_name": "Mikhail Shtivelband", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "chantijohnson-smith@dignityhealth.org", 
+                    "last_name": "Chanti Johnson-Smith"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Phoenix", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85013"
+                    }, 
+                    "name": "Barrow Neurological Insitute St. Joseph's Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Lynn Ashby", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "thesington@hogonc.com", 
+                    "last_name": "Tia Hesington", 
+                    "phone": "479-872-8130"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Fayetteville", 
+                        "country": "United States", 
+                        "state": "Arkansas", 
+                        "zip": "72703"
+                    }, 
+                    "name": "Highlands Oncology Group Dept of Highlands Oncology Grp"
+                }, 
+                "investigator": {
+                    "last_name": "Joseph T. Beck", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "a-youngkin@northwestern.edu", 
+                    "last_name": "Any Youngkin", 
+                    "phone": "312-695-1382"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60611"
+                    }, 
+                    "name": "Northwestern University"
+                }, 
+                "investigator": {
+                    "last_name": "Jeffrey J. Raizer", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "meaghan_elliott@dfci.harvard.edu", 
+                    "last_name": "Meaghan Elliott", 
+                    "phone": "617-632-3352"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts"
+                    }, 
+                    "name": "Dana Farber Cancer Institute"
+                }, 
+                "investigator": {
+                    "last_name": "Patrick Y. Wen", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "jni@mdanderson.org", 
+                    "last_name": "Jiyuan Ni", 
+                    "phone": "713-745-5769"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77030"
+                    }, 
+                    "name": "MD Anderson Cancer Center/University of Texas"
+                }, 
+                "investigator": {
+                    "last_name": "John F DeGroot", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Heidelberg", 
+                        "country": "Australia", 
+                        "state": "Victoria", 
+                        "zip": "3084"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Parkville", 
+                        "country": "Australia", 
+                        "state": "Victoria", 
+                        "zip": "3050"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "North Adelaide", 
+                        "country": "Australia", 
+                        "zip": "5006"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Leuven", 
+                        "country": "Belgium", 
+                        "zip": "3000"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toronto", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "M5G 2M9"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris Cedex 13", 
+                        "country": "France", 
+                        "zip": "75651"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Herblain cedex", 
+                        "country": "France", 
+                        "zip": "44805"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bonn", 
+                        "country": "Germany", 
+                        "zip": "53105"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Freiburg", 
+                        "country": "Germany", 
+                        "zip": "79106"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Regensburg", 
+                        "country": "Germany", 
+                        "zip": "93053"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hong Kong", 
+                        "country": "Hong Kong"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bologna", 
+                        "country": "Italy", 
+                        "state": "BO", 
+                        "zip": "40139"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milano", 
+                        "country": "Italy", 
+                        "state": "MI", 
+                        "zip": "20133"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Modena", 
+                        "country": "Italy", 
+                        "state": "MO", 
+                        "zip": "41100"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Roma", 
+                        "country": "Italy", 
+                        "state": "RM", 
+                        "zip": "00168"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Torino", 
+                        "country": "Italy", 
+                        "state": "TO", 
+                        "zip": "10126"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Napoli", 
+                        "country": "Italy", 
+                        "zip": "80131"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Barcelona", 
+                        "country": "Spain", 
+                        "state": "Catalunya", 
+                        "zip": "08036"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hospitalet de LLobregat", 
+                        "country": "Spain", 
+                        "state": "Catalunya", 
+                        "zip": "08907"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Australia", 
+                "Belgium", 
+                "Canada", 
+                "France", 
+                "Germany", 
+                "Hong Kong", 
+                "Italy", 
+                "Spain"
+            ]
+        }, 
+        "number_of_arms": "5", 
+        "official_title": "Phase Ib/II Multicenter Study of Buparlisib Plus Carboplatin or Lomustine in Patients With Recurrent Glioblastoma Multiforme", 
+        "overall_contact": {
+            "last_name": "Novartis Pharmaceuticals", 
+            "phone": "1-888-669-6682"
+        }, 
+        "overall_contact_backup": {
+            "last_name": "Novartis Pharmaceuticals", 
+            "phone_ext": "+41613241111"
+        }, 
+        "overall_official": {
+            "affiliation": "Novartis Pharmaceuticals", 
+            "last_name": "Novartis Pharmaceuticals", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": [
+                "Australia: Department of Health and Ageing Therapeutic Goods Administration Belgium: Federal Agency for Medicinal Products and Health Products", 
+                "Canada: Health Canada", 
+                "France: ANSM", 
+                "Germany: BfarM", 
+                "Hong Kong: Department of Health (Phase II part only)", 
+                "India: Indian Council of Medical Research (Phase II part only)", 
+                "Italy: AIFA", 
+                "Korea: Ministry of Drug and Food Safety (Phase II part only)", 
+                "Netherlands: The Central Committee on Research Involving Human Subjects (CCMO) (Phase II part only)", 
+                "Poland: Ministry of Health", 
+                "Singapore: Health Sciences Authority (Phase II part only)", 
+                "Spain: Agency of Medecines & Health Products", 
+                "Sweden: Medicinal Products Agency", 
+                "Switzerland: Swissmedic", 
+                "Thailand: Food and Drug Administration (Phase II part only)", 
+                "United States: Food and Drug Administration"
+            ], 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 1/Phase 2", 
+        "primary_completion_date": {
+            "#text": "December 2016", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "Maximum Tolerated Dose (MTD) is defined as the highest BKM120 dosage that does not cause medically unacceptable Dose Limiting Toxicities (DLTs) in more than 35% of the treated patients during the first cycle of treatment. DLT is defined as treatment-related toxicity occurring during the phase Ib cycle 1 and meeting specific protocol-predefined criteria. The information will be integrated in a Bayesian logistic regression model with overdose control to estimate the MTD.", 
+                "measure": "Number of Total Dose-limiting Toxicity (DLT) during Dose Escalation part to determine Maximum Tolerated Dose (MTD) [Phase Ib]", 
+                "safety_issue": "Yes", 
+                "time_frame": "Cycle 1 (21 days carboplatin combination or 42 days lomustine combination )"
+            }, 
+            {
+                "description": "12-week Progression Free Survival (PFS) is defined as the percentage of patients who are progression free 12 weeks after the date of the start of the treatment (\"success\"). Patients who progressed, died or discontinued within the 12 weeks of observation are counted as \"failure\".", 
+                "measure": "12 week Progression Free Survival (PFS) rate (Phase II- Carboplatin combination)", 
+                "safety_issue": "No", 
+                "time_frame": "12 weeks"
+            }, 
+            {
+                "description": "Progression Free Survival (PFS) is defined as the time from date of randomization to the date of the event, which is the first radiologically documented disease progression [per local investigator assessment according to Response Assessment in Neuro-Oncology (RANO) criteria] or death due to any cause.", 
+                "measure": "Progression Free Survival (PFS) [phase II lomustine combinations]", 
+                "safety_issue": "No", 
+                "time_frame": "Randomization until date of the event (expected average 3 months)."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01934361"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "The incidence of Adverse Events (AEs) summarized by system organ class and or preferred term, severity (based on Common Terminology Criteria for Adverse Events (CTCAE) grades version 4), type of AE, relation to study treatment.", 
+                "measure": "Frequency and severity of Adverse Events (AEs) [Phase Ib, Phase II, all treatment arms]", 
+                "safety_issue": "Yes", 
+                "time_frame": "Until 30 days after treatment discontinuation"
+            }, 
+            {
+                "description": "Overall response rate (ORR) is defined as the proportion of patients with a best overall response of complete response (CR) or partial response (PR), based on the investigator assessment as per Response Assessment in Neuro-Oncology (RANO) criteria.", 
+                "measure": "Overall Response Rate (ORR) as per Response Assessment in Neuro-Oncology (RANO) [Phase Ib , both combinations]", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline, every 6 weeks from treatment start until disease progression or until start of another antineoplastic treatment or death which ever occurs first up to 1 year"
+            }, 
+            {
+                "description": "Progression Free Survival (PFS) is defined as time from date of treatment start to the date of the event, which is the first radiologically documented disease progression or death due to any cause per local investigator assessment.", 
+                "measure": "Progression Free Survival (PFS) [Phase Ib- both combinations]", 
+                "safety_issue": "No", 
+                "time_frame": "Time from treatment start to the date of the event (expected average 3 months)"
+            }, 
+            {
+                "description": "Overall response rate (ORR) is defined as the proportion of patients with a best overall response of complete response (CR) or partial response (PR), based on the investigator assessment as per Response Assessment in Neuro-Oncology (RANO) criteria.", 
+                "measure": "Overall response rate (ORR) [Phae II, carboplatin combination]", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline, every 6 weeks from treatment start until disease progression or until start of another antineoplastic treatment or death which ever occurs first up to 1 year"
+            }, 
+            {
+                "description": "Progression Free Survival (PFS) is defined as time from date of treatment start to the date of the event, which is the first radiologically documented disease progression or death due to any cause per local investigator assessment.", 
+                "measure": "Progression Free Survival (PFS) [Phase II, carboplatin combination]", 
+                "safety_issue": "No", 
+                "time_frame": "Time from treatment start to the date of the event (Expected average: 3 months)"
+            }, 
+            {
+                "description": "24 weeks Progression Free Survival (PFS) is defined as the percentage of patients who are progression free 24 weeks after the date of the start of the treatment (\"success\"). Patients who progressed, died or discontinued within the 24 weeks of observation are counted as \"failure\".", 
+                "measure": "24 week Progression Free Survival (PFS) rate (Phase II carboplatin combination)", 
+                "safety_issue": "No", 
+                "time_frame": "24 weeks"
+            }, 
+            {
+                "description": "Overall survival (OS) is defined as the time from the date of randomization for buparlisib + lomustine / placebo + lomustine Phase II, or the time from the first study drug intake for buparlisib + carboplatin Phase II, to the date of death due to any cause.", 
+                "measure": "Overall Survival (OS) (Phase II Carboplatin combination)", 
+                "safety_issue": "No", 
+                "time_frame": "12 months"
+            }, 
+            {
+                "description": "Overall response rate (ORR) is defined as the proportion of patients with a best overall response of complete response (CR) or partial response (PR), based on the investigator assessment as per Response Assessment in Neuro-Oncology (RANO) criteria.", 
+                "measure": "Overall Response Rate (ORR) (Phase II Lomustine combinations)", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline, every 6 weeks from treatment start until disease progression or until start of another antineoplastic treatment or death which ever occurs first up to 1 year"
+            }, 
+            {
+                "description": "12-week Progression Free Survival (PFS) is defined as the percentage of patients who are progression free 12 weeks after the date of the start of the treatment (\"success\"). Patients who progressed, died or discontinued within the 12 weeks of observation are counted as \"failure\".", 
+                "measure": "12 week Progression Free Survival (PFS) rate (Phase II- lomustine combinations)", 
+                "safety_issue": "No", 
+                "time_frame": "12 weeks"
+            }, 
+            {
+                "description": "24 weeks Progression Free Survival (PFS) is defined as the percentage of patients who are progression free 24 weeks after the date of the start of the treatment (\"success\"). Patients who progressed, died or discontinued within the 24 weeks of observation are counted as \"failure\".", 
+                "measure": "24 week Progression Free Survival (PFS) rate (Phase II- lomustine combinations)", 
+                "safety_issue": "No", 
+                "time_frame": "24 weeks"
+            }, 
+            {
+                "description": "Overall survival (OS) is defined as the time from the date of randomization for buparlisib + lomustine / placebo + lomustine Phase II, or the time from the first study drug intake for buparlisib + carboplatin Phase II, to the date of death due to any cause.", 
+                "measure": "Overall survival (OS) [Phase II lomustine combinations]", 
+                "safety_issue": "No", 
+                "time_frame": "12 months"
+            }
+        ], 
+        "source": "Novartis", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Novartis Pharmaceuticals", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "February 2014", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2014"
+    }
+}

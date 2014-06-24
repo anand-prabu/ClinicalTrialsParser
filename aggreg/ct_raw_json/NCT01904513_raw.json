@@ -1,0 +1,151 @@
+{
+    "clinical_study": {
+        "@rank": "23374", 
+        "acronym": "PDTX", 
+        "arm_group": [
+            {
+                "arm_group_label": "Probiotic", 
+                "arm_group_type": "Experimental", 
+                "description": "Daily consumption of yogurt supplemented with L. rhamnosus GR-1 at ~10^10 CFU/day"
+            }, 
+            {
+                "arm_group_label": "Milk", 
+                "arm_group_type": "Other", 
+                "description": "Daily consumption of pasteurized whole milk"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The primary objective of this pilot study is to determine if consumption of a probiotic\n      yogurt causes reduced levels of environmental toxins in a group of school-aged Tanzanian\n      children. The secondary objective is to determine the levels of environmental toxins in\n      Tanzanian children and compare these to literature values of levels believed to negatively\n      affect health and development. The third objective is to analyze the intestinal microbiota\n      of the children and to determine if consumption of a probiotic yogurt has a significant\n      affect on the microbiota composition."
+        }, 
+        "brief_title": "Investigating the Effects of Probiotic Yogurt on Reducing the Levels of Environmental Toxins Among School Children in Mwanza, Tanzania", 
+        "completion_date": {
+            "#text": "August 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "C535854", 
+            "D004786"
+        ], 
+        "detailed_description": {
+            "textblock": "A group of 60 first year students from the Lake Primary School will be recruited for\n      inclusion into the study. After gaining consent from the child's caregiver, each child will\n      be given a participant number and blood, urine and fecal samples will be collected from each\n      child by qualified personnel from NIMR. Children will be randomized into two groups (n=30)\n      to match age, sex and weight, one of which will receive a 100 g probiotic yogurt containing\n      Lactobacillus rhamnosus GR-1 while the other group will receive an equivalent portion of\n      milk. After 30 days of consuming the yogurt or milk, samples will again be collected.\n\n      Samples will be shipped back to London, Ontario Canada on dry ice for analysis. Blood and\n      urine will be analyzed via high-resolution sector field inductively coupled plasma mass\n      spectrometry (HR-SF-ICP-MS) to determine levels of toxic heavy metals (Mercury, Lead,\n      Cadmium, Arsenic). This will be carried out by the London Health Sciences Trace Elements\n      laboratory in Canada. Urine will also be analyzed via gas chromatography/ mass spectrometry\n      (GC-MS) to determine levels of pesticides at the Biotron Facility (University of Western\n      Ontario). We will also examine urine via NMR for potential host metabolic changes in\n      response to probiotic instillation.\n\n      Bacterial community DNA samples will be extracted and analyzed to determine the\n      gastrointestinal microbiota of the children both before and after administration of the\n      probiotic yogurt to determine the effect of the yogurt on the gut microbiome. Briefly, DNA\n      will be extracted with the Qiagen Stool DNA extraction kit and bacterial community 16S rRNA\n      genes will amplified using barcoded primers specific for a variable region within the gene.\n      The samples will be pooled and sequenced on the Ion Torrent platform (London Regional\n      Genomics Center, Canada). Reads are then processed and analyzed using custom scripts as well\n      as the Quantitative Insights Into Microbial Ecology (QIIME) tool, which is the leading\n      package for microbiota analysis."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Aged 6-10\n\n          -  Attends Lake Primary School (Mwanza, Tanzania)\n\n        Exclusion Criteria:\n\n          -  Allergic to milk/ milk products\n\n          -  Lactose intolerant"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "10 Years", 
+            "minimum_age": "6 Years"
+        }, 
+        "enrollment": {
+            "#text": "44", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "July 4, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01904513", 
+            "org_study_id": "102881"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Milk", 
+                "intervention_name": "Pasteurized Whole Milk", 
+                "intervention_type": "Dietary Supplement"
+            }, 
+            {
+                "arm_group_label": "Probiotic", 
+                "intervention_name": "Lactobacillus rhamnosus GR-1", 
+                "intervention_type": "Dietary Supplement", 
+                "other_name": "L. rhamnosus ATCC 55826"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Metals", 
+            "Pesticides", 
+            "Toxicity"
+        ], 
+        "lastchanged_date": "December 16, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Mwanza", 
+                    "country": "Tanzania"
+                }, 
+                "name": "National Institute for Medical Research"
+            }
+        }, 
+        "location_countries": {
+            "country": "Tanzania"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Investigating the Effects of Probiotic Yogurt on Reducing the Levels of Environmental Toxins Among School Children in Mwanza, Tanzania", 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": [
+                "Canada: Ethics Review Board", 
+                "Tanzania: National Institute for Medical Research"
+            ], 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "December 2012", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Body toxin levels (metals, pesticides) by HR-SF-ICP-MS and GC/MS.", 
+            "measure": "Changes in Body Toxin Levels", 
+            "safety_issue": "No", 
+            "time_frame": "Before and after the 25 day intervention period."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01904513"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Western University, Canada", 
+            "investigator_full_name": "Dr. Gregor Reid", 
+            "investigator_title": "Principal Investigator", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Stool microbiota composition shifts as determined by 16S rRNA profiling.", 
+                "measure": "Changes in Microbiota Composition", 
+                "safety_issue": "No", 
+                "time_frame": "Before and after the 25 day intervention period."
+            }, 
+            {
+                "description": "Microbes, as determined via 16S rRNA sequencing, associated with high toxin levels.", 
+                "measure": "Microbes linked to host toxin levels", 
+                "safety_issue": "No", 
+                "time_frame": "Initial sample collection visit"
+            }, 
+            {
+                "description": "Host metabolic shifts as measured by NMR from urine", 
+                "measure": "Changes in host metabolism due to probiotic instillation", 
+                "safety_issue": "No", 
+                "time_frame": "Before and after the 25 day intervention period."
+            }
+        ], 
+        "source": "Western University, Canada", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Institute for Medical Research, Tanzania", 
+                "agency_class": "Other"
+            }, 
+            "lead_sponsor": {
+                "agency": "Western University, Canada", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "December 2012", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Prevention", 
+        "study_type": "Interventional", 
+        "verification_date": "December 2013"
+    }
+}

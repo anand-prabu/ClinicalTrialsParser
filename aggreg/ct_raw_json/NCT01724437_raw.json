@@ -1,0 +1,135 @@
+{
+    "clinical_study": {
+        "@rank": "63620", 
+        "arm_group": [
+            {
+                "arm_group_label": "Loss of pace capture", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Pulmonary vein isolation: Ablation along the ablation line is continued until loss of pace capture along the ablation line is achieved"
+            }, 
+            {
+                "arm_group_label": "Conventional", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Pulmonary vein isolation: Ablation is discontinued when electrical isolation of the pulmonary veins is achieved."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The aim of the study was to assess the near-term (12 months) efficacy of pulmonary vein\n      isolation using a standard approach compared to application of an additional acute\n      procedural endpoint of unexcitability along the ablation line."
+        }, 
+        "brief_title": "Unexcitability Along the Ablation as an Endpoint for Atrial Fibrillation Ablation", 
+        "completion_date": {
+            "#text": "November 2012", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Paroxysmal Atrial Fibrillation", 
+            "Catheter Ablation Strategies"
+        ], 
+        "condition_browse": {
+            "mesh_term": "Atrial Fibrillation"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  written informed consent\n\n          -  age > 18 years\n\n          -  paroxysmal atrial fibrillation\n\n        Exclusion Criteria:\n\n          -  structural heart disease\n\n          -  intracardiac thrombus\n\n          -  reversible causes of atrial fibrillation\n\n          -  inability to take warfarin"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "80 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "102", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 4, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01724437", 
+            "org_study_id": "PV3503"
+        }, 
+        "intervention": {
+            "arm_group_label": [
+                "Loss of pace capture", 
+                "Conventional"
+            ], 
+            "description": "catheter based ablation using irrigated catheters and radiofrequency energy as in clinical practice", 
+            "intervention_name": "catheter based pulmonary vein isolation", 
+            "intervention_type": "Device"
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "November 8, 2012", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Hamburg", 
+                    "country": "Germany", 
+                    "zip": "20246"
+                }, 
+                "name": "University Hospital Hamburg"
+            }
+        }, 
+        "location_countries": {
+            "country": "Germany"
+        }, 
+        "number_of_arms": "2", 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Germany: Federal Institute for Drugs and Medical Devices"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "November 2010", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "recurrence of AF as assessed by 3 day holter monitoring", 
+                "measure": "time to AF recurrence", 
+                "safety_issue": "No", 
+                "time_frame": "12 months"
+            }, 
+            {
+                "description": "assessment of AT recurrence using 3 day holter monitoring", 
+                "measure": "time to AT recurrence", 
+                "safety_issue": "No", 
+                "time_frame": "12 months"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01724437"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Universit\u00e4tsklinikum Hamburg-Eppendorf", 
+            "investigator_full_name": "Dr. med. Daniel Steven", 
+            "investigator_title": "Dr. med.", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "time needed to complete the procedure", 
+                "measure": "procedure duration", 
+                "safety_issue": "No", 
+                "time_frame": "completed (15 months)"
+            }, 
+            {
+                "description": "complication such as groin hematoma, stroke and pericardial bleed prolonging the hospital stay will be assessed", 
+                "measure": "procedure safety", 
+                "safety_issue": "Yes", 
+                "time_frame": "up to three days after the procedure"
+            }
+        ], 
+        "source": "Universit\u00e4tsklinikum Hamburg-Eppendorf", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Universit\u00e4tsklinikum Hamburg-Eppendorf", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "November 2009", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "November 2012"
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "clinical_study": {
+        "@rank": "4955", 
+        "arm_group": [
+            {
+                "arm_group_label": "stress urinary incontinence", 
+                "description": "Patients presenting with stress urinary incontinence according to the inclusion and exclusion criteria"
+            }, 
+            {
+                "arm_group_label": "healthy controls", 
+                "description": "healthy women with the same inclusion and exclusion criteria as the case group, except for stress urinary incontinence"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Objective: The primary objective of the study is the comparison of protein concentrations\n      between patients with stress urinary incontinence (SUI) and healthy controls.\n\n      Aim: This pilot study aims to determine a possible altered protein profile in women\n      suffering from SUI, compared to healthy women and therefore to discriminate a potential\n      protein biomarker for SUI.\n\n      Main outcome measure: mass spectrometric measuring of urinary proteomic secretome in\n      diseased and healthy subjects (sequence coverage and number of identified proteins)\n\n      Trial design: Prospective case- control study\n\n      Setting: Department of Gynecology and Obstetrics of the Medical University of Vienna in co-\n      operation with the Core Facilities Proteomics of the Medical University of Vienna\n\n      Population: Twenty female patients with SUI and twenty healthy patients who attend the\n      outpatient clinic of the Department of Obstetrics and Gynaecology, Medical University of\n      Vienna (sample size calculation FDR 0.05, power of 80%, assumed proportion of true H0 0.95,\n      assumed standardized effect size of 1)\n\n      Methods: Examinations to be carried out: patient history, provocative stress test, ICIQ\n      short form questionnaire, residual urine volume (ultrasound) and urine analysis (dipstick\n      testing). A urine sample is obtained from the patient after spontaneous micturition, to\n      which protease inhibitor will be added immediately. Two serum blood vials (each 9ml) are\n      taken from a peripheral vein of the patient for routine laboratory and further research.\n\n      Proteomics analysis will be performed using chromatographic separation (LC) with mass\n      spectrometric detection (MS)."
+        }, 
+        "brief_title": "Proteomic Pattern in Female Stress Urinary Incontinence: a Pilot Study", 
+        "condition": "Female Stress Urinary Incontinence", 
+        "condition_browse": {
+            "mesh_term": [
+                "Urinary Incontinence", 
+                "Urinary Incontinence, Stress"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Methods:\n\n      Sample preparation and analysis will include:\n\n        1. Sample collection and immediate addition of protease inhibitor cocktail (Roche,\n           Complete Protease Inhibitor Cocktail).\n\n        2. Urine centrifugation and filtration for removal of cell debris.\n\n        3. Protein precipitation by applying methanol/chloroform separation for removal of all\n           possible non-proteinic substances.\n\n        4. Protein digestion applying in-solution trypsin, pepsin, and Glu-C.\n\n        5. Peptide separation using nano HPLC and different chromatographic approaches.\n\n             1. Reversed phase (RP) separation of peptides and MS detection\n\n             2. Separation of peptides using HILIC (hydrophilic Interaction Liquid Chromatography)\n                for discrimination of polar peptides.\n\n             3. In addition to RP and HILIC directly coupled to MS, digested peptides will be\n                separated using multidimensional approaches. Weak anion exchange columns operated\n                under HILIC conditions will be used to separate peptides carrying\n                posttranslational modifications such as phosphorylation or acetylation, thus,\n                increasing the dynamic range of detection. During this separation, fractions will\n                be collected and re-injected onto the RP and HILIC with MS detection.\n\n             4. All nano HPLC separations will be performed using biocompatible separation system.\n\n      Mass spectrometric analysis of digested peptides will be performed using two different\n      detection methods: ion-trap and the time-of-flight (qToF) MS. qToF mass spectrometric\n      detection and analysis will also be used for the label-free quantitation of peptides and\n      proteins detected in samples. All measurements will be performed in triplicate to provide\n      corrections for technical variability of separation and ionization.\n\n      General database search will be performed using the Human SwissProt Database in its actual\n      version at the time of analysis. Data search will be performed using Mascot\n      (http://www.matrixscience.com/) and X!Tandem (http://www.thegpm.org/tandem/) search\n      machines, and the final data allocation and filtering by using Scaffold\n      (www.proteomsoftware.com).\n\n      Statistical analysis:\n\n      Data analysis will be conducted with the bioconductor package limma. Before data analysis,\n      data will be filtered by excluding proteins with measurements with a low interquartile\n      range. Groups will be compared by moderated paired t-statistics adjusting for age.\n      Adjustment for multiple testing will be done by Benjamini-Hochberg correction controlling\n      the FDR at 0.05."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  patients with stress urinary incontinence: a history of symptoms of stress urinary\n             incontinence for at least 3 months (including anamnestic complaints of involuntary\n             leakage on effort or exertion or on sneezing or coughing) and a positive provocative\n             stress test (defined as an observed transurethral loss of urine that was simultaneous\n             with a cough or Valsalva maneuver at a bladder volume of 300ml or less)\n\n          -  patients capable of independent toiling\n\n          -  patients who are able to fully understand all study procedures and to provide written\n             informed consent to study participation\n\n          -  age \u2265 18\n\n          -  patients after vaginal delivery\n\n        Exclusion Criteria:\n\n          -  patients who have previously been treated for SUI (both surgical or pharmacological\n             treatment)\n\n          -  patients who have a medical history of uncontrolled overactive bladder (OAB) or\n             urinary incontinence other than SUI (including anamnestic complaints on involuntary\n             urine leakage accompanied by or immediately preceded by urgency, not stress induced)\n\n          -  patients with well established neurological disorder (e.g. Multiple Sclerosis,\n             Parkinson's disease, Alzheimer's disease)\n\n          -  patients with pelvic organ prolapse stage \u2265 II (ICS classification)\n\n          -  patients with a clinically significant bladder outlet obstruction and/or patients\n             with a post void residual volume (PVR) > 100ml\n\n          -  patients with a history of acute urinary retention or history of repeated\n             catheterizations due to acute urinary retention within the last 3 months prior to the\n             day of informed consent\n\n          -  patients with an indwelling catheter and patients practicing intermittent self-\n             catheterization\n\n          -  patients who have undergone a bladder biopsy or any other minor pelvic surgical\n             intervention less than 30 days prior to the day of informed consent\n\n          -  patients with a history of bladder cancer\n\n          -  patients with acute or recurrent urinary tract infection and/or unexplained\n             haematuria\n\n          -  patients with stone(s) in the bladder or urethra and upper tract stone disease\n             causing symptoms\n\n          -  patients with evidence of renal insufficiency (creatinine > 1.5x upper limit of\n             normal)\n\n          -  patients with evidence of hepatic disease (total bilirubin >1.5x upper limit of\n             normal, or AST or ALT or alkaline phosphatase >2x upper limit of normal)\n\n          -  patients with a history of alcohol and/or other drug abuse\n\n          -  patients who are unable and/or unlikely to comprehend and follow the study procedures\n             and instructions\n\n          -  patients who are pregnant or lactating\n\n          -  patients with serious medical conditions who, in the opinion of the investigators,\n             should not participate in this study\n\n        The control group is represented by patients with the same inclusion and exclusion\n        criteria as the case group, except stress urinary incontinence."
+            }, 
+            "gender": "Female", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "Participants will be recruited from the urogynaecology and general gynecology outpatient\n        clinic of the Department of Obstetrics and Gynaecology at the Medical University of Vienna"
+            }
+        }, 
+        "enrollment": {
+            "#text": "40", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 18, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02023502", 
+            "org_study_id": "EK 1788/2013"
+        }, 
+        "intervention": {
+            "arm_group_label": [
+                "stress urinary incontinence", 
+                "healthy controls"
+            ], 
+            "intervention_name": "collection of urine and blood sample", 
+            "intervention_type": "Other"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "female stress urinary incontinence", 
+            "proteomics", 
+            "biomarker"
+        ], 
+        "lastchanged_date": "December 23, 2013", 
+        "location": {
+            "contact": {
+                "email": "heinz.koelbl@meduniwien.ac.at", 
+                "last_name": "Heinz K\u00f6lbl, Univ.-Prof.Dr.Dr.h.c.", 
+                "phone": "0043 1 40400 2915"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Vienna", 
+                    "country": "Austria", 
+                    "zip": "1090"
+                }, 
+                "name": "Medical University of Vienna, Department of Obstetrics and Gynaecology"
+            }, 
+            "investigator": [
+                {
+                    "last_name": "Heinz K\u00f6lbl, Univ.-Prof.Dr.Dr.h.c.", 
+                    "role": "Principal Investigator"
+                }, 
+                {
+                    "last_name": "Rosa Maria Laterza, Dr.med.univ.", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Marianne Koch, Dr.med.univ.", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Goran Mitulovic, Ass.-Prof.Mag.Dr.", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Engelbert Hanzal, Univ.-Prof.Dr.med.univ.", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Wolfgang Umek, Univ.-Prof.Dr.med.univ.", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Irene Steiner, Mag.", 
+                    "role": "Sub-Investigator"
+                }
+            ], 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "Austria"
+        }, 
+        "number_of_groups": "2", 
+        "official_title": "Proteomic Pattern in Female Stress Urinary Incontinence: a Pilot Study", 
+        "overall_official": {
+            "affiliation": "Medical University of Vienna, Department of Obstetrics and Gynaecology", 
+            "last_name": "Heinz K\u00f6lbl, Univ.-Prof.Dr.Dr.h.c.", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "Austria: Ethics Committee of the Medical University of Vienna", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "April 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Comparison of protein concentrations based on number of identified proteins and mass spectrometric spectral count for patients with stress urinary incontinence and healthy controls.", 
+            "measure": "mass spectrometric measuring of urinary proteomic secretome in diseased and healthy subjects (sequence coverage and number of identified proteins)", 
+            "safety_issue": "No", 
+            "time_frame": "The primary outcome measure will be assessed for each participant in a time frame of 4-7 days after recruitment"
+        }, 
+        "reference": [
+            {
+                "PMID": "8623794", 
+                "citation": "Mushkat Y, Bukovsky I, Langer R. Female urinary stress incontinence--does it have familial prevalence? Am J Obstet Gynecol. 1996 Feb;174(2):617-9."
+            }, 
+            {
+                "PMID": "12114888", 
+                "citation": "Elia G, Bergman J, Dye TD. Familial incidence of urinary incontinence. Am J Obstet Gynecol. 2002 Jul;187(1):53-5."
+            }, 
+            {
+                "PMID": "16126751", 
+                "citation": "Chen B, Wen Y, Zhang Z, Guo Y, Warrington JA, Polan ML. Microarray analysis of differentially expressed genes in vaginal tissues from women with stress urinary incontinence compared with asymptomatic women. Hum Reprod. 2006 Jan;21(1):22-9. Epub 2005 Aug 26."
+            }, 
+            {
+                "PMID": "17083142", 
+                "citation": "Hu S, Loo JA, Wong DT. Human body fluid proteome analysis. Proteomics. 2006 Dec;6(23):6326-53. Review."
+            }, 
+            {
+                "PMID": "15850675", 
+                "citation": "Ho L, Sharma N, Blackman L, Festa E, Reddy G, Pasinetti GM. From proteomics to biomarker discovery in Alzheimer's disease. Brain Res Brain Res Rev. 2005 Apr;48(2):360-9. Review."
+            }, 
+            {
+                "PMID": "15613711", 
+                "citation": "Semmes OJ, Feng Z, Adam BL, Banez LL, Bigbee WL, Campos D, Cazares LH, Chan DW, Grizzle WE, Izbicka E, Kagan J, Malik G, McLerran D, Moul JW, Partin A, Prasanna P, Rosenzweig J, Sokoll LJ, Srivastava S, Srivastava S, Thompson I, Welsh MJ, White N, Winget M, Yasui Y, Zhang Z, Zhu L. Evaluation of serum protein profiling by surface-enhanced laser desorption/ionization time-of-flight mass spectrometry for the detection of prostate cancer: I. Assessment of platform reproducibility. Clin Chem. 2005 Jan;51(1):102-12."
+            }, 
+            {
+                "PMID": "11867112", 
+                "citation": "Petricoin EF, Ardekani AM, Hitt BA, Levine PJ, Fusaro VA, Steinberg SM, Mills GB, Simone C, Fishman DA, Kohn EC, Liotta LA. Use of proteomic patterns in serum to identify ovarian cancer. Lancet. 2002 Feb 16;359(9306):572-7."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02023502"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Medical University of Vienna", 
+            "investigator_full_name": "Univ.-Prof.Dr.Dr.h.c. Heinz K\u00f6lbl", 
+            "investigator_title": "Univ.- Prof.Dr.Dr.h.c.", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "source": "Medical University of Vienna", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Medical University of Vienna", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "November 2013", 
+        "study_design": "Observational Model: Case Control, Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "December 2013"
+    }
+}

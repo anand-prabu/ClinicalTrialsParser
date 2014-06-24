@@ -1,0 +1,191 @@
+{
+    "clinical_study": {
+        "@rank": "46793", 
+        "acronym": "plan selection", 
+        "arm_group": {
+            "arm_group_label": "ART", 
+            "arm_group_type": "Experimental", 
+            "description": "Online adaptive radiotherapy"
+        }, 
+        "brief_summary": {
+            "textblock": "This protocol describes a Phase 2 clinical trial of online adaptive Radiotherapy, using a\n      library of 3 dose plans corresponding to Small, Medium and Large size bladder. The procedure\n      includes 'Common Toxicity Criteria for Adverse Effects'(CTCAE) for registration of adverse\n      effects (baseline, every 2'nd week during RT, 2 weeks, 3, 6, 12 and 24 month after RT) as\n      well as cineMR for intra-fractional motion (baseline and every week during RT). Patients\n      receive standard non-adaptive RT in the first week. Delineations of the bladder on the\n      Cone-Beam scans (CBCT) from first week of treatment are used for planning the Small and\n      Medium size bladder plans. Large size plan are the standard non-adaptive treatment plan used\n      for the first week of treatment. A margin of 5 mm for intra fractional movement is used."
+        }, 
+        "brief_title": "Adaptive Radiotherapy Using Plan Selection for Bladder Cancer", 
+        "completion_date": {
+            "#text": "April 2016", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Adverse Effects for Adaptive RT of Bladder Cancer", 
+        "condition_browse": {
+            "mesh_term": "Urinary Bladder Neoplasms"
+        }, 
+        "detailed_description": {
+            "textblock": "After inclusion patients are asked about their adverse effects by an oncologist using CTCAE\n      (version 4.0) questionnaire. A planning CT-scan is acquired and for the first 10 patients\n      also a MR-scan for intra fractional motion is acquired. The MR sequence is repeated every\n      week during radiotherapy. The first week of treatment a standard non-adaptive IMRT-plan is\n      used and CBCT-scans are acquired before and after treatment. The CBCT-scans are used for\n      delineation of the bladder on the CBCT-scans from the first 4 fractions. The adaptive plans\n      are generated from the union of the first 4 CBCT-bladders and the planning CT bladder\n      (medium size) and the volume contained in at least 2 out of the 5 bladder volumes (small\n      size). Details can be found in the reference list. From the 6'Th fraction the treatment is\n      performed using the most appropriate size of treatment plan. CTCAE is repeated every other\n      week during radiotherapy and 2 weeks, 3, 6, 12 and 24 month after radiotherapy."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Histologically proven bladder cancer\n\n          -  Age over 18 years\n\n          -  Urothelial or planocellular carcinoma\n\n          -  Stage T2 T4A\n\n          -  Stage N0M0\n\n          -  Suitable for radiotherapy\n\n          -  ECOG/WHO performance status 0-2\n\n        Exclusion Criteria:\n\n          -  Suspected or confirmed distant metastases\n\n          -  Previous surgery in the small pelvis\n\n          -  Inflammatory bowel disease"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "65", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "January 3, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01762527", 
+            "org_study_id": "AUH-KFE-1217", 
+            "secondary_id": "jr.nr. 1-16-02-283-12"
+        }, 
+        "intervention": {
+            "arm_group_label": "ART", 
+            "description": "CTCAE scoring baseline, every 2'nd week during RT, 2 weeks, 3, 12 and 24 month after RT cineMR (time resolved MR) baseline and weekly during RT for intra fractional motion", 
+            "intervention_name": "Adaptive Radiotherapy", 
+            "intervention_type": "Radiation", 
+            "other_name": "Online Adaptive RT using plan selection"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Adaptive radiotherapy", 
+            "Bladder cancer"
+        ], 
+        "lastchanged_date": "January 7, 2013", 
+        "link": {
+            "description": "Protocol in Danish", 
+            "url": "http://www.cirro.dk/assets/files/Protokoller/CIRRO-IP070112-blaere.pdf"
+        }, 
+        "location": [
+            {
+                "contact": {
+                    "email": "hoyer@aarhus.rm.dk", 
+                    "last_name": "Morten H\u00f8yer, MD, PhD, Prof.", 
+                    "phone": "+45 7846 2529"
+                }, 
+                "contact_backup": {
+                    "email": "annveste@rm.dk", 
+                    "last_name": "Anne Vestergaard, MSc.", 
+                    "phone": "+45 7846 2572"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Aarhus", 
+                        "country": "Denmark", 
+                        "zip": "8000 C"
+                    }, 
+                    "name": "Department of Oncology, Aarhus University Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Morten H\u00f8yer, MD, PhD, Prof.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "Henriette.Lindberg@regionh.dk", 
+                    "last_name": "Henriette Lindberg, MD, PhD", 
+                    "phone": "+4538689597"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Herlev", 
+                        "country": "Denmark", 
+                        "zip": "2730"
+                    }, 
+                    "name": "Herlev Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Henriette Lindberg, MD, PhD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": "Denmark"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Adaptive Radiotherapy Using Plan Selection for Bladder Cancer: A Phase II Trial", 
+        "overall_contact": {
+            "email": "hoyer@aarhus.rm.dk", 
+            "last_name": "Morten H\u00f8yer, MD, PhD, Prof.", 
+            "phone": "+45 7846 2529"
+        }, 
+        "overall_official": {
+            "affiliation": "Aarhus University Hospital", 
+            "last_name": "Morten H\u00f8yer, MD, Professor", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": [
+                "Denmark: Ethics Committee", 
+                "Denmark: Danish Dataprotection Agency"
+            ], 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "April 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Grade 2 or more GI toxicity using CTCAE 4.0 baseline, every 2'nd week during RT, 2 weeks, 3, 12 and 24 month after RT", 
+            "measure": "Gastro- Intestinal toxicity", 
+            "safety_issue": "Yes", 
+            "time_frame": "Up to 2 years after ART"
+        }, 
+        "reference": {
+            "PMID": "20831498", 
+            "citation": "Vestergaard A, S\u00f8ndergaard J, Petersen JB, H\u00f8yer M, Muren LP. A comparison of three different adaptive strategies in image-guided radiotherapy of bladder cancer. Acta Oncol. 2010 Oct;49(7):1069-76. doi: 10.3109/0284186X.2010.501813."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01762527"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "CineMR (time resolved MR) is performed pre-treatment and weekly during RT for the first 10 patients", 
+                "measure": "Intra-fractional changes of bladder shape and size", 
+                "safety_issue": "Yes", 
+                "time_frame": "spring 2013"
+            }, 
+            {
+                "description": "The gain of normal tissue sparring will be calculated using dose accumulation", 
+                "measure": "Difference in accumulated dose to normal tissue", 
+                "safety_issue": "Yes", 
+                "time_frame": "autum 2014"
+            }, 
+            {
+                "description": "1 or 2 years disease free survival will be calculated", 
+                "measure": "1 or 2 years disease free survival", 
+                "safety_issue": "Yes", 
+                "time_frame": "2015"
+            }
+        ], 
+        "source": "University of Aarhus", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Herlev Hospital, Denmark", 
+                "agency_class": "Other"
+            }, 
+            "lead_sponsor": {
+                "agency": "University of Aarhus", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "October 2012", 
+        "study_design": "Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2013"
+    }
+}

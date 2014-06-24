@@ -1,0 +1,179 @@
+{
+    "clinical_study": {
+        "@rank": "107491", 
+        "acronym": "iControl-RP", 
+        "arm_group": {
+            "arm_group_label": "iControl-RP", 
+            "arm_group_type": "Other", 
+            "description": "iControl-RP is a system which performs controlled delivery of both remifentanil and propofol infusions."
+        }, 
+        "brief_summary": {
+            "textblock": "In closed-loop controlled anesthesia, feedback from a measure of the clinical effect is used\n      to continuously adjust drug infusion rates. Anesthetic drugs are delivered at a variable\n      rate that is personalized to the individual patient. The aim is to provide greater\n      hemodynamic and respiratory stability, more stable depth of anesthesia, the ability to\n      predict recovery and to administer a lower total dose of drug. Previous work in closed-loop\n      control of intravenous anesthesia has focused on the titration of propofol in response to a\n      depth of hypnosis (DOH) measure derived from the electroencephalogram (EEG).\n\n      The purpose of this pilot study is to evaluate iControl-RP, a system, which performs\n      controlled delivery of both remifentanil and propofol infusions. iControl-RP allows either\n      drug to be operated in any of 3 modes: closed-loop control based on feedback from an EEG\n      measure supplied by NeuroSENSE (1); target-controlled infusion (TCI), based on\n      previously-described pharmacokinetic (PK) and pharmacodynamic (PD) models; and conventional\n      manual infusion, which require a weight-based dose setting.\n\n      A pilot two-phase study will be undertaken in a group of adult patients under the direct and\n      immediate supervision of an experienced anesthesiologist. In Phase 1 (involving 50 study\n      subjects), propofol will be administered in closed-loop mode and a remifentanil infusion\n      will be administered based on a TCI. The data collected in this phase will be used to tune\n      the controller parameters, which are initially based on previously published PKPD data. The\n      controller performance will then be evaluated in phase 2 (involving 100 study subjects), in\n      which both propofol and remifentanil will be administered in closed loop mode. In both\n      phases, cases will be selected from those receiving propofol and remifentanil as anesthetic\n      agents for routine surgical procedures.\n\n      The investigators aim to demonstrate that closed-loop control of anesthesia and analgesia\n      based on EEG feedback is clinically feasible. This pilot study will help us take a\n      significant step towards a controlled trial in which the clinical benefit of this method of\n      closed-loop control of anesthesia can be assessed."
+        }, 
+        "brief_title": "Closed-loop Control of Anesthesia: Controlled Delivery of Remifentanil and Propofol", 
+        "completion_date": {
+            "#text": "February 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Anesthesia", 
+        "detailed_description": {
+            "textblock": "Purpose:\n\n      The purpose of this pilot study is to demonstrate that controlled delivery of remifentanil\n      and propofol is clinically feasible and to collect a sample of clinical data to optimise the\n      control functions. That is,\n\n      to demonstrate that the iControl remifentanil-propofol control system (iControl-RP) can be\n      used to provide safe and effective administration of anesthesia (while maintaining the\n      requirement for intervention by the anaesthesiologist when necessary) to collect a sample of\n      clinical data that will allow the ECEM engineers to optimise the parameters of the\n      iControl-RP control system\n\n      Justification:\n\n      Closed-loop control provides an opportunity to deliver anesthetic drugs at variable rate\n      that is personalized to the individual patient. This suggests that it may provide greater\n      hemodynamic and respiratory stability, more stable depth of anesthesia, the ability to\n      predict recovery and to administer a lower total dose of drug.\n\n      Much development work is still required to mesh closed-loop control technology with\n      anesthetic practice. The results of this initial study will feed into a subsequent larger\n      study wherein the clinical, operational and economic benefits of closed-loop control of\n      anesthesia will be submitted to a controlled trial.\n\n      Objectives:\n\n      The primary objective of this pilot study is to demonstrate the feasibility of closed-loop\n      control of the delivery of both propofol and remifentanil using DOH feedback from the\n      NeuroSENSE and show that it is a safe and effective mechanism for the administration of\n      anesthesia and analgesia in adult patients undergoing routine elective surgical procedures.\n      The secondary objective of this pilot study is to collect a sample of clinical data to\n      optimise the tuning parameters for this system.\n\n      Research Method:\n\n      A pilot two-phase study will be undertaken in a group of adult patients under the direct and\n      immediate supervision of an experienced anesthesiologist:\n\n      Phase 1: tuning controller parameters Propofol infusion will be closed-loop controlled;\n      remifentanil will run as a target-controlled infusion (TCI); this system is comparable to\n      the system evaluated in adult patients at the H\u00f4pital Foch, Franc. The goal of this phase is\n      to collect data to validate the mid-ranging controller design, which is based on\n      population-based PKPD models.\n\n      Phase 2: evaluating controller performance The mid-ranging control system will be evaluated;\n      both propofol and remifentanil infusion rates will be closed-loop controlled.\n\n      In both phases, cases will be selected from among patients who would be receiving propofol\n      and remifentanil as the anesthetic agents for the planned procedure.\n\n      Research procedures will be similar in the two study phases. The anesthesiologist will\n      closely monitor the patient as per routine practice and have the ability, at any time, to\n      modify the anesthetic/analgesic drugs being administered. That is, he/she will be able to\n      adjust the target DOH effect; adjust the target effect site concentration for remifentanil;\n      immediately switch to manual control of either infusion; administer a bolus dose or\n      immediately stop the infusion of either drug.\n\n      Investigational device iControl-RP has been developed for this study by the ECEM group at\n      UBC headed by Prof. Dumont. iControl-RP is a control system developed for automatic\n      closed-loop drug delivery in anesthesia. In this study remifentanil will be used as the fast\n      actuator (control of analgesia) and propofol will be use as the slow actuator (control of\n      hypnosis). Remifentanil is used to counteract disturbances in the measured DOH related to\n      insufficient analgesia and propofol is used to maintain a stable baseline DOH. iControl-RP\n      is connected to the NeuroSENSE, 2 infusion pumps for separately-controlled propofol and\n      remifentanil administration, and the operating room (OR) patient monitor. It has a user\n      interface, which displays the WAVCNS, infusion rates and effect site concentrations for both\n      propofol and remifentanil. The user interface allows the anesthesiologist to set the target\n      WAVCNS, to switch between modes of operation (manual, TCI, closed-loop) and set manual\n      infusion rates or target effect-site concentrations for either drug, as required.\n\n      The system has been extensively tested in the laboratory for usability, reliability and\n      repeatability. The vital signs collected from the OR patient monitor provide information for\n      safety alerts.\n\n      Health Canada Investigational approval is being sought and will be received before\n      commencement of study.\n\n      How the system works iControl-RP controls the infusion rates of a propofol infusion pump\n      (Alaris TIVA) and a remifentanil infusion pump (Graseby 3400). The system allows either drug\n      infusion to be operated in any of 3 modes: closed-loop control, which relies on WAVCNS\n      feedback from the NeuroSENSE; TCI, which is based on PKPD models; and manual, which requires\n      a weight-based dose setting (.e.g in mcg/kg/min)."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  19 years of age or older\n\n          -  ASA I-III\n\n          -  Elective surgical procedures performed in the operating room at Royal Columbian\n             Hospital requiring TIVA\n\n          -  Ability to provide informed consent\n\n        Exclusion Criteria:\n\n          -  Contra-indications to the administration of propofol and/or remifentanil:\n\n        propofol is contraindicated in patients with allergies to eggs, egg products, soybeans or\n        soy products; remifentanil is contraindicated in patients with known hypersensitivity to\n        fentanyl analogs.\n\n          -  Known or suspected neurological disease\n\n          -  Known abnormality in any previous EEG examination\n\n          -  Chronic opioid analgesic (more than 10 doses in previous one month) or other sedative\n             drug therapy\n\n          -  Body Mass Index (BMI) < 15 or BMI > 35\n\n          -  Premedication other than metoclopramide and/or ranitidine required\n\n          -  Currently enrolled in another drug or device clinical trial"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "19 Years"
+        }, 
+        "enrollment": {
+            "#text": "150", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "January 15, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01771263", 
+            "org_study_id": "FHREB 2012-056"
+        }, 
+        "intervention": {
+            "arm_group_label": "iControl-RP", 
+            "intervention_name": "iControl-RP", 
+            "intervention_type": "Device"
+        }, 
+        "intervention_browse": {
+            "mesh_term": [
+                "Anesthetics", 
+                "Propofol", 
+                "Remifentanil"
+            ]
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Anesthesia", 
+            "Propofol", 
+            "Remifentanil", 
+            "NeuroSENSE"
+        ], 
+        "lastchanged_date": "January 24, 2014", 
+        "link": {
+            "description": "UBC's Pediatric Anesthesia Research Team", 
+            "url": "http://part.cfri.ca"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "New Westminster", 
+                    "country": "Canada", 
+                    "state": "British Columbia", 
+                    "zip": "V3L 3W7"
+                }, 
+                "name": "Royal Columbian Hospital"
+            }, 
+            "investigator": [
+                {
+                    "last_name": "Richard Merchant", 
+                    "role": "Principal Investigator"
+                }, 
+                {
+                    "last_name": "Mark Ansermino", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Guy A Dumont", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Cedric Ho", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Martin Roos", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Klaske van Heusden", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Christian L Petersen", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Aryannah Umedaly", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Nicholas West", 
+                    "role": "Sub-Investigator"
+                }
+            ], 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "Canada"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Closed-loop Control of Anesthesia: Controlled Delivery of Remifentanil and Propofol", 
+        "overall_contact": {
+            "email": "aryannah.umedaly@cw.bc.ca", 
+            "last_name": "Aryannah Umedaly", 
+            "phone": "604-875-2345", 
+            "phone_ext": "5926"
+        }, 
+        "overall_contact_backup": {
+            "email": "nicholas.west@cw.bc.ca", 
+            "last_name": "Nicholas West", 
+            "phone": "604-875-2345", 
+            "phone_ext": "5319"
+        }, 
+        "overall_official": {
+            "affiliation": "Royal Columbian Hospital and University of British Columbia", 
+            "last_name": "Richard Merchant", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "Canada: Health Canada", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "February 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Depth of hypnosis measurements will be used among other parameters to assess the feasibility of the system for delivery of propofol and remifentanil for anesthesia", 
+            "measure": "Depth of Hypnosis (WAVcns)", 
+            "safety_issue": "No", 
+            "time_frame": "Continually assessed throughout anesthesia"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01771263"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "description": "Time interval between propofol infusion commencing and the depth of hypnosis remaining below 60 WAVcns units for more than 30 seconds", 
+            "measure": "Time until induction complete (Tind)", 
+            "safety_issue": "No", 
+            "time_frame": "Beginning of anesthesia"
+        }, 
+        "source": "Fraser Health", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Fraser Health", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "February 2013", 
+        "study_design": "Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2013"
+    }
+}

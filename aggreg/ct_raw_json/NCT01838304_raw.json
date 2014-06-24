@@ -1,0 +1,165 @@
+{
+    "clinical_study": {
+        "@rank": "8176", 
+        "arm_group": [
+            {
+                "arm_group_label": "Monitoring", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Standard of care sedation by CRNA using proposal with manual recording of drug dosing"
+            }, 
+            {
+                "arm_group_label": "Probability ramp control", 
+                "arm_group_type": "Experimental", 
+                "description": "Propofol titrated to deep sedation using PRC software."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Endoscopic sedation requires titration of propofol to deep sedation without minimum\n      overshoot into general anesthesia. This skill is demanding and acquired slowly. Probability\n      Ramp Control (PRC) simplifies this by providing the clinician with a simple infusion\n      sequence that permits gradual titration of propofol. The purpose of this study is to compare\n      the performance of this technology to that of experienced anesthesia providers in endoscopic\n      sedation."
+        }, 
+        "brief_title": "Probability Ramp Control of Propofol for EGD", 
+        "completion_date": {
+            "#text": "May 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": "Gastrointestinal Disease", 
+        "condition_browse": {
+            "mesh_term": [
+                "Gastrointestinal Diseases", 
+                "Digestive System Diseases"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Administration of propofol to achieve a target of moderate sedation is a challenging task\n      for which anesthesia providers receive minimal training. Undersedation results in a\n      noncompliant patient, while oversedation results in airway obstruction, respiratory\n      depression, and hypotension. Considerable variability in patient pharmacokinetics (the\n      distribution of drug within the body) and pharmacodynamics (the translation of drug\n      concentration to clinical effect) has been demonstrated. The skill of titrating propofol to\n      the desired target and maintaining this state is slowly acquired in the clinical environment\n      of the endoscopy center with frequent reliance on rescue skills. An automated system that\n      facilitates this process would be useful.\n\n      Pharmacokinetic models allow us to make predictions of the results of drug administration.\n      If we know the age and size of the patient, we can determine a quantity of propofol that\n      will attain a desired concentration at some point in the future (within the predictive\n      accuracy of the model). If they are old, this is less than if they are young. If they are\n      obese, this is more than if they are thin. By adjusting the dosing, we can achieve similar\n      concentrations at a specified time in a wide range of patients.\n\n      Pharmacodynamic models allow us to relate drug concentration to a probability of response.\n      Sensitivity is a randomly distributed variable, and the cumulative probability of response\n      to propofol is well represented by a sigmoid curve. While we do not know the concentration\n      that will suffice for a given individual, we can determine the probability that this\n      individual will lose responsiveness within an interval of concentrations. For example, the\n      probability of loss of responsiveness between 1 \u00b5g/ml and 6 \u00b5g/ml is around 99%. For any\n      given age and size, an infusion sequence can be determined so that we traverse this interval\n      smoothly. The infusion sequence is determined by minimization of the difference between the\n      simulated probability and the target (1). We predict that 90% of 50 year old 70 kg patients\n      will lose responsiveness between one minute and three minutes after initiating the infusion,\n      and 99% by five minutes.  The infusion sequence for this patient is comprised of a bolus of\n      287 \u00b5g/kg followed by an initial infusion of 216 \u00b5g/kg/min, with an increase to 550\n      \u00b5g/kg/min after 147 seconds. By selecting the infusion sequence based on the age and size of\n      the patient, all patients will track the same target line. These infusion rates are\n      determined prior to initiation of sedation, and the clinician can verify that they are\n      appropriate for the patient before beginning sedation.\n\n      Once the endpoint of adequate sedation is observed, the effect site concentration associated\n      with this endpoint is inferred, and the infusion that will maintain this concentration can\n      be determined. This allows the clinical observation to be translated into an infusion rate,\n      much as a driver accelerates to a desired speed and then engages the cruise control to\n      maintain that speed.\n\n      The intent of this study is to demonstrate equivalent safety and efficacy of PRC to control\n      by a skilled clinician.\n\n      References\n\n      1.  Mandel JE, Sarraf E. The Variability of Response to Propofol Is Reduced When a Clinical\n      Observation Is Incorporated in the Control: A Simulation Study. Anesthesia & Analgesia.\n      2012;114:1221-9."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  scheduled for elective EGD\n\n        Exclusion Criteria:\n\n          -  Unable to provide informed consent"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "40", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "April 12, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01838304", 
+            "org_study_id": "817166"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Probability ramp control", 
+                "description": "Decision support software that calculates propofol doses appropriate for age and weight of the patient", 
+                "intervention_name": "Probability ramp control", 
+                "intervention_type": "Device"
+            }, 
+            {
+                "arm_group_label": "Monitoring", 
+                "description": "Manual recording of drug doses determined by CRNA", 
+                "intervention_name": "Monitoring", 
+                "intervention_type": "Device", 
+                "other_name": "Manual recording of drug doses determined by CRNA"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Propofol"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": "propofol sedation endoscopy", 
+        "lastchanged_date": "May 21, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Philadelphia", 
+                    "country": "United States", 
+                    "state": "Pennsylvania", 
+                    "zip": "19104"
+                }, 
+                "name": "Endoscopy Center, Perelman Center for Advanced Medicine"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "A Prospective, Randomized Comparison of Depth of Sedation With Propofol Titrated by Probability Ramp Control to Control by Anesthesia Providers During Esophagogastroduodenoscopy (EGD)", 
+        "overall_official": {
+            "affiliation": "University of Pennsylvania", 
+            "last_name": "Jeff E Mandel, MD MS", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "May 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "SEDLine\u00ae is a device that analyzes the electroencephalogram (EEG) with a proprietary algorithm and produces a number between zero and 100 that is related to the depth of anesthesia.", 
+            "measure": "Depth of sedation, as assessed by SEDLine processed EEG.", 
+            "safety_issue": "Yes", 
+            "time_frame": "Intraprocedure"
+        }, 
+        "reference": {
+            "PMID": "22467886", 
+            "citation": "Mandel JE, Sarraf E. The variability of response to propofol is reduced when a clinical observation is incorporated in the control: a simulation study. Anesth Analg. 2012 Jun;114(6):1221-9. doi: 10.1213/ANE.0b013e31824cb853. Epub 2012 Mar 30."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01838304"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Predicted effect site concentrations for propofol", 
+                "safety_issue": "No", 
+                "time_frame": "Intraprocedure"
+            }, 
+            {
+                "description": "Respiratory Inductance Plethysmography (RIP) utilizes fabric bands with a coil that is energized with an alternating current. The magnetic inductance is related to the area enclosed by the coil, which is proportional to lung volume. By calibration against a spirometer, continuous estimates of minute ventilation can be made.", 
+                "measure": "Minute ventilation, as assessed by calibrated RIP", 
+                "safety_issue": "Yes", 
+                "time_frame": "Intraprocedure"
+            }, 
+            {
+                "measure": "Hemoglobin saturation, as assessed by pulse oximetry", 
+                "safety_issue": "Yes", 
+                "time_frame": "Intraprocedure"
+            }, 
+            {
+                "measure": "Endoscopist satisfaction, as assessed by 10 point Likert scale", 
+                "safety_issue": "No", 
+                "time_frame": "At completion of the procedure"
+            }, 
+            {
+                "description": "Patient satisfaction with sedation experience", 
+                "measure": "Patient Satisfaction by 10 point Likert scale", 
+                "safety_issue": "No", 
+                "time_frame": "Prior to discharge from endoscopy suite, typically 30 minutes"
+            }
+        ], 
+        "source": "University of Pennsylvania", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of Pennsylvania", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "March 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2013"
+    }
+}

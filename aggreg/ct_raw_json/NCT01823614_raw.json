@@ -1,0 +1,953 @@
+{
+    "clinical_study": {
+        "@rank": "25034", 
+        "acronym": "CoTrAST", 
+        "arm_group": [
+            {
+                "arm_group_label": "Na\u00efve patients, >500", 
+                "description": "The group contains patients who have not any ARV therapy experience and the level of CD4 count is more than 500 cells per mm3"
+            }, 
+            {
+                "arm_group_label": "Na\u00efve patients, 350-500", 
+                "description": "The group contains patients who have not any ARV therapy experience and the level of CD4 count is between 350 and 500 cells per mm3"
+            }, 
+            {
+                "arm_group_label": "Na\u00efve patients, <350", 
+                "description": "The group contains patients who have not any ARV therapy experience and the level of CD4 count is less than 350 cells per mm3"
+            }, 
+            {
+                "arm_group_label": "ARVT <6 months", 
+                "description": "The group contains patients who have ARVT experience and obtain ART treatment less than 6 months"
+            }, 
+            {
+                "arm_group_label": "ARVT from 6 months to 3 years", 
+                "description": "The group contains patients who have ARVT experience and obtain ART treatment from 6 months to 3 years"
+            }, 
+            {
+                "arm_group_label": "ARVT >3 years", 
+                "description": "The group contains patients who have ARVT experience and obtain ART treatment more than 3 years"
+            }
+        ], 
+        "biospec_descr": {
+            "textblock": "plasma peripheral blood mononuclear cells"
+        }, 
+        "biospec_retention": "Samples With DNA", 
+        "brief_summary": {
+            "textblock": "To date, all work related to the study of HIV tropism, was performed on HIV B and C\n      subtypes. In the studied samples, HIV variants of subtype A were virtually absent. However,\n      the existence has been shown previously of some differences in the nucleotide sequences in\n      the V3 loop of env region of subtype A from other subtypes of virus. In the Russian\n      Federation the subtype A of HIV-1 is predominant, and, according to some estimates, accounts\n      for about 89% of all newly diagnosed cases of HIV infection. Thus, it seems interesting and\n      effective to study the characteristics of HIV-1 subtype A, associated with the tropism, in\n      the Russian Federation.\n\n      The primary objective is determination of the prevalence of R5 (chemokine receptor 5), X4\n      (chemokine receptor 4), and R5X4-tropic variants of HIV in HIV-infected population in\n      Russia, and analysis of the possible features of tropism of viruses belonging to subtype A."
+        }, 
+        "brief_title": "Co-receptor Tropism Determination of HIV-1 Subtype A Spread in the Russian Federation Using V3-based Genotyping Tools", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "The group contains patients who have not any ARV therapy experience and the level of CD4 count is more than 500 cells per mm3", 
+                            "title": "Na\u00efve Patients, >500"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "The group contains patients who have not any ARV therapy experience and the level of CD4 count is between 350 and 500 cells per mm3", 
+                            "title": "Na\u00efve Patients, 350-500"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "The group contains patients who have not any ARV therapy experience and the level of CD4 count is less than 350 cells per mm3", 
+                            "title": "Na\u00efve Patients, <350"
+                        }, 
+                        {
+                            "@group_id": "B4", 
+                            "description": "The group contains patients who have ARVT experience and obtain ART treatment less than 6 months", 
+                            "title": "ARVT <6 Months"
+                        }, 
+                        {
+                            "@group_id": "B5", 
+                            "description": "The group contains patients who have ARVT experience and obtain ART treatment from 6 months to 3 years", 
+                            "title": "ARVT From 6 Months to 3 Years"
+                        }, 
+                        {
+                            "@group_id": "B6", 
+                            "description": "The group contains patients who have ARVT experience and obtain ART treatment more than 3 years", 
+                            "title": "ARVT >3 Years"
+                        }, 
+                        {
+                            "@group_id": "B7", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "179"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "140"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "176"
+                                            }, 
+                                            {
+                                                "@group_id": "B4", 
+                                                "@value": "122"
+                                            }, 
+                                            {
+                                                "@group_id": "B5", 
+                                                "@value": "172"
+                                            }, 
+                                            {
+                                                "@group_id": "B6", 
+                                                "@value": "154"
+                                            }, 
+                                            {
+                                                "@group_id": "B7", 
+                                                "@value": "943"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@lower_limit": "18", 
+                                                "@upper_limit": "60", 
+                                                "@value": "32"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@lower_limit": "18", 
+                                                "@upper_limit": "63", 
+                                                "@value": "33"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@lower_limit": "22", 
+                                                "@upper_limit": "64", 
+                                                "@value": "35"
+                                            }, 
+                                            {
+                                                "@group_id": "B4", 
+                                                "@lower_limit": "18", 
+                                                "@upper_limit": "65", 
+                                                "@value": "35"
+                                            }, 
+                                            {
+                                                "@group_id": "B5", 
+                                                "@lower_limit": "21", 
+                                                "@upper_limit": "68", 
+                                                "@value": "36"
+                                            }, 
+                                            {
+                                                "@group_id": "B6", 
+                                                "@lower_limit": "24", 
+                                                "@upper_limit": "73", 
+                                                "@value": "37"
+                                            }, 
+                                            {
+                                                "@group_id": "B7", 
+                                                "@lower_limit": "18", 
+                                                "@upper_limit": "73", 
+                                                "@value": "35"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Full Range", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "105"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "79"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "96"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "61"
+                                                }, 
+                                                {
+                                                    "@group_id": "B5", 
+                                                    "@value": "95"
+                                                }, 
+                                                {
+                                                    "@group_id": "B6", 
+                                                    "@value": "73"
+                                                }, 
+                                                {
+                                                    "@group_id": "B7", 
+                                                    "@value": "509"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "74"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "61"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "80"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "61"
+                                                }, 
+                                                {
+                                                    "@group_id": "B5", 
+                                                    "@value": "77"
+                                                }, 
+                                                {
+                                                    "@group_id": "B6", 
+                                                    "@value": "81"
+                                                }, 
+                                                {
+                                                    "@group_id": "B7", 
+                                                    "@value": "434"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@lower_limit": "501", 
+                                                "@spread": "50", 
+                                                "@upper_limit": "1716", 
+                                                "@value": "664"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@lower_limit": "351", 
+                                                "@spread": "50", 
+                                                "@upper_limit": "499", 
+                                                "@value": "413"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@lower_limit": "15", 
+                                                "@spread": "50", 
+                                                "@upper_limit": "349", 
+                                                "@value": "33"
+                                            }, 
+                                            {
+                                                "@group_id": "B4", 
+                                                "@lower_limit": "5", 
+                                                "@spread": "50", 
+                                                "@upper_limit": "1276", 
+                                                "@value": "288"
+                                            }, 
+                                            {
+                                                "@group_id": "B5", 
+                                                "@lower_limit": "23", 
+                                                "@spread": "50", 
+                                                "@upper_limit": "2112", 
+                                                "@value": "350"
+                                            }, 
+                                            {
+                                                "@group_id": "B6", 
+                                                "@lower_limit": "10", 
+                                                "@spread": "50", 
+                                                "@upper_limit": "1201", 
+                                                "@value": "394"
+                                            }, 
+                                            {
+                                                "@group_id": "B7", 
+                                                "@lower_limit": "5", 
+                                                "@spread": "50", 
+                                                "@upper_limit": "2112", 
+                                                "@value": "380"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Full Range", 
+                            "param": "Median", 
+                            "title": "Nadir CD4 cell count", 
+                            "units": "cells/\u00b5l"
+                        }
+                    ]
+                }, 
+                "population": "The overall number of naive patients should be more than number of treatment-experienced patients."
+            }, 
+            "certain_agreements": {
+                "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "The group contains patients who have not any ARV therapy experience and the level of CD4 count is more than 500 cells per mm3", 
+                                    "title": "Na\u00efve Patients, >500"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "The group contains patients who have not any ARV therapy experience and the level of CD4 count is between 350 and 500 cells per mm3", 
+                                    "title": "Na\u00efve Patients, 350-500"
+                                }, 
+                                {
+                                    "@group_id": "O3", 
+                                    "description": "The group contains patients who have not any ARV therapy experience and the level of CD4 count is less than 350 cells per mm3", 
+                                    "title": "Na\u00efve Patients, <350"
+                                }, 
+                                {
+                                    "@group_id": "O4", 
+                                    "description": "The group contains patients who have ARVT experience and obtain ART treatment less than 6 months", 
+                                    "title": "ARVT <6 Months"
+                                }, 
+                                {
+                                    "@group_id": "O5", 
+                                    "description": "The group contains patients who have ARVT experience and obtain ART treatment from 6 months to 3 years", 
+                                    "title": "ARVT From 6 Months to 3 Years"
+                                }, 
+                                {
+                                    "@group_id": "O6", 
+                                    "description": "The group contains patients who have ARVT experience and obtain ART treatment more than 3 years", 
+                                    "title": "ARVT >3 Years"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "161"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "116"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@value": "159"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O4", 
+                                                        "@value": "110"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O5", 
+                                                        "@value": "141"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O6", 
+                                                        "@value": "126"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "123"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "85"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O3", 
+                                                            "@value": "114"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O4", 
+                                                            "@value": "78"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O5", 
+                                                            "@value": "86"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O6", 
+                                                            "@value": "82"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "R5-tropic"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "38"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "31"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O3", 
+                                                            "@value": "45"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O4", 
+                                                            "@value": "32"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O5", 
+                                                            "@value": "55"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O6", 
+                                                            "@value": "44"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "X4-tropic"
+                                            }
+                                        ]
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Determination of the Prevalence of R5 and X4-tropic Variants of HIV in HIV-infected Population in Russia", 
+                                    "units": "participants"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "24 weeks", 
+                        "title": "Determination of the Prevalence of R5 and X4-tropic Variants of HIV in HIV-infected Population in Russia", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Group which contains patients with CD4 nadir more than 500 cell/mkl at the moment of enrollment", 
+                                    "title": "CD4 Cell Count > 500"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Group which contains patients with CD4 nadir between 350 and 500 cell/mkl at the moment of enrollment", 
+                                    "title": "CD4 Cell Count 350-500"
+                                }, 
+                                {
+                                    "@group_id": "O3", 
+                                    "description": "Group which contains patients with CD4 nadir less than 350 cell/mkl at the moment of enrollment", 
+                                    "title": "CD4 Cell Count < 350"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "243"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "216"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@value": "364"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "179"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "160"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O3", 
+                                                            "@value": "239"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "R5-tropic"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "64"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "56"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O3", 
+                                                            "@value": "125"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "X4-tropic"
+                                            }
+                                        ]
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Estimation of the R5- and X4-tropic HIV Variants Ratio Stratified by CD4 Cell Count", 
+                                    "units": "participants"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "24 weeks", 
+                        "title": "Estimation of the R5- and X4-tropic HIV Variants Ratio Stratified by CD4 Cell Count", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Group which contains  naive patients with CD4 nadir more than 500 cell/mkl at the moment of enrollment", 
+                                    "title": "CD4 Cell Count > 500"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Group which contains naive patients with CD4 nadir between 350 and 500 cell/mkl at the moment of enrollment", 
+                                    "title": "CD4 Cell Count 350-500"
+                                }, 
+                                {
+                                    "@group_id": "O3", 
+                                    "description": "Group which contains naive patients with CD4 nadir less than 350 cell/mkl at the moment of enrollment", 
+                                    "title": "CD4 Cell Count < 350"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "161"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "116"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@value": "159"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "123"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "85"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O3", 
+                                                            "@value": "114"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "R5-tropic"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@value": "38"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@value": "31"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O3", 
+                                                            "@value": "45"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "X4-tropic"
+                                            }
+                                        ]
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Estimation of the R5- and X4-tropic HIV Variants Ratio Stratified by CD4 Cell Count Among Naive Patients", 
+                                    "units": "participants"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "24 weeks", 
+                        "title": "Estimation of the R5- and X4-tropic HIV Variants Ratio Stratified by CD4 Cell Count Among Naive Patients", 
+                        "type": "Other Pre-specified"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "The group contains patients who have not any ARV therapy experience and the level of CD4 count is more than 500 cells per mm3", 
+                            "title": "Na\u00efve Patients, >500"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "The group contains patients who have not any ARV therapy experience and the level of CD4 count is between 350 and 500 cells per mm3", 
+                            "title": "Na\u00efve Patients, 350-500"
+                        }, 
+                        {
+                            "@group_id": "P3", 
+                            "description": "The group contains patients who have not any ARV therapy experience and the level of CD4 count is less than 350 cells per mm3", 
+                            "title": "Na\u00efve Patients, <350"
+                        }, 
+                        {
+                            "@group_id": "P4", 
+                            "description": "The group contains patients who have ARVT experience and obtain ART treatment less than 6 months", 
+                            "title": "ARVT <6 Months"
+                        }, 
+                        {
+                            "@group_id": "P5", 
+                            "description": "The group contains patients who have ARVT experience and obtain ART treatment from 6 months to 3 years", 
+                            "title": "ARVT From 6 Months to 3 Years"
+                        }, 
+                        {
+                            "@group_id": "P6", 
+                            "description": "The group contains patients who have ARVT experience and obtain ART treatment more than 3 years", 
+                            "title": "ARVT >3 Years"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "179", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "140", 
+                                                "@group_id": "P2"
+                                            }, 
+                                            {
+                                                "@count": "176", 
+                                                "@group_id": "P3"
+                                            }, 
+                                            {
+                                                "@count": "122", 
+                                                "@group_id": "P4"
+                                            }, 
+                                            {
+                                                "@count": "172", 
+                                                "@group_id": "P5"
+                                            }, 
+                                            {
+                                                "@count": "154", 
+                                                "@group_id": "P6"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "179", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "140", 
+                                                "@group_id": "P2"
+                                            }, 
+                                            {
+                                                "@count": "176", 
+                                                "@group_id": "P3"
+                                            }, 
+                                            {
+                                                "@count": "122", 
+                                                "@group_id": "P4"
+                                            }, 
+                                            {
+                                                "@count": "172", 
+                                                "@group_id": "P5"
+                                            }, 
+                                            {
+                                                "@count": "154", 
+                                                "@group_id": "P6"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P2"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P3"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P4"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P5"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P6"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "pre_assignment_details": "Patient exclusion criteria: Pregnancy at the time of obtaining of biological material for women, patients receiving cytotoxic agents, patients receiving immunomodulatory drugs, pParticipation in clinical trials with experimental drugs, experience of using of CCR5-antagonists.", 
+                "recruitment_details": "Enrollment of patients will be conducted during 4 months of study. Patients will be selected from the AIDS centers and the Republican Clinical Hospital for Infectious Diseases, which are participants of the study. Totally there will be 12 AIDS centers. Expected number of patients will be 70 people per participant."
+            }, 
+            "point_of_contact": {
+                "email": "dmitry.kireev@pcr.ru", 
+                "name_or_title": "Dmitry Kireev", 
+                "organization": "Central Research Institute for Epidemiology", 
+                "phone": "+74959749646 ext 2227"
+            }
+        }, 
+        "completion_date": {
+            "#text": "December 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": "HIV Infection", 
+        "condition_browse": {
+            "mesh_term": [
+                "HIV Infections", 
+                "Acquired Immunodeficiency Syndrome"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "This study is a multicenter, single-step; with estimation of the prevalence of R5, X4, and\n      R5X4-tropic HIV variants in a population of HIV-infected Russians na\u00efve to CCR5-antagonists\n      antiretroviral (ARV) therapy. Additional study objectives are to identify dependence of R5-\n      and X4-tropic HIV variants relations from the duration of infection, stage of HIV infection,\n      the values of CD4-lymphocytes; and to compare the prevalence of R5- and X4-tropic HIV\n      variants in cohorts of na\u00efve and ARVT experienced patients. The study consists of single\n      visit of all patients, during which the following procedures will be performed: obtaining of\n      informed consent, initial evaluation of the possibility of including of the patients in the\n      study, stratification of the patient, and if the quota for this cohort has not yet been\n      reached, inclusion of the patient in the study. Also the detailed information will be\n      collected on the date of birth, place of residence (region, city), date of the 1st HIV+\n      immune blot test, route of infection, estimation year (month) of infection, stage of HIV\n      infection, all the known results of CD4 cell count and viral load measurements, as well as\n      all the known schemes of ARV therapy. Additionally, the study provides a single blood\n      sampling (of 6.4 mL volume) into a test tube in order to study the HIV tropism by\n      sequencing. It is expected that the inclusion in the study will be completed within\n      approximately 3 months, but this period may be extended depending on the actual inclusion of\n      patients in each of the study centers. The Coordination Center of the study is the Central\n      Research Institute for Epidemiology (hereinafter \u2014 the Coordination Center). Patient\n      selection will be performed in 13 participating centers:\n\n        -  The Federal Research and Methodological Center for AIDS, Moscow\n\n        -  The North-West District AIDS Center, St. Petersburg\n\n        -  The St. Petersburg City AIDS Center, St. Petersburg\n\n        -  The Republican Clinical Hospital of Infectious Diseases, St. Petersburg\n\n        -  The Volga District AIDS Center, Nizhny Novgorod\n\n        -  The Republic AIDS Center of the Republic of Tatarstan, Kazan\n\n        -  The Southern District AIDS Center, Rostov-on-Don\n\n        -  The Ural District AIDS Center, Ekaterinburg\n\n        -  The Sverdlovsk Oblast AIDS Center, Ekaterinburg\n\n        -  The Yamalo-Nenets Autonomous District AIDS Center, Noyabrsk\n\n        -  The Siberian Federal District AIDS Center, Omsk\n\n        -  The Krasnoyarsk Regional AIDS Center, Krasnoyarsk\n\n      The study will include approximately 900 HIV-infected patients of both sexes aged 18 years\n      or older, citizens of Russia. Patient will be selected from the AIDS centers and the\n      Republican Clinical Hospital for Infectious Diseases, which are participants of the study.\n      List of the study participants includes 12 AIDS centers and one Republican Clinical\n      Infectious Diseases Hospital, so the expected number of patients will be 70 people per\n      participant. The minimum number of patients included in the study must be at least 40 people\n      for each participant, but the actual amount will depend on the success of patient\n      recruitment in each of the study centers. Starting from the 4th month of study, a\n      competitive selection of patients will be allowed, which will end as soon as the total\n      number of enrolled patients will reach 900 people. According to the objectives of the study,\n      HIV tropism in patients not received ART with different immune status, and experienced in\n      ART will be analyzed, so the inclusion of patients in the study should take place according\n      to the following quotas:\n\n        1. Na\u00efve patients\n\n             1. The level of CD4-lymphocytes >500 (optimum is 16 (12-18 patients))\n\n             2. The level of CD4-lymphocytes is 350-500 (optimum is 16 (12-18 patients))\n\n             3. The level of CD4-lymphocytes <350 (optimum is 16 (12-18 patients))\n\n        2. Patients experienced in ARV\n\n             1. Obtains ART treatment for <6 months (optimum is 8 (4-12 patients))\n\n             2. Obtains ARV therapy from 6 months to 3 years (optimum is 8 (4-12 patients))\n\n             3. Obtains ART treatment for >3 years (optimum is 8 (4-12 patients)) If within 3\n                months after the start of the patient selection in the study it will be impossible\n                to complete a cohort, quotas may be revised.\n\n      Scheme of the study procedures. The study procedures\n\n        -  Obtaining of the informed consent\n\n        -  In/exclusion criteria evaluation\n\n        -  Check that the patient belongs to the cohort for which the quota is not reached\n\n        -  Filling the Case Report Form for the study participant\n\n        -  Blood sampling Laboratory procedures\n\n        -  Determination of HIV tropism by sequencing\n\n        -  Determination of HIV viral load\u2020\n\n        -  Determination of the quantity of CD4-lymphocytes\u2020 \u2020 Carried out only when the routine\n           analysis is necessary List of estimated parameters. To study of HIV tropism by\n           sequencing, to perform standard laboratory tests, and to determine the subtype of HIV\n           (that is conducted by the Coordination Center selectively in 10% of the patients) blood\n           sampling will be carried out in all patients.\n\n      Determination of HIV tropism by sequencing.\n\n      Procedure of HIV tropism determination in a sample involves the consistent implementation of\n      the following stages: extraction of nucleic acids from the blood sample, amplification of\n      the env gene of HIV genome, determining the nucleotide sequence of the resulting specific\n      DNA product and its analysis by means of the Internet resource geno2pheno, located at\n      http://coreceptor.bioinf.mpi-inf.mpg.de/index.php. According to the instructions to a set of\n      reagents for tropism study, there are two possible results:\n\n        1. a clinical sample contains a R5-tropic virus,\n\n        2. a clinical sample contains a non-R5-tropic virus. An important additional result is the\n           value of FPR (false positive rate), which reflects a degree of reliability of HIV\n           tropism in a sample. Therefore, the FPR value is also presented in report containing\n           the results of the analysis.\n\n      Standard laboratory tests. The standard laboratory tests mean measuring of viral load in a\n      plasma sample, as well as CD4 cell count. These studies are carried out only in case when\n      they are routinely needed. When they are performed, the results are provided in the Case\n      Report Form of the study participant.\n\n      Determination of HIV subtype. Determination of HIV subtype is carried out by Coordination\n      Center selectively in 10% of patients after receipt by the Coordination Center of clinical\n      samples from all study participants (study centers). Determination of subtype includes the\n      following stages: extraction of nucleic acids from a plasma sample, amplification of\n      fragment of pol region of the HIV genome, determining the nucleotide sequence of obtained\n      specific DNA products, and their bioinformatics analysis by means of Internet applications\n      REGA Subtyping tool and Comet.\n\n      General information about the methods of statistical analysis. Parameters of descriptive\n      statistics will be calculated for the indices for the patients and human immunodeficiency\n      virus by calculating the proportion of patients showing some signs of corresponding\n      categorical variables and by calculating the mean values, standard deviations, medians, 25\n      and 75 percentiles, minimum and maximum values of the distribution of all continuous\n      variables from all patients with the results of their evaluation.\n\n      Also proportions of patients from different regions at different stages of the disease, and\n      infected with HIV variants with different tropism will be calculated. Evaluation of\n      reliability of differences of categorical variables (for example, when differences in the\n      distribution of HIV variants with different tropism in different regions) will be performed\n      using the chi-square test. Estimation of reliability of differences of continuous variables\n      (eg, the level of HIV viral load) will be performed using parametric (eg, t test, ANOVA) or\n      nonparametric (eg, Wilcoxon rank-sum test) methods.\n\n      Univariate and multivariate logistic (when the dependent variable is binary) and linear\n      regression (when the dependent variable is continuous) analyses will be used to assess\n      associations between exploratory (eg, CXCR4-tropic variants) and dependent (eg, the level of\n      HIV viral load) variables.\n\n      All statistical tests will be two-sided, with 5% significance level."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients with confirmed HIV infection\n\n          -  Confirmation of informed consent provided in writing\n\n          -  Russian Federation citizenship\n\n          -  Age 18 years and older\n\n          -  Absence of pregnancy at the time of obtaining of biological material\n\n          -  Availability of data about the date of 1st positive immune blot test, date of\n             diagnosis and formulation of the clinical diagnosis, the result of viral load\n             analysis performed in the previous 3 months, measuring of CD4 cell count performed in\n             the previous 3 months, information about the ongoing ARV therapy for patients\n             receiving antiretroviral therapy\n\n        Exclusion Criteria:\n\n          -  Pregnancy at the time of obtaining of biological material\n\n          -  Patients receiving cytotoxic agents due to chemotherapy of cancer\n\n          -  Patients receiving immunomodulatory drugs\n\n          -  Participation in clinical trials with experimental drugs\n\n          -  Experience of using of CCR5-antagonists\n\n          -  Any condition which in the opinion of the investigator may affect the evaluation of\n             the study results"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years", 
+            "sampling_method": "Probability Sample", 
+            "study_pop": {
+                "textblock": "primary care clinic"
+            }
+        }, 
+        "enrollment": {
+            "#text": "943", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "March 30, 2013", 
+        "firstreceived_results_date": "February 4, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01823614", 
+            "org_study_id": "WS2041679"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "HIV infection", 
+            "tropism determination", 
+            "genotypic methodic", 
+            "R5-tropic variant", 
+            "X4-tropic variant"
+        ], 
+        "lastchanged_date": "February 4, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Moscow", 
+                    "country": "Russian Federation", 
+                    "zip": "111123"
+                }, 
+                "name": "Central Research Institute for Epidemiology"
+            }
+        }, 
+        "location_countries": {
+            "country": "Russian Federation"
+        }, 
+        "number_of_groups": "6", 
+        "official_title": "Epidemiological Study of the Co-receptor Tropism of HIV-1 Subtype A Spread in the Russian Federation Among na\u00efve and ART-experienced Patients Using V3-based Genotyping Tools", 
+        "other_outcome": {
+            "measure": "Estimation of the R5- and X4-tropic HIV Variants Ratio Stratified by CD4 Cell Count Among Naive Patients", 
+            "safety_issue": "No", 
+            "time_frame": "24 weeks"
+        }, 
+        "overall_official": {
+            "affiliation": "Central Research Institute for Epidemiology", 
+            "last_name": "Dmitry Kireev, PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Russia: Ethics Committee", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "August 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "Determination of the Prevalence of R5 and X4-tropic Variants of HIV in HIV-infected Population in Russia", 
+            "safety_issue": "No", 
+            "time_frame": "24 weeks"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01823614"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Central Institute of Epidemiology, Moscow, Russia", 
+            "investigator_full_name": "Dmitry Kireev", 
+            "investigator_title": "scientific researcher", 
+            "responsible_party_type": "Sponsor-Investigator"
+        }, 
+        "secondary_outcome": {
+            "measure": "Estimation of the R5- and X4-tropic HIV Variants Ratio Stratified by CD4 Cell Count", 
+            "safety_issue": "No", 
+            "time_frame": "24 weeks"
+        }, 
+        "source": "Central Institute of Epidemiology, Moscow, Russia", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Pfizer", 
+                "agency_class": "Industry"
+            }, 
+            "lead_sponsor": {
+                "agency": "Dmitry Kireev", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "November 2012", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Cross-Sectional", 
+        "study_type": "Observational", 
+        "verification_date": "February 2014"
+    }
+}

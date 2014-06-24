@@ -1,0 +1,124 @@
+{
+    "clinical_study": {
+        "@rank": "67158", 
+        "arm_group": [
+            {
+                "arm_group_label": "CGM-group", 
+                "arm_group_type": "Active Comparator", 
+                "description": "CGM-group: the intervention(s) to be administered is Continuous glucose monitoring with real time glycemia each 5 minutes"
+            }, 
+            {
+                "arm_group_label": "IGM-group", 
+                "arm_group_type": "No Intervention", 
+                "description": "IGM-group: the intervention(s) to be administered is intermittent capillary glucose testing (IGM-group) associated with a blind-CGMS to detect retrospectively missed hypoglycemia"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Hypoglycemia is frequent in very low birth weight (VLBW) neonates and compromises their\n      neurological outcome. The aim of this study was to compare real-time continuous glucose\n      monitoring system (RT-CGMS) to standard method by intermittent capillary blood glucose\n      testing in detecting and managing hypoglycemia. The investigators calculated a number of 48\n      neonates to be randomized between 2 ways of glucose level monitoring for their 3 first days\n      of life : either by RT-CGMS (CGM-group), or by intermittent capillary glucose testing\n      (IGM-group) associated with a blind-CGMS to detect retrospectively missed hypoglycemia. The\n      investigators' hypothesis is that in the CGM group number and duration of hypoglycemia will\n      be lower."
+        }, 
+        "brief_title": "Real-time Continuous Glucose Monitoring in Very Low Birth Weight Neonates", 
+        "completion_date": {
+            "#text": "November 2009", 
+            "@type": "Actual"
+        }, 
+        "condition": "Hypoglycemia", 
+        "condition_browse": {
+            "mesh_term": [
+                "Birth Weight", 
+                "Hypoglycemia"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Very low birth weight (VLBW) preterm infants (birth weight under 1500g) who were\n             admitted before 24 hours of life in the Department of Neonatology of the University\n             Hospital of Tours\n\n        Exclusion Criteria:\n\n          -  a serious congenital abnormality,\n\n          -  a skin condition that contraindicated continuous glucose monitoring,\n\n          -  a transfer toward another hospital during the first days of life\n\n          -  an absence of parental agreement."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "24 Hours", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "48", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "September 10, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01942239", 
+            "org_study_id": "RT-CGMS"
+        }, 
+        "intervention": {
+            "arm_group_label": "CGM-group", 
+            "intervention_name": "real time continuous glucose monitoring", 
+            "intervention_type": "Device"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "hypoglycemia", 
+            "very low birth weight neonate", 
+            "continuous glucose monitoring"
+        ], 
+        "lastchanged_date": "September 12, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Tours", 
+                    "country": "France", 
+                    "zip": "37000"
+                }, 
+                "name": "UH Tours Clocheville hospital"
+            }
+        }, 
+        "location_countries": {
+            "country": "France"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Real-time Continuous Glucose Monitoring Reduces Duration of Hypoglycemia Episodes in Very Low Birth Weight Neonates", 
+        "overall_official": {
+            "affiliation": "UH Tours", 
+            "last_name": "Aude Chemin, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "France: Committee for the Protection of Personnes", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "November 2009", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "hypoglycemia was defined as interstitial glucose level <50 mg/dl; consecutive or <30 min data points <50 mg/dl were defined as a single episode of low glucose concentration.", 
+            "measure": "number of hypoglycemia episodes", 
+            "safety_issue": "No", 
+            "time_frame": "at the end of the first 3 days of life"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01942239"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "description": "hypoglycemia was defined as interstitial glucose level <50 mg/dl. Consecutive or <30 min data points <50 mg/dl were defined as a single episode of low glucose concentration.", 
+            "measure": "duration of hypoglycemic episodes", 
+            "safety_issue": "No", 
+            "time_frame": "after their 3 first days of life"
+        }, 
+        "source": "University Hospital, Tours", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University Hospital, Tours", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "December 2008", 
+        "study_design": "Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Single Blind (Subject), Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "December 2008"
+    }
+}

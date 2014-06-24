@@ -1,0 +1,138 @@
+{
+    "clinical_study": {
+        "@rank": "14851", 
+        "acronym": "BEDEXIT", 
+        "arm_group": {
+            "arm_group_label": "Bed Exit", 
+            "description": "Participants will be up to 60 ambulatory Budd Terrace residents.\nInclusion/Exclusion:\nInclusion:\nAmbulatory patient able to leave the bed.\nWillingness to consent and participate in a 30-night study\nExclusion:\nLack of capacity to consent, without an identifiable surrogate.\nTerminal Prognosis\nUnstable health, as determined by the principal investigator, medical doctor, or registered nurse."
+        }, 
+        "brief_summary": {
+            "textblock": "Presence/absence in bed along with heartbeat, respiration, and gross motion in bed will be\n      measured in 48 Budd Terrace residents, a long-term care facility of Emory Healthcare.\n      Measurement will be done using only pressure-sensitive mats that lie underneath the mattress\n      and never touch the patient.  PHI information will be collected by Emory staff.  This PHI\n      will be restricted to: age at time of participation; medical conditions; and medications.\n      The PHI will be stored in a locked file behind a locked door.  Data management will provide\n      a unique identifier for each participant linked to a name that will be kept separately from\n      the aggregate data.\n\n      The data collected from the bed sensor will be processed offline and separately from the PHI\n      to do proof of concept evaluation for the use of machine learning technology to predict bed\n      exits 1 to 5 minutes ahead of time."
+        }, 
+        "brief_title": "Predict Near Future Initiation of Bed Exit", 
+        "completion_date": {
+            "#text": "March 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Sleep", 
+        "detailed_description": {
+            "textblock": "Falls and fall-related injuries are the leading cause of injury deaths among older adults.\n      This proposal will help prevent falls at night by developing a new alarm system.  Current\n      bed-exit alarm systems sound when the patient is half way out of the bed or on the ground.\n      We need a warning for when a patient is about to try to exit the bed.\n\n      The investigators believe that patients' heart rate or breathing changes before they leave\n      bed. They may also start moving within the bed. This is a brief study with nursing home\n      patient participants. Our primary outcome of interest is bed-exits, and up to 10\n      participants at a time will be monitored for an average of 6 weeks (less than their\n      anticipated stay) until which time that 250 bed exits have been recorded. Nearly all\n      participants will have physical and/or mental impairments and will be at high risk for\n      falling.\n\n      The investigators will use an investigational device to watch over the patient using a pad\n      under the mattress. This monitor is called the \"Early-Sense 5\".  The system works like a\n      microphone for very low sounds. It changes heart, lungs, and movement vibrations into tiny\n      electrical signals.  A wire carries these signals to a control box.\n\n      The information collected in the box will be stored and checked later.  We will use five\n      different math descriptions for recognizing patterns. One or more of these may be useful to\n      give a 1 - 5 minute early warning that the patient is about to exit the bed.\n\n      The plan is to determine whether patterns of differences in three areas (heart rate,\n      breathing rate, and body movement) can be recognized and depended on to warn us about\n      bed-exits or attempted bed-exits.\n\n      There are four study targets. The first is to develop five possible mathematical\n      descriptions. The second is to use the rest of the information to test which of the\n      descriptions have meaningful ability to predict that a patient is about to get out of bed.\n      The third is to show that warning times are one to five minutes.  The fourth is to test the\n      best mathematical descriptions for false alarms and true fall prevention.\n\n      How doable Phase I is will depend on how well we can predict that a patient is about to get\n      out of bed.  If we can identify a pattern easily, then Phase II research will be put\n      forward.\n\n      This study is supported by the National Institute on Aging (SBIR-I)."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion:\n\n          1. Ambulatory patient able to leave the bed.\n\n          2. Willingness to consent and participate in a 30-night study\n\n        Exclusion:\n\n          1. Lack of capacity to consent, without an identifiable surrogate.\n\n          2. Terminal Prognosis\n\n          3. Unstable health, as determined by the principal investigator, medical doctor, or\n             registered nurse."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "Participants will be up to 60 ambulatory Budd Terrace residents."
+            }
+        }, 
+        "enrollment": {
+            "#text": "60", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "December 21, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01774708", 
+            "org_study_id": "1R21EB015943-01", 
+            "secondary_id": [
+                "0664699330000", 
+                "R43AG042237-01"
+            ]
+        }, 
+        "intervention": {
+            "arm_group_label": "Bed Exit", 
+            "description": "The proposed research uses an investigational device from EarlySense consisting of a pressure sensitive piezoelectric pad 350 mm x 226 mm x 12 mm or a little less than 9 by 13 inches and under a half inch thick connected to a cord resembling a phone cord to a controller 10.3 by 10.5 by 5.5 inches which in turn plugs into a standard electrical outlet.  The power cord is modu\u00aclar, so it is possible to select a cord that is long enough without having excessive extra length.  The con\u00acnec\u00action between the pad and the monitor has a quick release like a modular telephone.\nThis system is designed to very unobtrusively collect heartbeat patterns, respiratory patterns, motion in bed, and bed-exit data with no risk or inconvenience to the patient.", 
+            "intervention_name": "Pressure sensitive pad", 
+            "intervention_type": "Device", 
+            "other_name": "THE EMFIIT MOVEMENT MONITOR"
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "January 6, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Atlanta", 
+                    "country": "United States", 
+                    "state": "Georgia", 
+                    "zip": "30329"
+                }, 
+                "name": "Budd Terrace"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_groups": "1", 
+        "official_title": "Predict Near Future Initiation of Bed Exit to Prompt Effective Intervention to Avoid Nighttime Falls With Pattern-recognition Algorithms Using Unobtrusive Monitoring of Movement and Vital Signs", 
+        "overall_official": {
+            "affiliation": "CDIC, Inc", 
+            "last_name": "Thomas Whalen", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": [
+                "United States: Food and Drug Administration", 
+                "United States: Federal Government"
+            ], 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "March 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "Measurements on respiratory rate, pulse, bed movement and bed presence will be collected continously during subjects' participation.  Data epochs for analysis might be as short as 1 second. Data collection will be done via the pressure-sensitive mats that lie underneath the mattress and never touch the patient.  PHI information will be collected and maintained by Emory staff.", 
+                "measure": "Bed Exit", 
+                "safety_issue": "No", 
+                "time_frame": "Data collected continuously from monitors for up to 24 weeks will be downloaded to a secure server or flash drive approximately once a week, either wirelessly from outside the room or while the patient is outside the room for other reasons."
+            }, 
+            {
+                "description": "A pizo-electric mat will detect the presence or absence of a body in the bed.", 
+                "measure": "Bed Exit", 
+                "safety_issue": "No", 
+                "time_frame": "Monitored continuously for up to 24 weeks"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01774708"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Atlanta VA Medical Center", 
+            "investigator_full_name": "Theodore Johnson II, M.D., M.P.H.", 
+            "investigator_title": "Co-Investigator", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": {
+            "description": "Movement in bed is assessed by a pizo-electric mat, and used as a predictor variable in analysis for bed exit.", 
+            "measure": "Movement in bed", 
+            "safety_issue": "No", 
+            "time_frame": "Measured continuously while a patient is in bed for 24 hours per day up to 24 weeks"
+        }, 
+        "source": "Atlanta VA Medical Center", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Institute on Aging (NIA)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Atlanta VA Medical Center", 
+                "agency_class": "U.S. Fed"
+            }
+        }, 
+        "start_date": "December 2012", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "January 2014"
+    }
+}

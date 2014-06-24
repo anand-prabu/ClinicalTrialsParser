@@ -1,0 +1,138 @@
+{
+    "clinical_study": {
+        "@rank": "97352", 
+        "acronym": "CASAS/HH", 
+        "arm_group": [
+            {
+                "arm_group_label": "Prompt intervention", 
+                "description": "The prompt intervention group will receive context-aware text, audio, and video prompts to initiate specified activities of daily living."
+            }, 
+            {
+                "arm_group_label": "No prompt intervention", 
+                "description": "The no prompt intervention will not receive any prompts to initiate activities of daily living."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The world's population is aging and the resulting prevalence of chronic illnesses is a\n      challenge that our society must address. The vision is to address this challenge by\n      designing smart environment technologies that keep older adults functioning independently in\n      their own homes as long as possible. Smart environments have been used as the basis of\n      monitoring activities for residents with health conditions.  However, there is currently a\n      lack of large scale, longitudinal research to identify early markers of dementia and other\n      health status changes and to predict functional decline. The objective of this project is to\n      perform a 5-year longitudinal study of older adults performing daily activities in their own\n      smart homes."
+        }, 
+        "brief_title": "Smart Environment Technology for Longitudinal Behavior Analysis and Intervention", 
+        "completion_date": {
+            "#text": "December 2017", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Dementia", 
+        "condition_browse": {
+            "mesh_term": "Dementia"
+        }, 
+        "detailed_description": {
+            "textblock": "By tracking residents' daily behavior over a long period of time our intelligent software\n      can perform automated functional assessment and identify trends that are indicators of acute\n      health changes and slower progressive decline (e.g., dementia). By implementing prompt-based\n      interventions that support functional independence and promote healthy lifestyle behaviors\n      (e.g., social contact, exercise, regular sleep), the investigators can improve overall\n      health and well-being. The investigators hypothesize that smart home technologies can be\n      used to detect and predict functional change, to slow functional change and extend\n      functional independence, and to improve quality of life in elderly individuals who are at\n      risk of transitioning to mild cognitive impairment and to dementia. This hypothesis has been\n      formulated on the basis of preliminary data produced by the applicants which supports the\n      efficacy of using smart home technologies for both functional status assessment and for\n      prompting the initiation and completion of activities in individuals with mild cognitive\n      impairment and dementia. The rationale of the proposed work is that understanding the\n      natural history of functional change between aging and dementia will lead to early\n      prevention and proactive interventions that will slow functional change, thereby delaying\n      nursing home placement and cost of care to society. The investigators plan to pursue the\n      following specific aims: (1) Characterize the daily lifestyle of smart environment residents\n      through minimal-supervision activity recognition and activity discovery, (2) Design software\n      algorithms that detect trends in behavioral data, and (3) Evaluate the efficacy of\n      activity-aware automated prompting technology for extending functional independence and\n      improving quality of life. The proposed work is innovative because it will track a large\n      number of individuals longitudinal in their own homes and determine whether this technology\n      can be used to promote healthy lifestyle behaviors and detect health care changes that may\n      lead to early interventions, improved quality of life, and decreased health care\n      utilization. The project is significant because it will introduce new technologies for\n      activity discovery and tracking that require minimal-supervision, contribute algorithms that\n      predict cognitive decline and signal more acute health status change, and demonstrate for\n      the first time that activity-aware automated prompting technologies can be used to support\n      and/or slow functional change and to increase quality of life in elderly individuals."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  fluent in English\n\n          -  cognitively health adults and adults who meet criteria for Mild Cognitive Impairment\n             (CDR score >= 0.5)\n\n        Exclusion Criteria:\n\n          -  current or recent (past year) psychoactive substance abuse\n\n          -  history of cerebrovascular accidents\n\n          -  other known medical, neurological or psychiatric causes of cognitive dysfunction\n             (Parkinson's schizophrenia, TBI)"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "75 Years", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "Participants are older adults age 75+ who are currently living independently."
+            }
+        }, 
+        "enrollment": {
+            "#text": "42", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "December 18, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01782157", 
+            "org_study_id": "R01EB015853-01A1", 
+            "secondary_id": "R01EB015853-01A1"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": "dementia", 
+        "lastchanged_date": "January 30, 2013", 
+        "location": {
+            "contact": {
+                "email": "Lauriw@horizonhouse.org", 
+                "last_name": "Lauri Warfield-Larson", 
+                "phone": "206-382-5460"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Seattle", 
+                    "country": "United States", 
+                    "state": "Washington", 
+                    "zip": "98101"
+                }, 
+                "name": "Horizon House"
+            }, 
+            "status": "Not yet recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_groups": "2", 
+        "official_title": "Smart Environment Technology for Longitudinal Behavior Analysis and Intervention", 
+        "overall_contact": {
+            "email": "schmitter-e@wsu.edu", 
+            "last_name": "Maureen Schmitter-Edgecombe, PhD", 
+            "phone": "509-335-3587"
+        }, 
+        "overall_contact_backup": {
+            "email": "cook@eecs.wsu.edu", 
+            "last_name": "Diane Cook, PhD", 
+            "phone": "509-335-4985"
+        }, 
+        "overall_official": {
+            "affiliation": "Washington State University", 
+            "last_name": "Diane Cook, PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Not yet recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "December 2017", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "Change from Baseline in Clinical Dementia Rating", 
+            "safety_issue": "No", 
+            "time_frame": "24 months"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01782157"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "measure": "Change from Baseline in Amount of Caregiver Assistance", 
+            "safety_issue": "No", 
+            "time_frame": "24 months"
+        }, 
+        "source": "Washington State University", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Institute for Biomedical Imaging and Bioengineering (NIBIB)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Washington State University", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2013", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "January 2013"
+    }
+}

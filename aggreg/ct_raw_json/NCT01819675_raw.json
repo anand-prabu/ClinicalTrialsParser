@@ -1,0 +1,188 @@
+{
+    "clinical_study": {
+        "@rank": "127686", 
+        "arm_group": [
+            {
+                "arm_group_label": "High frequency (10Hz) rTMS", 
+                "arm_group_type": "Experimental", 
+                "description": "<high frequency rTMS parameters> Intensity: 120% of resting motor threshold; Location: Motor hotspot in primary motor cortex for the dominant hand; Frequency: 10Hz; Number of total stimuli: 750; Coil orientation: tangential to scalp"
+            }, 
+            {
+                "arm_group_label": "Low frequency (1Hz) rTMS", 
+                "arm_group_type": "Experimental", 
+                "description": "<low frequency rTMS parameters> Intensity: 120% of resting motor threshold; Location: Motor hotspot in primary motor cortex for the dominant hand; Frequency: 1Hz; Number of total stimuli: 1200; Coil orientation: tangential to the scalp"
+            }, 
+            {
+                "arm_group_label": "Sham rTMS", 
+                "arm_group_type": "Sham Comparator", 
+                "description": "<Sham rTMS parameters> Intensity: 120% of resting motor threshold; Location: Motor hotspot in primary motor cortex for the dominant hand; Frequency: 1Hz; Number of total stimuli: 1200; Coil orientation: perpendicular to scalp"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to determine whether repetitive transcranial magnetic\n      stimulation (rTMS) over the brain can modulate the binding of neurotransmitter (GABA in this\n      study) to its receptor using the special PET study."
+        }, 
+        "brief_title": "Effect of Repetitive Transcranial Magnetic Stimulation (rTMS) Over the Brain on the Neurotransmitter Binding", 
+        "completion_date": {
+            "#text": "August 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Stroke", 
+            "Hemiplegia"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Hemiplegia", 
+                "Stroke"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Repetitive transcranial magnetic stimulation (rTMS) can modulate the excitability of cortex\n      but exact mechanism is not well determined in human-beings. Changes in some\n      neurotransmitters' status in brain after rTMS have been suggested as a possible mechanism,\n      but role of GABA is not clear.\n\n      Twelve healthy people will be recruited. They will receive the rTMS over the primary motor\n      cortex of the dominant hand. Individual subject will receive three sessions of rTMS with\n      wash-out period (more than 3 days) between the rTMS sessions. Three rTMS sessions are high\n      frequency (10Hz), low frequency (1Hz) and sham rTMS. The order of rTMS sessions will be\n      randomly decided. After completing each rTMS session, [18F]flumazenil-PET will be checked.\n\n      The purpose of this study is to investigate 1)whether rTMS over the primary motor cortex\n      can modulate the [18F]flumazenil binding potential and 2)whether the modulation of\n      [18F]flumazenil binding potential by rTMS can be different according to the applied\n      frequency of rTMS."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Healthy people\n\n          -  18-50 yrs old\n\n          -  Right handedness\n\n          -  Written informed consent\n\n        Exclusion Criteria:\n\n          -  Previous medical diseases such as seizure, stroke, diabetes, hypertension.\n\n          -  Taking any drugs\n\n          -  Smoker\n\n          -  Pregnancy\n\n          -  Contraindication of PET or MRI\n\n          -  Stroke or any tumor in MRI\n\n          -  Metals objects in the head or eyes\n\n          -  Cardiac pacemaker or cochlear implant"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "50 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "12", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "March 19, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01819675", 
+            "org_study_id": "E-1211-178-001"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Low frequency (1Hz) rTMS", 
+                "intervention_name": "Low frequency rTMS", 
+                "intervention_type": "Device", 
+                "other_name": "Magpro (low frequency)"
+            }, 
+            {
+                "arm_group_label": "High frequency (10Hz) rTMS", 
+                "intervention_name": "High frequency rTMS", 
+                "intervention_type": "Device", 
+                "other_name": "Magpro (high frequency)"
+            }, 
+            {
+                "arm_group_label": "Sham rTMS", 
+                "intervention_name": "Sham rTMS", 
+                "intervention_type": "Device", 
+                "other_name": "Magpro (sham)"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Gamma-Aminobutyric Acid", 
+                "Neurotransmitter Agents"
+            ]
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Neuronal plasticity", 
+            "Neurotransmitter agents", 
+            "Receptors, neurotransmitter", 
+            "Transcranial magnetic stimulation", 
+            "Stroke", 
+            "gamma-Aminobutyric Acid"
+        ], 
+        "lastchanged_date": "May 13, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Seongnam-si", 
+                    "country": "Korea, Republic of", 
+                    "state": "Gyeonggi-do", 
+                    "zip": "463-707"
+                }, 
+                "name": "Seoul National University Bundang Hospital"
+            }
+        }, 
+        "location_countries": {
+            "country": "Korea, Republic of"
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "Effect of rTMS Over Primary Motor Cortex on Gamma-aminobutyric Acid A (GABAA)-[18F]Flumazenil Binding: A Positron Emission Tomography (PET) Study", 
+        "overall_official": {
+            "affiliation": "Department of Rehabilitation Medicine, Seoul National University College of Medicine, Seoul National University Bundang Hospital, Seongnam, Korea", 
+            "last_name": "Nam-Jong Paik, MD, PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Suspended", 
+        "oversight_info": {
+            "authority": "South Korea: Korea Food and Drug Administration (KFDA)", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "August 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Immediately after rTMS session , PET image will be acquired. By using these images, [18F]flumazenil binding potential will be calculated in selected anatomical region up to 3 months", 
+            "measure": "[18F]flumazenil binding potential", 
+            "safety_issue": "No", 
+            "time_frame": "up to 3 months"
+        }, 
+        "reference": [
+            {
+                "PMID": "23002939", 
+                "citation": "Ayache SS, Farhat WH, Zouari HG, Hosseini H, Mylius V, Lefaucheur JP. Stroke rehabilitation using noninvasive cortical stimulation: motor deficit. Expert Rev Neurother. 2012 Aug;12(8):949-72. Review."
+            }, 
+            {
+                "PMID": "15450156", 
+                "citation": "Malenka RC, Bear MF. LTP and LTD: an embarrassment of riches. Neuron. 2004 Sep 30;44(1):5-21. Review."
+            }, 
+            {
+                "PMID": "17562028", 
+                "citation": "Thickbroom GW. Transcranial magnetic stimulation and synaptic plasticity: experimental framework and human models. Exp Brain Res. 2007 Jul;180(4):583-93. Epub 2007 Jun 12. Review."
+            }, 
+            {
+                "PMID": "19401169", 
+                "citation": "Yue L, Xiao-Lin H, Tao S. The effects of chronic repetitive transcranial magnetic stimulation on glutamate and gamma-aminobutyric acid in rat brain. Brain Res. 2009 Jan 19. [Epub ahead of print]"
+            }, 
+            {
+                "PMID": "19701632", 
+                "citation": "Trippe J, Mix A, Aydin-Abidin S, Funke K, Benali A. \u03b8 burst and conventional low-frequency rTMS differentially affect GABAergic neurotransmission in the rat cortex. Exp Brain Res. 2009 Dec;199(3-4):411-21. doi: 10.1007/s00221-009-1961-8."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01819675"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Seoul National University Bundang Hospital", 
+            "investigator_full_name": "Nam-Jong Paik", 
+            "investigator_title": "Professor", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": {
+            "measure": "Purdue pegboard test score", 
+            "safety_issue": "No", 
+            "time_frame": "Before rTMS (baseline) and average 2hours after rTMS"
+        }, 
+        "source": "Seoul National University Bundang Hospital", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Ministry for Health, Welfare and Family Affairs, Korea", 
+                "agency_class": "Other"
+            }, 
+            "lead_sponsor": {
+                "agency": "Seoul National University Bundang Hospital", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "March 2013", 
+        "study_design": "Allocation: Randomized, Intervention Model: Crossover Assignment, Masking: Double Blind (Subject, Caregiver, Outcomes Assessor), Primary Purpose: Basic Science", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2014"
+    }
+}

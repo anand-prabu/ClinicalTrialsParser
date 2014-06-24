@@ -1,0 +1,126 @@
+{
+    "clinical_study": {
+        "@rank": "126106", 
+        "acronym": "PRD-ARDS-PP", 
+        "arm_group": {
+            "arm_group_label": "Single arm", 
+            "arm_group_type": "Experimental"
+        }, 
+        "brief_summary": {
+            "textblock": "Preload dependence assessment is difficult during prone position, and to date, no\n      hemodynamic parameters have been validated to rationalize fluid loading in that position.\n      This study aims to validate several hemodynamic parameters, using continuous cardiac output\n      by pulse contour analysis and transpulmonary thermodilution."
+        }, 
+        "brief_title": "Preload Dependence During Prone Position In ARDS Patients", 
+        "condition": "ARDS PATIENTS WITH HEMODYNAMIC INSTABILITY", 
+        "condition_browse": {
+            "mesh_term": "Respiratory Distress Syndrome, Adult"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  ARDS patient\n\n          -  mechanically ventilated in prone position\n\n          -  sedated and paralyzed\n\n          -  with continuous cardiac output monitoring by transpulmonary thermodilution and pulse\n             contour analysis\n\n          -  fluid loading as indicated by attending physician\n\n        Exclusion Criteria:\n\n          -  Age below 18\n\n          -  no affiliation to social security\n\n          -  Vena cava obstruction\n\n          -  previous inclusion in protocol"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "33", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "October 16, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01965574", 
+            "org_study_id": "2012.783"
+        }, 
+        "intervention": {
+            "arm_group_label": "Single arm", 
+            "intervention_name": "Trendelenburg position", 
+            "intervention_type": "Procedure"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": "ARDS - FLUID LOADING - PRELOAD DEPENDENCE", 
+        "lastchanged_date": "October 17, 2013", 
+        "location": {
+            "contact": {
+                "email": "j-christophe.richard@chu-lyon.fr", 
+                "last_name": "Jean-Christophe RICHARD, Professor", 
+                "phone": "4 72 07 17 62", 
+                "phone_ext": "+33"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Lyon", 
+                    "country": "France", 
+                    "zip": "69004"
+                }, 
+                "name": "H\u00f4pital de la Croix Rousse"
+            }, 
+            "investigator": {
+                "last_name": "Jean-Chirstophe RICHARD, Professor", 
+                "role": "Principal Investigator"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "France"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Evaluation of Performance Diagnosis of Hemodynamic Parameters of Preload Dependence in ARDS Patients During Prone Position", 
+        "overall_contact": {
+            "email": "j-christophe.richard@chu-lyon.fr", 
+            "last_name": "Jean-Christophe RICHARD, Professor", 
+            "phone": "4 72 07 17 62", 
+            "phone_ext": "+33"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "France: Agence Nationale de S\u00e9curit\u00e9 du M\u00e9dicament et des produits de sant\u00e9", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "October 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Preload dependence is assessed by the response in cardiac output to a 500 mL fluid loading,  and is deemed positive if cardiac output increase by at least 15%", 
+            "measure": "Area under ROC curve of the variation in continuous cardiac output during Trendelenburg position, to detect preload dependence", 
+            "safety_issue": "No", 
+            "time_frame": "1 minute after Trendelenburg position onset."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01965574"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Preload dependence is assessed by the response in cardiac output to a 500 mL fluid loading,  and is deemed positive if cardiac output increase by at least 15%", 
+                "measure": "Area under ROC curve of the variation in continuous cardiac output during end-expiratory occlusion to detect preload dependence", 
+                "safety_issue": "No", 
+                "time_frame": "15 seconds after the onset of end-expiratory occlusion"
+            }, 
+            {
+                "description": "Preload dependence is assessed by the response in cardiac output to a 500 mL fluid loading,  and is deemed positive if cardiac output increase by at least 15%", 
+                "measure": "Area under ROC curve of the respiratory variation in pulse pressure to detect preload dependence", 
+                "safety_issue": "No", 
+                "time_frame": "1 minute after tidal volume increase to 8 ml/kg"
+            }
+        ], 
+        "source": "Hospices Civils de Lyon", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Hospices Civils de Lyon", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "October 2013", 
+        "study_design": "Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "October 2013"
+    }
+}

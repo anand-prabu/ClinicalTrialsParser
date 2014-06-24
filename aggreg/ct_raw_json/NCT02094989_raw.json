@@ -1,0 +1,135 @@
+{
+    "clinical_study": {
+        "@rank": "151494", 
+        "acronym": "EVER", 
+        "arm_group": {
+            "arm_group_label": "diagnostic"
+        }, 
+        "brief_summary": {
+            "textblock": "The electrocardiogram (ECG) is an important diagnostic procedure in medicine mainly to\n      detect circulation disorders and problems of the spread of the electrical heart impulse. It\n      is frequently the first measure in clinical practice when angina pectoris, acute myocardial\n      infarction or an arrhythmia are suspected. The ECG is easy to perform, safe and cheap.\n\n      Posture changes are known to cause alterations of the ECG [1]. Deviation of the electrical\n      heart axis (EHA) [2], temporary changes of the QRS morphology and ST-segment alterations are\n      of particular importance in view of diagnostic accuracy [3], [4]. In ambulatory ECG\n      recordings ST-segment alterations for instance might mistakenly be interpreted as cardiac\n      ischemia [5]. Artifacts could be minimized by the concurrent determination of the deviation\n      of the electrical heart axis [6] [7]or by using posture detectors [8] helping to correlate\n      ECG changes to posture changes.\n\n      Due to the emergence of new computer based opportunities ambulatory ECG in the sense of home\n      monitoring is an emerging market. Together with the superiority compared to the scalar ECG\n      in detecting certain pathologies, like myocardial infarction and right ventricular\n      hypertrophy, the VCG gained new interest in recent years [9]. Four ECG leads are sufficient\n      to synthesize a standard 12-lead ECG from a VCG and vice versa with a transformation matrix\n      [10] [11].The redirection of the spatial VCG after posture changes has been determined for\n      the QRS loop with the Frank leads, which is the reference method for constructing the VCG\n      [12][13].\n\n      4 leads of an ambulatory ECG are sufficient to construct the VCG if arranged approximately\n      in the position of three rectangular axes. Doctors are best trained to interpret standard 12\n      lead ECGs. With optimization of the leads of ambulatory (Holter) ECG towards the three\n      rectangular axes, this might allow mathematical transformation into the standard 12 lead\n      ECG. A precondition would be that the transformation matrix is independent of posture. To\n      date, transformation matrix between Frank VCG and standard 12 lead ECG has only been\n      calculated in resting ECGs [5].\n\n      This is the first study which investigates the transformation matrix in different postures.\n      Additionally, the investigators will investigate for the first time prospectively for known\n      artefacts of stress testing and ambulatory ECGs.\n\n      Aim:\n\n      Simultaneous prospective recording of the standard 12 lead ECG and the Frank-lead VCG in\n      different postures is expected to add information on potential causes of artifacts of the\n      ECG caused by posture changes. During continuous recording, the investigators will\n      investigate the accuracy of the linear affine transformation with posture, the occurrence\n      (dimension and duration) of ECG/ VCG morphology changes and ST-segment alterations, and VCG\n      angle changes in dependence of posture changes in healthy young men.\n\n      Hypothesis The investigators hypothesis is that the transformation matrix between Frank-Lead\n      VCG and standard 12-lead ECG is posture dependent.\n\n      Artefacts of the ECG due to posture changes are systematic. The knowledge of the systematics\n      improves the diagnostic accuracy of ambulatory ECG and stress testing."
+        }, 
+        "brief_title": "ECG and VCG in Dependence of Body Posture", 
+        "completion_date": {
+            "#text": "March 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Coronary Heart Disease", 
+            "Arrhythmia"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Arrhythmias, Cardiac", 
+                "Coronary Artery Disease", 
+                "Myocardial Ischemia", 
+                "Coronary Disease", 
+                "Heart Diseases"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Subjects included in the study must meet the following criteria:\n\n          -  Male aged  18 - 60 years\n\n          -  Body Mass Index: 18.5 - 35 (WHO: normal weight - overweight  - class I obesity)\n\n          -  Basic pulse rate: 60 - 100 beats per minute\n\n          -  Blood pressure: max.  systolic 140 / diastolic 90 mm Hg\n\n        Exclusion Criteria:\n\n          -  Chronic or acute disease (including drug abuse, bronchial  asthma,  pulmonary\n             emphysema, COPD)\n\n          -  Cardiac disease or limitations of the heart function (angina pectoris, previous\n             myocardial  infarction, arrhythmia, dyspnea)\n\n          -  Implants  for the treatment of acute and/or chronic diseases\n\n          -  Regular intake of medication (> 2 per week) for the treatment of acute and/or chronic\n             diseases"
+            }, 
+            "gender": "Male", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "60 Years", 
+            "minimum_age": "18 Years", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "healthy men without history of cardiac disorder"
+            }
+        }, 
+        "enrollment": {
+            "#text": "46", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "March 19, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02094989", 
+            "org_study_id": "BFH-001"
+        }, 
+        "intervention": {
+            "arm_group_label": "diagnostic", 
+            "intervention_name": "posture dependence of VCG-ECG-transformation", 
+            "intervention_type": "Other"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "electrocardiogram", 
+            "vectorcardiogram", 
+            "telecardiology", 
+            "linear regression", 
+            "individual transformation matrix", 
+            "posture"
+        ], 
+        "lastchanged_date": "March 21, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Bern", 
+                    "country": "Switzerland", 
+                    "zip": "3000"
+                }, 
+                "name": "CTU"
+            }
+        }, 
+        "location_countries": {
+            "country": "Switzerland"
+        }, 
+        "number_of_groups": "1", 
+        "official_title": "Prospective, Observational Controlled Trial to Assess the Statistical and the Visual Accuracy of the Individual VCG-ECG-Transformation in Dependence of Posture", 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Switzerland: Kantonale Ethikkommission Bern", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "March 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "The transformation matrix will be defined as independent of posture, if the accuracy between measured and calculated 12 lead ECG of each posture vary below the accuracy level as defined in IEC 60601-1-52.", 
+            "measure": "posture dependence of the individual VCG-ECG-Transformation matrix", 
+            "safety_issue": "No", 
+            "time_frame": "N/A (one simultaneous ECG/VCG record over 20 minutes)"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02094989"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Bern University of Applied Sciences", 
+            "investigator_full_name": "Rolf Oberholzer", 
+            "investigator_title": "MD", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Posture changes will be defined as not being a relevant artifact for QRS morphology- and ST-segment alterations, if the accuracy between the supine standard 12 lead ECG and the measured 12 lead ECG of another posture vary below the accuracy level as defined in IEC 60601-1-52.", 
+                "measure": "artifacts in the ECG morphology", 
+                "safety_issue": "No", 
+                "time_frame": "N/A (one simultaneous ECG/VCG record over 20 minutes)"
+            }, 
+            {
+                "description": "The mean, range and standard deviation (SD) of angle changes of the electrical heart axis of each posture of all participants will be calculated.", 
+                "measure": "posture dependence of electrical heart axis", 
+                "safety_issue": "No", 
+                "time_frame": "N/A (one simultaneous ECG/VCG record over 20 minutes)"
+            }
+        ], 
+        "source": "Bern University of Applied Sciences", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Bern University of Applied Sciences", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2013", 
+        "study_design": "Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "March 2014"
+    }
+}

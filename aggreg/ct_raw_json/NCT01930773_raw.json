@@ -1,0 +1,201 @@
+{
+    "clinical_study": {
+        "@rank": "124404", 
+        "acronym": "ONSIDE TEST", 
+        "arm_group": [
+            {
+                "arm_group_label": "Genotyping Arm", 
+                "arm_group_type": "Experimental", 
+                "description": "Rapid genotyping to select optimal P2Y12-inhibitor for PCI."
+            }, 
+            {
+                "arm_group_label": "Phenotying Arm", 
+                "arm_group_type": "Experimental", 
+                "description": "The use of platelet function testing to select the optimal P2Y12-inhibitor for PCI."
+            }, 
+            {
+                "arm_group_label": "Conventional Arm", 
+                "arm_group_type": "No Intervention", 
+                "description": "Regular approach for performing elective PCI."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Patients undergoing percutaneous coronary intervention with a residual high platelet\n      reactivity despite oral clopidogrel are at increased risk of ischaemic complications. The\n      strategies to overcome the issue consist of switch to a more potent antiplatelet medications\n      including prasugrel or ticagrelor. Economic constrains of many countries still do not allow\n      wide reimbursement of newer antiplatelet agents. Therefore a strategy to personalise\n      treatment according to genotype and phenotype characteristics of the patient may provide an\n      attractive solution combining high clinical efficacy with low budget impact."
+        }, 
+        "brief_title": "Bedside Genetic or Pharmacodynamic Testing to Prevent Periprocedural Myonecrosis During PCI (ONSIDE TEST)", 
+        "completion_date": {
+            "#text": "May 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Stable Angina", 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  age 18-75\n\n          -  elective PCI\n\n        Exclusion Criteria:\n\n          -  acute coronary syndrome (troponin > 1 x ULN),\n\n          -  administration of glycoprotein IIb/IIIa inhibitors,\n\n          -  chronic total occlusion,\n\n          -  lesions with extensive calcifications requiring rotational atherectomy,\n\n          -  platelet count <70 000 /\u00b5l\n\n          -  high bleeding risk,\n\n          -  coronary bypass surgery in the previous 3 months,\n\n          -  severe chronic renal failure (eGFR < 30 mL/min)\n\n          -  requirement for warfarin, dabigatran, apixaban, rivaroxaban\n\n          -  history of stroke or TIA,\n\n          -  weight < 60 kg\n\n          -  known bleeding diathesis,\n\n          -  hematocrit of < 30% or >52%\n\n          -  pregnancy"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "75 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "150", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "August 25, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01930773", 
+            "org_study_id": "ONSIDE TEST", 
+            "secondary_id": "Klub 30, 2012"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Genotyping Arm", 
+                "description": "Patients harboring CYP2C19 *2 alleles receive 60 mg prasugrel for PCI, while non-carriers receive 600 mg clopidogrel if not pretreated with clopidogrel.", 
+                "intervention_name": "Genotyping", 
+                "intervention_type": "Device", 
+                "other_name": "Spartan rapid genotyping device to screen CYP2C19 *2 carriage in patients in the Genotyping Arm."
+            }, 
+            {
+                "arm_group_label": "Phenotying Arm", 
+                "description": "Patients having high on-treatment platelet reactivity (HPR: greater than 208 PRU) receive 60 mg prasugrel loading dose (LD), others continue clopidogrel for PCI.", 
+                "intervention_name": "Phenotyping", 
+                "intervention_type": "Device", 
+                "other_name": "VerifyNow P2Y12 assay to test the response to clopidogrel."
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Clopidogrel"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "clopidogrel", 
+            "prasugrel", 
+            "platelet function testing", 
+            "genotyping", 
+            "peri-procedural MI"
+        ], 
+        "lastchanged_date": "August 29, 2013", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Balatonf\u00fcred", 
+                        "country": "Hungary", 
+                        "zip": "8230"
+                    }, 
+                    "name": "Heart Center Balatonf\u00fcred"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "lukasz@koltowski.com", 
+                    "last_name": "Lukasz Koltowski, MD"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Warsaw", 
+                        "country": "Poland", 
+                        "zip": "02-097"
+                    }, 
+                    "name": "1st Department of Cardiology, Medical University of Warsaw"
+                }, 
+                "investigator": {
+                    "last_name": "Lukasz Koltowski, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "Hungary", 
+                "Poland"
+            ]
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "Optimal P2Y12-receptor treatmeNt Guided by bedSIDe Genetic or Pharmacodynamic TESTing to Prevent Periprocedural Myonecrosis During Elective Percutaneous Coronary Intervention.", 
+        "other_outcome": [
+            {
+                "description": "The level of peak troponin-I elevation during 24 hours of elective PCI", 
+                "measure": "Peak troponin elevation", 
+                "safety_issue": "No", 
+                "time_frame": "Within 24 hours of PCI"
+            }, 
+            {
+                "description": "The rate of peri-procedural MI defined as a peak troponin-I value greater than 5x the ULN within 24 hours.", 
+                "measure": "Proportion of patients with peri-procedural MI", 
+                "safety_issue": "No", 
+                "time_frame": "Within 24 hours of PCI"
+            }, 
+            {
+                "description": "BARC-defined type 3 (clinical, laboratory, and/or imaging evidence of bleeding, with healthcare provider responses) and type 5 (fatal) bleeds happening within 7 days of PCI.", 
+                "measure": "BARC type 3 and 5 bleeding", 
+                "safety_issue": "Yes", 
+                "time_frame": "Within 1 week of PCI"
+            }, 
+            {
+                "description": "The rate of cardiac death, myocardial infarction, definite or probable stent thrombosis or urgent repeat revascularization within 30 days of elective PCI.", 
+                "measure": "Death, MI, stent thrombosis (ST) or urgent repeat revascularization", 
+                "safety_issue": "No", 
+                "time_frame": "30 days after PCI"
+            }
+        ], 
+        "overall_contact": {
+            "email": "lukasz@koltowski.com", 
+            "last_name": "Lukasz Koltowski, MD"
+        }, 
+        "overall_contact_backup": {
+            "last_name": "Daniel Aradi, MD, PhD"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "Poland: Ethics Committee", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "March 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "The maximum level of CK-MB elevation within 24 hours of elective PCI.", 
+            "measure": "Peak creatine kinase muscle brain (CK-MB) elevation", 
+            "safety_issue": "No", 
+            "time_frame": "Within 24 hours after Percutaneous Coronary Intervention (PCI)"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01930773"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Medical University of Warsaw", 
+            "investigator_full_name": "\u0141ukasz Ko\u0142towski", 
+            "investigator_title": "Cardiology Researcher", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": {
+            "description": "Periprocedural MI is defined as a CK-MB elevation greater than 3x of the upper limit of norm (ULN) within 24 hours of elective PCI.", 
+            "measure": "Proportion of patients having periprocedural myocardial infarction (MI)", 
+            "safety_issue": "No", 
+            "time_frame": "Within 24 hours or PCI"
+        }, 
+        "source": "Medical University of Warsaw", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "University of Pecs", 
+                "agency_class": "Other"
+            }, 
+            "lead_sponsor": {
+                "agency": "Medical University of Warsaw", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "March 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Prevention", 
+        "study_type": "Interventional", 
+        "verification_date": "August 2013"
+    }
+}

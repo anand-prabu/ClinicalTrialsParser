@@ -1,0 +1,140 @@
+{
+    "clinical_study": {
+        "@rank": "48645", 
+        "acronym": "EHOSS-1", 
+        "arm_group": [
+            {
+                "arm_group_label": "PRELOAD DEPENDENCE", 
+                "arm_group_type": "Experimental", 
+                "description": "in this arm, fluid loading is administered with an algorithm using preload dependence indexes (variation in cardiac output in response to passive leg raising)."
+            }, 
+            {
+                "arm_group_label": "CONTROL", 
+                "arm_group_type": "Active Comparator"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Haemodynamic optimization is of paramount importance in septic shock, but is really\n      consensual and standardized during the first 6 hours of treatment. Haemodynamic treatment\n      including fluid loading management, vasoactive treatment and oxygen transport optimization\n      is mainly based on expert recommendations or non-randomized trials. Recently, preload\n      dependence indexes such as pulse pressure variation have been shown to be more accurate to\n      predict fluid responsiveness than static indexes such as filling pressures. However, whether\n      using preload dependence indexes changes septic shock prognostic remains to date unknown.\n      The aim of this non-blinded randomized controlled trial is to assess whether haemodynamic\n      optimization using preload dependence indexes and pulmonary thermodilution 1. reduces septic\n      shock duration assessed by administration duration of vasoactive treatment (primary end\n      point), 2. reduces regional hypoperfusion assessed by arterial lactate, 3. reduces lung\n      hydrostatic oedema linked to excessive fluid loading (assessed by PaO2/FIO2 ratio and\n      extravascular lung water). 4. reduces organ dysfunction (assessed by the SOFA score), ICU\n      stay and 7 and 28 day mortality Control group is managed with an algorithm using filling\n      pressures to drive haemodynamic treatment."
+        }, 
+        "brief_title": "Early Haemodynamic Optimization Using Preload Dependence During Septic Shock = EHOSS-1", 
+        "condition": "Septic Shock", 
+        "condition_browse": {
+            "mesh_term": [
+                "Shock", 
+                "Shock, Septic"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  age over 18 years\n\n          -  and fulfilment of two of four criteria for the systemic inflammatory response\n             syndrome\n\n          -  and systolic blood pressure no higher than 90 mm Hg (after a crystalloid-fluid\n             challenge of 25 ml per kilogram of body weight over a 30-minute period)\n\n          -  and documented or suspected infection\n\n        Exclusion Criteria:\n\n          -  delay between first observation of hypotension and inclusion above 12 hours\n\n          -  pregnancy\n\n          -  acute coronary syndrome\n\n          -  acute cerebral vascular event (< 1 month),\n\n          -  contraindication to central venous catheterization in the superior vena cava\n             territory\n\n          -  contraindication to femoral arterial catheterization\n\n          -  active haemorrhage\n\n          -  burn injury\n\n          -  trauma\n\n          -  requirement for immediate surgery (< 6 hours)\n\n          -  acute pulmonary oedema of cardiogenic origin\n\n          -  do-not-resuscitate status, or advanced directives restricting implementation of the\n             protocol.\n\n          -  Informed consent not obtained from the patient or surrogates\n\n          -  Patient already included in another therapeutic trial\n\n          -  patient previously included in the same therapeutic trial"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "61", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "October 11, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01972828", 
+            "org_study_id": "2006.440"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "PRELOAD DEPENDENCE", 
+                "description": "in this arm, fluid loading is administered with an algorithm using preload dependence indexes. This algorithm is used every hour during the first 6 hours after inclusion, then every 4 hours until vasopressor weaning, and whenever mean arterial pressure fell below 65 mm Hg. Fluid loading is performed with cristalloids or colloids at the discretion of the attending physician.", 
+                "intervention_name": "FLUID MANAGEMENT GUIDED WITH PRELOAD-DEPENDENCE PARAMETERS (VOLUVEN \u00ae)", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "Drug : ringer lactate, 0.9% saline, VOLUVEN \u00ae", 
+                    "Procedure: haemodynamic algorithm (see below)"
+                ]
+            }, 
+            {
+                "arm_group_label": "CONTROL", 
+                "description": "in this arm, fluid loading is administered with an algorithm using central venous pressure. This algorithm is used every hour during the first 6 hours after inclusion, then every 4 hours until vasopressor weaning, and whenever mean arterial pressure fell below 65 mm Hg. Fluid loading is performed with cristalloids or colloids at the discretion of the attending physician.", 
+                "intervention_name": "STANDARD-GUIDED FLUID MANAGEMENT (VOLUVEN \u00ae)", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "Drug : ringer lactate, 0.9% saline, VOLUVEN \u00ae", 
+                    "Procedure: haemodynamic algorithm (see below)"
+                ]
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Hetastarch"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Septic shock", 
+            "Randomized controlled trial", 
+            "Preload dependence", 
+            "Pulmonary thermodilution"
+        ], 
+        "lastchanged_date": "October 30, 2013", 
+        "number_of_arms": "2", 
+        "official_title": "Effect of Haemodynamic Optimization Using Preload Dependence Indexes and Pulmonary Thermodilution on Cardiovascular Failure Duration During Septic Shock: a Randomized Study", 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "France: Direction G\u00e9n\u00e9rale de la Sant\u00e9", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "August 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "shock resolution is defined by vasopressor weaning", 
+            "measure": "Time to septic shock resolution", 
+            "safety_issue": "No", 
+            "time_frame": "28 days"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01972828"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "mortality", 
+                "safety_issue": "No", 
+                "time_frame": "28 days"
+            }, 
+            {
+                "measure": "Ventilator free days", 
+                "safety_issue": "No", 
+                "time_frame": "28 days"
+            }, 
+            {
+                "measure": "number of days with hyperlactactatemia", 
+                "safety_issue": "No", 
+                "time_frame": "28 days"
+            }, 
+            {
+                "description": "assessed by transpulmonary thermodilution", 
+                "measure": "number of days with pulmonary edema", 
+                "safety_issue": "No", 
+                "time_frame": "28 jours"
+            }
+        ], 
+        "source": "Hospices Civils de Lyon", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Hospices Civils de Lyon", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "July 2007", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "October 2013"
+    }
+}

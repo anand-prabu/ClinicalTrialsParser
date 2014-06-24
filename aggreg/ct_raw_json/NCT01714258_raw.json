@@ -1,0 +1,112 @@
+{
+    "clinical_study": {
+        "@rank": "98991", 
+        "arm_group": {
+            "arm_group_label": "non invasive cardiac output measure", 
+            "arm_group_type": "Experimental", 
+            "description": "non invasive cardiac output estimation based on passive induced prolonged expiration in mechanically ventilated patients 20 times, throughout a period of about 45 min"
+        }, 
+        "brief_summary": {
+            "textblock": "The two gold standard for cardiac output (CO) measurements, i.e., the Fick method  and\n      pulmonary artery thermodilution , are both invasive methods, requiring the use of central\n      venous catheter and Swan-Ganz catheter, respectively.\n\n      With the aim to reduce the risks for the patient, a big research effort has been made to\n      investigate minimally invasive or non-invasive methods. Investigators sought to evaluate the\n      effectiveness of a non invasive method to estimate CO in mechanically ventilated\n      patients.The method is based on prolonged expiration, and relies on measurement of gas\n      concentrations and flow rate. Investigators designed, realized, and characterized a system\n      to induce passive prolonged expirations when connected to the patient circuit.\n\n      CO is then calculated using an algorithm based a modified version of the Fick equation and\n      the results are compared with the ones obtained by thermodilution.\n\n      Several advantages can be introduced by the prolonged expiration technique: non-invasive\n      measurement, easy implementation, independency from operator ability among others."
+        }, 
+        "brief_title": "A Non Invasive Estimation of Cardiac Output in Mechanically Ventilated Patients", 
+        "completion_date": {
+            "#text": "March 2012", 
+            "@type": "Actual"
+        }, 
+        "condition": "Non Invasive Estimation of Cardiac Output", 
+        "detailed_description": {
+            "textblock": "This prospective trial was designed to assess the performance of a non invasive method to\n      estimate cardiac output in mechanically ventilated cardiac surgery patients and its outcome\n      is compared to the values obtained from the invasive measurement system based on\n      thermodilution. The pulmonary blood flow (PBF), which is the volume of blood that actively\n      participates in the gas exchange per unit of time, is the directly estimated variable that\n      this technique employ to calculate cardiac output. The method investigators studied is\n      theoretically based on the application of an algorithm which derives from  a modified\n      version of the Fick equation in two different phases; the former involves measurements\n      during the steady state, whilst the second starts when a sudden perturbation into the carbon\n      dioxide (CO2) elimination process is introduced. The algorithms investigated in this work\n      requires the analysis of the expired gas content during both normal breathing and prolonged\n      expiration, providing a non-invasive estimation of the artero-venous content of CO2, and\n      consequently allows the calculation of PBF according to the Fick method. At this purpose, a\n      metabolic monitor was used; it sampled gas from the \"Y\" piece of the mechanical ventilator's\n      breathing circuit through a suction pump. In order to obtain the prolonged expiration, a\n      pneumatic system, with an ad hoc designed orifice resistance (5 cmH2O\u2022L-1\u2022min),has been made\n      and experimentally characterized to adapt the breathing circuit to this application.\n      Experimental data of CO2 and O2 concentrations were recorded and processed after the\n      measurement session thanks to an ad hoc developed LabView application. This application\n      performs the following tasks: it converts the gas fractions into partial pressures, segments\n      the trends of partial pressures, executes the data-reduction and, after obtaining the values\n      of venous carbon dioxide tension (PvCO2) and arterial carbon dioxide tension (PaCO2)\n      obtained, it calculates the CO value using the above mentioned algorithms.\n\n      The values calculated with non invasive method showed good agreement with ones obtained by\n      thermodilution and a precision comparable to those of other minimally invasive techniques."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Postoperative cardiac surgery patients mechanically ventilated after surgery\n\n        Exclusion Criteria:\n\n          -  Patients who were hemodynamically unstable requiring high doses of vasoactive\n             medications, fluids or colloidal solutions to maintain their pressure\n\n          -  Patients who require inspired oxygen concentration higher than 60%."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "85 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "35", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "October 23, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01714258", 
+            "org_study_id": "CaraMat"
+        }, 
+        "intervention": {
+            "arm_group_label": "non invasive cardiac output measure", 
+            "description": "non invasive cardiac output estimation based on passive induced prolonged expiration in mechanically ventilated patients", 
+            "intervention_name": "cardiac output measurement", 
+            "intervention_type": "Procedure"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "cardiac output", 
+            "fick method", 
+            "thermodilution"
+        ], 
+        "lastchanged_date": "December 5, 2012", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Rome", 
+                    "country": "Italy", 
+                    "zip": "000128"
+                }, 
+                "name": "University Hospital Campus Biomedico"
+            }
+        }, 
+        "location_countries": {
+            "country": "Italy"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "A Non Invasive Estimation of Cardiac Output in Mechanically Ventilated Patients: a Prolonged Expiration Method", 
+        "overall_official": {
+            "affiliation": "Campus Bio-Medico University", 
+            "last_name": "massimiliano carassiti, prof", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Italy: Ministry of Health", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "February 2012", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "To obtain cardiac output for each patient,throughout a period of about 45 min, thermodilution was executed 10 times, and prolonged expiration 20 times.", 
+            "measure": "A non invasive method to estimate cardiac output in mechanically ventilated surgery based on prolonged expiration and its outcome is compared to the values obtained from the invasive measurement system based on thermodilution.", 
+            "safety_issue": "Yes", 
+            "time_frame": "within the first day after surgery"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01714258"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Campus Bio-Medico University", 
+            "investigator_full_name": "Massimiliano Carassiti", 
+            "investigator_title": "professor", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "source": "Campus Bio-Medico University", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Campus Bio-Medico University", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "September 2011", 
+        "study_design": "Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Supportive Care", 
+        "study_type": "Interventional", 
+        "verification_date": "December 2012"
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "clinical_study": {
+        "@rank": "85846", 
+        "arm_group": {
+            "arm_group_label": "Serial FLT PET Imaging", 
+            "arm_group_type": "Experimental", 
+            "description": "Patients will receive a target injection of up to 10 mCi of FLT. Optionally, dynamic PET imaging over a chosen index lesion (based on size and/or high FDG-avidity on preceding CT and/or FDG PET/CT scans done for clinical purpose such as staging), may be performed. Otherwise, static PET images are obtained at approximately 60 min (+15 min) post FLT injection. In general this \"body\" scan will cover at least the region from skull base to the upper thigh for extracranial malignancies; depending on the specific location, extremities maybe also be scanned (e.g., extremity sarcoma), or the scan may be restricted to the brain (e.g. glioma)."
+        }, 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to see if PET/CT scans that use a radioactive substance called\n      [18F] fluorothymidine (FLT), can detect and monitor changes in the tumor. Radioactive\n      substances are used with PET/CT scans to \"see\" cancer cells, and are also called\n      radiotracers. FLT is a new radiotracer that has been given to people in prior studies. FLT\n      PET/CT is an experimental scan unlike FDG (fluorodeoxyglucose) PET scan which is a standard\n      clinical scan and is commonly used. The investigators would like to know if there is any\n      evidence of early treatment response by obtaining FLTPET/ CT scans before and after\n      treatment."
+        }, 
+        "brief_title": "Serial FLT PET Imaging in Cancer Patients for Monitoring of Response to Therapy", 
+        "condition": "Histologically-confirmed Malignancies", 
+        "condition_browse": {
+            "mesh_term": "Neoplasms"
+        }, 
+        "detailed_description": {
+            "textblock": "This protocol is an \"umbrella\" or \"companion\" protocol to be used in conjunction with other\n      protocols that are evaluating treatment response in solid or hematologic malignancies. The\n      aim of this protocol is to determine if PET imaging with the proliferation marker 18FFLT can\n      monitor changes in FLT uptake parameters, in particular changes in the standardized uptake\n      value (SUV), within tumor target lesions."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients with histologically-confirmed (confirmation done at MSKCC) malignancies.\n\n          -  Patients who have consented to a therapeutic protocol for the treatment of their\n             cancer.\n\n          -  Patients must be \u2265 18 years old.\n\n        Exclusion Criteria:\n\n          -  Patients who cannot undergo PET/CT scanning (i.e. because of weight limits,\n             claustrophobia).\n\n          -  Women who are pregnant or breast-feeding."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "200", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "May 13, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02139150", 
+            "org_study_id": "14-050"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Serial FLT PET Imaging", 
+                "intervention_name": "[18F] FLT", 
+                "intervention_type": "Radiation"
+            }, 
+            {
+                "arm_group_label": "Serial FLT PET Imaging", 
+                "intervention_name": "PET/CT scans", 
+                "intervention_type": "Device"
+            }
+        ], 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "keyword": [
+            "FLT PET Imaging", 
+            "3'deoxy-3' [18F] fluorothymidine ([18F] FLT)", 
+            "CT", 
+            "scans", 
+            "14-050"
+        ], 
+        "lastchanged_date": "May 13, 2014", 
+        "link": {
+            "description": "Memorial Sloan Kettering Cancer Center", 
+            "url": "http://www.mskcc.org/"
+        }, 
+        "location": {
+            "contact": {
+                "last_name": "Heiko Sch\u00f6der, MD", 
+                "phone": "212-639-2079"
+            }, 
+            "contact_backup": {
+                "last_name": "Wolfgang Weber, MD", 
+                "phone": "212-639-7373"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "New York", 
+                    "country": "United States", 
+                    "state": "New York", 
+                    "zip": "10065"
+                }, 
+                "name": "Memorial Sloan Kettering Cancer Center"
+            }, 
+            "investigator": {
+                "last_name": "Heiko Schoder, MD", 
+                "role": "Principal Investigator"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Serial FLT PET Imaging in Cancer Patients for Monitoring of Response to Therapy", 
+        "overall_contact": {
+            "last_name": "Heiko Sch\u00f6der, MD", 
+            "phone": "212-639-2079"
+        }, 
+        "overall_contact_backup": {
+            "last_name": "Wolfgang Weber, MD", 
+            "phone": "212-639-7373"
+        }, 
+        "overall_official": {
+            "affiliation": "Memorial Sloan-Kettering Cancer Center", 
+            "last_name": "Heiko Sch\u00f6der, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "May 2018", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "We will describe the distribution of the change and explore if it is associated with the findings of standard-of-care imaging such as FDG-PET or CT/MRI using rank based methods such as Spearman correlation and the signed-ranks test. In addition we will also explore the value of the change in the FLT metrics in predicting the clinical outcome using logistic regression (for response) and proportional hazards regression (for progression and survival).", 
+            "measure": "change from pre- to posttreatment", 
+            "safety_issue": "No", 
+            "time_frame": "4 years"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02139150"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Memorial Sloan-Kettering Cancer Center", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Memorial Sloan-Kettering Cancer Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "May 2014", 
+        "study_design": "Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2014"
+    }
+}

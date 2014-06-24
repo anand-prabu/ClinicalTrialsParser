@@ -1,0 +1,108 @@
+{
+    "clinical_study": {
+        "@rank": "67134", 
+        "arm_group": {
+            "arm_group_label": "Whole-body vibration", 
+            "arm_group_type": "Experimental", 
+            "description": "A new method for muscle reflex latency measurement"
+        }, 
+        "brief_summary": {
+            "textblock": "The purpose of this study was to examine the validity of the measurement method based on\n      observation of vibration stimulation-MUAP (motor unit action potential) (1 to 1) matching\n      that helps to measure human WBV-induced muscular reflex latency and to compare these results\n      with the latency determination obtained using the classical methods.  The investigators'\n      principle hypothesis is that the simple method is capable of determining the WBV induced\n      reflex response latency as reliably as the complex methods described earlier.\n\n      To achieve this goal, the investigators have averaged the electrical responses of the soleus\n      muscle (sEMG and multi motor unit (MMU) potential) against the vertical force data obtained\n      during all the six vibration frequencies tested in this study.  The investigators have then\n      combined all the averaged EMG data belonging to six different vibration frequencies to\n      generate the 'cumulative averaged' sEMG and MMU for each subject.  The investigators have\n      also obtained the standard error for the cumulative averaged records which indicated the\n      WBV-induced muscular reflex (WBV-IMR) latency."
+        }, 
+        "brief_title": "A Simple Method to Determine the Reflex Latency During WBV", 
+        "completion_date": {
+            "#text": "August 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": "Latency Period (Psychology)", 
+        "detailed_description": {
+            "textblock": "Subjects Five healthy volunteers will be participated in the study.\n\n      Procedures During WBV, the subjects will be asked to stand upright on a vibration platform\n      (PowerPlate Pro5, London, United Kingdom). Their hips and knees will be in a neutral\n      position. Subjects will be barefooted, and no sponge or foam will be placed between the\n      vibration platform and their feet (Figure 1). The whole plate oscillates with a linear\n      movement upward and downward. Vibration amplitude is 2.2 mm. WBV frequencies will be varied\n      randomly to cover the following six frequencies: 25, 30, 35, 40,45 and 50 Hz.   Each\n      frequency lasts for 60 seconds and there will be a 15 seconds rest in between different\n      frequencies.\n\n      A load sensor (FC2331-0000-2000L Compression Load Sensor, France) will be fixed on the WBV\n      platform in order to be able to determine induced muscular response latency. Subjects will\n      be positioned on the WBV platform such that their right heel will be placed on the load\n      sensor.\n\n      Recordings MMUs, surface EMG (sEMG) and force recordings will be simultaneously done using\n      the Powerlab data acquisition system (ADInstruments, Oxford, United Kingdom). A sampling\n      frequency of 40 kiloHertz (kHz) will be used. Data will be analyzed offline using the MATLAB\n      (R2012a 7.14.0.739).\n\n      In order to record sEMG, Ag/AgCl electrodes [KENDALL \u00ae Arbo] with a disc radius of 10 mm\n      will be placed 20 mm apart on the right soleus muscle belly, on shaved skin cleaned with\n      alcohol. The ground electrode will be placed on the lateral malleolus.\n\n      To record MMU activity, a pair of Teflon\u00ae insulated silver wires (75 \u00b5m in core diameter)\n      will be used. About 3 mm of the tips of the silver wires will be stripped of their Teflon \u00ae\n      coating in order to be able to record the activity of several motor units. The pair of wires\n      will be inserted into the right soleus muscle with a 25 G needle. Needle will be immediately\n      withdrawn leaving the fish-hooked wires in the muscle. A lip-clip electrode will be used as\n      the ground electrode.\n\n      All cables will be carefully taped to the skin to minimize mechanical artifacts.\n\n      The subjects will be instructed to relax their muscles throughout the recordings and were\n      trained using EMG feedback to this end. WBV may impair the sense of balance and muscles may\n      be activated to restore balance. To overcome this issue, the subjects will be familiarized\n      with WBV with a 15 s session of WBV, the subjects will be asked to use the handles of the\n      WBV device to secure their balance and the base of support (distance between the heels) will\n      be adjusted as wide. The distance between the heels usually will be about 25 cm.\n\n      Filtering and Rectification regimens All force sensor recordings will be 5 Hz high-pass\n      filtered. All sEMG recordings will be 80 - 500 Hz band-pass filtered (Butterworth 1st order)\n      and full-wave rectified to overcome movement artifacts. All MMU recordings will be 100-5000\n      Hz band-pass filtered (Butterworth 1st order) and full-wave rectified.\n\n      WBV - induced muscular reflex (WBV-IMR) latency\n\n      In a previous study, right soleus muscle sEMG measurement and force sensor measurement that\n      is placed under right heel during WBV were taken synchronously and it was found that\n      vibration stimulation and MUAPs would be matched 1 to 1. In this study that is based on the\n      previous observation, it is predicted that it is possible to calculate latency by using\n      averaging method.\n\n      All MMU and sEMG data will be analyzed by applying respectively filtering, rectification and\n      differentiation with MATLAB (R2012a 7.14.0.739). Data analysis will be performed in two\n      stages:\n\n        1. Detection of the moment of mechanical stimulation threshold (Force Sensor Data\n           Averaging): Force sensor data will be averaged by using Spike triggered averaging (STA)\n           method. For this, 50 seconds of constant time intervals of preset vibration frequency\n           in a WBV set will be used. All the positive peaks in both MMU and sEMG traces will be\n           marked. For all the positive peaks, the force sensor trace will be segmented covering\n           75 ms previous positive peak. After, cumulative average of these 6 vibration sets will\n           be averaged. The standard error on the cumulative averaged force records will be\n           calculated. The lowest point of standard error on force sensor averaging graphic will\n           be considered as the starting point of mechanical stimulation that triggers the muscle\n           response.\n\n        2. Determination of the MUAP onset: EMG data averaging method and manual method (vibration\n           stimulus and MUAP coupling) will be used."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Young adult (20-45 yrs)\n\n          -  Healthy\n\n          -  Right handed\n\n        Exclusion Criteria:\n\n          -  Any health problems\n\n          -  Left handed"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "45 Years", 
+            "minimum_age": "20 Years"
+        }, 
+        "enrollment": {
+            "#text": "5", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "July 18, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01908439", 
+            "org_study_id": "BEAH FTR-9"
+        }, 
+        "intervention": {
+            "arm_group_label": "Whole-body vibration", 
+            "description": "High amplitude whole-body vibration", 
+            "intervention_name": "whole-body vibration", 
+            "intervention_type": "Other", 
+            "other_name": "Cyclic mechanical loading"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "muscle electrical activity", 
+            "whole-body vibration", 
+            "latency"
+        ], 
+        "lastchanged_date": "September 2, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "\u0130stanbul", 
+                    "country": "Turkey"
+                }, 
+                "name": "Ba\u011fc\u0131lar Training & Research Hospital"
+            }
+        }, 
+        "location_countries": {
+            "country": "Turkey"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "A Simple Method to Determine the Reflex Latency During Whole Body Vibration", 
+        "overall_official": {
+            "affiliation": "Bagcilar Training & Research Hospital", 
+            "last_name": "\u0130lhan Karacan, MD", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Turkey: Ministry of Health", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "August 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "Latency measurement method", 
+            "safety_issue": "No", 
+            "time_frame": "1 day"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01908439"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Bagcilar Training and Research Hospital", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Bagcilar Training and Research Hospital", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "August 2013", 
+        "study_design": "Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Basic Science", 
+        "study_type": "Interventional", 
+        "verification_date": "September 2013"
+    }
+}

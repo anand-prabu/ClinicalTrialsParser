@@ -1,0 +1,2057 @@
+{
+    "clinical_study": {
+        "@rank": "80591", 
+        "arm_group": [
+            {
+                "arm_group_label": "Dabigatran"
+            }, 
+            {
+                "arm_group_label": "Warfarin"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This cohort study plans to identify initiators of oral anticoagulants using electronic\n      claims data from a commercial insurance database to quantify associations between\n      anticoagulant choice (warfarin and dabigatran) and the occurrence of selected outcomes in\n      patients with non-valvular atrial fibrillation at risk for stroke."
+        }, 
+        "brief_title": "Comparative Effectiveness of Oral Anticoagulants", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "Propensity score matched patients starting treatment with dabigatran", 
+                            "title": "Dabigatran"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "Propensity score matched patients starting treatment with warfarin", 
+                            "title": "Warfarin"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "2991"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "2991"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "5982"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@spread": "10.99", 
+                                                "@value": "63.86"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@spread": "11.04", 
+                                                "@value": "63.26"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@spread": "11.01", 
+                                                "@value": "63.60"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "943"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "877"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "1820"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "2048"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "2114"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "4162"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }
+                    ]
+                }, 
+                "population": "This initial cohort study includes matched treatment groups of 2,991 patients with non-valvular atrial fibrillation who initiated dabigatran and 2,991 patients who initiated warfarin that were drawn from a pool of 11,882 eligible initiators. These first feasibility data are limited by a small sample size."
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "limitations_and_caveats": "These first data are limited by small sample size, short follow up, few events resulting in wide confidence intervals. No comparative conclusions are possible. After the feasibility analysis future analysis will increase patient numbers and follow up", 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "0.64", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "1.70", 
+                                "estimate_desc": "Cox Proportional Hazard's regression following propensity score matching.", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "These current feasibility data are limited by a small sample size, short follow up, and few outcome events resulting in wide 95% confidence intervals. At this early stage, no comparative conclusions are possible. Future data with an increased number of patients are planned.", 
+                                "non_inferiority": "No", 
+                                "param_type": "Hazard Ratio (HR)", 
+                                "param_value": "1.05"
+                            }
+                        }, 
+                        "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Propensity score matched patients starting treatment with dabigatran", 
+                                    "title": "Dabigatran"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Propensity score matched patients starting treatment with warfarin", 
+                                    "title": "Warfarin"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "2991"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "2991"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "29.09"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "31.59"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                                    "param": "Number", 
+                                    "title": "Incidence Rate of Stroke", 
+                                    "units": "events per 1000 person years"
+                                }
+                            ]
+                        }, 
+                        "population": "Hazard ratios and confidence intervals were estimated for patients starting dabigatran or warfarin after matching on the propensity score.", 
+                        "safety_issue": "No", 
+                        "time_frame": "From treatment initiation until end of follow-up; up to 20 months", 
+                        "title": "Incidence Rate of Stroke", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "0.69", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "1.36", 
+                                "estimate_desc": "Cox Proportional Hazard's regression following propensity score matching.", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "These current feasibility data are limited by a small sample size, short follow up, and few outcome events resulting in wide 95% confidence intervals. At this early stage, no comparative conclusions are possible. Future data with an increased number of patients are planned.", 
+                                "non_inferiority": "No", 
+                                "param_type": "Hazard Ratio (HR)", 
+                                "param_value": "0.97"
+                            }
+                        }, 
+                        "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 and procedure codes.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Propensity score matched patients starting treatment with dabigatran", 
+                                    "title": "Dabigatran"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Propensity score matched patients starting treatment with warfarin", 
+                                    "title": "Warfarin"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "2991"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "2991"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "60.00"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "66.72"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 and procedure codes.", 
+                                    "param": "Number", 
+                                    "title": "Incidence Rate of Major Bleeding", 
+                                    "units": "events per 1000 person years"
+                                }
+                            ]
+                        }, 
+                        "population": "Hazard ratios and confidence intervals were estimated for patients starting dabigatran or warfarin after matching on the propensity score.", 
+                        "safety_issue": "Yes", 
+                        "time_frame": "From treatment initiation until end of follow-up; up to 20 months", 
+                        "title": "Incidence Rate of Major Bleeding", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "0.62", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "2.45", 
+                                "estimate_desc": "Cox Proportional Hazard's regression following propensity score matching.", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "These current feasibility data are limited by a small sample size, short follow up, and few outcome events resulting in wide 95% confidence intervals. At this early stage, no comparative conclusions are possible. Future data with an increased number of patients are planned.", 
+                                "non_inferiority": "No", 
+                                "param_type": "Hazard Ratio (HR)", 
+                                "param_value": "1.24"
+                            }
+                        }, 
+                        "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9  codes.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Propensity score matched patients starting treatment with dabigatran", 
+                                    "title": "Dabigatran"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Propensity score matched patients starting treatment with Warfarin", 
+                                    "title": "Warfarin"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "2991"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "2991"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "16.90"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "14.73"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9  codes.", 
+                                    "param": "Number", 
+                                    "title": "Incidence Rate of Myocardial Infarction", 
+                                    "units": "events per 1000 person years"
+                                }
+                            ]
+                        }, 
+                        "population": "Hazard ratios and confidence intervals were estimated for patients starting dabigatran or warfarin after matching on the propensity score.", 
+                        "safety_issue": "No", 
+                        "time_frame": "From treatment initiation until end of follow-up; up to 20 months", 
+                        "title": "Incidence Rate of Myocardial Infarction", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "0.15", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "0.59", 
+                                "estimate_desc": "Cox Proportional Hazard's regression following propensity score matching.", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "These current feasibility data are limited by a small sample size, short follow up, and few outcome events resulting in wide 95% confidence intervals. At this early stage, no comparative conclusions are possible. Future data with an increased number of patients are planned.", 
+                                "non_inferiority": "No", 
+                                "param_type": "Hazard Ratio (HR)", 
+                                "param_value": "0.29"
+                            }
+                        }, 
+                        "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9  codes.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Propensity score matched patients starting treatment with dabigatran", 
+                                    "title": "Dabigatran"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Propensity score matched patients starting treatment with Warfarin", 
+                                    "title": "Warfarin"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "2991"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "2991"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "8.83"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "34.79"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9  codes.", 
+                                    "param": "Number", 
+                                    "title": "Incidence Rate of Venous Thromboembolism", 
+                                    "units": "events per 1000 person years"
+                                }
+                            ]
+                        }, 
+                        "population": "Hazard ratios and confidence intervals were estimated for patients starting dabigatran or warfarin after matching on the propensity score.", 
+                        "safety_issue": "No", 
+                        "time_frame": "From treatment initiation until end of follow-up; up to 20 months", 
+                        "title": "Incidence Rate of Venous Thromboembolism", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "0.15", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "0.67", 
+                                "estimate_desc": "Cox Proportional Hazard's regression following propensity score matching.", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "These current feasibility data are limited by a small sample size, short follow up, and few outcome events resulting in wide 95% confidence intervals. At this early stage, no comparative conclusions are possible.", 
+                                "non_inferiority": "No", 
+                                "param_type": "Hazard Ratio (HR)", 
+                                "param_value": "0.31"
+                            }
+                        }, 
+                        "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Propensity score matched patients starting treatment with dabigatran", 
+                                    "title": "Dabigatran"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Propensity score matched patients starting treatment with Warfarin", 
+                                    "title": "Warfarin"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "2991"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "2991"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "7.23"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "27.35"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                                    "param": "Number", 
+                                    "title": "Incidence Rate of Deep Vein Thrombosis", 
+                                    "units": "events per 1000 person years"
+                                }
+                            ]
+                        }, 
+                        "population": "Hazard ratios and confidence intervals were estimated for patients starting dabigatran or warfarin after matching on the propensity score.", 
+                        "safety_issue": "No", 
+                        "time_frame": "From treatment initiation until end of follow-up; up to 20 months", 
+                        "title": "Incidence Rate of Deep Vein Thrombosis", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "0.09", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "0.84", 
+                                "estimate_desc": "Cox Proportional Hazard's regression following propensity score matching.", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "These current feasibility data are limited by a small sample size, short follow up, and few outcome events resulting in wide 95% confidence intervals. At this early stage, no comparative conclusions are possible. Future data with an increased number of patients are planned.", 
+                                "non_inferiority": "No", 
+                                "param_type": "Hazard Ratio (HR)", 
+                                "param_value": "0.27"
+                            }
+                        }, 
+                        "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Propensity score matched patients starting treatment with dabigatran", 
+                                    "title": "Dabigatran"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Propensity score matched patients starting treatment with Warfarin", 
+                                    "title": "Warfarin"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "2991"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "2991"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "3.21"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "13.65"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                                    "param": "Number", 
+                                    "title": "Incidence Rate of Pulmonary Embolism", 
+                                    "units": "events per 1000 person years"
+                                }
+                            ]
+                        }, 
+                        "population": "Hazard ratios and confidence intervals were estimated for patients starting dabigatran or warfarin after matching on the propensity score.", 
+                        "safety_issue": "No", 
+                        "time_frame": "From treatment initiation until end of follow-up; up to 20 months", 
+                        "title": "Incidence Rate of Pulmonary Embolism", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "0.78", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "2.01", 
+                                "estimate_desc": "Cox Proportional Hazard's regression following propensity score matching.", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "These current feasibility data are limited by a small sample size, short follow up, and few outcome events resulting in wide 95% confidence intervals. At this early stage, no comparative conclusions are possible. Future data with an increased number of patients are planned.", 
+                                "non_inferiority": "No", 
+                                "param_type": "Hazard Ratio (HR)", 
+                                "param_value": "1.25"
+                            }
+                        }, 
+                        "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Propensity score matched patients starting treatment with dabigatran", 
+                                    "title": "Dabigatran"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Propensity score matched patients starting treatment with Warfarin", 
+                                    "title": "Warfarin"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "2991"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "2991"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "35.52"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "30.57"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                                    "param": "Number", 
+                                    "title": "Incidence Rate of Major Lower Gastrointestinal Bleeding", 
+                                    "units": "events per 1000 person years"
+                                }
+                            ]
+                        }, 
+                        "population": "Hazard ratios and confidence intervals were estimated for patients starting dabigatran or warfarin after matching on the propensity score.", 
+                        "safety_issue": "Yes", 
+                        "time_frame": "From treatment initiation until end of follow-up; up to 20 months", 
+                        "title": "Incidence Rate of Major Lower Gastrointestinal Bleeding", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Propensity score matched patients starting treatment with dabigatran", 
+                                    "title": "Dabigatran"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Propensity score matched patients starting treatment with Warfarin", 
+                                    "title": "Warfarin"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "2991"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "2991"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "0.0"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "0.0"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                                    "param": "Number", 
+                                    "title": "Incidence Rate of Major Urogenital Bleeding", 
+                                    "units": "events per 1000 person years"
+                                }
+                            ]
+                        }, 
+                        "population": "Hazard ratios and confidence intervals were estimated for patients starting dabigatran or warfarin after matching on the propensity score.", 
+                        "safety_issue": "Yes", 
+                        "time_frame": "From treatment initiation until end of follow-up; up to 20 months", 
+                        "title": "Incidence Rate of Major Urogenital Bleeding", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "0.48", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "1.14", 
+                                "estimate_desc": "Cox Proportional Hazard's regression following propensity score matching.", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "These current feasibility data are limited by a small sample size, short follow up, and few outcome events resulting in wide 95% confidence intervals. At this early stage, no comparative conclusions are possible. Future data with an increased number of patients are planned.", 
+                                "non_inferiority": "No", 
+                                "param_type": "Hazard Ratio (HR)", 
+                                "param_value": "0.74"
+                            }
+                        }, 
+                        "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Propensity score matched patients starting treatment with dabigatran", 
+                                    "title": "Dabigatran"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Propensity score matched patients starting treatment with Warfarin", 
+                                    "title": "Warfarin"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "2991"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "2991"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "32.25"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "46.41"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                                    "param": "Number", 
+                                    "title": "Incidence Rate of Major Other Bleeding", 
+                                    "units": "events per 1000 person years"
+                                }
+                            ]
+                        }, 
+                        "population": "Hazard ratios and confidence intervals were estimated for patients starting dabigatran or warfarin after matching on the propensity score.", 
+                        "safety_issue": "Yes", 
+                        "time_frame": "From treatment initiation until end of follow-up; up to 20 months", 
+                        "title": "Incidence Rate of Major Other Bleeding", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "0.47", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "2.20", 
+                                "estimate_desc": "Cox Proportional Hazard's regression following propensity score matching.", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "These current feasibility data are limited by a small sample size, short follow up, and few outcome events resulting in wide 95% confidence intervals. At this early stage, no comparative conclusions are possible. Future data with an increased number of patients are planned.", 
+                                "non_inferiority": "No", 
+                                "param_type": "Hazard Ratio (HR)", 
+                                "param_value": "1.01"
+                            }
+                        }, 
+                        "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Propensity score matched patients starting treatment with dabigatran", 
+                                    "title": "Dabigatran"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Propensity score matched patients starting treatment with Warfarin", 
+                                    "title": "Warfarin"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "2991"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "2991"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "11.27"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "12.61"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                                    "param": "Number", 
+                                    "title": "Incidence Rate of Transient Ischemic Attack", 
+                                    "units": "events per 1000 person years"
+                                }
+                            ]
+                        }, 
+                        "population": "Hazard ratios and confidence intervals were estimated for patients starting dabigatran or warfarin after matching on the propensity score.", 
+                        "safety_issue": "No", 
+                        "time_frame": "From treatment initiation until end of follow-up; up to 20 months", 
+                        "title": "Incidence Rate of Transient Ischemic Attack", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "0.21", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "1.98", 
+                                "estimate_desc": "Cox Proportional Hazard's regression following propensity score matching.", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "These current feasibility data are limited by a small sample size, short follow up, and very few outcome events resulting in wide 95% confidence intervals. At this early stage, no comparative conclusions are possible. Future data with an increased number of patients are planned.", 
+                                "non_inferiority": "No", 
+                                "param_type": "Hazard Ratio (HR)", 
+                                "param_value": "0.65"
+                            }
+                        }, 
+                        "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 and procedure codes.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Propensity score matched patients starting treatment with dabigatran", 
+                                    "title": "Dabigatran"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Propensity score matched patients starting treatment with Warfarin", 
+                                    "title": "Warfarin"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "2991"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "2991"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "4.82"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "7.34"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 and procedure codes.", 
+                                    "param": "Number", 
+                                    "title": "Incidence Rate of Major Upper Gastrointestinal Bleeding", 
+                                    "units": "events per 1000 person years"
+                                }
+                            ]
+                        }, 
+                        "population": "Hazard ratios and confidence intervals were estimated for patients starting dabigatran or warfarin after matching on the propensity score.", 
+                        "safety_issue": "Yes", 
+                        "time_frame": "From treatment initiation until end of follow-up; up to 20 months", 
+                        "title": "Incidence Rate of Major Upper Gastrointestinal Bleeding", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "0.50", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "1.08", 
+                                "estimate_desc": "Cox Proportional Hazard's regression following propensity score matching.", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "These current feasibility data are limited by a small sample size, short follow up, and few outcome events resulting in wide 95% confidence intervals. At this early stage, no comparative conclusions are possible. Future data with an increased number of patients are planned.", 
+                                "non_inferiority": "No", 
+                                "param_type": "Hazard Ratio (HR)", 
+                                "param_value": "0.74"
+                            }
+                        }, 
+                        "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Propensity score matched patients starting treatment with dabigatran", 
+                                    "title": "Dabigatran"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Propensity score matched patients starting treatment with Warfarin", 
+                                    "title": "Warfarin"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "2991"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "2991"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "39.73"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "60.38"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                                    "param": "Number", 
+                                    "title": "Incidence Rate of Stroke or Systemic Embolism", 
+                                    "units": "events per 1000 person years"
+                                }
+                            ]
+                        }, 
+                        "population": "Hazard ratios and confidence intervals were estimated for patients starting dabigatran or warfarin after matching on the propensity score.", 
+                        "safety_issue": "No", 
+                        "time_frame": "From treatment initiation until end of follow-up; up to 20 months", 
+                        "title": "Incidence Rate of Stroke or Systemic Embolism", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "0.21", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "0.76", 
+                                "estimate_desc": "Cox Proportional Hazard's regression following propensity score matching.", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "These current feasibility data are limited by a small sample size, short follow up, and few outcome events resulting in wide 95% confidence intervals. At this early stage, no comparative conclusions are possible. Future data with an increased number of patients are planned.", 
+                                "non_inferiority": "No", 
+                                "param_type": "Hazard Ratio (HR)", 
+                                "param_value": "0.40"
+                            }
+                        }, 
+                        "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Propensity score matched patients starting treatment with dabigatran", 
+                                    "title": "Dabigatran"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Propensity score matched patients starting treatment with Warfarin", 
+                                    "title": "Warfarin"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "2991"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "2991"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "11.27"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "30.55"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                                    "param": "Number", 
+                                    "title": "Incidence Rate of Systemic Embolism", 
+                                    "units": "events per 1000 person years"
+                                }
+                            ]
+                        }, 
+                        "population": "Hazard ratios and confidence intervals were estimated for patients starting dabigatran or warfarin after matching on the propensity score.", 
+                        "safety_issue": "No", 
+                        "time_frame": "From treatment initiation until end of follow-up; up to 20 months", 
+                        "title": "Incidence Rate of Systemic Embolism", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "0.58", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "1.55", 
+                                "estimate_desc": "Cox Proportional Hazard's regression following propensity score matching.", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "These current feasibility data are limited by a small sample size, short follow up, and few outcome events resulting in wide 95% confidence intervals. At this early stage, no comparative conclusions are possible. Future data with an increased number of patients are planned.", 
+                                "non_inferiority": "No", 
+                                "param_type": "Hazard Ratio (HR)", 
+                                "param_value": "0.95"
+                            }
+                        }, 
+                        "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Propensity score matched patients starting treatment with dabigatran", 
+                                    "title": "Dabigatran"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Propensity score matched patients starting treatment with Warfarin", 
+                                    "title": "Warfarin"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "2991"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "2991"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "27.40"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "32.71"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                                    "param": "Number", 
+                                    "title": "Incidence Rate of Ischemic Stroke", 
+                                    "units": "events per 1000 person years"
+                                }
+                            ]
+                        }, 
+                        "population": "Hazard ratios and confidence intervals were estimated for patients starting dabigatran or warfarin after matching on the propensity score.", 
+                        "safety_issue": "No", 
+                        "time_frame": "From treatment initiation until end of follow-up; up to 20 months", 
+                        "title": "Incidence Rate of Ischemic Stroke", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "0.32", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "5.72", 
+                                "estimate_desc": "Cox Proportional Hazard's regression following propensity score matching.", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "These current feasibility data are limited by a small sample size, short follow up, and very few outcome events resulting in wide 95% confidence intervals. At this early stage, no comparative conclusions are possible. Future data with an increased number of patients are planned.", 
+                                "non_inferiority": "No", 
+                                "param_type": "Hazard Ratio (HR)", 
+                                "param_value": "1.36"
+                            }
+                        }, 
+                        "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Propensity score matched patients starting treatment with dabigatran", 
+                                    "title": "Dabigatran"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Propensity score matched patients starting treatment with Warfarin", 
+                                    "title": "Warfarin"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "2991"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "2991"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "4.02"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "3.14"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                                    "param": "Number", 
+                                    "title": "Incidence Rate of Hemorrhagic Stroke", 
+                                    "units": "events per 1000 person years"
+                                }
+                            ]
+                        }, 
+                        "population": "Hazard ratios and confidence intervals were estimated for patients starting dabigatran or warfarin after matching on the propensity score.", 
+                        "safety_issue": "No", 
+                        "time_frame": "From treatment initiation until end of follow-up; up to 20 months", 
+                        "title": "Incidence Rate of Hemorrhagic Stroke", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "0.83", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "3.08", 
+                                "estimate_desc": "Cox Proportional Hazard's regression following propensity score matching.", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "These current feasibility data are limited by a small sample size, short follow up, and few outcome events resulting in wide 95% confidence intervals. At this early stage, no comparative conclusions are possible. Future data with an increased number of patients are planned.", 
+                                "non_inferiority": "No", 
+                                "param_type": "Hazard Ratio (HR)", 
+                                "param_value": "1.60"
+                            }
+                        }, 
+                        "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Propensity score matched patients starting treatment with dabigatran", 
+                                    "title": "Dabigatran"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Propensity score matched patients starting treatment with Warfarin", 
+                                    "title": "Warfarin"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "2991"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "2991"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "20.98"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "14.70"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9.", 
+                                    "param": "Number", 
+                                    "title": "Incidence Rate of Stroke Uncertain Classification", 
+                                    "units": "events per 1000 person years"
+                                }
+                            ]
+                        }, 
+                        "population": "Hazard ratios and confidence intervals were estimated for patients starting dabigatran or warfarin after matching on the propensity score.", 
+                        "safety_issue": "No", 
+                        "time_frame": "From treatment initiation until end of follow-up; up to 20 months", 
+                        "title": "Incidence Rate of Stroke Uncertain Classification", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "0.57", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "3.70", 
+                                "estimate_desc": "Cox Proportional Hazard's regression following propensity score matching.", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "These current feasibility data are limited by a small sample size, short follow up, and few outcome events resulting in wide 95% confidence intervals. At this early stage, no comparative conclusions are possible. Future data with an increased number of patients are planned.", 
+                                "non_inferiority": "No", 
+                                "param_type": "Hazard Ratio (HR)", 
+                                "param_value": "1.45"
+                            }
+                        }, 
+                        "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Propensity score matched patients starting treatment with dabigatran", 
+                                    "title": "Dabigatran"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Propensity score matched patients starting treatment with Warfarin", 
+                                    "title": "Warfarin"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "2991"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "2991"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "9.65"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "7.34"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                                    "param": "Number", 
+                                    "title": "Incidence Rate of Major Intracranial Bleeding", 
+                                    "units": "events per 1000 person years"
+                                }
+                            ]
+                        }, 
+                        "population": "Hazard ratios and confidence intervals were estimated for patients starting dabigatran or warfarin after matching on the propensity score.", 
+                        "safety_issue": "Yes", 
+                        "time_frame": "From treatment initiation until end of follow-up; up to 20 months", 
+                        "title": "Incidence Rate of Major Intracranial Bleeding", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "0.67", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "1.35", 
+                                "estimate_desc": "Cox Proportional Hazard's regression following propensity score matching.", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "These current feasibility data are limited by a small sample size, short follow up, and few outcome events resulting in wide 95% confidence intervals. At this early stage, no comparative conclusions are possible.", 
+                                "non_inferiority": "No", 
+                                "param_type": "Hazard Ratio (HR)", 
+                                "param_value": "0.95"
+                            }
+                        }, 
+                        "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 and procedure codes.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Propensity score matched patients starting treatment with dabigatran", 
+                                    "title": "Dabigatran"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Propensity score matched patients starting treatment with Warfarin", 
+                                    "title": "Warfarin"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "2991"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "2991"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "56.70"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "63.53"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 and procedure codes.", 
+                                    "param": "Number", 
+                                    "title": "Incidence Rate of Major Extracranial Bleeding", 
+                                    "units": "events per 1000 person years"
+                                }
+                            ]
+                        }, 
+                        "population": "Hazard ratios and confidence intervals were estimated for patients starting dabigatran or warfarin after matching on the propensity score.", 
+                        "safety_issue": "Yes", 
+                        "time_frame": "From treatment initiation until end of follow-up; up to 20 months", 
+                        "title": "Incidence Rate of Major Extracranial Bleeding", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "0.79", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "2.01", 
+                                "estimate_desc": "Cox Proportional Hazard's regression following propensity score matching.", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "These current feasibility data are limited by a small sample size, short follow up, and few outcome events resulting in wide 95% confidence intervals. At this early stage, no comparative conclusions are possible. Future data with an increased number of patients are planned.", 
+                                "non_inferiority": "No", 
+                                "param_type": "Hazard Ratio (HR)", 
+                                "param_value": "1.26"
+                            }
+                        }, 
+                        "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 and procedure codes.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Propensity score matched patients starting treatment with dabigatran", 
+                                    "title": "Dabigatran"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Propensity score matched patients starting treatment with Warfarin", 
+                                    "title": "Warfarin"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "2991"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "2991"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "37.14"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "31.63"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 and procedure codes.", 
+                                    "param": "Number", 
+                                    "title": "Incidence Rate of Major Gastrointestinal Bleeding", 
+                                    "units": "events per 1000 person years"
+                                }
+                            ]
+                        }, 
+                        "population": "Hazard ratios and confidence intervals were estimated for patients starting dabigatran or warfarin after matching on the propensity score.", 
+                        "safety_issue": "Yes", 
+                        "time_frame": "From treatment initiation until end of follow-up; up to 20 months", 
+                        "title": "Incidence Rate of Major Gastrointestinal Bleeding", 
+                        "type": "Secondary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "Propensity score matched patients starting treatment with dabigatran", 
+                            "title": "Dabigatran"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "Propensity score matched patients starting treatment with warfarin", 
+                            "title": "Warfarin"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "2991", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "2991", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "2991", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "2991", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "pre_assignment_details": "11882 patients fulfilled the in- and ex-clusion criteria. Only 5982 patients remained after matching on the Propensity Score.", 
+                "recruitment_details": "This is an observational study. Patients were not actively recruited in this study. The data source was the UnitedHealth database."
+            }, 
+            "point_of_contact": {
+                "email": "clintriage.rdg@boehringer-ingelheim.com", 
+                "name_or_title": "Boehringer Ingelheim Call Center", 
+                "organization": "Boehringer Ingelheim Pharmaceuticals", 
+                "phone": "1-800-243-0127"
+            }
+        }, 
+        "completion_date": {
+            "#text": "April 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": "Atrial Fibrillation", 
+        "condition_browse": {
+            "mesh_term": "Atrial Fibrillation"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion criteria:\n\n          -  A recorded diagnosis of atrial fibrillation (AF).\n\n          -  Initiation of anticoagulant medication (dabigatran or warfarin).\n\n          -  At least 18 years of age on the date of anticoagulant initiation CHA2DS2-VASc-Score\n             >=1\n\n        Exclusion criteria:\n\n          -  Patients with missing or ambiguous age or sex information\n\n          -  Patients with documented evidence of valvular disease\n\n          -  Patients with less than 12 months enrolment in the UnitedHealth Research Database\n             preceding the date of anticoagulant initiation\n\n          -  Patients with prior use of any oral anticoagulant"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "Patients 18 years of age and older with non-valvular AF initiating oral anticoagulation\n        therapy"
+            }
+        }, 
+        "enrollment": {
+            "#text": "5982", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "April 18, 2013", 
+        "firstreceived_results_date": "April 22, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01847547", 
+            "org_study_id": "1160.157"
+        }, 
+        "intervention_browse": {
+            "mesh_term": "Anticoagulants"
+        }, 
+        "lastchanged_date": "April 22, 2014", 
+        "number_of_groups": "2", 
+        "official_title": "Comparative Effectiveness of Oral Anticoagulants: A Cohort Study", 
+        "overall_official": {
+            "affiliation": "Boehringer Ingelheim", 
+            "last_name": "Boehringer Ingelheim", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Germany:"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "April 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                "measure": "Incidence Rate of Stroke", 
+                "safety_issue": "No", 
+                "time_frame": "From treatment initiation until end of follow-up; up to 20 months"
+            }, 
+            {
+                "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 and procedure codes.", 
+                "measure": "Incidence Rate of Major Bleeding", 
+                "safety_issue": "Yes", 
+                "time_frame": "From treatment initiation until end of follow-up; up to 20 months"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01847547"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9  codes.", 
+                "measure": "Incidence Rate of Myocardial Infarction", 
+                "safety_issue": "No", 
+                "time_frame": "From treatment initiation until end of follow-up; up to 20 months"
+            }, 
+            {
+                "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9  codes.", 
+                "measure": "Incidence Rate of Venous Thromboembolism", 
+                "safety_issue": "No", 
+                "time_frame": "From treatment initiation until end of follow-up; up to 20 months"
+            }, 
+            {
+                "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                "measure": "Incidence Rate of Deep Vein Thrombosis", 
+                "safety_issue": "No", 
+                "time_frame": "From treatment initiation until end of follow-up; up to 20 months"
+            }, 
+            {
+                "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                "measure": "Incidence Rate of Pulmonary Embolism", 
+                "safety_issue": "No", 
+                "time_frame": "From treatment initiation until end of follow-up; up to 20 months"
+            }, 
+            {
+                "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                "measure": "Incidence Rate of Major Lower Gastrointestinal Bleeding", 
+                "safety_issue": "Yes", 
+                "time_frame": "From treatment initiation until end of follow-up; up to 20 months"
+            }, 
+            {
+                "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                "measure": "Incidence Rate of Major Urogenital Bleeding", 
+                "safety_issue": "Yes", 
+                "time_frame": "From treatment initiation until end of follow-up; up to 20 months"
+            }, 
+            {
+                "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                "measure": "Incidence Rate of Major Other Bleeding", 
+                "safety_issue": "Yes", 
+                "time_frame": "From treatment initiation until end of follow-up; up to 20 months"
+            }, 
+            {
+                "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                "measure": "Incidence Rate of Transient Ischemic Attack", 
+                "safety_issue": "No", 
+                "time_frame": "From treatment initiation until end of follow-up; up to 20 months"
+            }, 
+            {
+                "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 and procedure codes.", 
+                "measure": "Incidence Rate of Major Upper Gastrointestinal Bleeding", 
+                "safety_issue": "Yes", 
+                "time_frame": "From treatment initiation until end of follow-up; up to 20 months"
+            }, 
+            {
+                "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                "measure": "Incidence Rate of Stroke or Systemic Embolism", 
+                "safety_issue": "No", 
+                "time_frame": "From treatment initiation until end of follow-up; up to 20 months"
+            }, 
+            {
+                "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                "measure": "Incidence Rate of Systemic Embolism", 
+                "safety_issue": "No", 
+                "time_frame": "From treatment initiation until end of follow-up; up to 20 months"
+            }, 
+            {
+                "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                "measure": "Incidence Rate of Ischemic Stroke", 
+                "safety_issue": "No", 
+                "time_frame": "From treatment initiation until end of follow-up; up to 20 months"
+            }, 
+            {
+                "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                "measure": "Incidence Rate of Hemorrhagic Stroke", 
+                "safety_issue": "No", 
+                "time_frame": "From treatment initiation until end of follow-up; up to 20 months"
+            }, 
+            {
+                "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9.", 
+                "measure": "Incidence Rate of Stroke Uncertain Classification", 
+                "safety_issue": "No", 
+                "time_frame": "From treatment initiation until end of follow-up; up to 20 months"
+            }, 
+            {
+                "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 codes.", 
+                "measure": "Incidence Rate of Major Intracranial Bleeding", 
+                "safety_issue": "Yes", 
+                "time_frame": "From treatment initiation until end of follow-up; up to 20 months"
+            }, 
+            {
+                "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 and procedure codes.", 
+                "measure": "Incidence Rate of Major Extracranial Bleeding", 
+                "safety_issue": "Yes", 
+                "time_frame": "From treatment initiation until end of follow-up; up to 20 months"
+            }, 
+            {
+                "description": "Events during follow-up (October 2010- 30 June 2012) were identified using ICD 9 and procedure codes.", 
+                "measure": "Incidence Rate of Major Gastrointestinal Bleeding", 
+                "safety_issue": "Yes", 
+                "time_frame": "From treatment initiation until end of follow-up; up to 20 months"
+            }
+        ], 
+        "source": "Boehringer Ingelheim", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Boehringer Ingelheim", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "April 2013", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Retrospective", 
+        "study_type": "Observational", 
+        "verification_date": "April 2014"
+    }
+}

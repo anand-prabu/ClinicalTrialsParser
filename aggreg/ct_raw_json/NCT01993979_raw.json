@@ -1,0 +1,886 @@
+{
+    "clinical_study": {
+        "@rank": "134562", 
+        "acronym": "POUT", 
+        "arm_group": [
+            {
+                "arm_group_label": "Surveillance", 
+                "arm_group_type": "Other", 
+                "description": "Patients allocated to surveillance will be seen at 4, 7, 10 and 13 weeks post randomisation - equivalent to the end of cycle in patients receiving chemotherapy - in order to collect details of early treatment failure in this group and comparative data relating to toxicity and quality of life.  Patients on surveillance will then be followed up for signs of recurrence at the same intervals as those who received chemotherapy"
+            }, 
+            {
+                "arm_group_label": "Chemotherapy", 
+                "arm_group_type": "Experimental", 
+                "description": "Patients allocated adjuvant chemotherapy will receive 4 x 21 day cycles of gemcitabine-cisplatin.  Patients who have a sub-optimal renal function (GFR 30-49ml/min) will receive carboplatin instead of cisplatin."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "POUT is a multi-centred randomised controlled phase III trial. 345 patients who have\n      undergone nephro-ureterectomy, are surgically staged pT2-pT4, N0-3 or are pT1 and node\n      positive, and who are fit for adjuvant chemotherapy, will be randomised to four cycles of\n      adjuvant platinum based chemotherapy (experimental group) or surveillance (control group).\n      Participants will be followed up according to routine practice.\n\n      Primary endpoint:  Disease-free survival (DFS)\n\n      Secondary endpoints:\n\n        -  Overall Survival\n\n        -  Metastasis free survival\n\n        -  Incidence of bladder second primary tumours\n\n        -  Incidence of contralateral primary tumours\n\n        -  Acute and late toxicity\n\n        -  Treatment compliance\n\n        -  Quality of life"
+        }, 
+        "brief_title": "A Phase III Randomised Trial of Peri-Operative Chemotherapy Versus sUrveillance in Upper Tract Urothelial Cancer (POUT)", 
+        "completion_date": {
+            "#text": "May 2022", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Transitional Cell Carcinoma of Ureter", 
+        "condition_browse": {
+            "mesh_term": [
+                "Carcinoma", 
+                "Carcinoma, Transitional Cell", 
+                "Ureteral Neoplasms"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Written informed consent\n\n          -  \u226518 years of age\n\n          -  Post radical nephro-ureterectomy for upper tract tumour with predominant TCC\n             component - squamoid differentiation or mixed TCC/SCC is permitted.\n\n          -  Histologically confirmed TCC staged pT2-pT4 pN0-3 M0 or pTany N1-3 M0 (providing all\n             grossly abnormal nodes are resected).   Patients with microscopically positive\n             margins on pathology may be entered (providing all grossly abnormal disease was\n             resected).\n\n          -  Satisfactory haematological profile (ANC> 1.5 x 109/L, platelet count \u2265 100 x 109/L)\n             and liver function tests (bilirubin < 1.5 x ULN, AST and Alkaline phosphatase < 2.5 x\n             ULN), Glomerular filtration rate \u226530 mls/min.\n\n          -  Fit and willing to receive adjuvant chemotherapy with first cycle to be commenced\n             within 90 days of radical nephro-ureterectomy if allocated\n\n          -  WHO performance status 0-1.\n\n          -  Available for long-term follow-up\n\n        Exclusion Criteria:\n\n          -  Evidence of distant metastases\n\n          -  Pure adenocarcinoma, squamous cell carcinoma or small cell or other variant histology\n\n          -  Un-resected macroscopic nodal disease\n\n          -  Concurrent muscle invasive bladder cancer  (patients with concurrent Non-muscle\n             invasive bladder cancer (NMIBC) will be eligible)\n\n          -  GFR <30 ml/minute. NB Gemcitabine-carboplatin can only be given for patients with\n             suboptimal renal function for cisplatin i.e. for  GFR 30-49ml/min. Patients with poor\n             performance status or co-morbidities that would make them unfit for chemotherapy are\n             ineligible for the trial\n\n          -  Significant co-morbid conditions that would interfere with administration of protocol\n             treatment\n\n          -  Pregnancy; lactating women or women of childbearing potential unwilling or unable to\n             use adequate non-hormonal contraception (male patients should also use contraception\n             if sexually active);\n\n          -  Previous malignancy in the last 5 years except for previous NMIBC, adequately\n             controlled non melanoma skin tumours, CIS of cervix or LCIS of breast or localised\n             prostate cancer in patients who have a life expectancy of over 5 years upon trial\n             entry."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "345", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 19, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01993979", 
+            "org_study_id": "ICR-CTSU/2011/10031", 
+            "secondary_id": [
+                "2011-002577-33", 
+                "ISRCTN98387754", 
+                "CRUK/11/027", 
+                "11/NW/0782"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Chemotherapy", 
+                "intervention_name": "Chemotherapy", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "Gemcitabine", 
+                    "Cisplatin", 
+                    "Carboplatin"
+                ]
+            }, 
+            {
+                "arm_group_label": "Surveillance", 
+                "description": "Patients will be closely monitored for early signs of recurrence, for which they will receive treatment as decided in discussion between the clinician and patient.  This may include chemotherapy.", 
+                "intervention_name": "Surveillance", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Gemcitabine", 
+                "Cisplatin", 
+                "Carboplatin"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "Adjuvant chemotherapy", 
+            "Surveillance", 
+            "Nephro-ureterectomy"
+        ], 
+        "lastchanged_date": "November 19, 2013", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ashford-Kent", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "TN24 0LZ"
+                    }, 
+                    "name": "William Harvey Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Barnstaple", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "EX31 4JB"
+                    }, 
+                    "name": "North Devon District Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Basildon", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "SS16 5NL"
+                    }, 
+                    "name": "Basildon University Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Canterbury", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "CT2 3NG"
+                    }, 
+                    "name": "Kent and Canterbury Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hampstead, London", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "NW3 2QG"
+                    }, 
+                    "name": "Royal Free Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ipswich", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "IP4 5PD"
+                    }, 
+                    "name": "Ipswich Hospital NHS Trust"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "phone": "44-113-392-4307"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Leeds", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "LS9 7TF"
+                    }, 
+                    "name": "St. James's University Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "London", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "EC1M 6BQ"
+                    }, 
+                    "name": "Barts and the London School of Medicine"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Maidstone", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "ME16 9QQ"
+                    }, 
+                    "name": "Maidstone Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "phone": "44-845-226-3000"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Manchester", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "M20 4BX"
+                    }, 
+                    "name": "Christie Hospital NHS Trust"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Margate", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "CT9 4AN"
+                    }, 
+                    "name": "Queen Elizabeth The Queen Mother Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Contact Person", 
+                    "phone": "44-151-334-1155"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Merseyside", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "CH63 4JY"
+                    }, 
+                    "name": "Clatterbridge Centre for Oncology NHS Trust"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nottingham", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "NG5 1PB"
+                    }, 
+                    "name": "Nottingham City Hospital NHS Trust"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Peterborough", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "PE3 6DA"
+                    }, 
+                    "name": "Peterborough Hospitals Trust"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "alison.birtle@lthtr.nhs.uk", 
+                    "last_name": "Alison Birtle, MD"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Preston", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "PR2 9HT"
+                    }, 
+                    "name": "Rosemere Cancer Centre at Royal Preston Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sheffield", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "S1O 2SJ"
+                    }, 
+                    "name": "Cancer Research Centre at Weston Park Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Surrey", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "SM2 5PT"
+                    }, 
+                    "name": "Royal Marsden Hosital, Sutton"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Westcliff-On-Sea", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "SS0 0RY"
+                    }, 
+                    "name": "Southend University Hospital NHS Foundation Trust"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wolverhampton", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "WV10 0QP"
+                    }, 
+                    "name": "New Cross Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ayr", 
+                        "country": "United Kingdom", 
+                        "state": "Scotland", 
+                        "zip": "KA6 6DX"
+                    }, 
+                    "name": "Ayr Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cardiff", 
+                        "country": "United Kingdom", 
+                        "state": "Wales", 
+                        "zip": "CF14 2TL"
+                    }, 
+                    "name": "Velindre Cancer Center at Velinde Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Swansea", 
+                        "country": "United Kingdom", 
+                        "state": "Wales", 
+                        "zip": "SA 2 8QA"
+                    }, 
+                    "name": "Singleton Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bristol", 
+                        "country": "United Kingdom"
+                    }, 
+                    "name": "Bristol Haematology and Oncology Centre"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bristol", 
+                        "country": "United Kingdom"
+                    }, 
+                    "name": "Southmead Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chelsea", 
+                        "country": "United Kingdom", 
+                        "zip": "SW3 6JJ"
+                    }, 
+                    "name": "Royal Marsden Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Coventry", 
+                        "country": "United Kingdom"
+                    }, 
+                    "name": "University Hospitals Coventry and Warwickshire NHS Trust"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dartford", 
+                        "country": "United Kingdom"
+                    }, 
+                    "name": "Darent Valley Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Derby", 
+                        "country": "United Kingdom"
+                    }, 
+                    "name": "Royal Derby Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dorset", 
+                        "country": "United Kingdom"
+                    }, 
+                    "name": "Royal Bournemouth General Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Edinburgh", 
+                        "country": "United Kingdom", 
+                        "zip": "EH4 2XU"
+                    }, 
+                    "name": "Western General Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Exeter", 
+                        "country": "United Kingdom"
+                    }, 
+                    "name": "Royal Devon and Exeter Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Glasgow", 
+                        "country": "United Kingdom"
+                    }, 
+                    "name": "Beatson West of Scotland Cancer Centre"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Guildford", 
+                        "country": "United Kingdom", 
+                        "zip": "GU2 7XX"
+                    }, 
+                    "name": "Royal Surrey County Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Halifax", 
+                        "country": "United Kingdom"
+                    }, 
+                    "name": "Calderdale Royal Infirmary"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Huddersfield", 
+                        "country": "United Kingdom"
+                    }, 
+                    "name": "Huddersfield Royal Infirmary"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Neil McPhail", 
+                    "phone": "01463 704197"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Inverness", 
+                        "country": "United Kingdom", 
+                        "zip": "IV2 3UJ"
+                    }, 
+                    "name": "Raigmore Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Inverness", 
+                        "country": "United Kingdom", 
+                        "zip": "IV2 3UJ"
+                    }, 
+                    "name": "Caithness General Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Leicester", 
+                        "country": "United Kingdom"
+                    }, 
+                    "name": "Leicester Royal Infirmary"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lincoln", 
+                        "country": "United Kingdom", 
+                        "zip": "LN2 5QY"
+                    }, 
+                    "name": "Lincoln County Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Liverpool", 
+                        "country": "United Kingdom", 
+                        "zip": "L7 8XP"
+                    }, 
+                    "name": "Royal Liverpool University Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "London", 
+                        "country": "United Kingdom"
+                    }, 
+                    "name": "Northwick Park Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Nicola Anyamene", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "London", 
+                        "country": "United Kingdom"
+                    }, 
+                    "name": "Charing Cross Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "London", 
+                        "country": "United Kingdom", 
+                        "zip": "SE1 9RT"
+                    }, 
+                    "name": "Guy's Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Manchester", 
+                        "country": "United Kingdom", 
+                        "zip": "M13 9WL"
+                    }, 
+                    "name": "Manchester Royal Infirmary"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Middlesbrough", 
+                        "country": "United Kingdom"
+                    }, 
+                    "name": "James Cook University Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Newcastle upon Tyne", 
+                        "country": "United Kingdom"
+                    }, 
+                    "name": "Freeman Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Norwich", 
+                        "country": "United Kingdom", 
+                        "zip": "NR4 7UY"
+                    }, 
+                    "name": "Norfolk and Norwich University Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portsmouth", 
+                        "country": "United Kingdom"
+                    }, 
+                    "name": "Queen Alexandra Hospital,"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rhyl", 
+                        "country": "United Kingdom", 
+                        "zip": "LL18 5UJ"
+                    }, 
+                    "name": "Glan Clywd Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Romford, Essex", 
+                        "country": "United Kingdom"
+                    }, 
+                    "name": "Queen's Hospital,"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Shrewsbury", 
+                        "country": "United Kingdom", 
+                        "zip": "SY3 8XQ"
+                    }, 
+                    "name": "Royal Shrewsbury Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Southampton", 
+                        "country": "United Kingdom"
+                    }, 
+                    "name": "Southampton General Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Stevenage", 
+                        "country": "United Kingdom", 
+                        "zip": "SG1 4AA"
+                    }, 
+                    "name": "Lister Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Stockton-on-Tees", 
+                        "country": "United Kingdom", 
+                        "zip": "TS19 8PE"
+                    }, 
+                    "name": "University Hospital of North Tees"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Surrey", 
+                        "country": "United Kingdom", 
+                        "zip": "GU16 7UJ"
+                    }, 
+                    "name": "Frimley Park Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Robert Huddart", 
+                    "phone": "020 8661 3457"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Sutton", 
+                        "country": "United Kingdom", 
+                        "zip": "SM2 5PT"
+                    }, 
+                    "name": "The Royal Marsden Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Taunton", 
+                        "country": "United Kingdom"
+                    }, 
+                    "name": "Musgrove Park Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Torbay", 
+                        "country": "United Kingdom", 
+                        "zip": "TQ2 7AA"
+                    }, 
+                    "name": "Torbay District General Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Treliske", 
+                        "country": "United Kingdom", 
+                        "zip": "TR1 3LJ"
+                    }, 
+                    "name": "Royal Cornwall Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Worthing", 
+                        "country": "United Kingdom", 
+                        "zip": "BN11 2DH"
+                    }, 
+                    "name": "Worthing Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "York", 
+                        "country": "United Kingdom", 
+                        "zip": "YO31 8HE"
+                    }, 
+                    "name": "York District Hospital"
+                }, 
+                "status": "Recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": "United Kingdom"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "A Phase III Randomised Trial of Peri-Operative Chemotherapy Versus sUrveillance in Upper Tract Urothelial Cancer", 
+        "overall_contact": {
+            "email": "pout-icrctsu@icr.ac.uk", 
+            "last_name": "POUT Trial Manager", 
+            "phone": "0208 722 4288"
+        }, 
+        "overall_official": {
+            "affiliation": "Lancashire Teaching Hospitals NHS Foundation Trust", 
+            "last_name": "Dr Alison Birtle", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United Kingdom: Medicines and Healthcare Products Regulatory Agency", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "May 2020", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "To determine whether adjuvant combination chemotherapy improves the disease-free survival for patients with resected histologically confirmed muscle invasive (pT2-T4, N0-3) or node positive upper tract TCC.", 
+            "measure": "Disease-free survival (DFS)", 
+            "safety_issue": "No", 
+            "time_frame": "3 years"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01993979"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Whether adjuvant platinum-based chemotherapy improves overall survival in this patient group", 
+                "measure": "Overall survival", 
+                "safety_issue": "No", 
+                "time_frame": "Patients followed-up for 5 years"
+            }, 
+            {
+                "description": "To determine whether adjuvant platinum-based chemotherapy improves metastasis free survival in this patient group.", 
+                "measure": "Metastasis free survival", 
+                "safety_issue": "No", 
+                "time_frame": "Patients are followed up for 5 years"
+            }, 
+            {
+                "description": "Whether adjuvant platinum-based chemotherapy reduces incidence of second primary urothelial cancers", 
+                "measure": "Incidence of bladder second primary tumours", 
+                "safety_issue": "No", 
+                "time_frame": "Patients are followed up for 5 years"
+            }, 
+            {
+                "description": "To determine whether adjuvant platinum-based chemotherapy reduces incidence of contralateral primary urothelial cancers.", 
+                "measure": "Incidence of contralateral primary tumours", 
+                "safety_issue": "No", 
+                "time_frame": "Patients are followed up for 5 years"
+            }, 
+            {
+                "description": "To assess the toxicity of chemotherapy in this patient group.", 
+                "measure": "Acute and late toxicity", 
+                "safety_issue": "Yes", 
+                "time_frame": "Patients are followed up for 5 years"
+            }, 
+            {
+                "description": "To assess the relative quality of life in patients undergoing adjuvant chemotherapy or surveillance in this patient group.", 
+                "measure": "Quality of life (QoL)", 
+                "safety_issue": "No", 
+                "time_frame": "Patients' QoL will be assessed over 2 years"
+            }
+        ], 
+        "source": "Institute of Cancer Research, United Kingdom", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Cancer Research UK", 
+                "agency_class": "Other"
+            }, 
+            "lead_sponsor": {
+                "agency": "Institute of Cancer Research, United Kingdom", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "May 2012", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "November 2013"
+    }
+}

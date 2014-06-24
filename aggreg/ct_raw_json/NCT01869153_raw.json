@@ -1,0 +1,117 @@
+{
+    "clinical_study": {
+        "@rank": "90687", 
+        "arm_group": {
+            "arm_group_label": "Preterm infants", 
+            "description": "Preterm infants born at either <32 weeks gestation or < 1750g birth weight"
+        }, 
+        "brief_summary": {
+            "textblock": "Growth is poor in preterm infants, partly due to difficulty identifying when growth is slow.\n      The investigators will examine the use of a computer program to try and identify periods of\n      growth slowing in preterm babies, and compare those results to the usual assessments made on\n      patient care rounds."
+        }, 
+        "brief_title": "Monitoring Growth of Preterm Infants", 
+        "completion_date": {
+            "#text": "May 2017", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Prematurity", 
+        "detailed_description": {
+            "textblock": "We wish to examine the use of a mathematical modeling system to see if it can detect poor\n      growth better (and more quickly) than we can clinically. To do this, we need to know what\n      the clinical team think about a baby's growth day-to-day. However, after rounds the fellow\n      or NNP with fill in a sheet to say what the team thought about the baby's growth (was it\n      okay, too slow, too fast etc.), and whether any changes were made to improve the baby's\n      growth (e.g. increased feed volume, change in composition of feeds etc.). After the baby is\n      discharged home, weight data from the EMR will be entered into the program to try and\n      identify times where growth slowed (or where growth was faster than expected). We will\n      compare the results of the computer program and the record of the clinical teams thoughts on\n      the ward round, to see if the computer program identified growth slowing more quickly than\n      the clinical team did."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Birth weight < 1750g gestational age < 32w at birth\n\n             Exclusion Criteria:\n\n          2. Currently receiving parenteral nutrition or intravenous lipids"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "Preterm infants of gestational age < 32w at birth, or <1750 weight at birth."
+            }
+        }, 
+        "enrollment": {
+            "#text": "40", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "May 27, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01869153", 
+            "org_study_id": "UCD-308519"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": "Growth, weight", 
+        "lastchanged_date": "June 4, 2013", 
+        "location": {
+            "contact": {
+                "email": "ijgriffin@ucdavis.edu", 
+                "last_name": "Ian J Griffin, MD", 
+                "phone": "916-703-5015"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Sacramento", 
+                    "country": "United States", 
+                    "state": "California", 
+                    "zip": "95817"
+                }, 
+                "name": "NICU, University of CAlifornia, Davis"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_groups": "1", 
+        "official_title": "Monitoring Growth of Preterm Infants", 
+        "overall_contact": {
+            "email": "ijgriffin@ucdavis.edu", 
+            "last_name": "Ian J Griffin, MD", 
+            "phone": "916-703-5015"
+        }, 
+        "overall_official": {
+            "affiliation": "University of California, Davis", 
+            "last_name": "Ian Griffin, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "May 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "At time of hospital discharge retrospectively collected data on daily weights (from the EMR) will be entered in to a computer program, to identify times where weight gain slowed significantly. This will be compared to the clinical assessment of the baby's growth made at the time (and recorded prospectively)", 
+            "measure": "Identification of growth slowing", 
+            "safety_issue": "No", 
+            "time_frame": "Between birth and hospital discharge, an average of 10weeks"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01869153"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University of California, Davis", 
+            "investigator_full_name": "Ian J. Griffin, MD", 
+            "investigator_title": "Associate Professor of Pediatrics", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "source": "University of California, Davis", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of California, Davis", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "May 2013", 
+        "study_design": "Observational Model: Cohort", 
+        "study_type": "Observational", 
+        "verification_date": "May 2013"
+    }
+}

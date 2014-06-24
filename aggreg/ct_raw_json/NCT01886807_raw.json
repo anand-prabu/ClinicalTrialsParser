@@ -1,0 +1,195 @@
+{
+    "clinical_study": {
+        "@rank": "13261", 
+        "arm_group": [
+            {
+                "arm_group_label": "(DL group)", 
+                "arm_group_type": "Other", 
+                "description": "direct laryngoscopy for nasotracheal intubation without oxygen insufflation"
+            }, 
+            {
+                "arm_group_label": "(DL-O2 Group)", 
+                "arm_group_type": "Other", 
+                "description": "direct laryngoscopy for nasotracheal intubation with oxygen insufflation"
+            }, 
+            {
+                "arm_group_label": "(VL Group)", 
+                "arm_group_type": "Experimental", 
+                "description": "nasotracheal intubation using the Truview PCD video laryngoscope"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Patient demographics (age, height and weight) will be collected for 546 consecutive patients\n      presenting for dental restoration under general anesthesia. The baseline saturation will be\n      recorded. The induction of anesthesia will be standardized for all patients. All patients\n      will undergo an inhalational induction administered by face mask. After inserting an\n      intravenous (IV) line, rocuronium will be administered. Intravenous propofol and fentanyl\n      could be added at the discretion of the anesthesiologist. The patients will be mask\n      ventilated then be with a mixture of Air/Oxygen (O2) to achieve an FiO2 of 0.3 for 3 minutes\n      after the administration of rocuronium.\n\n      Patients will be randomly assigned to one of three groups for the purpose of airway\n      management: 1) direct laryngoscopy for nasotracheal intubation without oxygen insufflation\n      (DL group); 2) direct laryngoscopy for nasotracheal intubation with oxygen insufflation\n      (DLO2 Group); and 3) nasotracheal intubation using the Truview PCD video laryngoscope (VL\n      Group). Computer-generated treatment allocations (using the PLAN procedure in SAS\n      statistical software, using random-sized blocks) will be maintained in sequentially numbered\n      sealed envelopes that will be opened after consent is obtained. The laryngoscopy and\n      intubations will be performed by the study investigators who are faculty anesthesiologists\n      or by the mid-level or resident or fellow working with them.\n\n      The study will be stopped when:\n\n        -  the patient will be intubated and a CO2 trace is obtained on the capnography or\n\n        -  if the patient desaturates to 90%\n\n        -  or if the patient shows signs of cardiac instability (ectopic beats, arrhythmia or\n           hypotension)\n\n      Randomized groups will be compared for balance on potentially confounding baseline variables\n      using descriptive statistics. Primary outcome: In the primary hypothesis, desaturation will\n      be characterized using both time to 1% saturation drop from the baseline and the rate\n      (slope) of desaturation after an initial 1% drop. We will consider a given intubation\n      technique (DLO2 or VL) better than DL on controlling saturation if found noninferior (i.e.,\n      not worse) on both outcomes and superior on at least one of the outcomes. Thus our primary\n      hypothesis will be assessed in a joint hypothesis testing framework described by Mascha and\n      Turan. We a-priori define the non-inferiority delta for the outcome time to 1% drop as 5\n      seconds (or 1.05 if using hazard ratio) and the slope delta as 0.05 percent per second."
+        }, 
+        "brief_title": "The Use of Apneic Oxygenation During Prolonged Intubation in Pediatric Patients: a Randomized Clinical Trial", 
+        "completion_date": {
+            "#text": "December 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Intubation of Pediatric Dental Surgery Patients", 
+        "detailed_description": {
+            "textblock": "Secondary outcomes:\n\n      Secondary-1. We will conduct tests for superiority to compare the Truview and DL with oxygen\n      cannula methods on each of the two primary outcomes, and report the treatment effect\n      estimates and adjusted confidence intervals.  Notably, the study is not powered to be able\n      to assess equivalence between these two oxygen techniques.\n\n      Secondary-2. We will compare the three randomized groups on total desaturation slope (rate)\n      using a random slope linear mixed effects model with repeated measures. This model will\n      allow accounting for the variability of the saturation rate for the patients and possible\n      correlation of the saturation measurements within a patient (autoregressive correlation). We\n      only will use saturation data before it reaches 90%.\n\n      Secondary-3. We will assess the relative efficacy of Truview and DL with oxygen cannula in\n      preventing 90% saturation compared with DL alone using 2-tailed chi-square tests of\n      proportions (for superiority), summarized with a relative risk and confidence interval.\n\n      Secondary -4: We will assess the correlation between the rate of desaturation and both age\n      and body mass index, independent of randomized group. This will be done in the context of a\n      random slope model as in the primary aim, assessing the interaction between the mean\n      desaturation slope and each of age and body mass index.\n\n      To restrict overall Type I error of the secondary hypotheses at 5% we will apply Bonferroni\n      correction for multiple inferences and adjustment for interim analyses.\n\n      Interim analyses will be conducted every 25% of the maximum planned enrollment using a\n      groups sequential design to test for efficacy and futility.  We will use a gamma spending\n      function (gamma = -4 for efficacy and -2 for futility) to maintain the significance level\n      for the primary outcome at 2.5% and the power at 90% across the interim analyses.\n      Significance criteria for all tests will be adjusted for interim analyses based on the\n      above-mentioned gamma spending function and the corresponding z-statistic at teach interim\n      look."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Children scheduled for dental restoration under general nasotracheal anesthesia\n\n          -  Patient age 1-17 years\n\n          -  American Society of Anesthesiology physical status I, II, III.\n\n        Exclusion Criteria:\n\n          -  Patients at risk of pulmonary aspiration\n\n          -  Patient with known or suspected difficult airway\n\n          -  Respiratory infections/disease\n\n          -  Congenital heart disease\n\n          -  Hemodynamic instability\n\n          -  Patients with known latex allergy\n\n          -  Increased intracranial pressure\n\n          -  Patients with known or suspected basilar skull fracture\n\n          -  American Society of Anesthesiology physical status \u2265 IV"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "17 Years", 
+            "minimum_age": "1 Year"
+        }, 
+        "enrollment": {
+            "#text": "550", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "June 19, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01886807", 
+            "org_study_id": "Apneic Oxygenation"
+        }, 
+        "intervention": {
+            "arm_group_label": [
+                "(DL group)", 
+                "(DL-O2 Group)", 
+                "(VL Group)"
+            ], 
+            "intervention_name": "TrueView PCD Video Laryngoscope", 
+            "intervention_type": "Device"
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "April 2, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Dallas", 
+                    "country": "United States", 
+                    "state": "Texas", 
+                    "zip": "75235"
+                }, 
+                "name": "Children's Medical Center Dallas"
+            }, 
+            "investigator": [
+                {
+                    "last_name": "Jeffrey Steiner, DO", 
+                    "role": "Principal Investigator"
+                }, 
+                {
+                    "last_name": "Peter Szmuk, MD", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Patrick Olomu, MD", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "John Zhong, MD", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Shahid Hussain, MD", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Christopher Setiawan, MD", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Brian Kravitz, MD", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Edgar Kiss, MD", 
+                    "role": "Sub-Investigator"
+                }
+            ], 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "The Use of Apneic Oxygenation During Prolonged Intubation in Pediatric Patients: a Randomized Clinical Trial", 
+        "overall_contact": {
+            "email": "roxana.ploski@utsouthwestern.edu", 
+            "last_name": "Roxana Ploski", 
+            "phone": "214-456-8559"
+        }, 
+        "overall_contact_backup": {
+            "email": "joanna.delacruz@utsouthwestern.edu", 
+            "last_name": "Joanna Dela Cruz", 
+            "phone": "214-456-8559"
+        }, 
+        "overall_official": {
+            "affiliation": "UT Southwestern Medical Center", 
+            "last_name": "Jeffrey Steiner, DO", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": [
+                "United States: Data and Safety Monitoring Board", 
+                "United States: Federal Government", 
+                "United States: Food and Drug Administration", 
+                "United States: Institutional Review Board"
+            ], 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "June 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "In the primary hypothesis, desaturation will be characterized using both time to 1% saturation drop from the baseline and the rate (slope) of desaturation after an initial 1% drop.We will consider a given intubation technique (DLO2 or VL) better than DL on controlling saturation if found noninferior (i.e., not worse) on both outcomes and superior on at least one of the outcome.", 
+            "measure": "Oxygen Saturation", 
+            "safety_issue": "Yes", 
+            "time_frame": "From start of intubation attempt to completion of intubation"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01886807"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University of Texas Southwestern Medical Center", 
+            "investigator_full_name": "Peter Szmuk", 
+            "investigator_title": "Professor of Anesthesiology", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Heart Rate", 
+                "safety_issue": "Yes", 
+                "time_frame": "From start of intubation attempt to completion of intubation"
+            }, 
+            {
+                "measure": "Blood pressure", 
+                "safety_issue": "Yes", 
+                "time_frame": "From start of intubation attempt to completion of intubation"
+            }, 
+            {
+                "measure": "Intubation Duration", 
+                "safety_issue": "No", 
+                "time_frame": "From start of intubation attempt to completion of intubation"
+            }, 
+            {
+                "measure": "Blood loss", 
+                "safety_issue": "Yes", 
+                "time_frame": "At the completion of intubation"
+            }
+        ], 
+        "source": "University of Texas Southwestern Medical Center", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of Texas Southwestern Medical Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "June 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety Study, Intervention Model: Parallel Assignment, Masking: Open Label", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2014"
+    }
+}

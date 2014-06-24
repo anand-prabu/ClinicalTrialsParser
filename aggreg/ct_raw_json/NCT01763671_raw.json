@@ -1,0 +1,972 @@
+{
+    "clinical_study": {
+        "@rank": "120912", 
+        "acronym": "Ultimate", 
+        "arm_group": [
+            {
+                "arm_group_label": "Docetaxel", 
+                "arm_group_type": "Active Comparator"
+            }, 
+            {
+                "arm_group_label": "Paclitaxel - Bevacizumab", 
+                "arm_group_type": "Experimental"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The study objective is to evaluate the efficacy of paclitaxel-bevacizumab comparing to\n      docetaxel.\n\n      Docetaxel is a standard treatment of 2nd or 3rd line in lung cancer. It was validated by\n      numerous clinical trials but sometimes toxicities are difficult to manage.\n\n      Bevacizumab is an antiangiogenic treatment which was validated by numerous clinical trials\n      in association with platinum in first ligne. Different clinical and preclinical data suggest\n      that there could exist a synergy between paclitaxel and bevacizumab. This association is\n      already used in metastatic breast cancer, it permits almost to double the response rate and\n      progression free survival. In lung cancer, the association was evaluated by two\n      retrospective studies which demonstrated a benefit with a favourable safety profile."
+        }, 
+        "brief_title": "Paclitaxel-bevacizumab in Advanced Lung Cancer", 
+        "completion_date": {
+            "#text": "June 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Non Squamous Non Small Cell Lung Cancer", 
+        "condition_browse": {
+            "mesh_term": [
+                "Carcinoma, Non-Small-Cell Lung", 
+                "Lung Neoplasms"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  2nd or 3rd line of non squamous non small cell lung cancer of stage III or IV\n\n          -  Document progression at the time of the inclusion. At least, one previous\n             chemotherapy line with platinum. Patient who had previous treatment with bevacizumab\n             can be included.\n\n          -  Patient with active mutation of EGFR must have had on line of chemotherapy with\n             platinum and one with Tyrosine kinase inhibitor of EGFR.\n\n          -  Patient with ALK rearrangement must have had at least one line of chemotherapy with\n             platinum  and one with crizotinib.\n\n        Exclusion Criteria:\n\n          -  Mixed cancer small cells and non small cells or squamous lung cancer.\n\n          -  Central nervous system symptomatic metastasis or requiring immediate cerebral\n             radiotherapy\n\n          -  patient who have had previous treatment with taxane (docetaxel, paclitaxel).\n             Peri-operatory chemotherapy or chemoradiotherapy with taxane allowed if stopped more\n             than 6 months before."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "164", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "January 7, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01763671", 
+            "org_study_id": "IFCT-1103"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Docetaxel", 
+                "description": "75 mg/m\u00b2 IV on day one of 21 days cycle Number of Cycles: until progression or unacceptable toxicity develops.", 
+                "intervention_name": "Docetaxel", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Paclitaxel - Bevacizumab", 
+                "description": "90 mg/m\u00b2 IV on day 1, 8 and 15 of 28 days cycle Number of Cycles: until progression or unacceptable toxicity develops.", 
+                "intervention_name": "Paclitaxel", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Paclitaxel - Bevacizumab", 
+                "description": "10 mg/kg IV on day 1 and 15 of 28 days cycle Number of Cycles: until progression or unacceptable toxicity develops.", 
+                "intervention_name": "Bevacizumab", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Paclitaxel", 
+                "Docetaxel", 
+                "Bevacizumab"
+            ]
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Lung cancer", 
+            "Paclitaxel bevacizumab"
+        ], 
+        "lastchanged_date": "July 18, 2013", 
+        "link": {
+            "description": "Official IFCT website", 
+            "url": "http://www.ifct.fr/v3/index.php?option=com_flexicontent&view=items&cid=267&id=1967&Itemid=661"
+        }, 
+        "location": [
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Claire POULET, Pr"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Amiens", 
+                        "country": "France"
+                    }, 
+                    "name": "Amiens - CHU"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Patrick CHATELLAIN"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Annemasse", 
+                        "country": "France"
+                    }, 
+                    "name": "Centre Hospitalier"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Gwen-A\u00ebl L'HELGOUALC'H"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Antony", 
+                        "country": "France"
+                    }, 
+                    "name": "H\u00f4pital Priv\u00e9 d'Antony"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Werner HILGERS, MD"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Avignon", 
+                        "country": "France", 
+                        "zip": "84918"
+                    }, 
+                    "name": "Avignon - Institut Sainte-Catherine"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Sophie SCHNEIDER"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Bayonne", 
+                        "country": "France"
+                    }, 
+                    "name": "CH de la C\u00f4te Basque"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Fran\u00e7ois GUICHARD, Dr"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Bordeaux", 
+                        "country": "France", 
+                        "zip": "33300"
+                    }, 
+                    "name": "Bordeaux - Polyclinique Nord"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Fr\u00e9d\u00e9ric GOUTORBE, Dr"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "B\u00e9ziers", 
+                        "country": "France", 
+                        "zip": "34525"
+                    }, 
+                    "name": "B\u00e9ziers - CH"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Pascal DO, Dr"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Caen", 
+                        "country": "France", 
+                        "zip": "14000"
+                    }, 
+                    "name": "Caen - Centre Fran\u00e7ois Baclesse"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Gerard ZALCMAN, Pr"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Caen", 
+                        "country": "France", 
+                        "zip": "14000"
+                    }, 
+                    "name": "Caen - CHU C\u00f4te de Nacre"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Catherine BECHT, Dr"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Castelnau", 
+                        "country": "France", 
+                        "zip": "34170"
+                    }, 
+                    "name": "Castelnau Le Lez - Clinique"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Olivier RAFFY"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Chartres", 
+                        "country": "France"
+                    }, 
+                    "name": "CH de Chartres H\u00f4pital Louis Pasteur"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Patrick DUMONT"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Chauny", 
+                        "country": "France"
+                    }, 
+                    "name": "Chauny - CH"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Philippe MASSON"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Cholet", 
+                        "country": "France"
+                    }, 
+                    "name": "CH"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Jacques Margery, Dr"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Clamart", 
+                        "country": "France", 
+                        "zip": "92140"
+                    }, 
+                    "name": "H\u00f4pital Percy-Arm\u00e9es - Pneumologie"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Patrick MERLE"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Clermont-Ferrand", 
+                        "country": "France"
+                    }, 
+                    "name": "H\u00f4pitral Gabriel Montpied - Pneumologie"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Lionel MOREAU"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Colmar", 
+                        "country": "France"
+                    }, 
+                    "name": "CH"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "St\u00e9phanie DEHETTE"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Compi\u00e8gne", 
+                        "country": "France"
+                    }, 
+                    "name": "CH Compi\u00e8gne - Pneumologie"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Isabelle MONNET"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Cr\u00e9teil", 
+                        "country": "France"
+                    }, 
+                    "name": "CHI Cr\u00e9teil"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Denis MORO-SIBILOT"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Grenoble", 
+                        "country": "France"
+                    }, 
+                    "name": "CHRU Grenoble"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Jean-Paul Duhamel, Dr"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Harfleur", 
+                        "country": "France", 
+                        "zip": "76700"
+                    }, 
+                    "name": "Harfleur - Clinique du Petit Colmoulins"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Claire CAPELLE"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Helfaut", 
+                        "country": "France"
+                    }, 
+                    "name": "CH R\u00e9gion Saint-Omer"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Olivier MOLINIER, Dr"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Le Mans", 
+                        "country": "France", 
+                        "zip": "72000"
+                    }, 
+                    "name": "Le Mans - Centre Hospitalier"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Alexis Cortot, Dr"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Lille", 
+                        "country": "France", 
+                        "zip": "59000"
+                    }, 
+                    "name": "CHU (H\u00f4pital Calmette) - Pneumologie"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "G\u00e9rard OLIVIERO"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Longjumeau", 
+                        "country": "France"
+                    }, 
+                    "name": "CH de Longjumeau"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Delphine ARGO-LEIGNEL, Dr"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Lorient", 
+                        "country": "France"
+                    }, 
+                    "name": "Lorient - CHBS"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Catherine BIRON, MD"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Lyon", 
+                        "country": "France"
+                    }, 
+                    "name": "Lyon - H\u00f4pital Jean Mermoz"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Nicolas GIRARD"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Lyon", 
+                        "country": "France"
+                    }, 
+                    "name": "Lyon - H\u00f4pital Louis Pradel (Pneumologie)"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "S\u00e9bastien LARIVE"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Macon", 
+                        "country": "France"
+                    }, 
+                    "name": "CH de Macon"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Jean-Bernard AULIAC, Dr"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Mantes La Jolie", 
+                        "country": "France", 
+                        "zip": "78200"
+                    }, 
+                    "name": "Mantes La Jolie - CH"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Fabrice BARLESI, Dr"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Marseille", 
+                        "country": "France", 
+                        "zip": "13000"
+                    }, 
+                    "name": "Marseille - H\u00f4pital Sainte Marguerite"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Marc Derollez, Dr"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Maubeuge", 
+                        "country": "France", 
+                        "zip": "59600"
+                    }, 
+                    "name": "Maubeuge - Polyclinique du Parc"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Bernard DUVERT"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Mont\u00e9limar", 
+                        "country": "France"
+                    }, 
+                    "name": "CH Mont\u00e9limar"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Didier DEBIEUVRE, Dr"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Mulhouse", 
+                        "country": "France", 
+                        "zip": "68000"
+                    }, 
+                    "name": "Mulhouse - CH"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Sandrine HIRET, Dr"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Nantes", 
+                        "country": "France", 
+                        "zip": "44805"
+                    }, 
+                    "name": "Nantes - Centre Ren\u00e9 Gauducheau"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Adrien DIXMIER"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Orl\u00e9ans", 
+                        "country": "France"
+                    }, 
+                    "name": "CHR d'Orl\u00e9ans La Source"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Jean-Michel RODIER"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France"
+                    }, 
+                    "name": "H\u00f4pital Bichat - Claude - Bernard"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Sylvestre LE MOULEC"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France"
+                    }, 
+                    "name": "HIA Val-de-Gr\u00e2ce"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Laurent TAILLADE, MD"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France"
+                    }, 
+                    "name": "Paris - Piti\u00e9-salp\u00eatri\u00e8re"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Damien POUESSEL, Dr"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "zip": "75000"
+                    }, 
+                    "name": "Paris - Saint Louis"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "jacques.cadranel@tnn.ap-hop-paris.fr", 
+                    "last_name": "Jacques Cadranel, Pr", 
+                    "phone": "+33.1.56.01.65.31"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "zip": "75020"
+                    }, 
+                    "name": "Hopital Tenon - Pneumologie"
+                }, 
+                "investigator": {
+                    "last_name": "Jacques Cadranel, pr", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Aldo RENAULT, Dr"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Pau", 
+                        "country": "France", 
+                        "zip": "64046"
+                    }, 
+                    "name": "Pau - CH"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Pierre-Jean SOUQUET, Dr"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Pierre B\u00e9nite", 
+                        "country": "France", 
+                        "zip": "69495"
+                    }, 
+                    "name": "Lyon Sud"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Luc Thiberville, Pr"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Rouen", 
+                        "country": "France", 
+                        "zip": "76000"
+                    }, 
+                    "name": "Rouen - CHU"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Charles Dayen, Dr"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Saint Quentin", 
+                        "country": "France", 
+                        "zip": "02100"
+                    }, 
+                    "name": "Saint Quentin - CH"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Pierre Fournel, Dr"
+                }, 
+                "contact_backup": {
+                    "email": "franck.morin@ifct.asso.fr", 
+                    "last_name": "Franck Morin", 
+                    "phone": "+33.1.56.81.10.45"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Saint-Etienne", 
+                        "country": "France", 
+                        "zip": "42000"
+                    }, 
+                    "name": "CHU Saint-Etienne Pneumologie"
+                }, 
+                "investigator": {
+                    "last_name": "Pierre Fournel, Dr", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Nathalie PRIM, Dr"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Strasbourg", 
+                        "country": "France", 
+                        "zip": "63000"
+                    }, 
+                    "name": "Strasbourg - NHC"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Marie-Ange MASSIANI-HOUOT, Dr"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Suresnes", 
+                        "country": "France", 
+                        "zip": "92151"
+                    }, 
+                    "name": "Suresnes - Hopital Foch"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Philippe ROMAND, Dr"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Thonon les bains", 
+                        "country": "France", 
+                        "zip": "74200"
+                    }, 
+                    "name": "Thonon les bains - CH"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Henri Berard, Dr"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Toulon", 
+                        "country": "France", 
+                        "zip": "83000"
+                    }, 
+                    "name": "Toulon - HIA"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Clarisse Audigier-Valette, Dr"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Toulon", 
+                        "country": "France", 
+                        "zip": "83000"
+                    }, 
+                    "name": "Toulon - CHI"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Julien MAZIERES, Pr"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Toulouse", 
+                        "country": "France"
+                    }, 
+                    "name": "Toulouse - CHU Larrey"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Eric Pichon, Dr"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Tours", 
+                        "country": "France", 
+                        "zip": "37000"
+                    }, 
+                    "name": "Tours - CHU"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Thomas GEY, Dr"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Valenciennes", 
+                        "country": "France", 
+                        "zip": "59304"
+                    }, 
+                    "name": "Valenciennes - Clinique"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Luc ODIER"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Villefranche", 
+                        "country": "France"
+                    }, 
+                    "name": "CH de Villefranche - Pneumologie"
+                }, 
+                "investigator": {
+                    "last_name": "Luc ODIER", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "contact@ifct.fr", 
+                    "last_name": "Benjamin Besse, Dr"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Villejuif", 
+                        "country": "France", 
+                        "zip": "94800"
+                    }, 
+                    "name": "Institut Gustave Roussy"
+                }, 
+                "status": "Recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": "France"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Phase III Study Comparing the Efficacy of Paclitaxel-bevacizumab With Docetaxel in 2nd or 3rd Line of Treatment of Non Squamous Non Small Cells Lung Cancer", 
+        "overall_official": [
+            {
+                "affiliation": "CHRU Lille", 
+                "last_name": "Alexis CORTOT, MD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Institut Gustave Roussy - Villejuif", 
+                "last_name": "Benjamin BESSE, MD", 
+                "role": "Principal Investigator"
+            }
+        ], 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "France: Agence Nationale de S\u00e9curit\u00e9 du M\u00e9dicament et des produits de sant\u00e9", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "March 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Time between inclusion and progression", 
+            "measure": "Progression free survival", 
+            "safety_issue": "No", 
+            "time_frame": "about 4 months"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01763671"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Response Rate", 
+                "safety_issue": "No", 
+                "time_frame": "At  8 weeks"
+            }, 
+            {
+                "description": "Time between inclusion and death", 
+                "measure": "Overall survival", 
+                "safety_issue": "No", 
+                "time_frame": "about 8 months"
+            }
+        ], 
+        "source": "Intergroupe Francophone de Cancerologie Thoracique", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Intergroupe Francophone de Cancerologie Thoracique", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "May 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Crossover Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "July 2013"
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "clinical_study": {
+        "@rank": "99110", 
+        "arm_group": [
+            {
+                "arm_group_label": "those without MI in 2 weeks", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "patient without MI in 2 weeks"
+            }, 
+            {
+                "arm_group_label": "patient with MI", 
+                "arm_group_type": "Active Comparator", 
+                "description": "group with MI in 2 weeks"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "prediction of MI in patients with chest pain and nondiagnostic ECG was done in 2 weeks"
+        }, 
+        "brief_title": "Myocardial Infarction Prediction", 
+        "completion_date": {
+            "#text": "June 2012", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Myocardial Infarction", 
+            "Artificial Neural Network"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Infarction", 
+                "Myocardial Infarction"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Myocardial infarction remains one the leading causes of mortality and morbidity and involves\n      a high cost of care. Early prediction can be helpful in preventing the development of\n      myocardial infarction with appropriate diagnosis and treatment. Artificial neural networks\n      have opened new horizons in learning about the natural history of diseases and predicting\n      cardiac disease.\n\n      Methods: A total of 935 cardiac patients with chest pain and nondiagnostic electrocardiogram\n      (ECG) were enrolled and followed for 2 weeks in two groups based on the appearance of\n      myocardial infarction. Two types of data were used for all patients: nominal (clinical data)\n      and quantitative (ECG findings). Two different artificial neural networks - radial basis\n      function (RBF) and multi-layer perceptron (MLP) - were used."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  patient with chest pain refered to ER with nondiagnostic ECG\n\n        Exclusion Criteria:\n\n          -  1) Absence of a history of myocardial infarction\n\n          -  2) Absence of bundle branch block, Wolf-Parkinson-White abnormality,   ventricular\n             hypertrophy or previous ECG signs of myocardial infarction,\n\n          -  3) Absence of a history of percutaneous coronary surgery or coronary artery  bypass\n             grafting,\n\n          -  4) Absence of ECG abnormalities attributable to drugs such as digoxin or tricyclic\n             antidepressants."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "72 Years", 
+            "minimum_age": "40 Years"
+        }, 
+        "enrollment": {
+            "#text": "1100", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "May 24, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01870258", 
+            "org_study_id": "90-8037"
+        }, 
+        "intervention": {
+            "arm_group_label": [
+                "those without MI in 2 weeks", 
+                "patient with MI"
+            ], 
+            "intervention_name": "ANN prediction of myocardial infarction", 
+            "intervention_type": "Other", 
+            "other_name": "sofware detected risk of new myocardial infraction"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Myocardial infarction", 
+            "artificial neural networks", 
+            "Electrocardiography"
+        ], 
+        "lastchanged_date": "June 4, 2013", 
+        "number_of_arms": "2", 
+        "official_title": "Prediction of Acute Myocardial Infarction With Artificial Neural Networks in Patients With Nondiagnostic Electrocardiogram", 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Iran: national institiute of health", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "April 2012", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "myocardial infarction", 
+            "safety_issue": "Yes", 
+            "time_frame": "2 weeks"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01870258"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Shiraz University of Medical Sciences", 
+            "investigator_full_name": "Javad Kojuri", 
+            "investigator_title": "professor", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": {
+            "description": "may be includes unstable angina, cardiac arrest or PCIor CABG", 
+            "measure": "hospital admission due to cardiac events", 
+            "safety_issue": "Yes", 
+            "time_frame": "2 weeks"
+        }, 
+        "source": "Shiraz University of Medical Sciences", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Shiraz University of Medical Sciences", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2011", 
+        "study_design": "Allocation: Non-Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "June 2013"
+    }
+}

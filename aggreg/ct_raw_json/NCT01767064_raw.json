@@ -1,0 +1,129 @@
+{
+    "clinical_study": {
+        "@rank": "109156", 
+        "arm_group": [
+            {
+                "arm_group_label": "Posted commitment letter", 
+                "arm_group_type": "Experimental", 
+                "description": "The poster-sized (18x24 inches) commitment letter, written at the 8th grade reading-level and displayed in English and Spanish, emphasize clinician commitment to guidelines for appropriate antibiotic prescribing and explain why antibiotics are not appropriate in many cases.  These letters, featuring clinician photographs and signatures, are displayed in clinician exam rooms for a 16-week period."
+            }, 
+            {
+                "arm_group_label": "Control", 
+                "arm_group_type": "No Intervention", 
+                "description": "Usual care with no posted letters."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Inappropriate antibiotic prescribing for acute respiratory infections (ARIs) persists\n      despite decades of intervention efforts. Negative outcomes of inappropriate antibiotics\n      include increased costs of care, adverse drug reactions, and rising prevalence of\n      antibiotic-resistant bacteria. To address this public health problem, we apply the\n      principles of commitment and consistency in an effort to influence clinician decision-making\n      through the implementation of a low-cost behavioral \"nudge\" in the form of a simple public\n      commitment device.  Clinicians were asked to post in their exam room a signed letter\n      indicating their commitments to reducing inappropriate antibiotic use for ARIs. Our\n      hypothesis is that clinicians displaying the poster-sized commitment letters will decrease\n      their inappropriate antibiotic prescribing for ARIs as compared to clinicians in the control\n      condition (with no posted letter)."
+        }, 
+        "brief_title": "Nudging Guideline-concordant Antibiotic Prescribing Using Public Commitments", 
+        "completion_date": {
+            "#text": "February 2013", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Acute Respiratory Infections (ARIs)", 
+        "condition_browse": {
+            "mesh_term": "Respiratory Tract Infections"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Medical professionals licensed to provide care and prescribe medications (including\n             antibiotics)\n\n          -  Treating adult patients (18 years of age and older) from 5 Los Angeles community\n             clinics\n\n        Exclusion Criteria:\n\n          -  none"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "14", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "January 10, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01767064", 
+            "org_study_id": "USCalifornia", 
+            "secondary_id": "RC4AG039115"
+        }, 
+        "intervention": {
+            "arm_group_label": "Posted commitment letter", 
+            "intervention_name": "Posted commitment letter", 
+            "intervention_type": "Other"
+        }, 
+        "intervention_browse": {
+            "mesh_term": [
+                "Anti-Bacterial Agents", 
+                "Antibiotics, Antitubercular"
+            ]
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": "ARIs, antibiotics, public commitment, quality improvement", 
+        "lastchanged_date": "January 10, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Los Angeles", 
+                    "country": "United States", 
+                    "state": "California", 
+                    "zip": "90027"
+                }, 
+                "name": "QueensCare Family Clinics"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Nudging Guideline-concordant Antibiotic Prescribing Using Public Commitments", 
+        "overall_official": {
+            "affiliation": "University of Southern California", 
+            "last_name": "Jason N Doctor, Ph.D.", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "May 2012", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Using data from electronic health records, we will calculate clinician antibiotic prescribing rates for antibiotic-inappropriate ARI diagnoses: acute nasopharyngitis (ICD-9 460.x), acute laryngitis without obstruction (465.8), acute laryngopharyngitis (465.0), acute bronchitis (466.x), acute upper respiratory infections of other multiple sites (465.8), acute upper respiratory infections not otherwise specified (465.9), bronchitis not specified as acute or chronic (490.x), non-streptococcal pharyngitis (462.xx), and influenza with other respiratory manifestations (487.1).  To control for temporal trends in antibiotic prescribing and provider-fixed effects, we will fit a logistic mixed effects model that predicts inappropriate antibiotic prescribing as a function of study arm and an indicator for baseline versus intervention period (a difference-in-differences regression).", 
+            "measure": "Rate of inappropriate antibiotic prescribing for patients with acute respiratory infections", 
+            "safety_issue": "No", 
+            "time_frame": "up to 12 months post intervention"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01767064"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "University of Southern California", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "National Institutes of Health (NIH)", 
+                    "agency_class": "NIH"
+                }, 
+                {
+                    "agency": "National Institute on Aging (NIA)", 
+                    "agency_class": "NIH"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "University of Southern California", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "February 2012", 
+        "study_design": "Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Health Services Research", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2013"
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "clinical_study": {
+        "@rank": "110929", 
+        "arm_group": [
+            {
+                "arm_group_label": "Non-stimulation", 
+                "arm_group_type": "Other", 
+                "description": "No auditory stimulation during dexmedetomidine infusion and recovery."
+            }, 
+            {
+                "arm_group_label": "Stimulation", 
+                "arm_group_type": "Other", 
+                "description": "Auditory stimulation during dexmedetomidine infusion and recovery."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Dexmedetomidine is an \u03b12-adrenoceptor agonist that has only recently been registered for\n      human use in Europe. It has sedative, analgesic and anxiolytic properties, but patients\n      remain arousable. This makes it an ideal drug for procedures which require the patient to\n      perform tasks, or for light sedation during procedures or in the Intensive Care Unit.\n      Pharmacokinetic models of (anaesthetic) drugs can be used in target controlled infusions\n      (TCI), to deliver stable plasma concentrations of drug during anaesthesia or sedation. There\n      are several models available for dexmedetomidine at this time, but the most often used\n      models (Dyck and Talke) underpredict the plasma concentration at higher concentrations.\n      Also, plasma concentrations aren't what the clinician is interested in, but in the effect.\n      Therefore, pharmacokinetic/pharmacodynamic (PKPD) models can be developed to titrate the\n      drug to effect instead of plasma concentration, using TCI. This has been done for many\n      anaesthetic drugs, but not for dexmedetomidine. Additionally, we want to investigate the\n      effect of stimulation on the pharmacodynamic effect of dexmedetomidine. The reason for this\n      is that patients under dexmedetomidine sedation are arousable by noises or touch. An\n      operating room or ICU is never quiet, and there are always sounds of monitors, alarms, and\n      talking between team members or activity around another patient in the same room, therefore\n      the stimulation of the patient in such an environment may have a profound effect on the\n      sedative effect of dexmedetomidine."
+        }, 
+        "brief_title": "Dexmedetomidine PKPD Modeling and the Influence of Auditory Stimulation on Dexmedetomidine Effect", 
+        "completion_date": {
+            "#text": "November 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Anesthesia", 
+            "Sedation"
+        ], 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  American Society of Anesthesiologists (ASA) Physical Status 1\n\n          -  No medical history of significance\n\n          -  No chronic use of medication, alcohol, drugs or tobacco (oral contraceptives\n             excluded)\n\n        Exclusion Criteria:\n\n          -  Contraindications for use of dexmedetomidine\n\n          -  Known intolerance to dexmedetomidine\n\n          -  Body mass index (BMI) <18 or >30 kg/m2\n\n          -  Volunteer refusal\n\n          -  Pregnancy, or currently nursing\n\n          -  Bilateral non-patent ulnar artery"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "72 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "18", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "June 13, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01879865", 
+            "org_study_id": "Dex-PKPD/01"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Non-stimulation", 
+                "description": "The volunteers will be wearing noise-cancelling headphones (silent) and will be stimulated as little as possible. The volunteer will be instructed to keep his/her eyes closed.", 
+                "intervention_name": "Non-stimulation", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": "Stimulation", 
+                "description": "The volunteers will be wearing noise-cancelling headphones, through which they will hear a continuous loop of recorded operating room noise (monitor beeps, talking), to simulate operating room conditions. The volunteer will be instructed to keep his/her eyes closed.", 
+                "intervention_name": "Stimulation", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Dexmedetomidine"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "PKPD", 
+            "Dexmedetomidine", 
+            "Auditory Stimulation", 
+            "Cardiac Output"
+        ], 
+        "lastchanged_date": "April 2, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Groningen", 
+                    "country": "Netherlands", 
+                    "zip": "9713EZ"
+                }, 
+                "name": "University Medical Center Groningen"
+            }
+        }, 
+        "location_countries": {
+            "country": "Netherlands"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Development of a Pharmacokinetic/Pharmacodynamic Model of Dexmedetomidine, and the Effect of Repeated Auditory Stimulation on Pharmacodynamics of Dexmedetomidine.", 
+        "other_outcome": {
+            "measure": "Effect of dexmedetomidine on cardiac output", 
+            "safety_issue": "Yes", 
+            "time_frame": "190 minutes infusion (maximum), 5 hours recovery (maximum)"
+        }, 
+        "overall_official": {
+            "affiliation": "University of Groningen", 
+            "last_name": "Michel MRF Struys, MD, PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Netherlands: Medical Ethics Review Committee (METC)", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "October 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Development of a pharmacokinetic/pharmacodynamic model during dexmedetomidine infusion and recovery using plasma concentrations, EEG-monitoring and sedation scales as endpoints.", 
+            "measure": "Pharmacokinetic/pharmacodynamic (PKPD) model", 
+            "safety_issue": "No", 
+            "time_frame": "190 minutes infusion (maximum); 5 hours recovery"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01879865"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University Medical Centre Groningen", 
+            "investigator_full_name": "MMRF Struys", 
+            "investigator_title": "Prof.dr.", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": {
+            "measure": "Effect of auditory stimulation on EEG-monitoring.", 
+            "safety_issue": "No", 
+            "time_frame": "190 minutes infusion (maximum); recovery 5 hours (maximum)"
+        }, 
+        "source": "University Medical Centre Groningen", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University Medical Centre Groningen", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "June 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Pharmacokinetics/Dynamics Study, Intervention Model: Crossover Assignment, Masking: Open Label, Primary Purpose: Basic Science", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2014"
+    }
+}

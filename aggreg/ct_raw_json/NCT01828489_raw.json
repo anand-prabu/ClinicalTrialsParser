@@ -1,0 +1,667 @@
+{
+    "clinical_study": {
+        "@rank": "151297", 
+        "acronym": "AML2012", 
+        "arm_group": [
+            {
+                "arm_group_label": "Standard arm MEC and ADxE", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Standard protocol arm with mitoxantrone in first course (MEC) and standard ADxE treatment in course two"
+            }, 
+            {
+                "arm_group_label": "Experimental DxEC and standard ADxE", 
+                "arm_group_type": "Experimental", 
+                "description": "Experimental arm with DaunoXome in course one (DxEC) and standard ADxE treatment in course two"
+            }, 
+            {
+                "arm_group_label": "Standard arm MEC and experimental FLADx", 
+                "arm_group_type": "Experimental", 
+                "description": "Experimental arm with standard MEC in the first course (MEC) and experimental treatment with FLADx in course two"
+            }, 
+            {
+                "arm_group_label": "Experimental DxEC and experimental FLADx", 
+                "arm_group_type": "Experimental", 
+                "description": "Experimental treatment with DaunoXome in course one (DxEC) and experimental treatment with FLADx in course two"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This study evaluates the effect of different induction courses in children and adolescents\n      with newly diagnosed acute myeloid leukemia. In the first course patients are randomised to\n      receive either standard anthracycline therapy with mitoxantrone or experimental DaunoXome.\n      In the second course patients are randomised between standard treatment with ADxE\n      (cytarabine, DaunoXome, etoposide) or experimental therapy with FLADx (fludarabine,\n      cytarabine, DaunoXome)."
+        }, 
+        "brief_title": "Research Study for Treatment of Children and Adolescents With Acute Myeloid Leukaemia 0-18 Years", 
+        "completion_date": {
+            "#text": "March 2023", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Pediatric Acute Myeloblastic Leukemia", 
+        "condition_browse": {
+            "mesh_term": [
+                "Leukemia", 
+                "Leukemia, Myeloid, Acute", 
+                "Leukemia, Myeloid"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. AML as defined by the WHO diagnostic criteria\n\n          2. Age < 19 years at time of diagnosis\n\n          3. Written informed consent\n\n        Exclusion Criteria:\n\n          1. Previous chemotherapy or radiotherapy. This includes patient with secondary AML after\n             previous cancer therapy\n\n          2. AML secondary to previous bone marrow failure syndrome.\n\n          3. Down syndrome (DS)\n\n          4. Acute promyelocytic leukaemia (APL)\n\n          5. Myelodysplastic syndrome (MDS)\n\n          6. Juvenile Myelomonocytic Leukaemia (JMML)\n\n          7. Known intolerance to any of the chemotherapeutic drugs in the protocol.\n\n          8. Fanconi anaemia\n\n          9. Major organ failure precluding administration of planned chemotherapy.\n\n         10. Positive pregnancy test\n\n         11. Lactating female or female of childbearing potential not using adequate contraception"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "18 Years", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "300", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "April 6, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01828489", 
+            "org_study_id": "NOPHO-DBH-AML2012", 
+            "secondary_id": "2012-002934-35"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Standard arm MEC and ADxE", 
+                    "Experimental DxEC and standard ADxE", 
+                    "Experimental DxEC and experimental FLADx"
+                ], 
+                "description": "In course one with cytarabine and etoposide either mitoxantrone (standard) or DaunoXome (experimental) is given as anthracycline.", 
+                "intervention_name": "Randomisation course 1 mitoxantrone versus DaunoXome", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "Standard arm MEC and ADxE", 
+                    "Standard arm MEC and experimental FLADx", 
+                    "Experimental DxEC and experimental FLADx"
+                ], 
+                "description": "The second course is randomised to either ADxE (standard arm) or FLADx", 
+                "intervention_name": "Randomisation course 2 ADxE versus FLADx", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Daunorubicin", 
+                "Mitoxantrone"
+            ]
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "January 23, 2014", 
+        "location": [
+            {
+                "contact": {
+                    "email": "barbara.demoerloose@uzgent.be", 
+                    "last_name": "Barbara de Moerloose, MD, PhD"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Ghent", 
+                        "country": "Belgium", 
+                        "zip": "9000"
+                    }, 
+                    "name": "Ghent University Hospital, Children\u00b4s Hospital, Princess Elisabeth, Department of Pediatric Hematology-Oncology"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "hasle@dadlnet.dk", 
+                    "last_name": "Henrik Hasle, MD, PhD"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Aarhus", 
+                        "country": "Denmark", 
+                        "zip": "8200"
+                    }, 
+                    "name": "Department of Pediatrics, Aarhus University Hospital Skejby"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "birgitte.lausen@rh.regionh.dk", 
+                    "last_name": "Birgitte Lausen, MD, PhD"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Copenhagen", 
+                        "country": "Denmark"
+                    }, 
+                    "name": "Dept of Pediatrics and Adolescent Medicine, Rigshospitalet, University of Copenhagen"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "kadri.saks@lastehaigla.ee", 
+                    "last_name": "Kadri Saks, MD, PhD"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Tallinn", 
+                        "country": "Estonia", 
+                        "zip": "13419"
+                    }, 
+                    "name": "Tallinn Children's Hospital, Dep. Hematology oncology"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "kirsi.jahnukainen@ki.se", 
+                    "last_name": "Kirsi Jahnukainen, MD, PhD"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Helsinki", 
+                        "country": "Finland", 
+                        "zip": "00029"
+                    }, 
+                    "name": "Division of Hematology-Oncology and Stem Cell Transplantation, Children's Hospital, Helsinki University Central Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "pekka.riikonen@kuh.fi", 
+                    "last_name": "Pekka Riikonen", 
+                    "phone": "+358 447172392"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Kuopio", 
+                        "country": "Finland", 
+                        "zip": "70211"
+                    }, 
+                    "name": "Department of Pediatrics, Kuopio University Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Pekka Riikonen", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "merja.mottonen@ppshp.fi", 
+                    "last_name": "Merja M\u00f6tt\u00f6nen", 
+                    "phone": "+358 83155251"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Oulu", 
+                        "country": "Finland", 
+                        "zip": "90029"
+                    }, 
+                    "name": "Department of Pediatrics, Oulu University Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Merja M\u00f6tt\u00f6nen", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "mikko.arola@pshp.fi", 
+                    "last_name": "Mikko Arola", 
+                    "phone": "+358 3 31164386"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Tampere", 
+                        "country": "Finland", 
+                        "zip": "33521"
+                    }, 
+                    "name": "Department of Pediatrics, Tampere University Central Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Mikko Arola", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "minna.koskenvuo@utu.fi", 
+                    "last_name": "Minna Koskenvuo, MD, PhD", 
+                    "phone": "+358 50 3624430"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Turku", 
+                        "country": "Finland", 
+                        "zip": "20520"
+                    }, 
+                    "name": "Department of Pediatrics, Turku University Central Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Minna Koskenvuo", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "syha@hku.hk", 
+                    "last_name": "Shau-Yin Ha, MD, PhD"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Hong Kong", 
+                        "country": "Hong Kong"
+                    }, 
+                    "name": "Dept of Paediatrics & Adolescent Medicine, Queen Mary Hospital, The University of Hong Kong"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "olafurgi@landspitali.is", 
+                    "last_name": "Olafur Jonsson, MD, PhD"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Reykjavik", 
+                        "country": "Iceland"
+                    }, 
+                    "name": "Children\u00b4s Hospital, Landspitali University Hospital"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "GJL.Kaspers@vumc.nl", 
+                    "last_name": "Gertjan Kaspers, MD, PhD"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Amsterdam", 
+                        "country": "Netherlands", 
+                        "zip": "1007"
+                    }, 
+                    "name": "VU University Medical Center Department of Pediatric Oncology/Hematology"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "h.n.caron@amc.uva.nl", 
+                    "last_name": "Huib Caron, MD, PhD"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Amsterdam", 
+                        "country": "Netherlands", 
+                        "zip": "1100 DD"
+                    }, 
+                    "name": "Emma Children's Hospital/ Amsterdam Medical Center Department of Pediatric Oncology"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "e.de.bont@bkk.umcg.nl", 
+                    "last_name": "Eveline de Bont, MD, PhD"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Groningen", 
+                        "country": "Netherlands", 
+                        "zip": "9700 RB"
+                    }, 
+                    "name": "Department of Pediatric Oncology/Hematology Beatrix childrens hospital / University Medical Center Groningen"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "m.teloo@cukz.umcn.nl", 
+                    "last_name": "Dunja te Loo, MD, PhD"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Nijmegen", 
+                        "country": "Netherlands", 
+                        "zip": "6500 HB"
+                    }, 
+                    "name": "University Medical Center Nijmegen Department of Pediatric Oncology/Hematolog"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "m.vandenheuvel@erasmusmc.nl", 
+                    "last_name": "Marry van den Heuvel-Eibrink, MD, PhD"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Rotterdam", 
+                        "country": "Netherlands", 
+                        "zip": "3000 CB"
+                    }, 
+                    "name": "Erasmus MC - Sophia Childrens Hospital University Medical Center Rotterdam"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "dorota.malgorzata.wojcik@helse-bergen.no", 
+                    "last_name": "Dorota , Wojcik", 
+                    "phone": "+47 55 97 50 00"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Bergen", 
+                        "country": "Norway", 
+                        "zip": "5021"
+                    }, 
+                    "name": "Department of Pediatrics, Haukeland University Hospital, Bergen"
+                }, 
+                "investigator": {
+                    "last_name": "Dorota Wojcik", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "bernward.zeller@ous-hf.no", 
+                    "last_name": "Bernward Zeller, MD, PhD"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Oslo", 
+                        "country": "Norway", 
+                        "zip": "N-0424"
+                    }, 
+                    "name": "Pediatric Dept, Women and Children's Division, Oslo University Hospital Rikshospitalet"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "Trond.Flaegstad@unn.no", 
+                    "last_name": "Trond Flaegstad", 
+                    "phone": "+47 91507766"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Tromsoe", 
+                        "country": "Norway", 
+                        "zip": "N-9038"
+                    }, 
+                    "name": "Department of Pediatrics, University Hospital of North Norway, Tromsoe"
+                }, 
+                "investigator": {
+                    "last_name": "Trond Flaegstad", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "svein.kolmannskog@ntnu.no", 
+                    "last_name": "Svein Kolmannskog", 
+                    "phone": "+47 815 55 850"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Trondheim", 
+                        "country": "Norway", 
+                        "zip": "N-7006"
+                    }, 
+                    "name": "Department of Cancer and Haemathology, St Olavs Hospital, Trondheim University Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Svein Kolmannskog", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "jonas.abrahamsson@vgregion.se", 
+                    "last_name": "Jonas Abrahamsson, MD, PhD"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Gothenburg", 
+                        "country": "Sweden", 
+                        "zip": "41685"
+                    }, 
+                    "name": "Queen Silvias Childrens and Adolescents Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Jonas Abrahamsson", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Mikael Behrendtz, MD, PhD"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Link\u00f6ping", 
+                        "country": "Sweden", 
+                        "zip": "58185"
+                    }, 
+                    "name": "Dept of Pediatrics, Link\u00f6pings University Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Mikael Behrendtz", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "kees-jan.pronk@med.lu.se", 
+                    "last_name": "Cornelis Pronk, MD, PhD"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Lund", 
+                        "country": "Sweden", 
+                        "zip": "22241"
+                    }, 
+                    "name": "Dept of Pediatrics, Sk\u00e5ne University Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "karin.belander-stralin@karolinska.se", 
+                    "last_name": "Karin Belander-Str\u00e5lin, MD"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Stockholm", 
+                        "country": "Sweden", 
+                        "zip": "17176"
+                    }, 
+                    "name": "Astrid Lindgrens Barnsjukhus, Karolinska University Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "Ulrika.norennystrom@pediatri.umu.se", 
+                    "last_name": "Ulrika Nor\u00e9n-Nystr\u00f6m, MD, PhD"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Ume\u00e5", 
+                        "country": "Sweden", 
+                        "zip": "90185"
+                    }, 
+                    "name": "Dept of Pediatrics, Norrlands University Hospital"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "josefine.palle@akademiska.se", 
+                    "last_name": "Josefine Palle, MD, PhD"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Uppsala", 
+                        "country": "Sweden", 
+                        "zip": "751 85"
+                    }, 
+                    "name": "Dept of Pediatrics, Akademiska barnsjukhuset"
+                }, 
+                "status": "Recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "Belgium", 
+                "Denmark", 
+                "Estonia", 
+                "Finland", 
+                "Hong Kong", 
+                "Iceland", 
+                "Netherlands", 
+                "Norway", 
+                "Sweden"
+            ]
+        }, 
+        "number_of_arms": "4", 
+        "official_title": "NOPHO-DBH AML 2012 Protocol. Research Study for Treatment of Children and Adolescents With Acute Myeloid Leukaemia 0-18 Years", 
+        "overall_contact": {
+            "email": "jonas.abrahamsson@vgregion.se", 
+            "last_name": "Jonas Abrahamsson, MD, PhD", 
+            "phone": "+46 707695159"
+        }, 
+        "overall_contact_backup": {
+            "email": "anna.schroder-hakansson@vgregion.se", 
+            "last_name": "Anna Schr\u00f6der-H\u00e5kansson"
+        }, 
+        "overall_official": [
+            {
+                "affiliation": "Children's Cancer Centre, Queen Silvias Childrens and Adolescents Hospital 416 85 Gothenburg, Sweden", 
+                "last_name": "Jonas Abrahamsson, MD, PhD", 
+                "role": "Study Chair"
+            }, 
+            {
+                "affiliation": "Ghent University Hospital, Children\u00b4s Hospital, Princess Elisabeth, Department of Pediatric Hematology-Oncology, 3K12D, De Pintelaan 185 - 9000 Gent, Belgium", 
+                "last_name": "Barbara de Moerloose, MD, PhD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Dept of Paediatrics & Adolescent Medicine, Queen Mary Hospital, The University of Hong Kong, Pokfulam, Hong Kong", 
+                "last_name": "Ha Shau-Yin, MD, PhD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Department of Pediatrics,  Aarhus University Hospital Skejby  8200 Aarhus N, Denmark", 
+                "last_name": "Henrik Hasle, MD, PhD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Division of Hematology-Oncology and Stem Cell Transplantation, Children's Hospital, Helsinki University Central Hospital, PL 281, 00029 Helsinki, Finland", 
+                "last_name": "Kirsi Jahnukainen, MD, PhD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Children\u00b4s Hospital, Landspitali University Hospital, Hringbraut, 101 Reykjavik, Iceland", 
+                "last_name": "Olafur G Jonsson, MD, PhD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Department of Pediatrics, VU University Medical Center Amsterdam De Boelelaan 1117, NL-1081 HV Amsterdam, The Netherlands", 
+                "last_name": "Gertjan Kaspers, MD, PhD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Dept of Pediatrics and Adolescent Medicine, Rigshospitalet, University of Copenhagen, Denmark", 
+                "last_name": "Birgitte Lausen, MD, PhD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Dept of Woman\u00b4s and Children\u00b4s Health, Uppsala University, Uppsala, Sweden", 
+                "last_name": "Josefine Palle, MD, PhD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Tallinn Children's Hospital, Dep. Hematology oncology, Tervise 28, Tallinn 13419, Estonia.", 
+                "last_name": "Kadri Saks, MD, PhD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Pediatric Dept, Women and Children's Division, Oslo University Hospital Rikshospitalet, Mailbox 4950 Nydalen, N-0424 Oslo, Norway", 
+                "last_name": "Bernward Zeller, MD, PhD", 
+                "role": "Principal Investigator"
+            }
+        ], 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "Sweden: Medical Products Agency", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "March 2018", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "MRD will be measured by flow cytometry. In the randomisation for course 1 the endpoint is at day 22. In the randomisation for course 2 the endpoint is immediately before start of consolidation", 
+            "measure": "Minimal residual disease", 
+            "safety_issue": "No", 
+            "time_frame": "On day 22 after the first induction and after second induction"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01828489"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Event-free survival at five years", 
+                "measure": "Event-free survival", 
+                "safety_issue": "Yes", 
+                "time_frame": "5 years"
+            }, 
+            {
+                "description": "Hematological and other organ toxicity after each course", 
+                "measure": "Acute toxicity", 
+                "safety_issue": "Yes", 
+                "time_frame": "six months"
+            }, 
+            {
+                "description": "Long-term toxicity in particular cardiac toxicity", 
+                "measure": "Long-term toxicity", 
+                "safety_issue": "Yes", 
+                "time_frame": "10 years"
+            }, 
+            {
+                "description": "Overall survival at five years", 
+                "measure": "Overall survival", 
+                "safety_issue": "Yes", 
+                "time_frame": "Five years"
+            }
+        ], 
+        "source": "Vastra Gotaland Region", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Vastra Gotaland Region", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "March 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Factorial Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2013"
+    }
+}

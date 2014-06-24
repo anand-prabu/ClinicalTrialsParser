@@ -1,0 +1,146 @@
+{
+    "clinical_study": {
+        "@rank": "146408", 
+        "arm_group": [
+            {
+                "arm_group_label": "General Hospital Patients", 
+                "description": "Those patients undergoing appendicectomy in a general (non-specialised) surgical centre."
+            }, 
+            {
+                "arm_group_label": "Paediatric Hospital Patients", 
+                "description": "Those patients undergoing appendicectomy in specialised paediatric centres."
+            }
+        ], 
+        "biospec_descr": {
+            "textblock": "Please note that the investigators are not yet in receipt of the database required for this\n      study.  Although the study period has ended, we are not able at present to state how many\n      patient episodes this database has captured."
+        }, 
+        "biospec_retention": "None Retained", 
+        "brief_summary": {
+            "textblock": "Introduction\n\n      Appendicectomy (or appendectomy in US usage) is the single most commonly performed emergency\n      surgical operation performed on British children.  Previous investigation of outcomes\n      following appendicectomy has suggested that specialist surgeons and high volume centres have\n      fewer \"negative\" appendicectomies (i.e. the appendix found to be non-diseased), although\n      there has not been consistent association found between hospital type or surgeon experience\n      and complication rate or admission rate.\n\n      Scotland has 3 dedicated children's surgery centres but straightforward children's surgery\n      such as appendicectomy is also carried out in the country's general surgical centres.\n      Appendicectomy outcome variations have not been explored in the Scottish National Health\n      Service (NHS).\n\n      Aim\n\n      This study will compare appendicectomy outcomes in children between Scotland's specialist\n      paediatric centres and general surgical centres.\n\n      Methods\n\n      This is a retrospective study of all appendicectomies performed in Scotland during the\n      period from 1st January 2001 - 31st December 2010, on children aged 2 - 12 years old.  It\n      will use routinely collected administrative data from the Information Services Division of\n      NHS National Services Scotland.\n\n      The study will compare risk-adjusted 30 day/in-patient mortality, 30 day re-admission rate,\n      30 day re-operation rate, post-operative length of stay and negative appendicectomy rates."
+        }, 
+        "brief_title": "A Comparison of Appendicectomy Outcomes in Children Between Paediatric and General Surgical Centres in Scotland", 
+        "completion_date": {
+            "#text": "August 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": "Appendicitis", 
+        "condition_browse": {
+            "mesh_term": "Appendicitis"
+        }, 
+        "detailed_description": {
+            "textblock": "The aim of this study is to compare Scottish appendicectomy outcomes in children between\n      specialised paediatric centres versus non-specialised centres.\n\n      This is a retrospective study of all appendicectomies performed in Scotland during the\n      period from 1st January 2001 - 31st December 2010, on children aged 2 - 12 years old or\n      younger.  It will use routinely collected administrative data from the Information Services\n      Division (ISD) of NHS National Services Scotland.\n\n      The registry which will supply the data for this study is the Scottish Morbidity Record 01\n      (SMR01), the full title of which is the \"General / Acute Inpatient and Day Case dataset\"\n      (see http://www.adls.ac.uk/nhs-scotland/general-acute-inpatient-day-case-smr01/?detail).\n      SMR01 is collated and administered by ISD, and data submission is mandatory for all Scottish\n      NHS providers of in-patient or day-case care.  Approximately 1.4 million records are added\n      each year.  Diagnoses are coded according to International Classification of Disease\n      (ICD)-10 standards and procedures are coded according to the United Kingdom's Office of\n      Population Census Statistics (OPCS) standards, of which the most current is version 4.5.\n\n      The data quality in SMR01 is high and is assured by regular internal audits.  In the 2010\n      audit of accuracy, Main Condition was recorded with an accuracy of 88% and Main Procedure\n      was recorded with an accuracy of 94%.  Where data inconsistencies are identified in the\n      extract supplied for this study, further clarification will be obtained where possible with\n      ISD's data retrieval support team.\n\n      The study period was decided on pragmatically by a desire to provide an assessment of\n      current practice, fully within the era of widely practised laparoscopic surgery.  A power\n      calculation also suggested that this would provide an adequate sample size to demonstrate\n      differences.\n\n      Our power calculation- specific to length of stay- was based on Faiz O, Clark J, Brown T,\n      Bottle A, Antoniou A, Farrands P, et al. Traditional and Laparoscopic Appendectomy in\n      Adults. Ann Surg. 2008 Nov;248(5):800-6. In their cohort of 259,735 appendicectomies\n      performed from 1996-2006, the geometric mean length of stay was 3.52, with SD 1.8. We\n      decided that a difference of 0.5 days would be 'clinically significant'.  We specified alpha\n      0.05 and Power 0.9, and an allocation ratio of 1:1.   A two-sided t-test of difference\n      between two independent means was performed in G*Power 3.1.7.  This demonstrated that a\n      total N of 548 was required to demonstrate this difference.\n\n      In the last epidemiological study of appendicitis in Scotland (Bisset AF. Appendicectomy in\n      Scotland: a 20-year epidemiological comparison. J Public Health. 1997 Jun 1;19(2):213-8),\n      1522 appendicectomies in 1993 were performed in children aged 0-15 years old.  This suggests\n      that a 10 year cohort should be more than adequate to detect a clinically significant\n      difference in length of stay.\n\n      Data completeness is very high in SMR01.  However, where significant volumes of data are\n      missing or unusable, the need for data imputation will be explored.\n\n      The study will compare risk-adjusted 30 day/in-patient mortality, 30 day re-admission rate,\n      30 day re-operation rate, post-operative length of stay and negative appendicectomy rates\n      between Scotland's specialist paediatric centres and general surgical centres.\n\n      Potentially significant confounding variables such as age, gender, and co-morbidity will be\n      studied for their predictive value in a univariate model and included in a multivariate\n      model if they remain significant."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  All patients aged 2 - 12 years old who within the 10 year period of January 2001 -\n             December 2010 are entered on the SMR01 database as having a code for appendicectomy.\n\n          -  Episodes will be extracted with the following codes:\n\n        OPCS (Office of Population Censuses and Surveys), revision 4.5\n\n        H01 Emergency excision of appendix\n\n        Exclusion Criteria:\n\n          -  We will exclude patients for whom incidental appendicectomy has occurred at the same\n             time as another major abdominal surgical procedure.\n\n          -  We will exclude patients who are non-resident in Scotland since we will be unable to\n             derive depravity index and urban-rural classification, and may not have access to\n             information on co-morbidities and mortality."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "12 Years", 
+            "minimum_age": "2 Years", 
+            "sampling_method": "Probability Sample", 
+            "study_pop": {
+                "textblock": "All children resident in Scotland, who undergo appendicectomy during the study period\n        specified."
+            }
+        }, 
+        "enrollment": {
+            "#text": "4000", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "December 16, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02047786", 
+            "org_study_id": "XRB13069-PGA"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Outcome Assessment (Health Care)", 
+            "Appendectomy", 
+            "Child", 
+            "Hospitals, Pediatric", 
+            "Hospitals, General"
+        ], 
+        "lastchanged_date": "January 24, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "All Scottish surgical facilities", 
+                    "country": "United Kingdom"
+                }, 
+                "name": "All Scottish NHS Hospitals"
+            }
+        }, 
+        "location_countries": {
+            "country": "United Kingdom"
+        }, 
+        "number_of_groups": "2", 
+        "official_title": "A Comparison of Appendicectomy Outcomes in Children Between Paediatric and General Surgical Centres in Scotland", 
+        "overall_official": {
+            "affiliation": "University of Edinburgh", 
+            "last_name": "Ewen M Harrison, FRCS, PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United Kingdom: National Health Service", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "December 2010", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "(Whole) days from date of laparotomy to date of discharge.\nThis is a retrospective study using a complete national data set, with the first admission 12.5 years distant from the time of data collection, and the last admission 2.5 years prior to the time of data collection.", 
+                "measure": "Post-operative length of stay", 
+                "safety_issue": "No", 
+                "time_frame": "From date of appendicectomy to date of discharge (whole days) - up to 12.5 years"
+            }, 
+            {
+                "description": "The occurrence of an abdominal procedure either subsequent to appendicectomy and within the index admission, or \u226430 days of discharge.\nAs stated in the previous outcome measure, this is a retrospective study using a complete national data set, with the first admission 12.5 years distant from the time of data collection, and the last admission 2.5 years prior to the time of data collection.  So the theoretical maximum time in which this outcome is measured is 12.5 years.", 
+                "measure": "Re-operation", 
+                "safety_issue": "No", 
+                "time_frame": "Within the index admission (censored beyond a maximum of 12.5 years) or within 30 days of discharge"
+            }, 
+            {
+                "description": "Re-admission to any hospital specialty \u226430 days have elapsed since date of discharge.", 
+                "measure": "Re-admission", 
+                "safety_issue": "No", 
+                "time_frame": "Within 30 days of index discharge"
+            }, 
+            {
+                "description": "Death as an in-patient or \u226430 days of procedure.  As above, this is a retrospective study using a complete national data set, with the first admission 12.5 years distant from the time of data collection, and the last admission 2.5 years prior to the time of data collection.\nDeaths will be recognised from SMR01 which is linked to the Registrar General's database of deaths.", 
+                "measure": "Mortality", 
+                "safety_issue": "No", 
+                "time_frame": "Either within 30 days of procedure, or during continuous in-patient stay (up to 12.5 years)"
+            }, 
+            {
+                "description": "The rate of appendicectomies performed in which the appendix is found to be normal.  This will be detected by the use of ICD-10 codes.", 
+                "measure": "Negative appendicectomy rate", 
+                "safety_issue": "No", 
+                "time_frame": "At time of index procedure"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02047786"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "University of Edinburgh", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of Edinburgh", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2001", 
+        "study_design": "Observational Model: Ecologic or Community, Time Perspective: Retrospective", 
+        "study_type": "Observational", 
+        "verification_date": "January 2014"
+    }
+}

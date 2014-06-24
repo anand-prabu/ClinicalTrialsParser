@@ -1,0 +1,165 @@
+{
+    "clinical_study": {
+        "@rank": "9764", 
+        "acronym": "FEE", 
+        "brief_summary": {
+            "textblock": "Visualize surgical needles inserted in the prostate, under the ultrasound modality."
+        }, 
+        "brief_title": "Merging of Endoscopic and Ultrasound Images for Laparoscopic Surgery", 
+        "completion_date": {
+            "#text": "September 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Prostate Cancer", 
+        "condition_browse": {
+            "mesh_term": "Prostatic Neoplasms"
+        }, 
+        "detailed_description": {
+            "textblock": "In order to help the surgeon to remove the prostate during a laparoscopic intervention, our\n      goal is to provide an innovative medical device that merges intra-operative ultrasound and\n      endoscopic images.\n\n      We have already achieved the proof of concept of a device that merges ultrasound and\n      endoscopic images. The objectives of this clinical trial are to accompany the maturation of\n      the fusion device and to make the initial assessments of its Medical Service.\n\n      The main difficulty is to visualize markers (surgical needles) under both modalities , in\n      order to merge them."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  of-age patient\n\n          -  patient for whom a radical prostatectomy is planned\n\n          -  patient with a prostate volume between 30g and 100g\n\n          -  patient affiliated to the social security or equivalent\n\n          -  Written informed consent\n\n        Exclusion Criteria:\n\n          -  contraindication\n\n          -  patient who has undergone a significant prostate resection\n\n          -  patient who has undergone a prostate irradiation\n\n          -  patient concerned by the L1121-6 \u00e0 8 of the health public code"
+            }, 
+            "gender": "Male", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "90 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "15", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "October 5, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01705405", 
+            "org_study_id": "DCIC 12 06"
+        }, 
+        "intervention": {
+            "description": "Use of a medical device to acquire ultrasound and endoscopic images", 
+            "intervention_name": "Software for acquiring ultrasound and endoscopic images", 
+            "intervention_type": "Device"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "cancer", 
+            "prostate"
+        ], 
+        "lastchanged_date": "April 10, 2014", 
+        "link": {
+            "description": "Related Info", 
+            "url": "http://www.cic-it-grenoble.fr/"
+        }, 
+        "location": {
+            "contact": {
+                "email": "margaux.janier@imag.fr", 
+                "last_name": "Jean-Alexandre Long, MD"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Grenoble", 
+                    "country": "France", 
+                    "state": "Is\u00e8re", 
+                    "zip": "38000"
+                }, 
+                "name": "Urology, University hospital of Grenoble"
+            }, 
+            "investigator": [
+                {
+                    "last_name": "Jean-Jacques Rambeaud, MD, PhD", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Jean-Luc Descottes, MD, PhD", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Alexis Arvin-Berod, MD", 
+                    "role": "Sub-Investigator"
+                }
+            ], 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "France"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Merging of Endoscopic and Ultrasound Images for Laparoscopic Surgery", 
+        "overall_contact": {
+            "email": "margaux.janier@imag.fr", 
+            "last_name": "Jean-Alexandre Long, MD"
+        }, 
+        "overall_official": {
+            "affiliation": "University Hospital, Grenoble", 
+            "last_name": "Jean-Alexandre Long, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "France: Agence Nationale de S\u00e9curit\u00e9 du M\u00e9dicament et des produits de sant\u00e9", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "February 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "Percent of surgical needles visible under the ultrasound modality (once inserted in the prostate)", 
+            "safety_issue": "No", 
+            "time_frame": "1year"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01705405"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University Hospital, Grenoble", 
+            "investigator_full_name": "AdministrateurCIC", 
+            "investigator_title": "principal investigator", 
+            "responsible_party_type": "Sponsor-Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Percent of data(ultrasound and endoscopic) on which the merging works", 
+                "safety_issue": "No", 
+                "time_frame": "1year"
+            }, 
+            {
+                "description": "the merging is accurate if its error is under 5mm", 
+                "measure": "Percent of accurate merging", 
+                "safety_issue": "No", 
+                "time_frame": "1year"
+            }, 
+            {
+                "description": "The segmentation in the endoscopic image is mistaken if it differs of more than 5mm\u00b2 from the segmentation in the ultrasound volume", 
+                "measure": "Percent of mistaken segmentation of the vesical neck in the endoscopic image", 
+                "safety_issue": "No", 
+                "time_frame": "1year"
+            }
+        ], 
+        "source": "University Hospital, Grenoble", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "TIMC-IMAG", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Clinical Investigation Centre for Innovative Technology Network", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "AdministrateurCIC", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "October 2012", 
+        "study_design": "Intervention Model: Single Group Assignment, Masking: Open Label", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2014"
+    }
+}

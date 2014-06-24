@@ -1,0 +1,664 @@
+{
+    "clinical_study": {
+        "@rank": "33298", 
+        "arm_group": [
+            {
+                "arm_group_label": "Active Fixed Alpha Frequency Magnetic Stimulation", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Sinusoidal magnetic field set to the subject's intrinsic alpha frequency (IAF)."
+            }, 
+            {
+                "arm_group_label": "Active Random Frequency Magnetic Stimulation", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Magnetic field hops to random frequencies in the alpha band (8-13Hz), once per second."
+            }, 
+            {
+                "arm_group_label": "Inactive Sham Treatment", 
+                "arm_group_type": "Sham Comparator", 
+                "description": "Generate sound similar to active treatment, except that no magnetic field is generated."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This feasibility study investigates effects of EEG-based low frequency, low emission\n      magnetic cortical stimulation in comparison to a sham treatment in subjects with moderate to\n      severe depressive disorder."
+        }, 
+        "brief_title": "Feasibility Study to Test Clinical Efficacy of Low Energy AC Magnetic Field to Treat Major Depression", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "Sinusoidal magnetic field set to the subject's intrinsic alpha frequency (IAF).\nNeoSync EEG Synchronization Therapy : Generate low-energy sinusoidal magnetic field above the scalp with frequency equal to the subject's intrinsic alpha frequency (IAF).  Treatment is 30 minutes, administered 5 days per week for 4 weeks.", 
+                            "title": "Active Fixed Alpha Frequency Magnetic Stimulation"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "Magnetic field hops to random frequencies in the alpha band (8-13Hz), once per second.\nNeoSync EEG Synchronization Therapy : Generate low-energy sinusoidal magnetic field above the scalp with frequency equal to the subject's intrinsic alpha frequency (IAF).  Treatment is 30 minutes, administered 5 days per week for 4 weeks.", 
+                            "title": "Active Random Frequency Magnetic Stimulation"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Generate sound similar to active treatment, except that no magnetic field is generated.\nSham NeoSync EEG Synchronization Therapy : A device that looks and sounds similar to the active treatment, but no magnetic field is generated.", 
+                            "title": "Inactive Sham Treatment"
+                        }, 
+                        {
+                            "@group_id": "B4", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "18"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "15"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "19"
+                                            }, 
+                                            {
+                                                "@group_id": "B4", 
+                                                "@value": "52"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "1"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "1"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "17"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "14"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "19"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "50"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "1"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "1"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@spread": "15.1", 
+                                                "@value": "44.2"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@spread": "15.9", 
+                                                "@value": "40.7"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@spread": "12.7", 
+                                                "@value": "46.3"
+                                            }, 
+                                            {
+                                                "@group_id": "B4", 
+                                                "@spread": "14.2", 
+                                                "@value": "43.5"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "9"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "9"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "9"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "27"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "9"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "6"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "10"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "25"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "5"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "5"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "5"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "15"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "United States"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "13"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "10"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "14"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "37"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "China"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "description": "Outcome measured using the Hamilton Depression Rating Scale (HAMD-17) and calculated as percent change in severity score from baseline until the end of the 4th week of treatment.\nThe HAMD-17 scale ranges between 0-54, with higher numbers indicating more severe symptoms.  0-7 is generally accepted to be within the normal range (or in clinical remission), while a score of 20 or higher indicates moderate to severe depression.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Sinusoidal magnetic field set to the subject's intrinsic alpha frequency (IAF).\nNeoSync EEG Synchronization Therapy : Generate low-energy sinusoidal magnetic field above the scalp with frequency equal to the subject's intrinsic alpha frequency (IAF).  Treatment is 30 minutes, administered 5 days per week for 4 weeks.", 
+                                    "title": "Active Fixed Alpha Frequency Magnetic Stimulation"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Magnetic field hops to random frequencies in the alpha band (8-13Hz), once per second.\nNeoSync EEG Synchronization Therapy : Generate low-energy sinusoidal magnetic field above the scalp with frequency equal to the subject's intrinsic alpha frequency (IAF).  Treatment is 30 minutes, administered 5 days per week for 4 weeks.", 
+                                    "title": "Active Random Frequency Magnetic Stimulation"
+                                }, 
+                                {
+                                    "@group_id": "O3", 
+                                    "description": "Generate sound similar to active treatment, except that no magnetic field is generated.\nSham NeoSync EEG Synchronization Therapy : A device that looks and sounds similar to the active treatment, but no magnetic field is generated.", 
+                                    "title": "Inactive Sham Treatment"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "16"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "14"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@value": "15"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "27.8", 
+                                                        "@value": "-53.8"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "26.9", 
+                                                        "@value": "-53.1"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@spread": "24.2", 
+                                                        "@value": "-24.2"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Outcome measured using the Hamilton Depression Rating Scale (HAMD-17) and calculated as percent change in severity score from baseline until the end of the 4th week of treatment.\nThe HAMD-17 scale ranges between 0-54, with higher numbers indicating more severe symptoms.  0-7 is generally accepted to be within the normal range (or in clinical remission), while a score of 20 or higher indicates moderate to severe depression.", 
+                                    "dispersion": "Standard Error", 
+                                    "param": "Mean", 
+                                    "title": "Percent Change in Hamilton Depression Rating Scale (HAMD-17) at Baseline and the End of Week 4 of Treatment.", 
+                                    "units": "% change in HAM-D score"
+                                }
+                            ]
+                        }, 
+                        "population": "52 subjects were randomized into the study.  Of those, 7 dropped in the first week due to difficulties driving to the study site.  An intent-to-treat analysis was performed on the remaining 45 subjects.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Assessed at baseline and the end of Week 4 of treatment.", 
+                        "title": "Percent Change in Hamilton Depression Rating Scale (HAMD-17) at Baseline and the End of Week 4 of Treatment.", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "Describe the safety profile of the administration of low-emission sinusoidal magnetic fields above the subject's scalp.  Safety criteria include adverse events, serious adverse events, and vital signs.", 
+                        "safety_issue": "Yes", 
+                        "time_frame": "Outcome assessed at the end of the 4th week of treatment.", 
+                        "title": "Safety Profile of the Treatment", 
+                        "type": "Secondary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "Sinusoidal magnetic field set to the subject's intrinsic alpha frequency (IAF).\nNeoSync EEG Synchronization Therapy : Generate low-energy sinusoidal magnetic field above the scalp with frequency equal to the subject's intrinsic alpha frequency (IAF).  Treatment is 30 minutes, administered 5 days per week for 4 weeks.", 
+                            "title": "Active Fixed Alpha Frequency Magnetic Stimulation"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "Magnetic field hops to random frequencies in the alpha band (8-13Hz), once per second.\nNeoSync EEG Synchronization Therapy : Generate low-energy sinusoidal magnetic field above the scalp with frequency equal to the subject's intrinsic alpha frequency (IAF).  Treatment is 30 minutes, administered 5 days per week for 4 weeks.", 
+                            "title": "Active Random Frequency Magnetic Stimulation"
+                        }, 
+                        {
+                            "@group_id": "P3", 
+                            "description": "Generate sound similar to active treatment, except that no magnetic field is generated.\nSham NeoSync EEG Synchronization Therapy : A device that looks and sounds similar to the active treatment, but no magnetic field is generated.", 
+                            "title": "Inactive Sham Treatment"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "drop_withdraw_reason_list": {
+                            "drop_withdraw_reason": {
+                                "participants_list": {
+                                    "participants": [
+                                        {
+                                            "@count": "2", 
+                                            "@group_id": "P1"
+                                        }, 
+                                        {
+                                            "@count": "1", 
+                                            "@group_id": "P2"
+                                        }, 
+                                        {
+                                            "@count": "4", 
+                                            "@group_id": "P3"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Withdrawal by Subject"
+                            }
+                        }, 
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "18", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "15", 
+                                                "@group_id": "P2"
+                                            }, 
+                                            {
+                                                "@count": "19", 
+                                                "@group_id": "P3"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "16", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "14", 
+                                                "@group_id": "P2"
+                                            }, 
+                                            {
+                                                "@count": "15", 
+                                                "@group_id": "P3"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "2", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P2"
+                                            }, 
+                                            {
+                                                "@count": "4", 
+                                                "@group_id": "P3"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "pre_assignment_details": "Following enrollment and completion of informed consent, subjects were randomized to a treatment arm.  Subjects were instructed to continue any concomitant medication throughout the treatment period.  There was no wash out or transition required.", 
+                "recruitment_details": "Subjects were recruited at two separate psychiatric clinics.  The recruitment period was between June 9, 2008 and November 5, 2008.  Recruitment was accomplished through selection from the normal patient flow at the clinics."
+            }, 
+            "point_of_contact": {
+                "email": "bill@neosync.com", 
+                "name_or_title": "Dr. Bill Phillips", 
+                "organization": "NeoSync, Inc.", 
+                "phone": "949-333-2906"
+            }
+        }, 
+        "completion_date": {
+            "#text": "December 2008", 
+            "@type": "Actual"
+        }, 
+        "condition": "Major Depressive Disorder (MDD)", 
+        "condition_browse": {
+            "mesh_term": [
+                "Depression", 
+                "Depressive Disorder", 
+                "Depressive Disorder, Major"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Major Depressive Disorder (MDD) is associated with functional impairment and disability, and\n      results in a significant burden on the affected individual, his or her family, and society\n      in general.  Psychopharmacological therapy has been shown to be effective, but may be\n      accompanied by significant side effects. The investigators propose an alternative model,\n      based on the relationship between symptoms, brain metabolism, and neural activity as\n      recorded with electroencephalography (EEG).  Subjects with MDD often have decreased brain\n      metabolism, accompanied by increased EEG activity in the alpha band.  The investigators\n      hypothesis is that a gentle, non-significant risk, sinusoidal magnetic field above the\n      subject's scalp, which oscillates at precisely his or her Intrinsic Alpha Frequency (IAF)\n      can take advantage of this relationship to reduce symptoms without the significant side\n      effects associated with pharmaceuticals.  The investigators propose a 4-week, sham\n      controlled, randomized, double-blind multi-center feasibility study to determine the\n      efficacy of synchronized low energy magnetic fields delivered at the subject's IAF to treat\n      MDD.  Treatment will be given concomitant to the subject's existing medication, and will\n      occur 5 days per week at the clinical site.  Target enrollment is 45 adult subjects\n      diagnosed with MDD."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  18 years of age or older\n\n          -  Diagnosis of MDD with HAMD-17 greater than or equal to 17\n\n          -  On a stable dose of existing medication or no medication for 1 month or longer prior\n             to the study\n\n        Exclusion Criteria:\n\n          -  Diagnosed with another primary Axis I illness\n\n          -  Recent history of or current substance abuse\n\n          -  Clinically significant medical illness, including any thyroid disorders\n\n          -  Known pregnancy and/or lactation, or intent to become pregnant during the study"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "52", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "September 4, 2012", 
+        "firstreceived_results_date": "October 28, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01683019", 
+            "org_study_id": "NST#002"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Active Fixed Alpha Frequency Magnetic Stimulation", 
+                    "Active Random Frequency Magnetic Stimulation"
+                ], 
+                "description": "Generate low-energy sinusoidal magnetic field above the scalp with frequency equal to the subject's intrinsic alpha frequency (IAF).  Treatment is 30 minutes, administered 5 days per week for 4 weeks.", 
+                "intervention_name": "NeoSync EEG Synchronization Therapy", 
+                "intervention_type": "Device"
+            }, 
+            {
+                "arm_group_label": "Inactive Sham Treatment", 
+                "description": "A device that looks and sounds similar to the active treatment, but no magnetic field is generated.", 
+                "intervention_name": "Sham NeoSync EEG Synchronization Therapy", 
+                "intervention_type": "Device"
+            }
+        ], 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "keyword": [
+            "Depression", 
+            "magnetic field", 
+            "alpha frequency", 
+            "EEG", 
+            "NeoSync EEG Synchronization Therapy"
+        ], 
+        "lastchanged_date": "April 2, 2014", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Newport Beach", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92660"
+                    }, 
+                    "name": "Amen Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Beijing", 
+                        "country": "China"
+                    }, 
+                    "name": "Institute of Mental Health, Peking University"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "China"
+            ]
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "A MULTICENTER, RANDOMIZED, BLINDED, SHAM CONTROLLED, PARALLEL GROUP TRIAL TO TEST CLINICAL EFFICACY OF LOW FREQUENCY AC MAGNETIC FIELD INDUCED EEG SYNCHRONIZATION IN MAJOR DEPRESSION", 
+        "overall_official": {
+            "affiliation": "NeoSync, Inc.", 
+            "last_name": "Yi Jin, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "November 2008", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Outcome measured using the Hamilton Depression Rating Scale (HAMD-17) and calculated as percent change in severity score from baseline until the end of the 4th week of treatment.\nThe HAMD-17 scale ranges between 0-54, with higher numbers indicating more severe symptoms.  0-7 is generally accepted to be within the normal range (or in clinical remission), while a score of 20 or higher indicates moderate to severe depression.", 
+            "measure": "Percent Change in Hamilton Depression Rating Scale (HAMD-17) at Baseline and the End of Week 4 of Treatment.", 
+            "safety_issue": "No", 
+            "time_frame": "Assessed at baseline and the end of Week 4 of treatment."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01683019"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "description": "Describe the safety profile of the administration of low-emission sinusoidal magnetic fields above the subject's scalp.  Safety criteria include adverse events, serious adverse events, and vital signs.", 
+            "measure": "Safety Profile of the Treatment", 
+            "safety_issue": "Yes", 
+            "time_frame": "Outcome assessed at the end of the 4th week of treatment."
+        }, 
+        "source": "NeoSync, Inc.", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "NeoSync, Inc.", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "June 2008", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2014"
+    }
+}

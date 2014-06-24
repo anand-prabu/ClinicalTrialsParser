@@ -1,0 +1,144 @@
+{
+    "clinical_study": {
+        "@rank": "156441", 
+        "arm_group": [
+            {
+                "arm_group_label": "Colometer", 
+                "arm_group_type": "Experimental", 
+                "description": "Colometer software will be engaged during the colonoscopy to provide real time feedback to the endoscopist."
+            }, 
+            {
+                "arm_group_label": "Sham Software", 
+                "arm_group_type": "Sham Comparator", 
+                "description": "An identical set-up to the experimental arm but with a green band showing across the top for the duration of the colonoscopy."
+            }, 
+            {
+                "arm_group_label": "Control", 
+                "arm_group_type": "No Intervention", 
+                "description": "Recordings of colonoscopies made without Colometer or sham feedback during the course of the colonoscopy will be evaluated retrospectively using the Colometer software."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Our team has created an automated, real-time software based image analysis tool called\n      Colometer to improve screening colonoscopy providing real time visual feedback on image\n      quality. There are three components to this study.  The first is to validate the bowel\n      assessment preparation using the recorded colonoscopy videos from 50 consented normal risk\n      patients.  In the second phase, technological and machine user interface refinements will be\n      identified and completed. Finally, the third phase will be a sham controlled prospective\n      study of Colometer versus standard care in 100 consented average risk patients undergoing\n      screening colonoscopy as performed by 10 consented endoscopists."
+        }, 
+        "brief_title": "Colometer - A Real Time Quality Improvement Feedback System for Screening Colonoscopy", 
+        "completion_date": {
+            "#text": "October 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Colon Cancer", 
+        "condition_browse": {
+            "mesh_term": "Colonic Neoplasms"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients: patients categorized as normal risk who have been referred for screening\n             colonoscopy at the Forzani & MacPhail Colon Cancer Screening Centre in Calgary,\n             Alberta\n\n          -  Endoscopists: Gastroenterologists with practices at the Forzani & MacPhail Colon\n             Cancer Screening Centre, Calgary, Alberta\n\n        Exclusion Criteria:\n\n          -  Patients: patients who are not categorized as normal risk"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "65 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "160", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "September 26, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01969292", 
+            "org_study_id": "Col001"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Colometer", 
+                "description": "Real time software based image analysis tool.", 
+                "intervention_name": "Colometer", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": "Sham Software", 
+                "description": "Software that displays constant positive feedback that is unrelated to the quality measures of the actual colonoscopy.", 
+                "intervention_name": "Sham Software", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "colonoscopy", 
+            "quality assurance"
+        ], 
+        "lastchanged_date": "October 21, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Calgary", 
+                    "country": "Canada", 
+                    "state": "Alberta", 
+                    "zip": "T2N 4Z6"
+                }, 
+                "name": "Forzani&MacPhail Colon Cancer Screening Centre"
+            }
+        }, 
+        "location_countries": {
+            "country": "Canada"
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "Colometer - A Real Time Quality Improvement Feedback System for Screening Colonoscopy", 
+        "overall_official": {
+            "affiliation": "University of Calgary", 
+            "last_name": "Christopher N Andrews, MD MSc", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Enrolling by invitation", 
+        "oversight_info": {
+            "authority": "Canada: Ethics Review Committee", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "June 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "This is defined as the Percentage of the total withdrawal time where the withdrawal velocity is below a set speed limit and the view is clear (ie, not blurry) as measured by the software. Visualization of the colon lumen is ideal with a slow, non-blurry view in order to detect polyps.", 
+            "measure": "%Clear", 
+            "safety_issue": "No", 
+            "time_frame": "Measurement will occur during the withdrawal phase as indicated by the physician during the colonoscopy procedure; on average, 12 minutes"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01969292"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University of Calgary", 
+            "investigator_full_name": "Christopher Andrews", 
+            "investigator_title": "Associate Professor", 
+            "responsible_party_type": "Sponsor-Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Average withdrawal velocity", 
+                "safety_issue": "No", 
+                "time_frame": "Measurement will occur during the withdrawal phase as indicated by the physician during the colonoscopy procedure; on average, 12 minutes."
+            }, 
+            {
+                "measure": "Ottawa Stool Score", 
+                "safety_issue": "No", 
+                "time_frame": "Measurement will occur during the withdrawal phase as indicated by the physician during the colonoscopy procedure; on average, 12 minutes."
+            }
+        ], 
+        "source": "University of Calgary", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Christopher Andrews", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "September 2013", 
+        "study_design": "Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Single Blind (Subject)", 
+        "study_type": "Interventional", 
+        "verification_date": "October 2013"
+    }
+}

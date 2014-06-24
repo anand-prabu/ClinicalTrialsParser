@@ -1,0 +1,212 @@
+{
+    "clinical_study": {
+        "@rank": "129609", 
+        "arm_group": [
+            {
+                "arm_group_label": "Usual Care", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Usual care provided in the offices of private pediatricians or our general pediatrics clinic staffed by faculty-supervised residents."
+            }, 
+            {
+                "arm_group_label": "Comprehensive care medical home", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Comprehensive care provided in our High-Risk Children's Clinic as a medical home augmented by measures to prevent serious illness"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to assess whether an enhanced medical home providing\n      comprehensive care is cost-effective in preventing serious illness (death, pediatric\n      intensive care admission, or hospital stay >7d) among high-risk chronically ill children."
+        }, 
+        "brief_title": "An Enhanced Medical Home for High-Risk Chronically Ill Children", 
+        "completion_date": {
+            "#text": "August 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": "Chronic Illnesses", 
+        "condition_browse": {
+            "mesh_term": "Chronic Disease"
+        }, 
+        "detailed_description": {
+            "textblock": "INTRODUCTION\n\n      Although the patient-centered medical home is widely recommended to promote cost-effective\n      healthcare1-6, it has not been shown in systematic reviews to improve clinical outcomes or\n      reduce medical costs.3,4  Medical homes have greatest potential value for high-risk\n      patients, including chronically ill children whose care is often fragmented, costly, and\n      ineffective. However, the justifiably stringent requirements for practice guidelines and the\n      necessity to control health care costs require compelling evidence of cost-effectiveness\n      before undertaking all that will be required to disseminate the patient-centered medical\n      home for high-risk chronically ill children throughout the U.S.   For this reason we propose\n      a randomized trial to assess whether an enhanced medical home providing comprehensive care\n      is cost-effective in preventing serious illness (death, pediatric intensive care admission,\n      or hospital stay >7d) among high-risk chronically ill children in our center.  Our study\n      obtained expedited approval by our Institutional Review Board (IRB) as a quality improvement\n      (QI) study.\n\n      METHODS\n\n      After verbal informed parental consent is obtained (as allowed by our institutional review\n      board for a minimal-risk QI trial to increase access to care), children are randomized\n      (using sealed, opaque, sequentially numbered envelopes) to usual care or comprehensive care\n      after stratification by maternal education (high school graduate or not) and predicted risk\n      of hospitalization (50-74%; >75%).\n\n      Comprehensive Care involves care for acute and chronic problems from an ethnically diverse\n      team of pediatricians and pediatric nurse practitioners (PNPs) who are highly trained and\n      experienced in treating these complex, fragile children and available at all hours by phone\n      and 40 hours/week in a special high-risk children's clinic.  This clinic serves as a novel\n      medical home where both primary and specialty services are provided in the same clinic at\n      the same visit. The clinic is also staffed by a nutritionist and social worker and attended\n      monthly by a dedicated subspecialist in pediatric gastroenterology, in neurology, and in\n      allergy/immunology. A pediatric infectious disease specialist helped develop measures to\n      reduce, promptly diagnose, and effectively treat infections. These subspecialists are\n      available by phone for consultation at all hours.  Acute problems presenting before 5 pm are\n      seen that day; those occurring on weekends or nights are seen the next weekday in the\n      morning. At any hour an emergency department (ED) visit or hospitalization is needed, our\n      staff discusses the child with the responsible MD and schedules prompt follow-up visits.\n      Multiple measures, e.g., recording and staff review of phone calls; daily checks of ED and\n      hospital logs; detailed review of all care before hospitalizations; parent surveys; and\n      active input of our Parent Advisory Board, are used to promote highest quality of care.\n\n      Usual Care is provided in the offices of private pediatricians or our general pediatrics\n      clinic staffed by faculty-supervised residents. Chronic problems are treated in our\n      subspecialty clinics. After-hours calls from parents to our center are taken by\n      faculty-supervised pediatric residents or faculty unlikely to know the child. Children\n      referred to our emergency department had no automatic follow-up appointment.\n\n      Statistical analyses and stopping rules: Intent-to-treat analyses will be performed using\n      Poisson regression models with robust standard error estimators (to account for within\n      family correlation and estimate relative risk) fitted to the number of children with a\n      serious illness, intensive care unit admission, hospitalization > 7 days, or death. Negative\n      binomial regression models will investigate group differences in the total number of such\n      outcomes.  Models will be adjusted for baseline risk, maternal education, and length of\n      follow-up.  A p<0.05 is considered statistically significant.  Bayesian analyses will be\n      performed to estimate the probability of reduced serious illnesses and of reduced costs\n      (assuming a neutral prior probability of relative risk = 1.0; 95% credible interval =\n      0.5-2.0 [encompassing the largest likely effect size for major outcomes observed in\n      randomized trials]).  We planned to enroll 400 patients to identify a one-third reduction in\n      total patients who developed serious illness (alpha error = 0.05; power = 0.80; projected\n      serious illness rate with usual care = 38%). Under predefined stopping rules, enrollment\n      would cease whenever Bayesian analyses performed annually from the end of the second year\n      identified a >95% probability that comprehensive care is cost-effective.\n\n      Economic evaluation: Hospital costs (including costs for observation stays) will be\n      estimated from a health system perspective by multiplying hospital charges (obtained from\n      hospital's claims data and Medicaid billing records) by department-specific cost-to-charge\n      ratios specified in the hospital's annual Medicare Cost Report. Outpatient costs for usual\n      care will be estimated using standard methods based on relative value units.  Outpatient\n      costs for comprehensive care will be estimated using total clinic expenditures to include\n      costs for start-up, longer patient visits, extra (unbillable) services, and low patient to\n      staff ratios not addressed by relative value units.   Costs will be inflated to 2014 U.S.\n      dollars based on the Consumer Price Index for medical services.  Cost differences between\n      treatment groups will be assessed using generalized linear models with log-link and gamma\n      distribution, adjusting for maternal education, hospitalization risk, length of follow-up,\n      and within-family correlation.\n\n      The investigators will consider the program to be cost-effective if it reduces the total\n      children with a serious illness without increasing total clinic and hospital costs, reduced\n      these costs without increasing the total children with a serious illness, or reduced both."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients 18 years old or younger with a chronic illness, high healthcare utilization\n             (>3 emergency department visits, >2 hospitalizations or >1 pediatric intensive care\n             unit admission in the prior year), and a >50% likelihood of hospitalization in the\n             coming year (as estimated from the patient's diagnosis and clinical course by our\n             clinic's medical director), who lived within a one-hour commute of our center.\n\n        Exclusion Criteria:\n\n          -  Patients with complex problems given primary care by a specialist at all hours (e.g.\n             infants in our neonatal follow-up program and children with serious unrepaired\n             congenital heart disease, a mitochondrial disorder, organ transplant, treatment with\n             dialysis or central lines; or a do-not-resuscitate order)."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "18 Years", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "201", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "April 24, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02128776", 
+            "org_study_id": "HSC-MS-10-0658", 
+            "secondary_id": "1C1MS331044-01-00"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Comprehensive care medical home", 
+                "description": "Comprehensive care provided in our High-Risk Children's Clinic as a medical home augmented by measures to prevent serious illness", 
+                "intervention_name": "Comprehensive care medical home", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": "Usual Care", 
+                "description": "Usual care provided in the offices of private pediatricians or our general pediatrics clinic staffed by faculty-supervised residents.", 
+                "intervention_name": "Usual Care", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Children", 
+            "Chronic illnesses"
+        ], 
+        "lastchanged_date": "April 29, 2014", 
+        "link": {
+            "description": "Health Care Innovation Awards: Awarded Projects in Texas", 
+            "url": "http://innovation.cms.gov/initiatives/Health-Care-Innovation-Awards/Texas.html"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Houston", 
+                    "country": "United States", 
+                    "state": "Texas", 
+                    "zip": "77030"
+                }, 
+                "name": "University of Texas Health Science Center at Houston"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Comprehensive Care Provided in an Enhanced Medical Home to Improve Outcomes and Reduce Costs for High-Risk Chronically Ill Children", 
+        "overall_official": [
+            {
+                "affiliation": "The University of Texas Health Science Center, Houston", 
+                "last_name": "Jon Tyson, MD, MPH", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "The University of Texas Health Science Center, Houston", 
+                "last_name": "Ricardo Mosquera, MD", 
+                "role": "Study Director"
+            }
+        ], 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "August 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Cost per prevented child with serious illness", 
+            "measure": "Cost per prevented child with serious illness", 
+            "safety_issue": "No", 
+            "time_frame": "Up to 2 and 1/2 years"
+        }, 
+        "reference": [
+            {
+                "PMID": "22123894", 
+                "citation": "Burke R, Liptak GS; Council on Children with Disabilities. Providing a primary care medical home for children and youth with spina bifida. Pediatrics. 2011 Dec;128(6):e1645-57. doi: 10.1542/peds.2011-2219. Epub 2011 Nov 28."
+            }, 
+            {
+                "PMID": "21646589", 
+                "citation": "Cohen E, Jovcevska V, Kuo DZ, Mahant S. Hospital-based comprehensive care programs for children with special health care needs: a systematic review. Arch Pediatr Adolesc Med. 2011 Jun;165(6):554-61. doi: 10.1001/archpediatrics.2011.74. Review."
+            }, 
+            {
+                "PMID": "18829788", 
+                "citation": "Homer CJ, Klatka K, Romm D, Kuhlthau K, Bloom S, Newacheck P, Van Cleave J, Perrin JM. A review of the evidence for the medical home for children with special health care needs. Pediatrics. 2008 Oct;122(4):e922-37. doi: 10.1542/peds.2007-3762. Review."
+            }, 
+            {
+                "PMID": "22042817", 
+                "citation": "Liptak GS, Murphy NA; Council on Children With Disabilities. Providing a primary care medical home for children and youth with cerebral palsy. Pediatrics. 2011 Nov;128(5):e1321-9. doi: 10.1542/peds.2011-1468. Epub 2011 Oct 31. Review."
+            }, 
+            {
+                "PMID": "19171603", 
+                "citation": "Malouin RA, Turner J. A review of the evidence for the medical home for children with special health care needs. Pediatrics. 2009 Feb;123(2):e369. doi: 10.1542/peds.2008-3250."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02128776"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "The University of Texas Health Science Center, Houston", 
+            "investigator_full_name": "Jon Edward Tyson", 
+            "investigator_title": "Michelle Bain Distinguished Professor, Vice Dean for Healthcare Quality and Clinical Research", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Total costs of clinic and hospital care (in 2014 US$)", 
+                "measure": "Total costs of care", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 2 and 1/2 years"
+            }, 
+            {
+                "description": "Number of episodes of serious illnesses", 
+                "measure": "Episodes of serious illnesses", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 2 and 1/2 years"
+            }, 
+            {
+                "description": "Number of emergency department visits", 
+                "measure": "Emergency department visits", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 2 and 1/2 years"
+            }, 
+            {
+                "description": "Number of hospitalizations", 
+                "measure": "Hospitalizations", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 2 and 1/2 years"
+            }, 
+            {
+                "description": "Number of intensive care admissions", 
+                "measure": "Intensive care admissions", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 2 and 1/2 years"
+            }, 
+            {
+                "description": "Parent ratings of care (on a scale of 0-10) are obtained by research personnel uninvolved in patient care who administer the Consumer Assessment of Healthcare Providers and Systems Survey in Spanish or English to each mother 12 months after enrollment.  The investigators preselected five questions as most important to optimizing our patient outcomes (questions 6, 15, 18, 20, and 23).", 
+                "measure": "Parent ratings of care at the end of 1st year", 
+                "safety_issue": "No", 
+                "time_frame": "12 months after enrollment"
+            }
+        ], 
+        "source": "The University of Texas Health Science Center, Houston", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "Centers for Medicare and Medicaid Services", 
+                    "agency_class": "U.S. Fed"
+                }, 
+                {
+                    "agency": "Texas Department of State Health Services", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "The University of Texas Health Science Center, Houston", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "March 2011", 
+        "study_design": "Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Health Services Research", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2014"
+    }
+}

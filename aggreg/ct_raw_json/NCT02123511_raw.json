@@ -1,0 +1,393 @@
+{
+    "clinical_study": {
+        "@rank": "20192", 
+        "arm_group": [
+            {
+                "arm_group_label": "Arm I (acetylcysteine)", 
+                "arm_group_type": "Experimental", 
+                "description": "Patients receive acetylcysteine oral rinse and gargle or swish for 60 seconds then spit 5 times per day beginning within 3 days of the initiation of radiotherapy to 14 days following completion of radiotherapy."
+            }, 
+            {
+                "arm_group_label": "Arm II (placebo)", 
+                "arm_group_type": "Experimental", 
+                "description": "Patients receive a placebo oral rinse and gargle or swish for 60 seconds and then spit 5 times per day beginning within 3 days of the initiation of radiotherapy to 14 days following completion of radiotherapy."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This randomized pilot clinical trial studies whether acetylcysteine oral rinse will lessen\n      saliva thickness and painful mouth sores in patients with head and neck cancer undergoing\n      radiation therapy. Side effects from radiation therapy to the head and neck, such as\n      thickened saliva and mouth sores, may interfere with activities of daily living such as\n      eating and drinking, and may also cause treatment to be stopped or delayed. Acetylcysteine\n      rinse may reduce saliva thickness and mouth sores, and improve quality of life in patients\n      with head and neck cancer undergoing radiation therapy."
+        }, 
+        "brief_title": "Acetylcysteine Rinse in Reducing Saliva Thickness and Mucositis in Patients With Head and Neck Cancer Undergoing Radiation Therapy", 
+        "condition": [
+            "Mucositis", 
+            "Oral Complications", 
+            "Recurrent Adenoid Cystic Carcinoma of the Oral Cavity", 
+            "Recurrent Basal Cell Carcinoma of the Lip", 
+            "Recurrent Lymphoepithelioma of the Nasopharynx", 
+            "Recurrent Lymphoepithelioma of the Oropharynx", 
+            "Recurrent Mucoepidermoid Carcinoma of the Oral Cavity", 
+            "Recurrent Salivary Gland Cancer", 
+            "Recurrent Squamous Cell Carcinoma of the Larynx", 
+            "Recurrent Squamous Cell Carcinoma of the Lip and Oral Cavity", 
+            "Recurrent Squamous Cell Carcinoma of the Nasopharynx", 
+            "Recurrent Squamous Cell Carcinoma of the Oropharynx", 
+            "Recurrent Verrucous Carcinoma of the Larynx", 
+            "Recurrent Verrucous Carcinoma of the Oral Cavity", 
+            "Stage I Adenoid Cystic Carcinoma of the Oral Cavity", 
+            "Stage I Basal Cell Carcinoma of the Lip", 
+            "Stage I Lymphoepithelioma of the Nasopharynx", 
+            "Stage I Lymphoepithelioma of the Oropharynx", 
+            "Stage I Mucoepidermoid Carcinoma of the Oral Cavity", 
+            "Stage I Salivary Gland Cancer", 
+            "Stage I Squamous Cell Carcinoma of the Larynx", 
+            "Stage I Squamous Cell Carcinoma of the Lip and Oral Cavity", 
+            "Stage I Squamous Cell Carcinoma of the Nasopharynx", 
+            "Stage I Squamous Cell Carcinoma of the Oropharynx", 
+            "Stage I Verrucous Carcinoma of the Larynx", 
+            "Stage I Verrucous Carcinoma of the Oral Cavity", 
+            "Stage II Adenoid Cystic Carcinoma of the Oral Cavity", 
+            "Stage II Basal Cell Carcinoma of the Lip", 
+            "Stage II Lymphoepithelioma of the Nasopharynx", 
+            "Stage II Lymphoepithelioma of the Oropharynx", 
+            "Stage II Mucoepidermoid Carcinoma of the Oral Cavity", 
+            "Stage II Salivary Gland Cancer", 
+            "Stage II Squamous Cell Carcinoma of the Larynx", 
+            "Stage II Squamous Cell Carcinoma of the Lip and Oral Cavity", 
+            "Stage II Squamous Cell Carcinoma of the Nasopharynx", 
+            "Stage II Squamous Cell Carcinoma of the Oropharynx", 
+            "Stage II Verrucous Carcinoma of the Larynx", 
+            "Stage II Verrucous Carcinoma of the Oral Cavity", 
+            "Stage III Adenoid Cystic Carcinoma of the Oral Cavity", 
+            "Stage III Basal Cell Carcinoma of the Lip", 
+            "Stage III Lymphoepithelioma of the Nasopharynx", 
+            "Stage III Lymphoepithelioma of the Oropharynx", 
+            "Stage III Mucoepidermoid Carcinoma of the Oral Cavity", 
+            "Stage III Salivary Gland Cancer", 
+            "Stage III Squamous Cell Carcinoma of the Larynx", 
+            "Stage III Squamous Cell Carcinoma of the Lip and Oral Cavity", 
+            "Stage III Squamous Cell Carcinoma of the Nasopharynx", 
+            "Stage III Squamous Cell Carcinoma of the Oropharynx", 
+            "Stage III Verrucous Carcinoma of the Larynx", 
+            "Stage III Verrucous Carcinoma of the Oral Cavity", 
+            "Stage IV Lymphoepithelioma of the Nasopharynx", 
+            "Stage IV Squamous Cell Carcinoma of the Nasopharynx", 
+            "Stage IVA Adenoid Cystic Carcinoma of the Oral Cavity", 
+            "Stage IVA Basal Cell Carcinoma of the Lip", 
+            "Stage IVA Lymphoepithelioma of the Oropharynx", 
+            "Stage IVA Mucoepidermoid Carcinoma of the Oral Cavity", 
+            "Stage IVA Salivary Gland Cancer", 
+            "Stage IVA Squamous Cell Carcinoma of the Larynx", 
+            "Stage IVA Squamous Cell Carcinoma of the Lip and Oral Cavity", 
+            "Stage IVA Squamous Cell Carcinoma of the Oropharynx", 
+            "Stage IVA Verrucous Carcinoma of the Larynx", 
+            "Stage IVA Verrucous Carcinoma of the Oral Cavity", 
+            "Stage IVB Adenoid Cystic Carcinoma of the Oral Cavity", 
+            "Stage IVB Basal Cell Carcinoma of the Lip", 
+            "Stage IVB Lymphoepithelioma of the Oropharynx", 
+            "Stage IVB Mucoepidermoid Carcinoma of the Oral Cavity", 
+            "Stage IVB Salivary Gland Cancer", 
+            "Stage IVB Squamous Cell Carcinoma of the Larynx", 
+            "Stage IVB Squamous Cell Carcinoma of the Lip and Oral Cavity", 
+            "Stage IVB Squamous Cell Carcinoma of the Oropharynx", 
+            "Stage IVB Verrucous Carcinoma of the Larynx", 
+            "Stage IVB Verrucous Carcinoma of the Oral Cavity", 
+            "Stage IVC Adenoid Cystic Carcinoma of the Oral Cavity", 
+            "Stage IVC Basal Cell Carcinoma of the Lip", 
+            "Stage IVC Lymphoepithelioma of the Oropharynx", 
+            "Stage IVC Mucoepidermoid Carcinoma of the Oral Cavity", 
+            "Stage IVC Salivary Gland Cancer", 
+            "Stage IVC Squamous Cell Carcinoma of the Larynx", 
+            "Stage IVC Squamous Cell Carcinoma of the Lip and Oral Cavity", 
+            "Stage IVC Squamous Cell Carcinoma of the Oropharynx", 
+            "Stage IVC Verrucous Carcinoma of the Larynx", 
+            "Stage IVC Verrucous Carcinoma of the Oral Cavity", 
+            "Tongue Cancer"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Carcinoma", 
+                "Carcinoma, Basal Cell", 
+                "Carcinoma, Squamous Cell", 
+                "Carcinoma, Adenoid Cystic", 
+                "Head and Neck Neoplasms", 
+                "Laryngeal Diseases", 
+                "Tongue Neoplasms", 
+                "Carcinoma, Mucoepidermoid", 
+                "Carcinoma, Verrucous", 
+                "Salivary Gland Neoplasms", 
+                "Laryngeal Neoplasms", 
+                "Mucositis", 
+                "Oropharyngeal Neoplasms", 
+                "Nasopharyngeal Neoplasms"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "PRIMARY OBJECTIVES:\n\n      I. To determine the effectiveness of N-acetylcysteine (acetylcysteine) in improving saliva\n      viscosity (as measured by the Groningen Radiotherapy-Induced Xerostomia [GRIX]) in patients\n      undergoing chemotherapy and radiotherapy for head and neck cancer.\n\n      SECONDARY OBJECTIVES:\n\n      I. To determine whether N-acetylcysteine (NAC) can improve other GRIX subscale for patients\n      undergoing chemotherapy and radiotherapy for head and neck cancer.\n\n      II. To determine whether NAC can improve patient reported quality of life as measured by the\n      European Organization for Research and Treatment of Cancer (EORTC)-Quality of Life\n      Questionnaire (QLQ) Head & Neck (H&N)35.\n\n      III. To assess the adverse event profile of NAC as measured by the CTCAE every week during\n      radiation.\n\n      IV. To determine patient adherence to N-acetylcysteine mucoadherent rinse using patient\n      reported surveys.\n\n      V. To determine the long-term benefits of N-acetylcysteine as measured by the GRIX\n      questionnaire at 45 days and 90 days post treatment.\n\n      OUTLINE: Patients are randomized to 1 of 2 arms.\n\n      ARM I: Patients receive acetylcysteine oral rinse and gargle or swish for 60 seconds then\n      spit 5 times per day, beginning within 3 days of the initiation of radiotherapy to 14 days\n      following completion of radiotherapy.\n\n      ARM II: Patients receive a placebo oral rinse and gargle or swish for 60 seconds and then\n      spit 5 times per day beginning within 3 days of the initiation of radiotherapy to 14 days\n      following completion of radiotherapy.\n\n      After completion of study treatment, patients are followed up at 45 and 90 days."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Histological confirmation of tumor of the oral cavity, oropharynx, supraglottic\n             larynx, or nasopharynx\n\n          -  Receiving concurrent chemoradiotherapy/chemobiotherapy to a minimum dose equivalent\n             to 60 Gy in 30 fractions in the adjuvant or definitive setting\n\n          -  Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0, 1 or 2\n\n          -  Initiation of investigational agent =< 3 days after initiation of radiotherapy\n\n          -  Negative pregnancy test done =< 7 days prior to registration, for women of\n             childbearing potential only\n\n          -  Ability to complete questionnaire(s) by themselves or with assistance\n\n          -  Provide informed written consent\n\n          -  Willing to return mail-in questionnaires during the observation phase of the study\n\n        Exclusion Criteria:\n\n          -  Any of the following:\n\n               -  Pregnant women\n\n               -  Nursing women\n\n               -  Men or women of childbearing potential who are unwilling to employ adequate\n                  contraception\n\n          -  Co-morbid systemic illnesses or other severe concurrent disease which, in the\n             judgment of the investigator, would make the patient inappropriate for entry into\n             this study or interfere significantly with the proper assessment of safety and\n             toxicity of the prescribed regimens\n\n          -  Immunocompromised patients and patients known to be human immunodeficiency virus\n             (HIV) positive and currently receiving antiretroviral therapy; NOTE: Patients known\n             to be HIV positive, but without clinical evidence of an immunocompromised state, are\n             eligible for this trial\n\n          -  Uncontrolled intercurrent illness including, but not limited to, ongoing or active\n             infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac\n             arrhythmia, or psychiatric illness/social situations that would limit compliance with\n             study requirements\n\n          -  Receiving any other investigational agent which would be considered as a treatment\n             for the primary neoplasm\n\n          -  History of myocardial infarction =< 6 months, or congestive heart failure requiring\n             use of ongoing maintenance therapy for life-threatening ventricular arrhythmias\n\n          -  Receipt of induction chemotherapy\n\n          -  Previous receipt of head and neck irradiation\n\n          -  Utilization of amifostine during radiotherapy\n\n          -  Greater than or equal to grade 2 dry mouth prior to chemoradiotherapy or greater than\n             or equal to grade 2 mucositis\n\n          -  Previous intolerance/adverse effect/allergy to any component of the placebo or active\n             agent\n\n          -  History of Sjogren's, lupus or scleroderma"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "36", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "April 23, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02123511", 
+            "org_study_id": "MC13C2", 
+            "secondary_id": [
+                "NCI-2014-00865", 
+                "MC13C2", 
+                "P30CA015083"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Arm I (acetylcysteine)", 
+                "description": "Oral rinse", 
+                "intervention_name": "acetylcysteine", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "Airbron", 
+                    "Broncholysin", 
+                    "Brunac", 
+                    "N-acetylcysteine", 
+                    "NAC"
+                ]
+            }, 
+            {
+                "arm_group_label": "Arm II (placebo)", 
+                "description": "Oral rinse", 
+                "intervention_name": "placebo", 
+                "intervention_type": "Other", 
+                "other_name": "PLCB"
+            }, 
+            {
+                "arm_group_label": [
+                    "Arm I (acetylcysteine)", 
+                    "Arm II (placebo)"
+                ], 
+                "description": "Ancillary studies", 
+                "intervention_name": "quality-of-life assessment", 
+                "intervention_type": "Other", 
+                "other_name": "quality of life assessment"
+            }, 
+            {
+                "arm_group_label": [
+                    "Arm I (acetylcysteine)", 
+                    "Arm II (placebo)"
+                ], 
+                "description": "Ancillary studies", 
+                "intervention_name": "questionnaire administration", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Acetylcysteine", 
+                "N-monoacetylcystine"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "lastchanged_date": "May 1, 2014", 
+        "location": [
+            {
+                "contact": {
+                    "email": "Halyard.Michele@mayo.edu", 
+                    "last_name": "Michele Y. Halyard", 
+                    "phone": "401-380-8120"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Scottsdale", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85259"
+                    }, 
+                    "name": "Mayo Clinic in Arizona"
+                }, 
+                "investigator": {
+                    "last_name": "Michele Y. Halyard", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Miran J. Blanchard", 
+                    "phone": "507-284-3262"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Rochester", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55905"
+                    }, 
+                    "name": "Mayo Clinic"
+                }, 
+                "investigator": {
+                    "last_name": "Miran J. Blanchard", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "bogartj@upstate.edu", 
+                    "last_name": "Jeffrey A. Bogart", 
+                    "phone": "315-464-5476"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Syracuse", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "13210"
+                    }, 
+                    "name": "State University of New York Upstate Medical University"
+                }, 
+                "investigator": {
+                    "last_name": "Jeffrey A. Bogart", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "tfischer@mohs.org", 
+                    "last_name": "Tarek A. Dufan", 
+                    "phone": "800-248-5511"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Bismarck", 
+                        "country": "United States", 
+                        "state": "North Dakota", 
+                        "zip": "58501"
+                    }, 
+                    "name": "Bismarck Cancer Center"
+                }, 
+                "investigator": {
+                    "last_name": "Tarek A. Dufan", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "gseeger@altru.org", 
+                    "last_name": "Grant R. Seeger", 
+                    "phone": "701-780-6520"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Grand Forks", 
+                        "country": "United States", 
+                        "state": "North Dakota", 
+                        "zip": "58201"
+                    }, 
+                    "name": "Altru Cancer Center"
+                }, 
+                "investigator": {
+                    "last_name": "Grant R. Seeger", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "A Randomized, Double-Blind Pilot Study of N-acetylcysteine Mucoadherent Rinse Versus Placebo for Thickened Secretions and Mucositis Secondary to Chemoradiotherapy in the Management of Head and Neck Malignancies", 
+        "overall_official": {
+            "affiliation": "Mayo Clinic", 
+            "last_name": "Michele Halyard, M.D.", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "April 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Calculated for each patient from baseline to 2 weeks following radiotherapy. The AUC values will be compared between the two arms using either t-tests or Wilcoxon nonparametric tests and tested for normality using the Shapiro-Wilk test. If the normality assumption is rejected at a 0.20 level, Wilcoxon tests will be used to compare the AUC values between arms. If the normality assumption is not rejected, an F test will be used to compare the variances of the AUC values between the two arms at the 0.20 level.", 
+            "measure": "Area under the curve (AUC) of the GRIX sticky saliva total score", 
+            "safety_issue": "No", 
+            "time_frame": "Up to 2 weeks following radiotherapy"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02123511"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "AUCs will be compared using either t-tests (equal variance or unequal variance) or Wilcoxon nonparametric tests. Linear regression and repeated measures analyses will be done to adjust for confounding factors. Mean scores and 95% confidence intervals will be plotted over time by arm.", 
+                "measure": "Scores for sticky saliva during the day, assessed using the GRIX subscale", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 90 days after completion of radiation therapy"
+            }, 
+            {
+                "description": "AUCs will be compared using either t-tests (equal variance or unequal variance) or Wilcoxon nonparametric tests. Linear regression and repeated measures analyses will be done to adjust for confounding factors. Mean scores and 95% confidence intervals will be plotted over time by arm.", 
+                "measure": "Scores for sticky saliva during the night, assessed using the GRIX subscale", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 90 days after completion of radiation therapy"
+            }, 
+            {
+                "description": "AUCs will be compared using either t-tests (equal variance or unequal variance) or Wilcoxon nonparametric tests. Linear regression and repeated measures analyses will be done to adjust for confounding factors. Mean scores and 95% confidence intervals will be plotted over time by arm.", 
+                "measure": "Scores for xerostomia during the day, assessed using the GRIX subscale", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 90 days after completion of radiation therapy"
+            }, 
+            {
+                "description": "AUCs will be compared using either t-tests (equal variance or unequal variance) or Wilcoxon nonparametric tests. Linear regression and repeated measures analyses will be done to adjust for confounding factors. Mean scores and 95% confidence intervals will be plotted over time by arm.", 
+                "measure": "Scores for xerostomia during the night, assessed using the GRIX subscale", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 90 days after completion of radiation therapy"
+            }, 
+            {
+                "description": "AUCs will be compared using either t-tests (equal variance or unequal variance) or Wilcoxon nonparametric tests. Linear regression and repeated measures analyses will be done to adjust for confounding factors. Mean scores and 95% confidence intervals will be plotted over time by arm.", 
+                "measure": "Xerostomia total scores, assessed using the GRIX subscale", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 90 days after completion of radiation therapy"
+            }, 
+            {
+                "description": "Scores will be compared between the two arms", 
+                "measure": "QLQ-H&N35 scores", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 90 days after completion of radiation therapy"
+            }
+        ], 
+        "source": "Mayo Clinic", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Mayo Clinic", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "April 2014", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Supportive Care", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2014"
+    }
+}

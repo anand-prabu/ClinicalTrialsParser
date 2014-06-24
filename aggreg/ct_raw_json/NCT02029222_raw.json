@@ -1,0 +1,166 @@
+{
+    "clinical_study": {
+        "@rank": "38591", 
+        "arm_group": {
+            "arm_group_label": "25 NSCLC patients", 
+            "description": "25 NSCLC patients who received curative radiotherapy. Re-irradiation can either be  indicated for primary or secondary cancers in the lung. All patients referred for primary radiotherapy or chemoradiation after curative radiation therapy more or equal to one year ago with overlapping CTV will be included. The organs at risk of the primary tumor are the same organs at risk at the secondary treatment."
+        }, 
+        "brief_summary": {
+            "textblock": "Patients with lung cancer may develop a second primary tumor or recurrent disease after\n      previous radiotherapy. Surgical salvage therapy is the mainstay of therapeutic options.\n      However, in case of irresectable disease, re-irradiation should be considered. Also in the\n      postoperative setting, re-irradiation is considered after surgical salvage in case of\n      features in the pathology specimen indicating a high risk for subsequent recurrence. However\n      after re-irradiation, there is a high risk of 43% grade 3 (late) toxicity at 5 years\n      (including possible fatal complications) and a relatively low chance of locoregional control\n      of 50% at 5 years. One out of three patients survives re-irradiation without recurrence and\n      severe complications. Improvements in both the risk of radiation-induced complications and\n      the oncological outcome are thus warranted.\n\n      Compared to conventional radiotherapy with photons (CRT), particle therapy (PT) has the\n      potential to inflict maximum damage on tumors with minimum collateral damage to neighboring\n      healthy tissue. Given that the cost of particle therapy (PT) is considerably higher than\n      that of conventional radiotherapy (RT) with photons, it is necessary to establish whether\n      these higher costs are worthwhile in light of the expected advantages. Thus, clear evidence\n      of the situations in which PT outperforms conventional photon treatment is needed.\n      Publications on this topic are rare. The only recent publication has analyzed the results of\n      37 NSCLC patients of whom 9 were re-irradiated with at least 50 Gy using helical tomotherapy\n      [Kruser in press].\n\n      We propose an in silico trial to investigate to what extend proton and 12C-ion therapy\n      decrease the amount of irradiated normal tissue in lung cancer patients treated with\n      radiotherapy after an initial radiotherapy treatment."
+        }, 
+        "brief_title": "Photon Versus Particle Therapy for Recurrent Lung Cancer; a Planning Study Based on a Reference Dataset of Patients.", 
+        "completion_date": {
+            "#text": "May 2016", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "NSCLC", 
+        "condition_browse": {
+            "mesh_term": "Lung Neoplasms"
+        }, 
+        "detailed_description": {
+            "textblock": "For this in silico planning study all treatment plans will be performed in centers that are\n      already operating and have experience in treatment planning. Photon treatment plans will be\n      carried out in Maastricht, proton treatment plans at the University of Pennsylvania and the\n      C-ion treatment plans at the University of Wisconsin.\n\n      A dataset with state-of-the-art image data is available. 25 patients will be included\n      according to a-priori defined selection criteria. Each patient will function as his or her\n      own control. For this reason, the number of patients per tumor group can be limited to 25\n      patients per tumor group (power = 80%, alpha = 5%).\n\n      The datasets will be stored on a secure website hosted by MAASTRO. High quality CT-images\n      will be used for radiotherapy treatment planning. If available, secondary image information\n      such as FDG-PET and MRI will be used for GTV delineation. All relevant OARs will be\n      delineated in both the primary and secondary studyset. GTV/CTV will be used accordingly to\n      the actual treatment. New DVH's will be calculated for the added OAR. Dose restrictions for\n      the re-irradiation plan will be defined for each individual patient based on the DVH dose in\n      the primary photon treatment plan.\n\n      Photons will be planned with direct Aperture Optimized Intensity Modulated Radiotherapy\n      (IMRT). Protons will be planned using active beam delivery with Intensity Modulated proton\n      therapy (IMPT)and carbon-ions with a  pencil beam delivery treatment planning technique with\n      gantry. Each participating center will use its own treatment planning system according to\n      standard practice at that center. The GTV to PTV margin will be determined by the individual\n      institutes according to the treatment technique and treatment modality. The same tumor dose,\n      overall treatment time (OTT) and an equal number of fractions will be used for all treatment\n      modalities.\n\n      Photon, proton and C-ion treatments will be compared based on dosimetric parameters on\n      normal tissues. In addition, the NTCP for a fixed tumor dose or the same expected TCP will\n      be determined. Cobalt Gy equivalent doses will be used when reporting the proton and\n      carbon-ion dose. In the case of protons, a constant RBE value of 1.1 will be used for both\n      the tumor and the normal tissues. The RBE of carbon-ions will be calculated based on the\n      models used by the participating centers.\n\n      Dose in the following structures will be taken into account:\n\n        -  Lungs\n\n        -  Spinal court\n\n        -  Heart\n\n        -  Oesophagus"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Re-irradiation patients for relapsed or second cancers in the left or the right lung\n\n          -  Received respitory gated CT (4DCT) and PET (4DPET) scans.\n\n          -  The primary treatment was radiotherapy with a curative intent\n\n          -  The organs at risk of the primary tumor treatment are the same organs at risk at the\n             secondary treatment\n\n          -  18 years or older"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "25 patients with SCLC"
+            }
+        }, 
+        "enrollment": {
+            "#text": "25", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "December 19, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02029222", 
+            "org_study_id": "ROCOCO"
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "January 6, 2014", 
+        "location": {
+            "contact": {
+                "email": "philippe.lambin@maastro.nl", 
+                "last_name": "Philippe Lambin, MD, PhD", 
+                "phone": "+31 88 44 55 753"
+            }, 
+            "contact_backup": {
+                "email": "esther.troost@maastro.nl", 
+                "last_name": "Esther Troost, Dr.", 
+                "phone": "+31 88 44 55 817"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Maastricht", 
+                    "country": "Netherlands", 
+                    "zip": "6229 ET"
+                }, 
+                "name": "Maastricht Radiation Oncology"
+            }, 
+            "investigator": {
+                "last_name": "Philippe Lambin, MD, PhD", 
+                "role": "Principal Investigator"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "Netherlands"
+        }, 
+        "number_of_groups": "1", 
+        "official_title": "In Silico Clinical Trial on Re-irradiation Lung Cancer, Comparing Photon, Proton and 12C-ion Therapy: A Multicentric ROCOCO Planning Study Based on a Reference Dataset of Patients.", 
+        "other_outcome": {
+            "description": "The possibilities of hypofractionation will be explored, as the number of fractions has a strong influence on the treatment dose.", 
+            "measure": "Possibilities of hypofractionation", 
+            "safety_issue": "No", 
+            "time_frame": "Up to ten months"
+        }, 
+        "overall_official": {
+            "affiliation": "Maastro Clinic, The Netherlands", 
+            "last_name": "Philippe Lambin, MD, PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "Netherlands: The Central Committee on Research Involving Human Subjects (CCMO)", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "October 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "- lung: V30, V20, V13, V5, mean lung dose", 
+                "measure": "The amount of irradiated normal tissue: lung", 
+                "safety_issue": "No", 
+                "time_frame": "Up to ten months (planning time)"
+            }, 
+            {
+                "description": "Spinal cord: Dmax", 
+                "measure": "The amount of irradiated normal tissue: Spinal cord", 
+                "safety_issue": "No", 
+                "time_frame": "Up to ten months"
+            }, 
+            {
+                "description": "Esophagus: Dmax, mean dose (MD), V55, V35", 
+                "measure": "The amount of irradiated normal tissue: esophagus", 
+                "safety_issue": "No", 
+                "time_frame": "Up to ten months"
+            }, 
+            {
+                "description": "Heart: Total dose (TD), V65, V45, V40, V30, V20, V10, MD", 
+                "measure": "The amount of irradiated normal tissue: Heart", 
+                "safety_issue": "No", 
+                "time_frame": "Up to ten months"
+            }, 
+            {
+                "description": "Integral dose", 
+                "measure": "The amount of irradiated normal tissue: Integral dose", 
+                "safety_issue": "No", 
+                "time_frame": "Up to ten months"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02029222"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "measure": "Risk of side effects in the irradiated normal tissue", 
+            "safety_issue": "No", 
+            "time_frame": "Up to ten months"
+        }, 
+        "source": "Maastricht Radiation Oncology", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "University of Pennsylvania", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "University of Wisconsin, Madison", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "Maastricht Radiation Oncology", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "December 2013", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Retrospective", 
+        "study_type": "Observational", 
+        "verification_date": "January 2014"
+    }
+}

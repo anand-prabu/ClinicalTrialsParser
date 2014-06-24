@@ -1,0 +1,726 @@
+{
+    "clinical_study": {
+        "@rank": "58853", 
+        "acronym": "DORISS", 
+        "arm_group": [
+            {
+                "arm_group_label": "Arm 1 (intervention)", 
+                "arm_group_type": "Experimental", 
+                "description": "Dolutegravir 50 mg/d + Rilpivirine 25 mg/d qd orally (intake during a meal)"
+            }, 
+            {
+                "arm_group_label": "Arm 2 (control)", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Continuation of existing HAART at the time of randomization"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The primary objective of the study is to evaluate the capacity of Dolutegravir + Rilpivirine\n      vs. continued triple combination HAART to maintain plasma HIV RNA \u2264 50 copies/ml throughout\n      24 weeks in patients with plasma HIV RNA \u2264 50 copies/mL for at least 2 years under\n      conventional HAART (2 NNRTI + 3rd agent).\n\n      The main secondary objectives are the following:\n\n        -  % of virologic success (plasma viral load \u2264 50 copies/mL) at W24 and W48\n\n        -  % of patients who maintain a plasma viral load \u2264 50 copies / ml from D0 to W48\n\n        -  % of virological failure defined by two consecutive plasma viral load > 50 copies/mL\n\n        -  Profile of genotypic resistance in case of virological failure.\n\n      The trial will be conducted according to the design below, in 3 steps:\n\n        -  Step 1: enrollment of 80 patients (40 in each arm)\n\n        -  Step 2: enrollment on hold until W16 data from the 40 patients enrolled in the\n           intervention arm have been analyzed.\n\n        -  Step 3: resumption and completion of enrollment if conditions for resuming enrollment\n           at the end of step 2 are fulfilled, i.e. if the percentage of patients randomized to\n           the intervention arm who have a plasma viral load \u2264 50 copies/mL from D0 to W16 is\n           significantly > 70%, which translates in a maximum of 6 virologic failures."
+        }, 
+        "brief_title": "Dolutegravir + Rilpivirine Switch Study (DORISS)", 
+        "completion_date": {
+            "#text": "October 2017", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "HIV Infection", 
+            "HAART-treated", 
+            "Virologically Controlled"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "HIV Infections", 
+                "Acquired Immunodeficiency Syndrome"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Age \u2265 18 years\n\n          -  HIV-1 infection\n\n          -  Treatment with suppressive triple HAART (2 NRTI + either 1 PI/r, or 1 NNRTI, or INI),\n             unchanged for > 6 months, Intra-class substitution within past 6 months is not\n             considered as a treatment change.\n\n          -  Plasma HIV-RNA \u2264 50 copies/mL for > 2 years\n\n          -  CD4 cell count > 350/mm3 for > 6 months\n\n          -  No prior virologic failure under an NNRTI-containing or an INSTI-containing ART\n             regimen\n\n          -  No NNRTI mutation on pre-ART genotype (if no pre-ART genotype available: no NNRTI\n             mutation on DNA genotype at screening) among the following: K101E/P, E138A/G/K/Q/R/S,\n             V179L, Y181C/I/V, Y188L, H221Y, M230I/L/V, L100I + K103N/S, L100I +K103R +V179D.\n\n          -  No mutation (either on pre-ART genotype or on DNA genotype at screening) among the\n             following: T66K, G118R, V151L, S153F/Y, R263K, T66K + L74M, E92Q + N155H, Q148R\n             +N155H, Q148H/K/R with at least one mutation of L74I or E138A/K/T or G140A/C/S\n\n          -  Negative HBs Ag\n\n          -  Informed consent form signed by patient and investigator\n\n          -  A specific consent for the pharmacokinetic substudy will be signed by the 10 patients\n             of the pilot phase of the trial who will be randomized to the Dolutegravir +\n             Rilpivirine arm and will volunteer for this PK study\n\n          -  Patient covered with health insurance\n\n          -  Effective contraception\n\n        Exclusion Criteria:\n\n          -  HIV-2 infection\n\n          -  Dialysis or severe renal failure (creatinine clearance < 30 ml/min)\n\n          -  History of decompensated liver disease\n\n          -  History of HIV-associated neurocognitive disorders\n\n          -  AST or ALT > 5 x ULN\n\n          -  Positive HBc Ac and negative HBs Ac\n\n          -  Patient receiving a proton pump inhibitor that cannot be switched to another\n             anti-secretory drug\n\n          -  Current pregnancy or breastfeeding\n\n          -  Patient involved in another research that precludes enrolment in another trial\n\n          -  Patient under guardianship, or deprived of liberty by a court or administrative\n             decision."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "300", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "February 18, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02069834", 
+            "org_study_id": "RC13_0322", 
+            "secondary_id": "2013-003344-23"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Arm 1 (intervention)", 
+                "description": "Dolutegravir 50 mg/j + Rilpivirine 25 mg/j qd orally (intake during meal)", 
+                "intervention_name": "Arm 1 (intervention)", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Arm 2 (control)", 
+                "description": "Continuation of existing HAART at the time of randomization", 
+                "intervention_name": "Arm 2 (control)", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Dolutegravir", 
+            "Rilpivirine", 
+            "PI- and NRTI- sparing ART regimen", 
+            "switch study"
+        ], 
+        "lastchanged_date": "February 20, 2014", 
+        "location": [
+            {
+                "contact": {
+                    "last_name": "Bruno HOEN, Dr"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Point-a-pitre", 
+                        "country": "France", 
+                        "state": "Guadeloupe", 
+                        "zip": "97159"
+                    }, 
+                    "name": "CHU Guadeloupe"
+                }, 
+                "investigator": {
+                    "last_name": "Bruno Hoen, Pr", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Andr\u00e9 Cabi\u00e9"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Fort de France", 
+                        "country": "France", 
+                        "state": "Martinique", 
+                        "zip": "87261"
+                    }, 
+                    "name": "CHU de Fort de France"
+                }, 
+                "investigator": {
+                    "last_name": "Andr\u00e9 CABIE", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Catherine Chirouze"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Besan\u00e7on", 
+                        "country": "France", 
+                        "zip": "25030"
+                    }, 
+                    "name": "Chu Jean Minjoz"
+                }, 
+                "investigator": {
+                    "last_name": "Catherine CHIROUZE", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Olivier Bouchaud"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Bobigny", 
+                        "country": "France", 
+                        "zip": "93000"
+                    }, 
+                    "name": "H\u00f4pital Avicenne"
+                }, 
+                "investigator": {
+                    "last_name": "olivier Bouchaud", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Vincent Jeantils"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Bondy", 
+                        "country": "France", 
+                        "zip": "93140"
+                    }, 
+                    "name": "H\u00f4pital Jean Verdier"
+                }, 
+                "investigator": {
+                    "last_name": "Vincent JEANTILS", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Didier Neau"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Bordeaux", 
+                        "country": "France", 
+                        "zip": "33076"
+                    }, 
+                    "name": "CHU de Bordeaux"
+                }, 
+                "investigator": {
+                    "last_name": "Didier NEAU", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Lionel PIROTH"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Dijon", 
+                        "country": "France", 
+                        "zip": "21079"
+                    }, 
+                    "name": "CHU de DIJON"
+                }, 
+                "investigator": {
+                    "last_name": "Lionel PIROTH", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Philippe PERRE"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "La Roche sur Yon", 
+                        "country": "France", 
+                        "zip": "85925"
+                    }, 
+                    "name": "CHD La Roche sur Yon"
+                }, 
+                "investigator": {
+                    "last_name": "Philippe PERRE", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "C\u00e9cile Goujard"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Le Kremlin Bicetre", 
+                        "country": "France", 
+                        "zip": "94275"
+                    }, 
+                    "name": "CHU Kremlin Bic\u00eatre"
+                }, 
+                "investigator": {
+                    "last_name": "C\u00e9cile GOUJARD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Gilles FORCE"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Levallois-perret", 
+                        "country": "France", 
+                        "zip": "92300"
+                    }, 
+                    "name": "H\u00f4pital Perpetuel Secours"
+                }, 
+                "investigator": {
+                    "last_name": "Gilles FORCE", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Fran\u00e7ois Raffi, Pr"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Nantes", 
+                        "country": "France", 
+                        "zip": "44093"
+                    }, 
+                    "name": "CHU de Nantes"
+                }, 
+                "investigator": {
+                    "last_name": "Fran\u00e7ois RAFFI, Pr", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Christine KATLAMA"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "zip": "75013"
+                    }, 
+                    "name": "H\u00f4pital La Piti\u00e9 Salp\u00eatri\u00e8re"
+                }, 
+                "investigator": {
+                    "last_name": "Christine KATLAMA", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Jade Ghosn"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "zip": "75004"
+                    }, 
+                    "name": "CHU H\u00f4tel Dieu Paris"
+                }, 
+                "investigator": {
+                    "last_name": "Jade GHOSN", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Laurence Weiss"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "zip": "75908"
+                    }, 
+                    "name": "H\u00f4pital Europ\u00e9en Georges Pompidou"
+                }, 
+                "investigator": {
+                    "last_name": "Laurence WEISS", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Claudine Duvivier"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "zip": "75015"
+                    }, 
+                    "name": "H\u00f4pital Necker - enfants Malades"
+                }, 
+                "investigator": {
+                    "last_name": "Claudine DUVIVIER", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Jean-Michel Molina"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Paris Cedex 10", 
+                        "country": "France", 
+                        "zip": "75475"
+                    }, 
+                    "name": "H\u00f4pital Saint Louis"
+                }, 
+                "investigator": {
+                    "last_name": "Jean-Michel MOLINA", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Guy-Patrick Yeni"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Paris cedex 18", 
+                        "country": "France", 
+                        "zip": "75877"
+                    }, 
+                    "name": "CHU BICHAT - Claude Bernard"
+                }, 
+                "investigator": {
+                    "last_name": "Guy-Patrick YENI", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Christian Michelet"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Rennes", 
+                        "country": "France", 
+                        "zip": "35000"
+                    }, 
+                    "name": "CHU de Rennes - H\u00f4pital Pontchaillou"
+                }, 
+                "investigator": {
+                    "last_name": "Christian MICHELET", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Marie-Aude Khuong"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Saint Denis", 
+                        "country": "France", 
+                        "zip": "93200"
+                    }, 
+                    "name": "CH Delafontaine"
+                }, 
+                "investigator": {
+                    "last_name": "Marie-Aude KHUONG", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Anne Fresard"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Saint Etienne", 
+                        "country": "France", 
+                        "zip": "42055"
+                    }, 
+                    "name": "CHU Saint Etienne"
+                }, 
+                "investigator": {
+                    "last_name": "Anne FRESARD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Marie-Laure Batard"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Strasbourg", 
+                        "country": "France", 
+                        "zip": "67091"
+                    }, 
+                    "name": "CHU de Strasbourg"
+                }, 
+                "investigator": {
+                    "last_name": "Marie-Laure BATARD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "David Zucman"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Suresnes", 
+                        "country": "France", 
+                        "zip": "92150"
+                    }, 
+                    "name": "H\u00f4pital FOCH"
+                }, 
+                "investigator": {
+                    "last_name": "David ZUCMAN", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Pierre Delobel"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Toulouse", 
+                        "country": "France", 
+                        "zip": "31059"
+                    }, 
+                    "name": "CHU Toulouse"
+                }, 
+                "investigator": {
+                    "last_name": "Pierre DELOBEL", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Louis Bernard"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Tours Cedex 09", 
+                        "country": "France", 
+                        "zip": "37044"
+                    }, 
+                    "name": "CHRU de Tours"
+                }, 
+                "investigator": {
+                    "last_name": "Louis BERNARD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Thierry May"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "VANDOEUVRE LES NANCY cedex", 
+                        "country": "France", 
+                        "zip": "54511"
+                    }, 
+                    "name": "CHU de Nancy"
+                }, 
+                "investigator": {
+                    "last_name": "Thierry MAY", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": "France"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Dolutegravir + Rilpivirine Switch Study (DORISS): Pilot and Noninferiority Trial Comparing Dolutegravir + Rilpivirine vs. Continued HAART (Highly Active Antiretroviral Therapy) in Patients With Plasma HIV RNA \u2264 50 Copies/mL for at Least 2 Years", 
+        "overall_contact": {
+            "email": "bruno.hoen@chu-guadeloupe.fr", 
+            "last_name": "Bruno HOEN, Pr"
+        }, 
+        "overall_contact_backup": {
+            "email": "francois.raffi@chu-nantes.fr", 
+            "last_name": "Fran\u00e7ois RAFFI, Pr"
+        }, 
+        "overall_status": "Not yet recruiting", 
+        "oversight_info": {
+            "authority": "France: Agence Nationale de S\u00e9curit\u00e9 du M\u00e9dicament et des produits de sant\u00e9", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 2/Phase 3", 
+        "primary_completion_date": {
+            "#text": "October 2017", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": [
+            {
+                "measure": "Pilot phase: Percentage of patients with plasma viral load \u2264 50 copies HIV-RNA/ml from D0 (Day 0) to W16 (Week 16)", 
+                "safety_issue": "Yes", 
+                "time_frame": "Week 16"
+            }, 
+            {
+                "measure": "Non-inferiority phase: Percentage of patients with plasma HIV RNA maintained \u2264 50 copies/mL throughout 24 weeks", 
+                "safety_issue": "Yes", 
+                "time_frame": "Week 24"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02069834"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Percentage of patients with plasma viral load \u226450 HIV RNA copies/mL at Week 24 and Week 48", 
+                "safety_issue": "Yes", 
+                "time_frame": "Week 48"
+            }, 
+            {
+                "measure": "Percentage of patients with plasma viral load \u226450 HIV RNA copies/mL from Day 0 to Week 48", 
+                "safety_issue": "Yes", 
+                "time_frame": "Week 48"
+            }, 
+            {
+                "measure": "Percentage of virologic failure, defined as 2 consecutive plasma HIV RNA > 50 copies/mL", 
+                "safety_issue": "Yes", 
+                "time_frame": "Week 48"
+            }, 
+            {
+                "measure": "Measure of the profile of genotypic resistance in plasma in case of virologic failure", 
+                "safety_issue": "Yes", 
+                "time_frame": "Week 48"
+            }, 
+            {
+                "measure": "Percentage of patients who discontinued or changed the strategy of the study", 
+                "safety_issue": "Yes", 
+                "time_frame": "Week 48"
+            }, 
+            {
+                "description": "Evolution of the HIV-DNA between Day 0 and week 48", 
+                "measure": "Measure of the HIV-DNA between day 0 and week 48", 
+                "safety_issue": "Yes", 
+                "time_frame": "W48"
+            }, 
+            {
+                "description": "Evolution of CD4 lymphocytes (average) at Week 24 compared to Day 0", 
+                "measure": "Measure of CD4 lymphocytes at week 24 compared to day 0", 
+                "safety_issue": "Yes", 
+                "time_frame": "Week 24"
+            }, 
+            {
+                "description": "Evolution of CD4 lymphocytes (average) at Week 48 compared to Day0", 
+                "measure": "Measure of CD4 lymphocytes at Week 48 compared to Day 0", 
+                "safety_issue": "Yes", 
+                "time_frame": "Week 48"
+            }, 
+            {
+                "description": "Adverse events : incidence, grade and relation to study medication of all adverse events, of grade 2 to 4 events", 
+                "measure": "Number of patients with adverse events of grade 2 to 4", 
+                "safety_issue": "Yes", 
+                "time_frame": "Week 48"
+            }, 
+            {
+                "description": "Mean changes in serum plasma lipid parameters at Week 24 compared to Day 0", 
+                "measure": "Measure of changes in serum plasma lipid parameters at week 24 compared to Day 0", 
+                "safety_issue": "Yes", 
+                "time_frame": "Week 24"
+            }, 
+            {
+                "description": "Mean changes in serum plasma lipid parameters at Week 48 compared to Day 0", 
+                "measure": "Measure of changes in serum lipid parameters at week 48 to Day 0", 
+                "safety_issue": "Yes", 
+                "time_frame": "Week 48"
+            }, 
+            {
+                "description": "Changes in fat mass distribution at Week 24  compared to Day 0", 
+                "measure": "Measure of changes in fat mass distribution at week 24 compared to Day 0", 
+                "safety_issue": "Yes", 
+                "time_frame": "Week 24"
+            }, 
+            {
+                "description": "Changes in fat mass distribution at Week 48 compared to Day 0", 
+                "measure": "Measure of changes in fat mass distribution at Week 48 compared to Day 0", 
+                "safety_issue": "Yes", 
+                "time_frame": "Week 48"
+            }, 
+            {
+                "description": "Evolution of adherence to treatment at Week 24  compared to Day 0 assessed by a validated questionnaire", 
+                "measure": "Measure of adherence to treatment at Week 24 compared to Day 0", 
+                "safety_issue": "Yes", 
+                "time_frame": "Week 24"
+            }, 
+            {
+                "description": "Evolution of adherence to treatment at Week 48 compared to Day 0 assessed by a validated questionnaire", 
+                "measure": "Measure of adherence to treatment at Week 48 compared to Day 0", 
+                "safety_issue": "Yes", 
+                "time_frame": "Week 48"
+            }, 
+            {
+                "description": "Assessment of patient satisfaction for their treatment at D0 by questionnaire", 
+                "measure": "Measure of patient satisfaction for their treatment at Day 0", 
+                "safety_issue": "Yes", 
+                "time_frame": "Day 0"
+            }, 
+            {
+                "description": "Assessment of patient satisfaction for their treatment at Week 24 by questionnaire", 
+                "measure": "Measure of patient satisfaction for their treatment at Week 24", 
+                "safety_issue": "Yes", 
+                "time_frame": "Week 24"
+            }, 
+            {
+                "description": "Assessment of patient satisfaction for their treatment at Week 48 by questionnaire", 
+                "measure": "Measure of patient satisfaction for their treatment at Week 48", 
+                "safety_issue": "Yes", 
+                "time_frame": "Week 48"
+            }, 
+            {
+                "description": "Changes in plasma biomarkers of inflammation (hs-CRP and IL-6) and immune activation (sCD14 , MCP -1, IP10 ) at Week 24 compared to Day 0 .", 
+                "measure": "Measure of changes in plasma biomarkers of inflammation (hs-CRP and IL-6) and immune activation (sCD14 , MCP -1, IP10 ) at Week 24 compared to Day 0 .", 
+                "safety_issue": "Yes", 
+                "time_frame": "Week 24"
+            }, 
+            {
+                "description": "Changes in plasma biomarkers of inflammation (hs-CRP and IL-6) and immune activation (sCD14 , MCP -1, IP10 ) at Week 48 compared to Day 0 .", 
+                "measure": "Measure of changes in plasma biomarkers of inflammation (hs-CRP and IL-6) and immune activation (sCD14 , MCP -1, IP10 ) at Week 48 compared to Day 0 .", 
+                "safety_issue": "Yes", 
+                "time_frame": "Week 48"
+            }, 
+            {
+                "description": "Analysis PK (PharmacoKinetic) / PD (Pharmaodynamic) of plasma concentrations of Dolutegravir and Rilpivirine measured  at Week 4", 
+                "measure": "Measure of plasma concentrations of Dolutegravir and Rilpivirine measured  at Week 4", 
+                "safety_issue": "Yes", 
+                "time_frame": "Week 4"
+            }, 
+            {
+                "description": "Analysis PK / PD of plasma concentrations of Dolutegravir and Rilpivirine measured  at Week 24", 
+                "measure": "Measure of plasma concentrations of Dolutegravir and Rilpivirine measured  at Week 24", 
+                "safety_issue": "Yes", 
+                "time_frame": "Week 24"
+            }, 
+            {
+                "measure": "Measure of the profile of genotypic resistance in plasma in case of virologic failure", 
+                "safety_issue": "Yes", 
+                "time_frame": "Week 24"
+            }, 
+            {
+                "measure": "Percentage of virologic failure, defined as 2 consecutive plasma HIV RNA > 50 copies/mL", 
+                "safety_issue": "Yes", 
+                "time_frame": "Week 24"
+            }
+        ], 
+        "source": "Nantes University Hospital", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Nantes University Hospital", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "May 2014", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "February 2014"
+    }
+}

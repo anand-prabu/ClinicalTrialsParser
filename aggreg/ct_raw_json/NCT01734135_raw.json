@@ -1,0 +1,141 @@
+{
+    "clinical_study": {
+        "@rank": "60262", 
+        "arm_group": [
+            {
+                "arm_group_label": "Usual Care", 
+                "arm_group_type": "No Intervention", 
+                "description": "Usual care"
+            }, 
+            {
+                "arm_group_label": "Clinical Reminder", 
+                "arm_group_type": "Experimental", 
+                "description": "A note is sent to the primary care provider using the electronic medical record indicating the high BNP result and potential benefit of measurement of the left ventricular ejection fraction.  A draft order is placed for an echocardiogram for the provider to accept or delete."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This proposal examines use of a clinical reminder to the primary provider of patient with a\n      high B type natriuretic peptide  but no prior imaging.\n\n      Electrical Medical Record-based Intervention to Determine whether Clinical Reminders Improve\n      Heart Failure Management in Patients with High BNP Values and Unknown LVEF."
+        }, 
+        "brief_title": "Provider Notification for High B-type Natriuretic Peptide Values", 
+        "completion_date": {
+            "#text": "September 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Heart Failure", 
+        "condition_browse": {
+            "mesh_term": "Heart Failure"
+        }, 
+        "detailed_description": {
+            "textblock": "Rationale:  B type natriuretic peptide is known to be elevated (> 100 pg/ml) in patients\n      with heart failure. Furthermore, treatments are available to improve survival and reduce\n      hospitalization if the left ventricular ejection fraction (LVEF) is < 40%.  Accordingly,\n      guidelines recommend an LVEF measure for patients with suspected heart failure.  Prior work\n      has demonstrated that patients with high BNP values do not always have a measure of left\n      ventricular ejection.\n\n      Hypothesis:  A reminder to patients with BNP and no imaging may prompt providers to order\n      appropriate imaging potentially leading to 1) identification of unsuspected depressed\n      ejection fraction and 2) more appropriate treatment."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  BNP >= 200 pg/ml in last 2 months\n\n        Exclusion Criteria:\n\n          -  Measure of LVEF in the last 12 months\n\n          -  Last measure of LVEF < 40%"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "100", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 20, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01734135", 
+            "org_study_id": "CHFQUERI-1101"
+        }, 
+        "intervention": {
+            "arm_group_label": "Clinical Reminder", 
+            "description": "A note is sent to the primary care provider using the electronic medical record indicating the high BNP result and potential benefit of measurement of the left ventricular ejection fraction. A draft order is placed for an echocardiogram for the provider to accept or delete.", 
+            "intervention_name": "Clinical Reminder", 
+            "intervention_type": "Other"
+        }, 
+        "intervention_browse": {
+            "mesh_term": "Natriuretic Peptide, Brain"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "B type natriuretic peptide", 
+            "heart failure", 
+            "cardiac imaging", 
+            "quality of care"
+        ], 
+        "lastchanged_date": "December 2, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Palo Alto", 
+                    "country": "United States", 
+                    "state": "California", 
+                    "zip": "94304"
+                }, 
+                "name": "VA Palo Alto Health Care System"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Trial of Provider Notification for Patients With High B-type Natriuretic Peptide and no Imaging to Identify Unsuspected Heart Failure.", 
+        "overall_official": {
+            "affiliation": "VA Palo Alto HCS", 
+            "last_name": "Paul A Heidenreich, MD, MS", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "September 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "numerator: Measurement of left ventricular ejection fraction within 6 months of randomization.\ndenominator: All randomized patients", 
+            "measure": "Measurement of left ventricular ejection fraction", 
+            "safety_issue": "No", 
+            "time_frame": "6 months after randomization"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01734135"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "VA Palo Alto Health Care System", 
+            "investigator_full_name": "Paul Heidenreich", 
+            "investigator_title": "Investigator", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Numerator: number of patients identified with an LVEF< 40% Denominator: all randomized patients", 
+                "measure": "Identification of LVEF < 40%", 
+                "safety_issue": "No", 
+                "time_frame": "6 months following randomizaiton"
+            }, 
+            {
+                "description": "Numerator: number of patients with an LVEF < 40% and treatment with either an angiotensin converting enzyme inhibitor, angiotensin receptor blocker or evidence based beta-blocker (carvedilol, metoprolol succinate, bisoprolol).\nDenominator: all randomized patients.", 
+                "measure": "Treatment of Low LVEF", 
+                "safety_issue": "No", 
+                "time_frame": "6 months following randomization"
+            }
+        ], 
+        "source": "VA Palo Alto Health Care System", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "VA Palo Alto Health Care System", 
+                "agency_class": "U.S. Fed"
+            }
+        }, 
+        "start_date": "October 2010", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Outcomes Assessor), Primary Purpose: Health Services Research", 
+        "study_type": "Interventional", 
+        "verification_date": "December 2013"
+    }
+}

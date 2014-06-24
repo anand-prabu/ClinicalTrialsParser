@@ -1,0 +1,149 @@
+{
+    "clinical_study": {
+        "@rank": "141396", 
+        "acronym": "Mobi-Smoke", 
+        "brief_summary": {
+            "textblock": "Smokers will use a smartphone app on a smartphone provided for the study that will passively\n      sense and record information about their activities. Information collected from the\n      smartphone app will be used to develop future smartphone apps that will predict when an\n      individual is at risk of smoking."
+        }, 
+        "brief_title": "Mobile Sensing of Smoking Behavior", 
+        "completion_date": {
+            "#text": "June 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Smoking", 
+            "Health"
+        ], 
+        "condition_browse": {
+            "mesh_term": "Smoking"
+        }, 
+        "detailed_description": {
+            "textblock": "Smokers will carry an Android-based smartphone, which they are to use as their own for one\n      month. After using the smartphone for two weeks, they will abstain from smoking for 48\n      hours. The phone will passively sense and record information from onboard sensors and send\n      that information to a central server.  When server based algorithms detect a pattern of\n      signals likely associated with smoking behavior, the smoker will be queried regarding their\n      current state (smoking?, not smoking but likely to in the next 10 minutes?, etc.). Likewise,\n      when smokers are about to smoke but were not queried, they can indicate they are about to\n      smoke. This information will be used to update algorithms using machine learning techniques.\n      As such, in this study investigators will gain knowledge that will increase understanding of\n      antecedents of smoking behavior and improve the accuracy with which smoking risk can be\n      detected."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  generally healthy\n\n          -  between the ages of 18 and 65\n\n          -  smoking of at least 10 cig/day of a brand delivering \u2265 0.5 mg nicotine (FTC method)\n             for > 1 year AND an afternoon expired CO concentration >5 ppm (to confirm inhalation)\n             or morning urinary cotinine > 100 ng/mL\n\n          -  willingness to carry and use a study smartphone as their own for one month\n\n        Exclusion Criteria:\n\n          -  inability to attend all required sessions\n\n          -  use of smokeless tobacco products\n\n          -  current use of nicotine replacement therapy or other smoking cessation treatment"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "65 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "30", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "January 16, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02116283", 
+            "org_study_id": "Pro00044941"
+        }, 
+        "intervention": [
+            {
+                "description": "Participants will maintain smoking abstinence for 48 hours", 
+                "intervention_name": "48 hour smoking abstinence", 
+                "intervention_type": "Behavioral"
+            }, 
+            {
+                "description": "Participants will use an Android-based smartphone as their own for one month", 
+                "intervention_name": "Smartphone", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "smoking", 
+            "healthy", 
+            "smartphone"
+        ], 
+        "lastchanged_date": "April 15, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Durham", 
+                    "country": "United States", 
+                    "state": "North Carolina", 
+                    "zip": "27705"
+                }, 
+                "name": "Duke University Medical Center"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Mobile Sensing of Smoking Behavior", 
+        "overall_contact": {
+            "last_name": "Maggie Sweitzer, Ph.D", 
+            "phone": "919-681-0094"
+        }, 
+        "overall_official": {
+            "affiliation": "Duke University", 
+            "last_name": "Joseph McClernon, Ph.D", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "June 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "phone calls (time, duration, coded identity of contact, including smoking status); SMS texting (time sent, coded identity of contact)", 
+            "measure": "Change in smoking behaviors as measured by an algorithm of social variables", 
+            "safety_issue": "No", 
+            "time_frame": "up to 4 weeks"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02116283"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "acceleration; direction and magnitude of gravity; device orientation", 
+                "measure": "Change in smoking behaviors as measured by an algorithm of motion variables", 
+                "safety_issue": "No", 
+                "time_frame": "up to 4 weeks"
+            }, 
+            {
+                "description": "light; proximity; magnetic field; pressure; temperature", 
+                "measure": "Change in smoking behaviors as measured by an algorithm of environmental variables", 
+                "safety_issue": "No", 
+                "time_frame": "up to 4 weeks"
+            }, 
+            {
+                "description": "running applications; applications installed; screen status", 
+                "measure": "Change in smoking behaviors as measured by an algorithm of device interaction variables", 
+                "safety_issue": "No", 
+                "time_frame": "up to 4 weeks"
+            }, 
+            {
+                "description": "location; Bluetooth devices within range; available WiFi access points; ID for the current cell tower the device is connected to", 
+                "measure": "Change in smoking behaviors as measured by an algorithm of positioning variables", 
+                "safety_issue": "No", 
+                "time_frame": "up to 4 weeks"
+            }
+        ], 
+        "source": "Duke University", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Duke University", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "March 2014", 
+        "study_design": "Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Basic Science", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2014"
+    }
+}

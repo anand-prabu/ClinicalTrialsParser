@@ -1,0 +1,169 @@
+{
+    "clinical_study": {
+        "@rank": "97364", 
+        "acronym": "COMBAT", 
+        "arm_group": [
+            {
+                "arm_group_label": "CCADSS", 
+                "arm_group_type": "Experimental", 
+                "description": "questionnaire completed using i-Pad"
+            }, 
+            {
+                "arm_group_label": "pen-paper", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Questionnaire completed using pen and paper"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This study aims to investigate computer based symptom assessment in an outpatient cancer\n      population, and the use of a computer based decision support system to facilitate the\n      diagnosis and treatment of cancer related pain.\n\n      Primary hypothesis is, that this approach improves pain control and pain management in an\n      unselected group of cancer patients in an outpatient setting.\n\n        -  Improvement of average pain last 24 hours by at least 1.5 points on a 0-11 scale\n\n        -  Improvement of worst pain last 24 hours by at least 1.5 points on a 0-11 scale\n\n        -  An alteration in the prescribing dose of opioids in equipotent opioid dosage\n\n      Secondary hypothesis is, that this system improves overall symptom control and symptom\n      management in an unselected group of cancer patients in an outpatient setting."
+        }, 
+        "brief_title": "Computer Based Assessment and Treatment", 
+        "completion_date": {
+            "#text": "February 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Neoplasms", 
+            "Pain"
+        ], 
+        "condition_browse": {
+            "mesh_term": "Neoplasms"
+        }, 
+        "detailed_description": {
+            "textblock": "The traditional way of symptom assessment is by the paper-and-pen method, which suffers from\n      several limitations. The assessment items are not individually adjusted to each patient and\n      his/her subjective symptoms, the collected data is rarely used in clinical practice, and\n      decision-support for the physician is not possible.\n\n      Although the body of evidence is accumulating regarding the benefits of computerised symptom\n      assessment in cancer patients, there is still insufficient knowledge of the impact of\n      computerised assessment tools on the management of cancer pain and other cancer related\n      symptoms.\n\n      The COMBAT study aims to investigate if a computer based assessment of cancer related\n      symptoms, and a computerized decision support can improve treatment of pain and other\n      symptoms in cancer patients.\n\n      This is an open, comparative study with a sequential design with two consecutive study\n      periods, the non-intervention period and the intervention period.\n\n      The computer-based clinical decision support system will utilize the following data to\n      generate one or several treatment options:\n\n        1. Data from self assessment of cancer related symptoms\n\n        2. Data from relevant variables reported by the physician\n\n        3. Revisited guidelines on treatment of cancer pain"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  attending the outpatient clinic at the Cancer Clinic, St. Olavs Hospital Trondheim\n\n          -  histologically verified malignancy\n\n          -  able to follow study instructions\n\n          -  able to read the information on the computer screen in the intervention period of the\n             study\n\n          -  able to use a touch screen in the intervention period of the study\n\n          -  cancer related pain measured as average pain in last 24 hours of 4 or above on a\n             numeric rating scale\n\n          -  elective or emergency consultation with a physician"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "255", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "February 18, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01795157", 
+            "org_study_id": "2009/859"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "CCADSS", 
+                "description": "Questionnaire is transferred wireless to the physician's PC", 
+                "intervention_name": "CCADSS", 
+                "intervention_type": "Device"
+            }, 
+            {
+                "arm_group_label": "pen-paper", 
+                "description": "Questionnaire completed and transferred to the physician using standard methods", 
+                "intervention_name": "pen-paper", 
+                "intervention_type": "Device"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "decision support systems, clinical", 
+            "decision making, computer assisted", 
+            "evidence based practice", 
+            "practice guidelines as topic"
+        ], 
+        "lastchanged_date": "February 19, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Trondheim", 
+                    "country": "Norway"
+                }, 
+                "name": "Department of Oncology outpatient clinic, St Olavs Hospital"
+            }
+        }, 
+        "location_countries": {
+            "country": "Norway"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Computer Based Assessment and Treatment", 
+        "overall_official": {
+            "affiliation": "Norwegian University of Science and Technology", 
+            "last_name": "Stein Kaasa, MD prof", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Norway:National Committee for Medical and Health Research Ethics", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "February 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "- The Brief Pain Inventory (BPI, a self-reported pain assessment tool aiming to quantify two aspects of cancer pain: Pain intensity and the functional disability as a result of cancer pain.", 
+                "measure": "average and worst pain during the last 24 hours", 
+                "safety_issue": "No", 
+                "time_frame": "1 week"
+            }, 
+            {
+                "description": "- The Brief Pain Inventory (BPI, a self-reported pain assessment tool aiming to quantify two aspects of cancer pain: Pain intensity and the functional disability as a result of cancer pain.", 
+                "measure": "average and worst pain during the last 24 hours", 
+                "safety_issue": "No", 
+                "time_frame": "3 weeks"
+            }, 
+            {
+                "description": "- The Alberta Breakthrough Pain Assessment Tool for cancer patients (ABPAT), a questionnaire developed in order to measure several dimensions of cancer-related breakthrough pain. It contains 15 questions, and was translated into Norwegian by our research group according to EORTC's rules for translation.", 
+                "measure": "average and worst pain during the last 24 hours", 
+                "safety_issue": "No", 
+                "time_frame": "1 week"
+            }, 
+            {
+                "description": "- The Alberta Breakthrough Pain Assessment Tool for cancer patients (ABPAT), a questionnaire developed in order to measure several dimensions of cancer-related breakthrough pain. It contains 15 questions, and was translated into Norwegian by our research group according to EORTC's rules for translation.", 
+                "measure": "average and worst pain during the last 24 hours", 
+                "safety_issue": "No", 
+                "time_frame": "3 weeks"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01795157"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "- The Edmonton Symptom Assessment System (ESAS), a validated standardized questionnaire consisting of 10 items, which evaluate physical and psychological symptoms as well as general wellbeing.", 
+                "measure": "symptoms", 
+                "safety_issue": "No", 
+                "time_frame": "1 week"
+            }, 
+            {
+                "description": "- The Edmonton Symptom Assessment System (ESAS), a validated standardized questionnaire consisting of 10 items, which evaluate physical and psychological symptoms as well as general wellbeing.", 
+                "measure": "symptoms", 
+                "safety_issue": "No", 
+                "time_frame": "3 weeks"
+            }
+        ], 
+        "source": "Norwegian University of Science and Technology", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "St. Olavs Hospital", 
+                "agency_class": "Other"
+            }, 
+            "lead_sponsor": {
+                "agency": "Norwegian University of Science and Technology", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "September 2009", 
+        "study_design": "Allocation: Non-Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "February 2013"
+    }
+}

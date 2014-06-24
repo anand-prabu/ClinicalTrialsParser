@@ -1,0 +1,862 @@
+{
+    "clinical_study": {
+        "@rank": "97620", 
+        "arm_group": [
+            {
+                "arm_group_label": "34 mg/100 kcal arachidonic acid", 
+                "arm_group_type": "Active Comparator", 
+                "description": "10 weeks exclusive feeding with infant formula containing 34 mg/100 kcal of arachidonic acid"
+            }, 
+            {
+                "arm_group_label": "25 mg/100 kcal arachidonic acid", 
+                "arm_group_type": "Active Comparator", 
+                "description": "10 weeks exclusive feeding with infant formula containing 25 mg/100 kcal of arachidonic acid"
+            }, 
+            {
+                "arm_group_label": "Infant formula without arachidonic acid", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "10 weeks exclusive infant formula feeding (without supplemental arachidonic acid)."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The immune system of newborn infants is immature with low activity of both innate and\n      acquired immune reactions. Early nutrition has an impact on early immune responses. Dietary\n      fatty acids are one nutritional factor noted to play a role in immune function. The omega-6\n      long-chain polyunsaturated fatty acid, ARA (Arachidonic acid) and the omega-3 fatty acid,\n      DHA (docosahexaenoic acid) are found naturally in breastmilk and some infant formulas. The\n      balance or relative amounts of ARA and DHA have been associated with immune response. Some\n      commercial infant formula contains both ARA and DHA. However, the optimal balance of ARA and\n      DHA has not been determined with respect to immune function. This study will assess two\n      levels of ARA and the impact on immune response in healthy, term infants and whether genes\n      that influence essential fatty acid metabolism alter the nutritional requirement of infants."
+        }, 
+        "brief_title": "Assessment of Arachidonic Acid Supplementation in Infant Formula on the Immune Response of Infants", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "10 weeks exclusive feeding with infant formula containing 34 mg/100 kcal of arachidonic acid", 
+                            "title": "34 mg/100 kcal Arachidonic Acid"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "10 weeks exclusive feeding with infant formula containing 25 mg/100 kcal of arachidonic acid", 
+                            "title": "25 mg/100 kcal Arachidonic Acid"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "10 weeks exclusive infant formula feeding (without supplemental arachidonic acid).", 
+                            "title": "Infant Formula Without Arachidonic Acid"
+                        }, 
+                        {
+                            "@group_id": "B4", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "30"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "30"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "29"
+                                            }, 
+                                            {
+                                                "@group_id": "B4", 
+                                                "@value": "89"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@spread": "3.8", 
+                                                "@value": "16.8"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@spread": "3.8", 
+                                                "@value": "16.5"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@spread": "4.4", 
+                                                "@value": "17.8"
+                                            }, 
+                                            {
+                                                "@group_id": "B4", 
+                                                "@spread": "1.2", 
+                                                "@value": "17"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "days"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "15"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "17"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "16"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "48"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "15"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "13"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "13"
+                                                }, 
+                                                {
+                                                    "@group_id": "B4", 
+                                                    "@value": "41"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "30"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "30"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "29"
+                                            }, 
+                                            {
+                                                "@group_id": "B4", 
+                                                "@value": "89"
+                                            }
+                                        ]
+                                    }, 
+                                    "sub_title": "Canada"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": {
+                    "group_list": {
+                        "group": [
+                            {
+                                "@group_id": "O1", 
+                                "description": "10 weeks exclusive feeding with infant formula containing 34 mg/100 kcal of arachidonic acid", 
+                                "title": "34 mg/100 kcal Arachidonic Acid"
+                            }, 
+                            {
+                                "@group_id": "O2", 
+                                "description": "10 weeks exclusive feeding with infant formula containing 25 mg/100 kcal of arachidonic acid", 
+                                "title": "25 mg/100 kcal Arachidonic Acid"
+                            }, 
+                            {
+                                "@group_id": "O3", 
+                                "description": "10 weeks exclusive infant formula feeding (without supplemental arachidonic acid).", 
+                                "title": "Infant Formula Without Arachidonic Acid"
+                            }
+                        ]
+                    }, 
+                    "measure_list": {
+                        "measure": [
+                            {
+                                "category_list": {
+                                    "category": {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "O1", 
+                                                    "@value": "13"
+                                                }, 
+                                                {
+                                                    "@group_id": "O2", 
+                                                    "@value": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "O3", 
+                                                    "@value": "9"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }, 
+                                "param": "Number", 
+                                "title": "Number of Participants", 
+                                "units": "participants"
+                            }, 
+                            {
+                                "category_list": {
+                                    "category": {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "O1", 
+                                                    "@value": "21.9"
+                                                }, 
+                                                {
+                                                    "@group_id": "O2", 
+                                                    "@value": "22.8"
+                                                }, 
+                                                {
+                                                    "@group_id": "O3", 
+                                                    "@value": "25.1"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }, 
+                                "param": "Number", 
+                                "title": "Number of Antigen-presenting B Cells", 
+                                "units": "percentage of CD20+ B cells"
+                            }
+                        ]
+                    }, 
+                    "safety_issue": "No", 
+                    "time_frame": "10 weeks", 
+                    "title": "Number of Antigen-presenting B Cells", 
+                    "type": "Primary"
+                }
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "10 weeks exclusive feeding with infant formula containing 34 mg/100 kcal of arachidonic acid", 
+                            "title": "34 mg/100 kcal Arachidonic Acid"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "10 weeks exclusive feeding with infant formula containing 25 mg/100 kcal of arachidonic acid", 
+                            "title": "25 mg/100 kcal Arachidonic Acid"
+                        }, 
+                        {
+                            "@group_id": "P3", 
+                            "description": "10 weeks exclusive infant formula feeding (without supplemental arachidonic acid).", 
+                            "title": "Infant Formula Without Arachidonic Acid"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "30", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "30", 
+                                                "@group_id": "P2"
+                                            }, 
+                                            {
+                                                "@count": "29", 
+                                                "@group_id": "P3"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "20", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "18", 
+                                                "@group_id": "P2"
+                                            }, 
+                                            {
+                                                "@count": "16", 
+                                                "@group_id": "P3"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "10", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "12", 
+                                                "@group_id": "P2"
+                                            }, 
+                                            {
+                                                "@count": "13", 
+                                                "@group_id": "P3"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }
+            }, 
+            "point_of_contact": {
+                "email": "tclandin@ualberta.ca", 
+                "name_or_title": "Dr. Tom Clandinin", 
+                "organization": "University of Alberta", 
+                "phone": "7804925188"
+            }, 
+            "reported_events": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "E1", 
+                            "description": "10 weeks exclusive feeding with infant formula containing 34 mg/100 kcal of arachidonic acid", 
+                            "title": "34 mg/100 kcal Arachidonic Acid"
+                        }, 
+                        {
+                            "@group_id": "E2", 
+                            "description": "10 weeks exclusive feeding with infant formula containing 25 mg/100 kcal of arachidonic acid", 
+                            "title": "25 mg/100 kcal Arachidonic Acid"
+                        }, 
+                        {
+                            "@group_id": "E3", 
+                            "description": "10 weeks exclusive infant formula feeding (without supplemental arachidonic acid).", 
+                            "title": "Infant Formula Without Arachidonic Acid"
+                        }
+                    ]
+                }, 
+                "other_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "7", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "3", 
+                                                "@subjects_at_risk": "29"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, other adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "29"
+                                            }
+                                        ], 
+                                        "sub_title": "swallowing disorder"
+                                    }
+                                }, 
+                                "title": "Ear and labyrinth disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "30"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "30"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "29"
+                                                }
+                                            ], 
+                                            "sub_title": "gastroesophageal reflux"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "30"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "30"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "29"
+                                                }
+                                            ], 
+                                            "sub_title": "constipation"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "30"
+                                                }, 
+                                                {
+                                                    "@events": "2", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "30"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "29"
+                                                }
+                                            ], 
+                                            "sub_title": "colic"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "30"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "30"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "29"
+                                                }
+                                            ], 
+                                            "sub_title": "diarrhea"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "30"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "30"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "29"
+                                                }
+                                            ], 
+                                            "sub_title": "cow's milk intolerance"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "30"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "30"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "29"
+                                                }
+                                            ], 
+                                            "sub_title": "inguinal hernia - male"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "30"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "30"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "29"
+                                                }
+                                            ], 
+                                            "sub_title": "other"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Renal and urinary disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "30"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "30"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "29"
+                                                }
+                                            ], 
+                                            "sub_title": "eczema"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "30"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "30"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "29"
+                                                }
+                                            ], 
+                                            "sub_title": "rash"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Skin and subcutaneous tissue disorders"
+                            }
+                        ]
+                    }, 
+                    "frequency_threshold": "0"
+                }, 
+                "serious_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "29"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, serious adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "29"
+                                            }
+                                        ], 
+                                        "sub_title": "sudden unexpected infant death"
+                                    }
+                                }, 
+                                "title": "General disorders"
+                            }
+                        ]
+                    }
+                }
+            }
+        }, 
+        "completion_date": {
+            "#text": "February 2014", 
+            "@type": "Actual"
+        }, 
+        "condition": "Focus: Nutritional Requirements for Infants", 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion criteria:\n\n          -  healthy term infants\n\n          -  birth weight, length and head circumference between the 5th and 95th percentile for\n             gestational age (according to the National Center for Health Statistics growth\n             charts)\n\n          -  receiving >80% for their intake by mouth from commercial infant formula\n\n          -  low-risk for allergy based on a negative family history.\n\n        Exclusion criteria:\n\n          -  corticosteroid use\n\n          -  red cell or plasma transfusions\n\n          -  IV lipid emulsions prior to study entry\n\n          -  major congenital malformations\n\n          -  systemic or congenital infection\n\n          -  significant neonatal morbidity\n\n          -  maternal autoimmune disorders\n\n          -  acute illness precluding oral feedings or conditions requiring feedings other than\n             standard formula"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "21 Days", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "89", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "March 18, 2014", 
+        "firstreceived_results_date": "March 24, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02092857", 
+            "org_study_id": "Pro00005583", 
+            "secondary_id": "230831"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "25 mg/100 kcal arachidonic acid", 
+                "intervention_name": "Arachidonic acid (25 mg/100 kcal )", 
+                "intervention_type": "Dietary Supplement"
+            }, 
+            {
+                "arm_group_label": "34 mg/100 kcal arachidonic acid", 
+                "intervention_name": "Arachidonic acid (34 mg/100 kcal)", 
+                "intervention_type": "Dietary Supplement"
+            }, 
+            {
+                "arm_group_label": "Infant formula without arachidonic acid", 
+                "description": "10 weeks exclusive infant formula feeding (without supplemental arachidonic acid).", 
+                "intervention_name": "Placebo", 
+                "intervention_type": "Dietary Supplement"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "nutrient", 
+            "nutrition", 
+            "arachidonic acid", 
+            "essential fatty acids"
+        ], 
+        "lastchanged_date": "March 24, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Edmonton", 
+                    "country": "Canada", 
+                    "state": "Alberta", 
+                    "zip": "T6G 2B7"
+                }, 
+                "name": "University of Alberta Hospital"
+            }
+        }, 
+        "location_countries": {
+            "country": "Canada"
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "Assessment of Arachidonic Acid Supplementation in Infant Formula on the Immune Response of Infants", 
+        "overall_official": {
+            "affiliation": "University of Alberta", 
+            "last_name": "Michael T Clandinin, PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Canada: Health Canada"
+        }, 
+        "phase": "Phase 1", 
+        "primary_completion_date": {
+            "#text": "November 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "Number of Antigen-presenting B Cells", 
+            "safety_issue": "No", 
+            "time_frame": "10 weeks"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02092857"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "University of Alberta", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Mead Johnson Nutrition", 
+                "agency_class": "Industry"
+            }, 
+            "lead_sponsor": {
+                "agency": "University of Alberta", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "December 2009", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Bio-equivalence Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Basic Science", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2014"
+    }
+}

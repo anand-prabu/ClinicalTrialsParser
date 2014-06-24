@@ -1,0 +1,520 @@
+{
+    "clinical_study": {
+        "@rank": "38368", 
+        "acronym": "HOMENOW", 
+        "arm_group": [
+            {
+                "arm_group_label": "1 (Phenobarbital and Methadone)", 
+                "arm_group_type": "Active Comparator", 
+                "description": "The following is a dosing guide for methadone:\nThe neonatal concentration is 1 mg/ml of methadone. It is administered orally every 12 hours.\nFor the first 24 hours, doses will be prescribed every 6 hours using a sliding scale in response to the last NAS score:\nNAS Score  Methadone dose 8-11       0.05 mg/kg/dose 12-15      0.1 mg/kg/dose\n\u226516        0.15 mg/kg/dose\nMaximum dose of methadone will be 0.15 mg/kg/dose.\nAfter the first 24 hours of treatment, the total methadone dose will be summed and that dose divided into two doses, given 12 hours apart. For the following 24 hours, additional doses may be given every 6 hours as needed and added to the next 24 hour's doses divided every 12 hours, until NAS scores are consistently <8 for 48 hours.\nIf at any pointthe maximum dose of methadone is reached and withdrawal is not controlled, then in the opinion of two neonatologists the patient can be crossed-over to the dDTO arm."
+            }, 
+            {
+                "arm_group_label": "2 (Phenobarbital and Diluted Deodorized Tincture of Opium)", 
+                "arm_group_type": "Active Comparator", 
+                "description": "The following is a dosing guide for dDTO:\nThe neonatal concentration is 1:24 dilution for a concentration of 0.4%, equivalent to 0.4 mg/ml of morphine. It is administered orally every 4 hours.\nThe starting dose will be determined using a sliding scale in response to the last NAS score before starting.\nNAS Score Starting dDTO dose 8-11        0.4 mg/kg/day 12-15         0.6 mg/kg/day\n\u226516        0.8 mg/kg/day\nThe maximum dose of DTO will be 0.8 mg/kg/day.\nAfter the first 24 hours of treatment, if the NAS scores are still \u22658, the dose will be increased to the next level.\nIf at any point the maximum dose of methadone is reached and withdrawal is not controlled, then in the opinion of two neonatologists the patient can be crossed-over to the methadone arm."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This study compares treatment of Neonatal Abstinence Syndrome (NAS) with two different drugs\n      for the difference in the length of treatment.  This is a randomized, open-label comparison\n      of phenobarbital and methadone versus phenobarbital and diluted deodorized tincture of opium\n      (dDTO) where phenobarbital is the initial drug used to stabilize neonatal withdrawal."
+        }, 
+        "brief_title": "Treatment of Neonatal Abstinence Syndrome", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "for withdrawal reaching treatment threshold phenobarbital was first started and if a second drug was needed randomization was done after consent; this arm started methadone", 
+                            "title": "Methadone After Phenobarbital for Withdrawal"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "for withdrawal reaching treatment threshold phenobarbital was first started and if a second drug was needed randomization was done after consent; this arm started dilute deordorized tincture of opium", 
+                            "title": "DTO After Phenobarbital for Withdrawal"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "20"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "20"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "40"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "20"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "20"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "40"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@spread": "0", 
+                                                "@value": "0.005"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@spread": "0", 
+                                                "@value": "0.005"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@spread": "0", 
+                                                "@value": "0.005"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "9"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "8"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "17"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "11"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "23"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "20"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "20"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "40"
+                                            }
+                                        ]
+                                    }, 
+                                    "sub_title": "United States"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": {
+                    "description": "Up to 12 months", 
+                    "group_list": {
+                        "group": [
+                            {
+                                "@group_id": "O1", 
+                                "description": "for withdrawal reaching treatment threshold phenobarbital was first started and if a second drug was needed randomization was done after consent; this arm started dilute deordorized tincture of opium", 
+                                "title": "Deodorized Tincture Opium After Phenobarbital for Withdrawal"
+                            }, 
+                            {
+                                "@group_id": "O2", 
+                                "description": "for withdrawal reaching treatment threshold phenobarbital was first started and if a second drug was needed randomization was done after consent; this arm started methadone", 
+                                "title": "Methadone After Phenobarbital for Withdrawal"
+                            }
+                        ]
+                    }, 
+                    "measure_list": {
+                        "measure": [
+                            {
+                                "category_list": {
+                                    "category": {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "O1", 
+                                                    "@value": "20"
+                                                }, 
+                                                {
+                                                    "@group_id": "O2", 
+                                                    "@value": "20"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }, 
+                                "param": "Number", 
+                                "title": "Number of Participants", 
+                                "units": "participants"
+                            }, 
+                            {
+                                "category_list": {
+                                    "category": {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "O1", 
+                                                    "@spread": "8.8", 
+                                                    "@value": "19.1"
+                                                }, 
+                                                {
+                                                    "@group_id": "O2", 
+                                                    "@spread": "10", 
+                                                    "@value": "17.7"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }, 
+                                "description": "Up to 12 months", 
+                                "dispersion": "Standard Deviation", 
+                                "param": "Mean", 
+                                "title": "Length of Treatment With Opioid Medication", 
+                                "units": "days"
+                            }
+                        ]
+                    }, 
+                    "population": "Completion of treatment", 
+                    "safety_issue": "No", 
+                    "time_frame": "Up to 12 months", 
+                    "title": "Length of Treatment With Opioid Medication", 
+                    "type": "Primary"
+                }
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "for withdrawal reaching treatment threshold phenobarbital was first started and if a second drug was needed randomization was done after consent; this arm started methadone", 
+                            "title": "Methadone After Phenobarbital for Withdrawal"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "for withdrawal reaching treatment threshold phenobarbital was first started and if a second drug was needed randomization was done after consent; this arm started dilute deordorized tincture of opium", 
+                            "title": "Deodorized Tincture Opium After Phenobarbital for Withdrawal"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "20", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "20", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "20", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "20", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "pre_assignment_details": "Exclusion for other medical conditions causing withdrawal symptoms, gestation less than 35 weeks", 
+                "recruitment_details": "Recruitment period 11/15/2007 through 9/1/2009; location Eastern Maine Medical Center NICU"
+            }, 
+            "point_of_contact": {
+                "email": "mbrown@emh.org", 
+                "name_or_title": "Dr Mark S Brown", 
+                "organization": "Eastern Maine Medical Center", 
+                "phone": "207-973-8670"
+            }
+        }, 
+        "completion_date": {
+            "#text": "September 2009", 
+            "@type": "Actual"
+        }, 
+        "condition": "Neonatal Abstinence Syndrome", 
+        "condition_browse": {
+            "mesh_term": "Neonatal Abstinence Syndrome"
+        }, 
+        "detailed_description": {
+            "textblock": "a.Procedures: NAS scoring is currently done on infants meeting the inclusion criteria [IDD\n      29:070].  NAS scores are initially done every 2 hours for 24 hours and then every 4 hours\n      when awake or before feeding for the duration of observation or treatment.\n\n      i. NAS scores may indicate more than withdrawal.  Conditions such as colic, reflux, or\n      baseline irritability may influence the baseline scores.  Decisions made based on the NAS\n      scores should take into account these factors and the baseline for the infant.\n\n      b.Emergence of symptom, dosing, and initiation of treatment: Withdrawal is defined as at\n      least 2 NAS scores >8 or 1 NAS score >12. Once withdrawal has emerged, the infant will be\n      given: i. Phenobarbital 20 to 30 mg/kg to load divided in up to 3 doses over 24 hours and\n      maintenance phenobarbital should be started at 2.5 mg/kg/dose administered Q 12h, 12 hours\n      after the loading dose is ended.  NAS scoring is continued and if scores remain <8 for a\n      minimum of 5 days after starting phenobarbital, the infant is eligible for discharge.\n\n      ii. If after phenobarbital treatment has been started, at least 2 NAS scores >8 or 1 NAS\n      score >12, then a phenobarbital level will be drawn and a mini-load calculated to reach a\n      level of 30 mg/dl. If withdrawal is not controlled or re-emerges after the mini-load dose,\n      the infant will be randomized to one of the two arms of the study - methadone or dDTO.\n\n      iii. Twins will be randomized together to the same arm. iv. Randomization will be stratified\n      into mothers on narcotic treatment >3 months and those not in treatment or <3 months.\n      Randomization will be done in blocks of 10 for each stratum.\n\n      v. For both drugs, the neonatal preparation will be used. vi. The following is a dosing\n      guide for methadone:\n\n        1. The neonatal concentration is 1 mg/ml of methadone.  It is administered orally every 12\n           hours - standardized eventually to 0900 and 2100.\n\n        2. For the first 24 hours, doses will be prescribed every 6 hours for 4 doses, using a\n           sliding scale in response to the last NAS score:\n\n           NAS Score Methadone dose 8-11 0.05 mg/kg/dose 12-15 0.1 mg/kg/dose >16 0.15 mg/kg/dose\n\n        3. Maximum loading dose of methadone will be 0.15 mg/kg/dose Q 6 hour\n\n        4. After the first 24 hours of treatment, the total methadone dose will be summed and that\n           dose divided into two doses, given 12 hours apart.  Subsequently, PRN doses of 0.05\n           mg/kg/dose may be given every 6 hours for scores >8 X 2 and added to the next 24 hour's\n           doses, divided every 12 hours, until NAS scores are consistently <8 for 48 hours.\n\n        5. If at any point the maximum dose of methadone is reached and withdrawal is not\n           controlled, then in the opinion of two neonatologists the patient can be crossed-over\n           to the dDTO arm.\n\n      vii.  The following is a dosing guide for dDTO:\n\n        1. The neonatal concentration is 1:24 dilution for a concentration of 0.4%, equivalent to\n           0.4 mg/ml of morphine.  It is administered orally every 4 hours - standardized\n           eventually to 0400, 0800, 1200, 1600, 2000, 0000.\n\n        2. The starting dose is determined by using a sliding scale in response to the last NAS\n           score before starting:\n\n           NAS Score dDTO dose 8-11 0.1 mg/kg/day 12-15 0.15 mg/kg/day >16 0.2 mg/kg/day\n\n           For next day, the maintenance dose will return to the previous dose and given in 6\n           divided doses given Q 4 hours.\n\n           iv. For either methadone or dDTO, dosing will be held at this level and weaning will be\n           resumed when the infant has NAS scores <8 for 48 hours.\n\n           e. Holding of doses: Methadone or dDTO will be held for poor feeding, respiratory\n           depression, or somnolence at any time in the protocol.\n\n           f. Behavioral assessment:  Behavioral assessment will be done by two methods.  The\n           first by actigraphy and the second by NINS, both during the second week of weaning.\n           The latter will be done prior to a scheduled phenobarbital dose.\n\n           g. Formula:  A 24 kcal/ounce formula should be fed initially using either standard\n           formula or by adding breast milk fortifier.  During the weaning period, when weight\n           gain is >30 grams/day for at least 2 days, formula will be changed to 20 kcal/ounce and\n           weight gain monitored.  If not sustained, then formula should be changed back to 24\n           kcal/ounce."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Evidence of opioid withdrawal clinically as defined by 2 NAS scores >8 or  1 NAS\n             score >12 over a 4 to 8 hour time period, AND\n\n          -  Gestation >=35 weeks at entry defined by best obstetrical and physical exam criteria,\n             AND\n\n          -  Medically stable condition, other than in opioid withdrawal, in the opinion of the\n             attending neonatologist, AND EITHER,\n\n          -  Meconium or urine drug screen positive for opioids on mother or newborn, OR\n\n          -  Known maternal prescription of opioids for chronic pain management during at least\n             the last trimester of pregnancy, OR\n\n          -  Known maternal prescription of opioids for treatment of addiction, OR\n\n          -  Suspected or admitted abuse with opioid drugs\n\n          -  Infants of mothers with a medical or psychiatric diagnosis will not be excluded,\n             unless the maternal diagnosis precludes informed consent\n\n        Exclusion Criteria:\n\n          -  Gestation <35 weeks at entry defined by best obstetrical and physical exam criteria.\n\n          -  Hypoglycemia, hypomagnesaemia, or hypocalcaemia until corrected.\n\n          -  Serious medical illness such as sepsis, pneumonia, hyperthyroidism, meningitis,\n             intracranial hemorrhage, perinatal depression, or respiratory failure requiring\n             admission to the NICU.\n\n          -  Evidence of major congenital anomalies or genetic syndromes that impact the neonatal\n             course."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "6 Days", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "40", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "January 27, 2011", 
+        "firstreceived_results_date": "March 1, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01723722", 
+            "org_study_id": "07-2-M-107"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "1 (Phenobarbital and Methadone)", 
+                "description": "Concentration is 1mg/mL administered every 12 hours given on sliding scale in response to last NAS score.", 
+                "intervention_name": "Methadone", 
+                "intervention_type": "Drug", 
+                "other_name": "Dolophine"
+            }, 
+            {
+                "arm_group_label": "2 (Phenobarbital and Diluted Deodorized Tincture of Opium)", 
+                "description": "Concentration is 1:24 dilution for a concentration of 0.4%", 
+                "intervention_name": "Diluted Deodorized Tincture of Opium", 
+                "intervention_type": "Drug", 
+                "other_name": "Laudanum"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Methadone", 
+                "Opium", 
+                "Phenobarbital"
+            ]
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Neonatal Abstinence Syndrome", 
+            "Methadone", 
+            "Diluted Deodorized Tincture of Opium", 
+            "dDTO", 
+            "Phenobarbital"
+        ], 
+        "lastchanged_date": "November 5, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Bangor", 
+                    "country": "United States", 
+                    "state": "Maine", 
+                    "zip": "04401"
+                }, 
+                "name": "Eastern Maine Medical Center"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Treatment of Neonatal Abstinence Syndrome: Evaluation of Efficacy of Phenobarbital in Combination With Either Methadone or Diluted Deodorized Tincture of Opium as Stabilizing and Tapering Regiments", 
+        "overall_official": {
+            "affiliation": "Eastern Maine Medical Center", 
+            "last_name": "Mark S. Brown, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 4", 
+        "primary_completion_date": {
+            "#text": "September 2009", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Up to 12 months", 
+            "measure": "Length of Treatment With Opioid Medication", 
+            "safety_issue": "No", 
+            "time_frame": "Up to 12 months"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01723722"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Eastern Maine Medical Center", 
+            "investigator_full_name": "Mark S Brown, MD", 
+            "investigator_title": "Chief of Pediatric Service, Neonatalogy", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "source": "Eastern Maine Medical Center", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Eastern Maine Medical Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2007", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "November 2013"
+    }
+}

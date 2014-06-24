@@ -1,0 +1,140 @@
+{
+    "clinical_study": {
+        "@rank": "107687", 
+        "arm_group": {
+            "arm_group_label": "Automated Programming", 
+            "arm_group_type": "Experimental", 
+            "description": "Subjects will have DBS settings changed as guided by prototype DBS-Expert software. Tremor, bradykinesia, and dyskinesia will be assessed at each DBS setting."
+        }, 
+        "brief_summary": {
+            "textblock": "The clinical utility of deep brain stimulation (DBS) for the treatment of movement disorders\n      such as Parkinson's disease has been well established; however, there is a great disparity\n      in outcomes among DBS recipients due to varied postoperative management, particularly\n      concerning the choosing of an optimal set of programming parameters from the thousands of\n      possible combinations. This study will evaluate the use of motion sensor based assessments\n      to develop a functional map and algorithms to automatically determine a set of programming\n      parameters that maximize symptomatic benefits while minimizing side effects and battery\n      consumption."
+        }, 
+        "brief_title": "Pilot Study for Automated Deep Brain Stimulation Programming", 
+        "condition": [
+            "Parkinson's Disease", 
+            "Tremor", 
+            "Bradykinesia"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Parkinson Disease", 
+                "Tremor", 
+                "Hypokinesia"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Clinical diagnosis of idiopathic Parkinson's disease\n\n          -  Implanted deep brain stimulation system awaiting initial programming session\n\n        Exclusion Criteria:\n\n          -  Subjects with significant psychiatric illness or dementia\n\n          -  Significant cognitive impairment"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "10", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "December 5, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02046863", 
+            "org_study_id": "1R43NS081902-01", 
+            "secondary_id": "1R43NS081902"
+        }, 
+        "intervention": {
+            "arm_group_label": "Automated Programming", 
+            "description": "Prototype DBS-Expert software will be used to guide a clinician through DBS programming.", 
+            "intervention_name": "Automated Programming", 
+            "intervention_type": "Device"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "keyword": [
+            "Parkinson's disease", 
+            "Tremor", 
+            "Bradykinesia", 
+            "Deep brain stimulation", 
+            "Kinesia"
+        ], 
+        "lastchanged_date": "January 24, 2014", 
+        "location": {
+            "contact": {
+                "last_name": "Maureen Gartner, MSN, NP-C", 
+                "phone": "513-558-2968"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Cincinnati", 
+                    "country": "United States", 
+                    "state": "Ohio", 
+                    "zip": "45267"
+                }, 
+                "name": "University of Cincinnati Department of Neurology"
+            }, 
+            "investigator": {
+                "last_name": "Fredy Revilla, MD", 
+                "role": "Principal Investigator"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "DBS-Expert: Automated Deep Brain Stimulation Programming Using Functional Mapping - Phase I", 
+        "overall_official": {
+            "affiliation": "Great Lakes NeuroTechnologies", 
+            "last_name": "Dustin A Heldman, PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "April 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "Change from Baseline in Unified Parkinson's Disease Rating Scale III Score After Guided DBS Programming", 
+            "safety_issue": "No", 
+            "time_frame": "Within two days of standard clinical DBS programming session"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02046863"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "measure": "Change from Baseline in Kinesia HomeView Symptom Ratings After Guided DBS Programming", 
+            "safety_issue": "No", 
+            "time_frame": "Within two days of standard clinical DBS programming session"
+        }, 
+        "source": "Great Lakes NeuroTechnologies Inc.", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "National Institute of Neurological Disorders and Stroke (NINDS)", 
+                    "agency_class": "NIH"
+                }, 
+                {
+                    "agency": "University of Cincinnati", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "Great Lakes NeuroTechnologies Inc.", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "November 2013", 
+        "study_design": "Intervention Model: Single Group Assignment, Masking: Single Blind (Outcomes Assessor), Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2014"
+    }
+}

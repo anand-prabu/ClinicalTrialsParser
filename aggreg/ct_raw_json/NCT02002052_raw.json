@@ -1,0 +1,180 @@
+{
+    "clinical_study": {
+        "@rank": "89109", 
+        "acronym": "FLAIR", 
+        "arm_group": [
+            {
+                "arm_group_label": "Standard Arm", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Standard platinum-based chemoradiotherapy, total radiation dose 60 Gy in 30 fractions"
+            }, 
+            {
+                "arm_group_label": "Experimental Arm", 
+                "arm_group_type": "Experimental", 
+                "description": "Functional-lung avoidance radiotherapy, total dose 60 Gy in 30 fractions, with concurrent platinum-based chemotherapy"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Concurrent chemoradiotherapy is the standard treatment for locally advanced, unresectable\n      non-small cell lung cancer, but carries a risk of radiation pneumonitis of approximately\n      30%, and is associated with a decline in pulmonary quality of life.\n\n      Standard radiation planning aims to optimize dose to the anatomic lung volume, without\n      consideration of the differences in regional lung function. Functional lung avoidance\n      radiotherapy aims to reduce radiotherapy dose to regions of functioning lung, instead\n      depositing dose in areas of lung that are not well-ventilated. Functional lung regions are\n      determined using noble-gas MRI and co-registered to the radiotherapy planning CT scans.\n      Functional lung avoidance radiotherapy has been demonstrated to be feasible, and this trial\n      aims to compare outcomes between standard radiotherapy (with concurrent chemotherapy) vs.\n      functional lung avoidance radiotherapy (with concurrent chemotherapy)."
+        }, 
+        "brief_title": "Functional Lung Avoidance for Individualized Radiotherapy (FLAIR): A Randomized, Double-Blind Clinical Trial", 
+        "condition": "Non-small Cell Lung Cancer", 
+        "condition_browse": {
+            "mesh_term": [
+                "Carcinoma, Non-Small-Cell Lung", 
+                "Lung Neoplasms"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "All consenting patients will undergo hyperpolarized noble gas MRI using 3-He for definition\n      of functional lung volumes. Two radiotherapy treatment plans will be generated prior to\n      randomization: one standard plan using anatomical lung avoidance, and one functional lung\n      avoidance plan. After approval of both plans, patients will be randomized, and both patients\n      and physicians will be blinded to treatment allocation."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Age 18 or older\n\n          -  Willing to provide informed consent\n\n          -  ECOG performance status 0-2\n\n          -  Histologically confirmed non-small cell lung carcinoma\n\n          -  Locally advanced Stage IIIA or IIIB lung carcinoma according to AJCC 7th edition\n\n          -  History of at least 10-pack-years of smoking\n\n          -  Not undergoing surgical resection\n\n          -  Assessment by medical oncologist and radiation oncologist, with adequate bone marrow,\n             hepatic and renal function for administration of platinum-based  chemotherapy\n\n        Exclusion Criteria:\n\n          -  Contraindications to MRI\n\n          -  Serious medical comorbidities (such as unstable angina, sepsis) or other\n             contraindications to radiotherapy or chemotherapy\n\n          -  Prior history of lung cancer within 5 years\n\n          -  Prior thoracic radiation at any time\n\n          -  Metastatic disease. Patients who present with oligometastatic disease where all\n             metastases have been ablated (with surgery or radiotherapy) are candidates if they\n             are receiving chemoradiotherapy to the thoracic disease with curative intent.\n\n          -  Inability to attend full course of radiotherapy or follow-up visits\n\n          -  Pregnant or lactating women"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "64", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 29, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02002052", 
+            "org_study_id": "UWO-FLAIR"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Standard Arm", 
+                    "Experimental Arm"
+                ], 
+                "description": "Platinum-based concurrent chemotherapy in both arms", 
+                "intervention_name": "Concurrent platinum-based chemotherapy", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Standard Arm", 
+                "intervention_name": "Standard Radiotherapy, 60 Gy in 30 fractions.", 
+                "intervention_type": "Radiation"
+            }, 
+            {
+                "arm_group_label": "Experimental Arm", 
+                "intervention_name": "Functional Lung Avoidance Radiotherapy, 60 Gy in 30 fractions", 
+                "intervention_type": "Radiation"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": "non-small cell lung cancer, radiotherapy, chemotherapy, pneumonitis, functional lung avoidance", 
+        "lastchanged_date": "November 29, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "London", 
+                    "country": "Canada", 
+                    "state": "Ontario", 
+                    "zip": "N6A4L6"
+                }, 
+                "name": "London Health Sciences Centre"
+            }, 
+            "investigator": [
+                {
+                    "last_name": "Grace Parraga, PhD", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "David Palma, MD, PhD", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Douglas Hoover, PhD", 
+                    "role": "Sub-Investigator"
+                }
+            ], 
+            "status": "Not yet recruiting"
+        }, 
+        "location_countries": {
+            "country": "Canada"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Functional Lung Avoidance for Individualized Radiotherapy (FLAIR): A Randomized, Double-Blind Clinical Trial", 
+        "overall_contact": {
+            "last_name": "Brian Yaremko, MD", 
+            "phone": "519-685-8500"
+        }, 
+        "overall_status": "Not yet recruiting", 
+        "oversight_info": {
+            "authority": "Canada: Institutional Review Board", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "January 2020", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Measured using the Functional-Assessment of Cancer Therapy-Lung Cancer Subscale (FACT-LCS)", 
+            "measure": "Pulmonary quality of life 3-months post-treatment.", 
+            "safety_issue": "No", 
+            "time_frame": "3-months post-treatment"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02002052"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Lawson Health Research Institute", 
+            "investigator_full_name": "Brian Yaremko", 
+            "investigator_title": "Principal Investigator", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Measured using the FACT-LCS, FACT-TOI, and FACT-L", 
+                "measure": "Quality of life at other time points", 
+                "safety_issue": "No", 
+                "time_frame": "up to 1 year"
+            }, 
+            {
+                "description": "CTC-AE version 4", 
+                "measure": "Toxicity", 
+                "safety_issue": "No", 
+                "time_frame": "up to 1 yr"
+            }, 
+            {
+                "description": "Defined as time from randomization to death from any cause", 
+                "measure": "Overall Survival", 
+                "safety_issue": "No", 
+                "time_frame": "5-years"
+            }, 
+            {
+                "description": "Time from randomization to disease progression at any site or death", 
+                "measure": "Progression Free Survival", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 5 years"
+            }, 
+            {
+                "description": "Based on utilities from EQ-5D", 
+                "measure": "Quality-adjusted survival", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 5 years"
+            }
+        ], 
+        "source": "Lawson Health Research Institute", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Lawson Health Research Institute", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2014", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "November 2013"
+    }
+}

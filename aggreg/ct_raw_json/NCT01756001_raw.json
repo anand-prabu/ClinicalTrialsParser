@@ -1,0 +1,233 @@
+{
+    "clinical_study": {
+        "@rank": "3062", 
+        "arm_group": [
+            {
+                "arm_group_label": "Control Arm", 
+                "arm_group_type": "Other", 
+                "description": "Arm 1 will be the Control arm, in which subjects will be instructed to use the GlowCap for their chronic disease medication but will not be provided with any specific incentive for taking the medication or with any aid in remembering to do so."
+            }, 
+            {
+                "arm_group_label": "Reminder Arm", 
+                "arm_group_type": "Experimental", 
+                "description": "Arm 2 will be the Reminder arm with daily email, text message, or phone call reminders for intervention. Subjects will be told that to aid in daily adherence to the medication, they will be provided with reminders for the first three months of the study and possibly again later in the study. At the start of the study, subjects will be given the option to receive daily email reminders, text message reminders, or daily (automated) phone call reminders to take their pill, each at a time of day that they choose.  The default setting will be for subjects to receive both text and email reminders at 8AM each day. Subjects will be instructed on how to change their settings if they would like to receive a different set of reminders at different points in time."
+            }, 
+            {
+                "arm_group_label": "Feedback Arm", 
+                "arm_group_type": "Experimental", 
+                "description": "Arm 3 will be the Feedback arm. Subjects will be told that to aid in daily adherence to the medication, they will be provided with feedback on their adherence for the first three months of the study and possibly again later in the study. Feedback and evaluation will take the form of a weekly email message at 8am on Sunday morning that will inform the subject of the number of days in the preceding week (Sunday to Saturday) that they opened the Vitality pill bottle. This feedback will be accompanied by an evaluation that indicates their success with medication adherence. Taking the pill each of 7 days would be a \"Great\", missing one day would be a \"Good,\" missing two days would be \"Needs improvement\" and missing more than two days would be \"Needs significant improvement.\""
+            }, 
+            {
+                "arm_group_label": "Social Motivation Arm", 
+                "arm_group_type": "Experimental", 
+                "description": "Arm 4 will be the Social Motivation arm, which will be identical to the Feedback arm except with feedback provided to a friend or family member of the subject. At the start of the study, subjects will be asked to list up to 3 people who care about the subject's medication adherence and might be interested in receiving the weekly feedback. These people would be contacted and asked to participate in the study as a recipient of feedback information. The feedback recipient would be provided with a monetary incentive to complete surveys at the start and end of the study. The identity of the feedback recipient would be told to the subject at the start of the study."
+            }, 
+            {
+                "arm_group_label": "Financial Incentives Arm", 
+                "arm_group_type": "Experimental", 
+                "description": "Arm 5 will be the financial incentives arm, in which subjects will be paid for adherence. Their total earnings will be administered at the end of the experiment through the WTH platform."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This randomized control trial will explore interventions to promote medication adherence\n      using a novel electronic device that can track daily pill use. 500 subjects will be\n      randomized into 5 arms of the experiment. In addition to a control arm, our four arms will\n      be: reminders, feedback and evaluation, reports sent to friends and relatives, and financial\n      incentives."
+        }, 
+        "brief_title": "GlowCaps Adherence Randomized Control Trial", 
+        "condition": "Medical Adherence", 
+        "detailed_description": {
+            "textblock": "The investigators aim to study simple \"behavioral economics\" interventions that rely on\n      consumer engagement to overcome cognitive and motivational barriers to medication adherence.\n       Our goals are threefold: (1) to analyze which interventions are most effective in promoting\n      medication adherence; (2) to analyze which interventions are most effective in promoting\n      long-term habits that persist even when the interventions are removed; and (3) to understand\n      how various patient characteristics (e.g. age or risk preferences) predict adherence or\n      treatment receptivity.  The investigators plan to track daily adherence of patients to a\n      prescribed chronic disease drug using a new technology that electronically monitors when a\n      pill bottle has been opened. In our control condition, patients will be monitored but not be\n      provided with any reminders, adherence information, or incentive to adhere to their\n      medication. Our four additional treatments will either: (1) provide the patient with a daily\n      email, text message, or phone call reminder to take the pill; (2) email the patient a weekly\n      summary of his/her performance and an evaluation of performance highlighting the importance\n      of medication adherence; (3) email the patient, as well as patient-selected friends or\n      family members, a weekly summary of his/her performance; or (4) pay patients for each day\n      that they take their pill."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  patients diagnosed with chronic disease\n\n          -  age 16-84\n\n        Exclusion Criteria:\n\n          -  all patients not meeting inclusion criteria\n\n          -  people who report that they currently use a day-of-the-week pill bottle\n\n          -  people for whom AT&T does not have reliable wireless service for the Glowcap to\n             communicate with the Way To Health platform"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "84 Years", 
+            "minimum_age": "16 Years"
+        }, 
+        "enrollment": {
+            "#text": "600", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "December 6, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01756001", 
+            "org_study_id": "816493", 
+            "secondary_id": "10035604"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Control Arm", 
+                    "Reminder Arm", 
+                    "Feedback Arm", 
+                    "Social Motivation Arm", 
+                    "Financial Incentives Arm"
+                ], 
+                "description": "The main research instrument is an electronic pill bottle called GlowCaps (by Vitality) that has the ability to transmit adherence data to the Way to Health (WTH) web portal. The investigators will measure adherence by counting the number of properly taken doses during the final four weeks of the study. Each time the pill bottle is opened, a date- and time-stamped wireless signal is sent to the Vitality server via the AT&T cellular network which will then be uploaded to the Way to Health portal for aggregation.", 
+                "intervention_name": "GlowCap", 
+                "intervention_type": "Device"
+            }, 
+            {
+                "arm_group_label": "Reminder Arm", 
+                "intervention_name": "Daily email, text message, or phone call reminders", 
+                "intervention_type": "Behavioral"
+            }, 
+            {
+                "arm_group_label": "Feedback Arm", 
+                "intervention_name": "Feedback and evaluation", 
+                "intervention_type": "Behavioral"
+            }, 
+            {
+                "arm_group_label": "Social Motivation Arm", 
+                "intervention_name": "Feedback provided to friend or family member", 
+                "intervention_type": "Behavioral"
+            }, 
+            {
+                "arm_group_label": "Financial Incentives Arm", 
+                "intervention_name": "Paid for adherence", 
+                "intervention_type": "Behavioral"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "March 14, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Philadelphia", 
+                    "country": "United States", 
+                    "state": "Pennsylvania", 
+                    "zip": "19104"
+                }, 
+                "name": "University of Pennsylvania"
+            }, 
+            "investigator": {
+                "last_name": "Judd Kessler", 
+                "role": "Principal Investigator"
+            }, 
+            "status": "Not yet recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "5", 
+        "official_title": "Using Behavioral Economics to Promote Medication Adherence and Habit Formation", 
+        "overall_contact": {
+            "email": "carcar@mail.med.upenn.edu", 
+            "last_name": "Caroline Carney", 
+            "phone": "215-573-2782"
+        }, 
+        "overall_official": [
+            {
+                "affiliation": "University of Pennsylvania", 
+                "last_name": "Judd Kessler", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Harvard University", 
+                "last_name": "Dmitry Taubinsky", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Harvard University", 
+                "last_name": "Eric Zwick", 
+                "role": "Principal Investigator"
+            }
+        ], 
+        "overall_status": "Not yet recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "January 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "This is a randomized controlled study with 5 arms - 1 control and 4 interventional. The primary outcome will be the number of doses taken as directed during the course of the study.", 
+            "measure": "Number of doses taken", 
+            "safety_issue": "No", 
+            "time_frame": "40 weeks"
+        }, 
+        "reference": [
+            {
+                "citation": "Cutler DM, Everett W. Thinking outside the pillbox\u2423Medication adherence as a priority for health care reform. N Engl J Med 2010; 362: 1553-1555."
+            }, 
+            {
+                "citation": "Deci, E. Effects of externally mediated rewards on intrinsic motivation. Journal of Personality and Social Psychology 1971; 18: 105-115."
+            }, 
+            {
+                "PMID": "19139387", 
+                "citation": "Doshi JA, Zhu J, Lee BY, Kimmel SE, Volpp KG. Impact of a prescription copayment increase on lipid-lowering medication adherence in veterans. Circulation. 2009 Jan 27;119(3):390-7. doi: 10.1161/CIRCULATIONAHA.108.783944. Epub 2009 Jan 12."
+            }, 
+            {
+                "PMID": "18663540", 
+                "citation": "Long JA, Helweg-Larsen M, Volpp KG. Patient opinions regarding 'pay for performance for patients'. J Gen Intern Med. 2008 Oct;23(10):1647-52. doi: 10.1007/s11606-008-0739-1. Epub 2008 Jul 29."
+            }, 
+            {
+                "citation": "Osterberg L, Blaschke T. Adherence to medication. N Engl J Med 2005; 353: 487-497."
+            }, 
+            {
+                "PMID": "17576283", 
+                "citation": "Schultz PW, Nolan JM, Cialdini RB, Goldstein NJ, Griskevicius V. The constructive, destructive, and reconstructive power of social norms. Psychol Sci. 2007 May;18(5):429-34."
+            }, 
+            {
+                "PMID": "19066383", 
+                "citation": "Volpp KG, John LK, Troxel AB, Norton L, Fassbender J, Loewenstein G. Financial incentive-based approaches for weight loss: a randomized trial. JAMA. 2008 Dec 10;300(22):2631-7."
+            }, 
+            {
+                "PMID": "19102784", 
+                "citation": "Volpp KG, Loewenstein G, Troxel AB, Doshi J, Price M, Laskin M, Kimmel SE. A test of financial incentives to improve warfarin adherence. BMC Health Serv Res. 2008 Dec 23;8:272."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01756001"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Secondary outcomes will be subjects' reported wellbeing and subjects' evaluations of the various interventions. Secondary outcomes will also include claims and cost of care for subjects from Blue Cross Blue Shield (BCBS) of Massachusetts for two years after the intervention.", 
+                "measure": "Subjects' reported wellbeing", 
+                "safety_issue": "No", 
+                "time_frame": "13 weeks"
+            }, 
+            {
+                "description": "Secondary outcomes will be subjects' reported wellbeing and subjects' evaluations of the various interventions. Secondary outcomes will also include claims and cost of care for subjects from Blue Cross Blue Shield (BCBS) of Massachusetts for two years after the intervention.", 
+                "measure": "Subjects' evaluation of the various interventions", 
+                "safety_issue": "No", 
+                "time_frame": "26 weeks"
+            }
+        ], 
+        "source": "University of Pennsylvania", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "Harvard University", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "National Bureau of Economic Research, Inc.", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Donaghue Medical Research Foundation", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "University of Pennsylvania", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "March 2013", 
+        "study_design": "Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Single Blind (Subject), Primary Purpose: Health Services Research", 
+        "study_type": "Interventional", 
+        "verification_date": "November 2012"
+    }
+}

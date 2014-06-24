@@ -1,0 +1,169 @@
+{
+    "clinical_study": {
+        "@rank": "168027", 
+        "arm_group": [
+            {
+                "arm_group_label": "TPO responder", 
+                "description": "Patients with therapeutic response to TPO"
+            }, 
+            {
+                "arm_group_label": "TPO non-responder", 
+                "description": "Patients not responding to TPO agonists"
+            }
+        ], 
+        "biospec_descr": {
+            "textblock": "RNA and DNA will be retained"
+        }, 
+        "biospec_retention": "Samples With DNA", 
+        "brief_summary": {
+            "textblock": "Introduction:\n\n      Ineffective platelet production has been proven to play a role in the etiology of Immune\n      Thrombocytopenia (ITP) in addition to increased platelet destruction.  The second-generation\n      thrombopoietin (TPO) mimetics have shown good efficacy in boosting platelet counts in the\n      great majority of patients with chronic ITP in several clinical trials.1, 2  Nevertheless,\n      about 20% of patients with ITP fail to respond to the TPO mimetic treatment.  Those\n      treatment-resistant patients are un-characterized and the reasons for the lack of response\n      have not been studied. The identification of predictive blood biomarkers of patients'\n      response to treatment will be useful in reducing both cost and potential side effects; and\n      it will be of equal importance and interest to investigate the molecular mechanisms\n      underlying the patients' heterogeneous responses to TPO mimetic treatment.\n\n      Specific Aims:\n\n        1. To identify blood classifier genes which correlate with patients' response to TPO\n           mimetic treatment.\n\n        2. To compare the blood gene expression changes in responders and non-responders after TPO\n           mimetic treatment and explore the possible molecular mechanisms accounting for the\n           non-responsiveness to the treatment."
+        }, 
+        "brief_title": "Genome-Wide Gene Expression Profiling of Patients With ITP Receiving Thrombopoietin Mimetics", 
+        "completion_date": {
+            "#text": "July 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Immune Thrombocytopenia Response to Thrombopoietin Mimetics", 
+        "condition_browse": {
+            "mesh_term": "Thrombocytopenia"
+        }, 
+        "detailed_description": {
+            "textblock": "1. Identification and validation of response-predictive genes. The normalized\n           pre-treatment microarray data of the training set is retrieved from SMD for statistical\n           analysis.  The supervised analysis SAM (Significance Analysis of Microarrays, two class\n           unpaired) is performed to identify genes whose expression is significantly different\n           between responders and non-responders.  Then a Leave-one-out cross-validated\n           gene-expression predictor for the 2 response classes is devised by the PAM (Predication\n           Analysis of Microarrays) method based on nearest shrunken centroids.  The unsupervised\n           clustering of the independent test set is performed using the predictive genes and the\n           prediction accuracy is calculated.  Quantitative real-time PCR is performed as further\n           validation using the un-amplified RNA samples and Taqman gene expression assays\n           (Applied Biosciences).\n\n        2. Gene expression changes correlated with TPO mimetic treatment and pathway analysis.\n\n      2.1. Hypothesis: The transcriptional profile of patients who respond to TPO agonists is\n      different than those who do not respond.\n\n      Plan: The expression data of pre-treatment as well as the 1-week and 1-month after\n      initiation of treatment samples is retrieved from SMD.  The two class paired SAM analysis is\n      performed to compare pre-treatment samples with samples collected at either 1-week or\n      1-month after initiation of treatment in responders and non-responders.  The two class\n      unpaired SAM analysis is also used to compare post-treatment samples of responders and\n      non-responders at the same time point.  The significant genes (q value<0.05, fold\n      change>2.5) are subsequently analyzed by IPA (Ingenuity Pathway Analysis) system to be\n      transformed into a set of relevant networks based on the extensive records maintained in the\n      Ingenuity Pathway Knowledge Base.  The statistically significant networks, molecular and\n      cellular functions, top canonical pathways and toxicity lists associated with each pair of\n      dataset will be recognized through this analysis.  Hypothesis on non-response to TPO\n      mimetics can be generated based on the different functional subsets of significant genes.\n      Genes involved in important pathways identified by IPA analysis will be validated by QRT-PCR\n      as in our recent publication on oxidative stress pathways in ITP4.   Our goal is to develop\n      biomarkers which predict likelihood of response to therapy and identify pathways associated\n      with resistance to therapy which could be targeted.\n\n      2.2 Hypothesis: Since available TPO agonists have different mechanisms of action, there may\n      be differences in responders and non-responders between the different drugs.\n\n      Plan: We recognize that TPO agonists have different mechanisms of action which could affect\n      downstream signaling pathways and transcriptional responses. For this reason in addition to\n      evaluating the TPO agonists as a group in 2.1 above, patients will also be analyzed by type\n      of agonist. The conclusions of this type of analysis will be limited by the numbers of\n      individuals treated with a particular drug but could be useful for hypothesis generation and\n      confirmation in a larger cohort."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  clinical diagnosis of ITP TPO treatment\n\n        Exclusion Criteria:\n\n          -  thrombocytopenia not due to ITP"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "Patients with ITP receiving TPO agonists"
+            }
+        }, 
+        "enrollment": {
+            "#text": "75", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 12, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01727999", 
+            "org_study_id": "SPO 105489"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "TPO response", 
+            "ITP", 
+            "immune thrombocytopenia"
+        ], 
+        "lastchanged_date": "November 15, 2012", 
+        "location": [
+            {
+                "contact": {
+                    "email": "zehnder@stanford.edu", 
+                    "last_name": "James L Zehnder, MD", 
+                    "phone": "650-723-9232"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Stanford", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94305"
+                    }, 
+                    "name": "Stanford University"
+                }, 
+                "investigator": {
+                    "last_name": "James L Zehnder, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "jbussel@med.cornell.edu", 
+                    "last_name": "James B Bussel, MD"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10065"
+                    }, 
+                    "name": "Weill Medical College, Cornell University"
+                }, 
+                "investigator": {
+                    "last_name": "James B Bussel, MD", 
+                    "role": "Sub-Investigator"
+                }, 
+                "status": "Recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_groups": "2", 
+        "official_title": "Genome-Wide Gene Expression Profiling of Patients With ITP Receiving Thrombopoietin Mimetics", 
+        "overall_official": {
+            "affiliation": "Stanford University", 
+            "last_name": "James L Zehnder, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "July 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "1. To identify blood classifier genes which correlate with patients' response to TPO mimetic treatment.", 
+            "safety_issue": "No", 
+            "time_frame": "2 years"
+        }, 
+        "reference": [
+            {
+                "PMID": "18046028", 
+                "citation": "Bussel JB, Cheng G, Saleh MN, Psaila B, Kovaleva L, Meddeb B, Kloczko J, Hassani H, Mayer B, Stone NL, Arning M, Provan D, Jenkins JM. Eltrombopag for the treatment of chronic idiopathic thrombocytopenic purpura. N Engl J Med. 2007 Nov 29;357(22):2237-47."
+            }, 
+            {
+                "PMID": "19005182", 
+                "citation": "Rodeghiero F, Stasi R, Gernsheimer T, Michel M, Provan D, Arnold DM, Bussel JB, Cines DB, Chong BH, Cooper N, Godeau B, Lechner K, Mazzucconi MG, McMillan R, Sanz MA, Imbach P, Blanchette V, K\u00fchne T, Ruggeri M, George JN. Standardization of terminology, definitions and outcome criteria in immune thrombocytopenic purpura of adults and children: report from an international working group. Blood. 2009 Mar 12;113(11):2386-93. Epub 2008 Nov 12."
+            }, 
+            {
+                "PMID": "18242413", 
+                "citation": "Kuter DJ, Bussel JB, Lyons RM, Pullarkat V, Gernsheimer TB, Senecal FM, Aledort LM, George JN, Kessler CM, Sanz MA, Liebman HA, Slovick FT, de Wolf JT, Bourgeois E, Guthrie TH Jr, Newland A, Wasser JS, Hamburg SI, Grande C, Lefr\u00e8re F, Lichtin AE, Tarantino MD, Terebelo HR, Viallard JF, Cuevas FJ, Go RS, Henry DH, Redner RL, Rice L, Schipperus MR, Guo DM, Nichol JL. Efficacy of romiplostim in patients with chronic immune thrombocytopenic purpura: a double-blind randomised controlled trial. Lancet. 2008 Feb 2;371(9610):395-403."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01727999"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Stanford University", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Weill Medical College of Cornell University", 
+                "agency_class": "Other"
+            }, 
+            "lead_sponsor": {
+                "agency": "Stanford University", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "July 2012", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "November 2012"
+    }
+}

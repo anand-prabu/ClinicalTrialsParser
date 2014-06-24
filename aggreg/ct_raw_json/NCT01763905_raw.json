@@ -1,0 +1,929 @@
+{
+    "clinical_study": {
+        "@rank": "9838", 
+        "acronym": "GAUSS-2", 
+        "arm_group": [
+            {
+                "arm_group_label": "Arm 1", 
+                "arm_group_type": "Experimental", 
+                "description": "Dose 1 of subcutaneous Evolocumab(AMG 145) every 2 weeks and placebo orally/daily"
+            }, 
+            {
+                "arm_group_label": "Arm 2", 
+                "arm_group_type": "Experimental", 
+                "description": "Dose 2 of subcutaneous Evolocumab(AMG 145) monthly and placebo orally/daily"
+            }, 
+            {
+                "arm_group_label": "Arm 3", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Dose 3 of subcutaneous placebo every 2 weeks and Ezetimibe orally/daily"
+            }, 
+            {
+                "arm_group_label": "Arm 4", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Dose 4 of subcutaneous placebo monthly and Ezetimibe orally/daily"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The primary hypothesis is that both dosing regimens of Evolocumab (AMG 145) will be well\n      tolerated and will result in greater reduction of Low Density Lipoprotein (LDL-C), than\n      ezetimibe in hypercholesterolemic subjects unable to tolerate an effective dose of a statin."
+        }, 
+        "brief_title": "Goal Achievement After Utilizing an Anti-PCSK9 Antibody in Statin Intolerant Subjects -2", 
+        "completion_date": {
+            "#text": "January 2014", 
+            "@type": "Actual"
+        }, 
+        "condition": "Hyperlipidemia", 
+        "condition_browse": {
+            "mesh_term": "Hyperlipidemias"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Male or female \u2265 18 to \u2264 80 years of age\n\n          -  Not on a statin or on a low dose statin with stable dose for at least 4 weeks\n\n          -  History of intolerance to at least 2 statins\n\n          -  Subject not at LDL-C goal\n\n          -  Lipid lowering therapy has been stable prior to enrolment for at least 4 weeks.\n\n          -  Fasting triglycerides \u2264 400 mg/dL\n\n        Exclusion Criteria:\n\n          -  NYHA III or IV heart failure\n\n          -  Uncontrolled cardiac arrhythmia\n\n          -  Uncontrolled hypertension\n\n          -  Type 1 diabetes, poorly controlled type 2 diabetes\n\n          -  Uncontrolled hypothyroidism or hyperthyroidism"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "80 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "307", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "January 7, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01763905", 
+            "org_study_id": "20110116"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Arm 1", 
+                    "Arm 2"
+                ], 
+                "description": "Subjects will receive Evolocumab (AMG 145) every 2 weeks or monthly", 
+                "intervention_name": "Evolocumab (AMG 145)", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "arm_group_label": [
+                    "Arm 3", 
+                    "Arm 4"
+                ], 
+                "description": "Subjects will receive Placebo every 2 weeks or monthly. All patients at screening will participate in the placebo run-in.", 
+                "intervention_name": "Placebo (administered subcutaneously)", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": [
+                    "Arm 3", 
+                    "Arm 4"
+                ], 
+                "description": "Subjects will receive Ezetimibe daily", 
+                "intervention_name": "Ezetimibe", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "Arm 1", 
+                    "Arm 2"
+                ], 
+                "description": "Subject will receive Placebo daily", 
+                "intervention_name": "Placebo (administered orally)", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Hydroxymethylglutaryl-CoA Reductase Inhibitors", 
+                "Ezetimibe"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": "High Cholesterol, Treatment for high cholesterol, Lowering cholesterol, Lowering high cholesterol, Hypercholesterolemia", 
+        "lastchanged_date": "May 29, 2014", 
+        "link": {
+            "description": "AmgenTrials clinical trials website", 
+            "url": "http://www.amgentrials.com"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Carmichael", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "95608"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90048"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mission Viejo", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92691"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Thousand Oaks", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "91360"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Atlanta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30338"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Atlanta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30342"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Savannah", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "31406"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Auburn", 
+                        "country": "United States", 
+                        "state": "Maine", 
+                        "zip": "04210"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Traverse City", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "49684"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St. Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63110"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Henderson", 
+                        "country": "United States", 
+                        "state": "Nevada", 
+                        "zip": "89052"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Las Vegas", 
+                        "country": "United States", 
+                        "state": "Nevada", 
+                        "zip": "89117"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Las Vegas", 
+                        "country": "United States", 
+                        "state": "Nevada", 
+                        "zip": "89148"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10029"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Raleigh", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27609"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Akron", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44311"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cincinnati", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45212"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cleveland", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44195"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Norman", 
+                        "country": "United States", 
+                        "state": "Oklahoma", 
+                        "zip": "73069"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77030"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Camperdown", 
+                        "country": "Australia", 
+                        "state": "New South Wales", 
+                        "zip": "2015"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milton", 
+                        "country": "Australia", 
+                        "state": "Queensland", 
+                        "zip": "4064"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Melbourne", 
+                        "country": "Australia", 
+                        "state": "Victoria", 
+                        "zip": "3004"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Perth", 
+                        "country": "Australia", 
+                        "state": "Western Australia", 
+                        "zip": "6000"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Brussels", 
+                        "country": "Belgium", 
+                        "zip": "1200"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Gent", 
+                        "country": "Belgium", 
+                        "zip": "9000"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "La Louvi\u00e8re", 
+                        "country": "Belgium", 
+                        "zip": "7100"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Newmarket", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "L3Y 5G8"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lachine", 
+                        "country": "Canada", 
+                        "state": "Quebec", 
+                        "zip": "H8S 2E4"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pointe-Claire", 
+                        "country": "Canada", 
+                        "state": "Quebec", 
+                        "zip": "H9R 3J1"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Aalborg", 
+                        "country": "Denmark", 
+                        "zip": "9000"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ballerup", 
+                        "country": "Denmark", 
+                        "zip": "2750"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Vejle", 
+                        "country": "Denmark", 
+                        "zip": "7100"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lille Cedex", 
+                        "country": "France", 
+                        "zip": "59037"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris Cedex 13", 
+                        "country": "France", 
+                        "zip": "75651"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "V\u00e9nissieux", 
+                        "country": "France", 
+                        "zip": "69200"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bad Krozingen", 
+                        "country": "Germany", 
+                        "zip": "79189"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dresden", 
+                        "country": "Germany", 
+                        "zip": "01307"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Heppenheim", 
+                        "country": "Germany", 
+                        "zip": "64646"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hong Kong", 
+                        "country": "Hong Kong"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Territories", 
+                        "country": "Hong Kong"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Alkmaar", 
+                        "country": "Netherlands", 
+                        "zip": "1815 JD"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Amsterdam", 
+                        "country": "Netherlands", 
+                        "zip": "1105 AZ"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Groningen", 
+                        "country": "Netherlands", 
+                        "zip": "9713 GZ"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lodz", 
+                        "country": "Poland", 
+                        "zip": "90-368"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Warszawa", 
+                        "country": "Poland", 
+                        "zip": "04-730"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Midrand", 
+                        "country": "South Africa", 
+                        "state": "Gauteng", 
+                        "zip": "1685"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Observatory", 
+                        "country": "South Africa", 
+                        "state": "Western Cape", 
+                        "zip": "7925"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Somerset West", 
+                        "country": "South Africa", 
+                        "state": "Western Cape", 
+                        "zip": "7130"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cordoba", 
+                        "country": "Spain", 
+                        "state": "Andaluc\u00eda", 
+                        "zip": "14004"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Zaragoza", 
+                        "country": "Spain", 
+                        "state": "Arag\u00f3n", 
+                        "zip": "50009"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Reus", 
+                        "country": "Spain", 
+                        "state": "Catalu\u00f1a", 
+                        "zip": "43204"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lugano", 
+                        "country": "Switzerland", 
+                        "zip": "6900"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Reinach", 
+                        "country": "Switzerland", 
+                        "zip": "4153"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Liverpool", 
+                        "country": "United Kingdom", 
+                        "zip": "L22 0LG"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "London", 
+                        "country": "United Kingdom", 
+                        "zip": "NW3 2QG"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Telford", 
+                        "country": "United Kingdom", 
+                        "zip": "TF1 6TF"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "West Bromwich", 
+                        "country": "United Kingdom", 
+                        "zip": "B71 4HJ"
+                    }, 
+                    "name": "Research Site"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Australia", 
+                "Belgium", 
+                "Canada", 
+                "Denmark", 
+                "France", 
+                "Germany", 
+                "Hong Kong", 
+                "Netherlands", 
+                "Poland", 
+                "South Africa", 
+                "Spain", 
+                "Switzerland", 
+                "United Kingdom"
+            ]
+        }, 
+        "number_of_arms": "4", 
+        "official_title": "A Double-blind, Randomized, Multicenter Study to Evaluate Safety and Efficacy of Evolocumab (AMG 145), Compared With Ezetimibe, in Hypercholesterolemic Subjects Unable to Tolerate an Effective Dose of a HMG-CoA Reductase Inhibitor", 
+        "overall_official": {
+            "affiliation": "Amgen", 
+            "last_name": "MD", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": [
+                "Hong Kong: Department of Health", 
+                "Poland: Office for Registration of Medicinal Products, Medical Devices and Biocidal Products", 
+                "Australia: Department of Health and Ageing Therapeutic Goods Administration", 
+                "France: Afssaps - Agence fran\u00e7aise de s\u00e9curit\u00e9 sanitaire des produits de sant\u00e9 (Saint-Denis)", 
+                "Germany: Paul-Ehrlich-Institut", 
+                "Spain: Agencia Espa\u00f1ola de Medicamentos y Productos Sanitarios", 
+                "South Africa: Medicines Control Council", 
+                "Switzerland: Swissmedic", 
+                "Belgium: Federal Agency for Medicinal Products and Health Products", 
+                "Denmark: Danish Health and Medicines Authority", 
+                "Netherlands: The Central Committee on Research Involving Human Subjects (CCMO)", 
+                "United Kingdom: Medicines and Healthcare Products Regulatory Agency", 
+                "Canada: Health Canada", 
+                "United States: Food and Drug Administration"
+            ], 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "November 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "Mean percent change from baseline in low density lipoprotein-cholesterol", 
+                "measure": "Mean percent change from baseline in low density lipoprotein-cholesterol", 
+                "safety_issue": "No", 
+                "time_frame": "10 and 12 Weeks"
+            }, 
+            {
+                "description": "Percent change from baseline in low density lipoprotein-cholesterol", 
+                "measure": "Percent change from baseline in low density lipoprotein-cholesterol", 
+                "safety_issue": "No", 
+                "time_frame": "12 Weeks"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01763905"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Mean change from baseline in low density lipoprotein-cholesterol", 
+                "measure": "Mean change from baseline in low density lipoprotein-cholesterol", 
+                "safety_issue": "No", 
+                "time_frame": "10 and 12 Weeks"
+            }, 
+            {
+                "description": "Change from baseline in low density lipoprotein-cholesterol", 
+                "measure": "Change from baseline in low density lipoprotein-cholesterol", 
+                "safety_issue": "No", 
+                "time_frame": "12 Weeks"
+            }, 
+            {
+                "description": "Mean low density lipoprotein-cholesterol response (low density lipoprotein-cholesterol < 70 mg/dL [1.8 mmol/L])", 
+                "measure": "Mean low density lipoprotein-cholesterol response (low density lipoprotein-cholesterol < 70 mg/dL [1.8 mmol/L])", 
+                "safety_issue": "No", 
+                "time_frame": "10 and 12 Weeks"
+            }, 
+            {
+                "description": "Low density lipoprotein-cholesterol response (low density lipoprotein-cholesterol < 70 mg/dL [1.8 mmol/L])", 
+                "measure": "Low density lipoprotein-cholesterol response (low density lipoprotein-cholesterol < 70 mg/dL [1.8 mmol/L])", 
+                "safety_issue": "No", 
+                "time_frame": "12 Weeks"
+            }, 
+            {
+                "description": "Mean percent change from baseline in non-high density lipoprotein-cholesterol", 
+                "measure": "Mean percent change from baseline in non-high density lipoprotein-cholesterol", 
+                "safety_issue": "No", 
+                "time_frame": "10 and 12 Weeks"
+            }, 
+            {
+                "description": "Percent change from baseline in non-high density lipoprotein-cholesterol", 
+                "measure": "Percent change from baseline in non-high density lipoprotein-cholesterol", 
+                "safety_issue": "No", 
+                "time_frame": "12 Weeks"
+            }, 
+            {
+                "description": "Mean percent change from baseline in apolipoprotein B", 
+                "measure": "Mean percent change from baseline in apolipoprotein B", 
+                "safety_issue": "No", 
+                "time_frame": "10 and 12 Weeks"
+            }, 
+            {
+                "description": "Percent change from baseline in apolipoprotein B", 
+                "measure": "Percent change from baseline in apolipoprotein B", 
+                "safety_issue": "No", 
+                "time_frame": "12 Weeks"
+            }, 
+            {
+                "description": "Mean percent change from baseline in the total cholesterol/high density lipoprotein-cholesterol ratio", 
+                "measure": "Mean percent change from baseline in the total cholesterol/high density lipoprotein-cholesterol ratio", 
+                "safety_issue": "No", 
+                "time_frame": "10 and 12 Weeks"
+            }, 
+            {
+                "description": "Percent change from baseline in the total cholesterol/high density lipoprotein-cholesterol ratio", 
+                "measure": "Percent change from baseline in the total cholesterol/high density lipoprotein-cholesterol ratio", 
+                "safety_issue": "No", 
+                "time_frame": "12 Weeks"
+            }, 
+            {
+                "description": "Mean percent change from baseline in apolipoprotein B/apolipoprotein A1 ratio", 
+                "measure": "Mean percent change from baseline in apolipoprotein B/apolipoprotein A1 ratio", 
+                "safety_issue": "No", 
+                "time_frame": "10 and 12 Weeks"
+            }, 
+            {
+                "description": "Percent change from baseline in apolipoprotein B/apolipoprotein A1 ratio", 
+                "measure": "Percent change from baseline in apolipoprotein B/apolipoprotein A1 ratio", 
+                "safety_issue": "No", 
+                "time_frame": "12 Weeks"
+            }, 
+            {
+                "description": "Mean percent change from baseline in lipoprotein (a)", 
+                "measure": "Mean percent change from baseline in lipoprotein (a)", 
+                "safety_issue": "No", 
+                "time_frame": "10 and  12 Weeks"
+            }, 
+            {
+                "description": "Percent change from baseline in lipoprotein (a)", 
+                "measure": "Percent change from baseline in lipoprotein (a)", 
+                "safety_issue": "No", 
+                "time_frame": "12 Weeks"
+            }, 
+            {
+                "description": "Mean percent change from baseline in triglycerides", 
+                "measure": "Mean percent change from baseline in triglycerides", 
+                "safety_issue": "No", 
+                "time_frame": "10 and 12 Weeks"
+            }, 
+            {
+                "description": "Percent change from baseline in triglycerides", 
+                "measure": "Percent change from baseline in triglycerides", 
+                "safety_issue": "No", 
+                "time_frame": "12 Weeks"
+            }, 
+            {
+                "description": "Mean percent change from baseline in high density lipoprotein-cholesterol", 
+                "measure": "Mean percent change from baseline in high density lipoprotein-cholesterol", 
+                "safety_issue": "No", 
+                "time_frame": "10 and 12 Weeks"
+            }, 
+            {
+                "description": "Percent change from baseline in high density lipoprotein-cholesterol", 
+                "measure": "Percent change from baseline in high density lipoprotein-cholesterol", 
+                "safety_issue": "No", 
+                "time_frame": "12 Weeks"
+            }, 
+            {
+                "description": "Mean percent change from baseline in very low density lipoprotein-cholesterol", 
+                "measure": "Mean percent change from baseline in very low density lipoprotein-cholesterol", 
+                "safety_issue": "No", 
+                "time_frame": "10 and 12 Weeks"
+            }, 
+            {
+                "description": "Percent change from baseline in very low density lipoprotein-cholesterol", 
+                "measure": "Percent change from baseline in very low density lipoprotein-cholesterol", 
+                "safety_issue": "No", 
+                "time_frame": "12 Weeks"
+            }
+        ], 
+        "source": "Amgen", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Amgen", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "January 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2014"
+    }
+}

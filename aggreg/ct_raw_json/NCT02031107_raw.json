@@ -1,0 +1,261 @@
+{
+    "clinical_study": {
+        "@rank": "13374", 
+        "arm_group": [
+            {
+                "arm_group_label": "cTBS", 
+                "arm_group_type": "Active Comparator", 
+                "description": "A transcranial magnetic stimulator (MagPro X100, Medtronic Functional Diagnostics, Skovlunde, Denmark) will deliver continuous bursts of bipolar magnetic pulses exerting an inhibition on the underlying brain tissue (cTBS). The stimulation coil will be placed over the unaffected primary motor cortex. The stimulation protocol implies 200 bursts, each consisting of three pulses applied at 30 Hz, repeated at inter-burst intervals of 167 ms. Two stimulation trains of 30 s, separated by 15 min, will be applied 3 times per week for 3 weeks and will be immediately followed by physical therapy."
+            }, 
+            {
+                "arm_group_label": "cathodal tDCS", 
+                "arm_group_type": "Active Comparator", 
+                "description": "A stimulator (NeuroConn GmbH, Illmenau, Germany) will deliver cathodal transcranial direct current stimulation (tDCS) of the unaffected motor cortex. The anode will be placed over the contralateral supraorbital region. Stimulation will be performed for 25 min, 3 times per week for 3 weeks during upper extremity treatment sessions."
+            }, 
+            {
+                "arm_group_label": "sham stimulation", 
+                "arm_group_type": "Sham Comparator", 
+                "description": "This group will receive the same stimulation protocol as used for the active groups except that sham stimuli will be applied. Half of the patients receive sham cTBS, the other half sham tDCS."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Background: Stroke is a leading cause of adult disability. Non-invasive brain stimulation\n      can induce significant and sustained improvements in functional outcome. However the effect\n      is inconsistent and difficult to predict, in particular in the subacute phase after stroke.\n      Although several different stimulation techniques are available, it is unknown which is\n      suitable for which patient.\n\n      Objectives: This study has three main objectives:\n\n        1. To compare the effects of two techniques of non-invasive brain stimulation (cTBC,\n           continuous theta-burst stimulation; tDCS, direct current transcranial stimulation) on\n           clinical recovery in patients with subacute stroke.\n\n        2. To assess the effect of these brain stimulation techniques on brain organization with\n           non-invasive imaging.\n\n        3. To find clinical and neural predictors of responsiveness to brain stimulation therapy.\n\n      Method: 45 patients with ischemic or hemorrhagic stroke will be randomly assigned to one of\n      3 groups: cTBS, tDCS, or sham stimulation.  Each group will receive the corresponding\n      stimulation therapy 3 times per week for 3 weeks, immediately before intensive physical\n      therapy. Before and after the treatment period, standardized assessments of sensorimotor\n      function areas are obtained together with electroencephalography and functional magnetic\n      resonance recordings. These recordings will be used to analyze and compare the neural\n      effects of each treatment modality.\n\n      Clinical Implication: The results of this study might help optimize and individualize\n      stimulation treatment for patients with subacute stroke. It may hence facilitate the\n      transfer of brain stimulation therapy to routine clinical practice."
+        }, 
+        "brief_title": "Randomized Trial of Transcranial Theta-burst Stimulation and Transcranial Direct Current Stimulation", 
+        "condition": "Stroke", 
+        "condition_browse": {
+            "mesh_term": [
+                "Stroke", 
+                "Cerebral Infarction"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  ischemic or hemorrhagic stroke leading to unilateral deficits in motor function with\n             significant impact on independence and daily activities at the beginning of\n             rehabilitation\n\n        Exclusion Criteria:\n\n          -  epileptic seizures\n\n          -  metallic objects in the brain\n\n          -  presence of implants or neural stimulators\n\n          -  pregnancy\n\n          -  sleep deprivation\n\n          -  recent traumatic brain injury\n\n          -  delirium or disturbed vigilance\n\n          -  inability to participate in 1h treatment sessions\n\n          -  severe language comprehension deficits\n\n          -  skull breach\n\n          -  new stroke lesions during rehabilitation\n\n          -  medical complications"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "16 Years"
+        }, 
+        "enrollment": {
+            "#text": "45", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "January 6, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02031107", 
+            "org_study_id": "SNF-146639-1"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "cTBS", 
+                "intervention_name": "cTBS", 
+                "intervention_type": "Device", 
+                "other_name": "MagPro X100"
+            }, 
+            {
+                "arm_group_label": "cathodal tDCS", 
+                "intervention_name": "cathodal tDCS", 
+                "intervention_type": "Device", 
+                "other_name": "NeuroConn"
+            }, 
+            {
+                "arm_group_label": "sham stimulation", 
+                "intervention_name": "sham stimulation", 
+                "intervention_type": "Device"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "stroke", 
+            "brain stimulation", 
+            "electroencephalography", 
+            "functional magnetic resonance imaging", 
+            "functional connectivity"
+        ], 
+        "lastchanged_date": "January 8, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Geneva", 
+                    "country": "Switzerland", 
+                    "zip": "1211"
+                }, 
+                "name": "Service de Neuror\u00e9\u00e9ducation, Unversity Hospital"
+            }, 
+            "investigator": {
+                "last_name": "Adrian G Guggisberg, MD", 
+                "role": "Principal Investigator"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "Switzerland"
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "Randomized Controlled Trial of Transcranial Theta-burst Stimulation and Transcranial Direct Current Stimulation in Subacute Stroke", 
+        "other_outcome": [
+            {
+                "measure": "Total Fugl Meyer motor assessment score at week 4", 
+                "safety_issue": "No", 
+                "time_frame": "Week 4"
+            }, 
+            {
+                "measure": "Total Fugl Meyer motor assessment score at week 8", 
+                "safety_issue": "No", 
+                "time_frame": "Week 8"
+            }, 
+            {
+                "description": "expressed in pegs/sec", 
+                "measure": "Average velocity in the Nine Hole Peg test at week 4", 
+                "safety_issue": "No", 
+                "time_frame": "Week 4"
+            }, 
+            {
+                "description": "expressed in pegs/sec", 
+                "measure": "Average velocity in the Nine Hole Peg test at week 8", 
+                "safety_issue": "No", 
+                "time_frame": "Week 8"
+            }, 
+            {
+                "measure": "Jamar Dynamometer strength at week 4", 
+                "safety_issue": "No", 
+                "time_frame": "Week 4"
+            }, 
+            {
+                "measure": "Jamar Dynamometer strength at week 8", 
+                "safety_issue": "No", 
+                "time_frame": "Week 8"
+            }, 
+            {
+                "measure": "Score of the Box and Block test, week 4", 
+                "safety_issue": "No", 
+                "time_frame": "Week 4"
+            }, 
+            {
+                "measure": "Score of the Box and Block test, week 8", 
+                "safety_issue": "No", 
+                "time_frame": "week 8"
+            }, 
+            {
+                "description": "Alpha band coherence is calculated from electroencephalography (EEG) recordings", 
+                "measure": "Correlation between change in alpha band coherence and clinical improvements", 
+                "safety_issue": "No", 
+                "time_frame": "Week 4"
+            }
+        ], 
+        "overall_contact": {
+            "email": "adrian.guggisberg@hcuge.ch", 
+            "last_name": "Adrian G Guggisberg, MD", 
+            "phone": "+41223823521"
+        }, 
+        "overall_official": {
+            "affiliation": "University Hospital, Geneva", 
+            "last_name": "Adrian G Guggisberg, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": [
+                "Switzerland: Ethikkommission", 
+                "Switzerland: Laws and standards"
+            ], 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "March 2016", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "The Fugl Meyer motor assessment (FMA), the Nine Hole Peg test (expressed as pegs per minute), and the Jamar dynamometer strength of the affected arm are normalized to the healthy arm and averaged to a compound motor score. This score is obtained twice before treatment (at weeks -1 and 0 relative to treatment start), and twice after treatment (at weeks 4 and 8). Primary outcome measure is the change in slope from week 0 to 4 as compared to the slope between week -1 and 0.", 
+                "measure": "Change in compound motor score slope at week 4", 
+                "safety_issue": "No", 
+                "time_frame": "week 4 after treatment start"
+            }, 
+            {
+                "description": "Calculated from electroencephalography recordings", 
+                "measure": "Change in alpha-band coherence between the affected motor cortex and the rest of the brain", 
+                "safety_issue": "No", 
+                "time_frame": "Week 4"
+            }
+        ], 
+        "reference": {
+            "PMID": "23941616", 
+            "citation": "Rizk S, Ptak R, Nyffeler T, Schnider A, Guggisberg AG. Network mechanisms of responsiveness to continuous theta-burst stimulation. Eur J Neurosci. 2013 Oct;38(8):3230-8. doi: 10.1111/ejn.12334. Epub 2013 Aug 14."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02031107"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University Hospital, Geneva", 
+            "investigator_full_name": "Adrian Guggisberg", 
+            "investigator_title": "M\u00e9decin adjoint agr\u00e9g\u00e9", 
+            "responsible_party_type": "Sponsor-Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Compound motor score at week 8", 
+                "safety_issue": "No", 
+                "time_frame": "Week 8"
+            }, 
+            {
+                "description": "Calculated from functional magnetic resonance (fMRI) recordings", 
+                "measure": "change in correlations of spontaneous fMRI fluctuations within the motor network", 
+                "safety_issue": "No", 
+                "time_frame": "Week 4"
+            }, 
+            {
+                "measure": "change in alpha-band coherence between the unaffected motor cortex and the rest of the brain", 
+                "safety_issue": "No", 
+                "time_frame": "Week 4"
+            }, 
+            {
+                "description": "Calculated from diffusion tensor imaging (DTI) sequences of magnetic resonance imaging (MRI)", 
+                "measure": "Change in fractional anisotropy of the affected cortico-spinal tract", 
+                "safety_issue": "No", 
+                "time_frame": "Week 4"
+            }, 
+            {
+                "measure": "Change in activity of daily life scale (motor activity log, MAL)", 
+                "safety_issue": "No", 
+                "time_frame": "Week 4"
+            }, 
+            {
+                "measure": "Change in activity of daily life scale (motor activity log, MAL)", 
+                "safety_issue": "No", 
+                "time_frame": "Week 8"
+            }, 
+            {
+                "measure": "Number of adverse events", 
+                "safety_issue": "Yes", 
+                "time_frame": "Week 4"
+            }, 
+            {
+                "measure": "Number of adverse events", 
+                "safety_issue": "Yes", 
+                "time_frame": "Week 8"
+            }
+        ], 
+        "source": "University Hospital, Geneva", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Swiss National Science Foundation", 
+                "agency_class": "Other"
+            }, 
+            "lead_sponsor": {
+                "agency": "Adrian Guggisberg", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "September 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Outcomes Assessor), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2014"
+    }
+}

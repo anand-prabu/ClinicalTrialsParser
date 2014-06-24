@@ -1,0 +1,188 @@
+{
+    "clinical_study": {
+        "@rank": "136272", 
+        "arm_group": [
+            {
+                "arm_group_label": "Feedback 50th Percentile", 
+                "arm_group_type": "Active Comparator", 
+                "description": "At the end of each week, participants will be told the average daily step count for their team for the previous week.  They will also be told the average for the 50th percentile in their arm."
+            }, 
+            {
+                "arm_group_label": "Feedback 75th Percentile", 
+                "arm_group_type": "Experimental", 
+                "description": "At the end of each week, participants will be told the average daily step count for their team for the previous week.  They will also be told the average for the 75th percentile in their arm."
+            }, 
+            {
+                "arm_group_label": "Feedback 50th Percentile + Lottery", 
+                "arm_group_type": "Experimental", 
+                "description": "At the end of each week, participants will be told the average daily step count for their team for the previous week.  They will also be told the average for the 50th percentile in their arm.  If their team's average daily step count is \u2265 7000 steps, they'll be eligible to collect winnings from a weekly lottery. Teams whose average daily step count is less than 7000 will receive messages about how much they would have won had the team met its goal."
+            }, 
+            {
+                "arm_group_label": "Feedback 75th Percentile + Lottery", 
+                "arm_group_type": "Experimental", 
+                "description": "At the end of each week, participants will be told the average daily step count for their team for the previous week.  They will also be told the average for the 75th percentile in their arm. If their team's average daily step count is \u2265 7000 steps, they'll be eligible to collect winnings from a weekly lottery.  Teams whose average daily step count is less than 7000 will receive messages about how much they would have won had the team met its goal."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Employers are increasingly looking for opportunities to motivate sedentary employees to\n      become more physically active. Workplace walking programs have had mixed success and\n      typically show most improvement among participants that are already fairly active at a\n      baseline. The goal of this study is to determine whether a financial incentive program can\n      motivate sedentary employees to increase the number of steps they walk per day to meet a\n      minimum threshold.\n\n      The primary outcome measure is the proportion of days a minimum activity of 7000 steps or\n      more is achieved.  Outcomes will be assessed each week for 3 months using incentives\n      followed by 3 months of follow-up without incentives.  Secondary outcomes will include the\n      average steps walked per day."
+        }, 
+        "brief_title": "Way to Be Active IV (Framing vs Incentives)", 
+        "completion_date": {
+            "#text": "August 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Sedentary Lifestyle", 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Age greater than 18.\n\n          -  Participant will need an iPhone or Android smartphone to be able to use the Moves App\n             for tracking steps\n\n        Exclusion Criteria:\n\n          -  Pregnant or lactating\n\n          -  Currently participating in another physical activity study"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "288", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "December 20, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02030080", 
+            "org_study_id": "819371"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Feedback 50th Percentile", 
+                    "Feedback 75th Percentile", 
+                    "Feedback 50th Percentile + Lottery", 
+                    "Feedback 75th Percentile + Lottery"
+                ], 
+                "description": "Phone application used to track daily steps.", 
+                "intervention_name": "Pedometer phone app", 
+                "intervention_type": "Device", 
+                "other_name": "Moves"
+            }, 
+            {
+                "arm_group_label": [
+                    "Feedback 50th Percentile + Lottery", 
+                    "Feedback 75th Percentile + Lottery"
+                ], 
+                "intervention_name": "Financial incentives", 
+                "intervention_type": "Behavioral"
+            }, 
+            {
+                "arm_group_label": [
+                    "Feedback 50th Percentile", 
+                    "Feedback 75th Percentile", 
+                    "Feedback 50th Percentile + Lottery", 
+                    "Feedback 75th Percentile + Lottery"
+                ], 
+                "intervention_name": "Teams", 
+                "intervention_type": "Behavioral"
+            }, 
+            {
+                "arm_group_label": [
+                    "Feedback 75th Percentile", 
+                    "Feedback 75th Percentile + Lottery"
+                ], 
+                "intervention_name": "Framing of feedback", 
+                "intervention_type": "Behavioral"
+            }, 
+            {
+                "arm_group_label": [
+                    "Feedback 50th Percentile", 
+                    "Feedback 75th Percentile", 
+                    "Feedback 50th Percentile + Lottery", 
+                    "Feedback 75th Percentile + Lottery"
+                ], 
+                "description": "Participants will be given daily feedback on whether or not they walked 7000 steps or more the day before.", 
+                "intervention_name": "Daily Feedback", 
+                "intervention_type": "Behavioral"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Pedometers", 
+            "Walking", 
+            "Financial incentives", 
+            "Sedentary lifestyle", 
+            "Behavioral economics"
+        ], 
+        "lastchanged_date": "April 10, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Philadelphia", 
+                    "country": "United States", 
+                    "state": "Pennsylvania", 
+                    "zip": "09104"
+                }, 
+                "name": "University of Pennsylvania"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "4", 
+        "official_title": "A Randomized Trial of Behavioral Economic Interventions to Improve Physical Activities: Framing vs Incentives", 
+        "overall_official": [
+            {
+                "affiliation": "University of Pennsylvania", 
+                "last_name": "Mitesh Patel, MD, MBA", 
+                "role": "Study Director"
+            }, 
+            {
+                "affiliation": "University of Pennsylvania", 
+                "last_name": "Kevin Volpp, MD, PhD", 
+                "role": "Principal Investigator"
+            }
+        ], 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "July 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "The primary outcome measure is the proportion of days a minimum activity of 7000 steps or more is achieved.  Outcomes will be assessed each week for 3 months using incentives followed by 3 months of follow-up without incentives.", 
+            "measure": "Proportion of days a participant walks 7000 steps or more", 
+            "safety_issue": "No", 
+            "time_frame": "Throughout 6-month study"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02030080"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "description": "Secondary outcomes include average number of steps per day and week during the incentive period (first 3 months) and follow-up period (second 3 months).", 
+            "measure": "Average number of steps per day and week", 
+            "safety_issue": "No", 
+            "time_frame": "Throughout the 6 month study"
+        }, 
+        "source": "University of Pennsylvania", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Institute on Aging (NIA)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "University of Pennsylvania", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2014", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Single Blind (Investigator)", 
+        "study_type": "Interventional", 
+        "verification_date": "December 2013"
+    }
+}

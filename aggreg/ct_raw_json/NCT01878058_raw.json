@@ -1,0 +1,136 @@
+{
+    "clinical_study": {
+        "@rank": "99117", 
+        "arm_group": {
+            "arm_group_label": "MRI Scan", 
+            "arm_group_type": "Other", 
+            "description": "Patients will receive an extra MRI scan in addition to their routine scan."
+        }, 
+        "brief_summary": {
+            "textblock": "This study will look at the feasibility of using a type of Magnetic Resonance Imaging\n      called Susceptibility Weighted Imaging (SWI) to detect your implanted radioactive seeds.\n      Researchers hope that using SWI will eliminate the need to use CT imaging to detect your\n      implanted radioactive seeds.\n\n      This study will also see if the MRI seed detection is as effective as current standard\n      practice of seed detection (routine MRI and CT imaging). This technique would be beneficial\n      for brachytherapy without the need to fuse the MRI and CT images, as is done currently."
+        }, 
+        "brief_title": "Identifying Prostate Brachytherapy Seeds Using MRI", 
+        "completion_date": {
+            "#text": "September 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Prostate Cancer Patients Who Have Brachytherapy Seed Implant", 
+        "condition_browse": {
+            "mesh_term": "Prostatic Neoplasms"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. At least 18 years old\n\n          2. Histologic diagnosis of adenocarcinoma of the prostate\n\n          3. No contraindications for Pelvic body MRI\n\n          4. Patients undergoing LDR brachytherapy at PMH and scheduled for post implant analysis\n             with CT-MR (standard at PMH)\n\n          5. Ability to provide written informed consent to participate in the study\n\n        Exclusion Criteria:\n\n          1. Contraindication for Pelvic body MRI\n\n          2. Patient not willing/consenting for this study"
+            }, 
+            "gender": "Male", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "10", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "October 23, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01878058", 
+            "org_study_id": "UHN REB 12-5302-CE"
+        }, 
+        "intervention": {
+            "arm_group_label": "MRI Scan", 
+            "description": "Patient will receive an additional MRI scan in addition to their standard of care imaging", 
+            "intervention_name": "MRI Scan", 
+            "intervention_type": "Other"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Prostate cancer", 
+            "Brachytherapy", 
+            "Seed implant"
+        ], 
+        "lastchanged_date": "March 24, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Toronto", 
+                    "country": "Canada", 
+                    "state": "Ontario", 
+                    "zip": "M5G 2M9"
+                }, 
+                "name": "University Health Network, The Princess Margaret"
+            }
+        }, 
+        "location_countries": {
+            "country": "Canada"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Identifying Prostate Brachytherapy Seeds Using MRI", 
+        "other_outcome": {
+            "measure": "Compare the prostate dosimetry (V100 and D90) in prostate low dose rate therapy using MR alone with CT/MR fusion.", 
+            "safety_issue": "No", 
+            "time_frame": "6 months"
+        }, 
+        "overall_official": {
+            "affiliation": "University Health Network, The Princess Margaret", 
+            "last_name": "Saibishkumar Elantholiparameswaran, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "Canada: Review Ethics Committee", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "September 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": [
+            {
+                "measure": "Determine if using the MR scan -(SWI) used to detect the implanted radioactive seeds will reduce registration errors", 
+                "safety_issue": "No", 
+                "time_frame": "6 months"
+            }, 
+            {
+                "measure": "Determine if using the MR scan -(SWI) used to detect the implanted radioactive seeds will reduce planning time for the post-implant plan", 
+                "safety_issue": "No", 
+                "time_frame": "6 months"
+            }, 
+            {
+                "measure": "Determine if using the MR scan  -(SWI) used to detect the implanted radioactive seeds will eliminate the CT scan of the patient.", 
+                "safety_issue": "No", 
+                "time_frame": "6 months"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01878058"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "description": "Our goal is to perfectly match these two modalities with acceptance test of 97%. This technique would be beneficial for LDR (Low Dose Rate) Brachytherapy without need to fuse the CT and MR images and eliminate any image registration uncertainly.", 
+            "measure": "Compare the differences in MR seed identification using the MR pulse sequence vs. CT images.", 
+            "safety_issue": "No", 
+            "time_frame": "6 months"
+        }, 
+        "source": "University Health Network, Toronto", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Princess Margaret Hospital, Canada", 
+                "agency_class": "Other"
+            }, 
+            "lead_sponsor": {
+                "agency": "University Health Network, Toronto", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "October 2012", 
+        "study_design": "Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2014"
+    }
+}

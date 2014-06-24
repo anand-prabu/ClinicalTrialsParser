@@ -1,0 +1,185 @@
+{
+    "clinical_study": {
+        "@rank": "16813", 
+        "acronym": "AMAZING", 
+        "arm_group": [
+            {
+                "arm_group_label": "Glimepiride", 
+                "arm_group_type": "Experimental", 
+                "description": "up to 4 mg/day"
+            }, 
+            {
+                "arm_group_label": "Vildagliptin", 
+                "arm_group_type": "Experimental", 
+                "description": "50 mg bid"
+            }, 
+            {
+                "arm_group_label": "Pioglitazone", 
+                "arm_group_type": "Experimental", 
+                "description": "up to 30 mg/day"
+            }, 
+            {
+                "arm_group_label": "Canagliflozin", 
+                "arm_group_type": "Experimental", 
+                "description": "300 mg/day"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Type 2 diabetes is epidemic and its treatment has become more and more difficult. Consensus\n      algorithms have been developed to help clinicians to select among the numerous medications\n      and their combinations for achieving and maintaining a target glycated hemoglobin A1c\n      (HbA1c) of <7%.\n\n      AMAZING, a pragmatic clinical trial, aims to compare commonly used oral diabetes\n      medications, when combined with metformin, on glycemia-lowering effectiveness."
+        }, 
+        "brief_title": "Glycemic Durability After Metformin Failure", 
+        "completion_date": {
+            "#text": "January 2017", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Type 2 Diabetes", 
+        "condition_browse": {
+            "mesh_term": [
+                "Diabetes Mellitus", 
+                "Diabetes Mellitus, Type 2"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "-  Source data verification: paper or electronic medical records.\n\n        -  Statistical analysis: All analyses will compare the randomly assigned treatment groups\n           under the intention- to-treat principle"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Newly-diagnosed, type 2 diabetic patients, failing to diet\n\n        Exclusion Criteria:\n\n          -  Suspected type 1 diabetes or secondary diabetes resulting from specific causes\n\n          -  Current or previous (within past 3 months) treatment with any investigational drug\n\n          -  Any major cardiovascular event in previous year\n\n          -  Plans for pregnancy during the course of the study for women of childbearing\n             potential\n\n          -  Serum creatinine level >1.3 mg/dL in women and >1.4 mg/dL in men\n\n          -  History of cancer, other than nonmelanoma skin cancer, that required therapy in the 5\n             years before randomization\n\n          -  Treatment with oral, loal, systemic glucocorticoids  14. Treatment with atypical\n             antipsychotics"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "30 Years"
+        }, 
+        "enrollment": {
+            "#text": "450", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "April 26, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02142309", 
+            "org_study_id": "DGM 7-2006"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Glimepiride", 
+                "description": "Weekly adjustment based on self-monitoring of blood glucose level to a maximum of 4 mg daily", 
+                "intervention_name": "Glimepiride", 
+                "intervention_type": "Drug", 
+                "other_name": "Glimepiride"
+            }, 
+            {
+                "arm_group_label": "Vildagliptin", 
+                "description": "Reduce to 50 mg if estimated glomerular filtration rate (eGFR)  <45 mL/min", 
+                "intervention_name": "Vildagliptin", 
+                "intervention_type": "Drug", 
+                "other_name": "Vildagliptin"
+            }, 
+            {
+                "arm_group_label": "Pioglitazone", 
+                "description": "Start with 15 mg/day and advance to 30 mg/day", 
+                "intervention_name": "Pioglitazone", 
+                "intervention_type": "Drug", 
+                "other_name": "Pioglitazone"
+            }, 
+            {
+                "arm_group_label": "Canagliflozin", 
+                "description": "Start with 200 mg/day and advance to 300 mg/day on the basis of fasting glucose monitoring", 
+                "intervention_name": "Canagliflozin", 
+                "intervention_type": "Drug", 
+                "other_name": "Canagliflozin"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Glimepiride", 
+                "Pioglitazone", 
+                "Vildagliptin", 
+                "Metformin"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "lastchanged_date": "May 15, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Naples", 
+                    "country": "Italy", 
+                    "zip": "80138"
+                }, 
+                "name": "Department of Geriatrics and Metabolic Diseases"
+            }
+        }, 
+        "location_countries": {
+            "country": "Italy"
+        }, 
+        "number_of_arms": "4", 
+        "official_title": "Effect of Glimepiride, Vildagliptin, Pioglitazone and Canagliflozin on Durability of Glycemic Control After Metformin Failure in Type 2 Diabetes", 
+        "other_outcome": [
+            {
+                "measure": "Changes of low density lipoprotein cholesterol level from baseline each year of follow up", 
+                "safety_issue": "Yes", 
+                "time_frame": "6 years"
+            }, 
+            {
+                "measure": "Changes of high density lipoprotein cholesterol level from baseline each year of follow up", 
+                "safety_issue": "Yes", 
+                "time_frame": "six years"
+            }, 
+            {
+                "measure": "Changes of triglyceride level from baseline each year of follow up", 
+                "safety_issue": "Yes", 
+                "time_frame": "6 years"
+            }
+        ], 
+        "overall_official": {
+            "affiliation": "Second University of Naples", 
+            "last_name": "Dario Giugliano, MD PHD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "Italy: Ethics Committee", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 4", 
+        "primary_completion_date": {
+            "#text": "October 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "The primary outcome is maintenance of metabolic control (glycemic durability), defined as time to primary failure with a HbA1c value >7% on maximally tolerated doses of the assigned drug.", 
+            "safety_issue": "Yes", 
+            "time_frame": "Six years"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02142309"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Second University of Naples", 
+            "investigator_full_name": "Dario Giugliano", 
+            "investigator_title": "Full Prof of Endocrinology and Metbaolism", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": {
+            "measure": "Continuous glucose monitoring for 72 consecutive hours at least once each year of follow-up", 
+            "safety_issue": "Yes", 
+            "time_frame": "6 years"
+        }, 
+        "source": "Second University of Naples", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Second University of Naples", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "October 2005", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2014"
+    }
+}

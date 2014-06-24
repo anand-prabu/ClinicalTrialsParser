@@ -1,0 +1,164 @@
+{
+    "clinical_study": {
+        "@rank": "100853", 
+        "arm_group": {
+            "arm_group_label": "Retrospective collection", 
+            "description": "Retrospective collection of data from included lung cancer patients."
+        }, 
+        "brief_summary": {
+            "textblock": "A retrospective, data mining project that re-uses routine patient care data for decision\n      support systems."
+        }, 
+        "brief_title": "Rapid Learning for Lung Cancer", 
+        "completion_date": {
+            "#text": "January 2016", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Lung Cancer", 
+        "condition_browse": {
+            "mesh_term": "Lung Neoplasms"
+        }, 
+        "detailed_description": {
+            "textblock": "By installing tools that extract clinical data from electronic health records and image data\n      from the Picture Archiving and Communication System, decision support systems are built and\n      validated that can predict survival and treatment toxicities of lung cancer patients treated\n      with radiotherapy."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n        - Patients notes as suffering from lung cancer in at least one clinical data source."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "Lung cancer patients"
+            }
+        }, 
+        "enrollment": {
+            "#text": "10000", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "September 10, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01949259", 
+            "org_study_id": "Rapid learning lung cancer"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Retrospective", 
+            "Lung cancer"
+        ], 
+        "lastchanged_date": "April 7, 2014", 
+        "location": {
+            "contact": {
+                "email": "andre.dekker@maastro.nl", 
+                "last_name": "Andre Dekker, Dr", 
+                "phone": "+31 88 44 55 666"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Maastricht", 
+                    "country": "Netherlands", 
+                    "state": "Limburg", 
+                    "zip": "6229 ET"
+                }, 
+                "name": "MAASTRO clinic"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "Netherlands"
+        }, 
+        "number_of_groups": "1", 
+        "official_title": "Rapid Learning in Practice: A Lung Cancer Survival Decision Support System in Routine Patient Care Data", 
+        "overall_contact": {
+            "email": "andre.dekker@maastro.nl", 
+            "last_name": "Andre Dekker, Dr", 
+            "phone": "+31 88 44 55 666"
+        }, 
+        "overall_official": {
+            "affiliation": "Maastro Clinic, The Netherlands", 
+            "last_name": "Andre Dekker, Dr", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "Netherlands: The Central Committee on Research Involving Human Subjects (CCMO)", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "January 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Retrospective data will be collected from each included patient from start of radiotherapy until end of study or death (an expected average of 10 years).", 
+            "measure": "Survival", 
+            "safety_issue": "No", 
+            "time_frame": "From radiotherapy until death"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01949259"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Data will be collected from inclusion in the study until end of study of death (an expected average time frame of 10 years) concerning the local control of this tumour.", 
+                "measure": "Local control", 
+                "safety_issue": "No", 
+                "time_frame": "From start of treatment until death,"
+            }, 
+            {
+                "description": "Data concerning the possible occurence of distant metastases will be collected from each patient from inclusion until end of study or date of death (an expected average time frame of 10 years).", 
+                "measure": "Distant metastases", 
+                "safety_issue": "No", 
+                "time_frame": "From treatment until end of study"
+            }, 
+            {
+                "description": "From each included patient, dyspnea scores will be collected from start of treatment until end of study or date of death (an expected average time frame of 10 years).", 
+                "measure": "Dyspnea", 
+                "safety_issue": "No", 
+                "time_frame": "From inclusion until end of study"
+            }, 
+            {
+                "description": "Dysphagia scores will be collected from each participating patient from treatment until end of study or date of death (an average time frame of 10 years)", 
+                "measure": "Dysphagia", 
+                "safety_issue": "No", 
+                "time_frame": "From treatment until end of study"
+            }
+        ], 
+        "source": "Maastricht Radiation Oncology", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "Cancer Therapy Center, Liverpool", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Macarthur Cancer Therapy Centres, Liverpool", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Ingham Institute Hospital, Liverpool", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "NSW, Australia", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "Maastricht Radiation Oncology", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "September 2013", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Retrospective", 
+        "study_type": "Observational", 
+        "verification_date": "April 2014"
+    }
+}

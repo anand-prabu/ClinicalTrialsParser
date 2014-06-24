@@ -1,0 +1,170 @@
+{
+    "clinical_study": {
+        "@rank": "136043", 
+        "arm_group": [
+            {
+                "arm_group_label": "Routine care", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "General hospital ward patients will receive routine care."
+            }, 
+            {
+                "arm_group_label": "Intervention arm", 
+                "arm_group_type": "Experimental", 
+                "description": "Patients will have active surveillance by the early warning system performed on a real-time basis to identify clinical deterioration."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The study will begin in 2013 whereby patients having an early warning system (EWS) alert\n      will be randomized to be seen by the rapid response team (RRT) for triage versus usual care.\n      A RRT is usually made up of a nurse and/or a physician who respond to a requested activation\n      of the RRT (called an \"ACT\"). The intervention will occur as follows:\n\n        1. Real-time monitoring of the eight general hospital wards (GHWs)((10100, 10200,\n           11100,11200, 12100, 12200, 14400, 14500)will occur 24 hours daily. Through multiple\n           past collaborative efforts and studies involving interventions at BJH, informatics\n           personnel have already demonstrated that they can accomplish this task using their\n           computing and algorithmic resources. The prediction tool (PT) employed is a validated\n           PT aimed at identifying any form of clinical deterioration occurring on a GHW requiring\n           ICU transfer or leading to patient death.\n\n        2. Patients meeting the prediction criteria for an increased risk of clinical\n           deterioration will be identified on the GHWs. An automated text message will be\n           generated that provides the patient's name, their room number, the date and time of the\n           message, and text indicating that they meet the criteria for risk of deterioration.\n           Messages will only be generated for patients assigned to the intervention group.\n\n        3. The EWS text message will be sent to the on-call RRT nurse's phone. These are phones\n           that are transferred from one RRT nurse to the other as changes of shift occur. It is\n           their primary means of communicating with the hospital.\n\n        4. The RRT nurse for the intervention patients will go into the flagged patient's room\n           within 10 to 15 minutes of receiving the message and perform a clinical assessment.\n           Based on the RRT nurse's assessment either no additional action need occur or he/she\n           will call either the physician on duty or activate an ACT as well as apply the \"four\n           D's\", which was internally established at Barnes-Jewish Hospital (BJH) for treatment of\n           patients on GHWs identified to have impending clinical deterioration. The four \"D's\"\n           refer to the following: Discuss level of care, Drugs for treatment (e.g., antibiotics),\n           Diagnostics (lab tests, cultures), and Damage control (e.g., use of intravenous fluids,\n           oxygen)."
+        }, 
+        "brief_title": "Early Warning System", 
+        "completion_date": {
+            "#text": "August 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Congestive Heart Failure", 
+            "Chronic Obstructive Pulmonary Disease", 
+            "Cancer", 
+            "Diabetes Mellitus", 
+            "Obstructive Sleep Apnea"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Diabetes Mellitus", 
+                "Heart Failure", 
+                "Lung Diseases", 
+                "Respiration Disorders", 
+                "Pulmonary Disease, Chronic Obstructive", 
+                "Sleep Apnea Syndromes", 
+                "Sleep Apnea, Obstructive", 
+                "Lung Diseases, Obstructive"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients hospitalized on the General Hospitals Wards of Barnes-Jewish Hospital.\n\n        Exclusion Criteria:\n\n          -  Patients with a do-not-resuscitate order,\n\n          -  Patients not expected to survive their hospitalization."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "500", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 27, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01741480", 
+            "org_study_id": "201210003"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Intervention arm", 
+                "description": "General hospital ward patients will be monitored 24/7 for clinical deterioration using the early warning system developed at Washington University.", 
+                "intervention_name": "Early warning system monitoring.", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": "Routine care", 
+                "intervention_name": "routine care", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Outcomes", 
+            "Early warning systems", 
+            "ICU transfer"
+        ], 
+        "lastchanged_date": "June 12, 2013", 
+        "location": {
+            "contact": {
+                "email": "mkollef@dom.wustl.edu", 
+                "last_name": "Marin Kollef, MD", 
+                "phone": "314-454-8764"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Saint Louis", 
+                    "country": "United States", 
+                    "state": "Missouri", 
+                    "zip": "63110"
+                }, 
+                "name": "Barnes-Jewish Hospital"
+            }, 
+            "investigator": {
+                "last_name": "Marin Kollef, MD", 
+                "role": "Principal Investigator"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Comparing an Early Warning Alert With a Standardized Triage Intervention to Standard Care for the Management of Hospitalized Patients on General Hospital Wards.", 
+        "overall_contact": {
+            "email": "mkollef@dom.wustl.edu", 
+            "last_name": "Marin Kollef, MD", 
+            "phone": "314-454-8764"
+        }, 
+        "overall_official": {
+            "affiliation": "Washington University", 
+            "last_name": "Marin Kollef, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "August 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Patients transferred to the ICU from a general hospital ward will be assessed as having met the outcome.", 
+            "measure": "ICU transfer", 
+            "safety_issue": "No", 
+            "time_frame": "Patients will be assessed for the primary outcome measure during their hospital with an average of 14 days."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01741480"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "description": "Death during hospitalization will be used to determine the presence of this outcome.", 
+            "measure": "Mortality", 
+            "safety_issue": "No", 
+            "time_frame": "Patients will be asessed for the secondary outcome measure during an average of 28 days.."
+        }, 
+        "source": "Washington University School of Medicine", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "Barnes-Jewish Hospital", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "American College of Chest Physicians", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "Washington University School of Medicine", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "February 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Single Blind (Subject), Primary Purpose: Prevention", 
+        "study_type": "Interventional", 
+        "verification_date": "June 2013"
+    }
+}

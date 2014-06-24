@@ -1,0 +1,573 @@
+{
+    "clinical_study": {
+        "@rank": "90779", 
+        "arm_group": [
+            {
+                "arm_group_label": "LDV/SOF+RBV", 
+                "arm_group_type": "Experimental", 
+                "description": "Participants who failed a prior SOF+RBV\u00b1Pegylated Interferon (Peg-IFN) regimen will receive LDV/SOF FDC plus RBV for 12 weeks."
+            }, 
+            {
+                "arm_group_label": "LDV/SOF", 
+                "arm_group_type": "Experimental", 
+                "description": "Participants who failed a prior LDV/SOF\u00b1RBV regimen will receive LDV/SOF FDC for 24 weeks."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This study is to evaluate the efficacy, safety, and tolerability of ledipasvir/sofosbuvir\n      fixed-dose combination (LDV/SOF FDC) with or without ribavirin (RBV) in participants with\n      chronic genotype 1 hepatitis C virus (HCV) infection who have participated in a prior\n      Gilead-sponsored HCV treatment study, and who did not achieve sustained virologic response\n      (SVR24), defined as HCV RNA < lower limit of quantification (LLOQ) 24 weeks after last dose\n      of study drug."
+        }, 
+        "brief_title": "Efficacy and Safety of Ledipasvir/Sofosbuvir Fixed-Dose Combination \u00b1 Ribavirin in Subjects With Chronic Genotype 1 HCV Who Participated in a Prior Gilead-Sponsored HCV Treatment Study", 
+        "completion_date": {
+            "#text": "June 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "HCV Infection", 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Willing and able to provide written informed consent\n\n          -  Infection with HCV genotype 1\n\n          -  HCV RNA > LLOQ at screening\n\n          -  Participation in a prior Gilead-sponsored study\n\n          -  Screening laboratory values within defined thresholds\n\n          -  Use of two effective contraception methods if female of childbearing potential or\n             sexually active male\n\n          -  Must be of generally good health, with the exception of chronic HCV infection, as\n             determined by the Investigator.\n\n          -  Must be able to comply with the dosing instructions for study drug administration and\n             able to complete the study schedule of assessments.\n\n        Exclusion Criteria:\n\n          -  Pregnant or nursing female or male with pregnant female partner\n\n          -  Co-infection with HIV or hepatitis B virus (HBV)\n\n          -  Current or prior history of clinical hepatic decompensation\n\n          -  Hepatocellular carcinoma (HCC)\n\n          -  History of clinically significant illness or any other medical disorder that may\n             interfere with subject treatment, assessment or compliance with the protocol"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "100", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 12, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01987453", 
+            "org_study_id": "GS-US-337-1118", 
+            "secondary_id": "2014-001245-24"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "LDV/SOF+RBV", 
+                    "LDV/SOF"
+                ], 
+                "description": "LDV 90 mg/SOF 400 mg FDC tablet administered orally once daily", 
+                "intervention_name": "LDV/SOF", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "GS-7977", 
+                    "PSI-7977", 
+                    "GS-5885"
+                ]
+            }, 
+            {
+                "arm_group_label": "LDV/SOF+RBV", 
+                "description": "Ribavirin (RBV) tablets administered orally in a divided daily dose according to package insert weight-based dosing recommendations (< 75 kg = 1000 mg and \u2265 75 kg = 1200 mg)", 
+                "intervention_name": "RBV", 
+                "intervention_type": "Drug", 
+                "other_name": "Ribasphere\u00ae"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Ribavirin"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": "genotype 1", 
+        "lastchanged_date": "April 10, 2014", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Beverly Hills", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90210"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Coronado", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92118"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "La Jolla", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92037"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90027"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90036"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90069"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oceanside", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92056"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Diego", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92103"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94115"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Washington", 
+                        "country": "United States", 
+                        "state": "District of Columbia", 
+                        "zip": "20009"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Gainesville", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32610"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jacksonville", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32256"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miami", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33136"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Orlando", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32803"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wellington", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33414"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Marietta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30060"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60611"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Downers Grove", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60515"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Indianapolis", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46237"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bowling Green", 
+                        "country": "United States", 
+                        "state": "Kentucky", 
+                        "zip": "42101"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baton Rouge", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "70809"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21229"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02215"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Springfield", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "01105"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Minneapolis", 
+                        "country": "United States", 
+                        "state": "Minnesota", 
+                        "zip": "55414"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kansas City", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "64131"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hillsborough", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "08844"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Albuquerque", 
+                        "country": "United States", 
+                        "state": "New Mexico", 
+                        "zip": "87131"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Binghamton", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "13903"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Manhasset", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "11030"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10029"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Asheville", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "28801"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Winston-Salem", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27103"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19104"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Germantown", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "38138"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nashville", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37211"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Antonio", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78215"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Falls Church", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "22042"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Norfolk", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23502"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Richmond", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23226"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98111"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Juan", 
+                        "country": "Puerto Rico", 
+                        "zip": "00927"
+                    }
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "An Open-Label, Multicenter Study To Evaluate The Efficacy And Safety Of Sofosbuvir/Ledipasvir Fixed-Dose Combination \u00b1 Ribavirin For 12 or 24 Weeks In Chronic Genotype 1 HCV Infected Subjects Who Participated In A Prior Gilead-Sponsored HCV Treatment Study", 
+        "overall_official": {
+            "affiliation": "Gilead Sciences", 
+            "last_name": "Jenny Yang, PharmD", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Enrolling by invitation", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "March 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "SVR12 is defined as HCV RNA < the lower limit of quantitation (LLOQ) 12 weeks following the last dose of study medication.", 
+                "measure": "Proportion of participants with sustained virologic response 12 weeks after discontinuation of therapy (SVR12)", 
+                "safety_issue": "No", 
+                "time_frame": "Post-treatment Week 12"
+            }, 
+            {
+                "measure": "Incidence of adverse events leading to permanent discontinuation of study drug", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 12 Weeks"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01987453"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "SVR4 and SVR24 is defined as HCV RNA < LLOQ at 4 and 24 weeks following the last dose of study medication, respectively.", 
+                "measure": "Proportion of participants with sustained virologic response (SVR) at 4 and 24 weeks after discontinuation of therapy (SVR4 and SVR24)", 
+                "safety_issue": "No", 
+                "time_frame": "Post-treatment Weeks 4 and 24"
+            }, 
+            {
+                "measure": "Proportion of participants with HCV RNA < LLOQ while on treatment", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to Week 12"
+            }, 
+            {
+                "measure": "Change in HCV RNA from Baseline", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to Week 8"
+            }, 
+            {
+                "description": "Virologic failure is defined as virologic breakthrough (participant achieved undetectable HCV RNA levels during treatment but subsequently had detectable HCV RNA while continuing treatment), non-response (HCV RNA \u2265 LLOQ through 8 weeks of treatment), or relapse (participant achieved undetectable HCV RNA levels during treatment maintained undetectable HCV RNA for the duration of treatment or achieved undetectable HCV RNA within 4 weeks of the end of treatment but did not achieve SVR at 4, 12, or 24 weeks post-treatment).", 
+                "measure": "Proportion of participants with  virologic failure", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to post-treatment Week 24"
+            }
+        ], 
+        "source": "Gilead Sciences", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Gilead Sciences", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "November 2013", 
+        "study_design": "Allocation: Non-Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2014"
+    }
+}

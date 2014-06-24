@@ -1,0 +1,132 @@
+{
+    "clinical_study": {
+        "@rank": "45120", 
+        "acronym": "iWatch", 
+        "arm_group": [
+            {
+                "arm_group_label": "Child and adolescent", 
+                "description": "6-17 years of age"
+            }, 
+            {
+                "arm_group_label": "Adult", 
+                "description": "18-55 years of age"
+            }, 
+            {
+                "arm_group_label": "Older adults", 
+                "description": "65-85 years of age"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The majority of the US population spends most of the day sitting and the we have new\n      scientific evidence that this can contribute to poor health regardless of how much physical\n      activity a person does. However, we do not measure sitting time very accurately and when we\n      ask people to tell us how much they do, their answers are unreliable. Our study will use\n      small sensors to objectively measure when people sit or do physical activity, and we will\n      use sophisticated computational techniques to summarize these movement patterns."
+        }, 
+        "brief_title": "Validating Machine -Learned Classifiers of Sedentary Behavior and Physical Activity", 
+        "completion_date": {
+            "#text": "April 2016", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Physical Activity", 
+            "Sedentary Lifestyle"
+        ], 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n        Inclusion Criteria for participants 6-17 yr olds:\n\n          -  provide written parental consent to complete study protocols;\n\n          -  provide verbal assent to complete study protocols;\n\n          -  willingness to complete 2 visits to UCSD offices;\n\n          -  willingness to wear multiple sensor devices on 7 days for 12 hours per day;\n\n          -  willingness to wear wrist  accelerometer on 7 days for 24 hours per day;\n\n          -  willingness to have their height and weight measured;\n\n          -  be able to walk unassisted\n\n          -  able to read and understand study materials in English.\n\n        Inclusion Criteria for participants 18-55 yr old:\n\n          -  provide written consent to complete study protocols;\n\n          -  willingness to complete 2 visits to UCSD offices;\n\n          -  willingness to wear multiple sensor devices on 7 days for 12 hours per day;\n\n          -  willingness to wear wrist accelerometer on 7 days for 24 hours per day;\n\n          -  complete a survey assessing their demographic characteristics;\n\n          -  willingness to have their height and weight measured;\n\n          -  be physically and cognitively able to walk unassisted,\n\n          -  able to read and understand study materials in English.\n\n        Inclusion Criteria for participants 65-85 yr olds:\n\n          -  provide written consent to complete study protocols;\n\n          -  correctly answer verbal questions about their comprehension of the informed consent;\n\n          -  willingness to complete 2 visits to UCSD offices;\n\n          -  willingness to wear multiple sensor devices on 7 days for 12 hours per day;\n\n          -  willingness to wear wrist accelerometer on 7 days for 24 hours per day;\n\n          -  complete a survey assessing their demographic;\n\n          -  willingness to have their height and weight measured;\n\n          -  be physically and cognitively able to walk without the assistance of another person\n             (walking aids are permitted)\n\n          -  able to read and understand study materials in English.\n\n        Exclusion Criteria:\n\n          -  unable to ambulate;\n\n          -  attends a workplace or school on monitoring days that prohibits static images being\n             taken by a SenseCam worn around the neck of the participant;\n\n          -  pregnancy in second or third trimester."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "85 Years", 
+            "minimum_age": "6 Years", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "We will recruit 210 volunteer participants over a 2-yr period. Fifty percent of the sample\n        will be women, and we will quota sample three specific age groups: 6-10 year olds (n =\n        70); 16-55 year olds (n=70); and 65-85 year olds (n= 70)."
+            }
+        }, 
+        "enrollment": {
+            "#text": "210", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "January 17, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01775826", 
+            "org_study_id": "1R01CA164993-01A1"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "physical activity", 
+            "sedentary behavior", 
+            "accelerometer", 
+            "GPS", 
+            "GIS", 
+            "machine learning"
+        ], 
+        "lastchanged_date": "March 13, 2014", 
+        "location": {
+            "contact": {
+                "email": "ldillon@ucsd.edu", 
+                "last_name": "Lindsay Dillon, MPH", 
+                "phone": "858-534-9329"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "La Jolla", 
+                    "country": "United States", 
+                    "state": "California", 
+                    "zip": "92093"
+                }, 
+                "name": "UCSD"
+            }, 
+            "investigator": {
+                "last_name": "Jacqueline Kerr, PhD", 
+                "role": "Principal Investigator"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_groups": "3", 
+        "official_title": "Validating Machine -Learned Classifiers of Sedentary Behavior and Physical Activity", 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": [
+                "United States: Institutional Review Board", 
+                "United States: Federal Government"
+            ], 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "April 2016", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Using an annotated data set of SenseCam images in three free-living population subgroups, we will compare sensitivity, specificity and percent agreement between behavioral classifiers derived from: (a) single axis vs. multi axis accelerometers; (b) aggregated movement counts vs. raw acceleration data; (c) hip vs. wrist mounted accelerometers.\nDetermine (a) the extent to which adding GPS data improves discrimination accuracy over accelerometer only behavior classification (i.e., best classifier resulting from Aim 1); and (b) the extent to which adding GIS data improves discrimination accuracy over accelerometer and GPS behavior classification alone (i.e., best classifier resulting from Aim 2a).", 
+            "measure": "physical activity behavior classification using study sensors (accelerometers, Sensecam and GPS)", 
+            "safety_issue": "No", 
+            "time_frame": "Baseline"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01775826"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University of California, San Diego", 
+            "investigator_full_name": "Jacqueline Kerr", 
+            "investigator_title": "Assistant Professor", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "source": "University of California, San Diego", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of California, San Diego", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "March 2013", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Cross-Sectional", 
+        "study_type": "Observational", 
+        "verification_date": "March 2014"
+    }
+}

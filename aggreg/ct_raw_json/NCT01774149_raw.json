@@ -1,0 +1,187 @@
+{
+    "clinical_study": {
+        "@rank": "83880", 
+        "acronym": "MDDC", 
+        "arm_group": [
+            {
+                "arm_group_label": "Delayed Diastat", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Mobile phone application Few Touch Application (FTA) in the regular version, with Diastat turned on in week 12 post-enrollment."
+            }, 
+            {
+                "arm_group_label": "Diastat", 
+                "arm_group_type": "Experimental", 
+                "description": "Few Touch Application with Diastat module turned on in  week 4 post-enrollment."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Patients with Diabetes Mellitus Type 1 using electronic self-help tools typically registers\n      a large amount of data on their disease. The study intends to see if giving advanced\n      feedback on these data can improve their blood glucose management."
+        }, 
+        "brief_title": "Model Driven Diabetes Care", 
+        "completion_date": {
+            "#text": "August 2013", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Diabetes Mellitus, Type 1", 
+        "condition_browse": {
+            "mesh_term": [
+                "Diabetes Mellitus", 
+                "Diabetes Mellitus, Type 1"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "All patients will be given access to a mobile phone with the diabetes diary known as the Few\n      Touch Application (FTA) installed. They may use either their own compatible Android\n      handsets, or provided handsets. The study uses a delayed start design. Participants are\n      randomized into two groups, who get access to the module \"Diastat\" after 4 and 12 weeks\n      post-enrollment respectively. Each group uses the FTA with Diastat for 8 weeks\n      post-intervention (i.e. access to Diastat).\n\n      Diastat is a module within FTA that provides data-driven feedback to the patients using\n      their own data. This module is based on the data recorded in a previous trial [1]. Three\n      submodules are part of Diastat; Periodicity detection and visualization, multiscale trend\n      detection based on the c-SiZer algorithm [2], and situation matching for insulin dosage [3].\n\n        1. Skr\u00f8vseth SO et al, Diabetes Technol Ther (2012)\n\n        2. Skr\u00f8vseth SO et al, PLoS ONE (2012)\n\n        3. Skr\u00f8vseth SO et al, Accepted for Advanced Technologies and Treatments for Diabetes,\n           Paris, France, 2013."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Confirmed diagnosis with Diabetes Mellitus type 1 for at least one year.\n\n          -  Age over 18 years\n\n          -  Has basic familiarity with mobile phones, and uses mobile phone on a daily basis.\n\n        Exclusion Criteria:\n\n          -  Severe complications due to their diabetes.\n\n          -  Unable to understand or conform to the guidelines when presented with the phone's\n             software."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "40", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "January 11, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01774149", 
+            "org_study_id": "2011/1939 (REK)"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Delayed Diastat", 
+                    "Diastat"
+                ], 
+                "description": "Users get access to the regular version of the Few Touch Application for Type 1 Diabetes.", 
+                "intervention_name": "Few Touch Application", 
+                "intervention_type": "Device", 
+                "other_name": "Diabetesdagboka"
+            }, 
+            {
+                "arm_group_label": [
+                    "Delayed Diastat", 
+                    "Diastat"
+                ], 
+                "description": "Users get the Few Touch Application with Diastat module activated.", 
+                "intervention_name": "Diastat", 
+                "intervention_type": "Device"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Diazepam"
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "April 30, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Troms\u00f8", 
+                    "country": "Norway", 
+                    "zip": "9038"
+                }, 
+                "name": "University Hopital of North Norway"
+            }
+        }, 
+        "location_countries": {
+            "country": "Norway"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Data Driven Feedback as a Method to Improve Glycaemic Control in Type 1 Diabetes", 
+        "other_outcome": [
+            {
+                "description": "System Usability Scale (SUS) will be applied to assess usability of the approach and recorded  during the last week of intervention (week 12 for the intervention group and week 20 for the active comparator group).", 
+                "measure": "Usability", 
+                "safety_issue": "No", 
+                "time_frame": "up to 20 weeks post-enrollment"
+            }, 
+            {
+                "description": "Diabetes Empowerment Scale-Short Form (DES-SF) will be used to assess empowerment at the start of the study (week 1 post-enrollment) and during week 12 of intervention.", 
+                "measure": "Empowerment", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 12 weeks post-enrollment."
+            }
+        ], 
+        "overall_official": {
+            "affiliation": "University Hospital of North Norway", 
+            "last_name": "Stein Olav Skr\u00f8vseth, PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": [
+                "Norway: Regional Ethics Commitee", 
+                "Norway: Data Protection Authority"
+            ], 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "August 2013", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "The number of self-measured blood glucose values < 4 mmol/L (72 mg/dL) or > 15 mmol/L (270 mg/dL) will be recorded during baseline (first 4 weeks post-enrollment/start of study), during weeks 8-12 post-enrollment for all participants, and weeks 16-20 post-enrollment for the active comparator group.", 
+            "measure": "Change in the frequency of hyper- and hypo-glycemic events from baseline to week 8-12 and the last 4 weeks of intervention.", 
+            "safety_issue": "No", 
+            "time_frame": "Up to 20 weeks post-enrollment"
+        }, 
+        "reference": [
+            {
+                "PMID": "23035775", 
+                "citation": "Skr\u00f8vseth SO, Arsand E, Godtliebsen F, Hartvigsen G. Mobile phone-based pattern recognition and data analysis for patients with type 1 diabetes. Diabetes Technol Ther. 2012 Dec;14(12):1098-104. doi: 10.1089/dia.2012.0160. Epub 2012 Oct 4."
+            }, 
+            {
+                "PMID": "22874353", 
+                "citation": "Skr\u00f8vseth SO, Arsand E, Godtliebsen F, Joakimsen RM. Model driven mobile care for patients with type 1 diabetes. Stud Health Technol Inform. 2012;180:1045-9."
+            }, 
+            {
+                "PMID": "23063047", 
+                "citation": "\u00c5rsand E, Fr\u00f8island DH, Skr\u00f8vseth SO, Chomutare T, Tatara N, Hartvigsen G, Tufano JT. Mobile health applications to assist patients with diabetes: lessons learned and design implications. J Diabetes Sci Technol. 2012 Sep 1;6(5):1197-206."
+            }, 
+            {
+                "PMID": "23300626", 
+                "citation": "Skr\u00f8vseth SO, Bellika JG, Godtliebsen F. Causality in scale space as an approach to change detection. PLoS One. 2012;7(12):e52253. doi: 10.1371/journal.pone.0052253. Epub 2012 Dec 27."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01774149"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "description": "HbA1c will be measured at the start of the study (week 1 post-enrollment) and during the last week of intervention (week 12 for the intervention group and week 20 for the active comparator group).", 
+            "measure": "Change in HbA1c", 
+            "safety_issue": "No", 
+            "time_frame": "up to 20 weeks post-enrollment"
+        }, 
+        "source": "University Hospital of North Norway", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "University of Tromso", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "The Research Council of Norway", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "University Hospital of North Norway", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "March 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Supportive Care", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2013"
+    }
+}

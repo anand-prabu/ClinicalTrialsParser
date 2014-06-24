@@ -1,0 +1,504 @@
+{
+    "clinical_study": {
+        "@rank": "38390", 
+        "acronym": "Nonin4", 
+        "arm_group": {
+            "arm_group_label": "Desaturation", 
+            "arm_group_type": "Experimental", 
+            "description": "Human volunteers undergo oxygen desaturation in order to determine the accuracy of the device over a clinical range of oxygen saturations 70 - 100%."
+        }, 
+        "brief_summary": {
+            "textblock": "A cerebral oximeter is a device that uses light to measure the amount of oxygen within the\n      brain. It is similar to the device that measures the level of oxygen in the tip of the\n      finger, known as a pulse oximeter. The cerebral oximeter consists of a sensor placed on the\n      forehead that both emits and detects the amount of light absorbed. This study will determine\n      how accurate the device is by comparing the displayed value on the monitor with blood\n      samples taken simultaneously from the arterial blood in the wrist and venous blood in the\n      neck. In order to test the device over a suitable range, the level of oxygen within the\n      blood will be reduced in a controlled manner by reduction of the inspired oxygen\n      concentration. This is the equivalent of ascending to an altitude of 16,000 feet. The study\n      will be conducted in healthy volunteers."
+        }, 
+        "brief_title": "Nonin 4 Wavelength Cerebral Oximeter Study", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "Initial group of subjects on whom the test algorithm is developed.", 
+                            "title": "Calibration"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "Group of subjects in whom the final algorithm is tested.", 
+                            "title": "Validation"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "12"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "11"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "23"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@lower_limit": "22", 
+                                                "@spread": "6", 
+                                                "@upper_limit": "36", 
+                                                "@value": "27"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@lower_limit": "21", 
+                                                "@spread": "4", 
+                                                "@upper_limit": "31", 
+                                                "@value": "25"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@lower_limit": "21", 
+                                                "@spread": "6", 
+                                                "@upper_limit": "34", 
+                                                "@value": "25"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Full Range", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "3"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "6"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "9"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "9"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "5"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "14"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Hispanic"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "2"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "3"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "5"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "African American"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "10"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "8"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "18"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Caucasian"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Asian"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Race/Ethnicity, Customized", 
+                            "units": "Participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "limitations_and_caveats": "None", 
+            "outcome_list": {
+                "outcome": {
+                    "description": "A scatterplot is created with the forehead sensor saturation on the y-axis and the measured blood saturation on the x-axis. The line of identity is drawn representing the ideal points, meaning that the forehead sensor saturation is always the same as the blood saturation. The dispersion of the actual data points around this line of identity can be measured using a statistical calculation called Arithmetic Root Mean Square or ARMS. The smaller the ARMS the closer the data points lie around the line of identity, representing a more accurate sensor.", 
+                    "group_list": {
+                        "group": [
+                            {
+                                "@group_id": "O1", 
+                                "description": "Initial group of subjects on whom the test algorithm is developed.", 
+                                "title": "Calibration"
+                            }, 
+                            {
+                                "@group_id": "O2", 
+                                "description": "Group of subjects in whom the final algorithm is tested.", 
+                                "title": "Validation"
+                            }
+                        ]
+                    }, 
+                    "measure_list": {
+                        "measure": [
+                            {
+                                "category_list": {
+                                    "category": {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "O1", 
+                                                    "@value": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "O2", 
+                                                    "@value": "11"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }, 
+                                "param": "Number", 
+                                "title": "Number of Participants", 
+                                "units": "participants"
+                            }, 
+                            {
+                                "category_list": {
+                                    "category": {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "O1", 
+                                                    "@lower_limit": "4.3", 
+                                                    "@upper_limit": "7.5", 
+                                                    "@value": "5.7"
+                                                }, 
+                                                {
+                                                    "@group_id": "O2", 
+                                                    "@lower_limit": "2.9", 
+                                                    "@upper_limit": "5.3", 
+                                                    "@value": "4.1"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }, 
+                                "description": "A scatterplot is created with the forehead sensor saturation on the y-axis and the measured blood saturation on the x-axis. The line of identity is drawn representing the ideal points, meaning that the forehead sensor saturation is always the same as the blood saturation. The dispersion of the actual data points around this line of identity can be measured using a statistical calculation called Arithmetic Root Mean Square or ARMS. The smaller the ARMS the closer the data points lie around the line of identity, representing a more accurate sensor.", 
+                                "dispersion": "Full Range", 
+                                "param": "Mean", 
+                                "title": "Accuracy of Sensor", 
+                                "units": "percentage saturation"
+                            }
+                        ]
+                    }, 
+                    "population": "Multiple data points from each individual were pooled and presented as group data.", 
+                    "safety_issue": "No", 
+                    "time_frame": "Data collected from individual participants over 1 hour timeframe. Data from cohort of subjects collected over 6 month period.", 
+                    "title": "Accuracy of Sensor", 
+                    "type": "Primary"
+                }
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "Initial group of subjects on whom the test algorithm is developed.", 
+                            "title": "Calibration"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "Group of subjects in whom the final algorithm is tested.", 
+                            "title": "Validation"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "12", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "11", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "12", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "11", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "pre_assignment_details": "Healthy volunteers recruited with specific exclusion of anemia & hemoglobinopathy.", 
+                "recruitment_details": "Recruitment 09/2009 - 06/2010 at Duke University Medical Center."
+            }, 
+            "point_of_contact": {
+                "email": "david.macleod@duke.edu", 
+                "name_or_title": "Dr David MacLeod", 
+                "organization": "Duke University Medical Center", 
+                "phone": "919-812-3201"
+            }
+        }, 
+        "completion_date": {
+            "#text": "April 2012", 
+            "@type": "Actual"
+        }, 
+        "condition": "Healthy", 
+        "detailed_description": {
+            "textblock": "This is a calibration and validation study of a near-infrared spectroscopy (NIRS) device\n      designed to measure the cerebral tissue oxygen saturation non-invasively. This is achieved\n      by comparing NIRS-derived cerebral tissue oxygen saturation with a calculated value derived\n      from simultaneous arterial and jugular venous blood samples.\n\n      At present the FDA have adopted the standards published in 2005 by the International\n      Organization for Standardization (ISO), entitled ISO 9919. This is a set of technical\n      specifications and guidelines for pulse oximeters, which share certain technical\n      similarities to cerebral oximeters. In particular, Annex EE details the conduct of a\n      controlled desaturation study for the calibration of pulse oximeter equipment. Specifically,\n      the fraction of inspired oxygen delivered to test subjects is varied to achieve a series of\n      targeted steady state saturation periods over a range of arterial oxygen saturation of 70 -\n      100%.\n\n      While cerebral oximeters differ from pulse oximeters in terms of the what is being measured\n      (brain tissue v arterial blood) the FDA have maintained the requirement to examine data from\n      human volunteer studies in which the arterial oxygen saturation ranges from 70 - 100%. Two\n      FDA-approved cerebral oximeters were validated in a similar manner.\n\n      The device controlling the inspired gas concentration is the RespirAct, which permits\n      precise reduction in the arterial oxygen saturation while maintaining the arterial carbon\n      dioxide level at 40 mmHg.\n\n      The study consists of 3 sequences:\n\n        -  First sequence: reduction in arterial oxygen saturation in approximately 5% increments\n           from 100 to 70% followed by return to room air and then a period of supplemental\n           oxygen.\n\n        -  Second sequence: reduction in arterial oxygen saturation in a single drop from 100 to\n           70% followed by return to room air and then a period of supplemental oxygen.\n\n        -  Third sequence: reduction in arterial oxygen saturation in approximately 10% increments\n           from 100 to 70% with alteration of carbon dioxide level from 35 to 45 mmHg at each\n           interval followed by return to room air."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  21 to 35 years of age\n\n          -  American Society of Anesthesiologists health assessment level 1\n\n          -  Body Mass Index (BMI) 18 to 30\n\n        Exclusion Criteria:\n\n          -  anemia\n\n          -  hemoglobinopathy (e.g. sickle cell disease, thalassemia)\n\n          -  positive pregnancy test (females)\n\n          -  significant cardiac or pulmonary disease\n\n          -  history of sleep apnea\n\n          -  tobacco, drug or alcohol abuse\n\n          -  difficult airway\n\n          -  abnormal EKG / pulmonary function test / room air saturation\n\n          -  intolerance to breathing mask apparatus"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "35 Years", 
+            "minimum_age": "21 Years"
+        }, 
+        "enrollment": {
+            "#text": "23", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "February 17, 2012", 
+        "firstreceived_results_date": "March 6, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01762722", 
+            "org_study_id": "Pro00018006"
+        }, 
+        "intervention": {
+            "arm_group_label": "Desaturation", 
+            "description": "Reduction in blood oxygen saturation by sequential reduction in inspired gas composition.  Steps are of 6 minutes duration with reduction in pulse oximeter oxygen saturation from 100 to 70%.", 
+            "intervention_name": "Reduction of inspired oxygen", 
+            "intervention_type": "Device", 
+            "other_name": "Nonin Equanox cerebral oximeter"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "Spectroscopy, near infrared", 
+            "Oximetry", 
+            "Hypoxemia", 
+            "Tissue oxygenation"
+        ], 
+        "lastchanged_date": "March 6, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Durham", 
+                    "country": "United States", 
+                    "state": "North Carolina", 
+                    "zip": "27710"
+                }, 
+                "name": "Duke University Health System"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Calibration and Validation of the 4 Wavelength Nonin Non-invasive Cerebral Oxygen Saturation Oximeter and Cerebral Sensor", 
+        "overall_official": {
+            "affiliation": "Duke University Health System", 
+            "last_name": "David B MacLeod, FRCA", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "June 2010", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "A scatterplot is created with the forehead sensor saturation on the y-axis and the measured blood saturation on the x-axis. The line of identity is drawn representing the ideal points, meaning that the forehead sensor saturation is always the same as the blood saturation. The dispersion of the actual data points around this line of identity can be measured using a statistical calculation called Arithmetic Root Mean Square or ARMS. The smaller the ARMS the closer the data points lie around the line of identity, representing a more accurate sensor.", 
+            "measure": "Accuracy of Sensor", 
+            "safety_issue": "No", 
+            "time_frame": "Data collected from individual participants over 1 hour timeframe. Data from cohort of subjects collected over 6 month period."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01762722"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Duke University", 
+            "investigator_full_name": "David MacLeod", 
+            "investigator_title": "Assistant Clinical professor", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "results_reference": {
+            "PMID": "22883447", 
+            "citation": "MacLeod DB, Ikeda K, Vacchiano C, Lobbestael A, Wahr JA, Shaw AD. Development and validation of a cerebral oximeter capable of absolute accuracy. J Cardiothorac Vasc Anesth. 2012 Dec;26(6):1007-14. doi: 10.1053/j.jvca.2012.06.010. Epub 2012 Aug 9."
+        }, 
+        "source": "Duke University", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Nonin Medical, Inc", 
+                "agency_class": "Industry"
+            }, 
+            "lead_sponsor": {
+                "agency": "Duke University", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "September 2009", 
+        "study_design": "Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2013"
+    }
+}

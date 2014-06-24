@@ -1,0 +1,148 @@
+{
+    "clinical_study": {
+        "@rank": "25230", 
+        "acronym": "Fractal", 
+        "arm_group": {
+            "arm_group_label": "ASA 1-2", 
+            "arm_group_type": "Experimental", 
+            "description": "ASA 1-2 patients 20-40 yr"
+        }, 
+        "brief_summary": {
+            "textblock": "Temporal dynamics of the EEG microstates show scale-free monofractal properties. This means\n      that information is encoded in the same way at different scales. It may be postulated that\n      these monofractal properties of the EEG microstate sequences constitute a necessary\n      prerequisite of consciousness. We postulate that clinical variations of consciousness may\n      also be linked to alterations of fractal properties of EEG microstates."
+        }, 
+        "brief_title": "Alteration of Temporal Organization of EEG Microstate Sequences During Propofol-induced Loss of Consciousness", 
+        "condition": "Loss of Consciousness", 
+        "condition_browse": {
+            "mesh_term": "Unconsciousness"
+        }, 
+        "detailed_description": {
+            "textblock": "-  Aim of the study: Assess the alteration of temporal organization of EEG microstate\n           sequences during propofol-induced loss of consciousness\n\n        -  Methods: Prospective clinical trial. 20 right-handed adult patients, aged between 18\n           and 40 years, scheduled for elective surgery under general anaesthesia, will be\n           included.\n\n      Patients will not receive any preoperative oral anxiolysis. After arrival in the operation\n      theatre and a resting period of 10 minutes, the baseline EEG will be recorded (5 minutes\n      duration). Then, after a three minutes proxygenation period with 100% oxygen, patients will\n      receive an intravenous induction with propofol using the pharmacokinetic model by Schnider\n      et al. The initial cerebral concentration will be 0.5 \u00b5g ml-1, which will be increased\n      stepwise by 1.0 \u00b5g ml-1 until 2.5 \u00b5g ml-1, and then by 0.5 \u00b5g ml-1 until loss of\n      consciousness. During the induction procedure, the patient's lungs will be gently ventilated\n      using 100% oxygen through a face mask.\n\n      Five minutes after reaching each equilibration of the blood-brain propofol concentration,\n      clinical sedation (using the validated six points Observer Assessment of Alertness/Sedation\n      [OAA/S] scale) will be annotated. Raw EEG, used later for fractal analysis, will be\n      continuously recorded during the procedure. Corresponding OOA/S scores will be recorded on\n      raw EEG. The study ends 10 minutes after the patient has lost consciousness (absence of\n      response to \"mild prodding or shaking\" corresponding to OAA/S <2).\n\n      The fractal analysis of EEG will be performed with a delay after anaesthesia by\n      neuroscientists\n\n        -  Hypothesis: We hypothesise that the fractal properties of EEG microstates will be\n           modified in parallel with the propofol-induced loss of consciousness.\n\n        -  EEG and DATA analysis Microstate analysis First, we will determine the maxima of the\n           global field power (GFP). Because topography remains stable around peaks of the GFP,\n           they are the best representatives of the momentary map topography in terms of\n           signal-to-noise ratio.18 All maps marked as GFP peaks (i.e., the voltage values at all\n           electrodes at that time point) will be extracted and submitted to a modified spatial\n           cluster analysis using the atomize-agglomerate hierarchical clustering (AAHC) method19\n           to identify the most dominant map topographies. The optimal number of template maps\n           will be determined by means of a cross-validation criterion.20 We will then submit the\n           template maps identified in every single subject into a second AAHC cluster analysis to\n           identify the dominant clusters across all subjects. Finally, we will compute a spatial\n           correlation between the templates identified at the group level and those identified\n           for each subject in every run. We will so label each individual map with the group\n           template it best corresponds to, to use the same labels for the subsequent group\n           analysis.\n\n      Then, we will compute the spatial correlation between the four template maps and the\n      instantaneous EEG21 using a temporal constraint criterion of 32 ms. We will then use these\n      spatial correlation time courses to select the dominant microstate m(k)\u2208{} at each time\n      instant k and submit those time series to the fractal analysis.\n\n        -  Fractal analysis We will split the microstate sequence into bipartitions and perform a\n           random walk (on those bipartitions). After having integrated this random walk, we will\n           analyse the integrated random walk by means of the wavelet transform and extract the\n           fractal parameters: Hurst exponent and higher order cumulants.\n\n        -  Fractal hypothesis One can either expect a decrease of the long-range dependency of the\n           microstate sequences, i.e. one would expect lower Hurst exponents with deeper\n           anaesthesia and hence loss of consciousness. Alternatively, we could also expect a\n           transition from mono- to multifractality, i.e. the scaling of the temporal dynamics of\n           the microstate sequences can be described at the expense of using multiple parameters,\n           i.e. the Hurst exponent and higher-order cumulants that deviate from zero."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Adult patients (age between 18 and 40 years)\n\n          -  Right-handed\n\n          -  American Society of Anesthesiology (ASA) status I-II\n\n          -  Scheduled for elective surgery requiring a general anaesthetic\n\n          -  Able to read and understand the information sheet and to sign and date the consent\n             form.\n\n        Exclusion Criteria:\n\n          -  Patients with significant cardio-respiratory or other end-organ disease (renal or\n             hepatic disease influencing metabolism or elimination of study drugs).\n\n          -  Patients with depression, neurological or psychiatry disorders.\n\n          -  Dementia or inability to understand the study informed consent.\n\n          -  Patients with a history of oesophageal reflux, hiatus hernia or any other condition\n             requiring rapid sequence induction of anaesthesia.\n\n          -  History of drug (opioids) or alcohol abuse.\n\n          -  Patients with a body mass index >30 kg m-2.\n\n          -  Left handed patients\n\n          -  History of allergy or hypersensitivity to propofol."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "40 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "20", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "April 24, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02125214", 
+            "org_study_id": "Fractal-01"
+        }, 
+        "intervention": {
+            "arm_group_label": "ASA 1-2", 
+            "description": "Intravenous induction with propofol using the pharmacokinetic model by Schnider et al. The initial cerebral concentration will be 0.5 \u00b5g ml-1, which will be increased stepwise by 1.0 \u00b5g ml-1 until 2.5 \u00b5g ml-1, and then by 0.5 \u00b5g ml-1 until loss of consciousness", 
+            "intervention_name": "Target Controlled Infusion system (Orchestra Base Primea, Fresenius, France)", 
+            "intervention_type": "Device"
+        }, 
+        "intervention_browse": {
+            "mesh_term": "Propofol"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": "consciousness, anesthesia, electroencephalogram, microstate, long-range dependency", 
+        "lastchanged_date": "April 28, 2014", 
+        "location": {
+            "contact": {
+                "email": "julien.maillard@hcuge.ch", 
+                "last_name": "Julien Maillard, MD", 
+                "phone": "0041795532131"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Geneva", 
+                    "country": "Switzerland", 
+                    "zip": "1206"
+                }, 
+                "name": "University Hospitals of Geneva"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "Switzerland"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Alteration of Temporal Organization of EEG Microstate Sequences During Propofol-induced Loss of Consciousness", 
+        "overall_contact": {
+            "email": "julien.maillard@hcuge.ch", 
+            "last_name": "Julien Maillard, MD", 
+            "phone": "0041795532131"
+        }, 
+        "overall_contact_backup": {
+            "email": "martin.tramer@hcuge.ch", 
+            "last_name": "Martin Tramer, MD, DPhil", 
+            "phone": "0041795532145"
+        }, 
+        "overall_official": [
+            {
+                "affiliation": "University Hospitals of Geneva, Department of Anesthesiology", 
+                "last_name": "Martin Tramer, MD, DPhil", 
+                "role": "Study Director"
+            }, 
+            {
+                "affiliation": "University Hospitals of Geneva, Department of Anesthesiology", 
+                "last_name": "Julien Maillard, MD", 
+                "role": "Principal Investigator"
+            }
+        ], 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "Switzerland: Swissmedic", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "July 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Assess the alteration of temporal organization of EEG microstate sequences during propofol-induced loss of consciousness.", 
+            "measure": "EEG microstates", 
+            "safety_issue": "No", 
+            "time_frame": "45 minutes"
+        }, 
+        "reference": {
+            "PMID": "20188188", 
+            "citation": "Britz J, Van De Ville D, Michel CM. BOLD correlates of EEG topography reveal rapid resting-state network dynamics. Neuroimage. 2010 Oct 1;52(4):1162-70. doi: 10.1016/j.neuroimage.2010.02.052. Epub 2010 Feb 24."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02125214"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University Hospital, Geneva", 
+            "investigator_full_name": "Julien Maillard", 
+            "investigator_title": "Medical Doctor", 
+            "responsible_party_type": "Sponsor-Investigator"
+        }, 
+        "source": "University Hospital, Geneva", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "University of Geneva, Switzerland", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne EPFL", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "Julien Maillard", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2014", 
+        "study_design": "Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Basic Science", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2014"
+    }
+}

@@ -1,0 +1,160 @@
+{
+    "clinical_study": {
+        "@rank": "161553", 
+        "arm_group": [
+            {
+                "arm_group_label": "Sepsis/SIRS", 
+                "description": "Patients with sepsis or SIRS"
+            }, 
+            {
+                "arm_group_label": "Control", 
+                "description": "Patients without SIRS, sepsis, or end stage renal disease"
+            }, 
+            {
+                "arm_group_label": "End Stage Renal Disease", 
+                "description": "Patients with end stage renal disease, without SIRS or sepsis"
+            }
+        ], 
+        "biospec_descr": {
+            "textblock": "Blood plasma Blood serum"
+        }, 
+        "biospec_retention": "Samples Without DNA", 
+        "brief_summary": {
+            "textblock": "This is an observational study to evaluate the diagnostic accuracy of presepsin levels to\n      discriminate between sepsis and SIRS upon presentation with critical illness compatible with\n      either sepsis or systemic inflammatory response syndrome (SIRS)."
+        }, 
+        "brief_title": "Utility of Presepsin in Distinguishing Between Sepsis and SIRS", 
+        "completion_date": {
+            "#text": "July 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "SIRS", 
+            "Sepsis"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Sepsis", 
+                "Toxemia", 
+                "Systemic Inflammatory Response Syndrome"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Sepsis/SIRS Patients\n\n        Inclusion Criteria:\n\n          -  Male or female aged \u2265 21 years\n\n          -  Appropriate clinical data to enable classification into sepsis or SIRS\n\n          -  Written informed consent by the patient or legally authorized representative\n\n          -  Critical illness consistent with SIRS or sepsis, to be enrolled  within 18 hours of\n             presentation\n\n        Exclusion Criteria:\n\n          -  No informed consent\n\n          -  Unacceptable risk imposed by extra blood sampling, such as by gross hemorrhage with a\n             hematocrit < 20%\n\n        Control\n\n        Inclusion Criteria:\n\n          -  Male or female aged \u2265 21 years\n\n          -  Does not meet clinical criteria for sepsis or SIRS\n\n          -  Written informed consent by the patient or legally authorized representative\n\n        Exclusion Criteria:\n\n          -  No informed consent\n\n          -  Unacceptable risk imposed by extra blood sampling, such as by gross hemorrhage with a\n             hematocrit < 20%\n\n        End Stage Renal Disease\n\n        Inclusion Criteria:\n\n          -  Male or female aged \u2265 21 years\n\n          -  Documented diagnosis of end stage renal disease currently undergoing dialysis\n\n          -  Does not meet clinical criteria for sepsis or SIRS\n\n          -  Written informed consent by the patient or legally authorized representative\n\n        Exclusion Criteria:\n\n          -  No informed consent\n\n          -  Unacceptable risk imposed by extra blood sampling, such as by gross hemorrhage with a\n             hematocrit < 20%"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "21 Years", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "Subjects with presentation to ICU with critical illness compatible with either sepsis or\n        systemic inflammatory response syndrome (SIRS)."
+            }
+        }, 
+        "enrollment": {
+            "#text": "226", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "January 30, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02052895", 
+            "org_study_id": "IVD2001"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Presepsin", 
+            "Sepsis", 
+            "SIRS"
+        ], 
+        "lastchanged_date": "April 6, 2014", 
+        "location": [
+            {
+                "contact": {
+                    "email": "pgibbons1@tuftsmedicalcenter.org", 
+                    "last_name": "Patric Gibbons", 
+                    "phone": "617-636-0240"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02111"
+                    }, 
+                    "name": "Tufts Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Stanley Nasraway, MD, FCCM", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "Yuxiu.Lei@Lahey.org", 
+                    "last_name": "Yuxiu Lei"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "01805"
+                    }, 
+                    "name": "Lahey Clinic"
+                }, 
+                "investigator": {
+                    "last_name": "Jana Hudcova, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_groups": "3", 
+        "official_title": "Utility of Presepsin in Distinguishing Between Sepsis and SIRS (Systemic Inflammatory Response Syndrome): an Exploratory, Prospective Observational Study in Critically Ill Patients", 
+        "overall_official": {
+            "affiliation": "Tufts Medical Center", 
+            "last_name": "Stanley Nasraway, MD, FCCM", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "July 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Area under the Receiver Operator Curve (ROC) curve of the plasma presepsin concentration for discriminating between SIRS and sepsis", 
+            "measure": "Presepsin Concentration in Plasma", 
+            "safety_issue": "No", 
+            "time_frame": "Up to 30 days"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02052895"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Mochida Pharmaceutical Company, Ltd.", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Mochida Pharmaceutical Company, Ltd.", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "January 2014", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "April 2014"
+    }
+}

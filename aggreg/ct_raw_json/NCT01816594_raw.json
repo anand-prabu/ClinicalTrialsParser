@@ -1,0 +1,954 @@
+{
+    "clinical_study": {
+        "@rank": "159694", 
+        "acronym": "NeoPHOEBE", 
+        "arm_group": [
+            {
+                "arm_group_label": "Trastuzumab + BKM120 + paclitaxel", 
+                "arm_group_type": "Experimental", 
+                "description": "BKM120 (oral, pan-class I PI3K inhibitor) in combination with trastuzumab and paclitaxel."
+            }, 
+            {
+                "arm_group_label": "Trastuzumab + BKM120 placebo + paclitaxel", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "BKM120 placebo in combination with trastuzumab and paclitaxel"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This randomized, parallel cohort, two stage, double-blind, placebo-controlled study will\n      evaluate the oral PI3K inhibitor BKM120 in combination with trastuzumab and paclitaxel in\n      HER2-positive primary breast cancer prior to definitive surgery (neo-adjuvant setting)."
+        }, 
+        "brief_title": "NeoPHOEBE: Neoadjuvant Trastuzumab + BKM120 in Combination With Weekly Paclitaxel in HER2-positive Primary Breast Cancer", 
+        "completion_date": {
+            "#text": "February 2016", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "HER2-positive, Newly Diagnosed, Primary Breast Cancer, Neoadjuvant Therapy, Trastuzumab", 
+        "condition_browse": {
+            "mesh_term": "Breast Neoplasms"
+        }, 
+        "detailed_description": {
+            "textblock": "NeoPHOEBE will evaluate the efficacy (as defined by pCR) of BKM120 (an oral PI3K inhibitor)\n      in combination with trastuzumab and paclitaxel in a randomized, placebo-controlled,\n      neo-adjuvant study in women diagnosed with primary breast cancer >1.5 cm (by US or MRI) with\n      centrally confirmed HER2 overexpression or amplification, and who have not previously\n      undergone treatment for invasive breast cancer.\n\n      Prior to the initiation of paclitaxel, there will be a 6-week \"biologic window\" with\n      trastuzumab plus BKM120 or placebo only. The study will be conducted separately in two\n      cohorts (PIK3CA mutated and PI3K3CA wild-type) using a two-stage approach. Within each\n      cohort patients will be randomized into one of the following treatment arms:\n\n      Arm 1: BKM120 placebo plus trastuzumab for 6 weeks followed by BKM120 placebo plus\n      trastuzumab plus weekly paclitaxel for an additional 12 weeks.\n\n      Arm 2: BKM120 plus trastuzumab for 6 weeks followed by BKM120 and trastuzumab plus weekly\n      paclitaxel for an additional 12 weeks.\n\n      After completion of study treatment, patients will undergo definitive surgery."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patient is a female \u2265 18 years of age\n\n          -  Patient has an ECOG performance status of 0-1\n\n          -  Patient has a unilateral (multifocal or multicentric disease allowed), histologically\n             confirmed, newly diagnosed early breast cancer >2cm by clinical examination and/or\n             >1.5 cm confirmed by ultrasound or by MRI\n\n          -  Patient has tumor tissue available for central review of ER, HER2 and PI3K status\n             with centrally confirmed HER2-positive disease and known PI3KCA mutation status\n\n          -  Patient has adequate bone marrow, renal and liver function\n\n          -  Patient is able to swallow and retain oral medication\n\n        Exclusion Criteria:\n\n          -  Patient has received prior systemic treatment for currently diagnosed disease\n\n          -  Patient has a known contraindications, hypersensitivity or intolerance to\n             trastuzumab, paclitaxel or products containing cremophor\n\n          -  Patient has bilateral breast cancer or metastatic disease or inflammatory breast\n             cancer\n\n          -  LVEF below 50% as determined by MUGA scan or ECHO\n\n          -  Patient has active cardiac disease or a history of cardiac abnormalities as defined\n             in the protocol\n\n          -  Patient has impairment of gastrointestinal (GI) function or GI disease that may\n             significantly alter the absorption of BKM120\n\n          -  Patient is currently receiving warfarin or other coumarin derived anti-coagulants\n\n          -  Patient is currently receiving chronic treatment with corticosteroids or another\n             immunosuppressive agents (standard premedication for paclitaxel and local\n             applications allowed)\n\n          -  Patient is currently receiving treatment with drugs known to be strong inhibitors or\n             inducers of CYP3A\n\n          -  Patient has certain scores on an anxiety and depression mood questionnaires\n\n          -  Pregnant or nursing (lactating) women or patients not willing to apply apply highly\n             effective contraception as defined in the protocol\n\n          -  Other protocol defined criteria may apply"
+            }, 
+            "gender": "Female", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "220", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "March 14, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01816594", 
+            "org_study_id": "CBKM120F2203"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Trastuzumab + BKM120 + paclitaxel", 
+                "description": "Neo-adjuvant BKM120 (oral pan-class I PI3K inhibitor, continuous daily dosing). BKM120 will be administered orally 100 mg/day.", 
+                "intervention_name": "BKM120", 
+                "intervention_type": "Drug", 
+                "other_name": "Buparsilib"
+            }, 
+            {
+                "arm_group_label": [
+                    "Trastuzumab + BKM120 + paclitaxel", 
+                    "Trastuzumab + BKM120 placebo + paclitaxel"
+                ], 
+                "description": "Trastuzumab is a humanized monoclonal antibody directed against the extracellular juxtamembrane domain of the HER2 receptor. Administered 4mg/kg i.v. load followed by 2mg/kg i.v. weekly.", 
+                "intervention_name": "Trastuzumab", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "Trastuzumab + BKM120 + paclitaxel", 
+                    "Trastuzumab + BKM120 placebo + paclitaxel"
+                ], 
+                "description": "Paclitaxel is a cytotoxic agent with proven antitumor activity in a variety of solid tumors. The antitumor activity of paclitaxel is based on tubulin-binding and stabilization of non-functional microtubule bundles, thereby blocking normal mitotic spindle development and subsequent cell division. Administered weekly 80mg/m2 i.v.", 
+                "intervention_name": "Paclitaxel", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Trastuzumab + BKM120 placebo + paclitaxel", 
+                "description": "Neoadjuvant BKM120 placebo  Administered orally  100 mg/day.", 
+                "intervention_name": "Placebo", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Paclitaxel", 
+                "Trastuzumab"
+            ]
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": "HER2, breast cancer, neoadjuvant, PI3K inhibitor, first line chemotherapy, trastuzumab, GBG, SOLTI, BIG", 
+        "lastchanged_date": "March 26, 2014", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Concord NSW", 
+                        "country": "Australia", 
+                        "state": "New South Wales", 
+                        "zip": "2139"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hobart", 
+                        "country": "Australia", 
+                        "state": "Tasmania", 
+                        "zip": "7000"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Geelong", 
+                        "country": "Australia", 
+                        "state": "Victoria", 
+                        "zip": "3220"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Melbourne", 
+                        "country": "Australia", 
+                        "state": "Victoria", 
+                        "zip": "3002"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Parkville", 
+                        "country": "Australia", 
+                        "state": "Victoria", 
+                        "zip": "3050"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Linz", 
+                        "country": "Austria", 
+                        "state": "Upper Austria", 
+                        "zip": "4010"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Salzburg", 
+                        "country": "Austria", 
+                        "zip": "5020"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Vienna", 
+                        "country": "Austria"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bruxelles", 
+                        "country": "Belgium", 
+                        "zip": "1000"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Liege", 
+                        "country": "Belgium", 
+                        "zip": "4000"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fortaleza", 
+                        "country": "Brazil", 
+                        "state": "CE", 
+                        "zip": "60440-261"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rio de Janiero", 
+                        "country": "Brazil", 
+                        "state": "RJ", 
+                        "zip": "20231-050"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Porto Alegre", 
+                        "country": "Brazil", 
+                        "state": "RS", 
+                        "zip": "90020-090"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Porto Alegre", 
+                        "country": "Brazil", 
+                        "state": "RS", 
+                        "zip": "90880-480"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Florianopolis", 
+                        "country": "Brazil", 
+                        "state": "SC", 
+                        "zip": "88034-000"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lille Cedex", 
+                        "country": "France", 
+                        "zip": "59020"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nice Cedex 2", 
+                        "country": "France", 
+                        "zip": "06189"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "zip": "75231"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Reims", 
+                        "country": "France", 
+                        "zip": "51056"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toulouse", 
+                        "country": "France", 
+                        "zip": "31052"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Villejuif Cedex", 
+                        "country": "France", 
+                        "zip": "94805"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "T\u00fcbingen", 
+                        "country": "Germany", 
+                        "state": "Baden-Wuertemberg", 
+                        "zip": "72076"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "D\u00fcsseldorf", 
+                        "country": "Germany", 
+                        "state": "Nordrhein Westfalen", 
+                        "zip": "40235"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Berlin", 
+                        "country": "Germany", 
+                        "zip": "13125"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dortmund", 
+                        "country": "Germany", 
+                        "zip": "44137"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Erlangen", 
+                        "country": "Germany", 
+                        "zip": "91054"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Essen", 
+                        "country": "Germany", 
+                        "zip": "45043"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Essen", 
+                        "country": "Germany", 
+                        "zip": "45122"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Frankfurt", 
+                        "country": "Germany", 
+                        "zip": "60590"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Gera", 
+                        "country": "Germany", 
+                        "zip": "07548"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Halle/S.", 
+                        "country": "Germany", 
+                        "zip": "06120"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kiel", 
+                        "country": "Germany", 
+                        "zip": "24105"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "L\u00fcbeck", 
+                        "country": "Germany", 
+                        "zip": "23538"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Muenchen", 
+                        "country": "Germany", 
+                        "zip": "80637"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Muenchen", 
+                        "country": "Germany", 
+                        "zip": "81675"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Muenster", 
+                        "country": "Germany", 
+                        "zip": "48149"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Offenbach", 
+                        "country": "Germany", 
+                        "zip": "63069"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rostock", 
+                        "country": "Germany", 
+                        "zip": "18057"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milano", 
+                        "country": "Italy", 
+                        "state": "MI", 
+                        "zip": "20133"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rozzano", 
+                        "country": "Italy", 
+                        "state": "MI", 
+                        "zip": "20089"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Castellanza", 
+                        "country": "Italy", 
+                        "state": "VA", 
+                        "zip": "21053"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Udine", 
+                        "country": "Italy"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hamilton", 
+                        "country": "New Zealand", 
+                        "zip": "3240"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bellavista", 
+                        "country": "Peru", 
+                        "state": "Lima", 
+                        "zip": "Callao 02"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jesus Maria", 
+                        "country": "Peru", 
+                        "state": "Lima", 
+                        "zip": "11"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Borja", 
+                        "country": "Peru", 
+                        "state": "Lima", 
+                        "zip": "41"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Surquillo", 
+                        "country": "Peru", 
+                        "state": "Lima", 
+                        "zip": "34"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Singapore", 
+                        "country": "Singapore", 
+                        "zip": "308433"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Singapore", 
+                        "country": "Singapore", 
+                        "zip": "119228"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sevilla", 
+                        "country": "Spain", 
+                        "state": "Andalucia", 
+                        "zip": "41017"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sevilla", 
+                        "country": "Spain", 
+                        "state": "Andalucia", 
+                        "zip": "4103"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Barcelona", 
+                        "country": "Spain", 
+                        "state": "Catalu\u00f1a"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Barcelona", 
+                        "country": "Spain", 
+                        "state": "Catalu\u00f1a", 
+                        "zip": "08907"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Valencia", 
+                        "country": "Spain", 
+                        "state": "Comunidad Valenciana", 
+                        "zip": "46010"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mallorca", 
+                        "country": "Spain", 
+                        "state": "Islas Baleares", 
+                        "zip": "07198"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Palma de Mallorca", 
+                        "country": "Spain", 
+                        "state": "Islas Baleares", 
+                        "zip": "07014"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Withdrawn"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Majadanonda", 
+                        "country": "Spain", 
+                        "state": "Madrid", 
+                        "zip": "28220"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Reus", 
+                        "country": "Spain", 
+                        "state": "Tarragona", 
+                        "zip": "43204"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Madrid", 
+                        "country": "Spain", 
+                        "zip": "28041"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Madrid", 
+                        "country": "Spain", 
+                        "zip": "28050"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Madrid", 
+                        "country": "Spain", 
+                        "zip": "28033"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Madrid", 
+                        "country": "Spain", 
+                        "zip": "28040"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bern", 
+                        "country": "Switzerland", 
+                        "zip": "3010"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mendrisio", 
+                        "country": "Switzerland", 
+                        "zip": "6850"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "Australia", 
+                "Austria", 
+                "Belgium", 
+                "Brazil", 
+                "France", 
+                "Germany", 
+                "Italy", 
+                "New Zealand", 
+                "Peru", 
+                "Singapore", 
+                "Spain", 
+                "Switzerland"
+            ]
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "NeoPHOEBE: Pi3k Inhibition in Her2 OverExpressing Breast cancEr: A Phase II, Randomized, Parallel Cohort, Two Stage, Double-blind, Placebo-controlled Study of Neoadjuvant Trastuzumab Versus Trastuzumab + BKM120 in Combination With Weekly Paclitaxel in HER2-positive, PIK3CA Wild-type and PIK3CA Mutant Primary Breast Cancer", 
+        "overall_contact": {
+            "last_name": "Novartis Pharmaceuticals", 
+            "phone": "+41613241111"
+        }, 
+        "overall_contact_backup": {
+            "last_name": "Novartis Pharmaceuticals"
+        }, 
+        "overall_official": {
+            "affiliation": "Novartis Pharmaceuticals", 
+            "last_name": "Novartis Pharmaceuticals", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": [
+                "Australia: Department of Health and Ageing Therapeutic Goods Administration", 
+                "Austria: Agency for Health and Food Safety", 
+                "Belgium: Federal Agency for Medicinal Products and Health Products", 
+                "Spain: Spanish Agency of Medicines (AEMPS)", 
+                "Germany: BFARM - Federal Institute for Drugs and Medical Devices", 
+                "Italy: Italian Medicines Agency", 
+                "New Zealand: Ministry of Health", 
+                "Peru: Instituto Nacional de Salud", 
+                "Singapore: Health Sciences Authority", 
+                "Switzerland: Swissmedic"
+            ], 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "February 2016", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Rate of pCR (as defined by NSABP criteria - absence of invasive disease in the breast [ypT0]) at the time of surgery.", 
+            "measure": "Pathological complete response (pCR) rate", 
+            "safety_issue": "No", 
+            "time_frame": "week 18"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01816594"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Overall objective clinical response rate = CR + PR rate, measured by US (or MRI) and assessed by world health organization (WHO) criteria.", 
+                "measure": "Overall objective clinical response rate at the end of the biologic window and prior to surgery", 
+                "safety_issue": "No", 
+                "time_frame": "baseline, week 6, week 18"
+            }, 
+            {
+                "description": "pCR defined as no invasive and non-invasive (DCIS) residuals in breast and lymph nodes (ypT0, ypN0 [GBG definition]); pCR defined as no invasive residuals in breast and lymph nodes (ypT0/Tis, ypN0 [MD Anderson definition]); Percent of patients with remaining DCIS in breast at definitive surgery irrespective of lymph node status", 
+                "measure": "Efficacy by other pCR definitions", 
+                "safety_issue": "No", 
+                "time_frame": "baseline, week 18"
+            }, 
+            {
+                "description": "pCR and clinical response by hormone receptor status", 
+                "measure": "pCR and clinical response by hormone receptor status (Estrogene Receptor (ER)+ versus ER-)", 
+                "safety_issue": "No", 
+                "time_frame": "baseline, week 18"
+            }, 
+            {
+                "description": "Percent of patients with node-negative disease at surgery", 
+                "measure": "Number of patients with node-negative disease at definitive surgery (ypN0)", 
+                "safety_issue": "No", 
+                "time_frame": "18 weeks"
+            }, 
+            {
+                "description": "Rate of patients with breast conserving surgery", 
+                "measure": "Rate of breast conserving surgery", 
+                "safety_issue": "No", 
+                "time_frame": "18 weeks"
+            }, 
+            {
+                "description": "Frequency and severity of hematological and non-hematological adverse events and laboratory abnormalities", 
+                "measure": "Safety and tolerability", 
+                "safety_issue": "Yes", 
+                "time_frame": "18 weeks"
+            }
+        ], 
+        "source": "Novartis", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "Breast International Group", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "German Breast Group (GBG)", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "SOLTI Breast Cancer Research Group", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "Novartis Pharmaceuticals", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "September 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2014"
+    }
+}

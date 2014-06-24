@@ -1,0 +1,141 @@
+{
+    "clinical_study": {
+        "@rank": "45210", 
+        "acronym": "mPHR", 
+        "arm_group": [
+            {
+                "arm_group_label": "Control", 
+                "arm_group_type": "No Intervention"
+            }, 
+            {
+                "arm_group_label": "Experimental:  Intervention", 
+                "arm_group_type": "Experimental", 
+                "description": "Participants randomized to the intervention arm will receive the mobile personal health record."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Poor quality of medical care is a major contributor to excess medical morbidity and\n      premature mortality in persons with serious mental illnesses (SMI). To address this problem,\n      community mental health providers are increasingly partnering with safety net medical\n      providers to develop behavioral health homes, integrated clinics in which persons with SMI\n      receive coordinated medical and mental health care. However, behavioral health homes have\n      faced logistical and privacy challenges in integrating electronic medical records across\n      organizations.\n\n      This application proposes to develop and test a mobile Personal Health Record (mPHR) to\n      overcome this problem while more fully engaging patients in their health care.  The study\n      will develop, test, and disseminate the mPHR. The investigators will develop the app\n      building on experience and preliminary data from a PC-based PHR project, and link it to the\n      medical and mental health EHR in a behavioral health home. Next, the investigators will\n      conduct a randomized trial of the mPHR in 300 subjects randomized to the mPHR or usual care."
+        }, 
+        "brief_title": "A Mobile Personal Health Record for Behavioral Health Homes", 
+        "completion_date": {
+            "#text": "June 2018", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Hypertension", 
+            "Hyperlipidemia", 
+            "Diabetes"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Hyperlipidemias", 
+                "Hypertension"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  one or more of the following conditions: hyperlipidemia, hypertension, diabetes\n\n          -  able to give consent\n\n          -  patient in the behavioral health home\n\n        Exclusion Criteria:\n\n          -  Unable to give consent"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "300", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "June 25, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01890226", 
+            "org_study_id": "IRB00067447", 
+            "secondary_id": "1R01MH100467 - 01"
+        }, 
+        "intervention": {
+            "arm_group_label": "Experimental:  Intervention", 
+            "intervention_name": "Mobile Personal Health Record App.", 
+            "intervention_type": "Behavioral"
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "May 27, 2014", 
+        "location": {
+            "contact": {
+                "last_name": "Deborah Strotz", 
+                "phone": "770-499-2422"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Austell", 
+                    "country": "United States", 
+                    "state": "Georgia", 
+                    "zip": "30168"
+                }, 
+                "name": "Cobb County Community Service Board"
+            }, 
+            "status": "Not yet recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "A Mobile Personal Health Record for Behavioral Health Homes", 
+        "overall_contact": {
+            "email": "gglick@emory.edu", 
+            "last_name": "Gretl Glick", 
+            "phone": "404-712-8529"
+        }, 
+        "overall_contact_backup": {
+            "email": "svonese@emory.edu", 
+            "last_name": "Silke von Esenwein, Ph.D", 
+            "phone": "404-712-8525"
+        }, 
+        "overall_official": {
+            "affiliation": "Emory University", 
+            "last_name": "Benjamin Druss, MD, MPH", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Not yet recruiting", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "December 2017", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Quality of preventive medical services as measured by proportion of indicated US Preventive Services Taskforce Recommendations received Quality of cardiometabolic care as measured by proportion of indicated RAND quality measures for diabetes, hypertension and hypercholesterolemia received", 
+            "measure": "Quality of General Medical Care", 
+            "safety_issue": "No", 
+            "time_frame": "1 year"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01890226"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Emory University", 
+            "investigator_full_name": "Benjamin Druss", 
+            "investigator_title": "Professor", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "source": "Emory University", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Institute of Mental Health (NIMH)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Emory University", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "July 2014", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Health Services Research", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2014"
+    }
+}

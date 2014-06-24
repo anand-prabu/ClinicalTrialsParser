@@ -1,0 +1,712 @@
+{
+    "clinical_study": {
+        "@rank": "6468", 
+        "arm_group": [
+            {
+                "arm_group_label": "Sequence 1", 
+                "arm_group_type": "Active Comparator", 
+                "description": "SpeediCath catheter then ZN-D catheter then ZN-C catheter"
+            }, 
+            {
+                "arm_group_label": "Sequence 2", 
+                "arm_group_type": "Experimental", 
+                "description": "SpeediCath catheter then ZN-C catheter then ZN-D catheter"
+            }, 
+            {
+                "arm_group_label": "Sequence 3", 
+                "arm_group_type": "Experimental", 
+                "description": "ZN-D catheter then SpeediCath catheter then ZN-C catheter"
+            }, 
+            {
+                "arm_group_label": "Sequence 4", 
+                "arm_group_type": "Experimental", 
+                "description": "ZN-D catheter then ZN-C catheter then SpeediCath catheter"
+            }, 
+            {
+                "arm_group_label": "Sequence 5", 
+                "arm_group_type": "Experimental", 
+                "description": "ZN-C catheter then SpeediCath catheter then ZN-D catheter"
+            }, 
+            {
+                "arm_group_label": "Sequence 6", 
+                "arm_group_type": "Experimental", 
+                "description": "ZN-C catheter then ZN-D catheter then SpeediCath catheter"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The aim of the study is to evaluate safety and performance of a new catheter\n      coating,compared to the current SpeediCath coating."
+        }, 
+        "brief_title": "Safety and Performance of a New Coating for Urinary Intermittent Catheters", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "B1", 
+                        "description": "The intention to treat population consists of 36 healthy male subjects", 
+                        "title": "All Participants"
+                    }
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "36"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@spread": "8.7", 
+                                            "@value": "26.5"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "36"
+                                            }
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": {
+                    "description": "Evaluated by the subject on a 10 cm Visual Analog Scale (VAS), where 0 cm is no discomfort and 10 cm is the worst possible discomfort.", 
+                    "group_list": {
+                        "group": [
+                            {
+                                "@group_id": "O1", 
+                                "description": "Subjects who tested the ZN-D catheter", 
+                                "title": "ZN-D Catheter"
+                            }, 
+                            {
+                                "@group_id": "O2", 
+                                "description": "Subjects who tested the ZN-C catheter", 
+                                "title": "ZN-C Catheter"
+                            }, 
+                            {
+                                "@group_id": "O3", 
+                                "description": "Subjects who tested the Speedicath catheter", 
+                                "title": "SpeediCath"
+                            }
+                        ]
+                    }, 
+                    "measure_list": {
+                        "measure": [
+                            {
+                                "category_list": {
+                                    "category": {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "O1", 
+                                                    "@value": "35"
+                                                }, 
+                                                {
+                                                    "@group_id": "O2", 
+                                                    "@value": "35"
+                                                }, 
+                                                {
+                                                    "@group_id": "O3", 
+                                                    "@value": "36"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }, 
+                                "param": "Number", 
+                                "title": "Number of Participants", 
+                                "units": "participants"
+                            }, 
+                            {
+                                "category_list": {
+                                    "category": {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "O1", 
+                                                    "@spread": "2.2", 
+                                                    "@value": "2.6"
+                                                }, 
+                                                {
+                                                    "@group_id": "O2", 
+                                                    "@spread": "1.7", 
+                                                    "@value": "2.4"
+                                                }, 
+                                                {
+                                                    "@group_id": "O3", 
+                                                    "@spread": "1.5", 
+                                                    "@value": "1.8"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }, 
+                                "description": "Evaluated by the subject on a 10 cm Visual Analog Scale (VAS), where 0 cm is no discomfort and 10 cm is the worst possible discomfort.", 
+                                "dispersion": "Standard Deviation", 
+                                "param": "Mean", 
+                                "title": "Overall Discomfort During Catheterization", 
+                                "units": "cm"
+                            }
+                        ]
+                    }, 
+                    "safety_issue": "Yes", 
+                    "time_frame": "1 day", 
+                    "title": "Overall Discomfort During Catheterization", 
+                    "type": "Primary"
+                }
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "First SpeediCath catheter then ZN-D catheter then ZN-C catheter", 
+                            "title": "SpeediCath Catheter Then ZN-D Catheter Then ZN-C Catheter"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "First SpeediCath catheter then ZN-C catheter then ZN-D catheter", 
+                            "title": "SpeediCath Catheter Then ZN-C Catheter Then ZN-D Catheter"
+                        }, 
+                        {
+                            "@group_id": "P3", 
+                            "description": "First ZN-D catheter then SpeediCath catheter then ZN-C catheter", 
+                            "title": "ZN-D Catheter Then SpeediCath Catheter Then ZN-C Catheter"
+                        }, 
+                        {
+                            "@group_id": "P4", 
+                            "description": "First  ZN-D catheter then ZN-C catheter then SpeediCath catheter", 
+                            "title": "ZN-D Catheter Then ZN-C Catheter Then SpeediCath Catheter"
+                        }, 
+                        {
+                            "@group_id": "P5", 
+                            "description": "First  ZN-C catheter then SpeediCath catheter then ZN-D catheter", 
+                            "title": "ZN-C Catheter Then SpeediCath Catheter Then ZN-D Catheter"
+                        }, 
+                        {
+                            "@group_id": "P6", 
+                            "description": "First  ZN-C catheter then ZN-D catheter then SpeediCath catheter", 
+                            "title": "ZN-C Catheter Then ZN-D Catheter Then SpeediCath Catheter"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": [
+                        {
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "7", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "6", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "7", 
+                                                    "@group_id": "P4"
+                                                }, 
+                                                {
+                                                    "@count": "6", 
+                                                    "@group_id": "P5"
+                                                }, 
+                                                {
+                                                    "@count": "6", 
+                                                    "@group_id": "P6"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "7", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "6", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "7", 
+                                                    "@group_id": "P4"
+                                                }, 
+                                                {
+                                                    "@count": "6", 
+                                                    "@group_id": "P5"
+                                                }, 
+                                                {
+                                                    "@count": "6", 
+                                                    "@group_id": "P6"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P4"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P5"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P6"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "First Test Period"
+                        }, 
+                        {
+                            "drop_withdraw_reason_list": {
+                                "drop_withdraw_reason": {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P2"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P3"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P4"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P5"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P6"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "unable to catheterise"
+                                }
+                            }, 
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "7", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "6", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "7", 
+                                                    "@group_id": "P4"
+                                                }, 
+                                                {
+                                                    "@count": "6", 
+                                                    "@group_id": "P5"
+                                                }, 
+                                                {
+                                                    "@count": "6", 
+                                                    "@group_id": "P6"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "6", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "6", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "7", 
+                                                    "@group_id": "P4"
+                                                }, 
+                                                {
+                                                    "@count": "6", 
+                                                    "@group_id": "P5"
+                                                }, 
+                                                {
+                                                    "@count": "6", 
+                                                    "@group_id": "P6"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "1", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P4"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P5"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P6"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Second Test Period"
+                        }, 
+                        {
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "6", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "6", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "7", 
+                                                    "@group_id": "P4"
+                                                }, 
+                                                {
+                                                    "@count": "6", 
+                                                    "@group_id": "P5"
+                                                }, 
+                                                {
+                                                    "@count": "6", 
+                                                    "@group_id": "P6"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "6", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "6", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "7", 
+                                                    "@group_id": "P4"
+                                                }, 
+                                                {
+                                                    "@count": "6", 
+                                                    "@group_id": "P5"
+                                                }, 
+                                                {
+                                                    "@count": "6", 
+                                                    "@group_id": "P6"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P4"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P5"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P6"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Third Test Period"
+                        }
+                    ]
+                }
+            }, 
+            "point_of_contact": {
+                "email": "dktrm@coloplast.com", 
+                "name_or_title": "Trine M\u00f8ller Senior Clinical Manager", 
+                "organization": "Coloplast A/S", 
+                "phone": "+45 4911 2174"
+            }
+        }, 
+        "completion_date": {
+            "#text": "April 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": "Intermittent Urethral Catheterization", 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Have given written informed consent and signed letter of authority\n\n          2. Be at least 18 years of age and have full legal capacity\n\n          3. Be a male\n\n          4. Willing to refrain from using analgetics up to 24 hours prior to catheterization\n             visits\n\n        Exclusion Criteria:\n\n          1. Abnormalities, diseases or surgical procedures performed in the lower urinary tract\n\n          2. Symptoms of urinary tract infections (at least one of the following: frequent\n             urination, stinging or pain at urination)\n\n          3. Participating in other interventional clinical investigations during this\n             investigation (inclusion to termination) or have previously participated in this\n             investigation (including run-in period)\n\n          4. Known hypersensitivity toward any of the test products -"
+            }, 
+            "gender": "Male", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "36", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "February 22, 2013", 
+        "firstreceived_results_date": "November 29, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01800903", 
+            "org_study_id": "CP235", 
+            "secondary_id": "CP235"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Sequence 1", 
+                    "Sequence 2", 
+                    "Sequence 3", 
+                    "Sequence 4", 
+                    "Sequence 5", 
+                    "Sequence 6"
+                ], 
+                "description": "ZN-D catheter is a catheter, similar to the CE-marked SpeediCath, but with a newly developed coating.", 
+                "intervention_name": "ZN-D catheter", 
+                "intervention_type": "Device"
+            }, 
+            {
+                "arm_group_label": [
+                    "Sequence 1", 
+                    "Sequence 2", 
+                    "Sequence 3", 
+                    "Sequence 4", 
+                    "Sequence 5", 
+                    "Sequence 6"
+                ], 
+                "description": "ZN-C catheter is a catheter, similar to the CE-marked SpeediCath, but with a newly developed coating.", 
+                "intervention_name": "ZN-C catheter", 
+                "intervention_type": "Device"
+            }, 
+            {
+                "arm_group_label": [
+                    "Sequence 1", 
+                    "Sequence 2", 
+                    "Sequence 3", 
+                    "Sequence 4", 
+                    "Sequence 5", 
+                    "Sequence 6"
+                ], 
+                "description": "The Speedicath cathere is CE-marked and commercially available.", 
+                "intervention_name": "SpeediCath catheter", 
+                "intervention_type": "Device"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "January 27, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Copenhagen", 
+                    "country": "Denmark", 
+                    "zip": "2100"
+                }, 
+                "name": "Department of Urology"
+            }
+        }, 
+        "location_countries": {
+            "country": "Denmark"
+        }, 
+        "number_of_arms": "6", 
+        "official_title": "Clinical Study Investigating Safety and Performance of a New Coating for Urinary Intermittent Catheters in Healthy Volunteers", 
+        "overall_official": {
+            "affiliation": "Department of Urology, Rigshospitalet Denmark", 
+            "last_name": "Per Bagi, MD, PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": [
+                "Denmark: National Board of Health", 
+                "Denmark: Ethics Committee"
+            ], 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "April 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Evaluated by the subject on a 10 cm Visual Analog Scale (VAS), where 0 cm is no discomfort and 10 cm is the worst possible discomfort.", 
+            "measure": "Overall Discomfort During Catheterization", 
+            "safety_issue": "Yes", 
+            "time_frame": "1 day"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01800903"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Coloplast A/S", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Coloplast A/S", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "February 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Crossover Assignment, Masking: Single Blind (Subject), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2014"
+    }
+}

@@ -1,0 +1,236 @@
+{
+    "clinical_study": {
+        "@rank": "77431", 
+        "arm_group": [
+            {
+                "arm_group_label": "Glitazones"
+            }, 
+            {
+                "arm_group_label": "Linagliptin"
+            }, 
+            {
+                "arm_group_label": "Metformin"
+            }, 
+            {
+                "arm_group_label": "Non-insulin injected"
+            }, 
+            {
+                "arm_group_label": "Saxagliptin"
+            }, 
+            {
+                "arm_group_label": "Sitagliptin"
+            }, 
+            {
+                "arm_group_label": "Sulfonylurea"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The objective of this study is to identify EMR-based clinical covariates and quantify their\n      association with the prescribing of each specific type 2 diabetes (T2DM) medication under\n      investigation. This will include an assessment of how well these covariates are captured\n      through claims data proxies, and their potential to confound comparative research of T2DM\n      medications."
+        }, 
+        "brief_title": "Ascertainment of EMR-based Clinical Covariates Among Patients Receiving Oral and Non-insulin Injected Hypoglycemic Therapy", 
+        "completion_date": {
+            "#text": "May 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Diabetes Mellitus, Type 2", 
+        "condition_browse": {
+            "mesh_term": [
+                "Diabetes Mellitus", 
+                "Diabetes Mellitus, Type 2"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Purpose:"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion criteria:\n\n          -  Dispensing of an oral or non-insulin injected hypoglycemic medication between May\n             2011 and June 2012\n\n          -  Diagnosis of type 2 diabetes mellitus\n\n          -  Presence of electronic medical records (for the EMR-based subset)\n\n        Exclusion criteria:\n\n          -  Age <18 at T2DM medication initiation\n\n          -  Missing or ambiguous age or sex information\n\n          -  At least one diagnosis of type 1 diabetes mellitus\n\n          -  Less than 6 months enrolment in the database preceding the date of the first\n             dispensing\n\n          -  Prior use of the index drug"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "T2DM patients aged 18 or older, initiating antidiabetic treatment after at least 6 months\n        of continuous enrollment"
+            }
+        }, 
+        "enrollment": {
+            "#text": "10000", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "May 14, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02140645", 
+            "org_study_id": "1218.162"
+        }, 
+        "lastchanged_date": "May 23, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Boston", 
+                    "country": "United States", 
+                    "state": "Massachusetts"
+                }, 
+                "name": "1218.162.1 Boehringer Ingelheim Investigational Site"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_groups": "7", 
+        "official_title": "Association of Clinical Covariates With Non-insulin Diabetes Medication Initiation Using Electronic Medical Records (EMR)", 
+        "overall_contact": {
+            "email": "clintriage.rdg@boehringer-ingelheim.com", 
+            "last_name": "Boehringer Ingelheim Call Center", 
+            "phone": "1-800-243-0127"
+        }, 
+        "overall_official": {
+            "affiliation": "Boehringer Ingelheim", 
+            "last_name": "Boehringer Ingelheim", 
+            "role": "Study Chair"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "May 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": [
+            {
+                "measure": "Any note of albuminuria", 
+                "safety_issue": "No", 
+                "time_frame": "at least 6 months"
+            }, 
+            {
+                "measure": "Any note of proteinuria", 
+                "safety_issue": "No", 
+                "time_frame": "at least 6 months"
+            }, 
+            {
+                "measure": "Blood pressure (diastolic), mmHg", 
+                "safety_issue": "No", 
+                "time_frame": "at least 6 months"
+            }, 
+            {
+                "measure": "Proportion of smokers in following categories: current, past, never, not noted", 
+                "safety_issue": "No", 
+                "time_frame": "at least 6 months"
+            }, 
+            {
+                "measure": "Alcohol consumption in following categories: none, moderate, high, not noted", 
+                "safety_issue": "No", 
+                "time_frame": "at least 6 months"
+            }, 
+            {
+                "measure": "Mean BMI, kg/m2", 
+                "safety_issue": "No", 
+                "time_frame": "at least 6 months"
+            }, 
+            {
+                "measure": "Mean duration of diabetes, years", 
+                "safety_issue": "No", 
+                "time_frame": "at least 6 months"
+            }, 
+            {
+                "measure": "Mean HbA1c level, %", 
+                "safety_issue": "No", 
+                "time_frame": "at least 6 months"
+            }, 
+            {
+                "measure": "Mean estimated glomerular filtration rate, ml/min", 
+                "safety_issue": "No", 
+                "time_frame": "at least 6 months"
+            }, 
+            {
+                "measure": "Any note of cirrhosis, ascites, jaundice, hepatic failure, drug induced liver disease, hepatocellular disease", 
+                "safety_issue": "No", 
+                "time_frame": "at least 6 months"
+            }, 
+            {
+                "measure": "Prior cancer", 
+                "safety_issue": "No", 
+                "time_frame": "at least 6 months"
+            }, 
+            {
+                "measure": "Mean total cholesterol, mg/dL", 
+                "safety_issue": "No", 
+                "time_frame": "at least 6 months"
+            }, 
+            {
+                "measure": "Blood pressure (systolic), mmHg", 
+                "safety_issue": "No", 
+                "time_frame": "at least 6 months"
+            }, 
+            {
+                "measure": "Mean ankle-brachial index", 
+                "safety_issue": "No", 
+                "time_frame": "at least 6 months"
+            }, 
+            {
+                "measure": "Any note of diminished pulse at the foot", 
+                "safety_issue": "No", 
+                "time_frame": "at least 6 months"
+            }, 
+            {
+                "measure": "Any note of neuropathy", 
+                "safety_issue": "No", 
+                "time_frame": "at least 6 months"
+            }, 
+            {
+                "measure": "Any note of nephropathy", 
+                "safety_issue": "No", 
+                "time_frame": "at least 6 months"
+            }, 
+            {
+                "measure": "Any note of retinopathy", 
+                "safety_issue": "No", 
+                "time_frame": "at least 6 months"
+            }, 
+            {
+                "measure": "Prior stroke", 
+                "safety_issue": "No", 
+                "time_frame": "at least 6 months"
+            }, 
+            {
+                "measure": "Pre-existing coronary artery disease, angina, myocardial infarction", 
+                "safety_issue": "No", 
+                "time_frame": "at least 6 months"
+            }, 
+            {
+                "measure": "History of gallstones", 
+                "safety_issue": "No", 
+                "time_frame": "at least 6 months"
+            }, 
+            {
+                "measure": "History of pancreatitis", 
+                "safety_issue": "No", 
+                "time_frame": "at least 6 months"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02140645"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Boehringer Ingelheim", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Boehringer Ingelheim", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "May 2014", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Retrospective", 
+        "study_type": "Observational", 
+        "verification_date": "May 2014"
+    }
+}

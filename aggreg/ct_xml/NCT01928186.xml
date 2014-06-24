@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="146320">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 04, 2014</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01928186</url>
+  </required_header>
+  <id_info>
+    <org_study_id>7536</org_study_id>
+    <secondary_id>NCI-2013-01380</secondary_id>
+    <secondary_id>P30CA015704</secondary_id>
+    <secondary_id>RC1CA146456</secondary_id>
+    <nct_id>NCT01928186</nct_id>
+  </id_info>
+  <brief_title>FLT PET in Measuring Treatment Response in Patients With Newly Diagnosed Estrogen Receptor-Positive, HER2-Negative Stage I-III Breast Cancer</brief_title>
+  <official_title>Imaging Early Response of ER+, HER2- Breast Cancer To Aromatase Inhibitor (AI) +/- Ovarian Suppression (OS) Therapy With [18F]Fluorothymidine (FLT) PET</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Washington</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Washington</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This clinical trial studies fluorine F 18 fluorothymidine (FLT) positron emission tomography
+      (PET) in measuring treatment response in patients with newly diagnosed estrogen receptor
+      (ER)-positive, human epidermal growth factor receptor 2 (HER2)-negative stage I-III breast
+      cancer. Comparing results of diagnostic procedures done before and during hormone therapy
+      may help doctors predict a patient's response to treatment and help plan the best treatment.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. Measure the effect of a short course of endocrine therapy on primary breast cancer
+      metabolism and proliferation by measuring changes in serial FLT PET measures pre and post a
+      short course of endocrine therapy.
+
+      SECONDARY OBJECTIVES:
+
+      I. Compare changes in imaging measures to tissue measures of response, in particular antigen
+      identified by proliferation-related Ki-67 antigen (Ki-67), in the pre-therapy biopsy versus
+      the post-therapy surgical specimen.
+
+      II. Correlate imaging measures to measures of gene expression from pre and post therapy
+      assays to determine if there are molecular changes associated with early response to
+      therapy.
+
+      OUTLINE:
+
+      Patients undergo FLT PET at baseline and 1-6 weeks after the start of treatment.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>September 2011</start_date>
+  <primary_completion_date type="Anticipated">September 2015</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Diagnostic</study_design>
+  <primary_outcome>
+    <measure>Percent change in net influx constant (Ki) and standard uptake value (SUV) by FLT PET</measure>
+    <time_frame>Baseline to up to 6 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Percent change between pre-treatment and post-therapy measurements will be computed. Log transformations will be considered if the rates of change are highly skewed. Additionally, change in PET measures will be analyzed descriptively (such as by stem-and-leaf plot). Association between Ki-67 and Ki by FLT (KFLT) decline will be analyzed using the mid-P adjustment to Fisher's exact test to evaluate the potential clinical utility of change in FLT as a biomarker for early response, using Ki-67 as the standard for early response.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Ki-67 percent staining in surgical tissue sample</measure>
+    <time_frame>Up to 6 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage change in Ki-67</measure>
+    <time_frame>Baseline to up to 6 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Association between Ki-67 and KFLT decline will be analyzed using the mid-P adjustment to Fisher's exact test to evaluate the potential clinical utility of change in FLT as a biomarker for early response, using Ki-67 as the standard for early response.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage change in  K1 by FLT PET</measure>
+    <time_frame>Baseline to up to 6 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ki, FLT transport (K1), and SUV values</measure>
+    <time_frame>Baseline</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ki, K1, and SUV values</measure>
+    <time_frame>6 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Gene expression levels</measure>
+    <time_frame>Baseline</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Analyzed using BeadStudio software. Four clustering metrics for calculating dissimilarities (correlation, absolute correlation, Euclidean, and Manhattan) are available in BeadStudio and will be applied using standard analysis methods and diagnostics in BioConductor. To focus the analysis, proposed gene sets will be examined based on biological pathways and molecular signatures.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Gene expression levels</measure>
+    <time_frame>6 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Analyzed using BeadStudio software. Four clustering metrics for calculating dissimilarities (correlation, absolute correlation, Euclidean, and Manhattan) are available in BeadStudio and will be applied using standard analysis methods and diagnostics in BioConductor. To focus the analysis, proposed gene sets will be examined based on biological pathways and molecular signatures.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Estrogen Receptor-positive Breast Cancer</condition>
+  <condition>HER2-negative Breast Cancer</condition>
+  <condition>Male Breast Cancer</condition>
+  <condition>Stage IA Breast Cancer</condition>
+  <condition>Stage IB Breast Cancer</condition>
+  <condition>Stage II Breast Cancer</condition>
+  <condition>Stage IIIA Breast Cancer</condition>
+  <condition>Stage IIIB Breast Cancer</condition>
+  <condition>Stage IIIC Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>Diagnostic (FLT PET)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients undergo FLT PET at baseline and 1-6 weeks after the start of treatment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>fluorine F 18 fluorothymidine</intervention_name>
+    <description>Undergo FLT PET</description>
+    <arm_group_label>Diagnostic (FLT PET)</arm_group_label>
+    <other_name>18F-FLT</other_name>
+    <other_name>3'-deoxy-3'-[18F]fluorothymidine</other_name>
+    <other_name>fluorothymidine F-18</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>positron emission tomography</intervention_name>
+    <description>Undergo FLT PET</description>
+    <arm_group_label>Diagnostic (FLT PET)</arm_group_label>
+    <other_name>FDG-PET</other_name>
+    <other_name>PET</other_name>
+    <other_name>PET scan</other_name>
+    <other_name>tomography, emission computed</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>laboratory biomarker analysis</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Diagnostic (FLT PET)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  A new diagnosis of invasive breast cancer &gt; 1.0 cm in size, ER+ clinical stage I-III
+
+          -  Patient must have surgical resection followed by systemic adjuvant therapy with an
+             aromatase inhibitor (AIs) as part of planned treatment; any approved AI at standard
+             clinical dosing may be used; in pre-menopausal patients, ovarian suppression with a
+             gonadotropin-releasing hormone (GnRH) agonist will be started prior to initiation of
+             the AI on a separate clinical trial in parallel with the imaging study
+
+          -  Have tissue block available from core biopsy for correlative biomarkers and genomic
+             assay
+
+          -  Have menopausal status determined prior to study enrollment; for study purposes,
+             postmenopausal is defined as
+
+               -  A prior documented bilateral oophorectomy, or
+
+               -  A history of at least 12 months without spontaneous menstrual bleeding, or
+
+               -  Age 60 or older with a prior hysterectomy without oophorectomy, or
+
+               -  Age less than 60 with a prior hysterectomy without oophorectomy (or in whom the
+                  status of the ovaries is unknown) with a documented follicle-stimulating hormone
+                  (FSH) level demonstrating confirmatory elevation in the postmenopausal range for
+                  the lab
+
+          -  Negative pregnancy test within 7 days of baseline positron emission tomography (PET)
+             scan for pre-menopausal patients
+
+          -  Tumor HER2/neu expression must be determined (as part of standard clinical care)
+             prior to study enrollment; HER2 may be tested by any Food and Drug Administration
+             (FDA) approved HER2 testing method; if determination is intermediate by
+             immunohistochemistry (IHC), fluorescent in situ hybridization (FISH) or another
+             alternate HER2 test must be performed
+
+          -  Be a candidate for [18F]FLT PET imaging
+
+          -  Be informed of the investigational nature of this study and provide written informed
+             consent in accordance with institutional and federal guidelines prior to
+             study-specific screening procedures
+
+          -  Be willing and able to comply with scheduled visits and other trial procedures
+
+        Exclusion Criteria:
+
+          -  Current use of aromatase inhibitor as prevention or treatment for breast cancer
+
+          -  Life expectancy of less than two months
+
+          -  HER2/neu positive by IHC and/or another FDA approved HER2 testing method
+
+          -  Inability to tolerate scanning (e.g. - claustrophobia, severe pain)
+
+          -  Weight exceeding capacity of imaging table
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Hannah Linden</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Fred Hutchinson Cancer Research Center/University of Washington Cancer Consortium</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Fred Hutchinson Cancer Research Center/University of Washington Cancer Consortium</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hannah M. Linden</last_name>
+      <phone>206-288-6710</phone>
+    </contact>
+    <investigator>
+      <last_name>Hannah M. Linden</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2014</verification_date>
+  <lastchanged_date>February 13, 2014</lastchanged_date>
+  <firstreceived_date>August 20, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+    <mesh_term>Breast Neoplasms, Male</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Aromatase Inhibitors</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,1205 @@
+{
+    "clinical_study": {
+        "@rank": "63683", 
+        "arm_group": [
+            {
+                "arm_group_label": "Albendazole tablet (Aqua Based)", 
+                "arm_group_type": "Experimental", 
+                "description": "Albendazole tablets 400 milligram (mg) manufactured under aqua based solvent condition taken orally with 200 millilitre (mL) of water as single dose treatment."
+            }, 
+            {
+                "arm_group_label": "Albendazole tablet (Alcohol Based)", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Albendazole tablets 400 mg manufactured under ethanol based solvent condition taken orally with 200 mL of water as single dose treatment."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of the study is to compare the pharmacokinetic profiles of two Albendazole\n      tablet formulations manufactured under the different granulation processes in healthy\n      Chinese adult males."
+        }, 
+        "brief_title": "Bioequivalence Study of Albendazole 400 mg Tablets in Chinese Population", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "B1", 
+                        "description": "All randomized participants were evaluated for baseline measures", 
+                        "title": "All Randomized Participants"
+                    }
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "56"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@spread": "2.715", 
+                                            "@value": "24.21"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "Years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "56"
+                                            }
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "Participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "GSK agreements may vary with individual investigators, but will not prohibit any investigator from publishing. GSK supports the publication of results from all centers of a multi-center trial but requests that reports based on single-site data not precede the primary publication of the entire clinical trial."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "100.49", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "90", 
+                                "ci_upper_limit": "130.16", 
+                                "estimate_desc": "Geometric mean ratio of experimental and reference product was determined by exponentiating least-squares means of log-transformed value.", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "The value was log-transformed and a linear mixed effects model was applied to this value, as the dependent variable, treatment, and period as fixed effects and participants as random effect.", 
+                                "non_inferiority": "Yes", 
+                                "non_inferiority_desc": "The bioequivalence between the two products was concluded if the 90% CIs (based on log transformed data and anti-logged) for the ratio of the geometric means lie completely within the range 80%-125%", 
+                                "param_type": "Geometric mean Ratio of treatments", 
+                                "param_value": "114.37"
+                            }
+                        }, 
+                        "description": "AUC (0-t) was evaluated using the trapezoid rule.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Participants were orally administered with 400 milligram (mg) Albendazole tablets manufactured under aqua based solvent condition as single dose treatment.", 
+                                    "title": "Experimental: Albendazole Tablet (Aqua Based)"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Participants were orally administered with 400 mg Albendazole tablets manufactured under ethanol based solvent condition as single dose treatment.", 
+                                    "title": "Reference: Albendazole Tablet (Alcohol Based)"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "55"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "55"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "51.56", 
+                                                        "@value": "54.82"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "49.22", 
+                                                        "@value": "48.07"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "AUC (0-t) was evaluated using the trapezoid rule.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Area Under the Plasma Concentration Versus Time Curve From Time Zero to Time t [AUC(0-t)] of Albendazole.", 
+                                    "units": "nanogram (ng).hr per milliliter (mL)"
+                                }
+                            ]
+                        }, 
+                        "population": "The analysis was carried out per protocol population. Missing data was not imputed for evaluation.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Blood samples were collected pre-dose 0 hour (hr) and post dose 0, 0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 5, 7, 9, 12, 16, 24 and 36 hr", 
+                        "title": "Area Under the Plasma Concentration Versus Time Curve From Time Zero to Time t [AUC(0-t)] of Albendazole.", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "69.03", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "90", 
+                                "ci_upper_limit": "167.13", 
+                                "estimate_desc": "Geometric mean ratio of experimental and reference product was determined by exponentiating least-squares means of log-transformed value.", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "The value was log-transformed and a linear mixed effects model was applied to this value, as the dependent variable, treatment, and period as fixed effects and participants as random effect.", 
+                                "non_inferiority": "Yes", 
+                                "non_inferiority_desc": "The bioequivalence between the two products was concluded if the 90% CIs (based on log transformed data and anti-logged) for the ratio of the geometric means lie completely within the range 80%-125%", 
+                                "param_type": "Geometric mean ratio of treatments", 
+                                "param_value": "107.41"
+                            }
+                        }, 
+                        "description": "AUC (0-inf) was evaluated using the trapezoid rule.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Participants were orally administered with 400 mg Albendazole tablets manufactured under aqua based solvent condition as single dose treatment.", 
+                                    "title": "Experimental: Albendazole Tablet (Aqua Based)"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Participants were orally administered with 400 mg Albendazole tablets manufactured under ethanol based solvent condition as single dose treatment.", 
+                                    "title": "Reference: Albendazole Tablet (Alcohol Based)"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "19"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "16"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "80.44", 
+                                                        "@value": "69.55"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "84.74", 
+                                                        "@value": "67.19"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "AUC (0-inf) was evaluated using the trapezoid rule.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "AUC [0-infinity (Inf)] of Albendazole", 
+                                    "units": "ng.hr/mL"
+                                }
+                            ]
+                        }, 
+                        "population": "The analysis was carried out per protocol population. Missing data was not imputed for evaluation.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Blood samples were collected pre-dose at 0 hr and post dose at 0, 0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 5, 7, 9, 12, 16, 24 and 36 hr", 
+                        "title": "AUC [0-infinity (Inf)] of Albendazole", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "94.76", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "90", 
+                                "ci_upper_limit": "130.68", 
+                                "estimate_desc": "Geometric mean ratio of experimental and reference product was determined by exponentiating least-squares means of log-transformed value.", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "The value was log-transformed and a linear mixed effects model was applied to this value, as the dependent variable, treatment, and period as fixed effects and participants as random effect.", 
+                                "non_inferiority": "Yes", 
+                                "non_inferiority_desc": "The bioequivalence between the two products was concluded if the 90% CIs (based on log transformed data and anti-logged) for the ratio of the geometric means lie completely within the range of 70% -143%.", 
+                                "param_type": "Geometric mean ratio of treatments", 
+                                "param_value": "111.28"
+                            }
+                        }, 
+                        "description": "Cmax was depicted from plasma concentration of Albendazole.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Participants were orally administered with 400 milligram (mg) Albendazole tablets manufactured under aqua based solvent condition as single dose treatment.", 
+                                    "title": "Experimental: Albendazole Tablet (Aqua Based)"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Participants were orally administered with 400 mg Albendazole tablets manufactured under ethanol based solvent condition as single dose treatment.", 
+                                    "title": "Reference: Albendazole Tablet (Alcohol Based)"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "55"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "56"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "15.88", 
+                                                        "@value": "14.76"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "16.93", 
+                                                        "@value": "14.58"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Cmax was depicted from plasma concentration of Albendazole.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Maximum Observed Plasma Concentration [Cmaximum (Max)] of Albendazole", 
+                                    "units": "ng/mL"
+                                }
+                            ]
+                        }, 
+                        "population": "The analysis was carried out per protocol population. Missing data was not imputed for evaluation.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Blood samples were collected pre-dose at 0 hr and post dose at 0, 0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 5, 7, 9, 12, 16, 24 and 36 hr", 
+                        "title": "Maximum Observed Plasma Concentration [Cmaximum (Max)] of Albendazole", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_percent": "95", 
+                                "estimate_desc": "The median difference was calculated as = (Experimental-Reference)", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "The null hypothesis considered that there is no median within-subject difference between two treatment groups.", 
+                                "method": "Wilcoxon signed rank test", 
+                                "method_desc": "The values were not adjusted for this non-parametric analysis.", 
+                                "non_inferiority": "No", 
+                                "p_value": "0.0011", 
+                                "param_type": "Median Difference (Final Values)", 
+                                "param_value": "0.0167"
+                            }
+                        }, 
+                        "description": "Tmax was time at which Cmax of Albendazole was reached.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Participants were orally administered with 400 milligram (mg) Albendazole tablets manufactured under aqua based solvent condition as single dose treatment.", 
+                                    "title": "Experimental: Albendazole Tablet (Aqua Based)"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Participants were orally administered with 400 mg Albendazole tablets manufactured under ethanol based solvent condition as single dose treatment.", 
+                                    "title": "Reference: Albendazole Tablet (Alcohol Based)"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "55"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "56"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "0.5", 
+                                                        "@upper_limit": "4.0", 
+                                                        "@value": "1.50"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "0.5", 
+                                                        "@upper_limit": "3.0", 
+                                                        "@value": "1.00"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Tmax was time at which Cmax of Albendazole was reached.", 
+                                    "dispersion": "Full Range", 
+                                    "param": "Median", 
+                                    "title": "Time to Reach Maximum Plasma Concentration (Tmax) of Albendazole", 
+                                    "units": "hr"
+                                }
+                            ]
+                        }, 
+                        "population": "The analysis was carried out per protocol population. Participants were excluded where the baseline concentration was greater than 5% of Cmax.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Blood samples were collected pre-dose at 0 hr and post dose at 0, 0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 5, 7, 9, 12, 16, 24 and 36 hr", 
+                        "title": "Time to Reach Maximum Plasma Concentration (Tmax) of Albendazole", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "103.65", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "90", 
+                                "ci_upper_limit": "121.12", 
+                                "estimate_desc": "Geometric mean ratio of experimental and reference product was determined by exponentiating least-squares means of log-transformed value.", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "The value was log-transformed and a linear mixed effects model was applied to this value, as the dependent variable, treatment, and period as fixed effects and participants as random effect.", 
+                                "non_inferiority": "Yes", 
+                                "non_inferiority_desc": "The bioequivalence between the two products was concluded if the 90% CIs (based on log transformed data and anti-logged) for the ratio of the geometric means lie completely within the range 80%-125%", 
+                                "param_type": "Geometric mean ratio of treatments", 
+                                "param_value": "112.05"
+                            }
+                        }, 
+                        "description": "AUC (0-t) of Albendazole i.e. Albendazole sulphoxide was evaluated using the trapezoid rule.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Participants were orally administered with 400 milligram (mg) Albendazole sulphoxide tablets manufactured under aqua based solvent condition as single dose treatment.", 
+                                    "title": "Experimental: Albendazole Sulphoxide Tablet (Aqua Based)"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Participants were orally administered with 400 mg Albendazole sulphoxide tablets manufactured under ethanol based solvent condition as single dose treatment.", 
+                                    "title": "Reference: Albendazole Sulphoxide Tablet (Alcohol Based)"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "55"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "55"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "1108.19", 
+                                                        "@value": "2563.90"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "944.72", 
+                                                        "@value": "2290.14"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "AUC (0-t) of Albendazole i.e. Albendazole sulphoxide was evaluated using the trapezoid rule.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "AUC (0-t) of Active Metabolite - Albendazole Sulphoxide", 
+                                    "units": "ng.hr/mL"
+                                }
+                            ]
+                        }, 
+                        "population": "The analysis was carried out per protocol population. Participants were excluded where the baseline concentration was greater than 5% of Cmax.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Blood samples were collected pre-dose at 0 hr and post dose at 0, 0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 5, 7, 9, 12, 16, 24 and 36 hr", 
+                        "title": "AUC (0-t) of Active Metabolite - Albendazole Sulphoxide", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "103.40", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "90", 
+                                "ci_upper_limit": "123.71", 
+                                "estimate_desc": "Geometric mean ratio of experimental and reference product was determined by exponentiating least-squares means of log-transformed value.", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "The value was log-transformed and a linear mixed effects model was applied to this value, as the dependent variable, treatment, and period as fixed effects and participants as random effect.", 
+                                "non_inferiority": "Yes", 
+                                "non_inferiority_desc": "The bioequivalence between the two products was concluded if the 90% CIs (based on log transformed data and anti-logged) for the ratio of the geometric means lie completely within the range 80%-125%", 
+                                "param_type": "Geometric mean ratio of treatments", 
+                                "param_value": "113.10"
+                            }
+                        }, 
+                        "description": "AUC (0-inf) of Albendazole sulphoxide was evaluated using the trapezoid rule.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Participants were orally administered with 400 mg Albendazole sulphoxide tablets manufactured under aqua based solvent condition as single dose treatment.", 
+                                    "title": "Experimental: Albendazole Sulphoxide Tablet (Aqua Based)"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Participants were orally administered with 400 mg Albendazole sulphoxide tablets manufactured under ethanol based solvent condition as single dose treatment.", 
+                                    "title": "Reference: Albendazole Sulphoxide Tablet (Alcohol Based)"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "43"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "45"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "1456.41", 
+                                                        "@value": "3263.88"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "1128.06", 
+                                                        "@value": "2829.77"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "AUC (0-inf) of Albendazole sulphoxide was evaluated using the trapezoid rule.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "AUC (0-inf) of Active Metabolite - Albendazole Sulphoxide", 
+                                    "units": "ng.hr/mL"
+                                }
+                            ]
+                        }, 
+                        "population": "The analysis was carried out per protocol population. Participants were excluded where the baseline concentration was greater than 5% of Cmax.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Blood samples were collected pre-dose at 0 hr and post dose at 0, 0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 5, 7, 9, 12, 16, 24 and 36 hr", 
+                        "title": "AUC (0-inf) of Active Metabolite - Albendazole Sulphoxide", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "102.99", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "90", 
+                                "ci_upper_limit": "126.93", 
+                                "estimate_desc": "Geometric mean ratio of experimental and reference product was determined by exponentiating least-squares means of log-transformed value.", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "The value was log-transformed and a linear mixed effects model was applied to this value, as the dependent variable, treatment, and period as fixed effects and participants as random effect.", 
+                                "non_inferiority": "Yes", 
+                                "non_inferiority_desc": "The bioequivalence between the two products was concluded if the 90% CIs (based on log transformed data and anti-logged) for the ratio of the geometric means lie completely within the range of 70% -143%.", 
+                                "param_type": "Geometric mean ratio of treatments", 
+                                "param_value": "114.33"
+                            }
+                        }, 
+                        "description": "Cmax was depicted from plasma concentration of Albendazole.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Participants were orally administered with 400 milligram (mg) Albendazole Sulphoxide tablets manufactured under aqua based solvent condition as single dose treatment.", 
+                                    "title": "Experimental: Albendazole Sulphoxide Tablet (Aqua Based)"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Participants were orally administered with 400 mg Albendazole Sulphoxide tablets manufactured under ethanol based solvent condition as single dose treatment.", 
+                                    "title": "Reference: Albendazole Sulphoxide Tablet (Alcohol Based)"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "55"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "56"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "105.87", 
+                                                        "@value": "221.45"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "108.89", 
+                                                        "@value": "199.99"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Cmax was depicted from plasma concentration of Albendazole.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Cmax of Active Metabolite - Albendazole Sulphoxide", 
+                                    "units": "ng/mL"
+                                }
+                            ]
+                        }, 
+                        "population": "The analysis was carried out per protocol population. Missing data was not imputed for evaluation.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Blood samples were collected pre-dose at 0 hr and post dose at 0, 0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 5, 7, 9, 12, 16, 24 and 36 hr", 
+                        "title": "Cmax of Active Metabolite - Albendazole Sulphoxide", 
+                        "type": "Secondary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "Participants were orally administered with 400 milligram (mg) Albendazole tablets manufactured under aqua based solvent condition as single dose treatment, followed by single dose treatment of 400 mg albendazole tablets manufactured under ethanol based solvent conditions. A wash-out period of 7 days was maintained between treatment periods.", 
+                            "title": "Albendazole (Aqua) First, Then Albendazole (Alcohol)"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "Participants were orally administered with 400 mg Albendazole tablets manufactured under ethanol based solvent condition as single dose treatment followed by 400 mg aqua based albendazole tablets. A wash-out period of 7 days was maintained between treatment periods.", 
+                            "title": "Albendazole (Alcohol) First, Then Albendazole (Aqua)"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": [
+                        {
+                            "drop_withdraw_reason_list": {
+                                "drop_withdraw_reason": {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "1", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "Adverse Event"
+                                }
+                            }, 
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "28", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "28", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "28", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "27", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "1", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Period 1"
+                        }, 
+                        {
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "28", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "27", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "28", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "27", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Period 2"
+                        }
+                    ]
+                }, 
+                "pre_assignment_details": "Out of 123 screened participants, 54 did not meet the study criteria; 12 withdrew consent and one was lost to follow -up. Only 56 participants were randomized.", 
+                "recruitment_details": "Study was conducted at two clinical sites in China."
+            }, 
+            "point_of_contact": {
+                "name_or_title": "GSK Response Center", 
+                "organization": "GlaxoSmithKline", 
+                "phone": "866-435-7343"
+            }, 
+            "reported_events": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "E1", 
+                            "description": "Participants were orally administered with 400 mg Albendazole tablets manufactured under aqua based solvent condition as single dose treatment.", 
+                            "title": "Albendazole Tablet (Aqua Based)"
+                        }, 
+                        {
+                            "@group_id": "E2", 
+                            "description": "Participants were orally administered with 400 mg Albendazole tablets manufactured under ethanol based solvent condition as single dose treatment.", 
+                            "title": "Albendazole Tablet (Alcohol Based)"
+                        }
+                    ]
+                }, 
+                "other_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "55"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "56"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, other adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "55"
+                                            }, 
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "56"
+                                            }
+                                        ], 
+                                        "sub_title": "Diarrhoea"
+                                    }
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "55"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "56"
+                                            }
+                                        ], 
+                                        "sub_title": "Urinary Tract Infection"
+                                    }
+                                }, 
+                                "title": "Infections and infestations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "55"
+                                            }, 
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "56"
+                                            }
+                                        ], 
+                                        "sub_title": "Gamma-Glutamyl Transferase Increased"
+                                    }
+                                }, 
+                                "title": "Investigations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "55"
+                                            }, 
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "56"
+                                            }
+                                        ], 
+                                        "sub_title": "Hyperuricaemia"
+                                    }
+                                }, 
+                                "title": "Metabolism and nutrition disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "55"
+                                            }, 
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "56"
+                                            }
+                                        ], 
+                                        "sub_title": "Albuminuria"
+                                    }
+                                }, 
+                                "title": "Renal and urinary disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "frequency_threshold": "1"
+                }, 
+                "time_frame": "Adverse Events were collected from the first dosage of the session one, and until 5 days following last administration of the investigational product."
+            }
+        }, 
+        "completion_date": {
+            "#text": "June 2012", 
+            "@type": "Actual"
+        }, 
+        "condition": "Helminthiasis", 
+        "condition_browse": {
+            "mesh_term": "Helminthiasis"
+        }, 
+        "detailed_description": {
+            "textblock": "Due to the product manufacture process change in Albendazole oral formulation from ethanol\n      based granulation process to aqua based granulation process, State Food and Drug\n      Administration officially requested Tianjin Smith Kline and French Laboratories to carry out\n      a Bioequivalence study to demonstrate bioequivalence between the manufacturing processes.\n      This trial will be conducted to support the official requirement via the comparison of the\n      pharmacokinetic profiles between both the drugs manufactured under the different processes.\n\n      After oral administration, Albendazole is quickly oxidized into its pharmacologically active\n      metabolite, Albendazole sulphoxide (ABZ-SO. Due to extensive metabolism and limited\n      absorption, plasma concentration of ABZ after oral administration was found to be too low to\n      be measured. Thus, this trial will also compare the pharmacokinetic profiles of ABZ-SO\n      manufactured using different solvents."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Male aged from 18 years up to 40 years (inclusive).\n\n          2. Body mass index within the range of 19-24kg/m^2.\n\n          3. Good general health with (in the opinion of the investigator) no clinically\n             significant and relevant abnormalities of medical history or physical examination.\n\n          4. Negative for serum hepatitis B surface antigen, hepatitis C antibody and antibody of\n             HIV.\n\n        Exclusion Criteria:\n\n          1. Allergy/Intolerance: Known or suspected intolerance or hypersensitivity to the study\n             materials (or closely related compounds) or any of their stated ingredients.\n\n          2. Substance abuse: Recent history (within the last year) of alcohol or other substance\n             abuse or failed to pass drugs of abuse screen and/or alcohol screen test.\n\n          3. Disease\n\n               1. Current or recurrent disease that could affect the action, absorption or\n                  distribution of the study medication or clinical or laboratory assessments (e.g.\n                  hepatic disorders, abnormal liver function tests, renal insufficiency,\n                  congestive heart failure);\n\n               2. Current or relevant previous history of serious, severe or unstable physical or\n                  psychiatric illness, any medical disorder that may require treatment or make the\n                  subject unlikely to fully complete the study, or any condition that presents\n                  undue risk from the study medication or procedures;\n\n               3. History of gastrointestinal bleeding or peptic ulcer;\n\n               4. Asthma\n\n               5. History of liver disease\n\n          4. Medication\n\n               1. Use of any drug known to induce or inhibit hepatic drug metabolism in the 30\n                  days prior to dosing\n\n               2. Current or regular use of any prescription or over-the-counter medication, any\n                  other ABZ containing products, and traditional Chinese medicine.\n\n          5. Smoking\n\n               1. Subjects who are current smokers or non-smokers of less than 3 months;\n\n               2. Prior (within seven days of dosing) or current use of any other nicotine\n                  containing products, including nicotine replacement therapy.\n\n          6. Blood\n\n               1. Blood donation  \u2265 500 ml within 90 days before the first study session.\n\n               2. Plasma donation within the 90 days before the first study session."
+            }, 
+            "gender": "Male", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "40 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "56", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "December 19, 2012", 
+        "firstreceived_results_date": "March 21, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01755637", 
+            "org_study_id": "O7921353"
+        }, 
+        "intervention": {
+            "arm_group_label": [
+                "Albendazole tablet (Aqua Based)", 
+                "Albendazole tablet (Alcohol Based)"
+            ], 
+            "description": "Albendazole tablets 400 mg", 
+            "intervention_name": "Albendazole", 
+            "intervention_type": "Drug"
+        }, 
+        "intervention_browse": {
+            "mesh_term": "Albendazole"
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "July 11, 2013", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Beijing", 
+                        "country": "China", 
+                        "state": "Beijing", 
+                        "zip": "100049"
+                    }, 
+                    "name": "Central Hospital of China Aerospace Corporation"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wuhan", 
+                        "country": "China", 
+                        "state": "Hubei", 
+                        "zip": "430030"
+                    }, 
+                    "name": "Tongji Hospital, Medical College Huazhong"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "China"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "A Single-dose, Two-centre, Randomized, Open-label, Two-way Crossover Bioequivalence Study of Two Kinds of AlbendazoleTablet Formulations in Healthy Chinese Adult Males", 
+        "overall_official": {
+            "affiliation": "GlaxoSmithKline", 
+            "last_name": "GSK Clinical Trials", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "China: Food and Drug Administration", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 1", 
+        "primary_completion_date": {
+            "#text": "April 2012", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "AUC (0-t) was evaluated using the trapezoid rule.", 
+                "measure": "Area Under the Plasma Concentration Versus Time Curve From Time Zero to Time t [AUC(0-t)] of Albendazole.", 
+                "safety_issue": "No", 
+                "time_frame": "Blood samples were collected pre-dose 0 hour (hr) and post dose 0, 0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 5, 7, 9, 12, 16, 24 and 36 hr"
+            }, 
+            {
+                "description": "AUC (0-inf) was evaluated using the trapezoid rule.", 
+                "measure": "AUC [0-infinity (Inf)] of Albendazole", 
+                "safety_issue": "No", 
+                "time_frame": "Blood samples were collected pre-dose at 0 hr and post dose at 0, 0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 5, 7, 9, 12, 16, 24 and 36 hr"
+            }, 
+            {
+                "description": "Cmax was depicted from plasma concentration of Albendazole.", 
+                "measure": "Maximum Observed Plasma Concentration [Cmaximum (Max)] of Albendazole", 
+                "safety_issue": "No", 
+                "time_frame": "Blood samples were collected pre-dose at 0 hr and post dose at 0, 0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 5, 7, 9, 12, 16, 24 and 36 hr"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01755637"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Tmax was time at which Cmax of Albendazole was reached.", 
+                "measure": "Time to Reach Maximum Plasma Concentration (Tmax) of Albendazole", 
+                "safety_issue": "No", 
+                "time_frame": "Blood samples were collected pre-dose at 0 hr and post dose at 0, 0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 5, 7, 9, 12, 16, 24 and 36 hr"
+            }, 
+            {
+                "description": "AUC (0-t) of Albendazole i.e. Albendazole sulphoxide was evaluated using the trapezoid rule.", 
+                "measure": "AUC (0-t) of Active Metabolite - Albendazole Sulphoxide", 
+                "safety_issue": "No", 
+                "time_frame": "Blood samples were collected pre-dose at 0 hr and post dose at 0, 0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 5, 7, 9, 12, 16, 24 and 36 hr"
+            }, 
+            {
+                "description": "AUC (0-inf) of Albendazole sulphoxide was evaluated using the trapezoid rule.", 
+                "measure": "AUC (0-inf) of Active Metabolite - Albendazole Sulphoxide", 
+                "safety_issue": "No", 
+                "time_frame": "Blood samples were collected pre-dose at 0 hr and post dose at 0, 0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 5, 7, 9, 12, 16, 24 and 36 hr"
+            }, 
+            {
+                "description": "Cmax was depicted from plasma concentration of Albendazole.", 
+                "measure": "Cmax of Active Metabolite - Albendazole Sulphoxide", 
+                "safety_issue": "No", 
+                "time_frame": "Blood samples were collected pre-dose at 0 hr and post dose at 0, 0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 5, 7, 9, 12, 16, 24 and 36 hr"
+            }
+        ], 
+        "source": "GlaxoSmithKline", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "GlaxoSmithKline", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "April 2012", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Bio-equivalence Study, Intervention Model: Crossover Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2013"
+    }
+}

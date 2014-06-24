@@ -1,0 +1,130 @@
+{
+    "clinical_study": {
+        "@rank": "136060", 
+        "arm_group": [
+            {
+                "arm_group_label": "group C", 
+                "arm_group_type": "Active Comparator", 
+                "description": "intraoperative fluid management based on CVP"
+            }, 
+            {
+                "arm_group_label": "group S", 
+                "arm_group_type": "Experimental", 
+                "description": "intraoperative fluid management based on SVV"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "In patients undergoing craniotomy, 0.9% normal saline is commonly administered in order to\n      reduce cerebral edema. Excessive administration of 0.9% normal saline has been to reported\n      to cause hyperchloremic metabolic acidosis. On the other hand, hypovolemia due to\n      insufficient fluid replacement for perioperative loss can also result in metabolic acidosis\n      by lactic acid accumulation. However, the guideline for perioperative fluid management has\n      not been yet established. The investigators hypothesized that intraoperative fluid\n      management according to SVV(Stroke Volume Variation)could reduce perioperative metabolic\n      acidosis compared to those by CVP(Central Venous Pressure). Therefore, the study is trying\n      to determine if intraoperative fluid administration based on SVV could reduce metabolic\n      acidosis when compared with CVP in patients undergoing craniotomy due to brain tumor who\n      receive 0.9% normal saline as main fluid regimen."
+        }, 
+        "brief_title": "Effect of Goal-directed Fluid Therapy Based on Stroke Volume Variation on Metabolic Acidosis in Patients Undergoing Brain Tumor Surgery", 
+        "completion_date": {
+            "#text": "July 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Brain Tumor", 
+        "condition_browse": {
+            "mesh_term": [
+                "Brain Neoplasms", 
+                "Acidosis"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  patients undergoing craniotomy due to brain tumor\n\n          -  American Society of Anesthesiologists physical status I or II\n\n          -  aged from 20 to 65\n\n        Exclusion Criteria:\n\n          -  compromised cardiopulmonary function\n\n          -  diabetes mellitus\n\n          -  symptom or sign with increased intracranial pressure\n\n          -  liver or renal disease\n\n          -  pre-existing metabolic acidosis\n\n          -  pregnant or breast-feeding\n\n          -  patients who cannot understand the statements for subjects"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "65 Years", 
+            "minimum_age": "20 Years"
+        }, 
+        "enrollment": {
+            "#text": "50", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 18, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01738880", 
+            "org_study_id": "4-2012-0404"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "group S", 
+                "description": "During the surgery, patients in group S receive additional fluids (400 ml of normal saline or 200 ml of colloid) when SVV is less than 13.", 
+                "intervention_name": "SVV", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "group C", 
+                "description": "Patients in group C receive additional fluids (400 ml of normal saline or 200 ml of colloid) when CVP is less 8 during the surgery.", 
+                "intervention_name": "CVP", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "February 17, 2014", 
+        "location": {
+            "contact": {
+                "email": "neogens@yuhs.ac", 
+                "last_name": "Jae Hoon Lee, MD", 
+                "phone": "82-2-2227-3972"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Seoul", 
+                    "country": "Korea, Republic of", 
+                    "zip": "120-752"
+                }, 
+                "name": "Severance hospital"
+            }, 
+            "investigator": {
+                "last_name": "Jae Hoon Lee, MD", 
+                "role": "Sub-Investigator"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "Korea, Republic of"
+        }, 
+        "number_of_arms": "2", 
+        "overall_contact": {
+            "email": "csho99@yuhs.ac", 
+            "last_name": "Seung Ho Choi, MD", 
+            "phone": "82-2-2227-3833"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "South Korea: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "June 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "Standard base excess point", 
+            "safety_issue": "No", 
+            "time_frame": "at the suturing of scalp"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01738880"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Yonsei University", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Yonsei University", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "December 2012", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Outcomes Assessor), Primary Purpose: Supportive Care", 
+        "study_type": "Interventional", 
+        "verification_date": "February 2014"
+    }
+}

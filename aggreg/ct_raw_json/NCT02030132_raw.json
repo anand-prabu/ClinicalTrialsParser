@@ -1,0 +1,195 @@
+{
+    "clinical_study": {
+        "@rank": "55428", 
+        "arm_group": [
+            {
+                "arm_group_label": "Feedback 50th Percentile", 
+                "arm_group_type": "Active Comparator", 
+                "description": "At the end of each week, participants will be told (by email or text, based on the participant's preference) the team's average daily step count for the previous week based on all 7 days.  They will also be told the average for the 50th percentile in their arm.  If the team's average daily step count is \u2265 7000 steps, the team will be eligible for the weekly lottery."
+            }, 
+            {
+                "arm_group_label": "Feedback 75th Percentile", 
+                "arm_group_type": "Experimental", 
+                "description": "At the end of each week, participants will be told (by email or text, based on the participant's preference) the team's average daily step count for the previous week based on all 7 days.  They will also be told the average for the 75th percentile in their arm.  If the team's average daily step count is \u2265 7000 steps, the team will be eligible for the weekly lottery."
+            }, 
+            {
+                "arm_group_label": "Feedback 50th Percentile + Forgiveness", 
+                "arm_group_type": "Experimental", 
+                "description": "At the end of each week, participants will be told (by email or text, based on the participant's preference) the average team's average daily step count for the previous week based on the best 5 of 7 days.  They will also be told the average for the 50th percentile in their arm.  If the team's average daily step count (best 5 of 7 days) is \u2265 7000 steps, the team will be eligible for the weekly lottery."
+            }, 
+            {
+                "arm_group_label": "Feedback 75th Percentile + Forgiveness", 
+                "arm_group_type": "Experimental", 
+                "description": "At the end of each week, participants will be told (by email or text, based on the participant's preference) the team's average daily step count for the previous week based on the best 5 of 7 days.  They will also be told the average for the 75th percentile in their arm.  If the team's average daily step count (best 5 of 7 days) is \u2265 7000 steps, the team will be eligible for the weekly lottery."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Employers are increasingly looking for opportunities to motivate sedentary employees to\n      become more physically active. Workplace walking programs have had mixed success and\n      typically show most improvement among participants that are already fairly active at a\n      baseline. The goal of this study is to determine whether a financial incentive program can\n      motivate sedentary employees to increase the number of steps they walk per day to meet a\n      minimum threshold.\n\n      The primary outcome measure is the proportion of days a minimum activity of 7000 steps or\n      more is achieved.  Outcomes will be assessed each week for 3 months using incentives\n      followed by 3 months of follow-up without incentives.  Secondary outcomes will include the\n      average steps walked per day."
+        }, 
+        "brief_title": "Way to Be Active V (Framing vs. Forgiveness)", 
+        "completion_date": {
+            "#text": "August 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Sedentary Lifestyle", 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Age greater than 18.\n\n          -  Participant will need an iPhone or Android smartphone to be able to use the Moves App\n             for tracking steps\n\n        Exclusion Criteria:\n\n          -  Pregnant or lactating\n\n          -  Participating in another physical activity study"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "288", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "December 20, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02030132", 
+            "org_study_id": "819370"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Feedback 50th Percentile", 
+                    "Feedback 75th Percentile", 
+                    "Feedback 50th Percentile + Forgiveness", 
+                    "Feedback 75th Percentile + Forgiveness"
+                ], 
+                "intervention_name": "Pedometer App", 
+                "intervention_type": "Device", 
+                "other_name": "Moves"
+            }, 
+            {
+                "arm_group_label": [
+                    "Feedback 75th Percentile", 
+                    "Feedback 75th Percentile + Forgiveness"
+                ], 
+                "intervention_name": "Feedback compared to 75th percentile", 
+                "intervention_type": "Behavioral"
+            }, 
+            {
+                "arm_group_label": [
+                    "Feedback 50th Percentile + Forgiveness", 
+                    "Feedback 75th Percentile + Forgiveness"
+                ], 
+                "intervention_name": "Forgiveness", 
+                "intervention_type": "Behavioral"
+            }, 
+            {
+                "arm_group_label": [
+                    "Feedback 50th Percentile", 
+                    "Feedback 75th Percentile", 
+                    "Feedback 50th Percentile + Forgiveness", 
+                    "Feedback 75th Percentile + Forgiveness"
+                ], 
+                "description": "For the first three months of the study, a weekly lottery will be held.  Teams whose average daily step count for that week is \u2265 7000 will be eligible to collect their lottery winnings.  Teams whose average daily step count is less than 7000 will receive messages about how much they would have won had the team met its goal.", 
+                "intervention_name": "Financial Incentive", 
+                "intervention_type": "Behavioral"
+            }, 
+            {
+                "arm_group_label": [
+                    "Feedback 50th Percentile", 
+                    "Feedback 75th Percentile", 
+                    "Feedback 50th Percentile + Forgiveness", 
+                    "Feedback 75th Percentile + Forgiveness"
+                ], 
+                "description": "Participants will be given daily feedback on whether or not they walked 7000 steps or more the day before.", 
+                "intervention_name": "Daily Feedback", 
+                "intervention_type": "Behavioral"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Physical activity", 
+            "Sedentary lifestyle", 
+            "Pedometers", 
+            "Walking", 
+            "Financial Incentives", 
+            "Behavioral Economics"
+        ], 
+        "lastchanged_date": "April 10, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Philadelphia", 
+                    "country": "United States", 
+                    "state": "Pennsylvania", 
+                    "zip": "19104"
+                }, 
+                "name": "University of Pennsylvania"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "4", 
+        "official_title": "A Randomized Trial of Behavioral Economic Interventions to Improve Physical Activities: Framing vs. Forgiveness", 
+        "other_outcome": {
+            "description": "Changes in physical activity as determined by validated surveys.", 
+            "measure": "Change in physical activity", 
+            "safety_issue": "No", 
+            "time_frame": "End of study- 6 months after enrollment"
+        }, 
+        "overall_official": [
+            {
+                "affiliation": "University of Pennsylvania", 
+                "last_name": "Kevin M Volpp, MD, PhD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "University of Pennsylvania", 
+                "last_name": "Mitesh Patel, MD, MBA", 
+                "role": "Study Director"
+            }
+        ], 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "July 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "The primary outcome measure is the proportion of days a minimum activity of 7000 steps or more is achieved.  Outcomes will be assessed each week for 3 months using incentives followed by 3 months of follow-up without incentives.", 
+            "measure": "Proportion of days an individual walks 7000 steps or more", 
+            "safety_issue": "No", 
+            "time_frame": "End of study - 6 months after enrollment"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02030132"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "description": "Secondary outcomes include average number of steps per day and week during the intervention (first 3 months) and follow-up (second 3 months) periods.", 
+            "measure": "Average number of steps per day and week", 
+            "safety_issue": "No", 
+            "time_frame": "End of study- 6 months after enrollment"
+        }, 
+        "source": "University of Pennsylvania", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Institute on Aging (NIA)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "University of Pennsylvania", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2014", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Single Blind (Investigator)", 
+        "study_type": "Interventional", 
+        "verification_date": "December 2013"
+    }
+}

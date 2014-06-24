@@ -1,0 +1,220 @@
+{
+    "clinical_study": {
+        "@rank": "87458", 
+        "acronym": "ABC4D", 
+        "arm_group": [
+            {
+                "arm_group_label": "MDI of insulin & ABC4D", 
+                "arm_group_type": "Experimental", 
+                "description": "Advanced Bolus Calculator for Type Diabetes (ABC4D)"
+            }, 
+            {
+                "arm_group_label": "MDI of insulin", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Multiple daily injections(MDI) of insulin"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This study aims to assess the safety and efficacy of a novel advanced bolus calculator in\n      subjects with Type 1 diabetes. Insulin bolus calculators have been developed to aid insulin\n      dose adjustment and existing standard insulin bolus calculator consist of a simple algorithm\n      that requires five subject-specific parameters as input to generate a recommended bolus\n      insulin dose:\n\n        -  current blood glucose (mmol/L)\n\n        -  target blood glucose (mmol/L)\n\n        -  insulin-to-carbohydrate ratio (grams of carbohydrate per 1 unit of insulin)\n\n        -  total grams of carbohydrate in meals\n\n        -  insulin sensitivity factor (reduction in glucose per 1 unit of insulin)\n\n      The Diabetes Technology team at Imperial College have developed a novel advanced bolus\n      calculator. The complete integrated system consists of a commercially available smartphone\n      that holds the novel advanced algorithm. The system requires regular updates of cases\n      derived from retrospective blinded continuous glucose monitoring data and for this a\n      commercially available glucose sensor will be used. Each new case includes information about\n      the problem (e.g. capillary blood glucose, meal information and physical exercise), solution\n      (recommended insulin dose) and outcome (blood glucose following a meal). The novel decision\n      support algorithm is based on case-based reasoning (CBR). CBR is an artificial intelligence\n      technique that tries to solve newly encountered problems by applying the solutions learned\n      from solved problems encountered in the past.\n\n      The end-product is therefore a subject specific insulin bolus calculator that continues to\n      improve with time. The project utilises commercially available glucose sensors and\n      smartphones (iPhone), integrated with a novel algorithm for insulin bolus calculation. The\n      aim of the ABC4D is to minimise high and low glucose excursions which are associated with\n      the complications of diabetes including blindness, kidney failure, nerve damage and\n      cardiovascular disease.\n\n      The clinical study has been designed to incrementally assess the device's ability to manage\n      meal time insulin requirements at breakfast and lunch in a controlled supervised clinical\n      environment over 8 hours (phase 1), followed by its use in the home environment over a 6\n      week period (phase 2) and finally over a 6 month period (phase 3)."
+        }, 
+        "brief_title": "Advanced Bolus Calculator for Type 1 Diabetes (ABC4D)", 
+        "completion_date": {
+            "#text": "July 2016", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Type 1 Diabetes", 
+        "condition_browse": {
+            "mesh_term": [
+                "Diabetes Mellitus", 
+                "Diabetes Mellitus, Type 1"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Adults \u226518 years of age\n\n          -  Diagnosis of T1DM for > 1 year\n\n          -  On MDI using a basal-bolus insulin regime\n\n          -  Structured education in previous 3 years\n\n          -  HbA1c \u2264 86mmol/mol\n\n          -  No severe hypoglycaemia (defined as needing 3rd party assistance) in previous year\n\n        Exclusion Criteria:\n\n          -  Recurrent severe hypoglycaemia\n\n          -  Pregnant or planning pregnancy\n\n          -  Breastfeeding\n\n          -  Enrolled in other clinical trials\n\n          -  Have active malignancy or under investigation for malignancy\n\n          -  Addison's Disease\n\n          -  Gastroparesis\n\n          -  Autonomic neuropathy\n\n          -  Concomitant use of GLP-1 analogues and gliptins\n\n          -  Visual impairment\n\n          -  Reduced manual dexterity"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "176", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "January 22, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02053051", 
+            "org_study_id": "13SM0091"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "MDI of insulin & ABC4D", 
+                "description": "Advanced Bolus Calculator for Type 1 Diabetes (ABC4D) to calculate pre-meal insulin boluses", 
+                "intervention_name": "ABC4D", 
+                "intervention_type": "Device"
+            }, 
+            {
+                "arm_group_label": [
+                    "MDI of insulin & ABC4D", 
+                    "MDI of insulin"
+                ], 
+                "description": "Multiple daily injections(MDI) of insulin", 
+                "intervention_name": "Novorapid", 
+                "intervention_type": "Drug", 
+                "other_name": "Humalog"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "January 31, 2014", 
+        "link": {
+            "url": "http://www3.imperial.ac.uk/bioinspiredtechnology/research/metabolic"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "London", 
+                    "country": "United Kingdom", 
+                    "zip": "W2 1PG"
+                }, 
+                "name": "Imperial College London, Imperial College Healthcare NHS Trust"
+            }, 
+            "investigator": [
+                {
+                    "last_name": "Monika Reddy, MRCP", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Nick Oliver, MRCP", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Desmond Johnston, F.Med.Sci", 
+                    "role": "Principal Investigator"
+                }
+            ], 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "United Kingdom"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Clinical Assessment of an Advanced Bolus Calculator for Type 1 Diabetes (ABC4D)", 
+        "other_outcome": [
+            {
+                "description": "Quality of life measure", 
+                "measure": "PAID score questionnaire", 
+                "safety_issue": "No", 
+                "time_frame": "6 months (Phase 3 only)"
+            }, 
+            {
+                "description": "Device acceptability assessment", 
+                "measure": "Acceptability questionnaire (non-validated)", 
+                "safety_issue": "No", 
+                "time_frame": "For Phase 1 the time frame is 8 hours, for phase 2 it is 6 weeks and for phase 3 participants are followed-up for 6 months"
+            }
+        ], 
+        "overall_contact": {
+            "email": "d.johnston@imperial.ac.uk", 
+            "last_name": "Desmond Johnston, F.Med.Sci", 
+            "phone": "0207 594 2460"
+        }, 
+        "overall_contact_backup": {
+            "email": "nick.oliver@imperial.ac.uk", 
+            "last_name": "Nick Oliver, MRCP", 
+            "phone": "0207 594 2460"
+        }, 
+        "overall_official": [
+            {
+                "affiliation": "Imperial College London", 
+                "last_name": "Desmond Johnston, F.Med.Sci", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Imperial College London", 
+                "last_name": "Nick Oliver, MRCP", 
+                "role": "Principal Investigator"
+            }
+        ], 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United Kingdom: Medicines and Healthcare Products Regulatory Agency", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "July 2016", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "Glycaemic control", 
+                "measure": "HbA1c", 
+                "safety_issue": "Yes", 
+                "time_frame": "6 months (phase 3 only)"
+            }, 
+            {
+                "measure": "Post-prandial hypoglycaemia", 
+                "safety_issue": "Yes", 
+                "time_frame": "For Phase 1 the time frame is 8 hours, for phase 2 it is 6 weeks and for phase 3 participants are followed-up for 6 months"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02053051"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Post-meal glucose at 60 and 120 minutes", 
+                "safety_issue": "Yes", 
+                "time_frame": "For Phase 1 the time frame is 8 hours, for phase 2 it is 6 weeks and for phase 3 participants are followed-up for 6 months"
+            }, 
+            {
+                "measure": "Post-prandial area under the curve (AUC) at 120 minutes", 
+                "safety_issue": "Yes", 
+                "time_frame": "For Phase 1 the time frame is 8 hours, for phase 2 it is 6 weeks and for phase 3 participants are followed-up for 6 months"
+            }, 
+            {
+                "measure": "Hypoglycaemia at 4-hours post-prandially", 
+                "safety_issue": "Yes", 
+                "time_frame": "For Phase 1 the time frame is 8 hours, for phase 2 it is 6 weeks and for phase 3 participants are followed-up for 6 months"
+            }, 
+            {
+                "measure": "Glycaemic risk: LBGI and HBGI", 
+                "safety_issue": "Yes", 
+                "time_frame": "For Phase 1 the time frame is 8 hours, for phase 2 it is 6 weeks and for phase 3 participants are followed-up for 6 months"
+            }, 
+            {
+                "measure": "Glycaemic variability: MAGE and CONGA-2", 
+                "safety_issue": "No", 
+                "time_frame": "For Phase 1 the time frame is 8 hours, for phase 2 it is 6 weeks and for phase 3 participants are followed-up for 6 months"
+            }, 
+            {
+                "measure": "Change in weight (kg)", 
+                "safety_issue": "No", 
+                "time_frame": "6 months (phase 3 only)"
+            }, 
+            {
+                "measure": "Number achieving target HbA1c ( \u2264 53 mmol/mol )", 
+                "safety_issue": "No", 
+                "time_frame": "6 months (phase 3 only)"
+            }
+        ], 
+        "source": "Imperial College London", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Imperial College London", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "September 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2013"
+    }
+}

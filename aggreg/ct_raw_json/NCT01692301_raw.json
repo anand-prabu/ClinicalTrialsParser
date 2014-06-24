@@ -1,0 +1,843 @@
+{
+    "clinical_study": {
+        "@rank": "3010", 
+        "arm_group": [
+            {
+                "arm_group_label": "LCZ696 Regimen", 
+                "arm_group_type": "Experimental", 
+                "description": "Randomized patients will receive LCZ696 once daily for four weeks, then will be force-titrated to a higher dose at Week 4 and will stay on this dose of LCZ696 once daily for the remainder of the treatment period. At week 12, patients with uncontrolled BP will be allowed to have amlodipine then hydrochlorothiazide (HCTZ) added at intervals of 4 weeks from Week 12 up to Week 24. To maintain the double dummy, double-blind design, 2 tablets (LCZ696, its matching placebo) and 1 capsule (olmesartan matching placebo) will be given during the entire study."
+            }, 
+            {
+                "arm_group_label": "Olmesartan Regimen", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Randomized patients will receive olmesartan once daily for four weeks, then will be force-titrated to a higher dose at Week 4 and will stay on this dose of olmesartan once daily for the remainder of the treatment period. At week 12, patients with uncontrolled BP will be allowed to have amlodipine then hydrochlorothiazide (HCTZ) added at intervals of 4 weeks from Week 12 up to Week 24. To maintain the double dummy, double-blind design, 2 tablets (LCZ696 matching placebo) and 1 capsule (olmesartan) will be given during the entire study."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "To examine the efficacy of LCZ696 in comparison to the ARB olmesartan on Central Aortic\n      Systolic Blood Pressure (CASP) and other measures of central hemodynamics and arterial\n      stiffness in elderly patients with an elevated systolic blood pressure (SBP) and widened\n      pulse pressure (PP)."
+        }, 
+        "brief_title": "Study of the Safety and Efficacy of LCZ696 on Arterial Stiffness in Elderly Patients With Hypertension", 
+        "completion_date": {
+            "#text": "April 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Hypertension", 
+        "condition_browse": {
+            "mesh_term": "Hypertension"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Male and female patients \u2265 60 years of age.\n\n          2. Patients with essential hypertension, untreated or currently taking antihypertensive\n             therapy.\n\n          3. Untreated patients must have an office msSBP \u2265150 mmHg and <180 mmHg at Visit 101 and\n             Visit 201 if they are newly diagnosed or have not been treated with antihypertensive\n             drugs for the 4 weeks prior to Visit 1.\n\n          4. Treated patients must have an office msSBP \u2265140 mmHg and <180 mmHg at Visit 102 (or\n             Visit 103) and msSBP \u2265150 mmHg and <180 mmHg at Visit 201 if they have been treated\n             with antihypertensive drugs for the 4 weeks prior to Visit 1.\n\n          5. All patients must have pulse pressure >60 mmHg at Visit 201.  Pulse pressure is\n             defined as msSBP- msDBP.\n\n          6. Patients must have a difference in msSBP within +/-15 mmHg between Visit 201\n             (randomization) and the visit immediately prior to Visit 201.\n\n        Exclusion Criteria:\n\n          1. Malignant or severe hypertension (grade 3 of WHO classification; msDBP \u2265110 mmHg\n             and/or msSBP \u2265 180 mmHg)\n\n          2. History of angioedema, drug-related or otherwise.\n\n          3. History or evidence of a secondary form of hypertension, including but not limited to\n             any of the following: renal parenchymal hypertension, renovascular hypertension\n             (unilateral or bilateral renal artery stenosis), coarctation of the aorta, primary\n             hyperaldosteronism, Cushing's disease, pheochromocytoma, polycystic kidney disease,\n             and drug-induced hypertension.\n\n          4. Transient ischemic cerebral attack (TIA) during the 12 months prior to Visit 1 or any\n             history of stroke.\n\n          5. History of myocardial infarction, coronary bypass surgery or any percutaneous\n             coronary intervention (PCI) during the 12 months prior to Visit 1.\n\n          6. History of atrial fibrillation or atrial flutter during the 3 months prior to Visit\n             1, or active atrial fibrillation or atrial flutter on the ECG at screening.\n\n        Other protocol-defined inclusion/exclusion criteria may apply"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "60 Years"
+        }, 
+        "enrollment": {
+            "#text": "432", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "September 20, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01692301", 
+            "org_study_id": "CLCZ696A2216", 
+            "secondary_id": "2012-002899-14"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "LCZ696 Regimen", 
+                "description": "Investigational drug", 
+                "intervention_name": "LCZ696", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Olmesartan Regimen", 
+                "description": "Comparator Drug", 
+                "intervention_name": "Olmesartan", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "LCZ696 Regimen", 
+                    "Olmesartan Regimen"
+                ], 
+                "description": "LCZ696 Matching Placebo tablet", 
+                "intervention_name": "LCZ696 matching placebo", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "LCZ696 Regimen", 
+                "description": "Olmesartan matching placebo capsule", 
+                "intervention_name": "Olmesartan matching placebo", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "LCZ696 Regimen", 
+                    "Olmesartan Regimen"
+                ], 
+                "description": "amlodipine 2.5 mg or 5 mg tablets", 
+                "intervention_name": "amlodipine", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "LCZ696 Regimen", 
+                    "Olmesartan Regimen"
+                ], 
+                "description": "hydrochlorothiazide 6.25mg, 12.5mg, or 25 mg tablets", 
+                "intervention_name": "hydrochlorothiazide", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Hydrochlorothiazide", 
+                "Olmesartan medoxomil", 
+                "Amlodipine", 
+                "Olmesartan"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": "hypertension, elderly, central aortic pulse pressure, central pulse pressure, pulse wave velocity", 
+        "lastchanged_date": "April 4, 2014", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Clearwater", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33756"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60607"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21204"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Belzoni", 
+                        "country": "United States", 
+                        "state": "Mississippi", 
+                        "zip": "39038"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jackson", 
+                        "country": "United States", 
+                        "state": "Mississippi", 
+                        "zip": "39209"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St. Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63141"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Buffalo", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14215"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cincinnati", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45224"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77081"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lake Jackson", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77566"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pasadena", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77504"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Caba", 
+                        "country": "Argentina", 
+                        "state": "Buenos Aires", 
+                        "zip": "C1440AAD"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ramos Mejia", 
+                        "country": "Argentina", 
+                        "state": "Buenos Aires", 
+                        "zip": "B1704ETD"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rosario", 
+                        "country": "Argentina", 
+                        "state": "Santa Fe", 
+                        "zip": "S2000CXH"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Goiania", 
+                        "country": "Brazil", 
+                        "state": "GO", 
+                        "zip": "74223-130"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Withdrawn"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "S\u00e3o Paulo", 
+                        "country": "Brazil", 
+                        "state": "SP", 
+                        "zip": "05303-000"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Withdrawn"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Barranquilla", 
+                        "country": "Colombia", 
+                        "state": "Atlantico"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Barranquilla", 
+                        "country": "Colombia"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Florida Blanca", 
+                        "country": "Colombia"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Withdrawn"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "zip": "75015"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Berlin", 
+                        "country": "Germany", 
+                        "zip": "10117"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Berlin", 
+                        "country": "Germany", 
+                        "zip": "12200"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Withdrawn"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nuernberg", 
+                        "country": "Germany", 
+                        "zip": "90471"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Athens", 
+                        "country": "Greece", 
+                        "zip": "11526"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Athens", 
+                        "country": "Greece", 
+                        "zip": "11525"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Thessaloniki", 
+                        "country": "Greece", 
+                        "zip": "GR 54642"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Treviglio", 
+                        "country": "Italy", 
+                        "state": "BG", 
+                        "zip": "24047"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pisa", 
+                        "country": "Italy", 
+                        "state": "PI", 
+                        "zip": "56126"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Daniele Del Friuli", 
+                        "country": "Italy", 
+                        "state": "UD", 
+                        "zip": "33038"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Shimotsuke-city", 
+                        "country": "Japan", 
+                        "state": "Tochigi", 
+                        "zip": "329-0498"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bucheon", 
+                        "country": "Korea, Republic of", 
+                        "state": "Gyeonggi-do", 
+                        "zip": "424-717"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seoul", 
+                        "country": "Korea, Republic of", 
+                        "state": "Korea", 
+                        "zip": "110 744"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Moscow", 
+                        "country": "Russian Federation", 
+                        "zip": "101990"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Moscow", 
+                        "country": "Russian Federation", 
+                        "zip": "117198"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Moscow", 
+                        "country": "Russian Federation", 
+                        "zip": "119992"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint-Petersburg", 
+                        "country": "Russian Federation", 
+                        "zip": "194021"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Withdrawn"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint-Petersburg", 
+                        "country": "Russian Federation", 
+                        "zip": "197341"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sankt-Peterburg", 
+                        "country": "Russian Federation", 
+                        "zip": "197022"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Yaroslavl", 
+                        "country": "Russian Federation", 
+                        "zip": "150047"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jerez de La Frontera", 
+                        "country": "Spain", 
+                        "state": "Andalucia", 
+                        "zip": "11407"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sevilla", 
+                        "country": "Spain", 
+                        "state": "Andalucia", 
+                        "zip": "41071"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Barcelona", 
+                        "country": "Spain", 
+                        "state": "Catalunya", 
+                        "zip": "08025"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Barcelona", 
+                        "country": "Spain", 
+                        "state": "Catalu\u00f1a", 
+                        "zip": "08003"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Centelles", 
+                        "country": "Spain", 
+                        "state": "Catalu\u00f1a", 
+                        "zip": "08540"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Terrassa", 
+                        "country": "Spain", 
+                        "state": "Catalu\u00f1a", 
+                        "zip": "08221"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Puerto de Sagunto", 
+                        "country": "Spain", 
+                        "state": "Comunidad Valenciana", 
+                        "zip": "46520"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "La Coru\u00f1a", 
+                        "country": "Spain", 
+                        "state": "Galicia", 
+                        "zip": "15706"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Madrid", 
+                        "country": "Spain", 
+                        "zip": "28034"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Madrid", 
+                        "country": "Spain", 
+                        "zip": "28041"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Taipei", 
+                        "country": "Taiwan", 
+                        "state": "Taiwan, ROC", 
+                        "zip": "112"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Taichung", 
+                        "country": "Taiwan", 
+                        "zip": "40447"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Taipei", 
+                        "country": "Taiwan", 
+                        "zip": "114"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Argentina", 
+                "Brazil", 
+                "Colombia", 
+                "France", 
+                "Germany", 
+                "Greece", 
+                "Italy", 
+                "Japan", 
+                "Korea, Republic of", 
+                "Russian Federation", 
+                "Spain", 
+                "Taiwan"
+            ]
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "A Randomized, Double-blind 52-week Study to Evaluate the Safety and Efficacy of an LCZ696 Regimen Compared to an Olmesartan Regimen on Arterial Stiffness Through Assessment of Central Blood Pressure in Elderly Patients With Hypertension", 
+        "overall_contact": {
+            "last_name": "Novartis Pharmaceuticals", 
+            "phone": "1-888-669-6682"
+        }, 
+        "overall_contact_backup": {
+            "last_name": "Novartis Pharmaceuticals", 
+            "phone_ext": "+41613241111"
+        }, 
+        "overall_official": {
+            "affiliation": "Novartis Pharmaceuticals", 
+            "last_name": "Novartis Pharmaceuticals", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": [
+                "United States: Food and Drug Administration", 
+                "Argentina: Ministry of Health", 
+                "Brazil: Ministry of Health", 
+                "Colombia: National Institutes of Health", 
+                "France: Ministry of Health", 
+                "Germany: Ministry of Health", 
+                "Greece: Ministry of Health and Welfare", 
+                "Italy: Ministry of Health", 
+                "Japan: Ministry of Health, Labor and Welfare", 
+                "Korea: Food and Drug Administration", 
+                "Russia: Pharmacological Committee, Ministry of Health", 
+                "Spain: Ministry of Health", 
+                "Taiwan: Department of Health"
+            ], 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "April 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "Change from baseline in mean central aortic systolic blood pressure at 12 weeks", 
+            "safety_issue": "No", 
+            "time_frame": "baseline, 12 weeks"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01692301"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Change from baseline in mean central pulse pressure", 
+                "safety_issue": "No", 
+                "time_frame": "baseline, 12 weeks, and 52 weeks"
+            }, 
+            {
+                "measure": "Change from baseline in mean aortic pulse wave velocity", 
+                "safety_issue": "No", 
+                "time_frame": "baseline, 12 weeks, and 52 weeks"
+            }, 
+            {
+                "measure": "Change from baseline in mean central aortic systolic blood pressure at 52 weeks", 
+                "safety_issue": "No", 
+                "time_frame": "baseline, 52 weeks"
+            }, 
+            {
+                "measure": "Change from baseline in mean sitting systolic blood pressure", 
+                "safety_issue": "No", 
+                "time_frame": "baseline, 12 weeks, and 52 weeks"
+            }, 
+            {
+                "measure": "Change from baseline in mean sitting diastolic blood pressure", 
+                "safety_issue": "No", 
+                "time_frame": "baseline, 12 weeks, and 52 weeks"
+            }, 
+            {
+                "measure": "Change from baseline in mean sitting pulse pressure", 
+                "safety_issue": "No", 
+                "time_frame": "baseline, 12 weeks, and 52 weeks"
+            }, 
+            {
+                "measure": "Change from baseline in mean arterial pressure", 
+                "safety_issue": "No", 
+                "time_frame": "baseline, 12 weeks, and 52 weeks"
+            }, 
+            {
+                "measure": "Change from baseline in mean 24-hour systolic blood pressure", 
+                "safety_issue": "No", 
+                "time_frame": "baseline, 12 weeks, and 52 weeks"
+            }, 
+            {
+                "measure": "Change from baseline in mean 24-hour diastolic blood pressure", 
+                "safety_issue": "No", 
+                "time_frame": "baseline, 12 weeks, and 52 weeks"
+            }, 
+            {
+                "measure": "Change from baseline in mean 24-hour ambulatory pulse pressure", 
+                "safety_issue": "No", 
+                "time_frame": "baseline, 12 weeks, and 52 weeks"
+            }
+        ], 
+        "source": "Novartis", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Novartis Pharmaceuticals", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "December 2012", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2014"
+    }
+}

@@ -1,0 +1,321 @@
+{
+    "clinical_study": {
+        "@rank": "35154", 
+        "arm_group": [
+            {
+                "arm_group_label": "Conventional insulin pump therapry", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Subjects will use conventional pump therapy to regulate their glucose levels."
+            }, 
+            {
+                "arm_group_label": "Single-hormone closed-loop system", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Variable subcutaneous insulin infusion rate will be used to regulate glucose levels. Insulin Aspart (Novorapid) will be infused using a subcutaneous infusion pump. The glucose level as measured by the real time sensor will be entered manually into the computer every 10 minutes. The pump's infusion rate will then be changed manually based on the computer-generated recommendations of infusion rates."
+            }, 
+            {
+                "arm_group_label": "Dual-hormone closed-loop system", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Insulin Aspart (Novorapid) and glucagon (Paladin) will be infused using two separate subcutaneous infusion pumps. The glucose levels as measured by the real time sensor will be entered manually into the computer every 10 minutes. The pumps' infusion rate will then be changed manually based on the computer generated-recommendation delivery levels."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Closed-loop strategy is composed of three components: glucose sensor to read glucose levels,\n      insulin pump to infuse insulin and a dosing mathematical algorithm to decide on the required\n      insulin dosages based on the sensor's readings. A dual-hormone closed-loop system would\n      regulate glucose levels through the infusion of two hormone: insulin and glucagon.\n\n      The main objective of this project is to compare the efficacy of single-hormone closed-loop\n      strategy, dual-hormone closed-loop strategy and pump therapy to regulate overnight glucose\n      levels in a out-patient study in adults and adolescents with type 1 diabetes.\n\n      The investigators hypothesized that dual-hormone closed-loop strategy is more effective in\n      regulating overnight glucose levels in adults and adolescents with type 1 diabetes compared\n      to single-hormone closed-loop strategy, which in turn is more effective than the\n      conventional pump therapy."
+        }, 
+        "brief_title": "Closed-loop Control of Overnight Glucose Levels in Adults and Adolescents With Type 1 Diabetes", 
+        "completion_date": {
+            "#text": "July 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Type 1 Diabetes", 
+        "condition_browse": {
+            "mesh_term": [
+                "Diabetes Mellitus", 
+                "Diabetes Mellitus, Type 1"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Closed-loop strategy is composed of three components: glucose sensor to read glucose levels,\n      insulin pump to infuse insulin and a dosing mathematical algorithm to decide on the required\n      insulin dosages based on the sensor's readings. A dual-hormone closed-loop system would\n      regulate glucose levels through the infusion of two hormone: insulin and glucagon.\n\n      We aim to conduct a multicenter study to compare the efficacy of conventional pump therapy,\n      single-hormone closed-loop strategy and dual-hormone closed-loop strategy to regulate\n      overnight glucose levels, at home, in adolescents and adults with type 1 diabetes. Each\n      intervention will be tested on two nights: 1) After a carbohydrate-rich dinner meal (to\n      exaggerate hyperglycemic risk and; 2) After an evening exercise (to exaggerate hypoglycemic\n      risk)."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Males and females aged \u2265 12 years of old.\n\n          -  Body mass index < 35\n\n          -  Clinical diagnosis of type 1 diabetes for at least one year.\n\n          -  The subject will have been on insulin pump therapy for at least 4 months.\n\n          -  HbA1c < 12%.\n\n          -  At least two visits with an endocrinology team in the past 1 year.\n\n        Exclusion Criteria:\n\n          -  Clinically significant nephropathy, neuropathy (peripheral or autonomic e.g.\n             significant gastroparesis) or retinopathy as judged by the investigator.\n\n          -  Recent (< 6 months) acute macrovascular event e.g. acute coronary syndrome or cardiac\n             surgery.\n\n          -  A recent injury to body or limb, muscular disorder, use of any medication or other\n             significant medical disorder if that injury, medication or disease in the judgment of\n             the investigator will affect the completion of the exercise protocol.\n\n          -  Ongoing pregnancy.\n\n          -  Severe hypoglycemic episode within two weeks of screening.\n\n          -  Current use of glucocorticoid medication (except low stable dose and inhaled\n             therapy).\n\n          -  Known or suspected allergy to the insulin aspart, glucagon, Medtronic sensors, or\n             Medtronic infusion sets..\n\n          -  Other serious medical illness likely to interfere with study participation or with\n             the ability to complete the trial by the judgment of the investigator.\n\n          -  Anticipating a significant change in treatment regimen between admissions (such as a\n             major change in an exercise routine, significant change in dietary routine or in\n             insulin therapy.\n\n          -  Failure to comply with team's recommendations."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "12 Years"
+        }, 
+        "enrollment": {
+            "#text": "28", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "July 12, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01905020", 
+            "org_study_id": "CLASS-04"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Conventional insulin pump therapry", 
+                    "Single-hormone closed-loop system", 
+                    "Dual-hormone closed-loop system"
+                ], 
+                "description": "At 19:30, patients will eat a standardized large meal (110g carbohydrate for males; 90g carbohydrate for females). Conventional insulin pump therapy or closed-loop system will be use to control glucose levels from 21:00 until 7:00 next morning.", 
+                "intervention_name": "Carbohydrate-rich meal", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": [
+                    "Conventional insulin pump therapry", 
+                    "Single-hormone closed-loop system", 
+                    "Dual-hormone closed-loop system"
+                ], 
+                "description": "Study participants will go to a training facility around 18:00 to perform a 60min workout at 60% heart rate reserve. The workout will be on a treadmill and/or a stationary bicycle. Conventional insulin pump therapy or closed-loop system will be use to regulate glucose levels from 21:00 until 7:00 next morning.", 
+                "intervention_name": "Exercise", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Hormones", 
+                "Insulin"
+            ]
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Type 1 diabetes", 
+            "Hypoglycemia", 
+            "Insulin", 
+            "Glucagon", 
+            "Closed-loop system", 
+            "Artificial pancreas"
+        ], 
+        "lastchanged_date": "December 5, 2013", 
+        "location": [
+            {
+                "contact": {
+                    "last_name": "Bruce Perkins"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Toronto", 
+                        "country": "Canada", 
+                        "state": "Ontario"
+                    }, 
+                    "name": "Mount Sinai Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Bruce Perkins", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "ahmad.haidar@ircm.qc.ca", 
+                    "last_name": "Ahmad Haidar", 
+                    "phone": "514-987-5500", 
+                    "phone_ext": "3238"
+                }, 
+                "contact_backup": {
+                    "email": "virginie.messier@ircm.qc.ca", 
+                    "last_name": "Virginie Messier", 
+                    "phone": "514-987-5500", 
+                    "phone_ext": "3227"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Montreal", 
+                        "country": "Canada", 
+                        "state": "Quebec"
+                    }, 
+                    "name": "Institut de recherches cliniques de Montr\u00e9al"
+                }, 
+                "investigator": {
+                    "last_name": "R\u00e9mi Rabasa-Lhoret", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Laurent Legault"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Montreal", 
+                        "country": "Canada", 
+                        "state": "Quebec"
+                    }, 
+                    "name": "Montreal Children Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Laurent Legault", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": "Canada"
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "An Open-label, Randomized, Three-way, Multicenter Study to Compare the Efficacy of Single-hormone Closed-loop Strategy, Dual-hormone Closed-loop Strategy and Conventional Insulin Pump Therapy in Regulating Overnight Glucose Levels at Home in Adolescents and Adults With Type 1 Diabetes", 
+        "overall_contact": {
+            "email": "virginie.messier@ircm.qc.ca", 
+            "last_name": "Virginie Messier", 
+            "phone": "514-987-5500", 
+            "phone_ext": "3227"
+        }, 
+        "overall_official": [
+            {
+                "affiliation": "Institut de recherches cliniques de Montr\u00e9al", 
+                "last_name": "R\u00e9mi Rabasa-Lhoret, MD, PhD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Mount Sinai Hospital, New York", 
+                "last_name": "Bruce Perkins", 
+                "role": "Principal Investigator"
+            }
+        ], 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "Canada: research ethic committee", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "July 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Percentage of time for which glucose levels (as measured by the glucose sensor) are in target range. Target range is defined to be between 4.0 to 8.0 mmol/L", 
+            "measure": "Percentage of time in target range", 
+            "safety_issue": "No", 
+            "time_frame": "8 hours"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01905020"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Institut de Recherches Cliniques de Montreal", 
+            "investigator_full_name": "R\u00e9mi Rabasa-Lhoret", 
+            "investigator_title": "Associate Professor of Medicine", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Percentage of time for which glucose levels are in target range for each night separately. Target range is defined to be between 4.0 and 8.0 mmol/L.", 
+                "measure": "Percentage of time in target range for each night separately", 
+                "safety_issue": "No", 
+                "time_frame": "8 hours"
+            }, 
+            {
+                "description": "Percentage of time for which glucose levels are in target range for the pooled data. Target range is defined to be between 4.0 to 8.0 mmol/L.", 
+                "measure": "Percentage of time in target range for the pooled data", 
+                "safety_issue": "No", 
+                "time_frame": "8 hours"
+            }, 
+            {
+                "description": "Percentage of time for which glucose levels are below 4.0 mmol/L.", 
+                "measure": "Percentage of time spent below 4.0 mmol/L", 
+                "safety_issue": "No", 
+                "time_frame": "8 hours"
+            }, 
+            {
+                "description": "Percentage of time for which glucose levels are spent below 3.3 mmol/L.", 
+                "measure": "Percentage of time spent below 3.3 mmol/L", 
+                "safety_issue": "No", 
+                "time_frame": "8 hours"
+            }, 
+            {
+                "measure": "Area under the curve for glucose levels below 4.0 mmol/L", 
+                "safety_issue": "No", 
+                "time_frame": "8 hours"
+            }, 
+            {
+                "measure": "Area under the curve for glucose levels below 3.3 mmol/L", 
+                "safety_issue": "No", 
+                "time_frame": "8 hours"
+            }, 
+            {
+                "description": "Percentage of time for which glucose levels are above 8.0 mmol/L", 
+                "measure": "Percentage of time spent above 8.0 mmol/L", 
+                "safety_issue": "No", 
+                "time_frame": "8 hours"
+            }, 
+            {
+                "description": "Percentage of time for which glucose levels are above 10.0 mmol/L.", 
+                "measure": "Percentage of time spent above 10.0 mmol/L", 
+                "safety_issue": "No", 
+                "time_frame": "8 hours"
+            }, 
+            {
+                "measure": "Area under the curve for glucose levels spent above 8.0 mmol/L", 
+                "safety_issue": "No", 
+                "time_frame": "8 hours"
+            }, 
+            {
+                "measure": "Area under the curve for glucose levels spent above 10.0 mmol/L", 
+                "safety_issue": "No", 
+                "time_frame": "8 hours"
+            }, 
+            {
+                "measure": "Mean glucose levels", 
+                "safety_issue": "No", 
+                "time_frame": "8 hours"
+            }, 
+            {
+                "description": "Standard deviation of glucose levels as a measure of glucose variability.", 
+                "measure": "Standard deviation of glucose levels", 
+                "safety_issue": "No", 
+                "time_frame": "8 hours"
+            }, 
+            {
+                "measure": "Total insulin delivery", 
+                "safety_issue": "No", 
+                "time_frame": "8 hours"
+            }, 
+            {
+                "measure": "Number of subjects experiencing at least one hypoglycemic event requiring treatment", 
+                "safety_issue": "No", 
+                "time_frame": "8 hours"
+            }, 
+            {
+                "measure": "Number of hypoglycemic events requiring treatment", 
+                "safety_issue": "No", 
+                "time_frame": "8 hours"
+            }
+        ], 
+        "source": "Institut de Recherches Cliniques de Montreal", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "Montreal Children's Hospital of the MUHC", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Mount Sinai Hospital, New York", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "McGill University", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "Institut de Recherches Cliniques de Montreal", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "July 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Crossover Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "December 2013"
+    }
+}

@@ -1,0 +1,300 @@
+{
+    "clinical_study": {
+        "@rank": "168100", 
+        "acronym": "CANDLE-KIT", 
+        "arm_group": [
+            {
+                "arm_group_label": "Low Hb target without cholecalciferol", 
+                "arm_group_type": "No Intervention", 
+                "description": "Target Hemoglobin level: \u22659.5 and <10.5 g/dL"
+            }, 
+            {
+                "arm_group_label": "Low Hb target with cholecalciferol", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Target Hemoglobin level: \u22659.5 and <10.5 g/dL Cholecalciferol: 1,000 IU/day"
+            }, 
+            {
+                "arm_group_label": "High Hb target without cholecalciferol", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Target Hemoglobin level: \u226512.5 and <13.5 g/dL"
+            }, 
+            {
+                "arm_group_label": "High Hb target with cholecalciferol", 
+                "arm_group_type": "Experimental", 
+                "description": "Target Hemoglobin level: \u226512.5 and <13.5 g/dL Cholecalciferol: 1,000 IU/day"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to evaluate the effect of anemia correction and vitamin D\n      supplementation in kidney transplant recipients."
+        }, 
+        "brief_title": "Correcting Anemia and Native Vitamin D Supplementation in Kidney Transplant Recipients", 
+        "completion_date": {
+            "#text": "September 2016", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Kidney Transplantation", 
+            "Anemia", 
+            "Vitamin D Deficiency", 
+            "Renal Insufficiency, Chronic"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Anemia", 
+                "Renal Insufficiency", 
+                "Vitamin D Deficiency", 
+                "Renal Insufficiency, Chronic"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Sample size estimation:\n\n      The previous trial (the CAPRIT study) showed that 2.0 g/dL increase of hemoglobin (Hb)\n      reduced 69% of 2-year decline in estimated glomerular filtration rate (eGFR) (Choukroun G,\n      et al. J Am Soc Nephrol, 2012). Given that the annual eGFR decline in our patients with Hb\n      level <10.5 g/dL was 1.66 (SD, 2.47) mL/min per 1.73 m2, the investigators hypothesized that\n      the 2-year eGFR decline in the conservative anemia management group and the aggressive\n      anemia correction group should be 3.32 (SD, 4.94) and 1.03 (SD, 4.94) mL/min per 1.73 m2,\n      respectively. Assuming 20% of dropout or lost-to-follow, the planned sample size of 246\n      patients would yield a power of 90% for group comparison by using t-test with a type I error\n      of 5%.\n\n      Regarding cholecalciferol supplementation, 1,000 IU/day would increase serum\n      25-hydroxyvitamin D level by 11.8 ng/mL in patients with BMI <30, as suggested by the\n      previous trial (Gallagher JC, et al. Ann Intern Med, 2012). The investigators found in our\n      prospective cohort study that the 98.2% of Japanese kidney transplant recipients had BMI\n      <30, and that 10 ng/mL increase in 25-hydroxyvitamin D level was significantly associated\n      with 0.75 mL/min/1.73 m2 less decrease in annual eGFR change independent of potential\n      confounders (in submission). Therefore, the investigators expect 1.77 mL/min per 1.73 m2 in\n      eGFR would be preserved by 1,000 IU/day of cholecalciferol supplementation for 2 years.\n      Based on this assumption, this study size will provide a power of 70%.\n\n      Estimating kidney function:\n\n      In primary analyses, eGFR will be calculated by using the Japanese equation as in sample\n      size calculation (Matsuo S, et al. Am J Kidney Dis, 2009). However, this formula has not yet\n      been validated in kidney transplant recipients. Therefore, the investigators will use the\n      creatinine-based CKD-EPI equation with Japanese coefficient (Stevens LA, et al. Nephrol Dial\n      Transplant, 2010. Horio M, et al. Am J Kidney Dis, 2010) and an available formula if\n      validated in Japanese kidney transplant recipients at the time of analysis.\n\n      Statistical analyses:\n\n      For group comparison in a primary analysis, the investigators will use t-test or Wilcoxon\n      rank sum test according to the distribution of eGFR change. In the further analyses, to\n      analyze the time course of eGFR with respect to treatment assignment, changes in eGFR over\n      time will be analyzed with a linear mixed model for repeated measures with both fixed and\n      random intercept and slope. The multivariate model will contain time-varying eGFR as\n      dependent variable and treatment group as well as the number of measurements (time) as\n      independent variables. The study hypothesis will be tested by adding appropriate interaction\n      terms between the exposures and time. For secondary endpoints, the investigators will use\n      t-test, Wilcoxon rank sum test, or log-rank test for group comparison, and generalized\n      linear models or Cox proportional hazards models to estimate each effect of the\n      interventions, appropriately. The investigators will also adjust for baseline levels or past\n      history of each outcome. Other potential confounders, such as age, sex, time since\n      transplantation, blood pressure, urinary protein level, and diabetes, will be adjusted in\n      sensitivity analyses.\n\n      The interaction will be checked between anemia management and cholecalciferol\n      supplementation as well as between each intervention and baseline levels of urinary protein,\n      eGFR, Hb, 25-hydroxyvitamin D, the use of active vitamin D compounds, and the length of time\n      since transplantation. Additionally, stratified analyses will be conducted according to 0.2\n      g/g\uff65creatinine of urinary protein and the date of transplantation (November 1999, the\n      release date of mycophenolate mofetil in Japan). However, the study size is not large enough\n      to statistically evaluate these interactions. The results from these analyses should be\n      interpreted with caution and regarded as exploratory and hypothesis generating.\n\n      Missing values:\n\n      Missing values will not be imputed in primary analyses. In sensitivity analyses, the\n      investigators will use multiple imputation method and last-observation-carried-forward\n      method."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  \u226515 and <60 ml/min per 1.73 m2 of estimated glomerular filtration rate\n\n          -  Transplanted allograft kidney at least 1 year before\n\n          -  <10.5 g/dL of Hb without iron deficiency (serum ferritin level \u226550 ng/ml) or on\n             erythropoiesis stimulating agents treatment regardless of iron status\n\n          -  With written informed consent\n\n        Exclusion Criteria:\n\n          -  On anticancer treatment\n\n          -  History of ischemic stroke or transient ischemic attack\n\n          -  Corrected serum calcium \u226510.5 mg/dL\n\n          -  HIV virus infection\n\n          -  Anticipated refractory hypertension by using epoetin beta pegol\n\n          -  In pregnancy and lactation\n\n          -  Current use of native vitamin D supplement\n\n          -  Patients ineligible according to the investigator's judgement"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "79 Years", 
+            "minimum_age": "20 Years"
+        }, 
+        "enrollment": {
+            "#text": "246", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "March 21, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01817699", 
+            "org_study_id": "CKDR-001", 
+            "secondary_id": "UMIN000009970"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "High Hb target without cholecalciferol", 
+                    "High Hb target with cholecalciferol"
+                ], 
+                "description": "25 to 250 \u03bcg of methoxy polyethylene glycol epoetin beta (Mircera\u00ae, Chugai pharmaceutical Co. Ltd.) will be administered subcutaneously at 2- to 6-week interval.\nDose and interval will be adjusted according to hemoglobin level and its target.", 
+                "intervention_name": "High Hb target", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": [
+                    "Low Hb target with cholecalciferol", 
+                    "High Hb target with cholecalciferol"
+                ], 
+                "description": "1,000 IU (1 tablet)/day, orally. Tablets are repacked into blister package.", 
+                "intervention_name": "cholecalciferol", 
+                "intervention_type": "Dietary Supplement", 
+                "other_name": "Super vitamin D (Nature Made\u00ae)"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Cholecalciferol", 
+                "Vitamin D", 
+                "Ergocalciferols", 
+                "Vitamins"
+            ]
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Cholecalciferol", 
+            "Methoxy polyethylene glycol-epoetin beta", 
+            "Hematinics", 
+            "Bone Diseases, Metabolic", 
+            "Neoplasms", 
+            "Cardiovascular Diseases", 
+            "Graft Rejection"
+        ], 
+        "lastchanged_date": "April 25, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Suita", 
+                    "country": "Japan", 
+                    "state": "Osaka", 
+                    "zip": "565-0871"
+                }, 
+                "name": "CANDLE Trial Study Group"
+            }
+        }, 
+        "location_countries": {
+            "country": "Japan"
+        }, 
+        "number_of_arms": "4", 
+        "official_title": "A Factorial Randomized Controlled Trial of Correcting Anemia and Native Vitamin D Supplementation in Kidney Transplant Recipients", 
+        "other_outcome": [
+            {
+                "description": "For vitamin D supplementation study only.", 
+                "measure": "C-reactive protein", 
+                "safety_issue": "No", 
+                "time_frame": "1 year"
+            }, 
+            {
+                "description": "The adverse composite endpoint consists of death, admission-required cardiovascular diseases, and the renal composite endpoint.", 
+                "measure": "Time to the adverse composite endpoint", 
+                "safety_issue": "No", 
+                "time_frame": "2 years"
+            }, 
+            {
+                "description": "Opportunistic infections includes polyomavirus-associated nephropathy, tuberculosis, Pneumocystis carinii pneumonia, cytomegalovirus infection, herpes zoster, bacterial pneumonia.\nFor vitamin D supplementation study only.", 
+                "measure": "Time to hospitalization for opportunistic infections", 
+                "safety_issue": "No", 
+                "time_frame": "2 years"
+            }
+        ], 
+        "overall_official": {
+            "affiliation": "Department of Comprehensive Kidney Disease Research, Osaka University Graduate School of Medicine", 
+            "last_name": "Yoshiharu Tsubakihara, MD, PhD", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Enrolling by invitation", 
+        "oversight_info": {
+            "authority": "Japan: Institutional Review Board", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 4", 
+        "primary_completion_date": {
+            "#text": "March 2016", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "As allograft kidney function, GFR is estimated by the modified MDRD equation for Japanese patients with chronic kidney disease.", 
+            "measure": "Change in allograft kidney function", 
+            "safety_issue": "No", 
+            "time_frame": "2 years"
+        }, 
+        "reference": [
+            {
+                "PMID": "22193388", 
+                "citation": "Choukroun G, Kamar N, Dussol B, Etienne I, Cassuto-Viguier E, Toupance O, Glowacki F, Moulin B, Lebranchu Y, Touchard G, Jaureguy M, Pallet N, Le Meur Y, Rostaing L, Martinez F; CAPRIT study Investigators. Correction of postkidney transplant anemia reduces progression of allograft nephropathy. J Am Soc Nephrol. 2012 Feb;23(2):360-8. doi: 10.1681/ASN.2011060546. Epub 2011 Dec 22."
+            }, 
+            {
+                "PMID": "22431675", 
+                "citation": "Gallagher JC, Sai A, Templin T 2nd, Smith L. Dose response to vitamin D supplementation in postmenopausal women: a randomized trial. Ann Intern Med. 2012 Mar 20;156(6):425-37."
+            }, 
+            {
+                "PMID": "19339088", 
+                "citation": "Matsuo S, Imai E, Horio M, Yasuda Y, Tomita K, Nitta K, Yamagata K, Tomino Y, Yokoyama H, Hishida A; Collaborators developing the Japanese equation for estimated GFR. Revised equations for estimated GFR from serum creatinine in Japan. Am J Kidney Dis. 2009 Jun;53(6):982-92. doi: 10.1053/j.ajkd.2008.12.034. Epub 2009 Apr 1."
+            }, 
+            {
+                "PMID": "19793928", 
+                "citation": "Stevens LA, Schmid CH, Zhang YL, Coresh J, Manzi J, Landis R, Bakoush O, Contreras G, Genuth S, Klintmalm GB, Poggio E, Rossing P, Rule AD, Weir MR, Kusek J, Greene T, Levey AS. Development and validation of GFR-estimating equations using diabetes, transplant and weight. Nephrol Dial Transplant. 2010 Feb;25(2):449-57. doi: 10.1093/ndt/gfp510. Epub 2009 Sep 30."
+            }, 
+            {
+                "PMID": "20416999", 
+                "citation": "Horio M, Imai E, Yasuda Y, Watanabe T, Matsuo S. Modification of the CKD epidemiology collaboration (CKD-EPI) equation for Japanese: accuracy and use for population estimates. Am J Kidney Dis. 2010 Jul;56(1):32-8. doi: 10.1053/j.ajkd.2010.02.344. Epub 2010 Apr 22."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01817699"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "protein-creatinine ratio\nliver type fatty acid binding protein (L-FABP)\nneutrophil gelatinase-associated lipocalin (NGAL)\ntransforming growth factor (TGF)-\u03b2.", 
+                "measure": "Urine markers of kidney injury", 
+                "safety_issue": "No", 
+                "time_frame": "6 months"
+            }, 
+            {
+                "description": "For vitamin D supplementation study only.", 
+                "measure": "The dose of methoxy polyethylene glycol epoetin beta required to maintain the target hemoglobin level", 
+                "safety_issue": "No", 
+                "time_frame": "1 year"
+            }, 
+            {
+                "measure": "Blood pressure", 
+                "safety_issue": "No", 
+                "time_frame": "2 years"
+            }, 
+            {
+                "description": "brain natriuretic peptide (BNP)\ncardiac troponin-T (cTnT).", 
+                "measure": "Cardiac biomarkers", 
+                "safety_issue": "No", 
+                "time_frame": "2 years"
+            }, 
+            {
+                "measure": "Left ventricular mass index", 
+                "safety_issue": "No", 
+                "time_frame": "2 years"
+            }, 
+            {
+                "measure": "Biopsy-proven acute cellular rejection", 
+                "safety_issue": "No", 
+                "time_frame": "2 years"
+            }, 
+            {
+                "description": "intact parathyroid hormone (1-84 PTH)\nbone-type alkaline phosphatase\ntartrate-resistant acid phosphatase 5b (TRACP-5b)\nFor vitamin D supplementation study only.", 
+                "measure": "Bone-turnover markers", 
+                "safety_issue": "No", 
+                "time_frame": "6 months"
+            }, 
+            {
+                "description": "For vitamin D supplementation study only.", 
+                "measure": "Bone mineral density of lumber spine and femoral neck.", 
+                "safety_issue": "No", 
+                "time_frame": "2 years"
+            }, 
+            {
+                "description": "Corrected calcium \u226511 mg/dL\nFor vitamin D supplementation study only.", 
+                "measure": "Hypercalcemia", 
+                "safety_issue": "Yes", 
+                "time_frame": "2 years"
+            }, 
+            {
+                "description": "renal composite endpoint consists of 50% increase in serum creatinine, subsequent transplantation, and reinitiation of dialysis.", 
+                "measure": "Time to the renal composite endpoint", 
+                "safety_issue": "No", 
+                "time_frame": "2 years"
+            }, 
+            {
+                "description": "Cardiovascular events includes myocardial infarction, angina, congestive heart failure, stroke, and peripheral artery disease.", 
+                "measure": "Time to admission-required cardiovascular events", 
+                "safety_issue": "Yes", 
+                "time_frame": "2 years"
+            }, 
+            {
+                "measure": "Time to all-cause death", 
+                "safety_issue": "No", 
+                "time_frame": "2 years"
+            }, 
+            {
+                "measure": "Time to Cancer development or recurrence", 
+                "safety_issue": "No", 
+                "time_frame": "2 years"
+            }
+        ], 
+        "source": "CANDLE-KIT Trial Study Group", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "Chugai Pharmaceutical", 
+                    "agency_class": "Industry"
+                }, 
+                {
+                    "agency": "Japanese Society for the Promotion of Science", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "The Kidney Foundation, Japan", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "CANDLE-KIT Trial Study Group", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "April 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Factorial Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2013"
+    }
+}

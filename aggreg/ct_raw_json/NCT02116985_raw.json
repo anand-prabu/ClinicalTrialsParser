@@ -1,0 +1,151 @@
+{
+    "clinical_study": {
+        "@rank": "144771", 
+        "acronym": "DLTCI", 
+        "arm_group": [
+            {
+                "arm_group_label": "Dual-Loop TCI", 
+                "arm_group_type": "Experimental", 
+                "description": "the controller in the current study measures and calculates the error(NI error),which is the difference between the set point(NI=36)and the measured NI.If the NI error is different from 0,the controller determines a new propoflo and/or remifentanil concentration."
+            }, 
+            {
+                "arm_group_label": "manual", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "the investigator modified the effect-site target concentrations of both drugs without minimum or maximum concentration limits without using the Narcotrend monitor only depend on the experience of anesthesiologist."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Laparoscopic Cholecystectomy applied to Artificial pneumoperitoneum and the extent of\n      Surgical stimulation cause the wave of hemodynamics increase vigorously, which make it\n      difficult to judge the depth of anesthesia according to traditional hemodynamics index such\n      as heart rate and blood pressure.In case of this, the investigators design this research to\n      study the Closed-Loop Target Controlled Infusion to anaesthesia of individualization guided\n      by a Narcotrend index monitor in Laparoscopic Cholecystectomy."
+        }, 
+        "brief_title": "Dual-Loop Target Controlled Infusion in Laparoscopic Cholecystectomy (DLTCI)", 
+        "completion_date": {
+            "#text": "July 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Cholecystolithiasis", 
+        "condition_browse": {
+            "mesh_term": [
+                "Cholecystolithiasis", 
+                "Cholelithiasis", 
+                "Gallstones"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Anesthetics alter electrocortical activity in a dose-dependent manner,and it is suggested\n      that electroencephalographic(EEG)activity can provide a reliable basis for a surrogate\n      measurement of hypnosis.An EEG monitor,the Narcotrend Index(NI),has proven useful to titrate\n      hypnotic drugs.Because it is a single composite measure monitored continuously,it has been\n      used in controlled studies to automatically guide propofol\n      administration.Conversely,automated delivery systems for opioids have seldom been described\n      using EEG activity There are no specific measures to quantify analgesia\n      directly.Nevertheless,in the interaction between opioid-hypnotic synergy and loss of\n      consciousness,when the dose of analgesic administered is sufficient to inhibit autonomic\n      response to noxious stimuli,then the required hypnotic concentration is only that needed to\n      achieve loss of consciousness.Moreover,a noxious stimulus such as laryngoscopy or periosteal\n      pressure to the tibia may cause electrocortical activation with an increase in Narcotrend\n      index,which indirectly reflects the analgesic state or the level of\n      antinociception.Finally,an excitatory EEG arousal reaction resulting from nociceptive\n      stimulation can provide a rational basis for analgesia administration.It can then be\n      hypothesized that Narcotrend index could also be the controlled variable for opioid\n      administration."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. require general anesthesia\n\n          2. expected to last>30 minutes\n\n          3. 18~90 years\n\n          4. ASA \u2160~\u2163 level\n\n        Exclusion Criteria:\n\n          1. psychiatric illness\n\n          2. supraspinal neurological disorders\n\n          3. cranial neurosurgical procedures\n\n          4. patients equipped with a pacemaker"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "90 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "40", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "April 15, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02116985", 
+            "org_study_id": "dual-loop"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Dual-Loop TCI", 
+                "description": "the controller in the current study measures and calculates the error(NI error),which is the difference between the set point(NI=36)and the measured NI.If the NI error is different from 0,the controller determines a new propoflo and/or remifentanil concentration.", 
+                "intervention_name": "Dual-loop TCI", 
+                "intervention_type": "Device"
+            }, 
+            {
+                "arm_group_label": "manual", 
+                "description": "the investigator modified the effect-site target concentrations of both drugs without minimum or maximum concentration limits without using the Narcotrend monitor only depend on the experience of anesthesiologist.", 
+                "intervention_name": "manual", 
+                "intervention_type": "Device"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Remifentanil"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Dual-Loop TCI", 
+            "NI", 
+            "Laparoscopic Cholecystectomy"
+        ], 
+        "lastchanged_date": "April 15, 2014", 
+        "location": {
+            "contact": {
+                "email": "276978230@qq.com", 
+                "last_name": "Li Liuxun", 
+                "phone": "13631387935", 
+                "phone_ext": "86"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Guangzhou", 
+                    "country": "China", 
+                    "state": "Guangdong", 
+                    "zip": "510010"
+                }, 
+                "name": "Guangzhou Military Region General Hospital, Department of Anesthesiology"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "China"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Dual-Loop Target Controlled Infusion of Propofol and Remifentanil Guided by Narcotrend Index in Laparoscopic Cholecystectomy", 
+        "overall_contact": {
+            "email": "xubo333@hotmail.com", 
+            "last_name": "xu bo", 
+            "phone": "88653387", 
+            "phone_ext": "020"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "China: Ethics Committee", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 4", 
+        "primary_completion_date": {
+            "#text": "July 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "record the total dose of propofol and remifentanil from the beginning to the end of anesthesia.", 
+            "measure": "The total dose of propofol and remifentanil", 
+            "safety_issue": "No", 
+            "time_frame": "within two hours from the beginning to the end of the propofol and remifentanil"
+        }, 
+        "reference": {
+            "PMID": "21233500", 
+            "citation": "Liu N, Chazot T, Hamada S, Landais A, Boichut N, Dussaussoy C, Trillat B, Beydon L, Samain E, Sessler DI, Fischler M. Closed-loop coadministration of propofol and remifentanil guided by bispectral index: a randomized multicenter study. Anesth Analg. 2011 Mar;112(3):546-57. doi: 10.1213/ANE.0b013e318205680b. Epub 2011 Jan 13."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02116985"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Guangzhou General Hospital of Guangzhou Military Command", 
+            "investigator_full_name": "bo xu", 
+            "investigator_title": "associate chief physician", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "source": "Guangzhou General Hospital of Guangzhou Military Command", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Guangzhou General Hospital of Guangzhou Military Command", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "April 2014", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Supportive Care", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2014"
+    }
+}

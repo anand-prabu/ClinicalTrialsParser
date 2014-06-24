@@ -1,0 +1,162 @@
+{
+    "clinical_study": {
+        "@rank": "58728", 
+        "arm_group": [
+            {
+                "arm_group_label": "Standard dosing", 
+                "arm_group_type": "No Intervention", 
+                "description": "Vancomycin dosed and monitored according to standard practice"
+            }, 
+            {
+                "arm_group_label": "BestDose Computer Software", 
+                "arm_group_type": "Experimental", 
+                "description": "Vancomycin dosed using BestDose computer software, targeting AUC rather than trough concentrations"
+            }, 
+            {
+                "arm_group_label": "BestDose Computer Software 2", 
+                "arm_group_type": "Experimental", 
+                "description": "Vancomycin dosed using BestDose computer software, targeting AUC rather than trough concentrations and with computer-generated suggested optimal blood sampling times"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "We will compare the percentage of patients having therapeutic vancomycin serum\n      concentrations after current standard dosing, after dosing with our software.  We will also\n      include therapeutic outcomes and costs in the analysis."
+        }, 
+        "brief_title": "Prospective Study to Optimize Vancomycin Dosing in Children and Adults Using Computer Software", 
+        "completion_date": {
+            "#text": "December 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Bacterial Infections", 
+        "condition_browse": {
+            "mesh_term": "Bacterial Infections"
+        }, 
+        "detailed_description": {
+            "textblock": "Recent guidelines to use the antibiotic vancomycin for serious, resistant gram-positive\n      bacterial infections advocate higher plasma concentrations than are routinely achieved with\n      conventional dosing. Moreover, there is wide interpatient variability in vancomycin plasma\n      concentrations, even with standardized dosing. The hypothesis for this study is that dosing\n      vancomycin assisted by computer software and Bayesian algorithms will lead to more rapid and\n      accurate attainment of therapeutic blood vancomycin concentrations in children and adults.\n      This study will enroll 90 patients per year for three years, totaling 270 patients. Eligible\n      patients will be of any age and who are to be prescribed vancomycin by their clinicians for\n      medical indications. Patients with vancomycin-resistant organisms, severe vancomycin\n      allergies or who need dialysis will not be eligible. Participants in the first group of 90\n      will be treated according to standard care. The second and third groups of patients will be\n      dosed with vancomycin according to the recommendations made by the study team using the\n      BestDose software developed by the USC Laboratory of Applied Pharmacokinetics. The second\n      group will be dosed with the software in its current form, and the third group with funded\n      updates. For all groups, no additional blood samples will be drawn for research purposes;\n      only routinely obtained clinical data will be used. The primary outcome in all groups will\n      be the percentage of participants with appropriate vancomycin concentrations. Secondary\n      outcomes in those who receive vancomycin for at least 72 hours will include effectiveness,\n      toxicity rates, and costs of therapy. Participation in the study will cease at the time of\n      hospital discharge or 72 hours after termination of vancomycin therapy."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Hospitalized infants, children, adolescents, and adults who require, but have not\n             started vancomycin therapy for infections with suspected or proven beta-lactam\n             resistant gram-positive bacteria will eligible for enrollment.\n\n          2. Participants will of any age.\n\n          3. Participant/parent/legal guardian (as applicable) must be able and willing to provide\n             signed informed consent.\n\n        Exclusion Criteria:\n\n          1. Prior receipt of vancomycin for the same clinical event (e.g. the same fever of\n             unknown origin in a neutropenic patient defined as <24 hours of no fever)\n\n          2. Known colonization or infection with a vancomycin resistant organism (MIC > 2 mg/L)\n\n          3. Known hypersensitivity or intolerance to vancomycin\n\n          4. Patients on any form of dialysis\n\n          5. Not expected to survive >72 hours."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "270", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "August 6, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01932034", 
+            "org_study_id": "LACUSC-Van-01", 
+            "secondary_id": "R01GM068968"
+        }, 
+        "intervention": {
+            "arm_group_label": [
+                "BestDose Computer Software", 
+                "BestDose Computer Software 2"
+            ], 
+            "description": "BestDose is made by the USC Laboratory of Applied Pharmacokinetics.  It uses a multiple-model, Bayesian adaptive control algorithm to find the maximally precise dose that will achieve a user-specified target concentration or concentrations.", 
+            "intervention_name": "BestDose Computer Software", 
+            "intervention_type": "Device"
+        }, 
+        "intervention_browse": {
+            "mesh_term": "Vancomycin"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Vancomycin", 
+            "Pharmacokinetics", 
+            "Pharmacodynamics", 
+            "Decision support"
+        ], 
+        "lastchanged_date": "August 27, 2013", 
+        "location": {
+            "contact": {
+                "email": "bejones@usc.edu", 
+                "last_name": "Brenda Jones, MD", 
+                "phone": "323-223-2340"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Los Angeles", 
+                    "country": "United States", 
+                    "state": "California", 
+                    "zip": "90033"
+                }, 
+                "name": "Los Angeles County - University of Southern California Medical Center"
+            }, 
+            "investigator": {
+                "last_name": "Brenda Jones, MD", 
+                "role": "Principal Investigator"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "Prospective Study to Optimize Vancomycin Dosing in Children and Adults Using Multiple-Model Bayesian Adaptive Control", 
+        "overall_official": {
+            "affiliation": "Children's Hospital Los Angeles", 
+            "last_name": "Michael Neely, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "August 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "Time to therapeutic vancomycin blood concentration", 
+            "safety_issue": "No", 
+            "time_frame": "Within first week of dosing"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01932034"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Children's Hospital Los Angeles", 
+            "investigator_full_name": "Michael Neely", 
+            "investigator_title": "Michael Neely, MD, MSc, FCP", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Number of blood samples sent for vancomycin concentration measurement", 
+                "safety_issue": "No", 
+                "time_frame": "Duration of therapy, an average of 10 days in the hospital"
+            }, 
+            {
+                "description": "Defined as >0.5 mg/dL or >50% rise from baseline serum creatinine", 
+                "measure": "Incidence of nephrotoxicity", 
+                "safety_issue": "Yes", 
+                "time_frame": "Duration of therapy, an average of 10 days in the hospital"
+            }
+        ], 
+        "source": "Children's Hospital Los Angeles", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Institute of General Medical Sciences (NIGMS)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Children's Hospital Los Angeles", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "September 2012", 
+        "study_design": "Allocation: Non-Randomized, Endpoint Classification: Pharmacokinetics/Dynamics Study, Intervention Model: Factorial Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "August 2013"
+    }
+}

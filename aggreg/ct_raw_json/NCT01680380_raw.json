@@ -1,0 +1,139 @@
+{
+    "clinical_study": {
+        "@rank": "135995", 
+        "arm_group": {
+            "arm_group_label": "At-Home", 
+            "description": "Overnight sleep at home"
+        }, 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to evaluate the feasibility of tracking breathing during sleep\n      with non-contact sensors (for example, microphones or wireless movement sensors).  The\n      investigators will use the data collected with these sensors to develop algorithms for\n      tracking breathing during sleep.  The investigators will assess the performance of the\n      algorithms by comparing automatic output against manually-generated labels."
+        }, 
+        "brief_title": "Tracking Breathing During Sleep With Non-contact Sensors", 
+        "completion_date": {
+            "#text": "August 2013", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Sleep Apnea Syndromes", 
+            "Snoring"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Apnea", 
+                "Sleep Apnea Syndromes", 
+                "Snoring"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Subjects will be asked to place non-contact sensors (for example, ambient microphones,\n      wireless movement sensors) in their home sleep environment.  No sensors will be attached to\n      or otherwise in contact with the subject's body.  The subjects will start the data\n      collection before they fall asleep, and stop the data collection the next morning when they\n      wake.  The subjects will then return the sensors to the investigator for analysis.\n\n      The investigators will study the data and associated manual labeling.  The investigators\n      will develop algorithms that use statistical and machine-learning methods to train computer\n      models designed to track breathing automatically.  The investigators will compare the\n      automatic output against manually generated labels to determine breath-tracking accuracy."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Age 21-100\n\n          -  No self-reported sleep breathing problems\n\n        Exclusion Criteria:\n\n          -  Positive diagnosis for sleep breathing problem (e.g., obstructive sleep apnea)"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "21 Years", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "Participants will be recruited from the PI's department (OHSU faculty, Ph.D. students) by\n        email and the investigators' personal acquaintances.  Participants must be age 21-100 and\n        have no self-reported sleep breathing problems."
+            }
+        }, 
+        "enrollment": {
+            "#text": "20", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "September 4, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01680380", 
+            "org_study_id": "IRB00008533"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "sleep apnea", 
+            "snoring"
+        ], 
+        "lastchanged_date": "October 12, 2012", 
+        "location": {
+            "contact": {
+                "email": "sniderb@ohsu.edu", 
+                "last_name": "Brian R Snider", 
+                "phone": "503-748-7491"
+            }, 
+            "contact_backup": {
+                "email": "kaina@ohsu.edu", 
+                "last_name": "Alexander Kain, Ph.D.", 
+                "phone": "503-748-1539"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Beaverton", 
+                    "country": "United States", 
+                    "state": "Oregon", 
+                    "zip": "97006"
+                }, 
+                "name": "Center for Spoken Language Understanding"
+            }, 
+            "investigator": [
+                {
+                    "last_name": "Brian R Snider", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Alexander Kain, Ph.D.", 
+                    "role": "Principal Investigator"
+                }
+            ], 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_groups": "1", 
+        "official_title": "Tracking Breathing During Sleep With Non-contact Sensors", 
+        "overall_contact": {
+            "email": "sniderb@ohsu.edu", 
+            "last_name": "Brian R Snider", 
+            "phone": "503-748-1037"
+        }, 
+        "overall_official": {
+            "affiliation": "Oregon Health and Science University", 
+            "last_name": "Alexander Kain, Ph.D.", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "August 2013", 
+            "@type": "Anticipated"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01680380"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Oregon Health and Science University", 
+            "investigator_full_name": "Alexander Kain", 
+            "investigator_title": "Assistant Professor", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "source": "Oregon Health and Science University", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Oregon Health and Science University", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "October 2012", 
+        "study_design": "Observational Model: Case-Only, Time Perspective: Cross-Sectional", 
+        "study_type": "Observational", 
+        "verification_date": "October 2012"
+    }
+}

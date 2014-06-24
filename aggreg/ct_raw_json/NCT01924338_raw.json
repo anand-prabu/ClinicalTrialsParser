@@ -1,0 +1,242 @@
+{
+    "clinical_study": {
+        "@rank": "65463", 
+        "arm_group": [
+            {
+                "arm_group_label": "Skin types I and II", 
+                "arm_group_type": "Experimental", 
+                "description": "Volunteers classified as skin types I and II according to the Fitzpatrick Scale\nProcedures: dental cast creation, MRI scan, laser scan"
+            }, 
+            {
+                "arm_group_label": "Skin type III", 
+                "arm_group_type": "Experimental", 
+                "description": "Volunteers classified as skin type III according to the Fitzpatrick Scale\nProcedures: dental cast creation, MRI scan, laser scan"
+            }, 
+            {
+                "arm_group_label": "Skin type IV", 
+                "arm_group_type": "Experimental", 
+                "description": "Volunteers classified as skin type IV according to the Fitzpatrick Scale\nProcedures: dental cast creation, MRI scan, laser scan"
+            }, 
+            {
+                "arm_group_label": "Skin types V and VI", 
+                "arm_group_type": "Experimental", 
+                "description": "Volunteers classified as skin types V and VI according to the Fitzpatrick Scale\nProcedures: dental cast creation, MRI scan, laser scan"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The study is intended to verify a newly developed method to measure the thickness of cranial\n      soft tissue. In the study, a high-resolution MRI scan is used as ground truth for a laser\n      scan of the forehead. The laser scan is acquired point by point with a prototype scanning\n      unit developed at the University of Luebeck's Institute for Robotics.\n\n      The measured tissue thickness using the near-infrared scanning approach is validated against\n      the ground truth obtained by the MRI scan. The average accuracy of the reconstruction method\n      is then computed over all subjects from the individual study arms.\n\n      The required laser intensity and exposure time as well as the achieved measurement accuracy\n      is evaluated with respect to the different skin types of the test subjects. Correlation\n      between these features and the skin type according to the Fitzpatrick scale will be\n      computed.\n\n      For 1/3 of the subjects, the laser and MRI scans are repeated after 2 and 8 weeks. The\n      results of the scans are compared and time dependency is analysed."
+        }, 
+        "brief_title": "Validation of a Method to Measure Soft Tissue Thickness Using Near Infrared Laser Light", 
+        "completion_date": {
+            "#text": "February 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Cranial Soft Tissue", 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  male and female adults\n\n          -  variations in skin type (at least 10 subjects with skin types I & II, at least 2\n             subjects with skin type III, at least 3 subjects with skin type IV, at least 3\n             subjects with skin types V & VI)\n\n          -  optional: availability of high-resolution CT or CBCT (cone-beam CT) scan of the\n             forehead\n\n        Exclusion Criteria:\n\n          -  allergies or intolerances against ABS (acrylonitrile butadiene styrene), PMMA\n             (polymethyl methacrylate) or alginate\n\n          -  elevated light sensitivity of the skin\n\n          -  exclusion criteria for MRI (claustrophobia, motoric disorders, tattoos, body\n             piercings, metallic implants in the skull, epilepsy, cardiac pacemakers)"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "25", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "August 12, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01924338", 
+            "org_study_id": "ROB-NIRMR-001"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Skin types I and II", 
+                    "Skin type III", 
+                    "Skin type IV", 
+                    "Skin types V and VI"
+                ], 
+                "description": "Acquisition of a high-resolution MRI scan (0.15 x 0.15 x 1.0 mm\u00b3) aligned with the AC-PC (anterior commissure-posterior commissure) line", 
+                "intervention_name": "MRI scan", 
+                "intervention_type": "Device"
+            }, 
+            {
+                "arm_group_label": [
+                    "Skin types I and II", 
+                    "Skin type III", 
+                    "Skin type IV", 
+                    "Skin types V and VI"
+                ], 
+                "description": "A near-infrared laser scan of the subject's forehead is acquired", 
+                "intervention_name": "Laser scan", 
+                "intervention_type": "Device"
+            }, 
+            {
+                "arm_group_label": [
+                    "Skin types I and II", 
+                    "Skin type III", 
+                    "Skin type IV", 
+                    "Skin types V and VI"
+                ], 
+                "description": "A dental cast made of PMMA (polymethyl methacrylate) of the subject's maxilla is created", 
+                "intervention_name": "Dental cast creation", 
+                "intervention_type": "Procedure"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Patient", 
+            "localisation", 
+            "in cranial", 
+            "radiation", 
+            "therapy", 
+            "thickness of"
+        ], 
+        "lastchanged_date": "September 6, 2013", 
+        "link": {
+            "url": "http://www.rob.uni-luebeck.de/node/153"
+        }, 
+        "location": [
+            {
+                "contact": {
+                    "email": "ernst@rob.uni-luebeck.de", 
+                    "last_name": "Floris Ernst, PhD", 
+                    "phone": "+494515005208"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "L\u00fcbeck", 
+                        "country": "Germany", 
+                        "state": "Schleswig-Holstein", 
+                        "zip": "23562"
+                    }, 
+                    "name": "University of Luebeck, Institute for Robotics"
+                }, 
+                "investigator": {
+                    "last_name": "Floris Ernst, PhD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "L\u00fcbeck", 
+                        "country": "Germany", 
+                        "state": "Schleswig-Holstein", 
+                        "zip": "23562"
+                    }, 
+                    "name": "Clinic for Maxillofacial Surgery of the University Hospital Schleswig-Holstein"
+                }, 
+                "status": "Active, not recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": "Germany"
+        }, 
+        "number_of_arms": "4", 
+        "official_title": "Validierung Der Bestimmung Der Gewebedicke Mit Hilfe Von Licht im Infrarotbereich", 
+        "overall_contact": {
+            "email": "ernst@rob.uni-luebeck.de", 
+            "last_name": "Floris Ernst, PhD", 
+            "phone": "+494515005208"
+        }, 
+        "overall_official": {
+            "affiliation": "University of Luebeck", 
+            "last_name": "Floris Ernst, PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "Germany: Ethics Commission", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "December 2013", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "Average accuracy of tissue thickness measurement method [mm]", 
+            "safety_issue": "No", 
+            "time_frame": "up to 6 months"
+        }, 
+        "reference": {
+            "PMID": "23847741", 
+            "citation": "Wissel T, Bruder R, Schweikard A, Ernst F. Estimating soft tissue thickness from light-tissue interactions--a simulation study. Biomed Opt Express. 2013 Jun 14;4(7):1176-87. doi: 10.1364/BOE.4.001176. Print 2013 Jul 1."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01924338"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University of Luebeck", 
+            "investigator_full_name": "Dr. Floris Ernst", 
+            "investigator_title": "Senior Research Associate", 
+            "responsible_party_type": "Sponsor-Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Correlation between skin types (according to the Fitzpatrick scale) and the outcome (required laser intensity [mW])", 
+                "measure": "System dependency on skin color - required intensity", 
+                "safety_issue": "No", 
+                "time_frame": "up to 6 months"
+            }, 
+            {
+                "description": "Change in measurement accuracy [mm]", 
+                "measure": "Long-term stability of measured features - accuracy", 
+                "safety_issue": "No", 
+                "time_frame": "up to  8 months"
+            }, 
+            {
+                "description": "Change in required laser intensity [mW]", 
+                "measure": "Long-term stability of measured features - required intensity", 
+                "safety_issue": "No", 
+                "time_frame": "up to  8 months"
+            }, 
+            {
+                "description": "Change in required exposure time [ms]", 
+                "measure": "Long-term stability of measured features - required exposure time", 
+                "safety_issue": "No", 
+                "time_frame": "up to  8 months"
+            }, 
+            {
+                "description": "Correlation between skin types (according to the Fitzpatrick scale) and the outcome (accuracy of tissue thickness measurement [mm])", 
+                "measure": "System dependency on skin color - accuracy", 
+                "safety_issue": "No", 
+                "time_frame": "up to 6 months"
+            }, 
+            {
+                "description": "Correlation between skin types (according to the Fitzpatrick scale) and the outcome (required exposure time [ms])", 
+                "measure": "System dependency on skin color - exposure time", 
+                "safety_issue": "No", 
+                "time_frame": "up to 6 months"
+            }
+        ], 
+        "source": "University of Luebeck", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "Varian Medical Systems", 
+                    "agency_class": "Industry"
+                }, 
+                {
+                    "agency": "Graduate School for Computing in Medicine and Life Sciences of the University of L\u00fcbeck", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "Dr. Floris Ernst", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "September 2013", 
+        "study_design": "Allocation: Non-Randomized, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Basic Science", 
+        "study_type": "Interventional", 
+        "verification_date": "September 2013"
+    }
+}

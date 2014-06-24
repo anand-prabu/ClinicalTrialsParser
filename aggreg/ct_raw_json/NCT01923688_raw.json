@@ -1,0 +1,154 @@
+{
+    "clinical_study": {
+        "@rank": "149685", 
+        "arm_group": [
+            {
+                "arm_group_label": "Informatics Real-Time Alert", 
+                "arm_group_type": "Experimental", 
+                "description": "Alert/Nurse and Physician Intervention"
+            }, 
+            {
+                "arm_group_label": "control-no intervention", 
+                "arm_group_type": "No Intervention"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of the project is to improve in-patient safety by lowering the risk of severe\n      hypoglycemia (low blood sugar) for patients with diabetes on insulin therapy and to improve\n      communication between healthcare providers.\n\n      The procedures of the study are:\n\n        -  the hospital patient information system [Pharmacy Event System,(PES)] will generate for\n           healthcare providers a real-time risk alert of severe hypoglycemia (low blood sugar)\n\n        -  the real-time PES risk alert will be sent via a beeper to the patient's charge nurse\n\n        -  the charge nurse will follow the specific guidelines in the alert for assessment of the\n           patient's care and insulin regimen\n\n        -  the charge nurse will then notify the physician of the patient's assessment and of the\n           recommendation for change/no change in insulin regimen and/or clinical care\n\n        -  the alerted charge nurse and physician will complete a collaboration scale"
+        }, 
+        "brief_title": "Preventing Hypoglycemia", 
+        "completion_date": {
+            "#text": "December 2011", 
+            "@type": "Actual"
+        }, 
+        "condition": "Diabetes", 
+        "condition_browse": {
+            "mesh_term": "Hypoglycemia"
+        }, 
+        "detailed_description": {
+            "textblock": "This prospective nonrandomized intervention study involved inpatients admitted to 6\n      designated intervention and 8 designated control acute medicine divisions at Barnes-Jewish\n      Hospital in St Louis, the academic teaching hospital of  Washington University School of\n      Medicine, from August 2011 through December 2011.  The study population consisted of\n      patients cared for on either the control or intervention floors who were receiving\n      anti-diabetic medications during their hospital stay.  The study was approved by the\n      Washington University Medical Center institutional review board, and included a waiver of\n      consent for all patients.\n\n      The pharmacy informatics system was programmed with the previously-developed hypoglycemia\n      alert parameters to identify those patients at high risk of hypoglycemia based on real-time\n      patient information (7). Patients were identified as high risk on intervention floors if\n      insulin or an oral anti-hyperglycemic agent was prescribed, if their hypoglycemia\n      informatics-generated risk score was greater than 35, and if they had a capillary or venous\n      blood glucose level of \u226490 mg/dL. The risk score of 35 was the value that corresponded to\n      50% sensitivity for a subsequent blood glucose < 60 mg/ dl and a 75% sensitivity for a blood\n      glucose < 40 mg/ dL.  Patients were assigned to categories based on the division that they\n      were admitted to and risk score algorithm.\n\n      The electronic alert was sent to division-specific charge nurses via a pager.  Fourteen\n      charge nurses on intervention divisions were trained to assess the alert, interview the\n      patient, identify an alternate dosing strategy and collaborate with the patient's\n      physicians.  These trained nurses were available on intervention divisions Monday through\n      Friday from 0700 to 1700.  Control patients (HR-) were identified as high risk on control\n      divisions based on the same criteria as intervention patients.  The control patients' charts\n      were reviewed upon discharge of the patient by a certified diabetes nurse educator on the\n      research team who evaluated the number of hypoglycemic episodes in these patients as well as\n      physician recognition of increased risk and whether appropriate changes were made to the\n      patient orders in response to a low or down-trending blood glucose levels.\n\n      Nurses and physicians caring for patients on study divisions provided informed consent to\n      participate in the study.  Nurses' satisfaction with the alert process and physician\n      interaction was assessed with a collaboration scale that was completed after each alert as\n      well as a post study satisfaction scale (9).    Nurses and physicians provided informed\n      consent to participate."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Inclusion criteria for participating charge nurses and physicians is the insulin\n             management educational classes and the pre/post quiz. No exclusion criteria.\n\n        Exclusion Criteria:\n\n          -  No exclusion criteria."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "390", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "August 9, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01923688", 
+            "org_study_id": "201104182"
+        }, 
+        "intervention": {
+            "arm_group_label": "Informatics Real-Time Alert", 
+            "intervention_name": "Informatics Alert/Nurse/physician responders", 
+            "intervention_type": "Other"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": "Prediction Prevention Severe Hypoglycemia RealTime Alert", 
+        "lastchanged_date": "August 13, 2013", 
+        "link": {
+            "description": "Society of Hospital Medicine", 
+            "url": "http://www.hospitalmedicine"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Prevention of Hypoglycemia and Insulin Errors in Barnes-Jewish Hospital Inpatients", 
+        "overall_official": {
+            "affiliation": "Washington University School of Medicine St. Louis, Missouri", 
+            "last_name": "Garry Tobin, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "December 2011", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "The incidence of Severe Hypoglycemia (<40mg/dl) in patients after receiving a  PES Hypoglycemia Risk Alert until discharge from the hospital in both intervention and control groups.", 
+            "measure": "Incidence of Severe Hypoglycemia", 
+            "safety_issue": "Yes", 
+            "time_frame": "from time of the Pharmacy Expert System (PES) alert until discharge of the patient from the hospital, an average of 3-5 days"
+        }, 
+        "reference": [
+            {
+                "PMID": "22937877", 
+                "citation": "Nirantharakumar K, Marshall T, Kennedy A, Narendran P, Hemming K, Coleman JJ. Hypoglycaemia is associated with increased length of stay and mortality in people with diabetes who are hospitalized. Diabet Med. 2012 Dec;29(12):e445-8. doi: 10.1111/dme.12002."
+            }, 
+            {
+                "PMID": "12912719", 
+                "citation": "Kagansky N, Levy S, Rimon E, Cojocaru L, Fridman A, Ozer Z, Knobler H. Hypoglycemia as a predictor of mortality in hospitalized elderly patients. Arch Intern Med. 2003 Aug 11-25;163(15):1825-9."
+            }, 
+            {
+                "PMID": "19564471", 
+                "citation": "Turchin A, Matheny ME, Shubina M, Scanlon JV, Greenwood B, Pendergrass ML. Hypoglycemia and clinical outcomes in patients with diabetes hospitalized in the general ward. Diabetes Care. 2009 Jul;32(7):1153-7. doi: 10.2337/dc08-2127."
+            }, 
+            {
+                "PMID": "12716809", 
+                "citation": "Desouza C, Salazar H, Cheong B, Murgo J, Fonseca V. Association of hypoglycemia and cardiac ischemia: a study based on continuous monitoring. Diabetes Care. 2003 May;26(5):1485-9."
+            }, 
+            {
+                "PMID": "18056893", 
+                "citation": "Schwartz AV, Vittinghoff E, Sellmeyer DE, Feingold KR, de Rekeneire N, Strotmeyer ES, Shorr RI, Vinik AI, Odden MC, Park SW, Faulkner KA, Harris TB; Health, Aging, and Body Composition Study. Diabetes-related complications, glycemic control, and falls in older adults. Diabetes Care. 2008 Mar;31(3):391-6. Epub 2007 Dec 4. Erratum in: Diabetes Care. 2008 May;31(5):1089."
+            }, 
+            {
+                "PMID": "22042479", 
+                "citation": "Deal EN, Liu A, Wise LL, Honick KA, Tobin GS. Inpatient insulin orders: are patients getting what is prescribed? J Hosp Med. 2011 Nov;6(9):526-9. doi: 10.1002/jhm.938. Epub 2011 Oct 31."
+            }, 
+            {
+                "PMID": "22538139", 
+                "citation": "Elliott MB, Schafers SJ, McGill JB, Tobin GS. Prediction and prevention of treatment-related inpatient hypoglycemia. J Diabetes Sci Technol. 2012 Mar 1;6(2):302-9."
+            }, 
+            {
+                "PMID": "16873812", 
+                "citation": "ACE/ADA Task Force on Inpatient Diabetes. American College of Endocrinology and American Diabetes Association Consensus statement on inpatient diabetes and glycemic control: a call to action. Diabetes Care. 2006 Aug;29(8):1955-62. No abstract available."
+            }, 
+            {
+                "PMID": "17037970", 
+                "citation": "Goldberg PA, Bozzo JE, Thomas PG, Mesmer MM, Sakharova OV, Radford MJ, Inzucchi SE. \"Glucometrics\"--assessing the quality of inpatient glucose management. Diabetes Technol Ther. 2006 Oct;8(5):560-9."
+            }, 
+            {
+                "PMID": "21210611", 
+                "citation": "Kesten KS. Role-play using SBAR technique to improve observed communication skills in senior nursing students. J Nurs Educ. 2011 Feb;50(2):79-87. doi: 10.3928/01484834-20101230-02. Epub 2010 Dec 30."
+            }, 
+            {
+                "PMID": "23100037", 
+                "citation": "Hawkins K, Donihi AC, Korytkowski MT. Glycemic management in medical and surgical patients in the non-ICU setting. Curr Diab Rep. 2013 Feb;13(1):96-106. doi: 10.1007/s11892-012-0340-1. Review."
+            }, 
+            {
+                "PMID": "8366922", 
+                "citation": "[No authors listed] The effect of intensive treatment of diabetes on the development and progression of long-term complications in insulin-dependent diabetes mellitus. The Diabetes Control and Complications Trial Research Group. N Engl J Med. 1993 Sep 30;329(14):977-86."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01923688"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Washington University School of Medicine", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Washington University School of Medicine", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "August 2011", 
+        "study_design": "Allocation: Non-Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Prevention", 
+        "study_type": "Interventional", 
+        "verification_date": "August 2013"
+    }
+}

@@ -1,0 +1,939 @@
+{
+    "clinical_study": {
+        "@rank": "92347", 
+        "arm_group": [
+            {
+                "arm_group_label": "Pleasant Events Program (PEP)", 
+                "arm_group_type": "Experimental", 
+                "description": "The Pleasant Events Program (PEP) is a Behavioral Activation (BA) treatment for depression. Participants receive 4 weekly sessions of face-to-face therapy (60 minutes each) to increase caregiver participation in pleasurable activities. Two additional phone sessions focus on continued behavioral activation for caregivers as well as problem-solving barriers to activation."
+            }, 
+            {
+                "arm_group_label": "Information-Support (IS)", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Participants in the IS control condition were provided with a resource manual consisting of topics commonly covered in support groups or information packets provided by community agencies. Topics included problem-solving and communication skills, cognitive reframing and behavioral management, self-care help, caregiver fact sheets on a range of social and mental health issues, placement information, financial and legal issues, and lists of local organizations and community resources available. Less structured than the PEP condition, each IS session allowed caregivers to select which issue(s) from the resource manual they would like to discuss, if any, and the therapist covered the material based on the caregivers' needs. When requested by the caregiver, supportive psychotherapy was also provided."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Cardiovascular disease and depression are some of the most costly illnesses to society, and\n      caring for a loved-one with Alzheimer's disease has been associated with increased risk for\n      both depression and cardiovascular disease. Indeed, depressive symptoms have been linked\n      with elevated plasma concentrations of D-dimer and Interleukin-6 (IL-6), both of which are\n      associated with increased risk for cardiovascular disease (CVD). The present research tests\n      a brief behavioral intervention for reducing both depressive symptoms and CVD biomarkers in\n      Alzheimer caregivers. We hypothesize that caregivers receiving a brief Behavioral Activation\n      (BA) therapy will show greater reductions in depressive symptoms and in CVD biomarkers\n      relative to those randomized to a time-equivalent Information and Support (IS) therapy."
+        }, 
+        "brief_title": "Reducing CVD Risk in Caregivers: A Brief Behavioral Activation Intervention", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "The Pleasant Events Program (PEP) is a Behavioral Activation (BA) treatment for depression. Participants receive 4 weekly sessions of face-to-face therapy (60 minutes each) to increase caregiver participation in pleasurable activities. Two additional phone sessions focus on continued behavioral activation for caregivers as well as problem-solving barriers to activation.", 
+                            "title": "Pleasant Events Program (PEP)"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "Participants in the IS control condition were provided with a resource manual consisting of topics commonly covered in support groups or information packets provided by community agencies. Topics included problem-solving and communication skills, cognitive reframing and behavioral management, self-care help, caregiver fact sheets on a range of social and mental health issues, placement information, financial and legal issues, and lists of local organizations and community resources available. Less structured than the PEP condition, each IS session allowed caregivers to select which issue(s) from the resource manual they would like to discuss, if any, and the therapist covered the material based on the caregivers' needs. When requested by the caregiver, supportive psychotherapy was also provided.", 
+                            "title": "Information Support (IS)"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "49"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "51"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "100"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "9"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "21"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "40"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "39"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "79"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@spread": "7.57", 
+                                                "@value": "70.86"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@spread": "9.08", 
+                                                "@value": "71.33"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@spread": "8.33", 
+                                                "@value": "71.1"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "40"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "34"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "74"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "9"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "17"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "26"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "49"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "51"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "100"
+                                            }
+                                        ]
+                                    }, 
+                                    "sub_title": "United States"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "method": "Mixed Models Analysis", 
+                                "non_inferiority": "No", 
+                                "p_value": ".039"
+                            }
+                        }, 
+                        "description": "The Brief CESD is a measure of depressive symptoms. The scale's minimum score is 0 and maximum score is 30. Lower scores represent fewer depressive symptoms and thus better outcomes.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "The Pleasant Events Program (PEP) is a Behavioral Activation (BA) treatment for depression. Participants receive 4 weekly sessions of face-to-face therapy (60 minutes each) to increase caregiver participation in pleasurable activities. Two additional phone sessions focus on continued behavioral activation for caregivers as well as problem-solving barriers to activation.\nPleasant Events Program (PEP): Behavioral Activation Therapy", 
+                                    "title": "Pleasant Events Program (PEP)"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Participants in the IS control condition were provided with a resource manual consisting of topics commonly covered in support groups or information packets provided by community agencies. Topics included problem-solving and communication skills, cognitive reframing and behavioral management, self-care help, caregiver fact sheets on a range of social and mental health issues, placement information, financial and legal issues, and lists of local organizations and community resources available. Less structured than the PEP condition, each IS session allowed caregivers to select which issue(s) from the resource manual they would like to discuss, if any, and the therapist covered the material based on the caregivers\u2019 needs. When requested by the caregiver, supportive psychotherapy was also provided.\nInformation Support (IS): Supportive Psychotherapy and informational brochures", 
+                                    "title": "Information-Support (IS)"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "49"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "51"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "0.75", 
+                                                        "@value": "-3.46"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "0.74", 
+                                                        "@value": "-1.26"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "The Brief CESD is a measure of depressive symptoms. The scale's minimum score is 0 and maximum score is 30. Lower scores represent fewer depressive symptoms and thus better outcomes.", 
+                                    "dispersion": "Standard Error", 
+                                    "param": "Mean", 
+                                    "title": "Brief Center for Epidemiologic Studies Depression Scale (CESD)", 
+                                    "units": "units on a scale"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "Change from Baseline CESD at 8-weeks", 
+                        "title": "Brief Center for Epidemiologic Studies Depression Scale (CESD)", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "method": "Mixed Models Analysis", 
+                                "non_inferiority": "No", 
+                                "p_value": ".701"
+                            }
+                        }, 
+                        "description": "D-dimer is an indicator of fibrin formation and its subsequent lysis and is a useful biomarker representing overall activation of blood coagulation. High concentrations of D-dimer have been linked prospectively to onset of Coronary Heart Disease. Blood was collected by a research nurse in the caregivers\u2019 homes through a 22 gauge forearm catheter after a 20 minute rest. Blood for D-dimer was dispensed into polypropylene tubes with 3.8 percent sodium citrate and spun at 1600 g for 10 minutes at room temperature. Obtained plasma was stored at minus 80 degrees Celsius until analyzed. Plasma D-dimer (Asserachrom Stago, Asnieres, France) was determined via high sensitive enzyme-linked immunosorbent assays. Intra- and interassay coefficients of variation were less than 5 percent.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "The Pleasant Events Program (PEP) is a Behavioral Activation (BA) treatment for depression. Participants receive 4 weekly sessions of face-to-face therapy (60 minutes each) to increase caregiver participation in pleasurable activities. Two additional phone sessions focus on continued behavioral activation for caregivers as well as problem-solving barriers to activation.\nPleasant Events Program (PEP): Behavioral Activation Therapy", 
+                                    "title": "Pleasant Events Program (PEP)"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Participants in the IS control condition were provided with a resource manual consisting of topics commonly covered in support groups or information packets provided by community agencies. Topics included problem-solving and communication skills, cognitive reframing and behavioral management, self-care help, caregiver fact sheets on a range of social and mental health issues, placement information, financial and legal issues, and lists of local organizations and community resources available. Less structured than the PEP condition, each IS session allowed caregivers to select which issue(s) from the resource manual they would like to discuss, if any, and the therapist covered the material based on the caregivers\u2019 needs. When requested by the caregiver, supportive psychotherapy was also provided.\nInformation Support (IS): Supportive Psychotherapy and informational brochures", 
+                                    "title": "Information-Support (IS)"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "49"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "51"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "56.64", 
+                                                        "@value": "-92.22"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "58.04", 
+                                                        "@value": "-61.0"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "D-dimer is an indicator of fibrin formation and its subsequent lysis and is a useful biomarker representing overall activation of blood coagulation. High concentrations of D-dimer have been linked prospectively to onset of Coronary Heart Disease. Blood was collected by a research nurse in the caregivers\u2019 homes through a 22 gauge forearm catheter after a 20 minute rest. Blood for D-dimer was dispensed into polypropylene tubes with 3.8 percent sodium citrate and spun at 1600 g for 10 minutes at room temperature. Obtained plasma was stored at minus 80 degrees Celsius until analyzed. Plasma D-dimer (Asserachrom Stago, Asnieres, France) was determined via high sensitive enzyme-linked immunosorbent assays. Intra- and interassay coefficients of variation were less than 5 percent.", 
+                                    "dispersion": "Standard Error", 
+                                    "param": "Mean", 
+                                    "title": "D-dimer", 
+                                    "units": "ng/ml"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "Change from Baseline D-dimer at 8-weeks", 
+                        "title": "D-dimer", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "method": "Mixed Models Analysis", 
+                                "non_inferiority": "No", 
+                                "p_value": ".04"
+                            }
+                        }, 
+                        "description": "IL-6 is one of many biomarkers represented in the inflammatory cascade which is initiated during an immune response. Prospectively, increased plasma IL-6 is also associated with future myocardial infarction in healthy men and increasing concentrations of IL-6 have been associated with both nonfatal myocardial infarction and fatal Coronary Heart Disease (CHD) in longitudinal studies of population-based cohorts. Higher concentrations of IL-6 raise CHD risk. Blood was collected by a research nurse in the caregivers\u2019 homes through a 22-gauge forearm catheter after a 20 min rest. Blood for IL-6 was dispensed in Ethylenediaminetetraacetic acid (EDTA) tubes and spun at 3000 g for 10 minutes at  4 to 8 degrees Celsius. Obtained plasma was stored at minus 80 degrees Celsius until analyzed. Plasma IL-6 (Meso Scale Discovery, Gaithersburg, MD) was determined via highsensitive enzyme-linked immunosorbent assays. Intra- and interassay coefficients of variation were less than 5 percent.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "The Pleasant Events Program (PEP) is a Behavioral Activation (BA) treatment for depression. Participants receive 4 weekly sessions of face-to-face therapy (60 minutes each) to increase caregiver participation in pleasurable activities. Two additional phone sessions focus on continued behavioral activation for caregivers as well as problem-solving barriers to activation.\nPleasant Events Program (PEP): Behavioral Activation Therapy", 
+                                    "title": "Pleasant Events Program (PEP)"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Participants in the IS control condition were provided with a resource manual consisting of topics commonly covered in support groups or information packets provided by community agencies. Topics included problem-solving and communication skills, cognitive reframing and behavioral management, self-care help, caregiver fact sheets on a range of social and mental health issues, placement information, financial and legal issues, and lists of local organizations and community resources available. Less structured than the PEP condition, each IS session allowed caregivers to select which issue(s) from the resource manual they would like to discuss, if any, and the therapist covered the material based on the caregivers\u2019 needs. When requested by the caregiver, supportive psychotherapy was also provided.\nInformation Support (IS): Supportive Psychotherapy and informational brochures", 
+                                    "title": "Information-Support (IS)"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "49"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "51"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "0.66", 
+                                                        "@value": "-0.58"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "0.65", 
+                                                        "@value": "1.33"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "IL-6 is one of many biomarkers represented in the inflammatory cascade which is initiated during an immune response. Prospectively, increased plasma IL-6 is also associated with future myocardial infarction in healthy men and increasing concentrations of IL-6 have been associated with both nonfatal myocardial infarction and fatal Coronary Heart Disease (CHD) in longitudinal studies of population-based cohorts. Higher concentrations of IL-6 raise CHD risk. Blood was collected by a research nurse in the caregivers\u2019 homes through a 22-gauge forearm catheter after a 20 min rest. Blood for IL-6 was dispensed in Ethylenediaminetetraacetic acid (EDTA) tubes and spun at 3000 g for 10 minutes at  4 to 8 degrees Celsius. Obtained plasma was stored at minus 80 degrees Celsius until analyzed. Plasma IL-6 (Meso Scale Discovery, Gaithersburg, MD) was determined via highsensitive enzyme-linked immunosorbent assays. Intra- and interassay coefficients of variation were less than 5 percent.", 
+                                    "dispersion": "Standard Error", 
+                                    "param": "Mean", 
+                                    "title": "Interleukin-6 (IL-6)", 
+                                    "units": "pg/ml"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "Change from Baseline IL-6 at 8-weeks", 
+                        "title": "Interleukin-6 (IL-6)", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "method": "Mixed Models Analysis", 
+                                "non_inferiority": "No", 
+                                "p_value": ".268"
+                            }
+                        }, 
+                        "description": "This scales contains ten items assessing Positive Affect. Items included are adjectives, such as \u201cinterested,\u201d \u201cstrong,\u201d and \u201cinspired\u201d. Participants rated each adjective based on how they felt over the past few weeks using a 5-point scale with responses ranging from 1 (very slightly to not at all) to 5 (extremely). The scale's minimum score is 10 and maximum score is 50. Higher scores represent better outcomes.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "The Pleasant Events Program (PEP) is a Behavioral Activation (BA) treatment for depression. Participants receive 4 weekly sessions of face-to-face therapy (60 minutes each) to increase caregiver participation in pleasurable activities. Two additional phone sessions focus on continued behavioral activation for caregivers as well as problem-solving barriers to activation.\nPleasant Events Program (PEP): Behavioral Activation Therapy", 
+                                    "title": "Pleasant Events Program (PEP)"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Participants in the IS control condition were provided with a resource manual consisting of topics commonly covered in support groups or information packets provided by community agencies. Topics included problem-solving and communication skills, cognitive reframing and behavioral management, self-care help, caregiver fact sheets on a range of social and mental health issues, placement information, financial and legal issues, and lists of local organizations and community resources available. Less structured than the PEP condition, each IS session allowed caregivers to select which issue(s) from the resource manual they would like to discuss, if any, and the therapist covered the material based on the caregivers\u2019 needs. When requested by the caregiver, supportive psychotherapy was also provided.\nInformation Support (IS): Supportive Psychotherapy and informational brochures", 
+                                    "title": "Information-Support (IS)"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "49"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "51"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "0.82", 
+                                                        "@value": "1.51"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "0.82", 
+                                                        "@value": "0.23"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "This scales contains ten items assessing Positive Affect. Items included are adjectives, such as \u201cinterested,\u201d \u201cstrong,\u201d and \u201cinspired\u201d. Participants rated each adjective based on how they felt over the past few weeks using a 5-point scale with responses ranging from 1 (very slightly to not at all) to 5 (extremely). The scale's minimum score is 10 and maximum score is 50. Higher scores represent better outcomes.", 
+                                    "dispersion": "Standard Error", 
+                                    "param": "Mean", 
+                                    "title": "Positive and Negative Affect Schedule", 
+                                    "units": "units on a scale"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "Change from Baseline Positive Affect at 8-weeks", 
+                        "title": "Positive and Negative Affect Schedule", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "method": "Mixed Models Analysis", 
+                                "non_inferiority": "No", 
+                                "p_value": ".021"
+                            }
+                        }, 
+                        "description": "This scales contains ten items assessing Negative Affect. Items included are adjectives, such as \u201cdistressed,\u201d \u201cashamed,\u201d and Participants rated each adjective based on how they felt over the past few weeks using a 5-point scale with responses ranging from 1 (very slightly to not at all) to 5 (extremely). The scale's minimum score is 10 and maximum score is 50. Lower scores represent better outcomes.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "The Pleasant Events Program (PEP) is a Behavioral Activation (BA) treatment for depression. Participants receive 4 weekly sessions of face-to-face therapy (60 minutes each) to increase caregiver participation in pleasurable activities. Two additional phone sessions focus on continued behavioral activation for caregivers as well as problem-solving barriers to activation.\nPleasant Events Program (PEP): Behavioral Activation Therapy", 
+                                    "title": "Pleasant Events Program (PEP)"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Participants in the IS control condition were provided with a resource manual consisting of topics commonly covered in support groups or information packets provided by community agencies. Topics included problem-solving and communication skills, cognitive reframing and behavioral management, self-care help, caregiver fact sheets on a range of social and mental health issues, placement information, financial and legal issues, and lists of local organizations and community resources available. Less structured than the PEP condition, each IS session allowed caregivers to select which issue(s) from the resource manual they would like to discuss, if any, and the therapist covered the material based on the caregivers\u2019 needs. When requested by the caregiver, supportive psychotherapy was also provided.\nInformation Support (IS): Supportive Psychotherapy and informational brochures", 
+                                    "title": "Information-Support (IS)"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "49"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "51"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "0.85", 
+                                                        "@value": "-3.43"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "0.85", 
+                                                        "@value": "-0.61"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "This scales contains ten items assessing Negative Affect. Items included are adjectives, such as \u201cdistressed,\u201d \u201cashamed,\u201d and Participants rated each adjective based on how they felt over the past few weeks using a 5-point scale with responses ranging from 1 (very slightly to not at all) to 5 (extremely). The scale's minimum score is 10 and maximum score is 50. Lower scores represent better outcomes.", 
+                                    "dispersion": "Standard Error", 
+                                    "param": "Mean", 
+                                    "title": "Positive and Negative Affect Schedule", 
+                                    "units": "units on a scale"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "Change from Baseline Negative Affect at 8-weeks", 
+                        "title": "Positive and Negative Affect Schedule", 
+                        "type": "Secondary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "Participants in the IS control condition were provided with a resource manual consisting of topics commonly covered in support groups or information packets provided by community agencies. Topics included problem-solving and communication skills, cognitive reframing and behavioral management, self-care help, caregiver fact sheets on a range of social and mental health issues, placement information, financial and legal issues, and lists of local organizations and community resources available. Less structured than the PEP condition, each IS session allowed caregivers to select which issue(s) from the resource manual they would like to discuss, if any, and the therapist covered the material based on the caregivers' needs. When requested by the caregiver, supportive psychotherapy was also provided.\nInformation Support (IS) : Supportive Psychotherapy and informational brochures", 
+                            "title": "Information-Support (IS)"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "The Pleasant Events Program (PEP) is a Behavioral Activation (BA) treatment for depression. Participants receive 4 weekly sessions of face-to-face therapy (60 minutes each) to increase caregiver participation in pleasurable activities. Two additional phone sessions focus on continued behavioral activation for caregivers as well as problem-solving barriers to activation.\nPleasant Events Program (PEP) : Behavioral Activation Therapy", 
+                            "title": "Pleasant Events Program (PEP)"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "51", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "49", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "43", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "43", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "8", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "6", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }
+            }, 
+            "point_of_contact": {
+                "email": "BMausbach@ucsd.edu", 
+                "name_or_title": "Brent T Mausbach, PhD", 
+                "organization": "University of California San Diego", 
+                "phone": "858-822-7529"
+            }
+        }, 
+        "completion_date": {
+            "#text": "February 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Depressive Symptoms", 
+            "Inflammation"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Inflammation", 
+                "Depression"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Due to an aging society, the number of people diagnosed with dementia is expected to\n      increase dramatically over the next two decades, with a concomitant rise in the number of\n      family members providing informal care for their loved ones. The stresses associated with\n      this care have been well-documented in the scientific literature, and are noted to be\n      associated with increased risk for psychological and physical morbidity, particularly\n      cardiovascular disease. Indeed, caregiving is associated with elevations in negative affect\n      (e.g., depressive and anxiety symptoms), which in turn is associated with biological\n      indicators that are thought to predict CVD risk (e.g., markers of coagulation and\n      inflammation). The primary goal of this study is to examine the efficacy of a brief\n      Behavioral Activation (BA) Treatment, called the Pleasant Events Program (PEP), for reducing\n      biological CVD risk indicators in a sample of Alzheimer caregivers. We will enroll 100\n      dementia caregivers and randomly assign them to receive 4-sessions of PEP or 4-sessions of\n      support + information. Our PEP intervention will be conducted in caregivers' homes and will\n      emphasize the importance of monitoring and increasing activities that help individuals make\n      contact with natural reinforcers in their environments, identifying and reducing negative\n      coping responses, and selection and achievement of behavioral goals for healthier living.\n      Caregivers will be assessed for our biological outcomes at baseline, post-treatment, and\n      1-year to determine intervention efficacy. Given the brief nature of the PEP intervention,\n      the ease with which it can be applied in real-world settings (e.g., community agencies\n      providing services to caregivers), and lack of difficult skills for interventionists and\n      caregivers to acquire, we believe our PEP intervention will be easily transferred to\n      \"real-world\" settings. If our PEP intervention is efficacious, it may have a considerable\n      impact on both the physical and mental health of caregivers, and will likely have public\n      health implications."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Aged 55 or older and providing at-home care for a care recipient (CR) with a\n             physician-diagnosis of Alzheimer's disease (AD) or related dementia.\n\n        Exclusion Criteria:\n\n          -  Receiving beta-blocking medications at enrollment\n\n          -  Receiving treatment with Anticoagulant medications\n\n          -  Severe hypertension (>200/120 mmHg)\n\n          -  Diagnosed with a terminal illness with a life expectancy <6 months\n\n          -  Enrolled in another intervention study"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "55 Years"
+        }, 
+        "enrollment": {
+            "#text": "100", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "February 20, 2013", 
+        "firstreceived_results_date": "December 10, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01802554", 
+            "org_study_id": "R01AG031090"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Pleasant Events Program (PEP)", 
+                "description": "Behavioral Activation Therapy", 
+                "intervention_name": "Pleasant Events Program (PEP)", 
+                "intervention_type": "Behavioral"
+            }, 
+            {
+                "arm_group_label": "Information-Support (IS)", 
+                "description": "Supportive Psychotherapy and informational brochures", 
+                "intervention_name": "Information Support (IS)", 
+                "intervention_type": "Behavioral"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Behavioral Activation", 
+            "Caregiver", 
+            "Dementia", 
+            "Cardiovascular Disease", 
+            "Alzheimer's Disease", 
+            "Coagulation"
+        ], 
+        "lastchanged_date": "February 20, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "La Jolla", 
+                    "country": "United States", 
+                    "state": "California", 
+                    "zip": "92093"
+                }, 
+                "name": "University of California San Diego"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Reducing CVD Risk in Caregivers: A Brief Behavioral Activation Intervention", 
+        "overall_official": {
+            "affiliation": "University of California, San Diego", 
+            "last_name": "Brent Mausbach, PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "February 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "The Brief CESD is a measure of depressive symptoms. The scale's minimum score is 0 and maximum score is 30. Lower scores represent fewer depressive symptoms and thus better outcomes.", 
+                "measure": "Brief Center for Epidemiologic Studies Depression Scale (CESD)", 
+                "safety_issue": "No", 
+                "time_frame": "Change from Baseline CESD at 8-weeks"
+            }, 
+            {
+                "description": "D-dimer is an indicator of fibrin formation and its subsequent lysis and is a useful biomarker representing overall activation of blood coagulation. High concentrations of D-dimer have been linked prospectively to onset of Coronary Heart Disease. Blood was collected by a research nurse in the caregivers' homes through a 22 gauge forearm catheter after a 20 minute rest. Blood for D-dimer was dispensed into polypropylene tubes with 3.8 percent sodium citrate and spun at 1600 g for 10 minutes at room temperature. Obtained plasma was stored at minus 80 degrees Celsius until analyzed. Plasma D-dimer (Asserachrom Stago, Asnieres, France) was determined via high sensitive enzyme-linked immunosorbent assays. Intra- and interassay coefficients of variation were less than 5 percent.", 
+                "measure": "D-dimer", 
+                "safety_issue": "No", 
+                "time_frame": "Change from Baseline D-dimer at 8-weeks"
+            }, 
+            {
+                "description": "IL-6 is one of many biomarkers represented in the inflammatory cascade which is initiated during an immune response. Prospectively, increased plasma IL-6 is also associated with future myocardial infarction in healthy men and increasing concentrations of IL-6 have been associated with both nonfatal myocardial infarction and fatal Coronary Heart Disease (CHD) in longitudinal studies of population-based cohorts. Higher concentrations of IL-6 raise CHD risk. Blood was collected by a research nurse in the caregivers' homes through a 22-gauge forearm catheter after a 20 min rest. Blood for IL-6 was dispensed in Ethylenediaminetetraacetic acid (EDTA) tubes and spun at 3000 g for 10 minutes at  4 to 8 degrees Celsius. Obtained plasma was stored at minus 80 degrees Celsius until analyzed. Plasma IL-6 (Meso Scale Discovery, Gaithersburg, MD) was determined via highsensitive enzyme-linked immunosorbent assays. Intra- and interassay coefficients of variation were less than 5 percent.", 
+                "measure": "Interleukin-6 (IL-6)", 
+                "safety_issue": "No", 
+                "time_frame": "Change from Baseline IL-6 at 8-weeks"
+            }
+        ], 
+        "reference": [
+            {
+                "PMID": "22888824", 
+                "citation": "Chattillion EA, Ceglowski J, Roepke SK, von K\u00e4nel R, Losada A, Mills PJ, Romero-Moreno R, Grant I, Patterson TL, Mausbach BT. Pleasant events, activity restriction, and blood pressure in dementia caregivers. Health Psychol. 2013 Jul;32(7):793-801. doi: 10.1037/a0029412. Epub 2012 Aug 13."
+            }, 
+            {
+                "PMID": "22486550", 
+                "citation": "Mausbach BT, Chattillion E, Roepke SK, Ziegler MG, Milic M, von K\u00e4nel R, Dimsdale JE, Mills PJ, Patterson TL, Allison MA, Ancoli-Israel S, Grant I. A longitudinal analysis of the relations among stress, depressive symptoms, leisure satisfaction, and endothelial function in caregivers. Health Psychol. 2012 Jul;31(4):433-40. doi: 10.1037/a0027783. Epub 2012 Apr 9."
+            }, 
+            {
+                "PMID": "22410939", 
+                "citation": "Mausbach BT, Chattillion EA, Roepke SK, Patterson T, Grant I. A Comparison of Psychosocial Outcomes in Elderly Alzheimer Caregivers and Noncaregivers. Am J Geriatr Psychiatry. 2012 Mar 9. [Epub ahead of print] PubMed"
+            }, 
+            {
+                "PMID": "22224706", 
+                "citation": "Mausbach BT, Roepke SK, Chattillion EA, Harmell AL, Moore R, Romero-Moreno R, Bowie CR, Grant I. Multiple mediators of the relations between caregiving stress and depressive symptoms. Aging Ment Health. 2012;16(1):27-38. doi: 10.1080/13607863.2011.615738."
+            }, 
+            {
+                "PMID": "22149759", 
+                "citation": "Chattillion EA, Mausbach BT, Roepke SK, von K\u00e4nel R, Mills PJ, Dimsdale JE, Allison M, Ziegler MG, Patterson TL, Ancoli-Israel S, Grant I. Leisure activities, caregiving demands and catecholamine levels in dementia caregivers. Psychol Health. 2012;27(10):1134-49. doi: 10.1080/08870446.2011.637559. Epub 2011 Dec 12."
+            }, 
+            {
+                "PMID": "21600868", 
+                "citation": "Mausbach BT, Chattillion EA, Moore RC, Roepke SK, Depp CA, Roesch S. Activity restriction and depression in medical patients and their caregivers: a meta-analysis. Clin Psychol Rev. 2011 Aug;31(6):900-8. doi: 10.1016/j.cpr.2011.04.004. Epub 2011 Apr 28."
+            }, 
+            {
+                "PMID": "21429282", 
+                "citation": "Moore RC, Harmell AL, Chattillion E, Ancoli-Israel S, Grant I, Mausbach BT. PEAR model and sleep outcomes in dementia caregivers: influence of activity restriction and pleasant events on sleep disturbances. Int Psychogeriatr. 2011 Nov;23(9):1462-9. doi: 10.1017/S1041610211000512. Epub 2011 Mar 24."
+            }, 
+            {
+                "PMID": "21312008", 
+                "citation": "Harmell AL, Chattillion EA, Roepke SK, Mausbach BT. A review of the psychobiology of dementia caregiving: a focus on resilience factors. Curr Psychiatry Rep. 2011 Jun;13(3):219-24. doi: 10.1007/s11920-011-0187-1. Review."
+            }, 
+            {
+                "PMID": "21292054", 
+                "citation": "Mausbach BT, Roepke SK, Depp CA, Moore R, Patterson TL, Grant I. Integration of the pleasant events and activity restriction models: development and validation of a \"PEAR\" model of negative outcomes in Alzheimer's caregivers. Behav Ther. 2011 Mar;42(1):78-88. doi: 10.1016/j.beth.2009.11.006. Epub 2010 Oct 15."
+            }, 
+            {
+                "PMID": "21130981", 
+                "citation": "Mausbach BT, Harmell AL, Moore RC, Chattillion EA. Influence of caregiver burden on the association between daily fluctuations in pleasant activities and mood: A daily diary analysis. Behav Res Ther. 2011 Jan;49(1):74-9. doi: 10.1016/j.brat.2010.11.004. Epub 2010 Nov 22."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01802554"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University of California, San Diego", 
+            "investigator_full_name": "Brent Mausbach", 
+            "investigator_title": "Associate Professor", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "results_reference": {
+            "PMID": "23916631", 
+            "citation": "Moore RC, Chattillion EA, Ceglowski J, Ho J, von K\u00e4nel R, Mills PJ, Ziegler MG, Patterson TL, Grant I, Mausbach BT. A randomized clinical trial of Behavioral Activation (BA) therapy for improving psychological and physical health in dementia caregivers: results of the Pleasant Events Program (PEP). Behav Res Ther. 2013 Oct;51(10):623-32. doi: 10.1016/j.brat.2013.07.005. Epub 2013 Jul 19."
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "This scales contains ten items assessing Positive Affect. Items included are adjectives, such as \"interested,\" \"strong,\" and \"inspired\". Participants rated each adjective based on how they felt over the past few weeks using a 5-point scale with responses ranging from 1 (very slightly to not at all) to 5 (extremely). The scale's minimum score is 10 and maximum score is 50. Higher scores represent better outcomes.", 
+                "measure": "Positive and Negative Affect Schedule", 
+                "safety_issue": "No", 
+                "time_frame": "Change from Baseline Positive Affect at 8-weeks"
+            }, 
+            {
+                "description": "This scales contains ten items assessing Negative Affect. Items included are adjectives, such as \"distressed,\" \"ashamed,\" and Participants rated each adjective based on how they felt over the past few weeks using a 5-point scale with responses ranging from 1 (very slightly to not at all) to 5 (extremely). The scale's minimum score is 10 and maximum score is 50. Lower scores represent better outcomes.", 
+                "measure": "Positive and Negative Affect Schedule", 
+                "safety_issue": "No", 
+                "time_frame": "Change from Baseline Negative Affect at 8-weeks"
+            }
+        ], 
+        "source": "University of California, San Diego", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of California, San Diego", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "April 2008", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Single Blind (Outcomes Assessor), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "February 2014"
+    }
+}

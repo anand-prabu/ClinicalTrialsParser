@@ -1,0 +1,158 @@
+{
+    "clinical_study": {
+        "@rank": "21708", 
+        "acronym": "mActive", 
+        "arm_group": [
+            {
+                "arm_group_label": "Blinded Digital Activity Tracker", 
+                "arm_group_type": "Placebo Comparator"
+            }, 
+            {
+                "arm_group_label": "Unblinded Digital Activity Tracker / No Smart Text Messaging", 
+                "arm_group_type": "Experimental", 
+                "description": "Unblinded Digital Activity Tracker = Group unblinded to the numeric physical activity feedback information provided by the digital activity tracker.\nNo Smart Text Messaging = Group does not receive personalized, health coaching via \"smart\" text messages."
+            }, 
+            {
+                "arm_group_label": "Unblinded Digital Activity Tracker / Smart Text Messaging", 
+                "arm_group_type": "Experimental", 
+                "description": "Unblinded Digital Activity Tracker = Group unblinded to the numeric physical activity feedback information provided by the digital activity tracker.\nSmart Text Messaging = Group receives personalized, health coaching via \"smart\" text messages."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Despite their importance, health-related behaviors are hard to change. Among behaviors,\n      physical activity is associated with protection from multiple diseases. People who are\n      physically active have lower risk for heart disease, stroke, type 2 diabetes, depression,\n      and some cancers with associated dose-dependent reductions in cardiovascular and all-cause\n      mortality. However, most US adults do not meet CDC physical activity guidelines. Sedentary\n      work behavior in industrialized nations is likely a contributor to this problem.\n\n      Current low-technology strategies for encouraging lifestyle change are disappointingly\n      ineffective and are highly resource intensive. Systematic reviews of the literature show\n      mixed evidence for using activity trackers (i.e., pedometers) and a limited body of evidence\n      for text messaging in preventive health care. However, prior studies have not integrated\n      digital activity tracking with mobile phone text messaging feedback.\n\n      Given 91% of adults in the United States now use a mobile phone, and 56% a smartphone, this\n      represents a potentially widely applicable avenue for therapeutic intervention. There is\n      growing interest in leveraging mobile health (mHealth) technologies to improve health\n      behaviors in the general population. The investigators propose to conduct a blinded,\n      randomized mHealth trial of digital activity tracking and smart texting to promote physical\n      activity."
+        }, 
+        "brief_title": "mActive: A Blinded, Randomized mHealth Activity Trial", 
+        "condition": "Physical Activity", 
+        "detailed_description": {
+            "textblock": "Using an innovative, convenient, mHealth trial design, this pilot study aims to test the\n      feasibility of a seamless model of information flow integrating digital activity tracker\n      information with a mobile phone texting system to deliver a technology-enhanced intervention\n      that does not require in-person follow-up.\n\n      The investigators hypothesize that:\n\n        1. individuals overestimate their physical activity, especially that done at work.\n\n        2. biofeedback from an activity tracker can increase physical activity via increasing\n           self-awareness.\n\n        3. \"smart\" text message feedback can increase physical activity via personalizing health\n           coaching.\n\n      Digitalized activity tracking will use the Fitbug Orb, which syncs via Bluetooth with one's\n      smartphone. It is a display-free triaxial accelerometer, allowing one to blind participants\n      to numeric feedback. Text messaging will use Reify Health's \"smart\" platform for\n      personalized, interactive texting by an automated and repeatable algorithm. Texting will be\n      informed by real-time activity information.\n\n      Potential advantages of the trial strategy include elimination of attendance at in-person\n      sessions, personalization of health coaching, more continuous patient contact; inexpensive\n      intervention, the ultimate ability to scale our intervention to larger target populations."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Presenting to cardiology clinic\n\n          -  Aged 18-69 years\n\n          -  User of a compatible smartphone\n\n        Exclusion Criteria:\n\n          -  Already using an activity tracker\n\n          -  Preferred form of activity is not measured by an activity tracker(swimming, yoga, ice\n             skating, stair master, or activities on wheels such as bicycling or rollerblading)\n\n          -  Prohibited from normal activity due to wheelchair bound status, bed bound status,\n             reliance on a cane/walker, activity-limiting pulmonary disease, activity-limiting\n             angina, activity-limiting osteoarthritis, or other condition.\n\n          -  3 days or more of moderate or vigorous activity during leisure time for 30 minutes of\n             more per day by International Physical Activity Questionnaire"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "69 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "48", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "August 1, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01917812", 
+            "org_study_id": "NA_00086400"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Unblinded Digital Activity Tracker / No Smart Text Messaging", 
+                    "Unblinded Digital Activity Tracker / Smart Text Messaging"
+                ], 
+                "intervention_name": "Digital Activity Tracker", 
+                "intervention_type": "Device", 
+                "other_name": "Fitbug Orb"
+            }, 
+            {
+                "arm_group_label": "Unblinded Digital Activity Tracker / Smart Text Messaging", 
+                "intervention_name": "Smart Text Messaging", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "physical activity", 
+            "exercise", 
+            "mHealth", 
+            "smartphone", 
+            "activity tracker", 
+            "pedometer", 
+            "text messaging", 
+            "SMS"
+        ], 
+        "lastchanged_date": "May 21, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Baltimore", 
+                    "country": "United States", 
+                    "state": "Maryland", 
+                    "zip": "21202"
+                }, 
+                "name": "Johns Hopkins University"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "mActive: A Blinded, Randomized mHealth Trial of Digital Activity Tracking and Smart Texting to Promote Physical Activity", 
+        "overall_official": {
+            "affiliation": "Johns Hopkins University", 
+            "last_name": "Michael J Blaha, MD, MPH", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "June 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "Mean daily step count", 
+            "safety_issue": "No", 
+            "time_frame": "Change from baseline mean daily step count at 3 weeks (end of activity tracker intervention) and 5 weeks (end of texting intervention)"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01917812"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Johns Hopkins University", 
+            "investigator_full_name": "Seth S. Martin", 
+            "investigator_title": "MD", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Mean daily activity time", 
+                "safety_issue": "No", 
+                "time_frame": "Change from baseline mean daily activity time at 3 weeks (end of activity tracker intervention) and 5 weeks (end of texting intervention)"
+            }, 
+            {
+                "description": "Defined as the time spent walking continuously for >10 minutes without breaking for more than a minute", 
+                "measure": "Mean daily aerobic activity time", 
+                "safety_issue": "No", 
+                "time_frame": "Change from baseline mean daily aerobic activity time at 3 weeks (end of activity tracker intervention) and 5 weeks (end of texting intervention)"
+            }, 
+            {
+                "measure": "Responsiveness to text messaging", 
+                "safety_issue": "No", 
+                "time_frame": "Assessment at 5 weeks (end of study)"
+            }, 
+            {
+                "measure": "Satisfaction with the technology-based lifestyle coaching", 
+                "safety_issue": "No", 
+                "time_frame": "Assessment at 5 weeks (end of study)"
+            }
+        ], 
+        "source": "Johns Hopkins University", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Johns Hopkins University", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2014", 
+        "study_design": "Allocation: Randomized, Intervention Model: Factorial Assignment, Masking: Double Blind (Subject, Outcomes Assessor), Primary Purpose: Prevention", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2014"
+    }
+}

@@ -1,0 +1,139 @@
+{
+    "clinical_study": {
+        "@rank": "31974", 
+        "arm_group": [
+            {
+                "arm_group_label": "Standard Injection Rate", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Subjects will be given a small amount of contrast (approximately 1 cc test bolus) followed by administration of the remainder of the volume of contrast they are getting for their clinical study.  This will be approximately 30-40 cc, depending on patient size, given at an injection rate of 2 - 2.5 cc/second."
+            }, 
+            {
+                "arm_group_label": "Patient Tailored Injection Rate", 
+                "arm_group_type": "Experimental", 
+                "description": "Subjects will be given a small amount of contrast (approximately 1 cc test bolus) followed by administration of the remainder of the volume of contrast they are getting for their clinical study.  This will be approximately 30-40 cc, depending on patient size.  We will use a mathematical algorithm to rapidly analyze the test bolus and calculate a predicted \"best\" way to inject the contrast - likely slower and \"multi-phasic\", meaning different flow rates as the bolus injection evolves.  The injection rate will vary from 1 to 3 cc/second."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "In Contrast-Enhanced Magnetic Resonance Angiography (CE-MRA) a contrast agent is injected\n      into an arm vein using a programmable medical device called a power injector.  Once the\n      contrast has circulated to the blood vessel of interest they can be imaged with MRI and\n      distinctly separated from surrounding non-vascular tissue.\n\n      This project is designed to find the best way to administer the contrast agent during CE-MRA\n      to produce the best images.  The clinical availability of programmable power injectors\n      facilitates the use of variable contrast rate and volume injection protocols that are based\n      on patient specific parameters.\n\n      CE-MRA is a valuable imaging tool for diagnosing abnormalities of the major blood vessels in\n      the chest and abdomen.  It is often used in conjunction with cardiac magnetic resonance\n      (CMR) examinations to evaluate the blood vessels of the heart and lung.  CE-MRA is\n      attractive because 1) it does not involve radiation, and 2) the contrast agents used are not\n      toxic to the kidneys and can be used in patients who are at greater risk for kidney\n      dysfunction following iodinated contrast agents.\n\n      We plan to administer a small (1cc) test amount of contrast, taking pictures as the contrast\n      passes through the blood vessels, and analyze the results.  Using this information, we will\n      administer an individually patient-tailored injection given in multiple phases (i.e., a\n      \"multi-phasic\" injection) to maintain constant contrast concentration (and therefore\n      constant signal intensity) throughout the scan.  We believe this will reduce image blurring,\n      and improve the sharpness and likely the diagnostic quality of CE-MRA."
+        }, 
+        "brief_title": "Improving the Concentration of MR Contrast in the Arteries", 
+        "completion_date": {
+            "#text": "May 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Magnetic Resonance Angiography", 
+            "Contrast Media"
+        ], 
+        "detailed_description": {
+            "textblock": "This project will build and validate a tool designed to optimize the use of magnetic\n      resonance (MR) contrast agents for contrast-enhanced magnetic resonance angiography\n      (CE-MRA). As with most angiography methods, contrast agents selectively highlight a\n      patient's arteries as compared to surrounding tissue. In CE-MRA the contrast agent is\n      injected into an arm vein using a programmable injector and transported by the body's\n      circulation to the arteries of interest, at which point a MR acquisition depicts the\n      arteries distinctly from surrounding soft tissue.\n\n      At present, the clinically accepted method of injecting the contrast agent is essentially\n      the same for every patient, and has not been systematically evaluated or optimized. For most\n      chest and abdominal CE-MRA studies contrast is injected over 5-15 seconds, and the resultant\n      concentration of contrast agent in the arteries over the duration of the MR acquisition is\n      not well known. What this concentration is and how it varies over time, however, has a large\n      impact on the quality and clarity of the resulting images. This project is designed to\n      optimize the concentration of contrast agent in the arteries during the MR scan by using the\n      predictive results of a small \"test bolus\" injection to tailor the actual contrast injection\n      for each individual patient such that concentration remains as high and as constant as\n      possible during the time of MR acquisition. This will be accomplished by developing\n      algorithms and software tools to tailor the optimal, patient-specific injection parameters.\n      The method will be validated in a preliminary clinical study.\n\n      We propose that we can predict what the contrast bolus will look like (i.e., its\n      \"concentration vs. time\") by first administering a small (1cc) test bolus, taking pictures\n      as the contrast passes through the blood vessels, and analyzing the results.  Using this\n      information, we believe that an individually patient-tailored injection given in multiple\n      phases (i.e., a \"multi-phasic\" injection) can create constant contrast concentration (and\n      therefore constant signal intensity) throughout the scan, eliminating this source of image\n      blurring, and improving the sharpness and likely the diagnostic quality of first-pass\n      CE-MRA.  Moreover, by tailoring the contrast to the duration of the scan, the contrast agent\n      is used most efficiently and not wasted outside the acquisition duration, potentially\n      recouping any contrast-to-noise ratio (CNR) loss.  It is important to note the results of\n      this study are generalizable to CT Angiography (CTA) as well, where similar efficient use of\n      the contrast will reduce cost and excessive patient exposure to iodinated contrast.  We plan\n      to compare an \"optimized\" multiphasic contrast administration to a standard single phase\n      contrast administration."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  18 years of age or older;\n\n          -  Scheduled at University of Washington Radiology to undergo contrast-enhanced cardiac\n             MR.\n\n        Exclusion Criteria:\n\n          -  Unable to understand the nature of the study or to consent;\n\n          -  Unwilling to participate;\n\n          -  Prisoner;\n\n          -  Pregnant;\n\n          -  Contraindications for MRI:\n\n               -  Metallic or other surgical implants\n\n               -  History of metal work; metal pieces in your eyes or other body parts\n\n               -  pacemaker\n\n               -  defibrillator\n\n               -  some aneurysm clips\n\n               -  some artificial heart valves\n\n               -  some implanted venous access device\n\n               -  some cochlear/inner ear implants\n\n               -  spinal stimulator\n\n               -  some intrauterine devices (IUD)\n\n               -  some tattoos or permanent make-up\n\n               -  transdermal patch\n\n               -  severe anxiety in confined spaces (claustrophobia)\n\n          -  Contraindications for contrast:\n\n               -  an allergic reaction to gadolinium contrast in the past that required treatment\n\n               -  severe kidney or liver disease"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "120", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "June 2, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02155218", 
+            "org_study_id": "47155-A"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Standard Injection Rate", 
+                "description": "Normally an IV is placed in an arm and the gadolinium contrast (30-40 cc, depending on patient size) is administered through the IV with a power injector as a single bolus.  Subjects will have a test bolus and main bolus.", 
+                "intervention_name": "Standard Injection Rate", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": "Patient Tailored Injection Rate", 
+                "description": "Normally an IV is placed in an arm and the gadolinium contrast (30-40 cc, depending on patient size) is administered through the IV with a power injector as a single bolus.  Subjects will have a test bolus and main bolus.  We will use a mathematical algorithm to rapidly analyze the test bolus and calculate a predicted \"best\" way to inject the main bolus - likely slower and \"multi-phasic\", meaning different flow rates as the bolus injection evolves.", 
+                "intervention_name": "Patient Tailored Injection Rate", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": [
+                    "Standard Injection Rate", 
+                    "Patient Tailored Injection Rate"
+                ], 
+                "intervention_name": "gadolinium contrast", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "Magnetic Resonance Angiography", 
+            "Contrast Media"
+        ], 
+        "lastchanged_date": "June 3, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Seattle", 
+                    "country": "United States", 
+                    "state": "Washington", 
+                    "zip": "98195"
+                }, 
+                "name": "University of Washington"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Contrast Dynamics of the Thoracic Vasculature and Heart", 
+        "overall_official": {
+            "affiliation": "University of Washington", 
+            "last_name": "Jeffrey H. Maki, MD, PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Enrolling by invitation", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "February 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "To evaluate the performance of the bolus-tailoring method, measured signal intensity profiles will be evaluated using residual sum-of-squares (RSS) between targeted and measured responses. A smaller RSS indicates agreement with the targeted signal intensity profile. Additionally, full-width-at-half-maximum (FWHM) and start time (10% signal intensity increase over baseline) of the signal intensity profile will be measured and compared between the two groups. T-test will be used to test for significant differences between the two methods.", 
+            "measure": "Arterial Signal Intensity Evaluation", 
+            "safety_issue": "No", 
+            "time_frame": "During the one-time contrast-enhanced cardiac MR exam lasting approximately 45 to 60 minutes, signal intensity will be evaluated continuously before, during and after administration of contrast."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02155218"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University of Washington", 
+            "investigator_full_name": "Jeffrey Maki", 
+            "investigator_title": "Professor of Radiology", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "source": "University of Washington", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of Washington", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "June 2014", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "June 2014"
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "clinical_study": {
+        "@rank": "90805", 
+        "arm_group": [
+            {
+                "arm_group_label": "Usual care", 
+                "arm_group_type": "No Intervention"
+            }, 
+            {
+                "arm_group_label": "Pharmacist obtains home med hx", 
+                "arm_group_type": "Experimental", 
+                "description": "Pharmacist obtains admission medication history"
+            }, 
+            {
+                "arm_group_label": "Pharm tech obtains home med hx", 
+                "arm_group_type": "Experimental", 
+                "description": "Pharmacy technician obtains admission medication history"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "We will test two interventions to improve the accuracy of medication histories obtained at\n      hospital admission. The interventions will target elderly and chronically ill patients prone\n      to erroneous medication histories and resultant medication errors. For targeted patients, we\n      will test the effect of using pharmacists and pharmacy technicians to obtain an initial\n      medication history. This will be studied using a randomized controlled trial of usual care\n      (which involves nurses and physicians) vs usual care + pharmacists vs usual care + pharmacy\n      technicians to obtain an admission medication history.\n\n      Our overarching hypothesis is that by leveraging pharmacists and pharmacy technicians we can\n      minimize admission medication history errors and related downstream events."
+        }, 
+        "brief_title": "Pharmacists and Pharmacy Technicians to Improve Admission Medication History Accuracy", 
+        "completion_date": {
+            "#text": "February 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Adverse Drug Events", 
+        "condition_browse": {
+            "mesh_term": "Drug Toxicity"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. \u2265 10 chronic prescribed meds in electronic health record when patient considered for\n             inclusion\n\n          2. Acute myocardial infarction in problem list\n\n          3. Congestive heart failure in problem list\n\n          4. Admitted from skilled nursing facility\n\n          5. On anticoagulants\n\n          6. On insulin\n\n          7. On narrow therapeutic index drugs:\n\n               1. Carbamazepine\n\n               2. Clindamycin\n\n               3. Clonidine\n\n               4. Cyclosporine\n\n               5. Digoxin\n\n               6. Lithium\n\n               7. Phenytoin\n\n               8. Prazosin\n\n               9. Sirolimus\n\n              10. Tacrolimus\n\n              11. Valproic acid/valproate sodium syrup\n\n        9.   History of transplant\n\n          -  Exclusion (where any exclusion criteria trumps any inclusion criteria):\n\n               1. Admit to pediatric primary\n\n               2. Transplant team listed as being on the Treatment Team\n\n               3. Trauma patient\n\n               4. Patient already randomized in this study"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "300", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "December 31, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02026453", 
+            "org_study_id": "KL2TR000122-00032874"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Pharmacist obtains home med hx", 
+                "intervention_name": "Pharmacist obtains admission medication history", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": "Pharm tech obtains home med hx", 
+                "intervention_name": "Pharmacy technician obtains admission medication history", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": "Adverse drug events", 
+        "lastchanged_date": "December 31, 2013", 
+        "number_of_arms": "3", 
+        "official_title": "Pharmacists and Pharmacy Technicians to Improve Admission Medication History Accuracy", 
+        "overall_official": {
+            "affiliation": "Cedars-Sinai Health System", 
+            "last_name": "Joshua M Pevnick, MD, MSHS", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Not yet recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 2/Phase 3", 
+        "primary_completion_date": {
+            "#text": "February 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "The project was originally funded to measure the effect of these interventions on medication history errors.  We are currently applying for more funding which would allow us to use the more meaningful, more downstream outcome of medication order errors, and this will become the primary outcome if funding for such is received.", 
+            "measure": "Medication History Errors, or Medication Order Errors", 
+            "safety_issue": "Yes", 
+            "time_frame": "within 48 hours of hospital admission"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02026453"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Cedars-Sinai Medical Center", 
+            "investigator_full_name": "Josh Pevnick", 
+            "investigator_title": "Assistant Professor", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "source": "Cedars-Sinai Medical Center", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Cedars-Sinai Medical Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2014", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Health Services Research", 
+        "study_type": "Interventional", 
+        "verification_date": "December 2013"
+    }
+}

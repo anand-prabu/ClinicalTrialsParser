@@ -1,0 +1,1206 @@
+{
+    "clinical_study": {
+        "@rank": "45321", 
+        "arm_group": [
+            {
+                "arm_group_label": "Daily Weight Tracking", 
+                "arm_group_type": "Experimental", 
+                "description": "weighing frequency instructions and tips"
+            }, 
+            {
+                "arm_group_label": "Weekly Weight Tracking", 
+                "arm_group_type": "Experimental", 
+                "description": "weighing frequency instructions and tips"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Scant data have been reported on the effects of weight self-monitoring during weight\n      control. The purpose of this pilot project was to consider the questions: Is it possible to\n      assign participants to engage in daily weight self-monitoring, and are there differential\n      effects on mood of daily versus weekly weighing?"
+        }, 
+        "brief_title": "Self-Weighing Instruction Feasibility Study", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "daily weighing frequency instructions and tips", 
+                            "title": "Daily Weight Tracking"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "weekly weighing frequency instructions and tips", 
+                            "title": "Weekly Weight Tracking"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "15"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "15"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "30"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "15"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "15"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "30"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@spread": "9.5", 
+                                                "@value": "45.0"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@spread": "13.8", 
+                                                "@value": "46.4"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@spread": "11.7", 
+                                                "@value": "45.7"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "10"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "11"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "21"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "5"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "4"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "9"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "15"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "15"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "30"
+                                            }
+                                        ]
+                                    }, 
+                                    "sub_title": "United States"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@spread": "2.97", 
+                                                "@value": "30.99"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@spread": "3.37", 
+                                                "@value": "31.08"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@spread": "3.12", 
+                                                "@value": "31.04"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "description": "Body mass index (BMI) was calculated from height and weight measured by the investigator at baseline.", 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Body Mass Index", 
+                            "units": "kg/m^2"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "limitations_and_caveats": "Small sample size; Absence of instructions that would mimic a weight loss program.", 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_n_sides": "2-Sided", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "method": "Chi-squared", 
+                                "method_desc": "1 degree of freedom", 
+                                "non_inferiority": "Yes", 
+                                "non_inferiority_desc": "Power not calculated due to small sample size and pilot study intent.", 
+                                "p_value": ".15", 
+                                "p_value_desc": "P-value was unadjusted, with an a priori threshold for statistical significance set at p <.05.", 
+                                "param_type": "chi square", 
+                                "param_value": "2.05"
+                            }
+                        }, 
+                        "description": "Participants were assigned to daily or weekly weight tracking, and were asked to return postcards once a week with weights recorded (7 for daily, 1 for weekly).", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "daily weighing frequency instructions and tips", 
+                                    "title": "Daily Weight Tracking"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "weekly weighing frequency instructions and tips", 
+                                    "title": "Weekly Weight Tracking"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "15"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "15"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "98.3"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "96.7"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Participants were assigned to daily or weekly weight tracking, and were asked to return postcards once a week with weights recorded (7 for daily, 1 for weekly).", 
+                                    "param": "Number", 
+                                    "title": "Adherence to Weight Tracking Instructions", 
+                                    "units": "percentage of postcards returned"
+                                }
+                            ]
+                        }, 
+                        "population": "All participants were included in the analysis.", 
+                        "safety_issue": "No", 
+                        "time_frame": "6 months", 
+                        "title": "Adherence to Weight Tracking Instructions", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Repeated measures analysis from baseline to six months.", 
+                                "method": "MANOVA", 
+                                "method_desc": "Degrees of freedom:  2,27", 
+                                "non_inferiority": "Yes", 
+                                "non_inferiority_desc": "Power not calculated due to small sample size and pilot study intent.", 
+                                "p_value": "0.61", 
+                                "p_value_desc": "P-value not adjusted for multiple comparisons; a priori threshold of <0.05 for statistical significance", 
+                                "param_type": "Wilks' Lambda", 
+                                "param_value": "0.96"
+                            }
+                        }, 
+                        "description": "Ratings of depressed mood, assessed by the Beck Depression Inventory, were obtained at baseline, three, and six months; the comparison of depression scores between groups and over time from baseline to 3 and 6 months was considered as a secondary outcome and analyzed using repeated measures multivariate analysis of variance (MANOVA).  Scores on the inventory range from 0 to 63, with higher scores indicating greater presence of depressive symptoms. Scores from 0-10 represent normal mood; 11-16 = mild mood disturbance; 17-20 = borderline clinical depression; 21-30 = moderate depression; 31-40 = severe depression; > 40 = extreme depression.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "daily weighing frequency instructions and tips", 
+                                    "title": "Daily Weight Tracking"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "weekly weighing frequency instructions and tips", 
+                                    "title": "Weekly Weight Tracking"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "15"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "15"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "3.5", 
+                                                            "@value": "3.6"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "4.4", 
+                                                            "@value": "6.3"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "baseline depression"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "4.4", 
+                                                            "@value": "3.9"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "4.1", 
+                                                            "@value": "7.1"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "3-month depression"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "5.6", 
+                                                            "@value": "4.8"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "6.1", 
+                                                            "@value": "6.7"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "6-month depression"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "Ratings of depressed mood, assessed by the Beck Depression Inventory, were obtained at baseline, three, and six months; the comparison of depression scores between groups and over time from baseline to 3 and 6 months was considered as a secondary outcome and analyzed using repeated measures multivariate analysis of variance (MANOVA).  Scores on the inventory range from 0 to 63, with higher scores indicating greater presence of depressive symptoms. Scores from 0-10 represent normal mood; 11-16 = mild mood disturbance; 17-20 = borderline clinical depression; 21-30 = moderate depression; 31-40 = severe depression; > 40 = extreme depression.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Changes in Depression Ratings", 
+                                    "units": "units on a scale"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "Yes", 
+                        "time_frame": "baseline to 6 months", 
+                        "title": "Changes in Depression Ratings", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Repeated measures analysis from baseline to six months.", 
+                                "method": "MANOVA", 
+                                "method_desc": "Degrees of freedom:  2,27", 
+                                "non_inferiority": "Yes", 
+                                "non_inferiority_desc": "Power not calculated due to small sample size and pilot study intent.", 
+                                "p_value": "0.50", 
+                                "p_value_desc": "P-value is unadjusted; a priori threshold for statistical significance was <0.05.", 
+                                "param_type": "Wilks' Lambda", 
+                                "param_value": "0.95"
+                            }
+                        }, 
+                        "description": "Ratings of anxiety, assessed by the Beck Anxiety Inventory, were assessed at baseline, three, and six months; a comparison of anxiety scores between groups and over time from baseline to 3 and 6 months was considered a secondary outcome and analyzed using repeated measures MANOVA. Possible scores on the scale range from 0-63. Scores from 0-7 indicate minimal anxiety; 8-15 = mild anxiety; 16-25 = moderate anxiety; 26-63 = severe anxiety.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "daily weighing frequency instructions and tips", 
+                                    "title": "Daily Weight Tracking"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "weekly weighing frequency instructions and tips", 
+                                    "title": "Weekly Weight Tracking"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "15"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "15"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "2.9", 
+                                                            "@value": "2.3"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "5.0", 
+                                                            "@value": "5.7"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "baseline anxiety"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "3.5", 
+                                                            "@value": "2.7"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "4.5", 
+                                                            "@value": "5.8"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "3-month anxiety"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "6.0", 
+                                                            "@value": "3.9"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "4.6", 
+                                                            "@value": "5.3"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "6-month anxiety"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "Ratings of anxiety, assessed by the Beck Anxiety Inventory, were assessed at baseline, three, and six months; a comparison of anxiety scores between groups and over time from baseline to 3 and 6 months was considered a secondary outcome and analyzed using repeated measures MANOVA. Possible scores on the scale range from 0-63. Scores from 0-7 indicate minimal anxiety; 8-15 = mild anxiety; 16-25 = moderate anxiety; 26-63 = severe anxiety.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Changes in Anxiety", 
+                                    "units": "units on a scale"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "baseline to 6 months", 
+                        "title": "Changes in Anxiety", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Repeated measures analysis from baseline to six months.", 
+                                "method": "MANOVA", 
+                                "method_desc": "Degrees of freedom:  2,27", 
+                                "non_inferiority": "Yes", 
+                                "non_inferiority_desc": "Power not calculated due to small sample size and pilot study intent.", 
+                                "p_value": "0.15", 
+                                "p_value_desc": "P-value not adjusted for multiple comparisons; a priori threshold for statistical significance was <0.05.", 
+                                "param_type": "Wilks' Lambda", 
+                                "param_value": "0.87"
+                            }
+                        }, 
+                        "description": "Changes in self-reported body image were assessed at baseline, three, and six months using the Appearance subscale of the Multidimensional Body Image Questionnaire. The subscale has a range of 0 to 42, with higher scores indicating better body image. A comparison of body image scores between groups and over time from baseline to 3 and 6 months was considered a secondary outcome and analyzed using repeated measures MANOVA.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "daily weighing frequency instructions and tips", 
+                                    "title": "Daily Weight Tracking"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "weekly weighing frequency instructions and tips", 
+                                    "title": "Weekly Weight Tracking"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "15"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "15"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "7.0", 
+                                                            "@value": "20.1"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "8.0", 
+                                                            "@value": "19.1"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "baseline body image"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "4.9", 
+                                                            "@value": "22.6"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "8.6", 
+                                                            "@value": "17.9"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "3-month body image"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "5.9", 
+                                                            "@value": "21.4"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "8.7", 
+                                                            "@value": "18.5"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "6-month body image"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "Changes in self-reported body image were assessed at baseline, three, and six months using the Appearance subscale of the Multidimensional Body Image Questionnaire. The subscale has a range of 0 to 42, with higher scores indicating better body image. A comparison of body image scores between groups and over time from baseline to 3 and 6 months was considered a secondary outcome and analyzed using repeated measures MANOVA.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Changes in Body Image", 
+                                    "units": "units on a scale"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "baseline to 6 months", 
+                        "title": "Changes in Body Image", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Repeated measures analysis from baseline to six months.", 
+                                "method": "MANOVA", 
+                                "method_desc": "Degrees of freedom: 2,26", 
+                                "non_inferiority": "Yes", 
+                                "non_inferiority_desc": "Power not calculated due to small sample size and pilot study intent.", 
+                                "p_value": "0.30", 
+                                "p_value_desc": "P-value not adjusted for multiple comparisons; a priori threshold for statistical significance was <0.05.", 
+                                "param_type": "Wilks' Lambda", 
+                                "param_value": "0.91"
+                            }
+                        }, 
+                        "description": "Perceived barriers to self-weighing were assessed at baseline, three, and six months using a scale created for this study. The scale has a range of 18 to 90, with higher scores indicating greater perceptions of barriers to self-weighing. A comparison of barriers scores between groups and over time from baseline to 3 and 6 months was considered a secondary outcome and analyzed using repeated measures MANOVA.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "daily weighing frequency instructions and tips", 
+                                    "title": "Daily Weight Tracking"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "weekly weighing frequency instructions and tips", 
+                                    "title": "Weekly Weight Tracking"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "14"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "15"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "13.1", 
+                                                            "@value": "39.7"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "14.7", 
+                                                            "@value": "46.7"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "baseline barriers"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "9.0", 
+                                                            "@value": "27.5"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "9.5", 
+                                                            "@value": "37.3"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "3-month barriers"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "12.9", 
+                                                            "@value": "30.7"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "12.4", 
+                                                            "@value": "34.3"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "6-month barriers"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "Perceived barriers to self-weighing were assessed at baseline, three, and six months using a scale created for this study. The scale has a range of 18 to 90, with higher scores indicating greater perceptions of barriers to self-weighing. A comparison of barriers scores between groups and over time from baseline to 3 and 6 months was considered a secondary outcome and analyzed using repeated measures MANOVA.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Changes in Barriers to Weight Tracking", 
+                                    "units": "units on a scale"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "baseline to 6 months", 
+                        "title": "Changes in Barriers to Weight Tracking", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Repeated measures analysis from three to six months.", 
+                                "method": "MANOVA", 
+                                "method_desc": "Degrees of freedom: 1,28", 
+                                "non_inferiority": "Yes", 
+                                "non_inferiority_desc": "Power not calculated due to small sample size and pilot study intent.", 
+                                "p_value": "0.17", 
+                                "p_value_desc": "P-value not adjusted for multiple comparisons; a priori threshold for statistical significance was <0.05.", 
+                                "param_type": "Wilks' Lambda", 
+                                "param_value": "0.93"
+                            }
+                        }, 
+                        "description": "Perceptions of weight tracking (ease of remembering and understanding, usefulness, awareness, interest, reward value, satisfaction, motivational value) were assessed at three and six months using a scale created for the study. The scale has a range of 0 to 64, with higher scores indicating greater perceptions of favorability of weight tracking. A comparison of perceptions scores between groups and over time from  3 and 6 months was considered a secondary outcome and analyzed using repeated measures MANOVA.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "daily weighing frequency instructions and tips", 
+                                    "title": "Daily Weight Tracking"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "weekly weighing frequency instructions and tips", 
+                                    "title": "Weekly Weight Tracking"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "15"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "15"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "10.6", 
+                                                            "@value": "47.7"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "10.2", 
+                                                            "@value": "40.4"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "3-month perceptions"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "10.0", 
+                                                            "@value": "48.2"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "7.7", 
+                                                            "@value": "45.0"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "6-month perceptions"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "Perceptions of weight tracking (ease of remembering and understanding, usefulness, awareness, interest, reward value, satisfaction, motivational value) were assessed at three and six months using a scale created for the study. The scale has a range of 0 to 64, with higher scores indicating greater perceptions of favorability of weight tracking. A comparison of perceptions scores between groups and over time from  3 and 6 months was considered a secondary outcome and analyzed using repeated measures MANOVA.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Changes in Perceptions of Weight Tracking", 
+                                    "units": "units on a scale"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "three to six months", 
+                        "title": "Changes in Perceptions of Weight Tracking", 
+                        "type": "Secondary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "daily weighing frequency instructions and tips", 
+                            "title": "Daily Weight Tracking"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "weekly weighing frequency instructions and tips", 
+                            "title": "Weekly Weight Tracking"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "15", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "15", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "15", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "15", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "recruitment_details": "Participants recruited in Sept-Oct 2009 from craigslist.com ads and flyers in a University of Minnesota office building. 58 contacted the study and 28 were excluded [did not complete screening (n=10), not eligible due to weight or health exclusions (n=15), or withdrew before consent (n=3)], resulting in a final sample of 30 participants."
+            }, 
+            "point_of_contact": {
+                "email": "linde074@umn.edu", 
+                "name_or_title": "Dr. Jennifer Linde", 
+                "organization": "University of Minnesota", 
+                "phone": "612-624-0065"
+            }
+        }, 
+        "completion_date": {
+            "#text": "May 2010", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Weight Loss", 
+            "Body Weight"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Body Weight", 
+                "Weight Loss"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "This study tested the feasibility of assigning participants to daily or weekly weighing,\n      monitored adherence to weighing instructions, and tracked additional behavioral and\n      psychosocial indicators over a period of six months. It was hypothesized that there would be\n      no differences in mood or adherence between daily versus weekly weighing conditions.\n      Knowledge about the benefits of frequent self-weighing may shape public health\n      recommendations for regular weighing as a weight reduction or obesity prevention strategy."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Body mass index between 25 and 35 kg/m2\n\n        Exclusion Criteria:\n\n          -  Current weight loss program participation\n\n          -  Chronic health conditions (diabetes, cancer, heart disease, psychiatric disorders\n             requiring medication)\n\n          -  Current or past eating disorder\n\n          -  Current pregnancy or pregnant in past year"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "64 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "30", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "October 16, 2013", 
+        "firstreceived_results_date": "October 22, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01966926", 
+            "org_study_id": "GIA21417"
+        }, 
+        "intervention": {
+            "arm_group_label": [
+                "Daily Weight Tracking", 
+                "Weekly Weight Tracking"
+            ], 
+            "description": "Weekly emails with nutrition, physical activity, and weight tracking tips sent for 24 weeks", 
+            "intervention_name": "weighing frequency instructions and tips", 
+            "intervention_type": "Behavioral"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "self monitoring", 
+            "self weighing", 
+            "weight tracking", 
+            "psychosocial outcomes", 
+            "feasibility"
+        ], 
+        "lastchanged_date": "February 7, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Minneapolis", 
+                    "country": "United States", 
+                    "state": "Minnesota", 
+                    "zip": "55454"
+                }, 
+                "name": "University of Minnesota"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Self-Weighing Instruction Feasibility Study", 
+        "overall_official": {
+            "affiliation": "University of Minnesota - Clinical and Translational Science Institute", 
+            "last_name": "Jennifer A Linde, Ph.D.", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "May 2010", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Participants were assigned to daily or weekly weight tracking, and were asked to return postcards once a week with weights recorded (7 for daily, 1 for weekly).", 
+            "measure": "Adherence to Weight Tracking Instructions", 
+            "safety_issue": "No", 
+            "time_frame": "6 months"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01966926"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Ratings of depressed mood, assessed by the Beck Depression Inventory, were obtained at baseline, three, and six months; the comparison of depression scores between groups and over time from baseline to 3 and 6 months was considered as a secondary outcome and analyzed using repeated measures multivariate analysis of variance (MANOVA).  Scores on the inventory range from 0 to 63, with higher scores indicating greater presence of depressive symptoms. Scores from 0-10 represent normal mood; 11-16 = mild mood disturbance; 17-20 = borderline clinical depression; 21-30 = moderate depression; 31-40 = severe depression; > 40 = extreme depression.", 
+                "measure": "Changes in Depression Ratings", 
+                "safety_issue": "Yes", 
+                "time_frame": "baseline to 6 months"
+            }, 
+            {
+                "description": "Ratings of anxiety, assessed by the Beck Anxiety Inventory, were assessed at baseline, three, and six months; a comparison of anxiety scores between groups and over time from baseline to 3 and 6 months was considered a secondary outcome and analyzed using repeated measures MANOVA. Possible scores on the scale range from 0-63. Scores from 0-7 indicate minimal anxiety; 8-15 = mild anxiety; 16-25 = moderate anxiety; 26-63 = severe anxiety.", 
+                "measure": "Changes in Anxiety", 
+                "safety_issue": "No", 
+                "time_frame": "baseline to 6 months"
+            }, 
+            {
+                "description": "Changes in self-reported body image were assessed at baseline, three, and six months using the Appearance subscale of the Multidimensional Body Image Questionnaire. The subscale has a range of 0 to 42, with higher scores indicating better body image. A comparison of body image scores between groups and over time from baseline to 3 and 6 months was considered a secondary outcome and analyzed using repeated measures MANOVA.", 
+                "measure": "Changes in Body Image", 
+                "safety_issue": "No", 
+                "time_frame": "baseline to 6 months"
+            }, 
+            {
+                "description": "Perceived barriers to self-weighing were assessed at baseline, three, and six months using a scale created for this study. The scale has a range of 18 to 90, with higher scores indicating greater perceptions of barriers to self-weighing. A comparison of barriers scores between groups and over time from baseline to 3 and 6 months was considered a secondary outcome and analyzed using repeated measures MANOVA.", 
+                "measure": "Changes in Barriers to Weight Tracking", 
+                "safety_issue": "No", 
+                "time_frame": "baseline to 6 months"
+            }, 
+            {
+                "description": "Perceptions of weight tracking (ease of remembering and understanding, usefulness, awareness, interest, reward value, satisfaction, motivational value) were assessed at three and six months using a scale created for the study. The scale has a range of 0 to 64, with higher scores indicating greater perceptions of favorability of weight tracking. A comparison of perceptions scores between groups and over time from  3 and 6 months was considered a secondary outcome and analyzed using repeated measures MANOVA.", 
+                "measure": "Changes in Perceptions of Weight Tracking", 
+                "safety_issue": "No", 
+                "time_frame": "three to six months"
+            }
+        ], 
+        "source": "University of Minnesota - Clinical and Translational Science Institute", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of Minnesota - Clinical and Translational Science Institute", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "October 2009", 
+        "study_design": "Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Open Label", 
+        "study_type": "Interventional", 
+        "verification_date": "February 2014"
+    }
+}

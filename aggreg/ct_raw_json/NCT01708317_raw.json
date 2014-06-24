@@ -1,0 +1,572 @@
+{
+    "clinical_study": {
+        "@rank": "29957", 
+        "arm_group": {
+            "arm_group_label": "ACASI", 
+            "arm_group_type": "Other", 
+            "description": "The group of patients that agreed to participate in the study and answer questions on our Audio-enhanced Computer-Assisted Self-Interview (ACASI)"
+        }, 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to determine if an Audio-enhanced Computer-Assisted\n      Self-Interview (ACASI) will lead to increase testing for sexually transmitted infections in\n      youth visiting a pediatric ED"
+        }, 
+        "brief_title": "Computer-Assisted Self-Interviews and Health Screening in the Pediatric Emergency Department", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "B1", 
+                        "description": "The group of patients that agreed to participate in the study and answer questions on our Audio-enhanced Computer-Assisted Self-Interview (ACASI)\nACASI : Youth who participated in this study completed the ACASI -- they provided details about their sexual history, and the software program used their responses to create a recommendation for chlamydia/gonorrhea testing.  The information obtained through the ACASI was integrated into the emergency department (ED) electronic medical record.  ED physicians and nurses were able to review the information and order chlamydia/gonorrhea testing if needed.\nWe compared testing over 4 time periods: 2010 (baseline), Jan - April 17, 2011 (education only), April 18-2011 - Dec 20, 2011 (education + enrollment in ACASI), and Dec 21, 2011 - March 31, 2012 (education only, ACASI enrollment stopped.", 
+                        "title": "ACASI"
+                    }
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "8421"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "7042"
+                                            }
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "1379"
+                                            }
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@spread": "1.3", 
+                                            "@value": "17.0"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "4643"
+                                            }
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "3778"
+                                            }
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "8421"
+                                        }
+                                    }, 
+                                    "sub_title": "United States"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": {
+                    "analysis_list": {
+                        "analysis": {
+                            "group_id_list": {
+                                "group_id": [
+                                    "O1", 
+                                    "O2", 
+                                    "O3", 
+                                    "O4"
+                                ]
+                            }, 
+                            "groups_desc": "We compared testing in the 4 time frames described, including the time frame in which we enrolled patients in the ACASI.", 
+                            "method": "Chi-squared", 
+                            "method_desc": "3 degrees of freedom to compare 4 time periods.", 
+                            "non_inferiority": "No", 
+                            "p_value": "<.001", 
+                            "p_value_desc": "We used a cutoff of P<0.05 as statistically significant.", 
+                            "param_type": "Mean Difference (Final Values)", 
+                            "param_value": "5"
+                        }
+                    }, 
+                    "description": "The primary outcome was change in the proportion of adolescent patients receiving chlamydia and gonorrhea testing rates during their ED visit over 4 time periods.\nPeriod 1) 2010 testing as a historical control Period 2) Jan 2011, began providing staff education about the risks of gonorrhea/chlamydia and need for increased testing Period 3) Education continues, but enrolled patients in the ACASI from April 18, 2011 - Dec 20, 2011.\nPeriod 4) ACASI enrollment completed, education continued through March 2012\nWe specifically analyzed gonorrhea/chlamydia testing among ED patients that would have been eligible to take the ACASI, had it been continuously available throughout these time periods.  We did this to isolate the effects on testing by the ACASI vs. education alone.", 
+                    "group_list": {
+                        "group": [
+                            {
+                                "@group_id": "O1", 
+                                "description": "Participants seen in SLCH ED in 2010 that met ACASI inclusion/exclusion criteria", 
+                                "title": "Historical Control"
+                            }, 
+                            {
+                                "@group_id": "O2", 
+                                "description": "Participants seen in SLCH ED Jan 1 - April 17 2011 during initial education period that met ACASI inclusion/exclusion criteria", 
+                                "title": "Initial Education Period"
+                            }, 
+                            {
+                                "@group_id": "O3", 
+                                "description": "Participants seen in SLCH ED April 18 - Dec 20 2011 that met ACASI inclusion/exclusion criteria.  During this period education continued and ACASI enrollment was conducted.", 
+                                "title": "ACASI + Education"
+                            }, 
+                            {
+                                "@group_id": "O4", 
+                                "description": "Participants seen in SLCH ED Dec 21, 2011 through March 2012 that met ACASI inclusion/exclusion criteria.  During this period education continued and no ACASI enrollment was conducted.", 
+                                "title": "Final Education Period"
+                            }
+                        ]
+                    }, 
+                    "measure_list": {
+                        "measure": [
+                            {
+                                "category_list": {
+                                    "category": {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "O1", 
+                                                    "@value": "3929"
+                                                }, 
+                                                {
+                                                    "@group_id": "O2", 
+                                                    "@value": "982"
+                                                }, 
+                                                {
+                                                    "@group_id": "O3", 
+                                                    "@value": "2601"
+                                                }, 
+                                                {
+                                                    "@group_id": "O4", 
+                                                    "@value": "909"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }, 
+                                "param": "Number", 
+                                "title": "Number of Participants", 
+                                "units": "participants"
+                            }, 
+                            {
+                                "category_list": {
+                                    "category": {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "O1", 
+                                                    "@value": "9.7"
+                                                }, 
+                                                {
+                                                    "@group_id": "O2", 
+                                                    "@value": "9.3"
+                                                }, 
+                                                {
+                                                    "@group_id": "O3", 
+                                                    "@value": "17.8"
+                                                }, 
+                                                {
+                                                    "@group_id": "O4", 
+                                                    "@value": "12.4"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }, 
+                                "description": "The primary outcome was change in the proportion of adolescent patients receiving chlamydia and gonorrhea testing rates during their ED visit over 4 time periods.\nPeriod 1) 2010 testing as a historical control Period 2) Jan 2011, began providing staff education about the risks of gonorrhea/chlamydia and need for increased testing Period 3) Education continues, but enrolled patients in the ACASI from April 18, 2011 - Dec 20, 2011.\nPeriod 4) ACASI enrollment completed, education continued through March 2012\nWe specifically analyzed gonorrhea/chlamydia testing among ED patients that would have been eligible to take the ACASI, had it been continuously available throughout these time periods.  We did this to isolate the effects on testing by the ACASI vs. education alone.", 
+                                "param": "Number", 
+                                "title": "Gonorrhea and Chlamydia Testing in the Pediatric ED", 
+                                "units": "percentage of participants"
+                            }
+                        ]
+                    }, 
+                    "population": "We analyzed every patient in this time period that met our ACASI inclusion/exclusion criteria", 
+                    "safety_issue": "No", 
+                    "time_frame": "27 months", 
+                    "title": "Gonorrhea and Chlamydia Testing in the Pediatric ED", 
+                    "type": "Primary"
+                }
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "P1", 
+                        "description": "The group of patients that agreed to participate in the study and answer questions on our Audio-enhanced Computer-Assisted Self-Interview (ACASI)\nACASI : Youth who participated in this study completed the ACASI -- they provided details about their sexual history, and the software program used their responses to create a recommendation for chlamydia/gonorrhea testing.  The information obtained through the ACASI was integrated into the emergency department (ED) electronic medical record.  ED physicians and nurses were able to review the information and order chlamydia/gonorrhea testing if needed.\nWe compared testing over 4 time periods: 2010 (baseline), Jan - April 17, 2011 (education only), April 18-2011 - Dec 20, 2011 (education + enrollment in ACASI), and Dec 21, 2011 - March 31, 2012 (education only, ACASI enrollment stopped.", 
+                        "title": "ACASI"
+                    }
+                }, 
+                "period_list": {
+                    "period": [
+                        {
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": {
+                                                "#text": "# of ED patients eligible for ACASI, had it been available, in control period", 
+                                                "@count": "3929", 
+                                                "@group_id": "P1"
+                                            }
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": {
+                                                "@count": "3929", 
+                                                "@group_id": "P1"
+                                            }
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "2010 Control Period"
+                        }, 
+                        {
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": {
+                                                "#text": "# of ED patients eligible for ACASI, had it been available, in initial education period", 
+                                                "@count": "982", 
+                                                "@group_id": "P1"
+                                            }
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": {
+                                                "@count": "982", 
+                                                "@group_id": "P1"
+                                            }
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Initial Education Period"
+                        }, 
+                        {
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": {
+                                                "#text": "# of ED patients eligible for ACASI in the period the ACASI was actually available.", 
+                                                "@count": "2601", 
+                                                "@group_id": "P1"
+                                            }
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": {
+                                                "@count": "2601", 
+                                                "@group_id": "P1"
+                                            }
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "ACASI + Education Period"
+                        }, 
+                        {
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": {
+                                                "#text": "# of ED patients eligible for ACASI, had it been available, in final education period", 
+                                                "@count": "909", 
+                                                "@group_id": "P1"
+                                            }
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": {
+                                                "@count": "909", 
+                                                "@group_id": "P1"
+                                            }
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Final Education Period"
+                        }
+                    ]
+                }, 
+                "pre_assignment_details": "There was an education lead in before introducing the ACASI, to see if education alone would increase the amount of patients receiving gonorrhea/chlamydia testing.  The education started in Jan, 2011 and continued the remainder of the study period.", 
+                "recruitment_details": "We monitored overall testing in the ED from Jan 2010 - March 2012, but only actively enrolled patients from April 18, 2011 - Dec 20, 2011.  All ACASI participants were patients in the St. Louis Children's Hospital ER."
+            }, 
+            "point_of_contact": {
+                "email": "ahmad_f@kids.wustl.edu", 
+                "name_or_title": "Dr. Fahd A Ahmad", 
+                "organization": "Washington University School of Medicine", 
+                "phone": "314-286-0298"
+            }
+        }, 
+        "completion_date": {
+            "#text": "March 2012", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Gonorrhea", 
+            "Chlamydia"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Chlamydia Infections", 
+                "Emergencies", 
+                "Gonorrhea"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "The purpose of this study is to see if computer based health surveys for teenagers and young\n      adults in the emergency department can improve the care we give, even for things that are\n      not related to why they came to the emergency department.\n\n      Topics that are important in this age range include depression, violence, sexual behavior,\n      physical activity and nutrition, though we are not asking about all of these.\n\n      WHAT WILL HAPPEN DURING THIS STUDY?\n\n      We wish to respect the privacy of everyone takes this survey.  In order to do this, we are\n      asking all relatives including your parents or guardians to respect several things so that\n      you may participate:\n\n        -  We cannot tell family or friends the exact questions on the survey\n\n        -  You must be given complete privacy to answer the questions\n\n        -  The answers will only be shown to the healthcare team taking care of them today and the\n           people running the study - family members will not be shown the answers\n\n        -  Family and friends will not pressure you to discuss the survey or their answers after\n           you are done\n\n        -  You will be given privacy to discuss their answers with the healthcare team\n\n      If you do not feel your friends and family can respect these requests, then you cannot take\n      the survey and cannot enroll in the study.\n\n      If you agree to these requests, we will use a private area and allow you to use a computer\n      to do the following:\n\n        -  Explain in more detail what types of questions we will ask and why they are important\n\n        -  Tell you how we will use your answers to improve their health care\n\n        -  Give you a chance to answer any questions you have about the study\n\n        -  Answer a series of questions about yourself and your health\n\n      You are allowed to skip any questions you do not want to answer and can stop at any time.\n\n      After you have completed the survey, a summary of your answers will become part of your\n      medical record from today and be shown to the doctors and nurses taking care of you today.\n\n      Most participants will be asked to review their answers in private with the doctors and\n      nurses taking care of them.  If you do, your family and friends will be asked to step out of\n      the room while you review the answers with the doctors and nurses.\n\n      Some participants may have additional testing or services done as part of their visit today\n      based on their answers"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patient in the St. Louis Children's Hospital Emergency Department\n\n          -  15-21 years old\n\n        Exclusion Criteria:\n\n          -  Evaluation of abuse or sexual assault\n\n          -  Activation of the trauma system,\n\n          -  Level 1 or 2 triage scores (highest severity)\n\n          -  Disabilities preventing independent computer use\n\n          -  Psychiatric chief complaints\n\n          -  Inability to speak English"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "21 Years", 
+            "minimum_age": "15 Years"
+        }, 
+        "enrollment": {
+            "#text": "801", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "October 9, 2012", 
+        "firstreceived_results_date": "October 17, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01708317", 
+            "org_study_id": "20110243"
+        }, 
+        "intervention": {
+            "arm_group_label": "ACASI", 
+            "description": "Youth who participated in this study completed the ACASI -- they provided details about their sexual history, and the software program used their responses to create a recommendation for chlamydia/gonorrhea testing.  The information obtained through the ACASI was integrated into the emergency department (ED) electronic medical record.  ED physicians and nurses were able to review the information and order chlamydia/gonorrhea testing if needed.", 
+            "intervention_name": "ACASI", 
+            "intervention_type": "Behavioral"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "ACASI", 
+            "Gonorrhea", 
+            "Chlamydia", 
+            "Emergency Department", 
+            "Youth", 
+            "Adolescents", 
+            "Computer", 
+            "Questionnaire"
+        ], 
+        "lastchanged_date": "December 4, 2012", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "St. Louis", 
+                    "country": "United States", 
+                    "state": "Missouri", 
+                    "zip": "63110"
+                }, 
+                "name": "St. Louis Children's Hospital"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "The Use of Computer-Assisted Self-Interviews to Improve Adolescent and Young Adult Health Screening in the Pediatric Emergency Department", 
+        "overall_official": {
+            "affiliation": "Washington University School of Medicine", 
+            "last_name": "Fahd A Ahmad, MD, MSCI", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "December 2011", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "The primary outcome was change in the proportion of adolescent patients receiving chlamydia and gonorrhea testing rates during their ED visit over 4 time periods.\nPeriod 1) 2010 testing as a historical control Period 2) Jan 2011, began providing staff education about the risks of gonorrhea/chlamydia and need for increased testing Period 3) Education continues, but enrolled patients in the ACASI from April 18, 2011 - Dec 20, 2011.\nPeriod 4) ACASI enrollment completed, education continued through March 2012\nWe specifically analyzed gonorrhea/chlamydia testing among ED patients that would have been eligible to take the ACASI, had it been continuously available throughout these time periods.  We did this to isolate the effects on testing by the ACASI vs. education alone.", 
+            "measure": "Gonorrhea and Chlamydia Testing in the Pediatric ED", 
+            "safety_issue": "No", 
+            "time_frame": "27 months"
+        }, 
+        "reference": [
+            {
+                "PMID": "10736120", 
+                "citation": "Porter SC, Silvia MT, Fleisher GR, Kohane IS, Homer CJ, Mandl KD. Parents as direct contributors to the medical record: validation of their electronic input. Ann Emerg Med. 2000 Apr;35(4):346-52."
+            }, 
+            {
+                "PMID": "12528879", 
+                "citation": "Bachman JW. The patient-computer interview: a neglected tool that can aid the clinician. Mayo Clin Proc. 2003 Jan;78(1):67-78. Review."
+            }, 
+            {
+                "PMID": "10566380", 
+                "citation": "Porter SC, Mandl KD. Data quality and the electronic medical record: a role for direct parental data entry. Proc AMIA Symp. 1999:354-8."
+            }, 
+            {
+                "PMID": "15298999", 
+                "citation": "Porter SC, Cai Z, Gribbons W, Goldmann DA, Kohane IS. The asthma kiosk: a patient-centered technology for collaborative decision support in the emergency department. J Am Med Inform Assoc. 2004 Nov-Dec;11(6):458-67. Epub 2004 Aug 6."
+            }, 
+            {
+                "PMID": "10926124", 
+                "citation": "Williams ML, Freeman RC, Bowen AM, Zhao Z, Elwood WN, Gordon C, Young P, Rusek R, Signes CA. A comparison of the reliability of self-reported drug use and sexual behaviors using computer-assisted versus face-to-face interviewing. AIDS Educ Prev. 2000 Jun;12(3):199-213."
+            }, 
+            {
+                "PMID": "10342804", 
+                "citation": "Kissinger P, Rice J, Farley T, Trim S, Jewitt K, Margavio V, Martin DH. Application of computer-assisted interviews to sexual behavior research. Am J Epidemiol. 1999 May 15;149(10):950-4."
+            }, 
+            {
+                "PMID": "6631616", 
+                "citation": "Millstein SG, Irwin CE Jr. Acceptability of computer-acquired sexual histories in adolescent girls. J Pediatr. 1983 Nov;103(5):815-9."
+            }, 
+            {
+                "PMID": "15572639", 
+                "citation": "Hewett PC, Mensch BS, Erulkar AS. Consistency in the reporting of sexual behaviour by adolescent girls in Kenya: a comparison of interviewing methods. Sex Transm Infect. 2004 Dec;80 Suppl 2:ii43-8."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01708317"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Washington University School of Medicine", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "St. Louis Children's Hospital", 
+                "agency_class": "Other"
+            }, 
+            "lead_sponsor": {
+                "agency": "Washington University School of Medicine", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "April 2011", 
+        "study_design": "Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Screening", 
+        "study_type": "Interventional", 
+        "verification_date": "December 2012"
+    }
+}

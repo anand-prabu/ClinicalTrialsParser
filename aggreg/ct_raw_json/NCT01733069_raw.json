@@ -1,0 +1,793 @@
+{
+    "clinical_study": {
+        "@rank": "117555", 
+        "arm_group": {
+            "arm_group_label": "No treatment"
+        }, 
+        "biospec_descr": {
+            "textblock": "4 specimens will be collected from each female subject in the following order: 1 first-catch\n      urine specimen, 1 vaginal swab specimen (patient or clinician-collected), 1 cervical\n      specimen (using a broomlike collection device or a brush/spatula combination), and 1\n      endocervical swab specimen. An additional cervical specimen may be collected from female\n      subjects for other clinical trial purposes or research studies. Up to 2 specimens will be\n      collected from each male subject in the following order: 1 urethral swab specimen and 1\n      first-catch urine specimen"
+        }, 
+        "biospec_retention": "Samples With DNA", 
+        "brief_summary": {
+            "textblock": "The objectives of this study are to establish the performance characteristics of the AC2\n      (APTIMA Combo 2) Assay on the PANTHER System for the sample types cleared for use on the\n      TIGRIS and DTS (Direct Tube Sampling) Systems and to demonstrate the repeatability and\n      reproducibility of the AC2 Assay on the PANTHER System."
+        }, 
+        "brief_title": "Clinical Evaluation of the APTIMA\u00ae COMBO 2\u00ae Assay Using the PANTHER\u2122 System", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "The Infected status algorithm used results from two specimen types and two reference types and two reference Nucleic Acid Amplification Tests (NAATs).  Subjects were categorized as infected if a positive result occurred in each of the two reference NAATs.  For female subjects, if positive NAAT result occurred only in the urine specimens and not in PreservCyt solution liquid pap specimens, the subject was categorized as infected; however for the evaluation of the non-urine specimen types, the specimens were considered non-infected.  Subjects that could not be categorizes as infected or non-infected were excluded from the performance analyses", 
+                            "title": "Positive Infected Status"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "The Infected status algorithm used results from two specimen types and two reference types and two reference Nucleic Acid Amplification Tests (NAATs).  Subjects were categorized as infected if a positive result occurred in each of the two reference NAATs.  For female subjects, if positive NAAT result occurred only in the urine specimens and not in PreservCyt solution liquid pap specimens, the subject was categorized as infected; however for the evaluation of the non-urine specimen types, the specimens were considered non-infected.  Subjects that could not be categorizes as infected or non-infected were excluded from the performance analyses", 
+                            "title": "Negative Infected Status"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "264"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "1598"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "1862"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "30"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "146"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "176"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "234"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "1449"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "1683"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "3"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "3"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@spread": "5.5", 
+                                                "@value": "23.5"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@spread": "9.8", 
+                                                "@value": "28.1"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@spread": "9.5", 
+                                                "@value": "27.4"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "143"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "1170"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "1313"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "121"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "428"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "549"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "264"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "1598"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "1862"
+                                            }
+                                        ]
+                                    }, 
+                                    "sub_title": "United States"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }, 
+                "population": "Symptomatic and asymptomatic men (n=549)  and women (n=1313) enrolled from seven geographically and ethnically diverse US clinical sites, including obstetrics and gynecology, family planning, public health, and STD clinics."
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "The only disclosure restriction on the PI is that the sponsor can review results communications prior to public release and can embargo communications regarding trial results for a period that is less than or equal to 60 days. The sponsor cannot require changes to the communication and cannot extend the embargo."
+            }, 
+            "outcome_list": {
+                "outcome": {
+                    "description": "Count of participants having a positive or negative APTIMA Combo 2 assay result (sensitivity and specificity)", 
+                    "group_list": {
+                        "group": [
+                            {
+                                "@group_id": "O1", 
+                                "description": "The Infected status algorithm used results from two specimen types and two reference types and two reference Nucleic Acid Amplification Tests (NAATs).  Subjects were categorized as infected if a positive result occurred in each of the two reference NAATs.  For female subjects, if positive NAAT result occurred only in the urine specimens and not in PreservCyt solution liquid pap specimens, the subject was categorized as infected; however for the evaluation of the non-urine specimen types, the specimens were considered non-infected.  Subjects that could not be categorizes as infected or non-infected were excluded from the performance analyses", 
+                                "title": "Positive Infected Status"
+                            }, 
+                            {
+                                "@group_id": "O2", 
+                                "description": "The Infected status algorithm used results from two specimen types and two reference types and two reference Nucleic Acid Amplification Tests (NAATs).  Subjects were categorized as infected if a positive result occurred in each of the two reference NAATs.  For female subjects, if positive NAAT result occurred only in the urine specimens and not in PreservCyt solution liquid pap specimens, the subject was categorized as infected; however for the evaluation of the non-urine specimen types, the specimens were considered non-infected.  Subjects that could not be categorizes as infected or non-infected were excluded from the performance analyses", 
+                                "title": "Negative Infected Status"
+                            }
+                        ]
+                    }, 
+                    "measure_list": {
+                        "measure": [
+                            {
+                                "category_list": {
+                                    "category": {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "O1", 
+                                                    "@value": "264"
+                                                }, 
+                                                {
+                                                    "@group_id": "O2", 
+                                                    "@value": "1598"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }, 
+                                "param": "Number", 
+                                "title": "Number of Participants", 
+                                "units": "participants"
+                            }, 
+                            {
+                                "category_list": {
+                                    "category": [
+                                        {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "104"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "18"
+                                                    }
+                                                ]
+                                            }, 
+                                            "sub_title": "Vaginal Swab for CT, AC2 pos (females)"
+                                        }, 
+                                        {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "3"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "1149"
+                                                    }
+                                                ]
+                                            }, 
+                                            "sub_title": "Vaginal Swab for CT, AC2 neg (females)"
+                                        }, 
+                                        {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "112"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "0"
+                                                    }
+                                                ]
+                                            }, 
+                                            "sub_title": "PreservCyt for CT, AC2 pos (females)"
+                                        }, 
+                                        {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "2"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "1197"
+                                                    }
+                                                ]
+                                            }, 
+                                            "sub_title": "PreservCyt for CT, AC2 neg (females)"
+                                        }, 
+                                        {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "104"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "8"
+                                                    }
+                                                ]
+                                            }, 
+                                            "sub_title": "Endocervical Swab for CT, AC2 pos (females)"
+                                        }, 
+                                        {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "3"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "1139"
+                                                    }
+                                                ]
+                                            }, 
+                                            "sub_title": "Endocervical Swab for CT, AC2 neg (females)"
+                                        }, 
+                                        {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "100"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "4"
+                                                    }
+                                                ]
+                                            }, 
+                                            "sub_title": "Urethral Swab for CT, AC2 pos (males)"
+                                        }, 
+                                        {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "0"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "445"
+                                                    }
+                                                ]
+                                            }, 
+                                            "sub_title": "Urethral Swab for CT, AC2 neg (males)"
+                                        }, 
+                                        {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "42"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "5"
+                                                    }
+                                                ]
+                                            }, 
+                                            "sub_title": "Vaginal Swab for GC, AC2 pos (females)"
+                                        }, 
+                                        {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "1"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "1210"
+                                                    }
+                                                ]
+                                            }, 
+                                            "sub_title": "Vaginal Swab for GC, AC2 neg (females)"
+                                        }, 
+                                        {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "43"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "0"
+                                                    }
+                                                ]
+                                            }, 
+                                            "sub_title": "PreservCyt for GC, AC2 pos (females)"
+                                        }, 
+                                        {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "0"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "1250"
+                                                    }
+                                                ]
+                                            }, 
+                                            "sub_title": "PreservCyt for GC, AC2 neg (females)"
+                                        }, 
+                                        {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "42"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "2"
+                                                    }
+                                                ]
+                                            }, 
+                                            "sub_title": "Endocervical Swab for GC, AC2 pos (females)"
+                                        }, 
+                                        {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "0"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "1194"
+                                                    }
+                                                ]
+                                            }, 
+                                            "sub_title": "Endocervical Swab for GC, AC2 neg (females)"
+                                        }, 
+                                        {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "34"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "0"
+                                                    }
+                                                ]
+                                            }, 
+                                            "sub_title": "Urethral Swab for GC, AC2 pos (males)"
+                                        }, 
+                                        {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "0"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "512"
+                                                    }
+                                                ]
+                                            }, 
+                                            "sub_title": "Urethral Swab for GC, AC2 neg (males)"
+                                        }
+                                    ]
+                                }, 
+                                "description": "Count of participants having a positive or negative APTIMA Combo 2 assay result (sensitivity and specificity)", 
+                                "param": "Number", 
+                                "title": "APTIMA Combo 2 Assay Accuracy Compared to Infected Status by Sample Type", 
+                                "units": "participants"
+                            }
+                        ]
+                    }, 
+                    "population": "Results for 4 gender-specific sample types were reported for 2 targets (CT, Chlamydia trachomatis; and GC, Neisseria gonorrhoeae infection).  In this observational study, 1313 females (143 CT and/or GC-infected) and 549 males (121 CT and/or GC infected) contributed to one or more analyses.", 
+                    "safety_issue": "No", 
+                    "time_frame": "Baseline", 
+                    "title": "APTIMA Combo 2 Assay Accuracy Compared to Infected Status by Sample Type", 
+                    "type": "Primary"
+                }
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "The Infected status algorithm used results from two specimen types and two reference types and two reference Nucleic Acid Amplification Tests (NAATs).  Subjects were categorized as infected if a positive result occurred in each of the two reference NAATs.  For female subjects, if positive NAAT result occurred only in the urine specimens and not in PreservCyt solution liquid pap specimens, the subject was categorized as infected; however for the evaluation of the non-urine specimen types, the specimens were considered non-infected.  Subjects that could not be categorizes as infected or non-infected were excluded from the performance analyses.", 
+                            "title": "Positive Infected Status"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "The Infected status algorithm used results from two specimen types and two reference types and two reference Nucleic Acid Amplification Tests (NAATs).  Subjects were categorized as infected if a positive result occurred in each of the two reference NAATs.  For female subjects, if positive NAAT result occurred only in the urine specimens and not in PreservCyt solution liquid pap specimens, the subject was categorized as infected; however for the evaluation of the non-urine specimen types, the specimens were considered non-infected.  Subjects that could not be categorizes as infected or non-infected were excluded from the performance analyses", 
+                            "title": "Negative Infected Status"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "264", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "1598", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "264", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "1598", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "pre_assignment_details": "Fifty (50) of the 1912 eligible subjects did not have a conclusive infected status or a valid Panther Combo 2 Assay result and are not included in the results below.", 
+                "recruitment_details": "A total of 1912 male and female subjects were enrolled under this protocol.  Of the 1912 subjects, 1862 were evaluable for analysis of CT or GC performance (conclusive infected status and at least one valid PANTHER Combo 2 Assay result)"
+            }, 
+            "point_of_contact": {
+                "email": "jennifer.reid@hologic.com", 
+                "name_or_title": "Jennifer Reid, Director of Clinical Affairs", 
+                "organization": "Gen-Probe Incorporated", 
+                "phone": "858-731-5985"
+            }
+        }, 
+        "completion_date": {
+            "#text": "February 2012", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Chlamydia Trachomatis", 
+            "Neisseria Gonorrhoeae Infection"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Chlamydia Infections", 
+                "Gonorrhea"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "The results of this protocol AC2PS-US11-001 (NCT01733069) are based on samples collected\n      from protocol ACTPS-US10-001(NCT01358799).\n\n      The registration for NCT01358799 was withdrawn because the samples were not tested under\n      protocol ACTPS-US10-001, instead they were tested under the protocol registered here\n      AC2PS-US11-001 (NCT01733069)."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n        \u2022The subject is at least 14 years of age at the time of informed consent and is sexually\n        active\n\n          -  The subject reports symptoms consistent with a suspected STD (sexually transmitted\n             disease) such as abnormal discharge, genital itching, pain/discomfort during sexual\n             intercourse or urination, and/or lower abdominal discomfort.\n\n          -  If the subject is asymptomatic, the subject is known to be partners with, or a\n             contact of, a person with a confirmed or suspected STD(s), is undergoing screening\n             evaluation for a possible STD(s), and/or is scheduled for a routine exam that may\n             include a pelvic exam\n\n          -  The subject and/or legally authorized representative is willing to undergo the\n             informed consent process prior to study participation (a minor will need the\n             documented consent of his/her parent or legal guardian, unless the site has an IRB\n             (institutional review board) approved waiver for parental consent for minors)\n\n        Exclusion Criteria:\n\n        \u2022A potential subject will be ineligible for clinical trial enrollment if the subject,\n        clinician, or medical record reports any of the following:\n\n          -  The subject took antibiotic medications within the last 21 days\n\n          -  The subject is underage (as defined by the IRB (institutional review board) or state\n             law), without the documented consent of her/his parent or legal guardian (exception:\n             sites that have an IRBapproved waiver for parental consent for minors)\n\n          -  The subject is determined by the investigator to be medically unsuitable for\n             participation in this study (eg, medical history of concurrent illness that could\n             result in an unacceptable risk to the subject) Concurrent participation in other\n             clinical study(ies) may be acceptable, with approval by the investigator and sponsor."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "14 Years", 
+            "sampling_method": "Probability Sample", 
+            "study_pop": {
+                "textblock": "Male and Females at least 14 years of age at the time of informed consent and sexually\n        active."
+            }
+        }, 
+        "enrollment": {
+            "#text": "1912", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 20, 2012", 
+        "firstreceived_results_date": "March 7, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01733069", 
+            "org_study_id": "AC2PS-US11-001", 
+            "secondary_id": "ACTPS-US10-001"
+        }, 
+        "intervention": {
+            "arm_group_label": "No treatment", 
+            "description": "APTIMA COMBO 2 Assay (AC2 Assay", 
+            "intervention_name": "APTIMA COMBO 2 Assay (AC2 Assay)", 
+            "intervention_type": "Device"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "lastchanged_date": "November 26, 2013", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Indianapolis", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46202"
+                    }, 
+                    "name": "Wishard Health Services Department of Pathology Wishard Health Services"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Orleans", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "70122"
+                    }, 
+                    "name": "Louisiana State University Health Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fall River", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02720"
+                    }, 
+                    "name": "New England Center for Clinical Research"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chapel Hill", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27599"
+                    }, 
+                    "name": "University of North Carolina Chapel Hill STD Clinic"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Akron", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44302"
+                    }, 
+                    "name": "Planned Parenthood Northeast Ohio"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cincinnati", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45229"
+                    }, 
+                    "name": "Cincinnati Children's Hospital Medical Center Division of Pediatric & Adolescent Gynecology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77023"
+                    }, 
+                    "name": "Planned Parenthood Houston and Southeast Texas"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_groups": "1", 
+        "official_title": "Clinical Evaluation of the APTIMA\u00ae COMBO 2\u00aeAssay Using the PANTHER\u2122 System", 
+        "overall_official": {
+            "affiliation": "Gen-Probe, Incorporated", 
+            "last_name": "Jennifer Reid, PhD", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "February 2012", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Count of participants having a positive or negative APTIMA Combo 2 assay result (sensitivity and specificity)", 
+            "measure": "APTIMA Combo 2 Assay Accuracy Compared to Infected Status by Sample Type", 
+            "safety_issue": "No", 
+            "time_frame": "Baseline"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01733069"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Gen-Probe, Incorporated", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Gen-Probe, Incorporated", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "November 2010", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Cross-Sectional", 
+        "study_type": "Observational", 
+        "verification_date": "November 2013"
+    }
+}

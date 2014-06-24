@@ -1,0 +1,125 @@
+{
+    "clinical_study": {
+        "@rank": "132707", 
+        "acronym": "TELEGAP", 
+        "arm_group": [
+            {
+                "arm_group_label": "Usual Care", 
+                "arm_group_type": "No Intervention", 
+                "description": "This arm received usual care from the diabetes care managers"
+            }, 
+            {
+                "arm_group_label": "Telemonitoring Device", 
+                "arm_group_type": "Experimental", 
+                "description": "Patients in this arm received a telemonitoring device installed in their homes"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The study is a two-arm, parallel-comparison, single-blind, randomized controlled trial, and\n      will be offered to Kaiser Permanente members aged 18 - 75 years old who present to the Santa\n      Rosa Diabetes Care Management Center with Type 2 diabetes mellitus. Participants will be\n      randomly assigned to one of two treatment arms. The telemedicine group or the group\n      receiving usual care (the control group).\n\n      This study hopes to show the usefulness of this telemonitoring technology and more\n      specifically, to assess whether this device improves markers of control of diabetes,\n      glycemic control, and cardiovascular risk factors"
+        }, 
+        "brief_title": "Diabetes Care Management Trial of Telemetric Monitoring", 
+        "completion_date": {
+            "#text": "January 2011", 
+            "@type": "Actual"
+        }, 
+        "condition": "Diabetes", 
+        "condition_browse": {
+            "mesh_term": "Diabetes Mellitus"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  18 - 75 years old,\n\n          -  diagnosis of type 2 diabetes mellitus for at least 1 month,\n\n          -  eligible for and referred to the diabetes care management program,\n\n          -  HbA1c values in the range: 7.5% to 10.5%.\n\n        Exclusion Criteria:\n\n          -  Weight > 330 lbs,\n\n          -  estimated glomerular filtration rate (GFR) < 45,\n\n          -  unstable coronary artery disease,\n\n          -  severe peripheral vascular disease which restricted exercise,\n\n          -  end-stage liver disease,\n\n          -  undergoing treatment for cancer,\n\n          -  pregnant or not using appropriate birth control,\n\n          -  no broadband internet access in their homes."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "75 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "254", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "January 23, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01775878", 
+            "org_study_id": "CN-08JMink-01"
+        }, 
+        "intervention": {
+            "arm_group_label": "Telemonitoring Device", 
+            "description": "Telemonitoring device was installed in patients' homes", 
+            "intervention_name": "Telemonitoring Device", 
+            "intervention_type": "Device", 
+            "other_name": "Samsung Health Diary"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Diabetes", 
+            "HbA1c", 
+            "Fructosamine", 
+            "Blood Pressure", 
+            "Telemonitoring"
+        ], 
+        "lastchanged_date": "January 23, 2013", 
+        "number_of_arms": "2", 
+        "official_title": "A Randomized Study Comparing Usual Diabetes Care Management to Telemetric Home-based Monitoring of Glucose and Blood Pressure in Patients With Diabetes (TELEGAP)", 
+        "overall_official": {
+            "affiliation": "Kaiser Permanente", 
+            "last_name": "Jerry Minkoff, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "January 2011", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "Change from baseline to 6 weeks in serum fructosamine levels", 
+                "measure": "Fructosamine", 
+                "safety_issue": "No", 
+                "time_frame": "6 weeks"
+            }, 
+            {
+                "description": "change from baseline to 6 months in serum HbA1c levels", 
+                "measure": "glycosylated hemoglobin", 
+                "safety_issue": "No", 
+                "time_frame": "6 months"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01775878"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "description": "goal of systolic < 130 mmHg and diastolic < 70 mmHg", 
+            "measure": "blood pressure", 
+            "safety_issue": "No", 
+            "time_frame": "6 weeks and 6 months"
+        }, 
+        "source": "Kaiser Permanente", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Samsung Electronics", 
+                "agency_class": "Industry"
+            }, 
+            "lead_sponsor": {
+                "agency": "Kaiser Permanente", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "May 2009", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Single Blind (Outcomes Assessor), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2013"
+    }
+}

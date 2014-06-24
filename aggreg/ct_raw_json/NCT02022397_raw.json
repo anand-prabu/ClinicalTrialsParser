@@ -1,0 +1,129 @@
+{
+    "clinical_study": {
+        "@rank": "164897", 
+        "acronym": "PeScho", 
+        "arm_group": {
+            "arm_group_label": "difficult intubation", 
+            "description": "general population necessitating tracheal intubation for general anesthesia"
+        }, 
+        "brief_summary": {
+            "textblock": "General anaesthesia mandates artificial ventilation and tracheal intubation in order to\n      provide patients with artificial breathing. Difficulties related to ventilation and\n      intubation remain the leading cause of morbidity and mortality in general anaesthesia,\n      essentially due to inaccuracies in pre-operative detection of anatomical factors\n      predisposing to difficult airways. In this project investigators will develop image and\n      video-processing technologies software solutions to allow automatic recognition of\n      anatomical features playing a key role in identification of difficult ventilation and\n      intubation, leading to modifications in pre-operative anaesthesia management assessment and\n      therefore increase patients' safety."
+        }, 
+        "brief_title": "Automated Assessment of Difficult Airway With Facial Recognition Techniques", 
+        "condition": "Adverse Effect of Other General Anesthetics, Sequela", 
+        "detailed_description": {
+            "textblock": "Any tracheal intubation requires a pre-operative screening and assessment in order to obtain\n      the essential medical history of the patient, optimize patients' condition in case of any\n      co-existing disease before the operation and select the best method of anesthesia for the\n      day of surgery. The aim of this assessment is to identify potential anesthetic difficulties,\n      such as predictors of difficult airways, which still nowadays represent the first cause of\n      litigation in anesthesia related closed claim studies.\n\n      In the first step of the pre-operative assessment procedure, the patient will be analyzed by\n      the software. The patient will be automatically guided through a 10 minutes series of tests\n      and the software will analyze in real-time his/her morphological and dynamic features in\n      order to classify the patient into one of 5 categories described in the next Section.\n      Details relevant to difficult ventilation and intubation (static and dynamic), such as\n      quantifying the exact inter-incisors distance (mouth opening), visibility and detection of\n      anatomical landmarks in the open mouth (uvulae, pillars, tonsils, tongue, posterior\n      pharynx), thyro-mental distance, neck circumference, neck mobility with maximal anterior and\n      posterior movement. The analysis will be performed by:\n\n        -  automatically computing these relevant measures using robust computer vision algorithms\n           capable to detect, describe and track the face and the neck with high level of accuracy\n           and robustness to extreme poses (left and right rotation and up and down movement of\n           the face)\n\n        -  developing powerful image processing techniques to describe and compute intra-oral\n           structures. The two sets of measures will be then combined into a machine learning\n           approach capable to classify the patient. The results of the analysis as well as all\n           the recorded videos of every single test will be stored on a central database and\n           accessed in real-time by the doctor to continue the pre-operative consultancy.\n\n      The patient will then undergo his planned surgery at the initially planned time and be\n      intubated for that purpose. Proper recording of the grade of intubation in the operating\n      room will be documented and introduced in the assessment database. By this mean, the\n      database will evolve with the assessment and the final post-operative intubation score so\n      that to improve the automatic predictability of the machine learning algorithm."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  adult patient (15 years of age)\n\n          -  patients necessitating endotracheal intubation for general anesthesia\n\n        Exclusion Criteria:\n\n        -patient refusal"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "16 Years", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "patient undergoing general anesthesia necessitating endotracheal intubation"
+            }
+        }, 
+        "enrollment": {
+            "#text": "6000", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "December 16, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02022397", 
+            "org_study_id": "183/09", 
+            "secondary_id": "CTI"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "tracheal intubation", 
+            "predicting difficult intubation", 
+            "general anesthesia", 
+            "difficult ventilation"
+        ], 
+        "lastchanged_date": "December 27, 2013", 
+        "location": {
+            "contact": {
+                "email": "patrick.schoettker@chuv.ch", 
+                "last_name": "Patrick Schoettker, Assoc Prof", 
+                "phone": "+41795561043"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Lausanne", 
+                    "country": "Switzerland", 
+                    "state": "VD", 
+                    "zip": "1011"
+                }, 
+                "name": "Dpt of Anesthesiology, University of Lausanne CHUV"
+            }, 
+            "investigator": {
+                "last_name": "Patrick Schoettker, Assoc Prof", 
+                "role": "Principal Investigator"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "Switzerland"
+        }, 
+        "number_of_groups": "1", 
+        "official_title": "Automatic Assessment of Difficult Ventilation and Intubation From Automatic Face Analysis and Artificial Intelligence", 
+        "overall_contact": {
+            "email": "patrick.schoettker@chuv.ch", 
+            "last_name": "Patrick Schoettker, Assoc Prof", 
+            "phone": "+41795561043"
+        }, 
+        "overall_official": {
+            "affiliation": "University of Lausanne Hospitals", 
+            "last_name": "Patrick Schoettker, Assoc Prof", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "Switzerland: Ethikkommission", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "March 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "automatic classification by artificial intelligence into 3 classes of intubation difficulty", 
+            "measure": "Computerized classification of difficult intubation", 
+            "safety_issue": "No", 
+            "time_frame": "1 day"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02022397"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University of Lausanne Hospitals", 
+            "investigator_full_name": "Patrick Schoettker,MD PD", 
+            "investigator_title": "Associate Professor", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "source": "University of Lausanne Hospitals", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Ecole Polytechnique F\u00e9d\u00e9rale Lausanne, EPFL, Switzerland", 
+                "agency_class": "Other"
+            }, 
+            "lead_sponsor": {
+                "agency": "University of Lausanne Hospitals", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "March 2012", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Prospective", 
+        "study_type": "Observational [Patient Registry]", 
+        "target_duration": "1 Day", 
+        "verification_date": "December 2013"
+    }
+}

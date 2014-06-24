@@ -1,0 +1,129 @@
+{
+    "clinical_study": {
+        "@rank": "100954", 
+        "acronym": "LILCAL", 
+        "arm_group": {
+            "arm_group_label": "Preschoolers", 
+            "description": "Preschoolers, ages 3 to 5"
+        }, 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to calibrate the Actigraph, Respironics and CamNtech monitors,\n      in a wide range of children using energy expenditure measured by respiration calorimetry.\n      Energy expenditure will be predicted from the combination of heart rate and activity\n      measured by accelerometry. Prediction equations for energy expenditure will be tested and\n      validated against a stable isotope method called doubly labeled water for the measurement of\n      free-living total energy expenditure."
+        }, 
+        "brief_title": "Energy Expenditure and Physical Activity in Preschoolers", 
+        "completion_date": {
+            "#text": "April 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Healthy", 
+        "detailed_description": {
+            "textblock": "In this study, the investigators will apply advanced technology (fast-response room\n      calorimetry, doubly labeled water (DLW), accelerometers and miniaturized HR monitors) and\n      sophisticated mathematical modeling techniques (cross-sectional time series, CSTS and\n      multivariate adaptive regression splines, MARS) to develop and validate prediction models\n      that capture the dynamic nature of physical activity (PA) and energy expenditure (EE) in\n      preschool-aged children. CSTS and MARS models for the assessment of PA based on activity\n      energy expenditure (AEE) and for the prediction of minute-by-minute EE will be developed in\n      100 preschool-aged children using 12-h room respiration calorimetry as the criterion method\n      and validated in an independent sample (n=50) against 12-h room respiration calorimetry and\n      the 7-d DLW method. In addition, the investigators will develop algorithms for the\n      classification of PA levels and sleep/awake periods using statistical and machine learning\n      methods and incorporate the results into our prediction models."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Boys and girls between the ages of 3-5 years will be recruited from the local\n             community. A total of 150 children will be studied. In Phase I, 100 children will be\n             studied and in Phase II 50 children will be studied.\n\n        Exclusion Criteria:\n\n          -  any medical illness or medication affecting growth or limiting participation in\n             physical activities or sports."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "5 Years", 
+            "minimum_age": "3 Years", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "Child (3-5 years)"
+            }
+        }, 
+        "enrollment": {
+            "#text": "150", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "February 21, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02075359", 
+            "org_study_id": "H12067", 
+            "secondary_id": "R01DK085163"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Total Energy Expenditure", 
+            "Physical Activity Levels", 
+            "Body Mass Index", 
+            "Children"
+        ], 
+        "lastchanged_date": "February 27, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Houston", 
+                    "country": "United States", 
+                    "state": "Texas", 
+                    "zip": "77030"
+                }, 
+                "name": "Children's Nutrition Research Center"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_groups": "1", 
+        "official_title": "Novel Models to Predict Energy Expenditure and Physical Activity in Preschoolers", 
+        "overall_official": {
+            "affiliation": "Baylor College of Medicine", 
+            "last_name": "Nancy Butte, Ph.D", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "April 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Energy expenditure will be measured by calorimetry and the doubly labeled water method.", 
+            "measure": "Energy expenditure", 
+            "safety_issue": "No", 
+            "time_frame": "up to 1 year"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02075359"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Baylor College of Medicine", 
+            "investigator_full_name": "Nancy Butte", 
+            "investigator_title": "Principal investigator and Professor", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": {
+            "description": "The physical activity level of children will be measured by accelerometry and heart rate monitoring.", 
+            "measure": "physical activity", 
+            "safety_issue": "No", 
+            "time_frame": "Up to 1 year"
+        }, 
+        "source": "Baylor College of Medicine", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "Drexel University", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)", 
+                    "agency_class": "NIH"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "Baylor College of Medicine", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "May 2010", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Cross-Sectional", 
+        "study_type": "Observational", 
+        "verification_date": "February 2014"
+    }
+}

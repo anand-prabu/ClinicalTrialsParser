@@ -1,0 +1,826 @@
+{
+    "clinical_study": {
+        "@rank": "168097", 
+        "acronym": "NUTRIREA2", 
+        "arm_group": [
+            {
+                "arm_group_label": "Parenteral nutrition", 
+                "arm_group_type": "Other", 
+                "description": "Patients will receive parenteral nutrition during the first week of mechanical ventilation. After Day 3, the parenteral route may be switched to the enteral route if shock resolve (vasoactive drug stopped since 24 hours and serum lactate level < 2 mmol/l). After Day 7, all patients will be fed via the enteral route."
+            }, 
+            {
+                "arm_group_label": "Enteral nutrition", 
+                "arm_group_type": "Other", 
+                "description": "Patients will receive nutrition only via the enteral route during the firs week of invasive mechanical ventilation."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to assess the hypothesis that, as compared to early intravenous\n      feeding, early nutrition via the enteral route is associated with reduced Day 28-mortality\n      in critically ill patients treated with mechanical ventilation and vasoactive drug."
+        }, 
+        "brief_title": "Impact of Early Enteral vs. Parenteral Nutrition on Mortality in Patients Requiring Mechanical Ventilation and Catecholamines", 
+        "completion_date": {
+            "#text": "June 2016", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Acute Respiratory Failure", 
+            "Shock"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Shock", 
+                "Respiratory Distress Syndrome, Adult", 
+                "Respiratory Insufficiency"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Invasive mechanical ventilation expected to be required more than 48 hours\n\n          -  Nutrition started within 24 hours after initiation of endotracheal mechanical\n             ventilation\n\n          -  Treatment with vasoactive drug administered via a central venous catheter\n\n          -  Age over 18 years\n\n          -  Signed information\n\n        Exclusion Criteria:\n\n          -  Abdominal surgery within 1 month before inclusion\n\n          -  History of esophageal, gastric, duodenal or pancreatic surgery\n\n          -  Bleeding from the esophagus, stomach or bowel\n\n          -  enteral nutrition via gastrostomy or jejunostomy\n\n          -  pregnancy\n\n          -  Treatment-limitation decisions\n\n          -  Current inclusion in a trial on comparison between enteral and parenteral nutrition"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "2854", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "February 27, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01802099", 
+            "org_study_id": "CHD085-11"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Enteral nutrition", 
+                "intervention_name": "Enteral nutrition", 
+                "intervention_type": "Other", 
+                "other_name": "Enteral feeding"
+            }, 
+            {
+                "arm_group_label": "Parenteral nutrition", 
+                "intervention_name": "Parenteral nutrition", 
+                "intervention_type": "Other", 
+                "other_name": [
+                    "Intravenous nutrition", 
+                    "intravenous feeding", 
+                    "parenteral nutrition"
+                ]
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "mechanical ventilation", 
+            "early enteral nutrition", 
+            "intensive care unit", 
+            "early parenteral nutrition", 
+            "critical care medicine", 
+            "nosocomial infection", 
+            "mortality", 
+            "shock", 
+            "vasoactive drug"
+        ], 
+        "lastchanged_date": "October 21, 2013", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Amiens", 
+                        "country": "France", 
+                        "zip": "80054"
+                    }, 
+                    "name": "CHU Amiens"
+                }, 
+                "investigator": {
+                    "last_name": "Herv\u00e9 Dupont, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Angers", 
+                        "country": "France", 
+                        "zip": "49933"
+                    }, 
+                    "name": "CHU d'Angers"
+                }, 
+                "investigator": {
+                    "last_name": "Pierre Asfar, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Annecy", 
+                        "country": "France", 
+                        "zip": "74374"
+                    }, 
+                    "name": "Centre hospitalier d'Annecy"
+                }, 
+                "investigator": {
+                    "last_name": "Michel Sirodot, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Besan\u00e7on", 
+                        "country": "France", 
+                        "zip": "25000"
+                    }, 
+                    "name": "CHU Besan\u00e7on-H\u00f4pital Jean Minjoz"
+                }, 
+                "investigator": {
+                    "last_name": "Gael Piton", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bordeaux", 
+                        "country": "France", 
+                        "zip": "33076"
+                    }, 
+                    "name": "CHU Pellegrin Tripode"
+                }, 
+                "investigator": {
+                    "last_name": "Hoang Nam Bui, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chartres", 
+                        "country": "France", 
+                        "zip": "28018"
+                    }, 
+                    "name": "CH Louis Pasteur"
+                }, 
+                "investigator": {
+                    "last_name": "Olivier Gontier, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Clermont Ferrand", 
+                        "country": "France", 
+                        "zip": "63003"
+                    }, 
+                    "name": "CHU Gabriel Montpied, Clermont Ferrand"
+                }, 
+                "investigator": {
+                    "last_name": "Ali Ait Hssain, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Colombes", 
+                        "country": "France", 
+                        "zip": "92701"
+                    }, 
+                    "name": "CHU Louis Mourier"
+                }, 
+                "investigator": {
+                    "last_name": "Stephane Gaudry, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dieppe", 
+                        "country": "France", 
+                        "zip": "76202"
+                    }, 
+                    "name": "CH de Dieppe"
+                }, 
+                "investigator": {
+                    "last_name": "Jean-Philippe Rigaud, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dijon", 
+                        "country": "France", 
+                        "zip": "21079"
+                    }, 
+                    "name": "CHU Dijon"
+                }, 
+                "investigator": {
+                    "last_name": "Jean-Pierre Quenot, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Garches", 
+                        "country": "France", 
+                        "zip": "92380"
+                    }, 
+                    "name": "H\u00f4pital Raymond Poincarre"
+                }, 
+                "investigator": {
+                    "last_name": "Djillali Annane, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Grenoble", 
+                        "country": "France", 
+                        "zip": "38043"
+                    }, 
+                    "name": "CHU Grenoble"
+                }, 
+                "investigator": {
+                    "last_name": "Jean-Fran\u00e7ois Timsit, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "jerome.dimet@chd-vendee.fr", 
+                    "last_name": "Jerome Dimet, PharmD"
+                }, 
+                "contact_backup": {
+                    "email": "stephanie.martin@chd-vendee.fr", 
+                    "last_name": "Stephanie Martin, PharmD", 
+                    "phone": "+33 (0)2 51 44 64 83"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "La Roche sur Yon", 
+                        "country": "France", 
+                        "zip": "85000"
+                    }, 
+                    "name": "CHD Vend\u00e9e - service de r\u00e9animation"
+                }, 
+                "investigator": {
+                    "last_name": "Jean Reignier, MD, PhD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Le Kremlin-Bic\u00eatre", 
+                        "country": "France", 
+                        "zip": "94275"
+                    }, 
+                    "name": "CHU de Bic\u00eatre"
+                }, 
+                "investigator": {
+                    "last_name": "Nadia Anguel, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lens", 
+                        "country": "France", 
+                        "zip": "62307"
+                    }, 
+                    "name": "CH Docteur Schaffner"
+                }, 
+                "investigator": {
+                    "last_name": "Didier Thevenin, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lyon", 
+                        "country": "France", 
+                        "zip": "69004"
+                    }, 
+                    "name": "CHU de Lyon- H\u00f4pital de la Croix Rousse"
+                }, 
+                "investigator": {
+                    "last_name": "V\u00e9ronique Leray, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Melun", 
+                        "country": "France", 
+                        "zip": "77000"
+                    }, 
+                    "name": "CH Marc Jacquet"
+                }, 
+                "investigator": {
+                    "last_name": "Nathalie Rolin, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montauban", 
+                        "country": "France", 
+                        "zip": "82013"
+                    }, 
+                    "name": "CH de Montauban"
+                }, 
+                "investigator": {
+                    "last_name": "Fr\u00e9d\u00e9ric Bellec", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montreuil", 
+                        "country": "France", 
+                        "zip": "93105"
+                    }, 
+                    "name": "CHI Andr\u00e9 Gr\u00e9goire"
+                }, 
+                "investigator": {
+                    "last_name": "Vincent Das, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mulhouse", 
+                        "country": "France", 
+                        "zip": "68100"
+                    }, 
+                    "name": "H\u00f4pital Emile Muller"
+                }, 
+                "investigator": {
+                    "last_name": "Fr\u00e9d\u00e9rique Ganster, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nantes", 
+                        "country": "France", 
+                        "zip": "44093"
+                    }, 
+                    "name": "CHU de Nantes - H\u00f4tel Dieu"
+                }, 
+                "investigator": {
+                    "last_name": "Antoine Roquilly", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nantes", 
+                        "country": "France", 
+                        "zip": "44093"
+                    }, 
+                    "name": "CHU de Nantes - H\u00f4tel Dieu"
+                }, 
+                "investigator": {
+                    "last_name": "Christophe Guitton, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nantes", 
+                        "country": "France", 
+                        "zip": "44000"
+                    }, 
+                    "name": "CHU de Nantes, Hopital Laennec"
+                }, 
+                "investigator": [
+                    {
+                        "last_name": "Raphael Cinotti, MD", 
+                        "role": "Principal Investigator"
+                    }, 
+                    {
+                        "last_name": "Laurent Brisard, MD", 
+                        "role": "Sub-Investigator"
+                    }
+                ], 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Orl\u00e9ans", 
+                        "country": "France", 
+                        "zip": "45067"
+                    }, 
+                    "name": "H\u00f4pital de La Source, CHR Orl\u00e9ans"
+                }, 
+                "investigator": {
+                    "last_name": "Thierry Boulain, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "zip": "75020"
+                    }, 
+                    "name": "H\u00f4pital Tenon"
+                }, 
+                "investigator": {
+                    "last_name": "Michel Djibre, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "zip": "75012"
+                    }, 
+                    "name": "CHU Saint-Antoine"
+                }, 
+                "investigator": {
+                    "last_name": "Bertrand Guidet, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "zip": "75014"
+                    }, 
+                    "name": "Groupe Hospitalier Paris Saint Joseph"
+                }, 
+                "investigator": {
+                    "last_name": "Benoit Misset, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "zip": "75014"
+                    }, 
+                    "name": "CHU Paris Cochin"
+                }, 
+                "investigator": {
+                    "last_name": "Jean-Paul Mira, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "zip": "75010"
+                    }, 
+                    "name": "CHU Saint Louis"
+                }, 
+                "investigator": {
+                    "last_name": "Emmanuel Canet, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pointe \u00e0 Pitre", 
+                        "country": "France", 
+                        "zip": "97159"
+                    }, 
+                    "name": "CHU Pointe \u00e0 Pitre - Abymes"
+                }, 
+                "investigator": {
+                    "last_name": "Guillaume Thiery, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": ", CRA"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Poitiers", 
+                        "country": "France", 
+                        "zip": "86021"
+                    }, 
+                    "name": "CHU Poitiers"
+                }, 
+                "investigator": {
+                    "last_name": "Ren\u00e9 Robert, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rodez", 
+                        "country": "France", 
+                        "zip": "12000"
+                    }, 
+                    "name": "Centre Hospitalier Jacques Puel"
+                }, 
+                "investigator": {
+                    "last_name": "Philippe Letocart, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Denis", 
+                        "country": "France", 
+                        "zip": "93200"
+                    }, 
+                    "name": "H\u00f4pital Delafontaine"
+                }, 
+                "investigator": {
+                    "last_name": "Daniel Silva, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Etienne", 
+                        "country": "France", 
+                        "zip": "42055"
+                    }, 
+                    "name": "CHU Saint Etienne-H\u00f4pital Nord"
+                }, 
+                "investigator": {
+                    "last_name": "Michael Darmon, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Malo", 
+                        "country": "France", 
+                        "zip": "35400"
+                    }, 
+                    "name": "CH de Saint Malo"
+                }, 
+                "investigator": {
+                    "last_name": "Vlad Botoc, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Strasbourg", 
+                        "country": "France", 
+                        "zip": "67098"
+                    }, 
+                    "name": "CHU de Strasbourg - H\u00f4pital de Hautepierre"
+                }, 
+                "investigator": {
+                    "last_name": "Jean-Etienne Herbrecht, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Strasbourg", 
+                        "country": "France", 
+                        "zip": "67091"
+                    }, 
+                    "name": "CHU de Strasbourg - Nouvel H\u00f4pital Civil"
+                }, 
+                "investigator": {
+                    "last_name": "Ferhat Meziani, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Suresnes", 
+                        "country": "France", 
+                        "zip": "92150"
+                    }, 
+                    "name": "H\u00f4pital Foch"
+                }, 
+                "investigator": {
+                    "last_name": "J\u00e9rome Devaquet, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tours", 
+                        "country": "France", 
+                        "zip": "37044"
+                    }, 
+                    "name": "CHU Tours"
+                }, 
+                "investigator": {
+                    "last_name": "Emmanuelle Mercier, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": "France"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Impact of Early Enteral vs. Parenteral Nutrition on Mortality in Patients Requiring Mechanical Ventilation and Catecholamines: Multicenter, Randomized Controlled Trial (NUTRIREA-2)", 
+        "overall_contact": {
+            "email": "jean.reignier@chd-vendee.fr", 
+            "last_name": "Jean Reignier, MD, PhD", 
+            "phone": "0251446212"
+        }, 
+        "overall_official": {
+            "affiliation": "CHD Vendee", 
+            "last_name": "Jean Reignier, MD, PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": [
+                "France: Institutional Ethical Committee", 
+                "France: French Data Protection Authority"
+            ], 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "March 2016", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "Mortality", 
+            "safety_issue": "Yes", 
+            "time_frame": "28 days"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01802099"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Mortality rate", 
+                "safety_issue": "Yes", 
+                "time_frame": "90 days"
+            }, 
+            {
+                "measure": "Ventilator-associated pneumonia rate", 
+                "safety_issue": "Yes", 
+                "time_frame": "until weaning of mechanical ventilation (average: 7 days)"
+            }, 
+            {
+                "description": "Bloodstream infection Urinary tract infection Catheter-related infection Other infections", 
+                "measure": "Nosocomial infections rate", 
+                "safety_issue": "Yes", 
+                "time_frame": "until discharge from ICU (average: 10 days)"
+            }, 
+            {
+                "measure": "Length of stay in Intensive Care Unit (ICU)", 
+                "safety_issue": "No", 
+                "time_frame": "until discharge from ICU (average: 10 days)"
+            }, 
+            {
+                "measure": "Length of stay in hospital", 
+                "safety_issue": "No", 
+                "time_frame": "until discharge from hospital (average: 17 days)"
+            }, 
+            {
+                "measure": "Variations in Sepsis-related Organ Failure Assessment (SOFA) score", 
+                "safety_issue": "No", 
+                "time_frame": "first week (7 days) of mechanical ventilation"
+            }, 
+            {
+                "measure": "calories intake", 
+                "safety_issue": "No", 
+                "time_frame": "until weaning of mechanical ventilation (average : 7 days)"
+            }, 
+            {
+                "measure": "Proportion of patients given 100% of the calorie target", 
+                "safety_issue": "No", 
+                "time_frame": "until weaning of mechanical ventilation (average: 7 days)"
+            }, 
+            {
+                "measure": "cumulative calorie deficit from day 0 to day 7", 
+                "safety_issue": "No", 
+                "time_frame": "During the first week (7 days) of mechanical ventilation"
+            }, 
+            {
+                "measure": "Hospital mortality rate", 
+                "safety_issue": "Yes", 
+                "time_frame": "Until discharge from hospital (average : 17 days)"
+            }, 
+            {
+                "measure": "Intensive Care Unit (ICU) mortality rate", 
+                "safety_issue": "Yes", 
+                "time_frame": "until discharge from ICU (average: 10 days)"
+            }, 
+            {
+                "measure": "Acute bowel ischemia rate", 
+                "safety_issue": "Yes", 
+                "time_frame": "until weaning of mechanical ventilation (average: 7 days)"
+            }, 
+            {
+                "measure": "Vomiting rate", 
+                "safety_issue": "No", 
+                "time_frame": "until weaning of mechanical ventilation (average: 7 days)"
+            }
+        ], 
+        "source": "Centre Hospitalier Departemental Vendee", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "Ministry of Health, France", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Institut National de la Sant\u00e9 Et de la Recherche M\u00e9dicale, France", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "University Hospital, Tours", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "Centre Hospitalier Departemental Vendee", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "March 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Prevention", 
+        "study_type": "Interventional", 
+        "verification_date": "October 2013"
+    }
+}

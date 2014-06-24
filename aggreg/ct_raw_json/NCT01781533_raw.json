@@ -1,0 +1,118 @@
+{
+    "clinical_study": {
+        "@rank": "56921", 
+        "arm_group": {
+            "arm_group_label": "algorithm", 
+            "arm_group_type": "Experimental"
+        }, 
+        "brief_summary": {
+            "textblock": "To investigate the performance of a software-algorithm based insulin therapy to control\n      blood glucose in Type 1 diabetic patients."
+        }, 
+        "brief_title": "Study to Test Software Algorithm for Insulin Therapy and New Glucose Sensor", 
+        "completion_date": {
+            "#text": "April 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Diabetes", 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Male or female aged 18 to 75 years (both inclusive)\n\n          -  Informed consent obtained after being advised of the nature of the study\n\n          -  The subject has Type 1 diabetes (as defined by WHO) for at least 24 months\n\n          -  The subject's HbA1c <= 10%\n\n          -  Body Mass Index (BMI) <= 35 kg/m2\n\n          -  The subject is treated with continuous subcutaneous insulin infusion for at least 3\n             month\n\n        Exclusion Criteria:\n\n          -  Subject is actively enrolled in another clinical trial or took part in a study within\n             30 days\n\n          -  Experienced recurrent severe hypoglycaemic unawareness\n\n          -  Total daily insulin dose >= 1.4 IU/kg\n\n          -  Subject is using a medication that significantly impacts glucose metabolism (oral or\n             topical steroids) except if stable for at least the last three months and expected to\n             remain stable for the study duration\n\n          -  Allergy against insulin Lispro\n\n          -  A history of drug or alcohol dependence\n\n          -  Any other significant concomitant disease such as endocrine, cardiac, neurological,\n             malignant, other pancreatic disease or uncontrolled hypertension as judged by the\n             investigator\n\n          -  Uncontrolled hypertension with resting blood pressure over 140/90 mmHg\n\n          -  Patient is pregnant, or breast feeding during the period of the study\n\n          -  Patient donated blood in the last 3 months"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "75 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "20", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "January 23, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01781533", 
+            "org_study_id": "REACTbyALGO-1"
+        }, 
+        "intervention": {
+            "arm_group_label": "algorithm", 
+            "intervention_name": "algorithm", 
+            "intervention_type": "Procedure"
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "January 30, 2014", 
+        "link": {
+            "url": "http://www.reaction-project.eu/news.php"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Graz", 
+                    "country": "Austria", 
+                    "state": "Styria", 
+                    "zip": "8010"
+                }, 
+                "name": "Medical University of Graz"
+            }
+        }, 
+        "location_countries": {
+            "country": "Austria"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "An Open, Single-centre, Non-controlled Feasibility Study Using a Software-algorithm Based Insulin Therapy to Control Blood Glucose in Type 1 Diabetic Patients", 
+        "overall_official": {
+            "affiliation": "Medical University of Graz", 
+            "last_name": "Thomas R Pieber, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "Austria: Austrian Medicines and Medical Devices Agency", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "March 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "the percentage of glucose values obtained every 15 min in predefined glucose ranges", 
+            "safety_issue": "Yes", 
+            "time_frame": "15 minutes"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01781533"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Medical University of Graz", 
+            "investigator_full_name": "Pieber Thomas, MD", 
+            "investigator_title": "Univ. Prof. Dr. med.", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Injected insulin dose", 
+                "safety_issue": "Yes", 
+                "time_frame": "24 hours"
+            }, 
+            {
+                "description": "The absolute and relative difference between glucose monitoring readings and reference values (blood glucose) will be used to determine the accuracy of the monitoring unit", 
+                "measure": "Accuracy of the glucose monitoring unit", 
+                "safety_issue": "No", 
+                "time_frame": "24 hours"
+            }
+        ], 
+        "source": "Medical University of Graz", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Medical University of Graz", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2013", 
+        "study_design": "Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Basic Science", 
+        "study_type": "Interventional", 
+        "verification_date": "August 2013"
+    }
+}

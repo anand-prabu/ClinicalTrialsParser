@@ -1,0 +1,119 @@
+{
+    "clinical_study": {
+        "@rank": "146210", 
+        "acronym": "ImmProve", 
+        "arm_group": [
+            {
+                "arm_group_label": "Control Group", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Trigger alerts only"
+            }, 
+            {
+                "arm_group_label": "Intervention Group", 
+                "arm_group_type": "Experimental", 
+                "description": "Trigger alerts + provider bulletins"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Specific Aim:  To improve childhood immunization rates by utilizing automated Electronic\n      Health Record-derived provider-specific performance feedback reports, coupled with automated\n      Electronic Health Record-derived trigger alerts.\n\n      Hypothesis: The automated Electronic Health Record-derived provider-specific performance\n      feedback reports will result in a 50% decrease in unimmunized children ages 0-13 years of\n      age, when coupled with automated Electronic Health Record-derived trigger alerts, compared\n      with trigger alerts alone."
+        }, 
+        "brief_title": "Improving Childhood Immunization", 
+        "completion_date": {
+            "#text": "September 2011", 
+            "@type": "Actual"
+        }, 
+        "condition": "Improve Childhood Immunization Rates", 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  all pediatric resident providers in Harriet Lane Clinic at Johns Hopkins University\n\n        Exclusion Criteria:\n\n          -  none"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "40 Years", 
+            "minimum_age": "28 Years"
+        }, 
+        "enrollment": {
+            "#text": "107", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "February 13, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01794286", 
+            "org_study_id": "RC1LM010512"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Intervention Group", 
+                "intervention_name": "Provider bulletins", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": [
+                    "Control Group", 
+                    "Intervention Group"
+                ], 
+                "intervention_name": "Trigger alerts", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "February 15, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Baltimore", 
+                    "country": "United States", 
+                    "state": "Maryland", 
+                    "zip": "21287"
+                }, 
+                "name": "Harriet Lane Clinic"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Improving Childhood Immunization Compliance Using Electronic Health Records", 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": [
+                "United States: Institutional Review Board", 
+                "United States: Federal Government"
+            ], 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "September 2011", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "Receipt of missing immunization", 
+            "safety_issue": "No", 
+            "time_frame": "Time to event analyses, with events measured across 7 quarters (21 months)"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01794286"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Johns Hopkins University", 
+            "investigator_full_name": "Marlene Miller", 
+            "investigator_title": "Professor", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "source": "Johns Hopkins University", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Johns Hopkins University", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2010", 
+        "study_design": "Allocation: Randomized, Intervention Model: Factorial Assignment, Masking: Open Label, Primary Purpose: Prevention", 
+        "study_type": "Interventional", 
+        "verification_date": "February 2013"
+    }
+}

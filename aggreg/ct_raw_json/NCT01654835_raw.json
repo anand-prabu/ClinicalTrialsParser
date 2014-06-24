@@ -1,0 +1,128 @@
+{
+    "clinical_study": {
+        "@rank": "60200", 
+        "arm_group": [
+            {
+                "arm_group_label": "low blood pressure alert", 
+                "arm_group_type": "Active Comparator", 
+                "description": "A Low Blood Pressure condition as specified (SAP <80 mmHg)will trigger an page to be sent to all anesthesia providers in <1 min that will read: \"A Low Blood Pressure condition has been detected. Consider hemodynamic support.\""
+            }, 
+            {
+                "arm_group_label": "no low blood pressure alert", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "The Low Blood Pressure condition will be monitored by treatment team, but additional alert will not be sent to treatment team."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The investigators thus propose to use an innovative randomized effectiveness trial design to\n      test the theory that early automatic identification of a \u00a1 Low Systolic Blood Pressure\u00a1\u00b1\n      clinical condition and decision-support alerts will prompt earlier hemodynamic support and a\n      consequently reduce the duration of such conditions. Specifically, the investigators will\n      test the hypothesis that providing DSS alerts in regards to hypotension reduces the duration\n      of hypotensive episodes. The core of the investigators study will be an existing electronic\n      anesthesia record and smart-alarm decision-support system. All patients undergoing surgery\n      at Hillcrest will be randomly assigned to routine care or to DSS support. In patients\n      assigned to DSS support, a systolic blood pressure less than 80 mmHg will generate a warning\n      within three minutes after detection. Clinicians will be free to act on the alert, ignore\n      the alert, or to consider the provided information without acting on it. The randomization,\n      complete anesthesia record, detailed record of hypotensive events, alerts provided,\n      clinician responses, and SAP response, will be captured by the investigators electronic\n      record-keeping system. The investigators primary outcome will be the duration of time the\n      patient has a systolic blood pressure less than 80 mmHg. Secondary outcome will be duration\n      of hospitalization. The investigators will assess the effect of the alert on the primary\n      outcome of time to SBP returning to above 80 mmHg using survival analysis, with time to\n      event censored (and considered a non-event) at either the end of surgery or end of\n      monitoring if patient did not return to above 80 mmHg."
+        }, 
+        "brief_title": "A Effectiveness Trial of Early Hemodynamic Support in Patients Demonstrating a Low Systolic Blood Pressure", 
+        "completion_date": {
+            "#text": "July 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Intraoperative Low Blood Pressure", 
+        "condition_browse": {
+            "mesh_term": "Hypotension"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients will be enrolled in the study if systolic blood pressure (SBP) is measured\n             to be below 80 mmHg for at least 3 minutes, either with the arterial line or cuff\n             (non-invasive blood pressure, NIBP)."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "711", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "July 17, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01654835", 
+            "org_study_id": "12-587"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "low blood pressure alert", 
+                "description": "A Low Blood Pressure condition as specified (SAP <80 mmHg)will trigger an page to be sent to all anesthesia providers in <1 min that will read: \"A Low Blood Pressure condition has been detected. Consider hemodynamic support.\"", 
+                "intervention_name": "low blood pressure alert", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": "no low blood pressure alert", 
+                "description": "A Low Blood Pressure condition as specified (SAP <80 mmHg)will be monitored by treatment team upon detection, but additional paged alert will not be generated.", 
+                "intervention_name": "standard of care", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "May 19, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Cleveland", 
+                    "country": "United States", 
+                    "state": "Ohio", 
+                    "zip": "44195"
+                }, 
+                "name": "Hillcrest Hospital Cleveland Clinic"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "July 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "We plan to test the hypothesis that providing hypotension alerts reduces the duration of time patients spend in a low blood pressure condition.", 
+            "measure": "duration of time having low blood pressure", 
+            "safety_issue": "No", 
+            "time_frame": "day 1"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01654835"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Secondary outcome will be the incidence of hypotension as well as duration of hospitalization", 
+                "measure": "hypotension", 
+                "safety_issue": "No", 
+                "time_frame": "day 1"
+            }, 
+            {
+                "description": "Secondary outcome will be the incidence of hypotension as well as duration of hospitalization", 
+                "measure": "duration of hospitalization", 
+                "safety_issue": "No", 
+                "time_frame": "up to day 3"
+            }
+        ], 
+        "source": "The Cleveland Clinic", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "The Cleveland Clinic", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "July 2012", 
+        "study_design": "Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Single Blind (Subject)", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2014"
+    }
+}

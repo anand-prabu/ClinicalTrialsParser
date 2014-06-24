@@ -1,0 +1,656 @@
+{
+    "clinical_study": {
+        "@rank": "163187", 
+        "arm_group": [
+            {
+                "arm_group_label": "Dose-finding: cobimetinib + MPDL3280A", 
+                "arm_group_type": "Experimental"
+            }, 
+            {
+                "arm_group_label": "Dose-expansion: cobimetinib + MPDL3280A", 
+                "arm_group_type": "Experimental"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "A Phase Ib, open-label, multicenter study designed to assess the safety, tolerability, and\n      pharmacokinetics of coadministration of MPDL3280A and of cobimetinib in patients with\n      metastatic or locally advanced cancer for which no standard of care exists."
+        }, 
+        "brief_title": "A Phase 1b Study of MPDL3280A (an Engineered Anti-PDL1 Antibody) in Combination With Cobimetinib in Patients With Locally Advanced or Metastatic Solid Tumors", 
+        "completion_date": {
+            "#text": "October 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Neoplasms", 
+        "condition_browse": {
+            "mesh_term": "Neoplasms"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Age >/= 18 years.\n\n          -  Solid tumor that is metastatic, locally advanced or recurrent.\n\n          -  ECOG performance status of 0 or 1.\n\n          -  Life expectancy >/= 12 weeks.\n\n          -  Measurable disease, as defined by RECIST v1.1.\n\n          -  Adequate blood and organ function.\n\n          -  Use of highly effective contraception.\n\n          -  Histological tumor tissue specimen.\n\n          -  Patients enrolling in the expansion cohorts in Stage 2 must consent to tumor biopsies\n             and must have one of the following types of cancer:\n\n          -  KRAS-mutant metatastic colorectal cancer (mCRC)\n\n          -  Non-small cell lung cancer (NSCLC)\n\n          -  Melanoma\n\n        Exclusion Criteria:\n\n          -  Pregnant and lactating women.\n\n          -  History of autoimmune disease.\n\n          -  Patients with prior stem cell or organ transplant.\n\n          -  History of idiopathic pulmonary fibrosis.\n\n          -  History of HIV or hepatitis C infection; history of hepatitis B is allowed if\n             infection has resolved (absence of HBsAG).\n\n          -  Severe infections within 4 weeks prior to study start; signs or symptoms of infection\n             within 2 weeks prior to study start.\n\n          -  Oral or IV antibiotic therapy within 2 weeks prior to study start.\n\n          -  Significant cardiovascular disease.\n\n          -  Administration of a live, attenuated vaccine within 4 weeks before study start or\n             until the end of the study.\n\n        Cancer-Specific Exclusions\n\n          -  Any approved anti-cancer therapy, including chemotherapy or hormonal therapy, within\n             3 weeks prior to study start.\n\n          -  Active or untreated central nervous system (CNS) tumors.\n\n          -  Leptomeningeal disease.\n\n          -  Excess, uncontrolled calcium levels.\n\n          -  History of prior significant toxicity from another MEK pathway inhibitor requiring\n             discontinuation of treatment.\n\n          -  Prior treatment with CD137 agonists or immune checkpoint blockade therapies."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "90", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 14, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01988896", 
+            "org_study_id": "GP28363"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Dose-expansion: cobimetinib + MPDL3280A", 
+                "description": "Fixed dose of cobimetinib adminstered orally", 
+                "intervention_name": "Cobimetinib", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "Dose-finding: cobimetinib + MPDL3280A", 
+                    "Dose-expansion: cobimetinib + MPDL3280A"
+                ], 
+                "description": "Fixed dose administered by IV", 
+                "intervention_name": "MPDL3280A", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Dose-finding: cobimetinib + MPDL3280A", 
+                "description": "Escalating doses of cobimetinib administered orally", 
+                "intervention_name": "Cobimetinib", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "lastchanged_date": "May 12, 2014", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Stanford", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94305"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Denver", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80220"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Haven", 
+                        "country": "United States", 
+                        "state": "Connecticut", 
+                        "zip": "06510"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Port Saint Lucie", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "34952"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kensignton", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "20895"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02114"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Novi", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48322"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10065"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chapel Hill", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27599"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nashville", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37203"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Arlington", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "76012"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77030"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Antonio", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78229"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tyler", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75702"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98195"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Vancouver", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98684"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "East Melbourne", 
+                        "country": "Australia", 
+                        "state": "Victoria", 
+                        "zip": "3002"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Heidelberg", 
+                        "country": "Australia", 
+                        "state": "Victoria", 
+                        "zip": "3084"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Parkville", 
+                        "country": "Australia", 
+                        "state": "Victoria", 
+                        "zip": "3050"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hamilton", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "L8V 5C2"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toronto", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "M5G 2M9"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montreal", 
+                        "country": "Canada", 
+                        "state": "Quebec", 
+                        "zip": "H3A 1A1"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montr\u00e9all", 
+                        "country": "Canada", 
+                        "state": "Quebec", 
+                        "zip": "H2L 4M1"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Brno", 
+                        "country": "Czech Republic", 
+                        "zip": "656 53"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Olomouc", 
+                        "country": "Czech Republic", 
+                        "zip": "775 20"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ostrava - Poruba", 
+                        "country": "Czech Republic", 
+                        "zip": "708 52"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lyon", 
+                        "country": "France", 
+                        "zip": "69373"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lyon", 
+                        "country": "France", 
+                        "zip": "69008"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Marseille", 
+                        "country": "France", 
+                        "zip": "13385"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "zip": "75475"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toulouse", 
+                        "country": "France", 
+                        "zip": "31059"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Villejuif", 
+                        "country": "France", 
+                        "zip": "94805"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Berlin", 
+                        "country": "Germany", 
+                        "zip": "12200"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dresden", 
+                        "country": "Germany", 
+                        "zip": "01307"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Freiburg", 
+                        "country": "Germany", 
+                        "zip": "79106"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Heidelberg", 
+                        "country": "Germany", 
+                        "zip": "69120"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seoul", 
+                        "country": "Korea, Republic of", 
+                        "zip": "110744"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seoul", 
+                        "country": "Korea, Republic of", 
+                        "zip": "138-736"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Singapore", 
+                        "country": "Singapore", 
+                        "zip": "188770"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Singapore", 
+                        "country": "Singapore", 
+                        "zip": "119074"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Barcelona", 
+                        "country": "Spain", 
+                        "zip": "08035"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sevilla", 
+                        "country": "Spain", 
+                        "zip": "41013"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Valencia", 
+                        "country": "Spain", 
+                        "zip": "46010"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Solna", 
+                        "country": "Sweden", 
+                        "zip": "17176"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "\u00d6rebro", 
+                        "country": "Sweden", 
+                        "zip": "70185"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Glasgow", 
+                        "country": "United Kingdom", 
+                        "zip": "G12 0YN"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "London", 
+                        "country": "United Kingdom", 
+                        "zip": "EC1M 6BQ"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Manchester", 
+                        "country": "United Kingdom", 
+                        "zip": "M20 4BX"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Australia", 
+                "Canada", 
+                "Czech Republic", 
+                "France", 
+                "Germany", 
+                "Korea, Republic of", 
+                "Singapore", 
+                "Spain", 
+                "Sweden", 
+                "United Kingdom"
+            ]
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "A Phase 1b Study of the Safety and Pharmacology of MPDL3280A Administered With Cobimetinib in Patients With Locally Advanced or Metastatic Solid Tumors", 
+        "overall_contact": {
+            "email": "global.rochegenentechtrials@roche.com", 
+            "last_name": "Reference Study ID Number: GP28363 www.roche.com/about_roche/roche_worldwide.htm", 
+            "phone": "888-662-6728 (U.S. Only)"
+        }, 
+        "overall_official": {
+            "affiliation": "Hoffmann-La Roche", 
+            "last_name": "Clinical Trials", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "Phase 1", 
+        "primary_completion_date": {
+            "#text": "October 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": [
+            {
+                "measure": "Safety: Incidence of adverse events (AE)", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 1 year"
+            }, 
+            {
+                "measure": "Safety: Incidence of dose-limiting toxicities (DLT)", 
+                "safety_issue": "Yes", 
+                "time_frame": "28 days following start of combination treatment"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01988896"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Pharmacokinetics: Maximum concentration (Cmax) of MPDL3280A", 
+                "safety_issue": "No", 
+                "time_frame": "Approximately 1 year"
+            }, 
+            {
+                "measure": "Pharmacokinetics: Plasma Cmax of Cobimetinib", 
+                "safety_issue": "No", 
+                "time_frame": "Approximately 1 year"
+            }
+        ], 
+        "source": "Hoffmann-La Roche", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Hoffmann-La Roche", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "December 2013", 
+        "study_design": "Allocation: Non-Randomized, Endpoint Classification: Safety Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2014"
+    }
+}

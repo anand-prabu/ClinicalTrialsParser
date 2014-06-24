@@ -1,0 +1,200 @@
+{
+    "clinical_study": {
+        "@rank": "127891", 
+        "arm_group": [
+            {
+                "arm_group_label": "Neoadjuvant therapy arm", 
+                "arm_group_type": "Experimental", 
+                "description": "FOLFIRI * 6 cycles +/- radiotherapy -> surgery -> FOLFIRI * 6 cycles"
+            }, 
+            {
+                "arm_group_label": "Adjuvant therapy arm", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Surgery -> FOLFIRI * 12 cycles +/- radiotherapy"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Colorectal cancer (CRC) is one of the most leading causes of cancer death in China. Although\n      multiple treatment modalities including surgery, radiotherapy and chemotherapy have been\n      developed, the prognosis of advanced CRC still remains poor. While around 30% of resectable\n      advanced CRC could be cured. This study is designed to compare perioperative FOLFIRI versus\n      adjuvant FOLFIRI in resectable advanced CRC who exposed to oxaliplatin in open-label, phase\n      III mode."
+        }, 
+        "brief_title": "Perioperative FOLFIRI VS Adjuvant FOLFIRI in Resectable Advanced CRC Failed to Oxaliplatin", 
+        "completion_date": {
+            "#text": "December 2024", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Colorectal Neoplasms", 
+            "Effects of Chemotherapy", 
+            "Surgery", 
+            "Metastasis", 
+            "Local Neoplasm Recurrence"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Neoplasms", 
+                "Colorectal Neoplasms", 
+                "Neoplasm Metastasis", 
+                "Neoplasm Recurrence, Local", 
+                "Recurrence"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Age:18-80\n\n          -  ECOG score: 0 or 1\n\n          -  Histological confirmed of Colorectal Adenocarcinoma\n\n          -  History of exposure to oxaliplatin\n\n          -  With local recurrent or metastatic focus\n\n          -  Tumor resectable confirmed by at less 3 hepatobiliary surgeon\n\n          -  Informed content acquired\n\n        Exclusion Criteria:\n\n          -  History of Exposure to Irinotecan\n\n          -  Received surgery in recently 4 weeks or did not recover from surgery\n\n          -  Other history of cancer in recent 5 years\n\n          -  Fluorouracil allergy or dihydropyrimidine dehydrogenase defect\n\n          -  Women with potential pregnancy."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "80 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "360", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "March 7, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02087475", 
+            "org_study_id": "SAH 5010 CRC"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Neoadjuvant therapy arm", 
+                    "Adjuvant therapy arm"
+                ], 
+                "intervention_name": "Irinotecan", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "Neoadjuvant therapy arm", 
+                    "Adjuvant therapy arm"
+                ], 
+                "intervention_name": "5-fluorouracil", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "Neoadjuvant therapy arm", 
+                    "Adjuvant therapy arm"
+                ], 
+                "intervention_name": "Local radiotherapy", 
+                "intervention_type": "Radiation"
+            }, 
+            {
+                "arm_group_label": [
+                    "Neoadjuvant therapy arm", 
+                    "Adjuvant therapy arm"
+                ], 
+                "intervention_name": "R0 resection", 
+                "intervention_type": "Procedure"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Fluorouracil", 
+                "Oxaliplatin", 
+                "Irinotecan"
+            ]
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "March 12, 2014", 
+        "location": {
+            "contact": {
+                "email": "xiao_jian@139.com", 
+                "last_name": "Jian Xiao, MD", 
+                "phone": "+8613711114566"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Guangzhou", 
+                    "country": "China", 
+                    "state": "Guangdong", 
+                    "zip": "510655"
+                }, 
+                "name": "The 6th Affiliated Hospital of Sun Yat-sen University"
+            }, 
+            "investigator": {
+                "last_name": "Jian Xiao, MD", 
+                "role": "Sub-Investigator"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "China"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Randomized Open-label Phase III Study Comparing Perioperative FOLFIRI Versus Adjuvant FOLFIRI in Resectable Advanced Colorectal Cancer Failed to Oxaliplatin-containing Treatment", 
+        "overall_contact": {
+            "email": "xiao_jian@139.com", 
+            "last_name": "Jian Xiao, MD", 
+            "phone": "+8613711114566"
+        }, 
+        "overall_official": {
+            "affiliation": "Sixth Affiliated Hospital, Sun Yat-sen University", 
+            "last_name": "Ping Lan, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "China: Ethics Committee", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "December 2021", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "Progress Free Survival", 
+            "safety_issue": "Yes", 
+            "time_frame": "3 years"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02087475"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Sixth Affiliated Hospital, Sun Yat-sen University", 
+            "investigator_full_name": "Lan Ping", 
+            "investigator_title": "Director", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Overall Survival", 
+                "safety_issue": "Yes", 
+                "time_frame": "3 Years"
+            }, 
+            {
+                "measure": "R0 Resection Rate", 
+                "safety_issue": "No", 
+                "time_frame": "6 Month"
+            }, 
+            {
+                "description": "Adverse events grade that greater than 3 is considered secondary endpoint, according to the Common Terminology Criteria for Adverse Events Version 3.0.", 
+                "measure": "Toxicity", 
+                "safety_issue": "Yes", 
+                "time_frame": "3 Year"
+            }, 
+            {
+                "description": "EORTC QoL Questionaires", 
+                "measure": "Life Quality", 
+                "safety_issue": "Yes", 
+                "time_frame": "3 Years"
+            }
+        ], 
+        "source": "Sixth Affiliated Hospital, Sun Yat-sen University", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Sixth Affiliated Hospital, Sun Yat-sen University", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2011", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2014"
+    }
+}

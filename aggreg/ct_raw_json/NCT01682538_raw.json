@@ -1,0 +1,1453 @@
+{
+    "clinical_study": {
+        "@rank": "65318", 
+        "arm_group": [
+            {
+                "arm_group_label": "Orfadin capsules, fasting", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Orfadin capsules, single dose, 30 mg"
+            }, 
+            {
+                "arm_group_label": "Orfadin suspension, fasting", 
+                "arm_group_type": "Experimental", 
+                "description": "Orfadin suspension 4 mg/mL, single dose 30 mg (7,5 mL)"
+            }, 
+            {
+                "arm_group_label": "Orfadin suspension, with food", 
+                "arm_group_type": "Experimental", 
+                "description": "Orfadin suspension 4mg/mL, single dose 30 mg (7,5 mL)"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The study is primarily being performed in order to demonstrate bioequivalence between the\n      Orfadin (nitisinone) suspension and the marketed capsule formulation. The study will also\n      contain a comparison of the bioavailability of the suspension given with food and on an\n      empty stomach."
+        }, 
+        "brief_title": "Bioequivalence of Orfadin Suspension Compared to Orfadin Capsules, and the Effect of Food on the Bioavailability of the Suspension", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "B1", 
+                        "description": "All treatment arms", 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "12"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "12"
+                                            }
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@spread": "12", 
+                                            "@value": "35"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "12"
+                                            }
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "12"
+                                        }
+                                    }, 
+                                    "sub_title": "Netherlands"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "The only disclosure restriction on the PI is that the sponsor can review results communications prior to public release and can embargo communications regarding trial results for a period that is more than 60 days but less than or equal to 180 days. The sponsor cannot require changes to the communication and cannot extend the embargo."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "0.81", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "90", 
+                                "ci_upper_limit": "0.91", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "non_inferiority": "Yes", 
+                                "non_inferiority_desc": "Bioequivalence was established if the 90% confidence interval of the ratio was completely within the acceptance range (0.80-1.25)", 
+                                "param_type": "Ratio of geometric means", 
+                                "param_value": "0.858"
+                            }
+                        }, 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Orfadin capsules, single dose, 30 mg", 
+                                    "title": "Orfadin Capsules, Fasting"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Orfadin suspension 4 mg/mL, single dose, 30 mg (7,5 mL)", 
+                                    "title": "Orfadin Suspension, Fasting"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "12"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "315", 
+                                                        "@upper_limit": "500", 
+                                                        "@value": "403"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "264", 
+                                                        "@upper_limit": "456", 
+                                                        "@value": "346"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "dispersion": "Full Range", 
+                                    "param": "Geometric Mean", 
+                                    "title": "The Area Under the Serum Concentration Curve (AUC) During 72 Hours After Dose (AUC72h) During Fasting Conditions.", 
+                                    "units": "uM*h"
+                                }
+                            ]
+                        }, 
+                        "population": "Full analysis set was used; subjects with available PK data for at least one of the treatments.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Day 1 predose and at 15, 30, 45 minutes and 1, 1.5, 2, 2.5, 3, 3.5, 4, 6, 8, 10, 12, 24, 36, 48 and 72 hours postdose.", 
+                        "title": "The Area Under the Serum Concentration Curve (AUC) During 72 Hours After Dose (AUC72h) During Fasting Conditions.", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "0.85", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "90", 
+                                "ci_upper_limit": "1.07", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "non_inferiority": "Yes", 
+                                "non_inferiority_desc": "Bioequivalence was established if the 90% confidence interval of the ratio was completely within the acceptance range (0.80-1.25)", 
+                                "param_type": "Ratio of geometric means", 
+                                "param_value": "0.954"
+                            }
+                        }, 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Orfadin capsules, single dose, 30 mg", 
+                                    "title": "Orfadin Capsules, Fasting"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Orfadin suspension 4 mg/mL, single dose, 30 mg (7,5 mL)", 
+                                    "title": "Orfadin Suspension, Fasting"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "12"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "8030", 
+                                                        "@upper_limit": "18000", 
+                                                        "@value": "10213"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "7780", 
+                                                        "@upper_limit": "20300", 
+                                                        "@value": "9741"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "dispersion": "Full Range", 
+                                    "param": "Geometric Mean", 
+                                    "title": "The Maximum Serum Concentration (Cmax) During Fasting Conditions.", 
+                                    "units": "nM"
+                                }
+                            ]
+                        }, 
+                        "population": "Full analysis set was used; subjects with available PK data for at least one of the treatments.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Day 1 predose and at 15, 30, 45 minutes and 1, 1.5, 2, 2.5, 3, 3.5, 4, 6, 8, 10, 12, 24, 36, 48 and 72 hours postdose.", 
+                        "title": "The Maximum Serum Concentration (Cmax) During Fasting Conditions.", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "0.96", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "90", 
+                                "ci_upper_limit": "1.07", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "non_inferiority": "Yes", 
+                                "non_inferiority_desc": "Equivalence (no food effect) was established if the 90% confidence interval of the ratio was completely within the acceptance range (0.80 - 1.25).", 
+                                "param_type": "Ratio of geometric means", 
+                                "param_value": "1.013"
+                            }
+                        }, 
+                        "description": "Measured for the Orfadin suspension treatments arms- both fasting and with food.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Orfadin suspension 4 mg/mL, single dose 30 mg (7,5 mL)", 
+                                    "title": "Orfadin Suspension, Fasting"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Orfadin suspension 4 mg/mL, single dose 30 mg (7,5 mL)", 
+                                    "title": "Orfadin Suspension, With Food"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "11"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "264", 
+                                                        "@upper_limit": "456", 
+                                                        "@value": "346"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "251", 
+                                                        "@upper_limit": "467", 
+                                                        "@value": "350"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Measured for the Orfadin suspension treatments arms- both fasting and with food.", 
+                                    "dispersion": "Full Range", 
+                                    "param": "Geometric Mean", 
+                                    "title": "The Area Under the Serum Concentration Curve (AUC) During 72 Hours After Dose (AUC72h)", 
+                                    "units": "uM*h"
+                                }
+                            ]
+                        }, 
+                        "population": "Full analysis set was used; subjects with available PK data for at least one of the treatments.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Day 1 predose and at 15, 30, 45 minutes and 1, 1.5, 2, 2.5, 3, 3.5, 4, 6, 8, 10, 12, 24, 36, 48 and 72 hours postdose.", 
+                        "title": "The Area Under the Serum Concentration Curve (AUC) During 72 Hours After Dose (AUC72h)", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "0.71", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "90", 
+                                "ci_upper_limit": "0.90", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "non_inferiority": "Yes", 
+                                "non_inferiority_desc": "Equivalence (no food effect) was established if the 90% confidence interval of the ratio was completely within the acceptance range (0.80 - 1.25)", 
+                                "param_type": "Ratio of geometric means", 
+                                "param_value": "0.802"
+                            }
+                        }, 
+                        "description": "Measured for the Orfadin suspension treatment arms- both fasting and with food.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Orfadin suspension 4 mg/mL, single dose 30 mg (7,5 mL)", 
+                                    "title": "Orfadin Suspension, Fasting"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Orfadin suspension 4 mg/mL, single dose 30 mg (7,5 mL)", 
+                                    "title": "Orfadin Suspension, With Food"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "11"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "7780", 
+                                                        "@upper_limit": "20300", 
+                                                        "@value": "9741"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "5300", 
+                                                        "@upper_limit": "12500", 
+                                                        "@value": "7808"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Measured for the Orfadin suspension treatment arms- both fasting and with food.", 
+                                    "dispersion": "Full Range", 
+                                    "param": "Geometric Mean", 
+                                    "title": "The Maximum Serum Concentration (Cmax)", 
+                                    "units": "nM"
+                                }
+                            ]
+                        }, 
+                        "population": "Full analysis set was used; subjects with available PK data for at least one of the treatments.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Day 1 predose and at 15, 30, 45 minutes and 1, 1.5, 2, 2.5, 3, 3.5, 4, 6, 8, 10, 12, 24, 36, 48 and 72 hours postdose.", 
+                        "title": "The Maximum Serum Concentration (Cmax)", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "Measured for the Orfadin capsules and suspension treatments arms - both fasting and with food.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Orfadin capsules, single dose, 30 mg", 
+                                    "title": "Orfadin Capsules, Fasting"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Orfadin suspension 4 mg/mL, single dose, 30 mg (7,5 mL)", 
+                                    "title": "Orfadin Suspension, Fasting"
+                                }, 
+                                {
+                                    "@group_id": "O3", 
+                                    "description": "Orfadin suspension 4 mg/mL, single dose, 30 mg (7,5 mL)", 
+                                    "title": "Orfadin Suspension, With Food"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@value": "11"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "366", 
+                                                        "@upper_limit": "891", 
+                                                        "@value": "633"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "454", 
+                                                        "@upper_limit": "715", 
+                                                        "@value": "559"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@lower_limit": "417", 
+                                                        "@upper_limit": "858", 
+                                                        "@value": "577"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Measured for the Orfadin capsules and suspension treatments arms - both fasting and with food.", 
+                                    "dispersion": "Full Range", 
+                                    "param": "Geometric Mean", 
+                                    "title": "AUC From Time Zero to Infinity", 
+                                    "units": "h*uM"
+                                }
+                            ]
+                        }, 
+                        "population": "Per-protocol set (bioequivalence) was used for fasted treatment groups and per-protocol set (food effect) for fed treatment group (all subjects with available PK data)", 
+                        "safety_issue": "No", 
+                        "time_frame": "Day 1 predose and at 15, 30, 45 minutes and 1, 1.5, 2, 2.5, 3, 3.5, 4, 6, 8, 10, 12, 24, 36, 48 and 72 hours postdose.", 
+                        "title": "AUC From Time Zero to Infinity", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "Measured for the Orfadin capsules and suspension treatments arms - both fasting and with food.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Orfadin capsules, single dose, 30 mg", 
+                                    "title": "Orfadin Capsules, Fasting"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Orfadin suspension 4 mg/mL, single dose 30 mg (7,5 mL)", 
+                                    "title": "Orfadin Suspension, Fasting"
+                                }, 
+                                {
+                                    "@group_id": "O3", 
+                                    "description": "Orfadin suspension 4 mg/mL, single dose 30 mg (7,5 mL)", 
+                                    "title": "Orfadin Suspension, With Food"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@value": "11"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "0.75", 
+                                                        "@upper_limit": "8.00", 
+                                                        "@value": "3.50"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "0.25", 
+                                                        "@upper_limit": "4.00", 
+                                                        "@value": "0.38"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@lower_limit": "3.50", 
+                                                        "@upper_limit": "10.00", 
+                                                        "@value": "8.00"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Measured for the Orfadin capsules and suspension treatments arms - both fasting and with food.", 
+                                    "dispersion": "Full Range", 
+                                    "param": "Median", 
+                                    "title": "Time to Reach C-Max (t-Max)", 
+                                    "units": "hours"
+                                }
+                            ]
+                        }, 
+                        "population": "Per protocol set (bioequivalence) was used for fasting treatments and per protocol set (food effect) used for fed treatment (all subjects with available PK data)", 
+                        "safety_issue": "No", 
+                        "time_frame": "Day 1 predose and at 15, 30, 45 minutes and 1, 1.5, 2, 2.5, 3, 3.5, 4, 6, 8, 10, 12, 24, 36, 48 and 72 hours postdose.", 
+                        "title": "Time to Reach C-Max (t-Max)", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "Measured for the Orfadin capsules and suspension treatments arms - both fasting and with food.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Orfadin capsules, single dose, 30 mg", 
+                                    "title": "Orfadin Capsules, Fasting"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Orfadin suspension 4 mg/mL, single dose, 30 mg (7.5 mL)", 
+                                    "title": "Orfadin Suspension, Fasting"
+                                }, 
+                                {
+                                    "@group_id": "O3", 
+                                    "description": "Orfadin suspension 4 mg/mL, single dose, 30 mg (7.5 mL)", 
+                                    "title": "Orfadin Suspension, With Food"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@value": "11"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "20.6", 
+                                                        "@upper_limit": "66.4", 
+                                                        "@value": "48.7"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "39.3", 
+                                                        "@upper_limit": "63.7", 
+                                                        "@value": "53.6"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@lower_limit": "37.3", 
+                                                        "@upper_limit": "75.6", 
+                                                        "@value": "54.3"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Measured for the Orfadin capsules and suspension treatments arms - both fasting and with food.", 
+                                    "dispersion": "Full Range", 
+                                    "param": "Median", 
+                                    "title": "Terminal Half-life", 
+                                    "units": "hours"
+                                }
+                            ]
+                        }, 
+                        "population": "Per protocol set (bioequivalence) was used for fasting treatments and per protocol set (food effect) used for fed treatment (all subjects with available PK data)", 
+                        "safety_issue": "No", 
+                        "time_frame": "Day 1 predose and at 15, 30, 45 minutes and 1, 1.5, 2, 2.5, 3, 3.5, 4, 6, 8, 10, 12, 24, 36, 48 and 72 hours postdose.", 
+                        "title": "Terminal Half-life", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "Measured for the Orfadin capsules and suspension treatments arms - both fasting and with food.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Orfadin capsules, single dose, 30 mg", 
+                                    "title": "Orfadin Capsules, Fasting"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Orfadin suspension, 4 mg/mL, single dose, 30 mg (7.5 mL)", 
+                                    "title": "Orfadin Suspension, Fasting"
+                                }, 
+                                {
+                                    "@group_id": "O3", 
+                                    "description": "Orfadin suspension 4 mg/mL, single dose, 30 mg (7.5 mL)", 
+                                    "title": "Orfadin Suspension, With Food"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@value": "11"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "0.102", 
+                                                        "@upper_limit": "0.249", 
+                                                        "@value": "0.145"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "0.127", 
+                                                        "@upper_limit": "0.201", 
+                                                        "@value": "0.160"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@lower_limit": "0.106", 
+                                                        "@upper_limit": "0.218", 
+                                                        "@value": "0.158"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Measured for the Orfadin capsules and suspension treatments arms - both fasting and with food.", 
+                                    "dispersion": "Full Range", 
+                                    "param": "Median", 
+                                    "title": "Oral Clearance (CL/F)", 
+                                    "units": "L/h"
+                                }
+                            ]
+                        }, 
+                        "population": "Per protocol set (bioequivalence) was used for fasting treatments and per protocol set (food effect) used for fed treatment (all subjects with available PK data)", 
+                        "safety_issue": "No", 
+                        "time_frame": "Day 1 predose and at 15, 30, 45 minutes and 1, 1.5, 2, 2.5, 3, 3.5, 4, 6, 8, 10, 12, 24, 36, 48 and 72 hours postdose.", 
+                        "title": "Oral Clearance (CL/F)", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "Measured for the Orfadin capsules and suspension treatments arms - both fasting and with food.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Orfadin capsules, single dose, 30 mg", 
+                                    "title": "Orfadin Capsules, Fasting"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Orfadin suspension 4 mg/mL, single dose, 30 mg (7.5 mL)", 
+                                    "title": "Orfadin Suspension, Fasting"
+                                }, 
+                                {
+                                    "@group_id": "O3", 
+                                    "description": "Orfadin suspension 4 mg/mL, single dose, 30 mg (7.5 mL)", 
+                                    "title": "Orfadin Suspension, With Food"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@value": "11"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "7.42", 
+                                                        "@upper_limit": "12.0", 
+                                                        "@value": "9.80"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "8.59", 
+                                                        "@upper_limit": "16.7", 
+                                                        "@value": "12.2"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O3", 
+                                                        "@lower_limit": "8.48", 
+                                                        "@upper_limit": "17.2", 
+                                                        "@value": "12.8"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Measured for the Orfadin capsules and suspension treatments arms - both fasting and with food.", 
+                                    "dispersion": "Full Range", 
+                                    "param": "Median", 
+                                    "title": "Apparent Volume of Distribution (Vz/F)", 
+                                    "units": "L"
+                                }
+                            ]
+                        }, 
+                        "population": "Per protocol set (bioequivalence) was used for fasting treatments and per protocol set (food effect) used for fed treatment (all subjects with available PK data)", 
+                        "safety_issue": "No", 
+                        "time_frame": "Day 1 predose and at 15, 30, 45 minutes and 1, 1.5, 2, 2.5, 3, 3.5, 4, 6, 8, 10, 12, 24, 36, 48 and 72 hours postdose.", 
+                        "title": "Apparent Volume of Distribution (Vz/F)", 
+                        "type": "Secondary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "P1", 
+                        "description": "All participants received all study treatments in a randomized fashion. Subjects were allocated to one of the following treatment sequences (2 subjects to each sequence):\nA B C; B C A; C A B; C B A; A C B; B A C where A=Orfadin capsules, single dose, 30 mg; B=Orfadin suspension, single dose 30 mg, fasting; C=Orfadin suspension, single dose 30 mg, fed", 
+                        "title": "All Treatment Groups"
+                    }
+                }, 
+                "period_list": {
+                    "period": {
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "12", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "12", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "0", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "recruitment_details": "First subject screened: 29 August 2012 Last subject last visit: 25 October 2012."
+            }, 
+            "point_of_contact": {
+                "email": "erik.brouwer@sobi.com", 
+                "name_or_title": "Medical Director", 
+                "organization": "Swedish Orphan Biovitrum", 
+                "phone": "+4686972000"
+            }, 
+            "reported_events": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "E1", 
+                            "description": "Orfadin capsules, single dose, 30 mg", 
+                            "title": "Orfadin Capsules, Fasting"
+                        }, 
+                        {
+                            "@group_id": "E2", 
+                            "description": "Orfadin suspension 4 mg/mL, single dose, 30 mg (7.5 mL)", 
+                            "title": "Orfadin Suspension, Fasting"
+                        }, 
+                        {
+                            "@group_id": "E3", 
+                            "description": "Orfadin suspension 4 mg/mL, single dose, 30 mg (7.5 mL)", 
+                            "title": "Orfadin Suspension, With Food"
+                        }
+                    ]
+                }, 
+                "other_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "12"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "12"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "12"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, other adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "12"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "12"
+                                            }, 
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "12"
+                                            }
+                                        ], 
+                                        "sub_title": "Dyspepsia"
+                                    }
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "12"
+                                            }, 
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "12"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "12"
+                                            }
+                                        ], 
+                                        "sub_title": "Catheter site related reaction"
+                                    }
+                                }, 
+                                "title": "General disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "12"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "12"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "12"
+                                            }
+                                        ], 
+                                        "sub_title": "Nasopharyngitis"
+                                    }
+                                }, 
+                                "title": "Infections and infestations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "12"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "12"
+                                            }, 
+                                            {
+                                                "@events": "1", 
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "12"
+                                            }
+                                        ], 
+                                        "sub_title": "Musculoskeletal pain"
+                                    }
+                                }, 
+                                "title": "Musculoskeletal and connective tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "12"
+                                                }
+                                            ], 
+                                            "sub_title": "Dizziness"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "12"
+                                                }
+                                            ], 
+                                            "sub_title": "Headache"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Nervous system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "12"
+                                                }
+                                            ], 
+                                            "sub_title": "Epistaxis"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@events": "1", 
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@events": "0", 
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "12"
+                                                }
+                                            ], 
+                                            "sub_title": "Nasal congestion"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Respiratory, thoracic and mediastinal disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "default_vocab": "MedDRA 15.0", 
+                    "frequency_threshold": "0"
+                }
+            }
+        }, 
+        "completion_date": {
+            "#text": "October 2012", 
+            "@type": "Actual"
+        }, 
+        "condition": "Healthy Volunteers", 
+        "detailed_description": {
+            "textblock": "This is an open, randomized 3-way crossover study in 12 healthy volunteers. Subjects will\n      receive single oral 30-mg doses of nitisinone as a suspension (fasting and with food) and as\n      hard gelatin capsules (fasting only). There will be a 2-week washout period between the\n      doses.\n\n      There will be a screening visit within 3 weeks prior to the first dose. During each\n      treatment period, subjects will be admitted to the clinic from the afternoon on the day\n      before drug administration (i.e., on Day -1) and remain at the clinic until the 48-hour\n      post-dose blood sample has been collected in the morning of Day 3. They will then return for\n      ambulatory visit in the morning of Day 4 (72-hour sample). A follow-up visit will take place\n      7-14 days after the last dose."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Healthy male volunteers\n\n          -  Age: 18-55 years, inclusive\n\n          -  BMI: 18,5-30,0 kg/m2, inclusive\n\n        Exclusion Criteria:\n\n          -  heavy smokers\n\n          -  Consumption of more than 4 cups of coffee per day.\n\n          -  History of drug and/or alcohol abuse.\n\n          -  Positive drug screen or alcohol breath test.\n\n          -  Positive screens for hepatitis B surface antigen, hepatitis C antibodies and human\n             immunodeficiency virus (HIV) 1-2 antibodies.\n\n          -  Enrollment in another concurrent clinical study\n\n          -  Intake of an investigational medicinal product within three months prior to inclusion\n             in this study.\n\n          -  Donation of more than 50 mL of blood within 60 days prior to drug administration\n\n          -  Donation of more than 1,5 liters of blood in the 10 months prior to first drug\n             administration."
+            }, 
+            "gender": "Male", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "55 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "12", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "September 7, 2012", 
+        "firstreceived_results_date": "October 8, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01682538", 
+            "org_study_id": "Sobi.NTBC-001"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Orfadin capsules, fasting", 
+                "intervention_name": "Nitisinone, capsule", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "Orfadin suspension, fasting", 
+                    "Orfadin suspension, with food"
+                ], 
+                "intervention_name": "Nitisinone, suspension", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Nitisinone"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "keyword": [
+            "Orfadin", 
+            "Nitisinone", 
+            "Bioequivalence", 
+            "Bioavailability"
+        ], 
+        "lastchanged_date": "February 20, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Zuidlaren", 
+                    "country": "Netherlands"
+                }, 
+                "name": "Pharmaceutical Research Associates Group B.V (PRA)"
+            }
+        }, 
+        "location_countries": {
+            "country": "Netherlands"
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "A Study to Evaluate the Bioequivalence of Orfadin Suspension 4 mg/mL Compared to Orfadin Capsules 10 mg, and the Effect of Food on the Bioavailability of the Suspension. An Open-label, Randomized, Cross-over, Single-dose Study in Healthy Volunteers", 
+        "overall_official": {
+            "affiliation": "Swedish Orphan Biovitrum", 
+            "last_name": "Erik Brouwer, MD", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Netherlands: The Central Committee on Research Involving Human Subjects (CCMO)", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 1", 
+        "primary_completion_date": {
+            "#text": "October 2012", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "measure": "The Area Under the Serum Concentration Curve (AUC) During 72 Hours After Dose (AUC72h) During Fasting Conditions.", 
+                "safety_issue": "No", 
+                "time_frame": "Day 1 predose and at 15, 30, 45 minutes and 1, 1.5, 2, 2.5, 3, 3.5, 4, 6, 8, 10, 12, 24, 36, 48 and 72 hours postdose."
+            }, 
+            {
+                "measure": "The Maximum Serum Concentration (Cmax) During Fasting Conditions.", 
+                "safety_issue": "No", 
+                "time_frame": "Day 1 predose and at 15, 30, 45 minutes and 1, 1.5, 2, 2.5, 3, 3.5, 4, 6, 8, 10, 12, 24, 36, 48 and 72 hours postdose."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01682538"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Measured for the Orfadin suspension treatments arms- both fasting and with food.", 
+                "measure": "The Area Under the Serum Concentration Curve (AUC) During 72 Hours After Dose (AUC72h)", 
+                "safety_issue": "No", 
+                "time_frame": "Day 1 predose and at 15, 30, 45 minutes and 1, 1.5, 2, 2.5, 3, 3.5, 4, 6, 8, 10, 12, 24, 36, 48 and 72 hours postdose."
+            }, 
+            {
+                "description": "Measured for the Orfadin suspension treatment arms- both fasting and with food.", 
+                "measure": "The Maximum Serum Concentration (Cmax)", 
+                "safety_issue": "No", 
+                "time_frame": "Day 1 predose and at 15, 30, 45 minutes and 1, 1.5, 2, 2.5, 3, 3.5, 4, 6, 8, 10, 12, 24, 36, 48 and 72 hours postdose."
+            }, 
+            {
+                "description": "Measured for the Orfadin capsules and suspension treatments arms - both fasting and with food.", 
+                "measure": "AUC From Time Zero to Infinity", 
+                "safety_issue": "No", 
+                "time_frame": "Day 1 predose and at 15, 30, 45 minutes and 1, 1.5, 2, 2.5, 3, 3.5, 4, 6, 8, 10, 12, 24, 36, 48 and 72 hours postdose."
+            }, 
+            {
+                "description": "Measured for the Orfadin capsules and suspension treatments arms - both fasting and with food.", 
+                "measure": "Time to Reach C-Max (t-Max)", 
+                "safety_issue": "No", 
+                "time_frame": "Day 1 predose and at 15, 30, 45 minutes and 1, 1.5, 2, 2.5, 3, 3.5, 4, 6, 8, 10, 12, 24, 36, 48 and 72 hours postdose."
+            }, 
+            {
+                "description": "Measured for the Orfadin capsules and suspension treatments arms - both fasting and with food.", 
+                "measure": "Terminal Half-life", 
+                "safety_issue": "No", 
+                "time_frame": "Day 1 predose and at 15, 30, 45 minutes and 1, 1.5, 2, 2.5, 3, 3.5, 4, 6, 8, 10, 12, 24, 36, 48 and 72 hours postdose."
+            }, 
+            {
+                "description": "Measured for the Orfadin capsules and suspension treatments arms - both fasting and with food.", 
+                "measure": "Oral Clearance (CL/F)", 
+                "safety_issue": "No", 
+                "time_frame": "Day 1 predose and at 15, 30, 45 minutes and 1, 1.5, 2, 2.5, 3, 3.5, 4, 6, 8, 10, 12, 24, 36, 48 and 72 hours postdose."
+            }, 
+            {
+                "description": "Measured for the Orfadin capsules and suspension treatments arms - both fasting and with food.", 
+                "measure": "Apparent Volume of Distribution (Vz/F)", 
+                "safety_issue": "No", 
+                "time_frame": "Day 1 predose and at 15, 30, 45 minutes and 1, 1.5, 2, 2.5, 3, 3.5, 4, 6, 8, 10, 12, 24, 36, 48 and 72 hours postdose."
+            }
+        ], 
+        "source": "Swedish Orphan Biovitrum", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Swedish Orphan Biovitrum", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "August 2012", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Bio-equivalence Study, Intervention Model: Crossover Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "February 2014"
+    }
+}

@@ -1,0 +1,201 @@
+{
+    "clinical_study": {
+        "@rank": "82429", 
+        "arm_group": [
+            {
+                "arm_group_label": "Usual Care for Weight Loss", 
+                "arm_group_type": "No Intervention", 
+                "description": "Patients randomized to this arm will not receive text messages or any other weight-loss support besides usual care provided at Denver Health. They will receive a weight loss educational packet and be asked to follow up with their primary care provider to further discuss their efforts at weight loss with additional follow-up as directed by their provider. They will be contacted periodically to be weighed. Providers will not be made aware that their patients are participating in the study's control arm."
+            }, 
+            {
+                "arm_group_label": "Text Message Based Weight Loss Support", 
+                "arm_group_type": "Experimental", 
+                "description": "Patients will receive the same weight loss educational packet as those randomized to usual care. Patients will be assisted in choosing a self-management goal related to exercise and to eating behaviors. They will receive text messages at a frequency up to 1x daily; input from focus groups will guide text message frequency."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to compare the effectiveness of text message-based support to\n      usual care at promoting weight loss in patients with pre-diabetes."
+        }, 
+        "brief_title": "Text Messaging for Weight Loss", 
+        "completion_date": {
+            "#text": "December 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Body Weight", 
+            "Body Weight Changes", 
+            "Prediabetic State", 
+            "Prediabetes"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Body Weight", 
+                "Body Weight Changes", 
+                "Weight Loss", 
+                "Glucose Intolerance", 
+                "Prediabetic State"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Text messaging has been shown to be effective for weight-loss in very limited testing. DH\n      has experience with both text message based intervention and weight management intervention.\n      This study aims to enhance Denver Health's (DH) existing Patient Relationship Management\n      (PRM) text message (SMS) infrastructure to include culturally-appropriate outreach to\n      promote weight loss.\n\n      Subjects will be randomized into one of two arms:\n\n        -  Usual care: Patients randomized to this arm will not receive text messages or any other\n           weight-loss support besides usual care provided at DH. They will receive a weight loss\n           educational packet and be asked to follow up with their primary care provider to\n           further discuss their efforts at weight loss with additional follow-up as directed by\n           their provider. They will be contacted periodically to be weighed. Providers will not\n           be made aware that their patients are participating in the study's control arm.\n\n        -  Text Message-based weight loss support. Patients will receive the same weight loss\n           educational packet as those randomized to usual care. Patients will be assisted in\n           choosing a self-management goal related to exercise and to eating behaviors. They will\n           receive text messages at a frequency up to 1x daily; input from focus groups will guide\n           text message frequency.\n\n      SMS content is similar to the Diabetes Prevention Program (DPP) curriculum and will fall\n      into the following categories:\n\n        -  Outgoing \"tips of the day\"\n\n        -  Interactive messages that solicit a simple response for the day from the participant\n\n        -  Outgoing reminders to inform participant about events in the community and about clinic\n           appointments with their primary care provider.\n\n      Basic descriptive statistics for categorical variables will be generated to describe the\n      baseline demographic and clinical characteristics.  Univariate analyses will be performed to\n      determine whether there are differences between patients in the three arms of the\n      intervention. For clinical outcomes, general linear mixed effects models will be used with\n      intervention and time (and their interactions) specified as fixed effects to determine\n      whether change over time in outcomes differs significantly for the three groups.  A random\n      subject effect will be specified to model the correlation of observations taken on an\n      individual.  Contrasts will be constructed to test the difference in interventions at six\n      months and 12 months.  If the data do not follow an approximate normal distribution or\n      cannot be normalized using log transformation the ranks of the outcomes will be analyzed in\n      the mixed effects model. All statistical analyses will be performed using SAS version 9.2.\n\n      The study is powered to detect a difference at six months between the text message group and\n      the usual care group.  Previous research suggests that, with 60 participants per group,\n      researchers would have 89% power to detect a difference between groups of 1.7 kg.  The\n      investigators think that this is a reasonable estimate, as subjects in the control group in\n      this study lost 0.4 kg, and it is believed that subjects in the control group will be weight\n      stable. While investigators anticipate that patients who participate in the DPP program will\n      lose weight, it is believed participation across the usual care and SMS groups will be\n      comparable as i) randomization is stratified to the two groups by past participation in the\n      DPP and ii) relatively equal participation in the two groups is anticipated throughout the\n      intervention period. This stratification is intended to equalize the effects of\n      class-attendance heterogeneity across the two study groups. The study aims to have 90\n      participants per group to improve the power for sub-group analyses."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  \u2265 18 years of age or older\n\n          -  Ownership of a cell phone with SMS capabilities\n\n          -  HbA1c greater than 5.6 but less than 6.5\n\n          -  BMI \u2265 25 kg/m2 and less than 50 kg/m2\n\n          -  English or Spanish speakers.\n\n        Exclusion Criteria:\n\n          -  Individuals with co-morbid illness with life expectancy less than 12 months (e.g.,\n             terminal cancer, Child's Class C hepatic cirrhosis)\n\n          -  Diabetes based on an ICD-9 code in previous 3 years\n\n          -  Institutionalized individuals\n\n          -  Individuals not planning to stay in the area at least 6 months."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "190", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "February 10, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02063048", 
+            "org_study_id": "13-1606 (Fischer)", 
+            "secondary_id": "1R24HS022143-01"
+        }, 
+        "intervention": {
+            "arm_group_label": "Text Message Based Weight Loss Support", 
+            "intervention_name": "Text Message Based Weight Loss Support", 
+            "intervention_type": "Behavioral"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "weight loss", 
+            "Text Messaging", 
+            "Short Message Service", 
+            "Text Messages"
+        ], 
+        "lastchanged_date": "February 13, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Denver", 
+                    "country": "United States", 
+                    "state": "Colorado", 
+                    "zip": "80204"
+                }, 
+                "name": "Denver Health"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "The Comparative Effectiveness of Clinic-Based Weight Loss Strategies", 
+        "overall_official": [
+            {
+                "affiliation": "Denver Health", 
+                "last_name": "Henry Fischer, MD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Denver Health", 
+                "last_name": "Edward Havranek, MD", 
+                "role": "Study Director"
+            }
+        ], 
+        "overall_status": "Enrolling by invitation", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "June 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Outcomes will be analyzed at baseline and at 6-month and 12-month follow-ups.", 
+            "measure": "Absolute weight loss in pounds", 
+            "safety_issue": "No", 
+            "time_frame": "12 months"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02063048"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Denver Health and Hospital Authority", 
+            "investigator_full_name": "Henry Fischer", 
+            "investigator_title": "Physician - Internal Medicine", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Outcomes will be analyzed at baseline and at 6-month and 12-month follow-ups.", 
+                "measure": "Percent weight loss", 
+                "safety_issue": "No", 
+                "time_frame": "12 months"
+            }, 
+            {
+                "measure": "Change in glycemic control as measured by HbA1c and fasting glucose", 
+                "safety_issue": "No", 
+                "time_frame": "12 months"
+            }, 
+            {
+                "description": "Response rate to text message prompts", 
+                "measure": "Patient Engagement Measures", 
+                "safety_issue": "No", 
+                "time_frame": "12 months"
+            }, 
+            {
+                "description": "defined as weight gain less than two pounds", 
+                "measure": "Percent of patients who maintain or lose weight", 
+                "safety_issue": "No", 
+                "time_frame": "12 months"
+            }, 
+            {
+                "description": "based on usual care measurements", 
+                "measure": "Changes in systolic and diastolic blood pressure", 
+                "safety_issue": "No", 
+                "time_frame": "12 months"
+            }, 
+            {
+                "description": "based on usual care measurements", 
+                "measure": "Change in LDL-cholesterol", 
+                "safety_issue": "No", 
+                "time_frame": "12 months"
+            }, 
+            {
+                "description": "Costs from the perspective of the health system, including all personnel costs and technology costs, will be calculated. The upper 2.5% of the cost distribution curve will be truncated to eliminate outliers that would artificially skew results and use non-parametric methods if the distribution is non-normal as expected. The effect of scaling the intervention up two-fold and five-fold will undergo sensitivity analyses.", 
+                "measure": "Operating costs per participant receiving intervention", 
+                "safety_issue": "No", 
+                "time_frame": "12 months"
+            }, 
+            {
+                "description": "Acceptability of the text-message based approach through individual interviews", 
+                "measure": "Patient Engagement Measures", 
+                "safety_issue": "No", 
+                "time_frame": "12 months"
+            }
+        ], 
+        "source": "Denver Health and Hospital Authority", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "Center for Health Systems Research at Denver Health", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Colorado Health Outcomes Program", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "Denver Health and Hospital Authority", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "April 2014", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Health Services Research", 
+        "study_type": "Interventional", 
+        "verification_date": "February 2014"
+    }
+}

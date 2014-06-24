@@ -1,0 +1,133 @@
+{
+    "clinical_study": {
+        "@rank": "105956", 
+        "acronym": "SDD for ICD", 
+        "arm_group": [
+            {
+                "arm_group_label": "Next Day Discharge", 
+                "arm_group_type": "No Intervention", 
+                "description": "The patient will have a 23 hour standard of care observational stay in the hospital after an implantable cardioverter defibrillator implant procedure."
+            }, 
+            {
+                "arm_group_label": "Same Day Discharge", 
+                "arm_group_type": "Active Comparator", 
+                "description": "The patient will be discharged from the hospital the same evening after an implantable cardioverter defibrillator implant procedure. Follow up after surgery will be done via remote device follow up (1) on the day of discharge and (2) 24 hours after surgery."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to determine whether it is safe to send patients home from the\n      hospital on the same day following an implantable cardioverter defibrillator (ICD) implant."
+        }, 
+        "brief_title": "Same Day Discharge (SDD) After Implantable Cardioverter Defibrillator (ICD) Implant", 
+        "completion_date": {
+            "#text": "December 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Heart Failure", 
+            "Coronary Artery Disease"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Coronary Artery Disease", 
+                "Myocardial Ischemia", 
+                "Coronary Disease", 
+                "Heart Failure"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patient has a St Jude Medical device that is compatible with Merlin.net (remote\n             monitoring)\n\n          -  Patient is receiving an implantable cardioverter defibrillator for primary prevention\n\n          -  Patient lives within 50 miles of an emergency room or 24 hour urgent care\n\n          -  Patient is able to sign informed consent\n\n        Exclusion Criteria:\n\n          -  Patient experiences a complication during or 4 hours after implantable cardioverter\n             defibrillator procedure\n\n          -  Physician elects to keep the patient in over night due to a change in medical\n             condition or a pre-existing condition that requires administration of continuous\n             blood thinners\n\n          -  Physician is unable to program the implantable cardioverter defibrillator to collect\n             all required information remotely from device\n\n          -  Patient is pregnant"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "600", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 19, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01993862", 
+            "org_study_id": "40009529/B"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Same Day Discharge", 
+                "description": "Patients will send device data remotely to their physician on the day of discharge from the hospital and again 24 hours after discharge from the hospital.", 
+                "intervention_name": "Same Day Discharge", 
+                "intervention_type": "Other", 
+                "other_name": "Merlin.net"
+            }, 
+            {
+                "arm_group_label": "Same Day Discharge", 
+                "intervention_name": "Merlin.net", 
+                "intervention_type": "Device"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "May 29, 2014", 
+        "number_of_arms": "2", 
+        "official_title": "Safety and Cost Effectiveness of Same Day Discharge After Implantable Cardioverter-Defibrillator Implant Versus Next Day Discharge", 
+        "overall_official": [
+            {
+                "affiliation": "University of Wisconsin, Madison", 
+                "last_name": "Indrajit Choudhuri, MD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Heart Rhythm Associates of New York, NY", 
+                "last_name": "Ranjit Suri, MD", 
+                "role": "Principal Investigator"
+            }
+        ], 
+        "overall_status": "Enrolling by invitation", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "December 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "Complication rate at 1 week after an implantable cardioverter defibrillator implant", 
+            "safety_issue": "Yes", 
+            "time_frame": "1 week"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01993862"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Cost savings per patient", 
+                "safety_issue": "No", 
+                "time_frame": "1 week"
+            }, 
+            {
+                "measure": "Complication rate at 6 months after an implantable cardioverter defibrillator implant", 
+                "safety_issue": "Yes", 
+                "time_frame": "6 months"
+            }
+        ], 
+        "source": "St. Jude Medical", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "St. Jude Medical", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "December 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Basic Science", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2014"
+    }
+}

@@ -1,0 +1,3043 @@
+{
+    "clinical_study": {
+        "@rank": "112564", 
+        "acronym": "LAPLACE-2", 
+        "arm_group": [
+            {
+                "arm_group_label": "Arm 1", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Dose 1 of statin therapy and placebo orally/daily and placebo subcutaneously every 2 weeks"
+            }, 
+            {
+                "arm_group_label": "Arm 2", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Dose 2 of statin therapy and placebo orally/daily and placebo subcutaneously monthly"
+            }, 
+            {
+                "arm_group_label": "Arm 3", 
+                "arm_group_type": "Other", 
+                "description": "Dose 3 of statin therapy and Ezetimibe orally/daily and placebo subcutaneously every 2 weeks"
+            }, 
+            {
+                "arm_group_label": "Arm 4", 
+                "arm_group_type": "Other", 
+                "description": "Dose 4 of statin therapy and Ezetimibe orally/daily and placebo subcutaneously monthly"
+            }, 
+            {
+                "arm_group_label": "Arm 5", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Dose 5 of statin therapy and placebo orally/daily and evolocumab (AMG 145) subcutaneously every 2 weeks"
+            }, 
+            {
+                "arm_group_label": "Arm 6", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Dose 6 of statin therapy and placebo orally/daily and evolocumab (AMG 145) subcutaneously monthly"
+            }, 
+            {
+                "arm_group_label": "Arm 7", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Dose 7 of statin therapy and placebo orally/daily and placebo subcutaneously every 2 weeks"
+            }, 
+            {
+                "arm_group_label": "Arm 8", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Dose 8 of statin therapy and placebo orally/daily and placebo subcutaneously monthly"
+            }, 
+            {
+                "arm_group_label": "Arm 9", 
+                "arm_group_type": "Other", 
+                "description": "Dose 9 of statin therapy and Ezetimibe orally/daily and placebo subcutaneously every 2 weeks"
+            }, 
+            {
+                "arm_group_label": "Arm 10", 
+                "arm_group_type": "Other", 
+                "description": "Dose 10 of statin therapy and Ezetimibe orally/daily and placebo subcutaneously monthly"
+            }, 
+            {
+                "arm_group_label": "Arm 11", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Dose 11 of statin therapy and placebo orally/daily and evolocumab (AMG 145) subcutaneously every 2 weeks"
+            }, 
+            {
+                "arm_group_label": "Arm 12", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Dose 12 of statin therapy and placebo orally/daily and evolocumab (AMG 145) subcutaneously monthly"
+            }, 
+            {
+                "arm_group_label": "Arm 13", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Dose 13 of statin therapy orally/daily and placebo subcutaneously every 2 weeks"
+            }, 
+            {
+                "arm_group_label": "Arm 14", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Dose 14 of statin therapy orally/daily and placebo subcutaneously monthly"
+            }, 
+            {
+                "arm_group_label": "Arm 15", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Dose 15 of statin therapy orally/daily and evolocumab (AMG 145) subcutaneously every 2 weeks"
+            }, 
+            {
+                "arm_group_label": "Arm 16", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Dose 16 of statin therapy orally/daily and evolocumab (AMG 145) subcutaneously monthly"
+            }, 
+            {
+                "arm_group_label": "Arm 17", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Dose 17 of statin therapy orally/daily and placebo subcutaneously every 2 weeks."
+            }, 
+            {
+                "arm_group_label": "Arm 18", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Dose 18 of statin therapy orally/daily and placebo subcutaneously monthly"
+            }, 
+            {
+                "arm_group_label": "Arm 19", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Dose 19 of statin therapy orally/daily and evolocumab (AMG 145) subcutaneously every 2 weeks"
+            }, 
+            {
+                "arm_group_label": "Arm 20", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Dose 20 of statin therapy orally/daily and evolocumab (AMG 145) subcutaneously monthly"
+            }, 
+            {
+                "arm_group_label": "Arm 21", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Dose 21 of statin therapy orally/daily and placebo subcutaneously every 2 weeks"
+            }, 
+            {
+                "arm_group_label": "Arm 22", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Dose 22 of statin therapy orally/daily and placebo subcutaneously monthly"
+            }, 
+            {
+                "arm_group_label": "Arm 23", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Dose 23 of statin therapy orally/daily and evolocumab (AMG 145) subcutaneously every 2 weeks"
+            }, 
+            {
+                "arm_group_label": "Arm 24", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Dose 24 of statin therapy orally/daily and evolocumab (AMG 145) subcutaneously monthly"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The primary hypothesis is that both dosing regimens of evolocumab (AMG 145) subcutaneous\n      will be well tolerated and will result in greater reduction of Low Density\n      Lipoprotein-Cholesterol in subjects with primary hypercholesterolemia and mixed\n      dyslipidemia."
+        }, 
+        "brief_title": "LDL-C Assessment w/ PCSK9 Monoclonal Antibody Inhibition Combined With Statin Therapy-2", 
+        "completion_date": {
+            "#text": "January 2014", 
+            "@type": "Actual"
+        }, 
+        "condition": "Hyperlipidemia", 
+        "condition_browse": {
+            "mesh_term": [
+                "Hypercholesterolemia", 
+                "Hyperlipidemias"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Male or female \u2265 18 to \u2264 80 years of age\n\n          -  Subjects not taking a statin with fasting LDL-C of at least 150 mg/dL(4.0 mmol/L)\n\n          -  Subjects already on a non-intensive statin with fasting LDL-C at screening of \u2265 100\n             mg/dL (2.6 mmol/L)\n\n          -  Subjects already on a intensive statin with fasting LDL-C at screening of \u2265 80 mg/dL\n             (2.1 mmol/L)\n\n          -  Fasting triglycerides \u2264 400 mg/dL (4.5 mmol/L)\n\n        Exclusion Criteria:\n\n          -  Statin intolerance\n\n          -  NYHA III or IV heart failure\n\n          -  Uncontrolled hypertension\n\n          -  Uncontrolled cardiac arrhythmia\n\n          -  Type 1 diabetes, poorly controlled type 2 diabetes\n\n          -  Uncontrolled hypothyroidism or hyperthyroidism"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "80 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "1896", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "January 7, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01763866", 
+            "org_study_id": "20110115"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Arm 5", 
+                    "Arm 6", 
+                    "Arm 11", 
+                    "Arm 12", 
+                    "Arm 15", 
+                    "Arm 16", 
+                    "Arm 19", 
+                    "Arm 20", 
+                    "Arm 23", 
+                    "Arm 24"
+                ], 
+                "description": "Subject will receive evolocumab (AMG 145) every 2 weeks or monthly", 
+                "intervention_name": "evolocumab (AMG 145)", 
+                "intervention_type": "Biological"
+            }, 
+            {
+                "arm_group_label": [
+                    "Arm 3", 
+                    "Arm 4", 
+                    "Arm 9", 
+                    "Arm 10"
+                ], 
+                "description": "Subject will receive Ezetimibe daily", 
+                "intervention_name": "Ezetimibe", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": [
+                    "Arm 1", 
+                    "Arm 2", 
+                    "Arm 3", 
+                    "Arm 4", 
+                    "Arm 7", 
+                    "Arm 8", 
+                    "Arm 9", 
+                    "Arm 10", 
+                    "Arm 13", 
+                    "Arm 14", 
+                    "Arm 17", 
+                    "Arm 18", 
+                    "Arm 21", 
+                    "Arm 22"
+                ], 
+                "description": "Subject will receive Placebo every 2 weeks or monthly. All subjects at screening will participate in the placebo run-in.", 
+                "intervention_name": "Placebo (administered subcutaneously)", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": [
+                    "Arm 1", 
+                    "Arm 2", 
+                    "Arm 5", 
+                    "Arm 6", 
+                    "Arm 7", 
+                    "Arm 8", 
+                    "Arm 11", 
+                    "Arm 12"
+                ], 
+                "description": "Subject will receive Placebo daily", 
+                "intervention_name": "Placebo (administered orally)", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": [
+                    "Arm 1", 
+                    "Arm 2", 
+                    "Arm 3", 
+                    "Arm 4", 
+                    "Arm 5", 
+                    "Arm 6", 
+                    "Arm 7", 
+                    "Arm 8", 
+                    "Arm 9", 
+                    "Arm 10", 
+                    "Arm 11", 
+                    "Arm 12", 
+                    "Arm 13", 
+                    "Arm 14", 
+                    "Arm 15", 
+                    "Arm 16", 
+                    "Arm 17", 
+                    "Arm 18", 
+                    "Arm 19", 
+                    "Arm 20", 
+                    "Arm 21", 
+                    "Arm 22", 
+                    "Arm 23", 
+                    "Arm 24"
+                ], 
+                "description": "Subject will receive statin therapy daily", 
+                "intervention_name": "Statin therapy", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Antibodies, Monoclonal", 
+                "Hydroxymethylglutaryl-CoA Reductase Inhibitors", 
+                "Ezetimibe"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": "High cholesterol, Treatment for high cholesterol, Lowering cholesterol, Lowering high cholesterol, Hypercholesterolemia", 
+        "lastchanged_date": "May 2, 2014", 
+        "link": {
+            "description": "AmgenTrials clinical trials website", 
+            "url": "http://www.amgentrials.com"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Birmingham", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "35294"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Glendale", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85306"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tucson", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85710"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tucson", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85712"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Carmichael", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "95608"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Encino", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "91436"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Long Beach", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90822"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Newport Beach", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92663"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Diego", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92123"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Santa Ana", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92705"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Santa Rosa", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "95405"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Thousand Oaks", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "91360"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Torrance", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90509"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tustin", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92780"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Westlake Village", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "91361"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Littleton", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80120"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Daytona Beach", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32117"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jacksonville", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32223"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Melbourne", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32901"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miami", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33173"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Port Charlotte", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33952"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Atlanta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30342"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Atlanta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30328"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boise", 
+                        "country": "United States", 
+                        "state": "Idaho", 
+                        "zip": "83704"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hammond", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46320"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Indianapolis", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46237"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Valparaiso", 
+                        "country": "United States", 
+                        "state": "Indiana", 
+                        "zip": "46383"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Iowa City", 
+                        "country": "United States", 
+                        "state": "Iowa", 
+                        "zip": "52242"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Crestview Hills", 
+                        "country": "United States", 
+                        "state": "Kentucky", 
+                        "zip": "41017"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Monroe", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "71203"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Auburn", 
+                        "country": "United States", 
+                        "state": "Maine", 
+                        "zip": "04210"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bangor", 
+                        "country": "United States", 
+                        "state": "Maine", 
+                        "zip": "04401"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Maine", 
+                        "zip": "04101"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21201"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ypsilanti", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48197"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tupelo", 
+                        "country": "United States", 
+                        "state": "Mississippi", 
+                        "zip": "38801"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Billings", 
+                        "country": "United States", 
+                        "state": "Montana", 
+                        "zip": "59102"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Voorhees", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "08043"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Manlius", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "13104"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rochester", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14609"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Syracuse", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "13210"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Williamsville", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14221"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Winston-Salem", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27103"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cadiz", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "43907"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Canton", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44708"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cincinnati", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45219"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cincinnati", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45227"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dayton", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45414"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mansfield", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44906"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Marion", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "43302"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sandusky", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44870"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Norman", 
+                        "country": "United States", 
+                        "state": "Oklahoma", 
+                        "zip": "73069"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Duncansville", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "16635"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pittsburgh", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "15216"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "York", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "17405"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Florence", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29501"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rapid City", 
+                        "country": "United States", 
+                        "state": "South Dakota", 
+                        "zip": "57701"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jackson", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "38301"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jackson", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "38305"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75231"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77074"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Antonio", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78229"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Suffolk", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23435"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Winchester", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "22601"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tacoma", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98405"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sydney", 
+                        "country": "Australia", 
+                        "state": "New South Wales", 
+                        "zip": "2022"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ashford", 
+                        "country": "Australia", 
+                        "state": "South Australia", 
+                        "zip": "5035"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fullarton", 
+                        "country": "Australia", 
+                        "state": "South Australia", 
+                        "zip": "5063"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fitzroy", 
+                        "country": "Australia", 
+                        "state": "Victoria", 
+                        "zip": "3065"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Heidelberg Heights", 
+                        "country": "Australia", 
+                        "state": "Victoria", 
+                        "zip": "3081"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Richmond", 
+                        "country": "Australia", 
+                        "state": "Victoria", 
+                        "zip": "3121"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Blankenberge", 
+                        "country": "Belgium", 
+                        "zip": "8370"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ch\u00c3\u00aan\u00c3\u00a9e", 
+                        "country": "Belgium", 
+                        "zip": "4032"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hasselt", 
+                        "country": "Belgium", 
+                        "zip": "3500"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oostende", 
+                        "country": "Belgium", 
+                        "zip": "8400"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tremelo", 
+                        "country": "Belgium", 
+                        "zip": "3120"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Vilvoorde", 
+                        "country": "Belgium", 
+                        "zip": "1800"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Burnaby", 
+                        "country": "Canada", 
+                        "state": "British Columbia", 
+                        "zip": "V5G 1T4"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kelowna", 
+                        "country": "Canada", 
+                        "state": "British Columbia", 
+                        "zip": "V1Y 1V6"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kelowna", 
+                        "country": "Canada", 
+                        "state": "British Columbia", 
+                        "zip": "V1Y 1E4"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Surrey", 
+                        "country": "Canada", 
+                        "state": "British Columbia", 
+                        "zip": "V3V 1N1"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St. John\u00e2\u20ac\u2122s", 
+                        "country": "Canada", 
+                        "state": "Newfoundland and Labrador", 
+                        "zip": "A1A 3R5"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cambridge", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "N1R 6V6"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hamilton", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "L8L 2X2"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "London", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "N5W 6A2"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Newmarket", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "L3Y 5G8"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oshawa", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "L1J 2K1"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sarnia", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "N7T 4X3"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Scarborough", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "M1P 2T7"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toronto", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "M8V 3X8"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toronto", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "M9V 4B4"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Woodstock", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "N4S 5P5"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Brossard", 
+                        "country": "Canada", 
+                        "state": "Quebec", 
+                        "zip": "J4X 1S4"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Greenfield Park", 
+                        "country": "Canada", 
+                        "state": "Quebec", 
+                        "zip": "J4V 2G8"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lachine", 
+                        "country": "Canada", 
+                        "state": "Quebec", 
+                        "zip": "H8S 2E4"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Longueuil", 
+                        "country": "Canada", 
+                        "state": "Quebec", 
+                        "zip": "J4N 0C9"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montreal", 
+                        "country": "Canada", 
+                        "state": "Quebec", 
+                        "zip": "H4N 2W2"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pointe-Claire", 
+                        "country": "Canada", 
+                        "state": "Quebec", 
+                        "zip": "H9R 3J1"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Brno", 
+                        "country": "Czech Republic", 
+                        "zip": "602 00"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Brno", 
+                        "country": "Czech Republic", 
+                        "zip": "603 00"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kladno", 
+                        "country": "Czech Republic", 
+                        "zip": "272 01"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Litomerice", 
+                        "country": "Czech Republic", 
+                        "zip": "412 01"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Moravske Budejovice", 
+                        "country": "Czech Republic", 
+                        "zip": "676 02"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Olomouc", 
+                        "country": "Czech Republic", 
+                        "zip": "775 20"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pardubice", 
+                        "country": "Czech Republic", 
+                        "zip": "530 02"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Praha 2", 
+                        "country": "Czech Republic", 
+                        "zip": "120 00"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Praha 3", 
+                        "country": "Czech Republic", 
+                        "zip": "130 00"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Praha 4", 
+                        "country": "Czech Republic", 
+                        "zip": "140 21"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Slany", 
+                        "country": "Czech Republic", 
+                        "zip": "274 01"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Svitavy", 
+                        "country": "Czech Republic", 
+                        "zip": "568 25"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Usti nad Orlici", 
+                        "country": "Czech Republic", 
+                        "zip": "562 18"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Aalborg", 
+                        "country": "Denmark", 
+                        "zip": "9000"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ballerup", 
+                        "country": "Denmark", 
+                        "zip": "2750"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Vejle", 
+                        "country": "Denmark", 
+                        "zip": "7100"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Brest Cedex 2", 
+                        "country": "France", 
+                        "zip": "29200"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Caen Cedex 9", 
+                        "country": "France", 
+                        "zip": "14033"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dijon", 
+                        "country": "France", 
+                        "zip": "21034"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Le Creusot", 
+                        "country": "France", 
+                        "zip": "71200"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montpellier cedex 05", 
+                        "country": "France", 
+                        "zip": "34295"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nantes Cedex 1", 
+                        "country": "France", 
+                        "zip": "44093"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "zip": "75013"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris cedex 12", 
+                        "country": "France", 
+                        "zip": "75571"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Poitiers", 
+                        "country": "France", 
+                        "zip": "86000"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Strasbourg", 
+                        "country": "France", 
+                        "zip": "67091"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bad Krozingen", 
+                        "country": "Germany", 
+                        "zip": "79189"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Berlin", 
+                        "country": "Germany", 
+                        "zip": "10787"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Berlin", 
+                        "country": "Germany", 
+                        "zip": "10367"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Berlin (Hellersdorf)", 
+                        "country": "Germany", 
+                        "zip": "12627"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Freiburg", 
+                        "country": "Germany", 
+                        "zip": "79106"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Heidelberg", 
+                        "country": "Germany", 
+                        "zip": "69120"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Homburg", 
+                        "country": "Germany", 
+                        "zip": "66421"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Leipzig", 
+                        "country": "Germany", 
+                        "zip": "04103"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Magdeburg", 
+                        "country": "Germany", 
+                        "zip": "39104"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Messkirch", 
+                        "country": "Germany", 
+                        "zip": "88605"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Witten", 
+                        "country": "Germany", 
+                        "zip": "58455"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hong Kong", 
+                        "country": "Hong Kong"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Territories", 
+                        "country": "Hong Kong"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baja", 
+                        "country": "Hungary", 
+                        "zip": "6500"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Berettyoujfalu", 
+                        "country": "Hungary", 
+                        "zip": "4100"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dunaujvaros", 
+                        "country": "Hungary", 
+                        "zip": "2400"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Eger", 
+                        "country": "Hungary", 
+                        "zip": "3300"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Gyongyos", 
+                        "country": "Hungary", 
+                        "zip": "3200"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hodmezovasarhely", 
+                        "country": "Hungary", 
+                        "zip": "6800"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jaszbereny", 
+                        "country": "Hungary", 
+                        "zip": "5100"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Komarom", 
+                        "country": "Hungary", 
+                        "zip": "2921"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Marcali", 
+                        "country": "Hungary", 
+                        "zip": "8700"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mosonmagyarovar", 
+                        "country": "Hungary", 
+                        "zip": "9200"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pecs", 
+                        "country": "Hungary", 
+                        "zip": "7624"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bologna", 
+                        "country": "Italy", 
+                        "zip": "40138"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cagliari", 
+                        "country": "Italy", 
+                        "zip": "09134"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chieti", 
+                        "country": "Italy", 
+                        "zip": "66100"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ferrara", 
+                        "country": "Italy", 
+                        "zip": "44124"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milano", 
+                        "country": "Italy", 
+                        "zip": "20162"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Napoli", 
+                        "country": "Italy", 
+                        "zip": "80131"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Padova", 
+                        "country": "Italy", 
+                        "zip": "35128"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Perugia", 
+                        "country": "Italy", 
+                        "zip": "06129"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pisa", 
+                        "country": "Italy", 
+                        "zip": "56124"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Trieste", 
+                        "country": "Italy", 
+                        "zip": "34149"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seoul", 
+                        "country": "Korea, Republic of", 
+                        "zip": "120-752"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seoul", 
+                        "country": "Korea, Republic of", 
+                        "zip": "135-710"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seoul", 
+                        "country": "Korea, Republic of", 
+                        "zip": "138-736"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Suwon", 
+                        "country": "Korea, Republic of", 
+                        "zip": "443-721"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Suwon-si", 
+                        "country": "Korea, Republic of", 
+                        "zip": "443-380"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mexico", 
+                        "country": "Mexico", 
+                        "state": "Distrito Federal", 
+                        "zip": "03800"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mexico", 
+                        "country": "Mexico", 
+                        "state": "Distrito Federal", 
+                        "zip": "14000"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Leon", 
+                        "country": "Mexico", 
+                        "state": "Guanajuato", 
+                        "zip": "37520"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Guadalajara", 
+                        "country": "Mexico", 
+                        "state": "Jalisco", 
+                        "zip": "44130"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Guadalajara", 
+                        "country": "Mexico", 
+                        "state": "Jalisco", 
+                        "zip": "44100"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Monterrey", 
+                        "country": "Mexico", 
+                        "state": "Nuevo Le\u00c3\u00b3n", 
+                        "zip": "64460"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Luis Potosi", 
+                        "country": "Mexico", 
+                        "state": "San Luis Potos\u00c3-", 
+                        "zip": "78240"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tampico", 
+                        "country": "Mexico", 
+                        "state": "Tamaulipas", 
+                        "zip": "89000"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Durango", 
+                        "country": "Mexico", 
+                        "zip": "34270"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Amsterdam", 
+                        "country": "Netherlands", 
+                        "zip": "1105 AZ"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Amsterdam", 
+                        "country": "Netherlands", 
+                        "zip": "1066 EC"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Den Helder", 
+                        "country": "Netherlands", 
+                        "zip": "1782 GZ"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Groningen", 
+                        "country": "Netherlands", 
+                        "zip": "9728 NT"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hoogeveen", 
+                        "country": "Netherlands", 
+                        "zip": "7909 AA"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nieuwegein", 
+                        "country": "Netherlands", 
+                        "zip": "3435 CM"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nijmegen", 
+                        "country": "Netherlands", 
+                        "zip": "6525 GA"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rotterdam", 
+                        "country": "Netherlands", 
+                        "zip": "3045 PM"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Waalwijk", 
+                        "country": "Netherlands", 
+                        "zip": "5141 BM"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Zwijndrecht", 
+                        "country": "Netherlands", 
+                        "zip": "3331 LZ"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Barnaul", 
+                        "country": "Russian Federation", 
+                        "zip": "656055"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kemerovo", 
+                        "country": "Russian Federation", 
+                        "zip": "650002"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Moscow", 
+                        "country": "Russian Federation", 
+                        "zip": "121002"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Moscow", 
+                        "country": "Russian Federation", 
+                        "zip": "121552"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Moscow", 
+                        "country": "Russian Federation", 
+                        "zip": "127299"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Novosibirsk", 
+                        "country": "Russian Federation", 
+                        "zip": "630047"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Petersburg", 
+                        "country": "Russian Federation", 
+                        "zip": "197341"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Petersburg", 
+                        "country": "Russian Federation", 
+                        "zip": "192242"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Petersburg", 
+                        "country": "Russian Federation", 
+                        "zip": "197022"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint-Petersburg", 
+                        "country": "Russian Federation", 
+                        "zip": "194156"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saratov", 
+                        "country": "Russian Federation", 
+                        "zip": "410054"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Alberton", 
+                        "country": "South Africa", 
+                        "state": "Gauteng", 
+                        "zip": "1449"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Johannesburg", 
+                        "country": "South Africa", 
+                        "state": "Gauteng", 
+                        "zip": "2196"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lyttelton", 
+                        "country": "South Africa", 
+                        "state": "Gauteng", 
+                        "zip": "0140"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pretoria", 
+                        "country": "South Africa", 
+                        "state": "Gauteng", 
+                        "zip": "0184"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kuils River", 
+                        "country": "South Africa", 
+                        "state": "Western Cape", 
+                        "zip": "7580"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Somerset West", 
+                        "country": "South Africa", 
+                        "state": "Western Cape", 
+                        "zip": "7130"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bloemfontein", 
+                        "country": "South Africa", 
+                        "zip": "9301"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cape Town", 
+                        "country": "South Africa", 
+                        "zip": "7405"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Almeria", 
+                        "country": "Spain", 
+                        "state": "Andaluc\u00c3-a", 
+                        "zip": "04001"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Almer\u00c3-a", 
+                        "country": "Spain", 
+                        "state": "Andaluc\u00c3-a", 
+                        "zip": "04001"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Barcelona", 
+                        "country": "Spain", 
+                        "state": "Catalu\u00c3\u00b1a", 
+                        "zip": "08036"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Barcelona", 
+                        "country": "Spain", 
+                        "state": "Catalu\u00c3\u00b1a", 
+                        "zip": "08003"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "L'Hospitalet de Llobregat", 
+                        "country": "Spain", 
+                        "state": "Catalu\u00c3\u00b1a", 
+                        "zip": "08907"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Valencia", 
+                        "country": "Spain", 
+                        "state": "Comunidad Valenciana", 
+                        "zip": "46010"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pozuelo de Alarcon", 
+                        "country": "Spain", 
+                        "state": "Madrid", 
+                        "zip": "28223"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pozuelo de Alarc\u00c3\u00b3n", 
+                        "country": "Spain", 
+                        "state": "Madrid", 
+                        "zip": "28223"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Madrid", 
+                        "country": "Spain", 
+                        "zip": "28029"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Madrid", 
+                        "country": "Spain", 
+                        "zip": "28007"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "G\u00c3\u00b6teborg", 
+                        "country": "Sweden", 
+                        "zip": "413 45"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lund", 
+                        "country": "Sweden", 
+                        "zip": "222 21"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lund", 
+                        "country": "Sweden", 
+                        "zip": "222 22"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Stockholm", 
+                        "country": "Sweden", 
+                        "zip": "171 45"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Uddevalla", 
+                        "country": "Sweden", 
+                        "zip": "451 50"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "\u00c3-rebro", 
+                        "country": "Sweden", 
+                        "zip": "701 46"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bellinzona", 
+                        "country": "Switzerland", 
+                        "zip": "6500"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Geneva 14", 
+                        "country": "Switzerland", 
+                        "zip": "1211"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lausanne", 
+                        "country": "Switzerland", 
+                        "zip": "1011"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Muensterlingen", 
+                        "country": "Switzerland", 
+                        "zip": "8596"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St. Gallen", 
+                        "country": "Switzerland", 
+                        "zip": "9007"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Zurich", 
+                        "country": "Switzerland", 
+                        "zip": "8063"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kaohsiung", 
+                        "country": "Taiwan", 
+                        "zip": "807"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kaohsiung", 
+                        "country": "Taiwan", 
+                        "zip": "83301"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Taipei", 
+                        "country": "Taiwan", 
+                        "zip": "100"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Birmingham", 
+                        "country": "United Kingdom", 
+                        "zip": "B15 2SQ"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Blackpool", 
+                        "country": "United Kingdom", 
+                        "zip": "FY3 7EN"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cardiff", 
+                        "country": "United Kingdom", 
+                        "zip": "CF14 5GJ"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chesterfield", 
+                        "country": "United Kingdom", 
+                        "zip": "S40 4TF"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chorley", 
+                        "country": "United Kingdom", 
+                        "zip": "PR7 7NA"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Doncaster", 
+                        "country": "United Kingdom", 
+                        "zip": "DN9 1EP"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Glasgow", 
+                        "country": "United Kingdom", 
+                        "zip": "G20 0SP"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Glasgow", 
+                        "country": "United Kingdom", 
+                        "zip": "G45 9AW"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Harrow", 
+                        "country": "United Kingdom", 
+                        "zip": "HA3 7LT"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Liverpool", 
+                        "country": "United Kingdom", 
+                        "zip": "L22 0LG"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Liverpool", 
+                        "country": "United Kingdom", 
+                        "zip": "L7 8XP"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Manchester", 
+                        "country": "United Kingdom", 
+                        "zip": "M15 6SX"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Manchester", 
+                        "country": "United Kingdom", 
+                        "zip": "M13 9WL"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Reading", 
+                        "country": "United Kingdom", 
+                        "zip": "RG2 0TG"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Reading", 
+                        "country": "United Kingdom", 
+                        "zip": "RG2 0FT"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Scunthorpe", 
+                        "country": "United Kingdom", 
+                        "zip": "DN15 7BH"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wakefield", 
+                        "country": "United Kingdom", 
+                        "zip": "WF1 4DG"
+                    }, 
+                    "name": "Research Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Whitby", 
+                        "country": "United Kingdom", 
+                        "zip": "YO21 1SD"
+                    }, 
+                    "name": "Research Site"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Australia", 
+                "Belgium", 
+                "Canada", 
+                "Czech Republic", 
+                "Denmark", 
+                "France", 
+                "Germany", 
+                "Hong Kong", 
+                "Hungary", 
+                "Italy", 
+                "Korea, Republic of", 
+                "Mexico", 
+                "Netherlands", 
+                "Russian Federation", 
+                "South Africa", 
+                "Spain", 
+                "Sweden", 
+                "Switzerland", 
+                "Taiwan", 
+                "United Kingdom"
+            ]
+        }, 
+        "number_of_arms": "24", 
+        "official_title": "A Double-blind, Randomized, Placebo and Ezetimibe Controlled, Multicenter Study to Evaluate Safety, Tolerability and Efficacy of AMG 145 on LDL-C in Combination With Statin Therapy in Subjects With Primary Hypercholesterolemia and Mixed Dyslipidemia", 
+        "overall_official": {
+            "affiliation": "Amgen", 
+            "last_name": "MD", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": [
+                "Hong Kong: Department of Health", 
+                "Czech Republic: State Institute for Drug Control", 
+                "Russia: Ministry of Health of the Russian Federation", 
+                "Australia: Department of Health and Ageing Therapeutic Goods Administration", 
+                "France: Afssaps - Agence fran\u00e7aise de s\u00e9curit\u00e9 sanitaire des produits de sant\u00e9 (Saint-Denis)", 
+                "Germany: Paul-Ehrlich-Institut", 
+                "Spain: Agencia Espa\u00f1ola de Medicamentos y Productos Sanitarios", 
+                "Belgium: Federal Agency for Medicinal Products and Health Products", 
+                "Denmark: Danish Health and Medicines Authority", 
+                "Netherlands: The Central Committee on Research Involving Human Subjects (CCMO)", 
+                "Sweden: Medical Products Agency", 
+                "Switzerland: Swissmedic", 
+                "United Kingdom: Medicines and Healthcare Products Regulatory Agency", 
+                "Canada: Health Canada", 
+                "United States: Food and Drug Administration", 
+                "Hungary: National Institute of Pharmacy", 
+                "Italy: Ethics Committee"
+            ], 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "December 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "Mean percent change from baseline in low density lipoprotein-cholesterol", 
+                "measure": "Mean percent change from baseline in low density lipoprotein-cholesterol", 
+                "safety_issue": "No", 
+                "time_frame": "10 and 12 Weeks"
+            }, 
+            {
+                "description": "Percent change from baseline in low density lipoprotein-cholesterol", 
+                "measure": "Percent change from baseline in low density lipoprotein-cholesterol", 
+                "safety_issue": "No", 
+                "time_frame": "12 Weeks"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01763866"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Mean change from baseline in low density lipoprotein-cholesterol", 
+                "measure": "Mean change from baseline in low density lipoprotein-cholesterol", 
+                "safety_issue": "No", 
+                "time_frame": "10 and 12 Weeks"
+            }, 
+            {
+                "description": "Change from baseline in low density lipoprotein-cholesterol", 
+                "measure": "Change from baseline in low density lipoprotein-cholesterol", 
+                "safety_issue": "No", 
+                "time_frame": "12 Weeks"
+            }, 
+            {
+                "description": "Mean percent change from baseline in non-high density lipoprotein-cholesterol", 
+                "measure": "Mean percent change from baseline in non-high density lipoprotein-cholesterol", 
+                "safety_issue": "No", 
+                "time_frame": "10 and 12 Weeks"
+            }, 
+            {
+                "description": "Percent change from baseline in non-high density lipoprotein-cholesterol", 
+                "measure": "Percent change from baseline in non-high density lipoprotein-cholesterol", 
+                "safety_issue": "No", 
+                "time_frame": "12 Weeks"
+            }, 
+            {
+                "description": "Mean percent change from baseline in apolipoprotein B", 
+                "measure": "Mean percent change from baseline in apolipoprotein B", 
+                "safety_issue": "No", 
+                "time_frame": "10 and 12 Weeks"
+            }, 
+            {
+                "description": "Percent change from baseline in apolipoprotein B", 
+                "measure": "Percent change from baseline in apolipoprotein B", 
+                "safety_issue": "No", 
+                "time_frame": "12 Weeks"
+            }, 
+            {
+                "description": "Mean percent change from baseline in the total cholesterol/high density lipoprotein-cholesterol ratio", 
+                "measure": "Mean percent change from baseline in the total cholesterol/high density lipoprotein-cholesterol ratio", 
+                "safety_issue": "No", 
+                "time_frame": "10 and 12 Weeks"
+            }, 
+            {
+                "description": "Percent change from baseline in the total cholesterol/high density lipoprotein-cholesterol ratio", 
+                "measure": "Percent change from baseline in the total cholesterol/high density lipoprotein-cholesterol ratio", 
+                "safety_issue": "No", 
+                "time_frame": "12 Weeks"
+            }, 
+            {
+                "description": "Mean percent change from baseline in apolipoprotein B/apolipoprotein A1 ratio", 
+                "measure": "Mean percent change from baseline in apolipoprotein B/apolipoprotein A1 ratio", 
+                "safety_issue": "No", 
+                "time_frame": "10 and 12 Weeks"
+            }, 
+            {
+                "description": "Percent change from baseline in apolipoprotein B/apolipoprotein A1 ratio", 
+                "measure": "Percent change from baseline in apolipoprotein B/apolipoprotein A1 ratio", 
+                "safety_issue": "No", 
+                "time_frame": "12 Weeks"
+            }, 
+            {
+                "description": "Mean low density lipoprotein-cholesterol response (low density lipoprotein-cholesterol < 70 mg/dL [1.8 mmol/L])", 
+                "measure": "Mean low density lipoprotein-cholesterol response (low density lipoprotein-cholesterol < 70 mg/dL [1.8 mmol/L])", 
+                "safety_issue": "No", 
+                "time_frame": "10 and 12 Weeks"
+            }, 
+            {
+                "description": "Low density lipoprotein-cholesterol response (low density lipoprotein-cholesterol < 70 mg/dL [1.8 mmol/L])", 
+                "measure": "Low density lipoprotein-cholesterol response (low density lipoprotein-cholesterol < 70 mg/dL [1.8 mmol/L])", 
+                "safety_issue": "No", 
+                "time_frame": "12 Weeks"
+            }, 
+            {
+                "description": "Mean percent change from baseline in lipoprotein (a)", 
+                "measure": "Mean percent change from baseline in lipoprotein (a)", 
+                "safety_issue": "No", 
+                "time_frame": "10 and 12 Weeks"
+            }, 
+            {
+                "description": "Percent change from baseline in lipoprotein (a)", 
+                "measure": "Percent change from baseline in lipoprotein (a)", 
+                "safety_issue": "No", 
+                "time_frame": "12 Weeks"
+            }, 
+            {
+                "description": "Mean percent change from baseline in triglycerides", 
+                "measure": "Mean percent change from baseline in triglycerides", 
+                "safety_issue": "No", 
+                "time_frame": "10 and 12 Weeks"
+            }, 
+            {
+                "description": "Percent change from baseline in triglycerides", 
+                "measure": "Percent change from baseline in triglycerides", 
+                "safety_issue": "No", 
+                "time_frame": "12 Weeks"
+            }, 
+            {
+                "description": "Mean percent change from baseline in high density lipoprotein-cholesterol", 
+                "measure": "Mean percent change from baseline in high density lipoprotein-cholesterol", 
+                "safety_issue": "No", 
+                "time_frame": "10 and 12 Weeks"
+            }, 
+            {
+                "description": "Percent change from baseline in high density lipoprotein-cholesterol", 
+                "measure": "Percent change from baseline in high density lipoprotein-cholesterol", 
+                "safety_issue": "No", 
+                "time_frame": "12 Weeks"
+            }, 
+            {
+                "description": "Mean percent change from baseline in very low-density lipoprotein cholesterol", 
+                "measure": "Mean percent change from baseline in very low-density lipoprotein cholesterol", 
+                "safety_issue": "No", 
+                "time_frame": "10 and 12 Weeks"
+            }, 
+            {
+                "description": "Percent change from baseline in very low-density lipoprotein cholesterol", 
+                "measure": "Percent change from baseline in very low-density lipoprotein cholesterol", 
+                "safety_issue": "No", 
+                "time_frame": "12 Weeks"
+            }
+        ], 
+        "source": "Amgen", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Amgen", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "January 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2014"
+    }
+}

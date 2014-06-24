@@ -1,0 +1,533 @@
+{
+    "clinical_study": {
+        "@rank": "144623", 
+        "acronym": "OPTIMDASATINIB", 
+        "arm_group": [
+            {
+                "arm_group_label": "A1", 
+                "arm_group_type": "Experimental", 
+                "description": "Arm A1: Dasatinib dose adjustment based on Cmin \u22653nM value analysed on blood after 7-10 days dasatinib 100mg intake"
+            }, 
+            {
+                "arm_group_label": "A2", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Arm A2: Dasatinib standard dose (100mg/d) with Cmin \u2265 3nM analysed on blood after 7-10 days dasatinib 100mg intake"
+            }, 
+            {
+                "arm_group_label": "B", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Arm B : Dasatinib standard dose with Cmin < 3nM analysed on blood after 7-10 days dasatinib 100mg intake"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This protocol is a multicentric interventional phase II study from the French CML Intergroup\n      (FILMC).\n\n      The core of the protocol is to explore the efficacy and safety of an optimization strategy\n      consisting in the modulation of the dasatinib daily dose according to the results of\n      repeated plasmatic levels of dasatinib.\n\n      The objective of this strategy is to improve the overall results of the treatment of early\n      CP-CML in order to avoid the development of resistance and BCR-ABL tyrosine kinase\n      mutations.\n\n      The study will be conducted in selected FILMC and Canadian centers.\n\n      The study is sponsored by the H\u00f4pitaux de Versailles and supported by Bristol-Myers Squibb.\n      The dasatinib treatment will be provided by Bristol-Myers Squibb until marketing\n      authorization is granted in that indication."
+        }, 
+        "brief_title": "OPTIMDASATINIB (Optimized Tyrosine Kinase Inhibitors Monotherapy)", 
+        "completion_date": {
+            "#text": "December 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": "Chronic Myelogenous Leukemia, BCR/ABL Positive", 
+        "condition_browse": {
+            "mesh_term": [
+                "Leukemia", 
+                "Leukemia, Myeloid", 
+                "Leukemia, Myelogenous, Chronic, BCR-ABL Positive", 
+                "Leukemia, Myeloid, Chronic-Phase"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Male or female patient \u2265 18 years\n\n          2. ECOG Performance Status score 0-2\n\n          3. Philadelphia chromosome positive newly diagnosed    (\u2264 3 months) CP-CML\n\n          4. patients not previously treated except with hydroxyurea or imatinib  (less than 4\n             weeks for imatinib)\n\n          5. Signed written inform consent\n\n          6. Adequate hepatic function defined as: total bilirubin \u2264 2.0 times the institutional\n             ULN; ALT and AST \u2264 2.5 times the institutional upper limit of normal (ULN).\n\n          7. Adequate renal function defined as serum creatinine \u2264 3 times the institutional ULN.\n\n          8. Women of childbearing potential (WOCBP) must be using an adequate method of\n             contraception.\n\n        Exclusion Criteria:\n\n          1. Patients with BCR-ABL positive, Philadelphia negative CML\n\n          2. Patient previously treated with a tyrosine kinase inhibitor (TKI) except with\n             imatinib during less than 4 weeks.\n\n          3. Pregnancy\n\n          4. Active malignancy\n\n          5. Uncontrolled or significant cardiovascular disease\n\n          6. Patients with QTc > 450 ms\n\n          7. Significant bleeding disorder unrelated to CML\n\n          8. Concurrent severe diseases which exclude the administration of therapy"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "289", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "December 18, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01916785", 
+            "org_study_id": "EudraCT 2008-006854-17"
+        }, 
+        "intervention": {
+            "arm_group_label": [
+                "A1", 
+                "A2", 
+                "B"
+            ], 
+            "description": "Dasatinib is a multitargeted tyrosine kinase inhibitor with a 300-fold more potent activity on the BCR-ABL tyrosine kinase in vitro compared to imatinib mesylate", 
+            "intervention_name": "Dasatinib", 
+            "intervention_type": "Drug", 
+            "other_name": "Sprycel\u00ae"
+        }, 
+        "intervention_browse": {
+            "mesh_term": "Dasatinib"
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "April 14, 2014", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Calgary", 
+                        "country": "Canada"
+                    }, 
+                    "name": "Southern Alberta Cancer Research Institute"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Greenfield Park", 
+                        "country": "Canada"
+                    }, 
+                    "name": "H\u00f4pital Charles LeMoyne"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Halifax", 
+                        "country": "Canada"
+                    }, 
+                    "name": "Queen elisabeth II Health Sciences Center"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lachenaie", 
+                        "country": "Canada"
+                    }, 
+                    "name": "CH Pierre LeGardeur"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Moncton", 
+                        "country": "Canada"
+                    }, 
+                    "name": "Moncton City Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montr\u00e9al", 
+                        "country": "Canada"
+                    }, 
+                    "name": "H\u00f4pital Maisonneuve-Rosemont"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montr\u00e9al", 
+                        "country": "Canada"
+                    }, 
+                    "name": "H\u00f4pital G\u00e9n\u00e9ral Juif - Sir. Mortimer B. Davis"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montr\u00e9al", 
+                        "country": "Canada"
+                    }, 
+                    "name": "H\u00f4pital Royal Victoria"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Qu\u00e9bec", 
+                        "country": "Canada"
+                    }, 
+                    "name": "Pavillon H\u00f4tel-Dieu de Qu\u00e9bec - Centre hospitalier universitaire de Qu\u00e9bec"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Qu\u00e9bec", 
+                        "country": "Canada"
+                    }, 
+                    "name": "H\u00f4pital de l'Enfant J\u00e9sus - Centre hospitalier affili\u00e9 universitaire de Qu\u00e9bec"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Angers", 
+                        "country": "France"
+                    }, 
+                    "name": "CHU Angers"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bobigny", 
+                        "country": "France"
+                    }, 
+                    "name": "H\u00f4pital Avicenne"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bordeaux", 
+                        "country": "France"
+                    }, 
+                    "name": "Institut Bergonie"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Brest", 
+                        "country": "France"
+                    }, 
+                    "name": "Hopital MORVAN"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cergy Pontoise", 
+                        "country": "France"
+                    }, 
+                    "name": "CH Ren\u00e9 Dubos"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Clamart", 
+                        "country": "France"
+                    }, 
+                    "name": "H\u00f4pital d'Instruction de Arm\u00e9es Percy"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Creteil", 
+                        "country": "France"
+                    }, 
+                    "name": "Hopital Henri MONDOR"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lille", 
+                        "country": "France"
+                    }, 
+                    "name": "H\u00f4pital Claude Huriez"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lyon", 
+                        "country": "France"
+                    }, 
+                    "name": "CH Lyon Sud"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Marseille", 
+                        "country": "France"
+                    }, 
+                    "name": "Institut Paoli-Calmettes"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Metz Tessy", 
+                        "country": "France"
+                    }, 
+                    "name": "H\u00f4pital d'Annecy"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nancy", 
+                        "country": "France"
+                    }, 
+                    "name": "C.H.U. Brabois"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nantes", 
+                        "country": "France"
+                    }, 
+                    "name": "CHU Hoptel dieu"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nice", 
+                        "country": "France"
+                    }, 
+                    "name": "H\u00f4pital l'Archet 1"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nimes", 
+                        "country": "France"
+                    }, 
+                    "name": "CHU Caremeau"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France"
+                    }, 
+                    "name": "Hopital Saint Louis"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France"
+                    }, 
+                    "name": "H\u00f4pital Necker-Enfants Malades"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France"
+                    }, 
+                    "name": "H\u00f4pital St Antoine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Poitiers", 
+                        "country": "France"
+                    }, 
+                    "name": "CHU Poitiers"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rennes", 
+                        "country": "France"
+                    }, 
+                    "name": "CHU Rennes - Pontchaillou"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint Cloud", 
+                        "country": "France"
+                    }, 
+                    "name": "Centre Ren\u00e9 Huguenin"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toulouse", 
+                        "country": "France"
+                    }, 
+                    "name": "H\u00f4pital Purpan"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tours", 
+                        "country": "France"
+                    }, 
+                    "name": "CHRU Bretonneau"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Versailles", 
+                        "country": "France"
+                    }, 
+                    "name": "Central Hospital"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "Canada", 
+                "France"
+            ]
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "A PROSPECTIVE RANDOMIZED PHASE II STUDY EVALUATING THE OPTIMIZATION OF THE RESIDUAL PLASMATIC LEVEL OF DASATINIB (SPRYCEL\u00ae) IN PATIENTS NEWLY DIAGNOSED WITH CHRONIC PHASE CHRONIC MYELOGENOUS LEUKAEMIA (CP-CML).", 
+        "overall_official": {
+            "affiliation": "Central Hospital, Versailles", 
+            "last_name": "Philippe ROUSSELOT, Professeur h\u00e9mato-oncologie", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": [
+                "France: Afssaps - Agence fran\u00e7aise de s\u00e9curit\u00e9 sanitaire des produits de sant\u00e9 (Saint-Denis)", 
+                "France: Committee for the Protection of Personnes"
+            ], 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "December 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "The cumulative rate of serious AEs defined by grade 3-4 fluid retention, all grade pleural effusion, haematological grade 3-4 AEs related to dasatinib and/or all AE leading to dasatinib discontinuation within the first year of therapy", 
+            "measure": "Cumulative rate of significant AE", 
+            "safety_issue": "Yes", 
+            "time_frame": "12 months therapy"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01916785"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Central Hospital, Versailles", 
+            "investigator_full_name": "Philippe ROUSSELOT", 
+            "investigator_title": "Clinical Coordinator", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "To compare the rate of treatment interruptions", 
+                "measure": "Rate of treatment interruptions", 
+                "safety_issue": "Yes", 
+                "time_frame": "12 months therapy"
+            }, 
+            {
+                "description": "To compare the cumulative duration of dasatinib interruption C. To compare the median dose of dasatinib administered during the first 12 months", 
+                "measure": "Cumulative duration of dasatinib interruption", 
+                "safety_issue": "Yes", 
+                "time_frame": "12 months therapy"
+            }, 
+            {
+                "description": "To compare the mean dose of dasatinib administered during the first 12 months", 
+                "measure": "Mean dose of dasatinib", 
+                "safety_issue": "Yes", 
+                "time_frame": "12 months therapy"
+            }, 
+            {
+                "description": "To compare the cumulative rate of complete cytogenetic response (CCR) at 6, 12 and 18 months, and every 12 months thereafter", 
+                "measure": "Cumulative rate of complete cytogenetic response", 
+                "safety_issue": "Yes", 
+                "time_frame": "12 months therapy"
+            }, 
+            {
+                "description": "To compare the cumulative rate of major molecular response (MMR) at 3, 6, 12, and 18 months, and every 6 months thereafter", 
+                "measure": "Cumulative rate of major molecular response", 
+                "safety_issue": "Yes", 
+                "time_frame": "12 months therapy"
+            }, 
+            {
+                "description": "To compare the median dose of dasatinib administered during the first 12 months", 
+                "measure": "Median dose of dasatinib administered", 
+                "safety_issue": "Yes", 
+                "time_frame": "12 months therapy"
+            }, 
+            {
+                "description": "To compare the cumulative rate of complete molecular response at 3, 6, 12 and 18 months, and every 6 months thereafter", 
+                "measure": "Cumulative rate of complete molecular response", 
+                "safety_issue": "Yes", 
+                "time_frame": "12 months therapy"
+            }, 
+            {
+                "description": "To compare the time to molecular response (major or complete)", 
+                "measure": "Time to molecular response", 
+                "safety_issue": "Yes", 
+                "time_frame": "12 months therapy"
+            }, 
+            {
+                "description": "To analyse the relationship between peak plasmatic level (Cmax) and efficacy in the three arms", 
+                "measure": "Relationship between peak plasmatic level and efficacy", 
+                "safety_issue": "Yes", 
+                "time_frame": "12 months therapy"
+            }, 
+            {
+                "description": "To analyse the relationship between through plasmatic level (Cmin) and efficacy in the three arms", 
+                "measure": "Relationship between through plasmatic level and efficacy", 
+                "safety_issue": "Yes", 
+                "time_frame": "12 months therapy"
+            }, 
+            {
+                "description": "To compare the progression-free survival (PFS) at 5 years in the three arms", 
+                "measure": "Progression-free survival at 5 years", 
+                "safety_issue": "Yes", 
+                "time_frame": "12 months therapy"
+            }, 
+            {
+                "description": "To compare the overall survival at 5 years in the three arms", 
+                "measure": "Overall survival at 5 years", 
+                "safety_issue": "Yes", 
+                "time_frame": "12 months therapy"
+            }, 
+            {
+                "description": "To analyse lymphocyte populations before and during dasatinib therapy (for French participating centers - see appendix 14).", 
+                "measure": "Lymphocyte populations before and during dasatinib therapy", 
+                "safety_issue": "Yes", 
+                "time_frame": "12 months therapy"
+            }, 
+            {
+                "description": "To evaluate the rate of sustained major molecular remission after dasatinib discontinuation in patients in complete molecular response, CMR (undetectable BCR-ABL transcript, BCR-ABL/ABL IS ratio < 1x10-5)", 
+                "measure": "Rate of sustained major molecular remission after dasatinib discontinuation in patients in complete molecular response", 
+                "safety_issue": "Yes", 
+                "time_frame": "12 months therapy"
+            }
+        ], 
+        "source": "Central Hospital, Versailles", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "Maisonneuve-Rosemont Hospital", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "University Hospital, Bordeaux", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "Central Hospital, Versailles", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "May 2009", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2014"
+    }
+}

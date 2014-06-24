@@ -1,0 +1,493 @@
+{
+    "clinical_study": {
+        "@rank": "104181", 
+        "arm_group": [
+            {
+                "arm_group_label": "Middle temporal gyrus", 
+                "arm_group_type": "Experimental", 
+                "description": "Repetitive magnetic stimulation to middle temporal gyrus"
+            }, 
+            {
+                "arm_group_label": "Control group", 
+                "arm_group_type": "Sham Comparator", 
+                "description": "Repetitive magnetic stimulation (Sham)"
+            }, 
+            {
+                "arm_group_label": "Superior temporal gyrus", 
+                "arm_group_type": "Experimental", 
+                "description": "Repetitive magnetic stimulation to superior temporal gyrus"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Repetitive transcranial magnetic stimulation induced virtual lesions for aphasia."
+        }, 
+        "brief_title": "Effects of Navigated Repetitive Transcranial Magnetic Stimulation According to Post-stroke Aphasia Types", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "B1", 
+                        "description": "3 sessions of Repetitive magnetic stimulation (rTMS) were applied to participants.\n3 sessions of rTMS were determined by a random sequence (eg. MTG-STG-Sham, Sham-MTG-STG, STG-MTG-Sham etc.) MTG: middle temporal gyrus STG: superior temporal gyrus\nThe sequence of stimulation was counter-balanced across subjects. different sessions was performed after washout period (at least 3 days). The coil was placed perpendicularly to the scalp during sham rTMS sessions.", 
+                        "title": "rTMS Over MTG, STG, Sham"
+                    }
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "15"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@lower_limit": "24", 
+                                            "@upper_limit": "47", 
+                                            "@value": "31.87"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Full Range", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "5"
+                                            }
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "10"
+                                            }
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }
+                    ]
+                }, 
+                "population": "Same patients were stimulated over 2 different regions and with sham stimulation in a random order"
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": {
+                    "description": "Reaction time for lexical and repetition test were measured before and after the TMS stimulation at each sessions (at session 1, session 2, session 3 over MTG/STG/Sham).\nResponse times were measured via the response pad, and spoken responses were recorded via a SV-1 Voice Key apparatus.\nThe \"reaction time post TMS - reaction time pre TMS\" were used for analysis.* Arm/Group Title Arm/Group Description  Maximum length (999) Repetitive magnetic stimulation (rTMS) were applied over STG", 
+                    "group_list": {
+                        "group": [
+                            {
+                                "@group_id": "O1", 
+                                "description": "Repetitive magnetic stimulation (rTMS) were applied over MTG", 
+                                "title": "rTMS Over MTG"
+                            }, 
+                            {
+                                "@group_id": "O2", 
+                                "description": "Repetitive magnetic stimulation (rTMS) were applied over STG", 
+                                "title": "rTMS Over STG"
+                            }, 
+                            {
+                                "@group_id": "O3", 
+                                "description": "The coil was placed perpendicularly to the scalp during sham rTMS sessions.", 
+                                "title": "Sham rTMS"
+                            }
+                        ]
+                    }, 
+                    "measure_list": {
+                        "measure": [
+                            {
+                                "category_list": {
+                                    "category": {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "O1", 
+                                                    "@value": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "O2", 
+                                                    "@value": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "O3", 
+                                                    "@value": "12"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }, 
+                                "param": "Number", 
+                                "title": "Number of Participants", 
+                                "units": "participants"
+                            }, 
+                            {
+                                "category_list": {
+                                    "category": {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "O1", 
+                                                    "@spread": "102.97", 
+                                                    "@value": "110.65"
+                                                }, 
+                                                {
+                                                    "@group_id": "O2", 
+                                                    "@spread": "105.78", 
+                                                    "@value": "-14.25"
+                                                }, 
+                                                {
+                                                    "@group_id": "O3", 
+                                                    "@spread": "109.74", 
+                                                    "@value": "25.29"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }, 
+                                "description": "Reaction time for lexical and repetition test were measured before and after the TMS stimulation at each sessions (at session 1, session 2, session 3 over MTG/STG/Sham).\nResponse times were measured via the response pad, and spoken responses were recorded via a SV-1 Voice Key apparatus.\nThe \"reaction time post TMS - reaction time pre TMS\" were used for analysis.* Arm/Group Title Arm/Group Description  Maximum length (999) Repetitive magnetic stimulation (rTMS) were applied over STG", 
+                                "dispersion": "Standard Deviation", 
+                                "param": "Mean", 
+                                "title": "The Change of Reaction Time Between Before and After Stimulation in Each Session (MTG, STG, Sham)", 
+                                "units": "msec"
+                            }
+                        ]
+                    }, 
+                    "safety_issue": "No", 
+                    "time_frame": "change between before and after the TMS stimulation for each sessions (at session 1, session 2, session 3)", 
+                    "title": "The Change of Reaction Time Between Before and After Stimulation in Each Session (MTG, STG, Sham)", 
+                    "type": "Primary"
+                }
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "P1", 
+                        "description": "3 sessions of Repetitive magnetic stimulation (rTMS) were applied to participants 3 sessions of rTMS were determined by a random sequence (eg. MTG-STG-Sham, Sham-MTG-STG, STG-MTG-Sham etc..0) The sequence of stimulation was counter-balanced across subjects.\ndifferent sessions was performed after washout period (at least 3 days). The coil was placed perpendicularly to the scalp during sham rTMS sessions.", 
+                        "title": "rTMS Over MTG, STG, Sham"
+                    }
+                }, 
+                "period_list": {
+                    "period": [
+                        {
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": {
+                                                "@count": "12", 
+                                                "@group_id": "P1"
+                                            }
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": {
+                                                "@count": "12", 
+                                                "@group_id": "P1"
+                                            }
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "First Session of Stimulation"
+                        }, 
+                        {
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": {
+                                                "@count": "12", 
+                                                "@group_id": "P1"
+                                            }
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": {
+                                                "@count": "12", 
+                                                "@group_id": "P1"
+                                            }
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Washout (at Least 3 Days)"
+                        }, 
+                        {
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": {
+                                                "@count": "12", 
+                                                "@group_id": "P1"
+                                            }
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": {
+                                                "@count": "12", 
+                                                "@group_id": "P1"
+                                            }
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Second Session of Stimulation"
+                        }, 
+                        {
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": {
+                                                "@count": "12", 
+                                                "@group_id": "P1"
+                                            }
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": {
+                                                "@count": "12", 
+                                                "@group_id": "P1"
+                                            }
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Washout (at Least 3 Days)"
+                        }, 
+                        {
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": {
+                                                "@count": "12", 
+                                                "@group_id": "P1"
+                                            }
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": {
+                                                "@count": "12", 
+                                                "@group_id": "P1"
+                                            }
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Third Session of Stimulation"
+                        }
+                    ]
+                }, 
+                "pre_assignment_details": "15 participants recuired: 15 screened, 0 excluded, 3 participants dropped oupt (3 participants withdrawed because of their long-distant commute before group assisgnment)", 
+                "recruitment_details": "recruitment period : 2012.12.05-2013.03.07 type of location: medical clinic through public announcement"
+            }, 
+            "point_of_contact": {
+                "email": "njpaik@snu.ac.kr", 
+                "name_or_title": "Nam-Jong Paik", 
+                "organization": "Seoul National University Bundang Hospital", 
+                "phone": "031-787-7731 ext 7731"
+            }
+        }, 
+        "completion_date": {
+            "#text": "May 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "To Healthy Volunteer", 
+            "Virtual Lesions for Aphasia"
+        ], 
+        "condition_browse": {
+            "mesh_term": "Aphasia"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  fluent in Korean\n\n          -  older than 18 years old\n\n        Exclusion Criteria:\n\n          -  younger than 18 years old\n\n          -  psychotic or psychiatric problems\n\n          -  pregnant\n\n          -  contraindications to MRI/fMRI\n\n          -  uncooperative\n\n          -  metalic implants, pacemaker or cochlear implants\n\n          -  cannot perform outcome measure-related task\n\n          -  known seizure history"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "12", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "March 11, 2013", 
+        "firstreceived_results_date": "January 23, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01877161", 
+            "org_study_id": "E-1206-158-003"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Superior temporal gyrus", 
+                "description": "Repetitive magnetic stimulation to superior temporal gyrus", 
+                "intervention_name": "Repetitive magnetic stimulation to superior temporal gyrus", 
+                "intervention_type": "Device", 
+                "other_name": "MagPro X100 magnetic stimulator"
+            }, 
+            {
+                "arm_group_label": "Middle temporal gyrus", 
+                "description": "Repetitive magnetic stimulation to middle temporal gyrus", 
+                "intervention_name": "Repetitive magnetic stimulation to middle temporal gyrus", 
+                "intervention_type": "Device", 
+                "other_name": "MagPro X100 magnetic stimulator"
+            }, 
+            {
+                "arm_group_label": "Control group", 
+                "description": "Repetitive magnetic stimulation (Sham)", 
+                "intervention_name": "Repetitive magnetic stimulation (Sham)", 
+                "intervention_type": "Device", 
+                "other_name": "MagPro X100 magnetic stimulator"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "May 20, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Seongnam-si", 
+                    "country": "Korea, Republic of", 
+                    "state": "Bundang-gu", 
+                    "zip": "463-707"
+                }, 
+                "name": "Seoul National University Bundang Hospital"
+            }
+        }, 
+        "location_countries": {
+            "country": "Korea, Republic of"
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "Effects of Navigated Repetitive Transcranial Magnetic Stimulation According to Post-stroke Aphasia Types", 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Korea: Institutional Review Board"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "May 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Reaction time for lexical and repetition test were measured before and after the TMS stimulation at each sessions (at session 1, session 2, session 3 over MTG/STG/Sham).\nResponse times were measured via the response pad, and spoken responses were recorded via a SV-1 Voice Key apparatus.\nThe \"reaction time post TMS - reaction time pre TMS\" were used for analysis.* Arm/Group Title Arm/Group Description  Maximum length (999) Repetitive magnetic stimulation (rTMS) were applied over STG", 
+            "measure": "The Change of Reaction Time Between Before and After Stimulation in Each Session (MTG, STG, Sham)", 
+            "safety_issue": "No", 
+            "time_frame": "change between before and after the TMS stimulation for each sessions (at session 1, session 2, session 3)"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01877161"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Seoul National University Bundang Hospital", 
+            "investigator_full_name": "Nam-Jong Paik", 
+            "investigator_title": "Professor", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "source": "Seoul National University Bundang Hospital", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Seoul National University Bundang Hospital", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "December 2012", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety Study, Intervention Model: Crossover Assignment, Masking: Single Blind (Subject), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2014"
+    }
+}

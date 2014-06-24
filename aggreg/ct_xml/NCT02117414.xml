@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="25225">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 04, 2014</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT02117414</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Evera MRI</org_study_id>
+    <nct_id>NCT02117414</nct_id>
+  </id_info>
+  <brief_title>Confirmatory Clinical Trial of the Evera MRI System for Conditionally-safe MRI Access</brief_title>
+  <official_title>Evera MRI Clinical Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medtronic Cardiac Rhythm Disease Management</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Medtronic Cardiac Rhythm Disease Management</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <authority>Canada: Health Canada</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the Evera MRI™ study is to confirm safety and efficacy of the Evera MRI ICD
+      (Implantable cardioverter-defibrillator) System in the clinical MRI (Magnetic Resonance
+      Imaging) environment when subjects receive MRI scans without positioning restrictions (MRI
+      scans may occur anywhere on the body).
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>April 2014</start_date>
+  <completion_date type="Anticipated">March 2016</completion_date>
+  <primary_completion_date type="Anticipated">February 2015</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>MRI-related Events</measure>
+    <time_frame>MRI procedure to 1-month post-MRI</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Percentage of patients free of MRI-related events.  Events include MRI-related complications, sustained tachyarrhythmia, and MRI-related loss of pacing ability.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Ventricular Pacing Capture Threshold (VPCT)</measure>
+    <time_frame>Pre-MRI/Waiting Period visit to 1-month post-MRI/Waiting Period visit</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Percentage of successful patients, where success is defined as not increasing VPCT by more than 0.5V from pre-MRI/waiting to one month post.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Ventricular Sensing Amplitude (R-wave)</measure>
+    <time_frame>Pre-MRI/Waiting Period visit to 1-month post-MRI/Waiting Period visit</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Percentage of successful patients, where success is defined as not decreasing ventricular sensing amplitude by more than 50% from pre-MRI/waiting to one month post.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>System-related Complications</measure>
+    <time_frame>Implant to 4 months post-implant</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Percentage of subjects free of a system-related complication.  The system includes the ICD and lead(s) attached to it.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Defibrillation Impedance</measure>
+    <time_frame>1-month post-MRI/Waiting Period visit</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>% of subjects whose defibrillation impedance at the one-month post-MRI/waiting period visit is between 20 and 100 ohms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Atrial Pacing Capture Threshold (APCT)</measure>
+    <time_frame>Pre-MRI/Waiting Period visit to 1-month post-MRI/Waiting Period visit</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Percentage of successful patients, where success is defined as not increasing APCT by more than 0.5V from pre-MRI/waiting to one month post.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Atrial Sensing Amplitude</measure>
+    <time_frame>MRI/waiting visit to 1-month post-MRI/Waiting visit</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Percentage of successful patients, where success is defined as not decreasing atrial sensing amplitude by more than 50% from pre-MRI/waiting to one month post.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">275</enrollment>
+  <condition>Implantable Defibrillator</condition>
+  <arm_group>
+    <arm_group_label>MRI Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects randomized to the MRI group will undergo a series of MRI scans at the MRI visit (9-12 weeks post-implant).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Subjects randomized to the Control group will wait for 1 hour without having a series of MRI scans at the waiting period visit (9-12 weeks post-implant).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>MRI scan sequences of the head and chest regions</intervention_name>
+    <description>Non-diagnostic MRI scans</description>
+    <arm_group_label>MRI Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Waiting Period Visit</intervention_name>
+    <description>Waiting period time will equate to 1 hour</description>
+    <arm_group_label>Control Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Subjects who are indicated for implantation of an ICD at the time of study
+             enrollment.
+
+          -  Subjects who are able to undergo a pectoral implant.
+
+          -  Subjects who are receiving an ICD for the first time.
+
+          -  Subjects who are able and willing to undergo elective MRI scanning without sedation.
+
+          -  Subjects who are geographically stable and available for follow-up at the study  site
+             for the length of the study.
+
+          -  Subjects who are at least 18 years of age (or older, if required by local law).
+
+        Exclusion Criteria:
+
+          -  Subjects with a history of significant tricuspid valvular disease .
+
+          -  Subjects for whom a single dose of 1.0mg dexamethasone sodium phosphate and/or
+             dexamethasone acetate may be contraindicated.
+
+          -  Subjects who require a legally authorized representative to obtain informed consent.
+
+          -  Subjects undergoing device upgrades, change-outs, lead extractions, and/or lead or
+             device revisions.
+
+          -  Subjects with abandoned or capped leads.
+
+          -  Subjects who require an indicated MRI scan, other than those specifically described
+             in the Evera MRI™ study, before the one-month post-MRI/waiting period follow-up
+             (approximately 4 months post-implant).
+
+          -  Subjects with a non-MRI compatible device (such as neurostimulators) or material
+             implant (e.g., non-MRI compatible sternal wires, neurostimulators, biostimulators,
+             metals or alloys).
+
+          -  Subjects with medical conditions that preclude the testing required by the study
+             protocol or limit study participation.
+
+          -  Subjects who are enrolled or intend to participate in another clinical trial (of an
+             investigational drug or device, new indication for an approved drug or device, or
+             requirement of additional testing beyond standard clinical practice) during the Evera
+             MRI™ study. Co-enrollment in concurrent trials is only allowed when documented
+             pre-approval is obtained from the Medtronic study manager.
+
+          -  Female patient who is pregnant, or of childbearing potential and not on a reliable
+             form of birth control. Women of childbearing potential are required to have a
+             negative pregnancy test within seven (7) days prior to device implant.
+
+          -  Subjects with exclusion criteria required by local law (e.g., age, breastfeeding).
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michael R Gold, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Medical University of South Carolina</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Emanuel Kanal, MD, FACR</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Pittsburgh Medical Center, USA</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Juerg Schwitter, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospital Lausanne (CHUV), Switzerland</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Torsten Sommer, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>German Red Cross Hospital (DRK) Neuwied, Germany</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Evera MRI Study Manager</last_name>
+    <email>rs.everamri@medtronic.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Central Coast Cardiology</name>
+      <address>
+        <city>Salinas</city>
+        <state>California</state>
+        <zip>93901-3901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford Hospitals &amp; Clinics</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305-2200</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hartford Hospital</name>
+      <address>
+        <city>Hartford</city>
+        <state>Connecticut</state>
+        <zip>06102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Orlando Health</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806-1215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Prairie Education &amp; Research Cooperative (Springfield IL)</name>
+      <address>
+        <city>Springfield</city>
+        <state>Illinois</state>
+        <zip>62701-1003</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Iowa Heart</name>
+      <address>
+        <city>West Des Moines</city>
+        <state>Iowa</state>
+        <zip>50266</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kansas University Medical Center (KUMC) Research Institute Inc</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Kansas</state>
+        <zip>66103-2937</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Washington Hospital Center</name>
+      <address>
+        <city>Washington DC</city>
+        <state>Maryland</state>
+        <zip>20010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DLP Upper Michigan Cardiovascular Associates PC</name>
+      <address>
+        <city>Marquette</city>
+        <state>Michigan</state>
+        <zip>49855-5407</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Park Nicollet Methodist Hospital</name>
+      <address>
+        <city>Saint Louis Park</city>
+        <state>Minnesota</state>
+        <zip>55426-4702</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>United Heart and Vascular Clinic</name>
+      <address>
+        <city>Saint Paul</city>
+        <state>Minnesota</state>
+        <zip>55102-2568</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mid America Heart Institute (MAHI)</name>
+      <address>
+        <city>Kansas</city>
+        <state>Missouri</state>
+        <zip>64111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>HealthCare Partners CCNV</name>
+      <address>
+        <city>Henderson</city>
+        <state>Nevada</state>
+        <zip>89052</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cooper University Hospital</name>
+      <address>
+        <city>Camden</city>
+        <state>New Jersey</state>
+        <zip>08103-1489</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Morristown Memorial Hospital</name>
+      <address>
+        <city>Morristown</city>
+        <state>New Jersey</state>
+        <zip>07960-6136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NYU Langone Medical Center</name>
+      <address>
+        <city>New York City</city>
+        <state>New York</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of North Carolina (UNC) Memorial Hospital</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27517</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Carolinas Medical Center</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195-0001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>OhioHealth Research Institute</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43214-3907</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Oklahoma Heart Institute</name>
+      <address>
+        <city>Tulsa</city>
+        <state>Oklahoma</state>
+        <zip>74104-4243</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Lancaster General Hospital</name>
+      <address>
+        <city>Lancaster</city>
+        <state>Pennsylvania</state>
+        <zip>17602-2222</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pittsburgh Medical Center UPMC Presbyterian</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213-2536</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medical University of South Carolina (MUSC)</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425-8911</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sentara Norfolk General Hospital</name>
+      <address>
+        <city>Norfolk</city>
+        <state>Virginia</state>
+        <zip>23507-1904</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Aurora St. Luke's Medical Center</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53233</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>LKH - Universitätsklinikum Graz</name>
+      <address>
+        <city>Graz</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Landesklinikum St. Pölten</name>
+      <address>
+        <city>Pölten</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Calgary</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T2N 4N1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Victoria Cardiac Arrhythmia Trials, Inc</name>
+      <address>
+        <city>Victoria</city>
+        <state>British Columbia</state>
+        <zip>V8R 4R2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Queen Elizabeth II Health Sciences Centre</name>
+      <address>
+        <city>Halifax</city>
+        <state>Nova Scotia</state>
+        <zip>B3H 3A7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Universitaire de Cardiologie et de Pneumologie de Québec (IUCPQ)</name>
+      <address>
+        <city>Quebec</city>
+        <zip>G1V 4G5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clínico Pontificia Universidad Católica</name>
+      <address>
+        <city>Santiago de Chile</city>
+        <zip>8320000</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Hôpiteaux de Rouen - Hôpital Charles Nicolle</name>
+      <address>
+        <city>Rouen Cedex</city>
+        <zip>76031</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Bonn</name>
+      <address>
+        <city>Bonn</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kath. St.-Johannes-Gesellschaft Dortmund gGmbH - St.-Johannes-Hospital Dortmund</name>
+      <address>
+        <city>Dortmund</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Jena - Friedrich Schiller Universität</name>
+      <address>
+        <city>Jena</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Queen Mary Hospital</name>
+      <address>
+        <city>Hong Kong</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medanta-The Medicity</name>
+      <address>
+        <city>Gurgaon</city>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CARE Hospitals</name>
+      <address>
+        <city>Hyderabad</city>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera SS Annunziata</name>
+      <address>
+        <city>Taranto</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera Universitaria Integrata Verona</name>
+      <address>
+        <city>Verona</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>HagaZiekenhuis - Locatie Leyweg</name>
+      <address>
+        <city>Den Haag</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Canisius-Wilhelmina ziekenhuis</name>
+      <address>
+        <city>Nijmegen</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>King Fahad Medical City (KFMC)</name>
+      <address>
+        <city>Riyadh</city>
+        <zip>11196</zip>
+        <country>Saudi Arabia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General Universitario Gregorio Marañón</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Akademiska Sjukhuset</name>
+      <address>
+        <city>Uppsala</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>HFR Fribourg - Hôpital cantonal</name>
+      <address>
+        <city>Lausanne</city>
+        <zip>1011</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire Vaudois</name>
+      <address>
+        <city>Lausanne</city>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+    <country>Austria</country>
+    <country>Canada</country>
+    <country>Chile</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Hong Kong</country>
+    <country>India</country>
+    <country>Italy</country>
+    <country>Netherlands</country>
+    <country>Saudi Arabia</country>
+    <country>Spain</country>
+    <country>Sweden</country>
+    <country>Switzerland</country>
+  </location_countries>
+  <verification_date>April 2014</verification_date>
+  <lastchanged_date>April 17, 2014</lastchanged_date>
+  <firstreceived_date>April 16, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Magnetic Resonance Imaging (MRI)</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

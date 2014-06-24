@@ -1,0 +1,593 @@
+{
+    "clinical_study": {
+        "@rank": "33313", 
+        "arm_group": [
+            {
+                "arm_group_label": "SQS plus OMM", 
+                "arm_group_type": "Experimental"
+            }, 
+            {
+                "arm_group_label": "OMM", 
+                "arm_group_type": "Active Comparator"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to compare the effectiveness of peripheral nerve stimulation\n      utilizing a subcutaneous lead implant technique (SQS) plus optimized medical management\n      (OMM) versus OMM alone in patients suffering from back pain due to Failed Back Surgery\n      Syndrome (FBSS)."
+        }, 
+        "brief_title": "SubQStim: A Post-market Study of Subcutaneous Nerve Stimulation in Failed Back Surgery Syndrome (FBSS) Patients", 
+        "completion_date": {
+            "#text": "November 2020", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Failed Back Surgery Syndrome", 
+        "condition_browse": {
+            "mesh_term": "Failed Back Surgery Syndrome"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Subject has signed and dated the Patient Informed Consent /Patient Information Sheet\n             prior to any study-related activities being conducted\n\n          2. Subject is \u2265 18 years of age at time of informed consent\n\n          3. Subject is willing and available to attend visits as scheduled and to comply with the\n             study protocol\n\n          4. Subject is willing and able to undergo assessments as part of the evaluation for\n             eligibility and endpoints\n\n          5. Subject is willing and able to use the external neurostimulator, recharging equipment\n             (if applicable), and patient programmer per the schedule required by the protocol\n\n          6. Subject has been diagnosed with FBSS (i.e.):\n\n               -  Has had persistent pain for 6 months following most recent anatomically correct,\n                  successful surgery AND\n\n               -  There are no further therapeutic surgical options available as assessed by\n                  appropriate investigation\n\n          7. Based on the opinion of the Principal Investigator, subject's back pain is considered\n             intractable and has been adequately treated, as defined by:\n\n               -  Subject has failed an appropriate trial of at least 3 different classes of back\n                  pain treatments (pharmaceutical and/or non-pharmaceutical)\n\n          8. Based on the opinion of the implanting physician, subject is an appropriate implant\n             candidate for the SQS system\n\n        Exclusion Criteria:\n\n          1. Subject has been or is currently being treated with spinal cord stimulation,\n             subcutaneous nerve stimulation, peripheral nerve stimulation or an implantable\n             intrathecal drug delivery system\n\n          2. Subject has evidence of an active disruptive psychiatric disorder that is significant\n             enough to impact the perception of pain, compliance to intervention and/or ability to\n             evaluate treatment outcome, as determined by the investigator\n\n          3. Subject has a pain condition unrelated to FBSS that is severe enough to overshadow\n             the FBSS pain in the opinion of the investigator\n\n          4. Subject has evidence of a spinal instability or anatomic compression that requires\n             further surgery\n\n          5. Subject has had spinal fusion at more than 3 vertebral levels\n\n          6. Subject is currently enrolled in or plans to enroll in any concurrent drug and/or\n             device study that may confound the results of this study\n\n          7. Subject is allergic or has shown hypersensitivity to any materials of the device\n             system which come in contact with the body\n\n          8. Subject has a history of coagulation disorder or lupus erythematosus\n\n          9. Subject is involved in current litigation regarding back pain"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "200", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "July 12, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01711619", 
+            "org_study_id": "1.02.7007"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "SQS plus OMM", 
+                "description": "subcutaneous nerve stimulation plus optimized medical management", 
+                "intervention_name": "subcutaneous nerve stimulation", 
+                "intervention_type": "Device"
+            }, 
+            {
+                "arm_group_label": "OMM", 
+                "description": "Optimized medical management", 
+                "intervention_name": "Optimized Medical Management", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "lastchanged_date": "April 1, 2014", 
+        "location": [
+            {
+                "contact": {
+                    "last_name": "Marc Russo, MD", 
+                    "phone": "61249851860"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Broadmeadow", 
+                        "country": "Australia", 
+                        "zip": "2292"
+                    }, 
+                    "name": "Hunter Pain Clinic"
+                }, 
+                "investigator": {
+                    "last_name": "Marc Russo, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "James O'Callaghan, MD", 
+                    "phone": "617339547100"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Greenslopes", 
+                        "country": "Australia", 
+                        "zip": "4120"
+                    }, 
+                    "name": "Greenslopes Private Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "James O'Callaghan, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Charles Brooker, MD", 
+                    "phone": "6194631500"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "St. Leonards", 
+                        "country": "Australia", 
+                        "zip": "2065"
+                    }, 
+                    "name": "Royal North Shore Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Charles Brooker, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Bruce Mitchell, MD", 
+                    "phone": "061395956111"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Victoria", 
+                        "country": "Australia", 
+                        "zip": "3162"
+                    }, 
+                    "name": "Metro Spinal Clinic"
+                }, 
+                "investigator": {
+                    "last_name": "Bruce Mitchell, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Michael Kern, MD", 
+                    "phone": "4331670633190"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Graz", 
+                        "country": "Austria", 
+                        "zip": "8020"
+                    }, 
+                    "name": "Krankenhaus der Elisabethinen"
+                }, 
+                "investigator": {
+                    "last_name": "Michael Kern, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Rudolf Likar, MD", 
+                    "phone": "4346353826120"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Klagenfurt am W\u00f6rthersee", 
+                        "country": "Austria", 
+                        "zip": "9020"
+                    }, 
+                    "name": "Krankenhaus der Landes K\u00e4rnten"
+                }, 
+                "investigator": {
+                    "last_name": "Rudolf Likar, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Astrid Chiari, MD", 
+                    "phone": "43211215040"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Vienna", 
+                        "country": "Austria", 
+                        "zip": "1021"
+                    }, 
+                    "name": "Krankenhaus der Barmherzigen Br\u00fcder"
+                }, 
+                "investigator": {
+                    "last_name": "Astrid Chiari, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Robert Hes, MD", 
+                    "phone": "32477286244"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Antwerp", 
+                        "country": "Belgium", 
+                        "zip": "2020"
+                    }, 
+                    "name": "ZNA Middelheim"
+                }, 
+                "investigator": {
+                    "last_name": "Robert Hes, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Ann Ver Donck, MD", 
+                    "phone": "3250452586"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Brugge", 
+                        "country": "Belgium", 
+                        "zip": "8000"
+                    }, 
+                    "name": "Sint Jan"
+                }, 
+                "investigator": {
+                    "last_name": "Ann Ver Donck, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Herbert Rooijakkers, MD", 
+                    "phone": "32475924051"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "La Louviere", 
+                        "country": "Belgium", 
+                        "zip": "7100"
+                    }, 
+                    "name": "INDC Jolimont"
+                }, 
+                "investigator": {
+                    "last_name": "Herbert Rooijakkers, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Kris Verbeek", 
+                    "phone": "3251236555"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Roselare", 
+                        "country": "Belgium", 
+                        "zip": "8800"
+                    }, 
+                    "name": "Pijnkliniek Stedelijk Ziekenhuis"
+                }, 
+                "investigator": {
+                    "last_name": "Olivier De Coster, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Patrick Mertens, MD", 
+                    "phone": "33472118903"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Lyon", 
+                        "country": "France", 
+                        "zip": "69003"
+                    }, 
+                    "name": "Hospices civils de LYON"
+                }, 
+                "investigator": {
+                    "last_name": "Patrick Mertens, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "B\u00e9n\u00e9dicte Bouche, MD", 
+                    "phone": "33251867844"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Nantes", 
+                        "country": "France", 
+                        "zip": "44046"
+                    }, 
+                    "name": "Clinique Br\u00e9t\u00e9ch\u00e9"
+                }, 
+                "investigator": {
+                    "last_name": "B\u00e9n\u00e9dicte Bouche, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Jean-Baptiste Thiebaut, MD", 
+                    "phone": "33148036909"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "zip": "75019"
+                    }, 
+                    "name": "Fondation Rothschild"
+                }, 
+                "investigator": {
+                    "last_name": "Jean-Baptiste Thiebaut, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Wolfgang Welke, MD", 
+                    "phone": "492088376304"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Iserlohn-Letmathe", 
+                        "country": "Germany", 
+                        "zip": "58642"
+                    }, 
+                    "name": "M\u00e4rkische Kliniken GmbH / Marienhospital Letmathe"
+                }, 
+                "investigator": {
+                    "last_name": "Wolfgang Welke, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Jan Walter, MD", 
+                    "phone": "4936419323080"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Jena", 
+                        "country": "Germany", 
+                        "zip": "07743"
+                    }, 
+                    "name": "Universit\u00e4tsklinikum Jena"
+                }, 
+                "investigator": [
+                    {
+                        "last_name": "Rupert Reichart, MD", 
+                        "role": "Principal Investigator"
+                    }, 
+                    {
+                        "last_name": "Jan Walter, MD", 
+                        "role": "Sub-Investigator"
+                    }
+                ], 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Athanasios Koulousakis, MD", 
+                    "phone": "492214784483"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "K\u00f6ln", 
+                        "country": "Germany", 
+                        "zip": "50937"
+                    }, 
+                    "name": "Universit\u00e4tsklinikum K\u00f6ln"
+                }, 
+                "investigator": {
+                    "last_name": "Athanasios Koulousakis, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Anat Yafe, PhD", 
+                    "phone": "97236974581"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Tel Aviv", 
+                        "country": "Israel", 
+                        "zip": "61999"
+                    }, 
+                    "name": "Tel Aviv Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Silviu Brill, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Ismail G\u00fcltuna, MD", 
+                    "phone": "31184434219"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Dordrecht", 
+                        "country": "Netherlands", 
+                        "zip": "3300"
+                    }, 
+                    "name": "Albert Schweitzer Ziekenhuis"
+                }, 
+                "investigator": {
+                    "last_name": "Ismail G\u00fcltuna, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Henk Van Driel, MD", 
+                    "phone": "31162327065"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Oosterhout-Breda", 
+                        "country": "Netherlands", 
+                        "zip": "3079"
+                    }, 
+                    "name": "Amphia Ziekenhuis"
+                }, 
+                "investigator": {
+                    "last_name": "Henk Van Driel, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Renate Munnikes, MD", 
+                    "phone": "31102912285"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Rotterdam", 
+                        "country": "Netherlands", 
+                        "zip": "3079"
+                    }, 
+                    "name": "Maasstad Ziekenhuis"
+                }, 
+                "investigator": {
+                    "last_name": "Renate Munnikes, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Enrique Ortega, MD", 
+                    "phone": "34983420400"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Valladolid", 
+                        "country": "Spain", 
+                        "zip": "47012"
+                    }, 
+                    "name": "Hospital Universitario del Rio Hortega"
+                }, 
+                "investigator": {
+                    "last_name": "Enrique Ortega, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Anne Durrer", 
+                    "phone": "41218042828"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Morges", 
+                        "country": "Switzerland", 
+                        "zip": "1110"
+                    }, 
+                    "name": "Hopital de Morges"
+                }, 
+                "investigator": {
+                    "last_name": "Eric Buchser, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Middlesbrough", 
+                        "country": "United Kingdom", 
+                        "zip": "TS4 3BW"
+                    }, 
+                    "name": "The James Cook Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Sam Eldabe, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "Australia", 
+                "Austria", 
+                "Belgium", 
+                "France", 
+                "Germany", 
+                "Israel", 
+                "Netherlands", 
+                "Spain", 
+                "Switzerland", 
+                "United Kingdom"
+            ]
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Interventional, Prospective, Multicenter, Randomized, Parallel-arm Study to Compare the Effectiveness of Peripheral Nerve Stimulation (PNS) Utilizing a Subcutaneous Lead Implant Technique (SQS) Plus Optimized Medical Management (OMM) Versus OMM Alone in Patients Suffering From Back Pain Due to Failed Back Surgery Syndrome (FBSS)", 
+        "overall_contact": {
+            "email": "kristi.l.winterfeldt@medtronic.com", 
+            "last_name": "Kristi Winterfeldt, MSHS", 
+            "phone": "41218038208"
+        }, 
+        "overall_official": {
+            "affiliation": "The James Cook Hospital", 
+            "last_name": "Sam Eldabe, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": [
+                "Austria: Austrian Medicines and Medical Devices Agency", 
+                "France: Agence Nationale de S\u00e9curit\u00e9 du M\u00e9dicament et des produits de sant\u00e9"
+            ], 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 4", 
+        "primary_completion_date": {
+            "#text": "November 2016", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "VAS scales will be used to determine the effectiveness of treatments on the reduction of back pain intensity.", 
+            "measure": "Effectiveness of treatment on reduction of back pain intensity.", 
+            "safety_issue": "No", 
+            "time_frame": "9 months"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01711619"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "description": "VAS scales will be used to determine the effectiveness of treatments on the average change of back pain intensity.", 
+            "measure": "Greater Average Change in Back Pain", 
+            "safety_issue": "No", 
+            "time_frame": "6 and 9 months"
+        }, 
+        "source": "Medtronic International Trading Sarl", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Medtronic International Trading Sarl", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "November 2012", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2014"
+    }
+}

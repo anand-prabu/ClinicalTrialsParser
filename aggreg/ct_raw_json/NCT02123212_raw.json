@@ -1,0 +1,213 @@
+{
+    "clinical_study": {
+        "@rank": "21864", 
+        "acronym": "Best-C", 
+        "arm_group": [
+            {
+                "arm_group_label": "Mt. Sinai", 
+                "arm_group_type": "Experimental", 
+                "description": "Cluster randomization with EHR Alert intervention"
+            }, 
+            {
+                "arm_group_label": "Henry Ford Health System", 
+                "arm_group_type": "Experimental", 
+                "description": "Simple randomization with mailer intervention"
+            }, 
+            {
+                "arm_group_label": "University of Alabama, Birmingham", 
+                "arm_group_type": "Experimental", 
+                "description": "Crossover randomization with in-person recruitment intervention"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The Birth-Cohort Evaluation to Advance Screening and Testing for Hepatitis C (BEST-C)\n      compares the effectiveness of the birth cohort HCV screening strategy with the current\n      risk-based screening approach to detect previous unidentified persons with viral hepatitis C\n      who receive health care in primary systems.\n\n      BEST-C includes three clinical sites, each of which conducted an independently designed\n      intervention, and use an experimental design tailored to their settings.   Each of the three\n      sites implemented birth-cohort testing in a clinic sample of primary care patients and\n      collect data for comparison to the retrospective baseline data. Additional data will be\n      collected to assess linkage to care for those testing positive, feasibility and acceptance\n      of the new strategy by medical staff, cost effectiveness and patient impact."
+        }, 
+        "brief_title": "Birth-Cohort Evaluation to Advance Screening and Testing for Hepatitis C", 
+        "completion_date": {
+            "#text": "March 2014", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Hepatitis C", 
+            "Chronic Hepatitis C"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Hepatitis", 
+                "Hepatitis A", 
+                "Hepatitis, Chronic", 
+                "Hepatitis C", 
+                "Hepatitis C, Chronic"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "The Birth-Cohort Evaluation to Advance Screening and Testing for Hepatitis C (BEST-C)\n      compares the effectiveness of the birth cohort HCV screening strategy with the current\n      risk-based HCV screening approach to detect previously unidentified persons with viral\n      hepatitis C who receive health care in primary care systems.\n\n      BEST-C  funded sites to implement birth-cohort testing in a clinic sample of primary care\n      patients using an experimental design to compare the effect of birth-cohort testing on\n      testing rates and identified prevalence between a case and a control sample.  Additional\n      data will be collected to assess linkage to care for those testing positive, feasibility,\n      and acceptance of the new strategy by medical staff, cost effectiveness, and patient impact.\n       The sites used three models to measure the net effect of change:\n\n      One site used study coordinators to actively screen and recruit patients who met the\n      inclusion criteria for birth-cohort screening. Study coordinators were located at two\n      internal medicine clinics, where they approached eligible participants in person. A control\n      group was pulled from an additional two internal medicine clinics, which screened using a\n      risk-based strategy.  A cluster randomized cross-over approach was used, so that the\n      intervention and control clinics switched at the midpoint of data collection, allowing all\n      four clinics to participate in both arms of the study.\n\n      A second site reached out directly to the patient using direct communication through the\n      mail. Mailers contained HCV guidelines, the importance of screening, laboratory slips and\n      locations for patients to act directly on their own behalf.  This site used simple\n      randomization of patients who used the health system in the past, met the definition of\n      birth-cohort membership (born during 1945 to 1965) and had not previously tested positive\n      for hepatitis C.  The patients received up to 5 mailings including prepaid, lab registration\n      forms that they were instructed to bring to an affiliated lab location for testing.\n\n      A third site implemented a physican best practice alert into the Epic electronic health\n      record system of their clinic setting.  This site had the pop-ups enabled for Medical\n      Assistants (MAs) who were asked to pend the lab to the order in the chart for the clinician.\n       When MAs open the chart of an arrived, untested patient, they are alerted to pend the\n      Hepatitis C antibody test order when entering patient vitals prior to the patient seeing the\n      physician. When the clinician subsequently opened the same patient chart, the lab order was\n      present in the orders section of the chart for signature and execution or deletion depending\n      on the circumstances of the patient encounter.  As a back-up pathway alerted the physician\n      directly in the event that the MA bypassed or did not open the prompt.  This alert details\n      the CDC recommendations for age-based screening and links to the proper Hepatitis C antibody\n      test order and diagnosis code for them to address with the patient.\n\n      This site used a cluster randomized experimental design in which physicians and MA's from\n      specific primary care practices were consented into the study.  Experimental clusters\n      received an education about HCV testing and the implemented best practice alert.  Control\n      clusters received only education about HCV testing."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Born 1945-1965\n\n        Exclusion Criteria:\n\n          -  Prior diagnosis of Hepatitis C"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "69 Years", 
+            "minimum_age": "47 Years"
+        }, 
+        "enrollment": {
+            "#text": "29607", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "April 22, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02123212", 
+            "org_study_id": "527-11 SC", 
+            "secondary_id": "6960"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Henry Ford Health System", 
+                "description": "Henry Ford intentifies patients meeting birth cohort screening criteria and then sends mailers to those individuals. Mailers contained HCV guidelines, the importance of screening, laboratory slips and locations for patients to act directly on their own behalf. If patients do not respond to the initial mailer, Henry Ford sends additional mailers.", 
+                "intervention_name": "Mailer", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": "University of Alabama, Birmingham", 
+                "description": "UAB used study coordinators to actively screen and recruit patients who met the inclusion criteria for birth-cohort screening. Study coordinators were located at two internal medicine clinics, where they approached eligible participants in person. A control group was pulled from an additional two internal medicine clinics, which screened using a risk-based strategy.  A cross-over approach was used, so that the intervention and control clinics switched at the midpoint of data collection, allowing all four clinics to participate in both arms of the study.", 
+                "intervention_name": "In-person recruitment", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": "Mt. Sinai", 
+                "description": "EHR include a Best Practice Alert (BPA) prompting the Medical Assistant and/or clinican to order a Hepatitis C lab test for patients in the birth cohort.", 
+                "intervention_name": "EHR Alert", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Hepatitis C", 
+            "Chronic Hepatitis C", 
+            "Screening"
+        ], 
+        "lastchanged_date": "April 24, 2014", 
+        "link": {
+            "description": "Best C Summary", 
+            "url": "http://www.cdcfoundation.org/sites/default/files/upload/pdf/best_C_summary.pdf"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Birmingham", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "35294"
+                    }, 
+                    "name": "University of Alabama, Birmingham"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Detroit", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48202"
+                    }, 
+                    "name": "Henry Ford Health System"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10029"
+                    }, 
+                    "name": "Mt. Sinai Medical Center"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "Birth-Cohort Evaluation to Advance Screening and Testing for Hepatitis C", 
+        "overall_official": {
+            "affiliation": "NORC at the University of Chicago", 
+            "last_name": "David B Rein, Ph.D.", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "March 2014", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Patient received a test for Hepatitis C", 
+            "measure": "Tested for Hepatitis C", 
+            "safety_issue": "No", 
+            "time_frame": "Up to 16 weeks"
+        }, 
+        "reference": {
+            "PMID": "22056542", 
+            "citation": "Rein DB, Smith BD, Wittenborn JS, Lesesne SB, Wagner LD, Roblin DW, Patel N, Ward JW, Weinbaum CM. The cost-effectiveness of birth-cohort screening for hepatitis C antibody in U.S. primary care settings. Ann Intern Med. 2012 Feb 21;156(4):263-70. doi: 10.7326/0003-4819-156-4-201202210-00378. Epub 2011 Nov 4."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02123212"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "National Opinion Research Center", 
+            "investigator_full_name": "Dr. David Rein", 
+            "investigator_title": "Principal Research Scientist", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": {
+            "description": "Positive diagnosis on a Hepatitis C test", 
+            "measure": "Positive Hepatitis C Test", 
+            "safety_issue": "No", 
+            "time_frame": "Up to 16 weeks"
+        }, 
+        "source": "National Opinion Research Center", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "NORC at the University of Chicago", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "University of Alabama at Birmingham", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Henry Ford Health System", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Mount Sinai School of Medicine", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Centers for Disease Control and Prevention", 
+                    "agency_class": "U.S. Fed"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "National Opinion Research Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "February 2013", 
+        "study_design": "Allocation: Randomized, Intervention Model: Crossover Assignment, Masking: Open Label, Primary Purpose: Screening", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2014"
+    }
+}

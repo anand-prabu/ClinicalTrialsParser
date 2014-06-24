@@ -1,0 +1,164 @@
+{
+    "clinical_study": {
+        "@rank": "11553", 
+        "arm_group": [
+            {
+                "arm_group_label": "Wireless pressure transducer", 
+                "arm_group_type": "Experimental", 
+                "description": "Following informed consent, each subject will be fitted with a wireless sensor attached to a conventional laptop computer.  The sensors fit around the participant's chest and work as transducers."
+            }, 
+            {
+                "arm_group_label": "Cardiorespiratory Monitor", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Following informed consent, each subject will be also be fitted with ECG leads (five), and an oxygen saturation monitor. This information as well as blood pressure and temperature will be recorded at 5-minute intervals by a nurse."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The primary outcome for this project will be the development of a small, non-invasive\n      wireless sensor that is linked to a conventional computer that can be used in health care\n      for monitoring of acute and chronic health problems. The advantages of developing this\n      technology are threefold. First, monitoring can be conducted for a fraction of the cost of a\n      bedside nurse. Second, monitoring can be done in real time and stored so that we can\n      diagnose and manage critical events in a more timely manner. Lastly, many patients can be\n      monitored simultaneously. The wireless sensors will be fitted to healthy volunteers of\n      various ages. The data gathered from the sensor with respect to their vital signs will be\n      compared to that of conventional tools such as nursing assessments and pulse oximetry."
+        }, 
+        "brief_title": "The Application of a Wireless Sensor Technology for Vital Statistics in CHILDREN AND ADULTS", 
+        "completion_date": {
+            "#text": "December 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Fever", 
+            "COPD", 
+            "Obesity", 
+            "Congenital Heart Disease", 
+            "Respiratory Distress"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Heart Diseases", 
+                "Obesity", 
+                "Heart Defects, Congenital"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Adults with controlled and non-controlled hypertension (hypertension defined as >\n             130/90 on two separate occasions and history of hypertension)\n\n          -  Adults with known chronic obstructive pulmonary disease in respiratory distress with\n             oxygen saturations < 90%\n\n          -  Febrile adults (temp at triage > 38 C) with no significant co-morbidities\n\n          -  Elderly (>70 years) patients with no significant co-morbidities\n\n          -  Obese adults (BMI > 30)\n\n          -  Febrile (temp at triage > 38 C) and non-febrile children (age < 18 yrs)\n\n          -  Obese children (BMI > 30)\n\n          -  Neonates (age < 6 weeks)\n\n          -  Children with corrected cyanotic congenital heart disease\n\n          -  Children in respiratory distress that present with oxygen saturations < 90%\n\n        Exclusion Criteria:\n\n        -Subjects with unstable vital signs will be excluded."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "500", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "April 25, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01845506", 
+            "org_study_id": "2166"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Cardiorespiratory Monitor", 
+                "description": "Subjects will also be fitted with conventional monitoring devices as per the standard of care (3 or 5 lead ECG, pulse oximeter, blood pressure cuff) and will have vital statistics obtained by a trained research assistant at regular 5-minute intervals including blood pressure, heart rate, temperature, and respiratory rate using the standard cardiorespiratory bedside monitor's cycling protocol. The same parameters will be obtained from the wireless sensor at identical time points for a duration of 2 hours.  Data obtained from both conventional and study sources will be entered into an encrypted USB device for later analysis.", 
+                "intervention_name": "Cardiorespiratory monitor", 
+                "intervention_type": "Device"
+            }, 
+            {
+                "arm_group_label": "Wireless pressure transducer", 
+                "description": "Following informed consent, each subject will be fitted with a wireless sensor attached to a conventional laptop computer.  The sensors fit around the participant's chest and work as transducers.", 
+                "intervention_name": "Wireless pressure sensor", 
+                "intervention_type": "Device"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "wireless pressure sensor", 
+            "Elderly"
+        ], 
+        "lastchanged_date": "May 1, 2013", 
+        "location": {
+            "contact": {
+                "email": "poonai@hotmail.com", 
+                "last_name": "Naveen Poonai, MD", 
+                "phone": "5196858500", 
+                "phone_ext": "52011"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "London", 
+                    "country": "Canada", 
+                    "state": "Ontario", 
+                    "zip": "N6A2V5"
+                }, 
+                "name": "Children's Hospital London Health Sciences Center"
+            }, 
+            "status": "Not yet recruiting"
+        }, 
+        "location_countries": {
+            "country": "Canada"
+        }, 
+        "number_of_arms": "2", 
+        "overall_contact": {
+            "email": "poonai@hotmail.com", 
+            "last_name": "Naveen Poonai, MD", 
+            "phone": "5196858500", 
+            "phone_ext": "52011"
+        }, 
+        "overall_status": "Not yet recruiting", 
+        "oversight_info": {
+            "authority": "Canada: Health Canada", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "September 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "The primary outcome is the level of agreement between conventional methods and sensor information for heart rate.", 
+                "measure": "The primary outcome is the level of agreement between cardiorespiratory monitor and sensor information for heart rate.", 
+                "safety_issue": "No", 
+                "time_frame": "2 hours"
+            }, 
+            {
+                "description": "The primary outcome is the level of agreement between conventional methods and sensor information for blood pressure.", 
+                "measure": "Level of agreement between cardiorespiratory monitor and sensor information for blood pressure", 
+                "safety_issue": "No", 
+                "time_frame": "2 hours"
+            }, 
+            {
+                "description": "The primary outcome is the level of agreement between conventional methods and sensor information for temperature.", 
+                "measure": "Level of agreement between cardiorespiratory monitor and sensor information for temperature", 
+                "safety_issue": "No", 
+                "time_frame": "2 hours"
+            }, 
+            {
+                "description": "The primary outcome is the level of agreement between conventional methods and sensor information for oxygen saturation.", 
+                "measure": "Level of agreement between cardiorespiratory monitor and sensor information for oxygen saturation", 
+                "safety_issue": "No", 
+                "time_frame": "2 hours"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01845506"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Lawson Health Research Institute", 
+            "investigator_full_name": "Naveen Poonai", 
+            "investigator_title": "Assistant Professor", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "source": "Lawson Health Research Institute", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Lawson Health Research Institute", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "September 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Bio-equivalence Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2013"
+    }
+}

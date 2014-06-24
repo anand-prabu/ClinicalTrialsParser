@@ -1,0 +1,203 @@
+{
+    "clinical_study": {
+        "@rank": "65558", 
+        "arm_group": [
+            {
+                "arm_group_label": "propofol + remifenatnil", 
+                "arm_group_type": "Active Comparator", 
+                "description": "collect raw EEG waves measuring various combinations of anesthetic drugs"
+            }, 
+            {
+                "arm_group_label": "sevoflurane", 
+                "arm_group_type": "Active Comparator", 
+                "description": "collect raw EEG waves measuring various combinations of anesthetic drugs"
+            }, 
+            {
+                "arm_group_label": "sevoflurane + remifentanil", 
+                "arm_group_type": "Active Comparator", 
+                "description": "collect raw EEG waves measuring various combinations of anesthetic drugs"
+            }, 
+            {
+                "arm_group_label": "propofol", 
+                "arm_group_type": "Active Comparator", 
+                "description": "collect raw EEG waves measuring various combinations of anesthetic drugs"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Background of the study:\n\n      Multiple electroencephalographically derived indices have been developed to measure the\n      cerebral hypnotic drug effect during anesthesia, using a variety of mathematical algorithms\n      such as bispectral index, spectral entropy and spectral edge frequency. The complexity of\n      the raw EEG is reduced to -an easy to interpret- number. It varies generally between 100\n      (fully awake patient) to 0 (an excessively sedated patient).\n\n      The anesthesiologist adjusts his dosing scheme to target a number between a predefined\n      range. (e.g. between 40 and 60) These monitors are currently solidly integreted in clinical\n      practice although they keep being hampered by several limitations. The most important\n      problem is that they are not extracted from a direct neuro-physiological phenomenon that is\n      known to be closely related to loss and return of consciousness, rather they have a\n      probabilistic nature, indicating whether your probability of responsivenessis is high or\n      low.\n\n      You are never sure which EEG phenomenon relates to the index. Also, the number that relates\n      to loss of consciousness rarely is the same as the number that indicates return of\n      consciousness, which decreases the predictive value during recovery of anesthesia.\n      Additionally, the dose response relationship differs on multiple parameters between each\n      monitors. As such the performance of one monitor cannot be extrapolated to another. Finally,\n      although the detection capacity of responses to verbal command is fairly good, EEG extracted\n      numbers perform worse on correlation with movement after a noxious stimulus. Most problems\n      are related to the limited understanding of the relationship between the changes in EEG and\n      the underlying (insufficiently understood) neurophysiological mechanism that evokes\n      (un)consciousness during anesthesia. Secondly, at the time of development of most monitors,\n      the methods of drug administration were less reproducible to allow a more rational drug\n      titration in a population of different demographics. The last two decades, major progress\n      has been made on both issues. Therefore, new insights in neuro-physiology and better drug\n      titration systems opens new perspectives to improve EEG derived data extraction.\n\n      Recently, Mashuire et al found a typical EEG characteristic that is correlated consistently\n      with the loss and return of responsiveness, independent of the anesthetic used (inhalation\n      or intravenous) and independent of the species tested (rats and humans). These findings do\n      suggest that new information can be extracted from the raw EEG that has a much closer\n      connection with the essential neurophysiological processes involved to evoke\n      consciousness/unconsciousness or responsiveness/unresponsiveness. In this study we want to\n      collect data that allows us to recognize these patterns on the EEG as a better measurement\n      of consciousness/unconsciousness.\n\n      Additionally, we have the ability to use (clinically availlable) target controlled infusion\n      techniques for propofol (plasma- and/or effect-site controlled) and end-tidal titrated\n      sevoflurane (through a Zeus Ventilator (Draeger)) If we titrate our hypnotics through these\n      more advanced and pharmacologically more rational titration methods, we may detect a more\n      relevant correlation between the dose given and the EEG behavior. By adding remifentanil, we\n      will also explore the alteration of performance of EEG derived information during\n      interaction with opioids. The obtained data may result in a breakthrough in the methodology\n      to titrate anesthesia in a more predictable and reproducible way, because the extracted\n      information relates closer to a neuro-physiological process related to (un)responsiveness.\n      Moreover, the index may produce more consistent results whether inhaled anesthetics or\n      intravenous drugs are given."
+        }, 
+        "brief_title": "Improving Information Extraction From EEG on Cerebral Anesthetic Drug Effects", 
+        "completion_date": {
+            "#text": "July 2017", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Anesthesia", 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Healthy volunteers aged 18 to 70 years\n\n          -  Concerning the cognitive function: Volunteers are considered to have sufficient\n             cognitive reserve if they are able to read and comprehend the patient information\n             form, if they can adequately answer the anamnestic questions during the screening\n             process and if they are allowed to provide legitimate written informed consent\n\n          -  No selection will be made regarding ethnic background.\n\n          -  For this study no control group has been selected as EEG is compared between episodes\n             rather than between individuals (each volunteer is his/her own control)\n\n        Exclusion Criteria:\n\n        Volunteer refusal\n\n          -  Volunteer < 18 years and >70 years\n\n          -  Pregnancy\n\n          -  Exclusion criteria are weight less than 70% or more than 130% of ideal body weight\n\n          -  Neurological disorder (epilepsy, the presence of a brain tumor, a history of brain\n             surgery, hydrocephalic disorders, depression needing treatment with anti-depressive\n             drugs, a history of brain trauma,  a subarachnoidal bleeding, TIA or cerebral\n             infarct, psychosis or dementia , schizophrenia, alcohol or drug abususabuse).\n\n          -  Diseases involving the cardiovascular system (hypertension, coronary artery disease,\n             prior acute myocardial infarction, any valvular and/or myocardial disease involving\n             decrease in ejection fraction, arrhythmias, which are either symptomatic or require\n             continuous medication/pacemaker/automatic internal cardioverter defibrillator"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "70 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "36", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "January 9, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02043938", 
+            "org_study_id": "MAS-EEG"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "propofol + remifenatnil", 
+                    "propofol"
+                ], 
+                "intervention_name": "propofol", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "sevoflurane", 
+                    "sevoflurane + remifentanil"
+                ], 
+                "intervention_name": "sevoflurane", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "propofol + remifenatnil", 
+                    "sevoflurane + remifentanil"
+                ], 
+                "intervention_name": "remifenatnil", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Anesthetics", 
+                "Propofol", 
+                "Sevoflurane", 
+                "Remifentanil"
+            ]
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Electroencephalography", 
+            "pharmacological"
+        ], 
+        "lastchanged_date": "January 21, 2014", 
+        "location": {
+            "contact": {
+                "email": "r.spanjersberg@umcg.nl", 
+                "last_name": "Rob Spanjersberg", 
+                "phone": "0503611158", 
+                "phone_ext": "0031"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Groningen", 
+                    "country": "Netherlands", 
+                    "zip": "9713EZ"
+                }, 
+                "name": "University Medical Center Groningen"
+            }, 
+            "investigator": [
+                {
+                    "last_name": "Hugo Vereecke, dr", 
+                    "role": "Principal Investigator"
+                }, 
+                {
+                    "last_name": "Michel RF Struys, Prof.dr.", 
+                    "role": "Principal Investigator"
+                }
+            ], 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "Netherlands"
+        }, 
+        "number_of_arms": "4", 
+        "official_title": "'Study of the Cerebral Effects of Sevoflurane, Propofol and Remifentanil as Measured by the Spontaneous Electro-encephalogram'", 
+        "overall_official": [
+            {
+                "affiliation": "University Medical Centre Groningen", 
+                "last_name": "Hugo E.M Vereecke, Dr", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "University Medical Centre Groningen", 
+                "last_name": "Michel RF Struys, Prof.dr.", 
+                "role": "Principal Investigator"
+            }
+        ], 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "Netherlands: Medical Ethics Review Committee (METC)", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "July 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Raw EEG waves simultaneously collected as a database for further improvement of indices to measure the hypnotic component of anesthesia (with or without the presence of an opioid).", 
+            "measure": "EEG waves", 
+            "safety_issue": "No", 
+            "time_frame": "1 day"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02043938"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "related to both clinical and pharmacological endpoints", 
+                "measure": "bloodpressure", 
+                "safety_issue": "No", 
+                "time_frame": "1 day"
+            }, 
+            {
+                "description": "related to both clinical and pharmacological endpoints", 
+                "measure": "respiratory rate", 
+                "safety_issue": "No", 
+                "time_frame": "1 day"
+            }, 
+            {
+                "description": "related to both clinical and pharmacological endpoints", 
+                "measure": "photo pleth data", 
+                "safety_issue": "No", 
+                "time_frame": "1 day"
+            }, 
+            {
+                "measure": "non-invasive blood pressure", 
+                "safety_issue": "No", 
+                "time_frame": "1 day"
+            }
+        ], 
+        "source": "Masimo Corporation", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "University Medical Centre Groningen", 
+                "agency_class": "Other"
+            }, 
+            "lead_sponsor": {
+                "agency": "Masimo Corporation", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "January 2014", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Crossover Assignment, Masking: Single Blind (Subject), Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2014"
+    }
+}

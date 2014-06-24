@@ -1,0 +1,119 @@
+{
+    "clinical_study": {
+        "@rank": "100663", 
+        "brief_summary": {
+            "textblock": "Muscle-invasive bladder cancer affects over 3,000 new patients in the UK each year and\n      radiotherapy comprises a key part of the treatment pathway for many of them. Bladder\n      radiotherapy in the UK involves delivery of radiation to the entire bladder volume and aims\n      to deliver a high dose to the bladder while sparing nearby healthy organs (e.g. the bowel).\n      Unfortunately, large variations in bladder shape and volume are observed throughout\n      treatment that compromise the probability of a positive outcome for the patient, either by\n      increasing the risk of side-effects or by reducing the likelihood of adequately treating the\n      disease.\n\n      In recent years, the implementation of 'adaptive' bladder radiotherapy strategies has\n      increased. These techniques allow modification of the treatment based on the observed\n      variations in bladder shape and volume. However, these strategies often rely on daily X-ray\n      imaging of the patient prior to treatment, which is time-consuming and associated with a\n      small risk of inducing a cancer in the patient.\n\n      This study will evaluate the potential of a commercially available ultrasound probe for use\n      as an alternative to X-ray scanning during treatment for these patients. The study will also\n      aim to compare the likelihood of reducing side-effects and successfully treating the disease\n      for the different adaptive strategies that are used around the world."
+        }, 
+        "brief_title": "Evaluation of Ultrasound Probe for Use in Bladder Radiotherapy", 
+        "completion_date": {
+            "#text": "October 2013", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Bladder Cancer", 
+        "condition_browse": {
+            "mesh_term": "Urinary Bladder Neoplasms"
+        }, 
+        "detailed_description": {
+            "textblock": "All experiments and data analysis will be performed in the Magnetic Resonance Imaging (MRI)\n      and Radiotherapy departments respectively, at the Queen Elizabeth Hospital.\n\n      Five volunteers will be recruited to this study. They will each be required to follow a\n      documented drinking protocol prior to each of three scan sessions. The drinking protocol is\n      specific to this study and will not be intended for use with patients. To address the\n      primary endpoint of the study (i.e. the precision of the ultrasound probe for measurement of\n      bladder volume), measurement of a wide range of bladder volumes is required. In order to\n      address this aim while making efficient use of the limited available MRI scanner time, the\n      drinking protocol has been designed such that the volunteer will begin each scan session\n      with an empty bladder and finish it with a full bladder. To this end, each volunteer will be\n      required to void their bladder upon arrival and then consume 500ml of water immediately\n      prior to the start of the scan session.\n\n      Each volunteer will then be positioned on the scanner couch according to the same protocol\n      used for patients and alternate MRI and ultrasound scans will then be acquired. Given the\n      time required for each scan it is anticipated that five MRI scans and fifteen ultrasound\n      scans (three scans at a time to reduce the noise on the results, i.e. ultimately giving five\n      ultrasound bladder volume measurements) will be acquired in each session. Each volunteer\n      will be asked to attend for three sessions over the course of a number of weeks so that the\n      repeatability of bladder filling patterns can be determined.\n\n      Data processing and analysis\n\n      The volume measurements from the ultrasound probe will be recorded and each of the MRI\n      images will be exported to the Radiotherapy department where the bladder volume will be\n      determined. The precise timings of all scan acquisitions will be recorded during the imaging\n      session. Bladder volumes measured by the ultrasound probe, which can be read instantly, will\n      be recorded during the session. To evaluate the primary endpoint, the precision and accuracy\n      of the ultrasound probe will be quantified by comparing the measured values to those\n      expected from the MRI volumes. Each volume measurement from the MRI scans will be checked by\n      a second observer to minimise any associated researcher error.\n\n      To evaluate the secondary endpoint, the imaging protocol described above will provide up to\n      15 MRI images for each volunteer that can be used to inform a comparison of the different\n      adaptive strategies. However, since patients are always asked to empty their bladder prior\n      to radiotherapy treatment (in order to minimise the volume that receives radiation), the\n      deliberately wide-ranging bladder volumes that will have been measured in this study will\n      not be representative of those that would be observed in clinical practice. To address this\n      problem, a suitable dataset that quantifies the distribution of bladder volumes encountered\n      in a typical patient cohort will be used (Christie dataset, permission obtained.Software\n      will be written to randomly assign a bladder volume to each day of each volunteer's\n      'treatment'. The MRI scan from that volunteer that most closely corresponds to the selected\n      volume will then be assigned for that day's treatment. This will be repeated for the full 20\n      days of treatment and the importance of each MRI scan can then be factored into the results\n      analysis accordingly.\n\n      The treatment planning system within the Radiotherapy department will then be used with the\n      MRI scans to simulate a range of different 'treatments' according to each of the different\n      adaptive bladder radiotherapy strategies to be compared. The different strategies are\n      summarised here:\n\n        -  Conventional strategy: This is the current standard treatment, in which the patient\n           plan is prepared based on an initial CT scan of the patient with an empty bladder and\n           no account is made of subsequent daily variations in bladder shape and volume.\n\n        -  Plan-of-the-day strategy: Based on an initial CT scan of the patient with an empty\n           bladder, three different treatment plans are created based on an assumption of how the\n           bladder might expand. These are intended to simulate empty, partially full and full\n           bladders. The patient is scanned before treatment each day and the most appropriate\n           plan is selected for treatment.\n\n        -  Dynamic strategy: Three different treatment plans are created based on a series of\n           initial CT scans of the patient with empty, partially full and full bladder. These\n           would be expected to directly represent the empty, partially full and full bladders for\n           the individual patient. The patient is scanned before treatment each day and the most\n           appropriate plan is selected for treatment.\n\n        -  Composite strategy: The patient is CT scanned with an empty bladder and treated\n           according to the Conventional strategy for the first 7 days of treatment with daily\n           imaging. The first 5 daily scans of the patient are used to generate plans based on\n           small, partially full and full bladder. From the 8th day of treatment the daily image\n           is used to select which of these plans is appropriate for treatment.\n\n      Data processing of the MRI scans will be carried out retrospectively. The MRI scans will be\n      anonymised and exported to the Radiotherapy department. The data will then be used to (i)\n      acquire bladder volume information to compare with that acquired from the ultrasound probe\n      and (ii) prepare and evaluate radiotherapy treatment simulations to investigate the benefits\n      of different adaptive bladder radiotherapy strategies\n\n      Comparison of different adaptive techniques will focus on how much radiation is received by\n      the bowel and the extent to which the radiation misses the disease on any day of treatment."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Healthy volunteers\n\n        Exclusion Criteria:\n\n          -  Pre-existing bladder conditions"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "Healthy volunteers from within the staff of the Radiotherapy, Medical Physics and Oncology\n        departments at the Queen Elizabeth Hospital"
+            }
+        }, 
+        "enrollment": {
+            "#text": "5", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "September 17, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01698359", 
+            "org_study_id": "RRK4571"
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "September 28, 2012", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Birmingham", 
+                    "country": "United Kingdom", 
+                    "state": "west Midlands", 
+                    "zip": "B15 2TH"
+                }, 
+                "name": "University hospital Birmingham"
+            }, 
+            "investigator": {
+                "last_name": "Anjali Zarkar, FRCR MD MBBS", 
+                "role": "Principal Investigator"
+            }, 
+            "status": "Not yet recruiting"
+        }, 
+        "location_countries": {
+            "country": "United Kingdom"
+        }, 
+        "number_of_groups": "1", 
+        "official_title": "Evaluation of Ultrasound Probe for Use in Adaptive Bladder Radiotherapy", 
+        "overall_contact": {
+            "email": "Gareth.Webster@uhb.nhs.uk", 
+            "last_name": "Gareth Webster, PhD", 
+            "phone": "+44 (0) 121 37 1 5056"
+        }, 
+        "overall_contact_backup": {
+            "email": "anjali.zarkar@uhb.nhs.uk", 
+            "last_name": "anjali Zarkar, FRCR", 
+            "phone": "0121 371 3559"
+        }, 
+        "overall_official": {
+            "affiliation": "UHB", 
+            "last_name": "Anjali Zarkar, FRCR", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Not yet recruiting", 
+        "oversight_info": {
+            "authority": "United Kingdom: National Health Service", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "July 2013", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "The principal aim of this study is to quantify the accuracy of ultrasound measurement of bladder volume in comparision with gold standard MRI measurement. To do this, each of the five volunteers will have 5 repeat measurements of each imaging modality (ultrasound and MRI) within each 45 minute scan session as the bladder volume increases in response to the specified drinking protocol. Each volunteer will undergo three scan sessions over three weeks. Study participants will not receive follow-up. An accuracy of +/-10% would be considered sufficient to inform future studies.", 
+            "measure": "Accuracy of ultrasound measurement of bladder volume in comparision with gold standard MRI measurement", 
+            "safety_issue": "No", 
+            "time_frame": "Three weeks"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01698359"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University Hospital Birmingham NHS Foundation Trust", 
+            "investigator_full_name": "Dr Anjali Zarkar", 
+            "investigator_title": "Consultant Clinical Oncologist", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "source": "University Hospital Birmingham NHS Foundation Trust", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University Hospital Birmingham NHS Foundation Trust", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "November 2012", 
+        "study_design": "Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "September 2012"
+    }
+}

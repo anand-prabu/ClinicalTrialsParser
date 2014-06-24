@@ -1,0 +1,723 @@
+{
+    "clinical_study": {
+        "@rank": "139449", 
+        "arm_group": [
+            {
+                "arm_group_label": "A: FOLFOXIRI + bevacizumab", 
+                "arm_group_type": "Experimental"
+            }, 
+            {
+                "arm_group_label": "B: sequential FOLFOXIRI + bevacizumab", 
+                "arm_group_type": "Experimental"
+            }, 
+            {
+                "arm_group_label": "C: FOLFOX + bevacizumab", 
+                "arm_group_type": "Experimental"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This randomized, open-label, multicenter study will evaluate the efficacy and safety of\n      FOLFOXIRI/Avastin (bevacizumab) regimens (concurrent and sequential) versus FOLFOX/Avastin\n      in first-line in patients with metastatic colorectal cancer. Patients will be randomized to\n      receive Avastin 5 mg/kg intravenously every 2 weeks with either concurrent or sequential\n      FOLFOXIRI or with FOLFOX for 4 to 6 months of induction therapy, followed by maintenance\n      therapy with Avastin plus either leucovorin/5-fluorouracil or capecitabine until disease\n      progression occurs. After disease progression, patients will receive treatment with a\n      fluoropyrimidine-based chemotherapy plus Avastin."
+        }, 
+        "brief_title": "STEAM: A Study of Sequential and Concurrent FOLFOXIRI/Avastin (Bevacizumab) Regimens Versus FOLFOX/Avastin in First-Line in Patients With Metastatic Colorectal Cancer", 
+        "completion_date": {
+            "#text": "December 2017", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Colorectal Cancer", 
+        "condition_browse": {
+            "mesh_term": "Colorectal Neoplasms"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Adult patients, >/= 18 and </= 75 years of age\n\n          -  Histologically confirmed colorectal cancer with at least one measurable metastatic\n             lesion by RECIST v1.1\n\n          -  Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1\n\n          -  Adequate hematological, renal and liver function\n\n          -  Patients with treated brain metastases are eligible for study participation; patients\n             may not receive ongoing treatment with steroids at screening, anticonvulsants (at\n             stable dose) are allowed\n\n          -  Females of childbearing potential and males must agree to use effective contraception\n             as defined by protocol during the treatment period and for at least 6 months after\n             the last dose of study drug\n\n        Exclusion Criteria:\n\n          -  Any prior treatment for metastatic colorectal cancer, except for use of palliative\n             radiosensitizers\n\n          -  Adjuvant chemotherapy for colorectal cancer completed < 12 months prior to study\n             consent\n\n          -  Sensory peripheral neuropathy >/= grade 2\n\n          -  Evidence of Gilbert's Syndrome or homozygosity for the UGT1A1*28 allele\n\n          -  Positive for HIV infection\n\n          -  Malignancies other than metastatic colorectal cancer within 5 years prior to\n             randomization, except for adequately treated carcinoma in situ of the cervix, basal\n             or squamous cell skin cancer, localized prostate cancer treated surgically with\n             curative intent, and ductal carcinoma in situ treated surgically with curative intent\n\n          -  Radiotherapy to any site for any reason within 28 days prior to randomization, except\n             for palliative radiotherapy to bone lesions within 14 days prior to randomization\n\n          -  Clinically significant third-space fluid collections (e.g. ascites or pleural\n             effusion) that cannot be controlled by drainage or other procedures prior to study\n             entry\n\n          -  Treatment with any other investigational agent, or participation in an other\n             investigational drug trial within 28 days prior to randomization\n\n          -  Pregnant or breastfeeding women\n\n          -  Any disease or condition or laboratory finding giving reasonable suspicion of disease\n             or condition that contraindicates the use of bevacizumab or puts the patient at high\n             risk for treatment-related complications\n\n          -  Inadequately controlled hypertension\n\n          -  Clinically significant (i.e. active) cardiovascular disease (e.g. cerebrovascular\n             accident or myocardial infarction within 6 months prior to randomization), unstable\n             angina, congestive heart failure (New York Heart Association Class >/= II) or serious\n             cardiac arrhythmia that is uncontrolled by medication or may interfere with the\n             administration of the study treatment\n\n          -  Known hypersensitivity to bevacizumab or any of its excipients or any other study\n             drug"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "75 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "280", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "January 9, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01765582", 
+            "org_study_id": "ML28442"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "A: FOLFOXIRI + bevacizumab", 
+                    "B: sequential FOLFOXIRI + bevacizumab", 
+                    "C: FOLFOX + bevacizumab"
+                ], 
+                "description": "5 mg/kg iv every 2 weeks, 4-6  months induction, followed by 5 mg/kg iv every 2 weeks or 7.5 mg/kg iv every 3 weeks maintenance therapy, and 2.5 mg/kg/week  reinduction after disease progression", 
+                "intervention_name": "bevacizumab [Avastin]", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "A: FOLFOXIRI + bevacizumab", 
+                    "B: sequential FOLFOXIRI + bevacizumab", 
+                    "C: FOLFOX + bevacizumab"
+                ], 
+                "description": "iv every 2 weeks, 4-6 months induction followed by maintenance therapy", 
+                "intervention_name": "leucovorin", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "A: FOLFOXIRI + bevacizumab", 
+                    "B: sequential FOLFOXIRI + bevacizumab", 
+                    "C: FOLFOX + bevacizumab"
+                ], 
+                "description": "iv every 2 weeks, 4-6 months induction followed by maintenance therapy", 
+                "intervention_name": "5-fluorouracil", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "A: FOLFOXIRI + bevacizumab", 
+                    "B: sequential FOLFOXIRI + bevacizumab"
+                ], 
+                "description": "iv every 2 weeks (Arm A) or iv 2 x 2 weeks cycles alternating months (Arm B), 4-6 months induction", 
+                "intervention_name": "irinotecan", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "B: sequential FOLFOXIRI + bevacizumab", 
+                    "C: FOLFOX + bevacizumab"
+                ], 
+                "description": "iv every 2 weeks (Arm C) or 2 x 2 week cycles alternating months (Arm B), 4-6 months induction", 
+                "intervention_name": "oxaliplatin", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "A: FOLFOXIRI + bevacizumab", 
+                    "B: sequential FOLFOXIRI + bevacizumab", 
+                    "C: FOLFOX + bevacizumab"
+                ], 
+                "description": "1000 or 850 mg/kg orally b.i.d. Day 1-14, repeated every 3 weeks, maintenance phase", 
+                "intervention_name": "capecitabine [Xeloda]", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "A: FOLFOXIRI + bevacizumab", 
+                    "B: sequential FOLFOXIRI + bevacizumab", 
+                    "C: FOLFOX + bevacizumab"
+                ], 
+                "description": "reinduction therapy after disease progression", 
+                "intervention_name": "fluoropyrimidine-based chemotherapy", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Fluorouracil", 
+                "Capecitabine", 
+                "Oxaliplatin", 
+                "Irinotecan", 
+                "Bevacizumab", 
+                "Leucovorin", 
+                "Levoleucovorin"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "lastchanged_date": "May 12, 2014", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mobile", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "36604"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Long Beach", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90806"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90033"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Monterey", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "93940"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sacramento", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "95816"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Salinas", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "93901"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Denver", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80205"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Denver", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80218"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Haven", 
+                        "country": "United States", 
+                        "state": "Connecticut", 
+                        "zip": "06520"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Myers", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33905"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St Petersburg", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33705"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Athens", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30607"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Atlanta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30322"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Macon", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "31201"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Savannah", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "31405"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Harvey", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60426"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Naperville", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60540"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Plainfield", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60585"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lexington", 
+                        "country": "United States", 
+                        "state": "Kentucky", 
+                        "zip": "40536"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21231"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02111"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ann Arbor", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48106"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Detroit", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48201"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St. Louis", 
+                        "country": "United States", 
+                        "state": "Missouri", 
+                        "zip": "63110"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lincoln", 
+                        "country": "United States", 
+                        "state": "Nebraska", 
+                        "zip": "68510"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Omaha", 
+                        "country": "United States", 
+                        "state": "Nebraska", 
+                        "zip": "68114"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lebanon", 
+                        "country": "United States", 
+                        "state": "New Hampshire", 
+                        "zip": "03756"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cincinnati", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45242"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Oklahoma City", 
+                        "country": "United States", 
+                        "state": "Oklahoma", 
+                        "zip": "73104"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hershey", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "17033"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chattanooga", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37404"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Memphis", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "38120"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nashville", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37203"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75390-9063"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Worth", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "76104"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Temple", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "76508"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Richmond", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23230"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kirkland", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98034"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98109"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Spokane", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "99208"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Washington", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "20016"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Green Bay", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "54311"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milwaukee", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "53226"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wauwatosa", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "53226"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cheyenne", 
+                        "country": "United States", 
+                        "state": "Wyoming", 
+                        "zip": "82001"
+                    }
+                }, 
+                "status": "Completed"
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "STEAM (SEQUENTIAL TRIPLET AND AVASTIN MAINTENANCE): FOLFOXIRI/BEVACIZUMAB REGIMENS (CONCURRENT AND SEQUENTIAL) VS. FOLFOX/BEVACIZUMAB IN FIRST-LINE METASTATIC COLORECTAL CANCER", 
+        "overall_contact": {
+            "email": "global.rochegenentechtrials@roche.com", 
+            "last_name": "Reference Study ID Number: ML28442 www.roche.com/about_roche/roche_worldwide.htm", 
+            "phone": "888-662-6728 (U.S. Only)"
+        }, 
+        "overall_official": {
+            "affiliation": "Hoffmann-La Roche", 
+            "last_name": "Clinical Trials", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "December 2017", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": [
+            {
+                "measure": "Overall response rate (ORR1) during first-line therapy, assessed by the investigator according to RECIST v.1.1 criteria", 
+                "safety_issue": "No", 
+                "time_frame": "approximately 5 years"
+            }, 
+            {
+                "measure": "Progression-free survival (PFS1), defined as time from randomization to first occurrence of disease progression or death, whichever occurs first, during first-line therapy", 
+                "safety_issue": "No", 
+                "time_frame": "approximately 5 years"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01765582"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Overall response rate during second-line therapy (ORR2), defined as proportion of patients with complete response or partial response during second-line therapy", 
+                "safety_issue": "No", 
+                "time_frame": "approximately 5 years"
+            }, 
+            {
+                "measure": "Progression-free survival during second-line therapy (PFS2), defined as time from reinduction of second-line therapy to disease progression or death from any cause, whichever occurs first", 
+                "safety_issue": "No", 
+                "time_frame": "approximately 5 years"
+            }, 
+            {
+                "measure": "Time to PFS2, defined as time from randomization to first occurrence of disease progression after reintroduction of second-line therapy", 
+                "safety_issue": "No", 
+                "time_frame": "approximately 5 years"
+            }, 
+            {
+                "measure": "Overall survival, defined as time from randomization to death of any cause", 
+                "safety_issue": "No", 
+                "time_frame": "approximately 5 years"
+            }, 
+            {
+                "measure": "Liver resection rate: Proportion of patients who undergo liver metastases resections", 
+                "safety_issue": "No", 
+                "time_frame": "approximately 5 years"
+            }, 
+            {
+                "measure": "Rates of conversion from unresectable to resectable disease (liver-limited and non-liver-limited disease)", 
+                "safety_issue": "No", 
+                "time_frame": "approximately 5 years"
+            }, 
+            {
+                "measure": "Safety: Incidence of adverse events", 
+                "safety_issue": "No", 
+                "time_frame": "approximately 5 years"
+            }
+        ], 
+        "source": "Hoffmann-La Roche", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Hoffmann-La Roche", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "January 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2014"
+    }
+}

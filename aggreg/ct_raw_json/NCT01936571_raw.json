@@ -1,0 +1,113 @@
+{
+    "clinical_study": {
+        "@rank": "121040", 
+        "arm_group": {
+            "arm_group_label": "NSCLC", 
+            "description": "The cohort consists of approximately 250 patients. As a rule of thumb 5-10 events per variable are needed to avoid overfitting a model. To model 6 clinical variables + 9 biomarker variables 75-150 events are needed. Assuming a two-year survival of 40%, the calculated (constant) hazard rate is 0.46 per year. With an inclusion rate of 50 patients per year, and a follow-up time varying between 0.5 and 4 year, at the time of analysis (November/December 2013) it is expected that there will be 138 events available for analysis."
+        }, 
+        "brief_summary": {
+            "textblock": "Lung cancer is the most common cancer type worldwide, with more than 1.1 million annual\n      deaths. There are two types of the disease, namely non-small cell lung cancer (NSCLC) and\n      small-cell lung cancer (SCLC), with the first accounting for 85% of the total number of\n      cases. The 5-year survival across stages remains disappointingly low, around 10% in most\n      countries, due to a high incidence of both loco-regional and distant failure [3]. However,\n      during the last decade improved radiotherapy techniques allowed an increase of the radiation\n      dose, while at the same time more effective chemo radiation schemes are being applied. These\n      developments have lead to improved outcome in terms of survival. As the TNM staging system\n      is highly inaccurate for the prediction of survival outcome for non-surgical patients,\n      attempts have been made to develop a more accurate risk stratification for these patients\n      [1,2]. A model based on clinical variables yielded an AUC of 0.74, which was encouraging,\n      but also left room for improvement [2]. An extended model, which included clinical as well\n      as biomarker variables, reached a higher AUC, but the limited number of patients included in\n      this study made it impossible to draw definitive conclusions [1].\n\n      New prognostic parameters can be retrieved from several sources, which include anatomic,\n      molecular and functional imaging, genomics, proteomics and clinical analysis of patients.\n      The unlimited amount of information is expected to lead to more accurate predictions of\n      individual treatment outcome [4].\n\n      The analysis of biomarkers, including proteins, is a fast developing, promising and\n      challenging area of research. Biomarkers can measure or evaluate normal biological\n      processes, pathogenic processes, or pharmacological responses to a therapeutic intervention.\n       Oncoproteins are produced by, or in response to tumor cells, and may be secreted in the\n      circulation of patients. As tissue sampling is often not possible in lung cancer patients,\n      blood sample collection by venepuncture offers an attractive alternative, which is safe and\n      easy to implement. A number of studies described the prognostic and predictive value of\n      blood biomarkers for NSCLC [5-7]. In this study we will investigate the prognostic value of\n      blood biomarkers related to 1) hypoxia: Osteopontin (OPN), carbonic anhydrase IX (CA-9), and\n      lactate dehydrogenase (LDH); 2) inflammation - interleukin 6 (IL-6), IL-8, and C-reactive\n      protein (CRP), and \u03b1-2-macroglobulin (\u03b1-2M); and 3) tumor load: Carcinoembryonic antigen\n      (CEA) and cytokeratin fragment (CYFRA 21-1).\n\n        1. Dehing-Oberije C, Aerts H, Yu S, De Ruysscher D, Menheere P, Hilvo M, et al.\n           Development and validation of a prognostic model using blood biomarker information for\n           prediction of survival of non-small-cell lung cancer patients treated with combined\n           chemotherapy and radiation or radiotherapy alone (NCT00181519, NCT00573040, and\n           NCT00572325). Int J Radiat Oncol Biol Phys. 2011 Oct 1;81(2):360-368.\n\n        2. Dehing-Oberije C, Yu S, De Ruysscher D, Meersschout S, Van Beek K, Lievens Y, et al.\n           Development and external validation of prognostic model for 2-year survival of\n           non-small-cell lung cancer patients treated with chemoradiotherapy. Int J Radiat Oncol\n           Biol Phys. 2009 Jun 1;74(2):355-362.\n\n        3. Travis WD, Brambilla E, M\u00fcller-Hermelink HK, Harris CC. World Health Organization\n           Classification of Tumours: Pathology and Genetics of Tumours of the Lung, Pleura,\n           Thymus and Heart. Paul Kleihues MD, Leslie H. Sobin MD, editors. Lyon, France: IARC\n           Press, International Agency for Research on Cancer; 2004.\n\n        4. Lambin P, Rios-Velazquez E, Leijenaar R, Carvalho S, van Stiphout RG, Granton P, et al.\n           Radiomics: extracting more information from medical images using advanced feature\n           analysis. Eur J Cancer. 2012 Mar;48(4):441-446.\n\n        5. Donati V, Boldrini L, Dell'Omodarme M, Prati MC, Faviana P, Camacci T, et al.\n           Osteopontin expression and prognostic significance in non-small cell lung cancer. Clin\n           Cancer Res. 2005 Sep 15;11(18):6459-6465.\n\n        6. Muley T, Fetz TH, Dienemann H, Hoffmann H, Herth FJ, Meister M, et al. Tumor volume and\n           tumor marker index based on CYFRA 21-1 and CEA are strong prognostic factors in\n           operated early stage NSCLC. Lung Cancer. 2008 Jun;60(3):408-415.\n\n        7. Pine SR, Mechanic LE, Enewold L, Chaturvedi AK, Katki HA, Zheng YL, et al. Increased\n           levels of circulating interleukin 6, interleukin 8, C-reactive protein, and risk of\n           lung cancer. J Natl Cancer Inst. 2011 Jul 20;103(14):1112-1122."
+        }, 
+        "brief_title": "Usefulness of Blood Biomarkers for Overall Survival in NSCLC", 
+        "completion_date": {
+            "#text": "March 2014", 
+            "@type": "Actual"
+        }, 
+        "condition": "Non-small Cell Lung Cancer", 
+        "condition_browse": {
+            "mesh_term": [
+                "Carcinoma, Non-Small-Cell Lung", 
+                "Lung Neoplasms"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Lung cancer is the most common cancer type worldwide, with more than 1.1 million annual\n      deaths. There are two types of the disease, namely non-small cell lung cancer (NSCLC) and\n      small-cell lung cancer (SCLC), with the first accounting for 85% of the total number of\n      cases. The 5-year survival across stages remains disappointingly low, around 10% in most\n      countries, due to a high incidence of both loco-regional and distant failure [3]. However,\n      during the last decade improved radiotherapy techniques allowed an increase of the radiation\n      dose, while at the same time more effective chemo radiation schemes are being applied. These\n      developments have lead to improved outcome in terms of survival. As the TNM staging system\n      is highly inaccurate for the prediction of survival outcome for non-surgical patients,\n      attempts have been made to develop a more accurate risk stratification for these patients\n      [1,2]. A model based on clinical variables yielded an AUC of 0.74, which was encouraging,\n      but also left room for improvement [2]. An extended model, which included clinical as well\n      as biomarker variables, reached a higher AUC, but the limited number of patients included in\n      this study made it impossible to draw definitive conclusions [1].\n\n      New prognostic parameters can be retrieved from several sources, which include anatomic,\n      molecular and functional imaging, genomics, proteomics and clinical analysis of patients.\n      The unlimited amount of information is expected to lead to more accurate predictions of\n      individual treatment outcome [4].\n\n      The analysis of biomarkers, including proteins, is a fast developing, promising and\n      challenging area of research. Biomarkers can measure or evaluate normal biological\n      processes, pathogenic processes, or pharmacological responses to a therapeutic intervention.\n       Oncoproteins are produced by, or in response to tumor cells, and may be secreted in the\n      circulation of patients. As tissue sampling is often not possible in lung cancer patients,\n      blood sample collection by venepuncture offers an attractive alternative, which is safe and\n      easy to implement. A number of studies described the prognostic and predictive value of\n      blood biomarkers for NSCLC [5-7]. In this study we will investigate the prognostic value of\n      blood biomarkers related to 1) hypoxia: Osteopontin (OPN), carbonic anhydrase IX (CA-9), and\n      lactate dehydrogenase (LDH); 2) inflammation - interleukin 6 (IL-6), IL-8, and C-reactive\n      protein (CRP), and \u03b1-2-macroglobulin (\u03b1-2M); and 3) tumor load: Carcinoembryonic antigen\n      (CEA) and cytokeratin fragment (CYFRA 21-1).\n\n        1. Dehing-Oberije C, Aerts H, Yu S, De Ruysscher D, Menheere P, Hilvo M, et al.\n           Development and validation of a prognostic model using blood biomarker information for\n           prediction of survival of non-small-cell lung cancer patients treated with combined\n           chemotherapy and radiation or radiotherapy alone (NCT00181519, NCT00573040, and\n           NCT00572325). Int J Radiat Oncol Biol Phys. 2011 Oct 1;81(2):360-368.\n\n        2. Dehing-Oberije C, Yu S, De Ruysscher D, Meersschout S, Van Beek K, Lievens Y, et al.\n           Development and external validation of prognostic model for 2-year survival of\n           non-small-cell lung cancer patients treated with chemoradiotherapy. Int J Radiat Oncol\n           Biol Phys. 2009 Jun 1;74(2):355-362.\n\n        3. Travis WD, Brambilla E, M\u00fcller-Hermelink HK, Harris CC. World Health Organization\n           Classification of Tumours: Pathology and Genetics of Tumours of the Lung, Pleura,\n           Thymus and Heart. Paul Kleihues MD, Leslie H. Sobin MD, editors. Lyon, France: IARC\n           Press, International Agency for Research on Cancer; 2004.\n\n        4. Lambin P, Rios-Velazquez E, Leijenaar R, Carvalho S, van Stiphout RG, Granton P, et al.\n           Radiomics: extracting more information from medical images using advanced feature\n           analysis. Eur J Cancer. 2012 Mar;48(4):441-446.\n\n        5. Donati V, Boldrini L, Dell'Omodarme M, Prati MC, Faviana P, Camacci T, et al.\n           Osteopontin expression and prognostic significance in non-small cell lung cancer. Clin\n           Cancer Res. 2005 Sep 15;11(18):6459-6465.\n\n        6. Muley T, Fetz TH, Dienemann H, Hoffmann H, Herth FJ, Meister M, et al. Tumor volume and\n           tumor marker index based on CYFRA 21-1 and CEA are strong prognostic factors in\n           operated early stage NSCLC. Lung Cancer. 2008 Jun;60(3):408-415.\n\n        7. Pine SR, Mechanic LE, Enewold L, Chaturvedi AK, Katki HA, Zheng YL, et al. Increased\n           levels of circulating interleukin 6, interleukin 8, C-reactive protein, and risk of\n           lung cancer. J Natl Cancer Inst. 2011 Jul 20;103(14):1112-1122.\n\n      The investigators hypothesize that:\n\n        -  Higher levels of blood biomarkers are associated with worse survival\n\n        -  The biomarker information will improve the performance of prediction models, that were\n           previously developed and validated [1, 2]\n\n        -  Subgroups of patients can be identified that benefit most in terms of a more accurate\n           prediction of survival when using biomarker information\n\n      Measurement procedure: Blood samples, that were collected, processed and stored in the\n      Maastro biobank in a standardized way, will be used to measure CRP, LDH, Osteopontin, CA-9\n      IL-6, IL-8, CEA, CYFRA 21-1, and \u03b1-2M. Clinical data will be retrieved from the electronic\n      medical files."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "The cohort consists of approximately 250 patients. As a rule of thumb 5-10 events per\n        variable are needed to avoid overfitting a model. To model 6 clinical variables + 9\n        biomarker variables 75-150 events are needed. Assuming a two-year survival of 40%, the\n        calculated (constant) hazard rate is 0.46 per year. With an inclusion rate of 50 patients\n        per year, and a follow-up time varying between 0.5 and 4 year, at the time of analysis\n        (November/December 2013) it is expected that there will be 138 events available for\n        analysis."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "Non-small cell lung cancer patients"
+            }
+        }, 
+        "enrollment": {
+            "#text": "250", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "September 3, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01936571", 
+            "org_study_id": "Blood Biomarkers"
+        }, 
+        "intervention": {
+            "arm_group_label": "NSCLC", 
+            "description": "Blood samples, that were collected, processed and stored in the Maastro biobank in a standardized way, will be used to measure CRP, LDH, Osteopontin, CA-9 IL-6, IL-8, CEA, CYFRA 21-1, and \u03b1-2M. Clinical data will be retrieved from the electronic medical files.", 
+            "intervention_name": "Blood samples", 
+            "intervention_type": "Other"
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "April 10, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Maastricht", 
+                    "country": "Netherlands", 
+                    "state": "Limburg", 
+                    "zip": "6229 ET"
+                }, 
+                "name": "MAASTRO clinic"
+            }
+        }, 
+        "location_countries": {
+            "country": "Netherlands"
+        }, 
+        "number_of_groups": "1", 
+        "official_title": "Use of Blood Biomarkers to Predict Overall Survival for Non-Small-cell Lung Cancer (NSCLC) Patients Treated With (Chemo)Radiotherapy.", 
+        "overall_official": {
+            "affiliation": "Maastro Clinic, The Netherlands", 
+            "last_name": "Cary Oberije, PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Netherlands: The Central Committee on Research Involving Human Subjects (CCMO)", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "February 2014", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "Correlation of blood biomarkers to overall survival", 
+            "safety_issue": "No", 
+            "time_frame": "4 years"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01936571"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Maastricht Radiation Oncology", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Maastricht Radiation Oncology", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "September 2013", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "April 2014"
+    }
+}

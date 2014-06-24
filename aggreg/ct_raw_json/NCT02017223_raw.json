@@ -1,0 +1,151 @@
+{
+    "clinical_study": {
+        "@rank": "40276", 
+        "acronym": "KNOWME", 
+        "arm_group": {
+            "arm_group_label": "Knowme Device Wear", 
+            "arm_group_type": "Experimental"
+        }, 
+        "brief_summary": {
+            "textblock": "This project proposes to use mobile devices to develop new tools for pediatric obesity\n      prevention and treatment targeting underserved minority adolescent populations at high risk\n      for obesity and related diseases. We will use off the shelf, validated and wearable wireless\n      sensors to measure physical activity, blood pressure, sleep, heart rate, galvanic skin\n      response and blood glucose levels and communicate the measured information to a mobile phone\n      using a wireless interface. This will deliver a record of behavior and health data that is\n      time-stamped, synchronized, and geographically localized using GPS to a secure server. Data\n      will then be analyzed and displayed to participating health professionals to provide them\n      with readily interpretable records of continuously monitored energy expenditure, recorded\n      and synchronized with other essential biological, behavioral and geographical data. To\n      accomplish this project, 50 African American and Hispanic youth (50% female, ages 12-17)\n      will be recruited into the research in advisory capacities, to test the sensors during\n      development, and to wear the sensors for three non-contiguous weeks. To test the sensors\n      prior to use with minority youth, 30 college students age 18 and above will be recruited to\n      try out the sensors in and outside of the laboratory in order to make sure that all sensors\n      are in perfect working order before testing them in minority youth populations. An advisory\n      group of medical professionals will be assembled to guide us through the process of\n      developing a web interface that will ensure that the right information will be displayed in\n      an easily interpretable fashion. The advisory group will participate in regular meetings to\n      develop and test the web interface. Using the data acquired, health professionals will be\n      able to visualize average amounts of physical activity, sleep, sedentary behaviors (daily or\n      weekly) as well as daily patterns. Average blood glucose, heart rate, and stress levels\n      (daily or weekly) as well as daily patterns will also be available. Practitioners will be\n      able to see when and where activity and metabolic events are occurring, enabling preemptive\n      and preventive strategies as well as targeted interventions to prevent and treat pediatric\n      obesity in underserved and at-risk minority youth."
+        }, 
+        "brief_title": "Mobile Device Biomonitoring to Prevent and Treat Obesity in Underserved Youth", 
+        "completion_date": {
+            "#text": "March 2012", 
+            "@type": "Actual"
+        }, 
+        "condition": "Obesity", 
+        "condition_browse": {
+            "mesh_term": "Obesity"
+        }, 
+        "detailed_description": {
+            "textblock": "Part 1:  Developing a Mobile Software Suite for Biomonitoring The software suite proposed in\n      this research will be implemented using a three-tier architecture as shown in Figure 1. The\n      front tier of this architecture is the data collection sensors coupled with mobile phones\n      that acts as data transmission device. The middle tier is a web server that receives and\n      processes information and sends it to a back-end database server that stores the\n      information.\n\n      The sensor layer is a collection of off-the-shelf devices that measure the metabolic\n      activity. In particular, we propose to use heart rate, blood pressure, and blood glucose\n      monitors currently available from Alive Technologies25.  We also propose to use BodyMedia\n      WMS\u2122 sensors to measure the Galvanic Skin Response (GSR) and motion estimation using\n      accelerometers. In addition to measuring the metabolic activity all these sensors are also\n      capable of wirelessly transmitting this data over Bluetooth interface. We propose to use\n      feature rich Nokia N95 as the mobile phone platform. N95 supports Bluetooth 2.0 +EDR for\n      quick pairing with external Bluetooth sensors, and has 3G and WiFi  radios for high\n      bandwidth data transfer. All the external sensors listed above stream data to the Bluetooth\n      enabled N95 mobile phone. In addition to the high bandwidth radio capabilities, the N95\n      mobile phone platform has a highly accurate built-in assisted GPS unit that uses a\n      combination of GPS satellites, cellular tower and WiFi scanning to obtain a GPS position\n      lock in less than 10 seconds. The stated location accuracy of GPS unit is 30 meters, while\n      in practice the observed accuracy is around 3 meters.\n\n      The Principal Investigator of this project has extensive experience using accelerometers in\n      minority youth, and is Co-Director of the Human Measurement Core of the USC Center for\n      Transdisciplinary Research on Energetics and Cancer (TREC) funded by NCI, which is\n      responsible for physical activity measures across all TREC center projects. Accelerometer\n      data for assessment of physical activity is one of the most prevalent measures (coupled with\n      dietary data) used to evaluate energy expenditure6, 26, 27. However, most research involves\n      the wear of a single accelerometer which does not yield truly accurate data 24.  Therefore,\n      in this project we propose to synchronize multiple accelerometery data sources to estimate\n      energy expenditure more accurately28.\n\n      Part 1a: Testing and Initial Deployment of sensors in target populations: We will use unit\n      testing to extensively test our mobile software suite. We will recreate several usage\n      scenarios and environmental conditions that our deployment test bed is likely to encounter.\n      A total of 50 Hispanic and African American youth will be recruited to assist in technology\n      development: 1) an advisory group of 10 youth, 2) 20 youth to participate in laboratory\n      testing of the biomonitors and 3) 20 youth to wear the biomonitors and provide data and\n      feedback. The advisory group of 5 African American and 5 Hispanic youth will be retained\n      throughout the developmental phase to periodically visit our laboratory and test-run the\n      sensors (50% female, 12-17 years of age). We will recruit a separate group of 10 African\n      American and 10 Hispanic youth (50% female, 12-17 years of age) to participate in idea\n      building sessions to ensure that sensors will be attractive and wearable, and to test the\n      ease of usability of our mobile software suite. The initial deployment phase includes\n      training the children on how to wear and remove the sensors. In order to minimize errors in\n      configuring the software, we envision that our mobile software will have several in-built\n      checks to advise the user if any of the sensor readings do not match expected sensor\n      behavior, and suggest simple solutions to properly configure the sensors. In addition to\n      providing the wearable sensors we will also provide each child with a mobile phone platform\n      which interfaces with these sensors. Since the mobile device has to transmit the data to the\n      back-end servers, we will opportunistically use an open WiFi network that a phone can\n      connect to transfer data both efficiently and economically. In the absence of WiFi networks\n      the mobile software will automatically use the cellular data network to transmit the data.\n      For using cellular data network we plan to explore several available options that allow\n      users to send unlimited data for less than 10$ a month in the Los Angeles area from their\n      mobile phones. For laboratory testing of sensors, 10 Hispanic and 10 African American youth\n      will spend 3-6 hours wearing the sensors and following protocols for walking, sitting,\n      standing and doing various daily activities either at Dr. Spruijt-Metz's Physical Activity\n      Observation Laboratory at USC HSA, or to the Motion Capture Laboratory at the Viterbi School\n      of Engineering on USC Main Campus. Once the software and hardware is determined to be robust\n      enough for deployment we will conduct our initial monitoring study with 10 African American\n      and 10 Hispanic youth (50% female, 12-17 years of age). Children will wear the devices for\n      three periods of one week (7 days), after which they will participate in brief individual\n      interviews and surveys to ascertain ease of wear and to find ways to motivate and\n      incentivize teens for wearing the sensors. Data collected from these weeks of wear will be\n      used for the remaining data analysis and web presentation phases of the study.\n\n      Part 2: Data Capture and Transmission to a Back-End Server: We propose to write a\n      comprehensive mobile software suite that will allow the mobile phone to use Bluetooth to\n      pair with wireless monitoring devices to collect vital health and behavioral data along with\n      reading the built-in GPS data. The BodyMedia and MemSensse units will provide accelerometry\n      data on physical activity and sleep. These measures will be validated in our physical\n      activity lab against the Actigraph accelerometer (which has been extensively validated in\n      youth) and Continuous Observation using the SOFIT system, a gold standard for physical\n      activity measurement in youth 32, 33.  By using time stamps the sensor data from\n      Accelerometer can be correlated to the vital signs data collected from wearable sensors. We\n      will use the data collected from all these sensors to automatically classify the user's\n      activity. In particular, the software creates user specific movement signatures to account\n      for differences in user's gait, walking/running/bicycling speed, usual route taken between\n      work and home etc. The software will be able to use a combination of GPS and accelerometers\n      to recognize the differences between driving on road and walking. This sensor information\n      will be recorded continuously on the local storage on the mobile phone. For reference, our\n      mobile device platform has an 8GB in-built flash memory that can be used for storing sensor\n      information.  Table 1 shows the approximate data rate of sensors. Using these data rates, we\n      estimate that our 8GB local storage can store approximately 1000 days worth of data.\n\n      While data may be stored locally on the mobile phone the real value of our approach is the\n      fact that these mobile devices can transmit the sensor information to any remote server\n      using cellular data network or even WiFi. The information collected from the sensors in the\n      mobile phone is sent to the web server for processing. The web server acts as data integrity\n      manager that prevents illegal data read/writes by using simple authentication mechanisms,\n      such as personal authentication. The web server utilizes HTTP/SMTP protocol to receive\n      information from the mobile phones. The web server also provides web enabled access to the\n      data for physician's around the globe.\n\n      Part 3: Simultaneous Data Analysis and Interpretation: The web server sends the data to the\n      back-end database server for storing and further analysis of the data. Sensor data is likely\n      to be noisy. Therefore, the experts in engineering and pediatric obesity in minority\n      populations gathered on this team will work together to create adaptive algorithms to\n      distill important health and behavioral information from noisy sensors. All data will be\n      analyzed and displayed in two modalities: 1) Average values over a week and 2) High and low\n      points according to geographical position. To accomplish the first modality, accelerometery\n      data will be reduced to display average time spent in sedentary, light, moderate and\n      vigorous activity and average daily energy expenditure. Average heart rate, blood pressure,\n      blood glucose and body temperature will be displayed  along with the accelerometer data. We\n      will use current literature and existing software examples to develop systems that will\n      allow us to use Heart Rate and Galvanic Skin Response to measure and display stress and\n      autonomic nervous system (ANS) function appropriately for these pediatric populations. We\n      will fine-tune models for activity levels and correlate activity levels via accelerometry\n      with our other sensing modalities (heart rate, blood pressure, blood glucose, etc.).  An\n      objective is to develop new signal processing tools based on multi-modal signal processing\n      strategies to evaluate activity levels with the potential of developing a continuum of\n      activity measures (sedentary, light, moderate and vigorous activity).  The development of\n      such algorithms will allow for accurate measurements even when one sensor is not working\n      properly.  In addition, we shall investigate the possibility of monitoring whether a child\n      is properly wearing all sensors.\n\n      To accomplish modality 2), displaying high and low data points according to geographical\n      position, all data will be time-stamped and synchronized to the Geographic Positioning\n      System (GPS). This will yield high insight into the impact of the environment on physical\n      activity in this population. We will develop methodologies for data and device\n      synchronization. These methodologies may enable the turning on and off of key sensing\n      devices after a particular event has occurred (e.g. GPS data is interpreted and it is\n      observed that a child has moved into a playground or a convenience store - certain sensing\n      devices are turned on or off, or sample at a higher rate). This data will reveal where\n      children are more active, where they are sedentary and where they are experiencing stress.\n      Finally, the web interface will be equipped to signal health practitioners when average\n      values fall above or below prescribed health guidelines.\n\n      3a) Web interface capabilities: What, when and where:\n\n      Using the data acquired, health professionals will be able to visualize:\n\n        -  Average amount of moderate to vigorous physical activity a child is getting (daily or\n           weekly), plus daily patterns of exercise\n\n        -  Average number of steps a child is taking (daily or weekly), plus daily patterns of\n           steps\n\n        -  Average amount of sedentary behavior a child is experiencing per day or per week, plus\n           daily patterns of sedentary behaviors\n\n        -  Average amounts of sleep a child is getting per day or per week, plus daily patterns of\n           sleep\n\n        -  Average blood glucose levels (daily or weekly), plus daily patterns of glucose levels\n\n        -  Average levels of stress or arousal (daily or weekly), plus daily patterns of stress\n\n        -  All patterns of behavioral and metabolic data will be time stamped. Therefore,\n           practitioners will be able to see when a child is active, sedentary, stressed, or\n           experiencing high blood glucose levels.\n\n        -  All patterns of behavioral and metabolic data will be geo-coded. Therefore,\n           practitioners will be able to see where a child is active, sedentary, stressed, or\n           experiencing high blood glucose levels.\n\n      Providing notifications: The final product will be influenced by the advisory group of\n      medical professionals that we will assemble. We therefore provide a brief list of examples\n      below (thus not an exhaustive list) of notifications that we envision the web interface\n      supply to participating health professionals:\n\n        -  Recommendations for physical activity range from 30-90 minutes of moderate to vigorous\n           physical activity per day and are somewhat age-specific34. Automated system\n           notifications could be generated when average daily physical activity moderate to\n           vigorous falls below 60 minutes, and again below 30 minutes.\n\n        -  Recommendations for steps per day are currently 11,000 to 12,000 steps per day for\n           girls and 13.000 to 15,000 steps per day for boys. Automated system notifications will\n           be generated when children fall below these recommendations. New recommendations for\n           both physical activity and steps are expected to be made public soon35. Advances in the\n           field will be scrupulously monitored and incorporated.\n\n        -  Blood pressure values are specific to height and weight of children. This data will be\n           fed into the database for analyses and blood pressure notifications will be posted when\n           a child is at or above normal blood pressure according the Fourth Report on the\n           Diagnosis, Evaluation, and Treatment of High Blood Pressure in Children and\n           Adolescents36.\n\n        -  According to the American Diabetes Association, casual plasma glucose concentration\n           \u2265200 mg/dl (11.1 mmol/l) is indicative of type 2 diabetes in children. Casual is\n           defined as any time of day without regard to time since last meal. Furthermore,\n           concentrations of \u2265140 mg/dl are considered to indicate pre-diabetes or Impaired\n           Glucose Tolerance (IGT)37. Therefore, we envision that the web interface will provide\n           system notifications at both of these values.\n\n        -  There are currently no gold standards or threshold measures for stress or arousal in\n           youth or in adults. However, Firstbeat technologies\n           (http://www.firstbeattechnologies.com/) has been working to develop stress and recovery\n           analysis in collaboration with several research projects in the area of stress\n           measurement and autonomic nervous system (ANS) function, applying also research in the\n           fields of exercise physiology, behavioral sciences, and applied mathematics. We will\n           work with Firstbeat to explore development of guidelines for measurement and definition\n           of cut-points for stress in youth.  We will begin the design of multi-modal signal\n           processing algorithms for determining personalized cut-points for individual youths.\n\n      Bio-monitoring for developing interventions and intervention strategies: Because\n      practitioners will be able to attach time of day and geographic location to metabolic and\n      behavioral indices and patterns, health practitioners will be able to pinpoint causes and\n      effects as well as develop targeted intervention strategies. Furthermore, for researchers,\n      the wealth of time and location stamped data will allow for much broader understanding of\n      the effects of the environment and time of day of metabolic and behavioral events. Here\n      follow some examples:\n\n        -  Example 1: Adolescent gets less than 30 minutes of physical activity of any kind per\n           day. The participating health practitioner finds that adolescent is particularly\n           sedentary in the hours after school. A targeted approach would be to assist in finding\n           accessible and attractive after school programs.\n\n        -  Example 2: Adolescent stress levels rise steeply and physical activity levels plummet\n           each Sunday at approximately noon. The participating health practitioner asks the\n           adolescent what is occurring on Sunday afternoons, and finds that the adolescent is\n           being teased at the park where the family typically spends Sunday afternoons. A\n           targeted approach would be to suggest more adult supervision or another venue for\n           physical activity to the family, or explore avenues for dealing with this kind of\n           stress with the child.\n\n        -  Example 3: Adolescent blood glucose levels have been high for a month. The\n           participating health practitioner notices that this last week, blood glucose levels are\n           normalized. A text message could be sent to the adolescent letting her know that she is\n           making progress. Alternatively, a call or email asking how she changed her behavior in\n           order to pinpoint and reinforce health behavior might be appropriate and timely.\n\n      Part 4: Developing a User-Friendly, Web Enabled and Secure Interface for Health\n      Professionals: This part of the research will be ongoing and begin at the onset of the\n      project. An advisory team including pediatricians, family doctors, pediatric\n      endocrinologists, specialists in pediatric diabetes, African American health outreach\n      professionals and promotoras (outreach workers in the Hispanic community) will be assembled\n      to guide us through the process of developing a web interface that will ensure that the\n      right information will be displayed in an easily interpretable fashion. The advisory group\n      will participate in regular meetings to develop and test the web interface. At the onset of\n      the project, they will be invited to participate in an idea-building session in order to\n      develop specific guidelines for web interface development. Idea-building sessions are one of\n      the nominal group techniques that are used to structure small group meetings in such a way\n      that individual judgments can be effectively pooled. Typically, four steps are involved: 1)\n      silent generation of ideas; 2) group recording of ideas;  3) serial discussion of ideas;\n      and, 4) voting to order the ideas as to their salience. Idea writing is particularly helpful\n      in developing general ideas into more specific ideas using group interaction. This is also a\n      four-step process: 1) organization into small groups; 2) initial written response; 3)\n      written interaction; and, 4) analyses and report. Idea writing is an attractive technique\n      because the group produces a written product. Analyses of the idea-building data includes\n      recording, transcription, and examination of the data for emergent themes. The information\n      from these sessions will be used for several purposes: 1) to define the form and content of\n      final data that the web interface will provide, 2) to develop a system of notifications or\n      alarms for specific metabolic and behavioral values, such as blood pressure that is too high\n      or physical activity that is too low as discussed in the previous paragraph, 3) define\n      important pathways within the data that health practitioners will need to navigate easily\n      and 4) to ensure web interface user friendliness, accuracy and appeal. Ideas will also be\n      generated on use of the web interface to develop interventions for the targeted groups\n      immediately and in the future."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Self-identification as either Hispanic or African American, between the ages of\n             12-17, and without any disabilities that would disallow wear of sensors and normal\n             physical activity\n\n        Exclusion Criteria:\n\n        -"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "17 Years", 
+            "minimum_age": "12 Years"
+        }, 
+        "enrollment": {
+            "#text": "12", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "December 9, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02017223", 
+            "org_study_id": "KM-NCMHD", 
+            "secondary_id": "3P60MD002254-02S1"
+        }, 
+        "intervention": {
+            "arm_group_label": "Knowme Device Wear", 
+            "intervention_name": "Knowme Device Wear", 
+            "intervention_type": "Device"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": "Physical activity", 
+        "lastchanged_date": "December 15, 2013", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90033"
+                    }, 
+                    "name": "University of Southern California Health Science Campus"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90015"
+                    }, 
+                    "name": "University of Southern California University Park Campus"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Mobile Device Biomonitoring to Prevent and Treat Obesity in Underserved Youth", 
+        "overall_official": {
+            "affiliation": "University of Southern California", 
+            "last_name": "Donna Spruijt-Metz, PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "March 2012", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Participants will wear an accelerometer on the waist for 3 days to gather baseline data on habitual physical activity, and then wear KNOWME for one weekend, along with an accelerometer - no more than two weeks after baseline. Outcome is the difference between baseline and KNOWME wear (differences in moderate to vigorous physical activity and sedentary time).", 
+            "measure": "Objectively measured physical activity from accelerometer and KNOWME network", 
+            "safety_issue": "No", 
+            "time_frame": "Pretest for one weekend (Friday-Sunday) and during KNOWME wear for one weekend (Friday-Sunday"
+        }, 
+        "reference": [
+            {
+                "PMID": "22255715", 
+                "citation": "Kim S, Li M, Lee S, Mitra U, Emken A, Spruijt-Metz D, Annavaram M, Narayanan S. Modeling high-level descriptions of real-life physical activities using latent topic modeling of multimodal sensor signals. Conf Proc IEEE Eng Med Biol Soc. 2011;2011:6033-6. doi: 10.1109/IEMBS.2011.6091491."
+            }, 
+            {
+                "PMID": "21934162", 
+                "citation": "Emken BA, Li M, Thatte G, Lee S, Annavaram M, Mitra U, Narayanan S, Spruijt-Metz D. Recognition of physical activities in overweight Hispanic youth using KNOWME Networks. J Phys Act Health. 2012 Mar;9(3):432-41. Epub 2011 May 11."
+            }, 
+            {
+                "PMID": "21796237", 
+                "citation": "Thatte G, Li M, Lee S, Emken BA, Annavaram M, Narayanan S, Spruijt-Metz D, Mitra U. Optimal Time-Resource Allocation for Energy-Efficient Physical Activity Detection. IEEE Trans Signal Process. 2011;59(4):1843-1857."
+            }, 
+            {
+                "PMID": "20699202", 
+                "citation": "Li M, Rozgica V, Thatte G, Lee S, Emken A, Annavaram M, Mitra U, Spruijt-Metz D, Narayanan S. Multimodal physical activity recognition by fusing temporal and cepstral information. IEEE Trans Neural Syst Rehabil Eng. 2010 Aug;18(4):369-80. doi: 10.1109/TNSRE.2010.2053217."
+            }, 
+            {
+                "PMID": "19964828", 
+                "citation": "Thatte G, Li M, Emken A, Mitra U, Narayanan S, Annavaram M, Spruijt-Metz D. Energy-efficient multihypothesis activity-detection for health-monitoring applications. Conf Proc IEEE Eng Med Biol Soc. 2009;2009:4678-81. doi: 10.1109/IEMBS.2009.5334222."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02017223"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University of Southern California", 
+            "investigator_full_name": "Donna Spruijt-Metz", 
+            "investigator_title": "Research Scientist", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "source": "University of Southern California", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Center on Minority Health and Health Disparities (NCMHD)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "University of Southern California", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "October 2008", 
+        "study_design": "Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Prevention", 
+        "study_type": "Interventional", 
+        "verification_date": "December 2013"
+    }
+}

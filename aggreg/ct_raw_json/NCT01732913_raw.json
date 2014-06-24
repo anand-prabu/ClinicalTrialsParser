@@ -1,0 +1,2984 @@
+{
+    "clinical_study": {
+        "@rank": "23266", 
+        "acronym": "Yosemite", 
+        "arm_group": [
+            {
+                "arm_group_label": "Regimen A", 
+                "arm_group_type": "Experimental", 
+                "description": "Rituximab IV 375 mg/m2 weekly x 4, then every 8 weeks x 4; idelalisib (GS-1101) orally 150 mg BID until disease progression"
+            }, 
+            {
+                "arm_group_label": "Regimen B", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Rituximab IV 375 mg/m2 weekly x 4, then every 8 weeks x 4; Placebo orally 150 mg BID until disease progression"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to evaluate the effect of idelalisib (GS-1101) on the onset,\n      magnitude, and duration of tumor control"
+        }, 
+        "brief_title": "A Study Evaluating the Efficacy and Safety of Idelalisib (GS-1101) in Combination With Rituximab for Previously Treated Indolent Non-Hodgkin Lymphomas", 
+        "completion_date": {
+            "#text": "December 2021", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Indolent Non-Hodgkin's Lymphomas", 
+        "condition_browse": {
+            "mesh_term": [
+                "Lymphoma", 
+                "Lymphoma, Non-Hodgkin"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "This is a Phase 3, multicenter, 2-arm, randomized, double-blind, placebo-controlled clinical\n      trial evaluating the efficacy and safety of the phosphatidylinositol 3-kinase delta\n      (PI3K-delta) inhibitor idelalisib (GS-1101) in combination with Rituximab for previously\n      treated indolent non-hodgkin lymphomas.\n\n      Eligible subjects will be randomized with a 2:1 allocation to Regimen A vs. Regimen B."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Histologically confirmed diagnosis of B-cell iNHL, with histological  subtype limited\n             to the following:\n\n               1. Follicular lymphoma (FL) Grade 1, 2, or 3a\n\n               2. Small lymphocytic lymphoma (SLL) with absolute lymphocyte count <5 x     109/L\n                  at the time of diagnosis\n\n               3. Lymphoplasmacytoid lymphoma/Waldenstr\u00f6m macroglobulinemia (LPL/WM)\n\n               4. Marginal zone lymphoma (MZL) (splenic, nodal, or extra-nodal)\n\n        Exclusion Criteria:\n\n          -  Known histological transformation to an aggressive lymphoma.\n\n          -  Ongoing drug-induced liver injury, active hepatitis C, active hepatitis B , alcoholic\n             liver disease, non-alcoholic steatohepatitis, primary biliary cirrhosis, extrahepatic\n             obstruction caused by cholelithiasis, cirrhosis of the liver, or portal hypertension.\n\n          -  Received previous treatment with rituximab that was not effective."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "375", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 14, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01732913", 
+            "org_study_id": "GS-US-313-0124"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Regimen A", 
+                "intervention_name": "idelalisib", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "GS-1101", 
+                    "CAL-101", 
+                    "PI3K inhibitor"
+                ]
+            }, 
+            {
+                "arm_group_label": [
+                    "Regimen A", 
+                    "Regimen B"
+                ], 
+                "intervention_name": "Rituximab", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Regimen B", 
+                "intervention_name": "Placebo", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Rituximab"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "iNHL", 
+            "indolent NHL", 
+            "follicular lymphoma", 
+            "CAL-101", 
+            "Rituximab", 
+            "Small lymphocytic lymphoma", 
+            "lymphoplasmacytoid lymphoma", 
+            "Waldenstrom macroglobulinemia", 
+            "LPL", 
+            "WM", 
+            "Marginal zone lymphoma", 
+            "MZL", 
+            "SLL", 
+            "FL", 
+            "GS-1101", 
+            "idelalisib"
+        ], 
+        "lastchanged_date": "May 20, 2014", 
+        "location": [
+            {
+                "contact": {
+                    "email": "kathyc@ccihsv.com", 
+                    "last_name": "Kathy Cutter", 
+                    "phone": "256-705-4248"
+                }, 
+                "contact_backup": {
+                    "email": "leslies@ccihsv.com", 
+                    "last_name": "Leslie Smoot", 
+                    "phone": "1 (256) 705-4246"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Huntsville", 
+                        "country": "United States", 
+                        "state": "Alabama", 
+                        "zip": "35805"
+                    }, 
+                    "name": "Clearview Cancer Institute"
+                }, 
+                "investigator": {
+                    "last_name": "Marshall Schreeder, M.D.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "kpalmreuter@ironwoodcrc.com", 
+                    "last_name": "Kimberly Palmreuter", 
+                    "phone": "408-324-5262", 
+                    "phone_ext": "2009"
+                }, 
+                "contact_backup": {
+                    "email": "jkwon@ironwoodcrc.com", 
+                    "last_name": "John Kwon", 
+                    "phone": "1 (480) 855-2225"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Chandler", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85224"
+                    }, 
+                    "name": "Ironwood Cancer and Research Center"
+                }, 
+                "investigator": {
+                    "last_name": "Mikhail Shtivelband, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "sdara@cbccusa.com", 
+                    "last_name": "Sudha Dara", 
+                    "phone": "661-616-1619"
+                }, 
+                "contact_backup": {
+                    "email": "jmoss@cbccusa.com", 
+                    "last_name": "Joy Moss", 
+                    "phone": "1 (661) 862-7158"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Bakersfield", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "93309"
+                    }, 
+                    "name": "Comprehensive Blood and Cancer Center (Bakersfield)"
+                }, 
+                "investigator": {
+                    "last_name": "David Kanamori, M.D.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Burbank", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "91505"
+                    }, 
+                    "name": "Providence Saint Joseph Medical Center-Disney Family Cancer Center"
+                }, 
+                "status": "Withdrawn"
+            }, 
+            {
+                "contact": {
+                    "email": "jbautista@coh.org", 
+                    "last_name": "Jaemee Bautista", 
+                    "phone": "626-256-4673", 
+                    "phone_ext": "63033"
+                }, 
+                "contact_backup": {
+                    "email": "eosorio@coh.org", 
+                    "last_name": "Edna Osorio", 
+                    "phone": "1 (626) 256-4673", 
+                    "phone_ext": "65089"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Duarte", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "91010"
+                    }, 
+                    "name": "City of Hope Cancer Center"
+                }, 
+                "investigator": {
+                    "last_name": "Elizabeth Budde", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "cbrum@ccare.com", 
+                    "last_name": "Cherra Brum", 
+                    "phone": "559-326-1222", 
+                    "phone_ext": "272"
+                }, 
+                "contact_backup": {
+                    "email": "asahagun@ccare.com", 
+                    "last_name": "Anabel Sahagun", 
+                    "phone": "1 (559) 326-1222"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Fresno", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "93720"
+                    }, 
+                    "name": "California Cancer Associates for Research and Excellence (CCARE)"
+                }, 
+                "investigator": {
+                    "last_name": "Steven Hager", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "gmadden@mednet.ucla.edu", 
+                    "last_name": "Gayle Madden-Mathes", 
+                    "phone": "714-446-5804"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Fullerton", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92835"
+                    }, 
+                    "name": "Saint Jude Heritage Healthcare (TORI)"
+                }, 
+                "investigator": {
+                    "last_name": "William Lawler, M.D.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "irened@pacshoresoncology.com", 
+                    "last_name": "Irene De Jesus", 
+                    "phone": "562-590-0345"
+                }, 
+                "contact_backup": {
+                    "email": "victorial@pacshoresoncology.com", 
+                    "last_name": "Victoria Langsang", 
+                    "phone": "1 (562) 590-0345"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Long Beach", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90813"
+                    }, 
+                    "name": "Pacific Shores Medical Group"
+                }, 
+                "investigator": {
+                    "last_name": "Andr\u00e9 Liem, M.D.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "shutcherson@mednet.ucla.edu", 
+                    "last_name": "Sherry Hutcherson", 
+                    "phone": "310-750-3376"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Redondo Beach", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90277"
+                    }, 
+                    "name": "Cancer Care Associates"
+                }, 
+                "investigator": {
+                    "last_name": "Hugo Hool, M.D.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "mwingo@ccsb.org", 
+                    "last_name": "Megan Wingo", 
+                    "phone": "805-898-1335"
+                }, 
+                "contact_backup": {
+                    "email": "adonaire@ccsb.org", 
+                    "last_name": "Alexis Donaire", 
+                    "phone": "1 (808) 898-3602"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Santa Barbara", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "93105"
+                    }, 
+                    "name": "Cancer Center of Santa Barbara"
+                }, 
+                "investigator": {
+                    "last_name": "Daniel Greenwald, M.D.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "jfree@ohmacc.com", 
+                    "last_name": "Jessica Free", 
+                    "phone": "805-543-5577"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Santa Maria", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "93454"
+                    }, 
+                    "name": "Coastal Integrative Cancer Care"
+                }, 
+                "investigator": {
+                    "last_name": "Brian DiCarlo, M.D.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "mariamejia@mednet.ucla.edu", 
+                    "last_name": "Maria Mejia", 
+                    "phone": "805-346-3466"
+                }, 
+                "contact_backup": {
+                    "email": "alison.fernandez@dignityhealth.org", 
+                    "last_name": "Alison Fernandez", 
+                    "phone": "1 (805) 346-3461"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Santa Maria", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "93454"
+                    }, 
+                    "name": "Central Coast Medical Oncology Group"
+                }, 
+                "investigator": {
+                    "last_name": "Robert Dichmann, M.D.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "bgutierrez@mednet.ucla.edu", 
+                    "last_name": "Baudelio Gutierrez, Jr.", 
+                    "phone": "310-582-4046"
+                }, 
+                "contact_backup": {
+                    "email": "jrothermich@mednet.ucla.edu", 
+                    "last_name": "Julie Rothermich", 
+                    "phone": "1 (310) 633-8400"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Santa Monica", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90404"
+                    }, 
+                    "name": "UCLA Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Sven De Vos, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "tlund@rrmg.com", 
+                    "last_name": "Teresa Lund", 
+                    "phone": "707-521-3803"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Santa Rosa", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "95403"
+                    }, 
+                    "name": "Redwood Regional Oncology Group"
+                }, 
+                "investigator": {
+                    "last_name": "Jarrod Holmes, M.D.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Stanford", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94305-2297"
+                    }, 
+                    "name": "Stanford Cancer Institute"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "camille.servodidio@midhosp.org", 
+                    "last_name": "Camille Servodidio", 
+                    "phone": "860-358-2085"
+                }, 
+                "contact_backup": {
+                    "email": "beth.slifer@midhosp.org", 
+                    "last_name": "Beth Slifer", 
+                    "phone": "1 (860) 358-2085"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Middletown", 
+                        "country": "United States", 
+                        "state": "Connecticut", 
+                        "zip": "06457"
+                    }, 
+                    "name": "Middlesex Hospital Cancer Center"
+                }, 
+                "investigator": {
+                    "last_name": "Robert Levy, M.D.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "ramzip1@georgetown.edu", 
+                    "last_name": "Parichehr Ramzi", 
+                    "phone": "202-784-0038"
+                }, 
+                "contact_backup": {
+                    "email": "crawfojg@georgetown.edu", 
+                    "last_name": "Jeanette Crawford", 
+                    "phone": "1 (202) 687-0893"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Washington", 
+                        "country": "United States", 
+                        "state": "District of Columbia", 
+                        "zip": "20007"
+                    }, 
+                    "name": "Georgetown University Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Bruce Cheson, M.D.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boynton Beach", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33435"
+                    }, 
+                    "name": "Collaborative Research Group, LLC"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "janm@flcancer.com", 
+                    "last_name": "Jan Merrill", 
+                    "phone": "941-766-7222"
+                }, 
+                "contact_backup": {
+                    "email": "rwatson@flcancer.com", 
+                    "last_name": "Robin Watson", 
+                    "phone": "1 (239) 938-0800"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Englewood", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "34223"
+                    }, 
+                    "name": "Florida Cancer Specialists and Research Institute"
+                }, 
+                "investigator": {
+                    "last_name": "Scott Lunin", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "sberbick@mhs.net", 
+                    "last_name": "Sharon Berbick", 
+                    "phone": "954-265-1864"
+                }, 
+                "contact_backup": {
+                    "email": "dfrancis@mhs.net", 
+                    "last_name": "Deneise Francis", 
+                    "phone": "1 (954) 265-2796"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Hollywood", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33021"
+                    }, 
+                    "name": "Memorial Health Care System"
+                }, 
+                "investigator": {
+                    "last_name": "Alvaro Alencar, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "cmalott@icononcology.com", 
+                    "last_name": "Carla Malott", 
+                    "phone": "904-276-2303"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Orange Park", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32073"
+                    }, 
+                    "name": "ICON Oncology"
+                }, 
+                "investigator": {
+                    "last_name": "Linda Sylvester, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "cbiermeier@flcancer.com", 
+                    "last_name": "Christine Biermeier", 
+                    "phone": "727-216-1143", 
+                    "phone_ext": "3081"
+                }, 
+                "contact_backup": {
+                    "email": "ccitty@flcancer.com", 
+                    "last_name": "Carol Citty", 
+                    "phone": "1 (813) 982-3460"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Saint Petersburg", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33705"
+                    }, 
+                    "name": "Florida Cancer Specialists"
+                }, 
+                "investigator": {
+                    "last_name": "David Wright, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "megan.borase@moffitt.org", 
+                    "last_name": "Megan Borase", 
+                    "phone": "813-745-2591"
+                }, 
+                "contact_backup": {
+                    "email": "josuah.michel@moffitt.org", 
+                    "last_name": "Josuah Michel", 
+                    "phone": "1 (813) 745-1133"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Tampa", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33612"
+                    }, 
+                    "name": "Moffitt Cancer Center"
+                }, 
+                "investigator": {
+                    "last_name": "Celeste Bello, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "susan.d.rogers.civ@mail.mil", 
+                    "last_name": "Susan Rogers", 
+                    "phone": "706-787-2100"
+                }, 
+                "contact_backup": {
+                    "email": "dmarshallkca@knology.net", 
+                    "last_name": "Delia Marshall", 
+                    "phone": "1 (706) 922-3005"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Fort Gordon", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30905"
+                    }, 
+                    "name": "Eisenhower Army Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Jason Burris, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Galesburg", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "61401"
+                    }, 
+                    "name": "Medical and Surgical Specialists, LLC"
+                }, 
+                "status": "Withdrawn"
+            }, 
+            {
+                "contact": {
+                    "email": "pian.moy@usoncology.com", 
+                    "last_name": "Pian Moy", 
+                    "phone": "847-827-9060"
+                }, 
+                "contact_backup": {
+                    "email": "lisbeth.lynn@usoncology.com", 
+                    "last_name": "Lisbeth Lynn", 
+                    "phone": "1 (847) 827-9060"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Niles", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60714"
+                    }, 
+                    "name": "Illinois Cancer Specialists"
+                }, 
+                "investigator": {
+                    "last_name": "Leonard Klein, M.D.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "renee.schott@cancercenterofkansas.com", 
+                    "last_name": "Renee Schott", 
+                    "phone": "316-613-4314"
+                }, 
+                "contact_backup": {
+                    "email": "ashley.ast@cancercenterofkansas.com", 
+                    "last_name": "Ashley Ast", 
+                    "phone": "1 (316) 613-4319"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Wichita", 
+                        "country": "United States", 
+                        "state": "Kansas", 
+                        "zip": "67214"
+                    }, 
+                    "name": "Cancer Center of Kansas"
+                }, 
+                "investigator": {
+                    "last_name": "Shaker Dakhil, M.D.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "kjwilson_mcc@hotmail.com", 
+                    "last_name": "Kristen Wilson", 
+                    "phone": "859-499-1000"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Mount Sterling", 
+                        "country": "United States", 
+                        "state": "Kentucky", 
+                        "zip": "40353"
+                    }, 
+                    "name": "Montgomery Cancer Center"
+                }, 
+                "investigator": {
+                    "last_name": "Muhammad-Ali Zaydan", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "cdisilvestre@ccbdmd.com", 
+                    "last_name": "Christine DiSilvestre", 
+                    "phone": "240-482-0535"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Bethesda", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "20817"
+                    }, 
+                    "name": "Center for Cancer and Blood Disorders, PC"
+                }, 
+                "investigator": {
+                    "last_name": "Ralph Boccia, M.D.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "kaulaskk@karmanos.org", 
+                    "last_name": "Khushbu Kaulaskar", 
+                    "phone": "313-576-9376"
+                }, 
+                "contact_backup": {
+                    "email": "houdec@karmanos.org", 
+                    "last_name": "Christiane Houde", 
+                    "phone": "1 (313) 576-9381"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Detroit", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48201"
+                    }, 
+                    "name": "Wayne State University"
+                }, 
+                "investigator": {
+                    "last_name": "Radhakrishnan Ramchandren, M.D.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "sblumel@unmc.edu", 
+                    "last_name": "Susan Blumel", 
+                    "phone": "402-559-9183"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Omaha", 
+                        "country": "United States", 
+                        "state": "Nebraska", 
+                        "zip": "68198-7680"
+                    }, 
+                    "name": "University of Nebraska Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Greg Bociek", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "ann.lovelace@usoncology.com", 
+                    "last_name": "Ann Lovelace", 
+                    "phone": "702-952-3400"
+                }, 
+                "contact_backup": {
+                    "email": "melissa.vicuna@usoncology.com", 
+                    "last_name": "Melissa Vicuna", 
+                    "phone": "1 (702) 952-3400"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Las Vegas", 
+                        "country": "United States", 
+                        "state": "Nevada", 
+                        "zip": "89169-3321"
+                    }, 
+                    "name": "Comprehensive Cancer Centers of Nevada"
+                }, 
+                "investigator": {
+                    "last_name": "Edwin Kingsley, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "cjones@essexoncology.com", 
+                    "last_name": "Cheryl Jones", 
+                    "phone": "973-751-8880", 
+                    "phone_ext": "238"
+                }, 
+                "contact_backup": {
+                    "email": "mwilsoncarnes@essexoncology.com", 
+                    "last_name": "Mary Wilson-Carnes", 
+                    "phone": "1 (973) 751-8880", 
+                    "phone_ext": "249"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Belleville", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "07109"
+                    }, 
+                    "name": "Essex Oncology of North Jersey, PA"
+                }, 
+                "investigator": {
+                    "last_name": "Said Saleh, M.D.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "lalmanza@montefiore.org", 
+                    "last_name": "Lawrence Almanzar", 
+                    "phone": "718-920-6642"
+                }, 
+                "contact_backup": {
+                    "email": "svangrub@montefiore.org", 
+                    "last_name": "Sapir Vangruber", 
+                    "phone": "1 (718) 920-2006"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Bronx", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10467"
+                    }, 
+                    "name": "Montefiore Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Ramakrishna Battini, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "arg2006@med.cornell.edu", 
+                    "last_name": "Arcania Garcia", 
+                    "phone": "212-746-2062"
+                }, 
+                "contact_backup": {
+                    "email": "hac2012@med.cornell.edu", 
+                    "last_name": "Hannah Campbell", 
+                    "phone": "1 (212) 746-1493"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10002"
+                    }, 
+                    "name": "Weill Cornell Medical College"
+                }, 
+                "investigator": {
+                    "last_name": "Peter Martin, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "jo.thomas@cornerstonehealthcare.com", 
+                    "last_name": "Jo Thomas", 
+                    "phone": "336-802-2682"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "High Point", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27262"
+                    }, 
+                    "name": "Cornerstone Hematology/Oncology"
+                }, 
+                "investigator": {
+                    "last_name": "Vallathucherry Harish, M.D.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "dwolf@metrohealth.org", 
+                    "last_name": "Diane Wolf", 
+                    "phone": "216-778-8306"
+                }, 
+                "contact_backup": {
+                    "email": "trizer@metrohealth.org", 
+                    "last_name": "Taryn Rizer", 
+                    "phone": "1 (216) 778-3526"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Cleveland", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44109"
+                    }, 
+                    "name": "MetroHealth Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Timothy O'Brien, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "cschweitzer@swohio.twcbc.com", 
+                    "last_name": "Catherine Schweitzer", 
+                    "phone": "513-423-0504"
+                }, 
+                "contact_backup": {
+                    "email": "gbeall@swohio.twcbc.com", 
+                    "last_name": "Gary Beall"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Middletown", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45042"
+                    }, 
+                    "name": "Signal Point Clinical Research Center, LLC"
+                }, 
+                "investigator": {
+                    "last_name": "Nandagopal Vrindavanam, M.D.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19106"
+                    }, 
+                    "name": "Pennsylvania Oncology Hematology Associates"
+                }, 
+                "status": "Withdrawn"
+            }, 
+            {
+                "contact": {
+                    "email": "robyn.thvedt@uphs.upenn.edu", 
+                    "last_name": "Robyn Thvedt", 
+                    "phone": "215-614-0579"
+                }, 
+                "contact_backup": {
+                    "email": "kathleen.montrey@uphs.upenn.edu", 
+                    "last_name": "Kathleen Montrey", 
+                    "phone": "1 (215) 662-6392"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Philadelphia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19104"
+                    }, 
+                    "name": "Perelman Center for Advanced Medicine"
+                }, 
+                "investigator": {
+                    "last_name": "Stephen Schuster, M.D.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Columbia", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29210"
+                    }, 
+                    "name": "South Carolina Oncology Associates"
+                }, 
+                "status": "Active, not recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "kristina_stoeppler-biege@bshsi.org", 
+                    "last_name": "Kristina Stoeppler-Biege", 
+                    "phone": "864-255-1517"
+                }, 
+                "contact_backup": {
+                    "email": "amber_lewis2@bshsi.org", 
+                    "last_name": "Amber Lewis", 
+                    "phone": "1 (864) 255-1517"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Greenville", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29601"
+                    }, 
+                    "name": "Bon Secours Saint Francis Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Howland Crosswell", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "lisa.campbell@prairielakes.com", 
+                    "last_name": "Lisa Campbell", 
+                    "phone": "605-882-6800"
+                }, 
+                "contact_backup": {
+                    "email": "cheryl.wasland@prairielakes.com", 
+                    "last_name": "Cheryl Wasland", 
+                    "phone": "1 (605) 882-6800"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Watertown", 
+                        "country": "United States", 
+                        "state": "South Dakota", 
+                        "zip": "57252"
+                    }, 
+                    "name": "Prairie Lakes Healthcare System"
+                }, 
+                "investigator": {
+                    "last_name": "Bipinkumar Amin, M.D.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "tracy.bowman@wellmont.org", 
+                    "last_name": "Tracy Bowman", 
+                    "phone": "423-968-2311"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Bristol", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37620"
+                    }, 
+                    "name": "Wellmont Bristol Regional Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Sue Prill, M.D.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "ktucker@tnonc.com", 
+                    "last_name": "Kim Tucker", 
+                    "phone": "423-698-1844"
+                }, 
+                "contact_backup": {
+                    "email": "tmcason@tnonc.com", 
+                    "last_name": "Tiffany Cason", 
+                    "phone": "1 (423) 698-1844"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Chattanooga", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37404"
+                    }, 
+                    "name": "Tennessee Oncology, PLLC"
+                }, 
+                "investigator": {
+                    "last_name": "Bertrand Anz, III, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "archana.narasanna@scresearch.net", 
+                    "last_name": "Archana Narasanna", 
+                    "phone": "615-524-4246"
+                }, 
+                "contact_backup": {
+                    "email": "christina.mathes@scresearch.net", 
+                    "last_name": "Christina Mathes", 
+                    "phone": "1 (615) 329-7664"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Nashville", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37203"
+                    }, 
+                    "name": "Sarah Cannon Cancer Center"
+                }, 
+                "investigator": {
+                    "last_name": "Ian Flinn, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "sandy.mathews@usoncology.com", 
+                    "last_name": "Sandy Mathews", 
+                    "phone": "817-359-9033"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Bedford", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "76022"
+                    }, 
+                    "name": "Texas Oncology, P.A."
+                }, 
+                "investigator": {
+                    "last_name": "Thomas Anderson, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "elle.boleware@usoncology.com", 
+                    "last_name": "Elle Boleware", 
+                    "phone": "940-380-7952"
+                }, 
+                "contact_backup": {
+                    "email": "esperanza.jackson@usoncology.com", 
+                    "last_name": "Esperanza Jackson", 
+                    "phone": "1 (940) 380-7952"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Denton", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "76210"
+                    }, 
+                    "name": "Texas Oncology, P.A."
+                }, 
+                "investigator": {
+                    "last_name": "Sharad Jain, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "peggy.s.smith56.ctr@mail.mil", 
+                    "last_name": "Peggy Smith", 
+                    "phone": "210-916-3332"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Fort Sam Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78234"
+                    }, 
+                    "name": "Brooke Army Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Alexander Brown", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "msottosanti@txcc.com", 
+                    "last_name": "Melissa Sottosanti", 
+                    "phone": "817-759-7023"
+                }, 
+                "contact_backup": {
+                    "email": "bhalstead@txcc.com", 
+                    "last_name": "Brandi Halstead", 
+                    "phone": "1 (817) 759-7022"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Fort Worth", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "76104"
+                    }, 
+                    "name": "Center for Cancer and Blood Disorders, PC"
+                }, 
+                "investigator": {
+                    "last_name": "Ray Page, DO, PhD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Annette Alexander", 
+                    "phone": "817-850-2000"
+                }, 
+                "contact_backup": {
+                    "email": "nori.sullivan@usoncology.com", 
+                    "last_name": "Nori Sullivan", 
+                    "phone": "1 (817) 850-2010"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Fort Worth", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "76104"
+                    }, 
+                    "name": "Texas Oncology, P.A."
+                }, 
+                "investigator": {
+                    "last_name": "Robert Ruxer, Jr., MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "veronica.sanchez@usoncology.com", 
+                    "last_name": "Veronica Sanchez", 
+                    "phone": "956-425-8845"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Harlingen", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "78550-8321"
+                    }, 
+                    "name": "Texas Oncology, P.A."
+                }, 
+                "investigator": {
+                    "last_name": "Nabeel Sarhill", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "christe.stixrud@usoncology.com", 
+                    "last_name": "Christie Stixrud", 
+                    "phone": "214-939-7837"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Mesquite", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75150"
+                    }, 
+                    "name": "Texas Oncology, P.A."
+                }, 
+                "investigator": {
+                    "last_name": "Shiela Haffar, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "claudia.phillips@usoncology.com", 
+                    "last_name": "Claudia Phillips", 
+                    "phone": "540-662-1108"
+                }, 
+                "contact_backup": {
+                    "email": "heather.boyd@usoncology.com", 
+                    "last_name": "Heather Boyd", 
+                    "phone": "1 (540) 662-1108"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Winchester", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "22601"
+                    }, 
+                    "name": "Shenandoah Oncology Associates, PC"
+                }, 
+                "investigator": {
+                    "last_name": "William Houck, III, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "dkadoun@nwmsonline.com", 
+                    "last_name": "Debi Kadoun", 
+                    "phone": "253-396-5334"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Tacoma", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98405"
+                    }, 
+                    "name": "Northwest Medical Specialties, PLLC"
+                }, 
+                "investigator": {
+                    "last_name": "Moacyr de Oliveira, M.D.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "abaim@mcw.edu", 
+                    "last_name": "Arielle Baim", 
+                    "phone": "414-805-8745"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Milwaukee", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "53226"
+                    }, 
+                    "name": "Froedtert Hospital and Medical College of Wisconsin"
+                }, 
+                "investigator": {
+                    "last_name": "Timothy Fenske, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "yvonne.cheung@sesiahs.health.nsw.gov.au", 
+                    "last_name": "Yvonne Cheung", 
+                    "phone": "+61293829095"
+                }, 
+                "contact_backup": {
+                    "email": "karen.mccardie@sesiahs.health.nsw.gov.au", 
+                    "last_name": "Karen McCardie", 
+                    "phone": "+61293829049"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Randwick", 
+                        "country": "Australia", 
+                        "state": "New South Wales", 
+                        "zip": "2031"
+                    }, 
+                    "name": "Prince of Wales Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Susan MacCallum", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "vtaylor@hoca.com.au", 
+                    "last_name": "Vanessa Taylor", 
+                    "phone": "+61737374554"
+                }, 
+                "contact_backup": {
+                    "email": "mcook@hoca.com.au", 
+                    "last_name": "Matthew Cook", 
+                    "phone": "+61737374750"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Milton", 
+                        "country": "Australia", 
+                        "state": "Queensland", 
+                        "zip": "4064"
+                    }, 
+                    "name": "Haematology and Oncology Clinics of Australia at Chermside"
+                }, 
+                "investigator": {
+                    "last_name": "Kerry Taylor", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "mengjun.zhu@health.sa.gov.au", 
+                    "last_name": "Menguin Zhu", 
+                    "phone": "+0882223368"
+                }, 
+                "contact_backup": {
+                    "email": "donna.king@health.sa.gov.au", 
+                    "last_name": "Donna King"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Adelaide", 
+                        "country": "Australia", 
+                        "state": "South Australia", 
+                        "zip": "5000"
+                    }, 
+                    "name": "Royal Adelaide Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Pratyush Giri", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "yvonne.chan@easternhealth.org.au", 
+                    "last_name": "Yvonne Chan", 
+                    "phone": "+61398953203"
+                }, 
+                "contact_backup": {
+                    "email": "rosemary.petrie2@easternhealth.org.au", 
+                    "last_name": "Rosemary Petrie", 
+                    "phone": "+61398952462"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Box Hill", 
+                        "country": "Australia", 
+                        "state": "Victoria", 
+                        "zip": "3128"
+                    }, 
+                    "name": "Box Hill Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Joseph McKendrick", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "durda.pavasovic@southernhealth.org.au", 
+                    "last_name": "Durda Pavasovic", 
+                    "phone": "+61395944044"
+                }, 
+                "contact_backup": {
+                    "email": "cheryl.coleman@southernhealth.org.au", 
+                    "last_name": "Cheryl Coleman", 
+                    "phone": "+61395944044"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Clayton", 
+                        "country": "Australia", 
+                        "state": "Victoria", 
+                        "zip": "3168"
+                    }, 
+                    "name": "Monash Medical Centre"
+                }, 
+                "investigator": {
+                    "last_name": "Stephen Opat", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "amber.degelia@svhm.org.au", 
+                    "last_name": "Amber Degelia", 
+                    "phone": "+61392883168"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Fitzroy", 
+                        "country": "Australia", 
+                        "state": "Victoria", 
+                        "zip": "3050"
+                    }, 
+                    "name": "Saint Vincent's Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Ali Bazargan, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "Shannon.uren@wh.org.au", 
+                    "last_name": "Shannon Uren", 
+                    "phone": "+0383457607"
+                }, 
+                "contact_backup": {
+                    "email": "nathan.hope@wh.org.au", 
+                    "last_name": "Nathan Hope", 
+                    "phone": "+0383457607"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Footscray", 
+                        "country": "Australia", 
+                        "state": "Victoria", 
+                        "zip": "3011"
+                    }, 
+                    "name": "Western Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "William Renwick, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "megan.margaria@health.wa.gov.au", 
+                    "last_name": "Megan Margaria", 
+                    "phone": "+61892247038"
+                }, 
+                "contact_backup": {
+                    "email": "monika.swierk@health.wa.gov.au", 
+                    "last_name": "Monika Swierk", 
+                    "phone": "+610892243092"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Perth", 
+                        "country": "Australia", 
+                        "state": "Western Australia", 
+                        "zip": "6000"
+                    }, 
+                    "name": "Royal Perth Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Paul Cannell", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "hdaykin@adelaidecancercentre.com.au", 
+                    "last_name": "Helen Daykin", 
+                    "phone": "+610882922240"
+                }, 
+                "contact_backup": {
+                    "email": "jbradshaw@adelaidecancercentre.com.au", 
+                    "last_name": "Judy Bradshaw", 
+                    "phone": "+610882922240"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Kurralta Park", 
+                        "country": "Australia", 
+                        "zip": "SA 5037"
+                    }, 
+                    "name": "Adelaide Cancer Centre"
+                }, 
+                "investigator": {
+                    "last_name": "Nicholas Wickham", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "martina.januskova@fno.cz", 
+                    "last_name": "Martina Januskova", 
+                    "phone": "420605586959"
+                }, 
+                "contact_backup": {
+                    "email": "eva.jarosova@fno.cz", 
+                    "last_name": "Eva Jaro\u0161ov\u00e1", 
+                    "phone": "420725550523"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Ostrava - Poruba", 
+                        "country": "Czech Republic", 
+                        "state": "Severomoravsky Kraj", 
+                        "zip": "708 52"
+                    }, 
+                    "name": "Fakultn\u00ed Nemocnice Ostrava"
+                }, 
+                "investigator": {
+                    "last_name": "Roman H\u00e1jek", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "martina.havlickova1@gmail.com", 
+                    "last_name": "Martina Havl\u00edckov\u00e1", 
+                    "phone": "420495834593"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Hradec Kr\u00e1lov\u00e9", 
+                        "country": "Czech Republic", 
+                        "zip": "500 05"
+                    }, 
+                    "name": "Fakultn\u00ed nemocnice Hradec Kr\u00e1lov\u00e9"
+                }, 
+                "investigator": {
+                    "last_name": "David Belada", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "s.hirt@bordeauxnord.com", 
+                    "last_name": "Sandrine Hirt", 
+                    "phone": "+33556437073"
+                }, 
+                "contact_backup": {
+                    "email": "c.otin@bordeauxnord.com", 
+                    "last_name": "C\u00e9cile Otin"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Bordeaux Cedex", 
+                        "country": "France", 
+                        "state": "Aquitaine", 
+                        "zip": "33077"
+                    }, 
+                    "name": "Polyclinique de Bordeaux-Nord"
+                }, 
+                "investigator": {
+                    "last_name": "Olivier Fitoussi", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "fabienne.sauvetre@chu-bordeaux.fr", 
+                    "last_name": "Fabienne Sauvetre", 
+                    "phone": "+3355765601856018"
+                }, 
+                "contact_backup": {
+                    "email": "cyril.melot@chu-bordeaux.fr", 
+                    "last_name": "Cyril Melot", 
+                    "phone": "+330557656312"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Pessac", 
+                        "country": "France", 
+                        "state": "Aquitaine", 
+                        "zip": "33604"
+                    }, 
+                    "name": "University Hospital of Bordeaux"
+                }, 
+                "investigator": {
+                    "last_name": "Kamal Krimo Bouabdallah", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "gaelle.fanet@nck.aphp.fr", 
+                    "last_name": "Gaelle Fanet", 
+                    "phone": "+33144494657"
+                }, 
+                "contact_backup": {
+                    "email": "thamila.berdous-saheb@nck.aphp.fr", 
+                    "last_name": "Thamila Saheb-Berdous", 
+                    "phone": "+33144495663"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "state": "Ile-de-france", 
+                        "zip": "75015"
+                    }, 
+                    "name": "H\u00f4pital Necker-Enfants Malades"
+                }, 
+                "investigator": {
+                    "last_name": "Richard Delarue, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "rima.benmahdi@chu-nimes.fr", 
+                    "last_name": "Rima Benmahdi", 
+                    "phone": "+33466683678"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "N\u00eemes Cedex 9", 
+                        "country": "France", 
+                        "state": "Languedoc-roussillon", 
+                        "zip": "30029"
+                    }, 
+                    "name": "H\u00f4pital Caremeau"
+                }, 
+                "investigator": {
+                    "last_name": "Eric Jourdan", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "emilie.bouvy@chru-lille.fr", 
+                    "last_name": "Emilie Bouvy", 
+                    "phone": "+33320444284", 
+                    "phone_ext": "29082"
+                }, 
+                "contact_backup": {
+                    "email": "gaelle.guyot@chru-lille.fr", 
+                    "last_name": "Gaelle Guyot", 
+                    "phone": "+33320444022"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Lille cedex", 
+                        "country": "France", 
+                        "state": "Nord Pas-de-calais", 
+                        "zip": "59037"
+                    }, 
+                    "name": "Centre Hospitalier R\u00e9gional Universitaire de Lille, H\u00f4pital Claude Huriez"
+                }, 
+                "investigator": {
+                    "last_name": "Franck Morschhauser", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "gyirika@chu-grenoble.fr", 
+                    "last_name": "Ghislain Yrika", 
+                    "phone": "+33476769241"
+                }, 
+                "contact_backup": {
+                    "email": "vrolland-neyret@chu-grenoble.fr", 
+                    "last_name": "Val\u00e9rie Rolland-Neyret", 
+                    "phone": "+33476765096"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "La Tronche", 
+                        "country": "France", 
+                        "state": "Rhone-alpes", 
+                        "zip": "38700"
+                    }, 
+                    "name": "Centre Hospitalier Universitaire de Grenoble"
+                }, 
+                "investigator": {
+                    "last_name": "R\u00e9my Gressin", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "dominique.gillet@chu-brest.fr", 
+                    "last_name": "Dominique Gillet", 
+                    "phone": "+33298223245"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Brest", 
+                        "country": "France", 
+                        "zip": "29609"
+                    }, 
+                    "name": "Centre Hospitalier Universitaire Brest"
+                }, 
+                "investigator": {
+                    "last_name": "Adrian Tempescul", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "virginie.paquez@ch-dunkerque.fr", 
+                    "last_name": "Virginie Paquez", 
+                    "phone": "+33228285633"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Dunkerque", 
+                        "country": "France", 
+                        "zip": "59385"
+                    }, 
+                    "name": "Centre Hospitalier de Dunkerque"
+                }, 
+                "investigator": {
+                    "last_name": "Jean-Michel Pignon", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "mfort@ch-versailles.fr", 
+                    "last_name": "M\u00e9lody Fort", 
+                    "phone": "+33139239783"
+                }, 
+                "contact_backup": {
+                    "email": "mbataille@ch-versailles.fr", 
+                    "last_name": "Martin Bataille", 
+                    "phone": "+33139239774"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Le Chesnay", 
+                        "country": "France", 
+                        "zip": "78157"
+                    }, 
+                    "name": "Centre Hospitalier de Versailles"
+                }, 
+                "investigator": {
+                    "last_name": "St\u00e9phanie Ghez", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Sarah Younsi-Le Bivic", 
+                    "phone": "+33478782862"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Lyon Cedex 08", 
+                        "country": "France", 
+                        "zip": "69373"
+                    }, 
+                    "name": "Centre L\u00e9on B\u00e9rard"
+                }, 
+                "investigator": {
+                    "last_name": "Catherine Sebban", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "raoufuniv@hotmail.fr", 
+                    "last_name": "Raouf Benchikh Le-Hocine", 
+                    "phone": "+014216000080711"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Paris Cedex 13", 
+                        "country": "France", 
+                        "zip": "75013"
+                    }, 
+                    "name": "Groupe Hospitalier Piti\u00e9-Salp\u00e9tri\u00e8re"
+                }, 
+                "investigator": {
+                    "last_name": "Jean Gabarre", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "samuel.moulle@chu-lyon.fr", 
+                    "last_name": "Samuel Moull\u00e9", 
+                    "phone": "+33478861203"
+                }, 
+                "contact_backup": {
+                    "email": "severine.seemann@chu-lyon.fr", 
+                    "last_name": "S\u00e9verine Seemann-Berlioux", 
+                    "phone": "+33478864337"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Pierre B\u00e9nite Cedex", 
+                        "country": "France", 
+                        "zip": "69495"
+                    }, 
+                    "name": "Centre Hospitalier Lyon Sud"
+                }, 
+                "investigator": {
+                    "last_name": "Gilles Salles, MD, PhD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "alice.langlois@chu-poitiers.fr", 
+                    "last_name": "Alice Langlois", 
+                    "phone": "+33549443084"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Poitiers Cedex", 
+                        "country": "France", 
+                        "zip": "86000"
+                    }, 
+                    "name": "Centre Hospitalier Universitaire de Poitiers H\u00f4pital de la Mil\u00e9trie"
+                }, 
+                "investigator": {
+                    "last_name": "Vincent Delwail", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "gmezei@gmail.com", 
+                    "last_name": "Gabriella Mezei", 
+                    "phone": "+3652255601"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Debrecen", 
+                        "country": "Hungary", 
+                        "state": "Hajdu-bihar", 
+                        "zip": "4032"
+                    }, 
+                    "name": "Debreceni Egyetem Orvos-\u00e9s Eg\u00e9szs\u00e9gtudom\u00e1nyi Centrum"
+                }, 
+                "investigator": {
+                    "last_name": "\u00c1rp\u00e1d Ill\u00e9s", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "meskulane.szilagyi.eva@kmmk.hu", 
+                    "last_name": "\u00c9va Meskul\u00e1n\u00e9 Szil\u00e1gyi", 
+                    "phone": "+3682501341"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Kaposv\u00e1r", 
+                        "country": "Hungary", 
+                        "state": "Somogy", 
+                        "zip": "7400"
+                    }, 
+                    "name": "Somogy Megyei Kaposi M\u00f3r Oktat\u00f3 K\u00f3rh\u00e1z"
+                }, 
+                "investigator": {
+                    "last_name": "Mikl\u00f3s Egyed", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Nat\u00e1lia Erd\u00e9lyin\u00e9 Tak\u00e1cs", 
+                    "phone": "+36203444894"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Szombathely", 
+                        "country": "Hungary", 
+                        "state": "VAS", 
+                        "zip": "9700"
+                    }, 
+                    "name": "Markusovszky Egyetemi Oktat\u00f3k\u00f3rh\u00e1z"
+                }, 
+                "investigator": {
+                    "last_name": "J\u00e1nos L\u00e1szl\u00f3 Iv\u00e1nyi", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "krisztina.kovacs@coordination.hu", 
+                    "last_name": "Krisztina Kov\u00e1cs", 
+                    "phone": "+3612248600"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Budapest", 
+                        "country": "Hungary", 
+                        "zip": "1122"
+                    }, 
+                    "name": "Orsz\u00e1gos Onkol\u00f3giai Int\u00e9zet"
+                }, 
+                "investigator": {
+                    "last_name": "Andr\u00e1s Rosta", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "pordan83@yahoo.co.uk", 
+                    "last_name": "Anik\u00f3 Pord\u00e1n", 
+                    "phone": "+3612104874"
+                }, 
+                "contact_backup": {
+                    "email": "tothanna.nana@citromail.hu", 
+                    "last_name": "Anna T\u00f3th", 
+                    "phone": "+36205669827"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Budapest", 
+                        "country": "Hungary", 
+                        "zip": "1083"
+                    }, 
+                    "name": "Semmelweis Egyetem"
+                }, 
+                "investigator": {
+                    "last_name": "Judit Demeter", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "marta.tschon2@unibo.it", 
+                    "last_name": "Marta Tschon", 
+                    "phone": "+390516363227"
+                }, 
+                "contact_backup": {
+                    "email": "elisa.tollari2@unibo.it", 
+                    "last_name": "Elisa Tollari", 
+                    "phone": "+390516363227"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Bologna", 
+                        "country": "Italy", 
+                        "zip": "40138"
+                    }, 
+                    "name": "Azienda Ospedaliero-Universitaria di Bologna - Policlinico S.Orsola-Malpighi"
+                }, 
+                "investigator": {
+                    "last_name": "Pier Luigi Zinzani", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "tiziana.piazza@hsanmartino.it", 
+                    "last_name": "Tiziana Piazza", 
+                    "phone": "+390105554324"
+                }, 
+                "contact_backup": {
+                    "email": "serena83@hotmail.it", 
+                    "last_name": "Serena Lombardi", 
+                    "phone": "+390105554328"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Genova", 
+                        "country": "Italy", 
+                        "zip": "16132"
+                    }, 
+                    "name": "IRCCS Azienda Ospedaliera Universitaria San Martino"
+                }, 
+                "investigator": {
+                    "last_name": "Angelo Michele Carella", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "clara.deambrogi@med.unipmn.it", 
+                    "last_name": "Clara Deambrogi", 
+                    "phone": "+3903213732194"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Novara", 
+                        "country": "Italy", 
+                        "zip": "28100"
+                    }, 
+                    "name": "Azienda Ospedaliero Universitaria (AOU) \"Maggiore della Carita\" di Novara"
+                }, 
+                "investigator": {
+                    "last_name": "Gianluca Gaidano", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "teresaricciardi85@gmail.com", 
+                    "last_name": "Teresa Ricciardi", 
+                    "phone": "+390721364022"
+                }, 
+                "contact_backup": {
+                    "email": "federica.loscocco@gmail.com", 
+                    "last_name": "Federica Loscocco", 
+                    "phone": "+390721364006"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Pesaro", 
+                        "country": "Italy", 
+                        "zip": "61100"
+                    }, 
+                    "name": "Azienda Ospedaliera Ospedali Riuniti Marche Nord"
+                }, 
+                "investigator": {
+                    "last_name": "Giuseppe Visani", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "dgussetti@cro.it", 
+                    "last_name": "Daniela Gussetti", 
+                    "phone": "+390434659601"
+                }, 
+                "contact_backup": {
+                    "email": "eravaioli@cro.it", 
+                    "last_name": "Elena Ravaioli", 
+                    "phone": "+390434659078"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Pordenone", 
+                        "country": "Italy", 
+                        "zip": "33081"
+                    }, 
+                    "name": "Centro di Riferimento Oncologico di Aviano"
+                }, 
+                "investigator": {
+                    "last_name": "Michele Spina", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "gpriolo2@cittadellasalute.to.it", 
+                    "last_name": "Giorgio Priolo", 
+                    "phone": "+390116335611"
+                }, 
+                "contact_backup": {
+                    "email": "fpirillo@cittadellasalute.to.it", 
+                    "last_name": "Francesca Pirillo", 
+                    "phone": "+390116335611"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Torino", 
+                        "country": "Italy", 
+                        "zip": "10126"
+                    }, 
+                    "name": "Azienda Ospedaliera Citt\u00e0 della Salute e della Scienza di Torino"
+                }, 
+                "investigator": {
+                    "last_name": "Umberto Vitolo", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "primrose50@amc.seoul.kr", 
+                    "last_name": "Jiyeon Kim", 
+                    "phone": "+82230103229"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Seoul", 
+                        "country": "Korea, Republic of", 
+                        "zip": "138-876"
+                    }, 
+                    "name": "Asan Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Cheolwon Suh", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "kkkjjs81@naver.com", 
+                    "last_name": "Ji-Sook Kim", 
+                    "phone": "+8227459501"
+                }, 
+                "contact_backup": {
+                    "email": "kooheekyoung@gmail.com", 
+                    "last_name": "Heekyoung Koo", 
+                    "phone": "+82220721672"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Seoul", 
+                        "country": "Korea, Republic of", 
+                        "zip": "110-744"
+                    }, 
+                    "name": "Seoul National University Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Dae Seog Heo", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "eejhee.lee@samsung.com", 
+                    "last_name": "Ji Hee Lee", 
+                    "phone": "+82221489499"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Seoul", 
+                        "country": "Korea, Republic of", 
+                        "zip": "135-710"
+                    }, 
+                    "name": "Samsung Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Seok Jin Kim", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "mcm.ksenia.kwiatkowska@mp.pl", 
+                    "last_name": "Ksenia Kwiatkowska", 
+                    "phone": "+48122954139"
+                }, 
+                "contact_backup": {
+                    "email": "mcm.bozena.jachimczak@mp.pl", 
+                    "last_name": "Bozena Jachimczak", 
+                    "phone": "+48122954136"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Krak\u00f3w", 
+                        "country": "Poland", 
+                        "zip": "30-510"
+                    }, 
+                    "name": "Malopolskie Centrum Medyczne S.C."
+                }, 
+                "investigator": {
+                    "last_name": "Wojciech Jurczak", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "olga.jank@wp.pl", 
+                    "last_name": "Olga Jankowska", 
+                    "phone": "+48691722991"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Lublin", 
+                        "country": "Poland", 
+                        "zip": "20-081"
+                    }, 
+                    "name": "Szpital Kliniczny nr 1, Katedra i Klinika Hematoonkologii i Transplantacji Szpiku"
+                }, 
+                "investigator": {
+                    "last_name": "Marek Hus", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "agnieszka.ornatowska@poliklinika.net", 
+                    "last_name": "Agnieszka Ornatowska", 
+                    "phone": "+48895398757"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Olsztyn", 
+                        "country": "Poland", 
+                        "zip": "10-228"
+                    }, 
+                    "name": "Samodzielny Publiczny Zaklad Opieki Zdrowotnej Ministerstwa Spraw Wewnetrznych z Warminsko-Mazurskim"
+                }, 
+                "investigator": {
+                    "last_name": "Wanda Knopinska-Posluszny", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "jola@coi.waw.pl", 
+                    "last_name": "Jolanta Stawska", 
+                    "phone": "+48225462223"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Warszawa", 
+                        "country": "Poland", 
+                        "zip": "02-781"
+                    }, 
+                    "name": "Centrum Onkologii i Hipertermii"
+                }, 
+                "investigator": {
+                    "last_name": "Jan Walewski", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "e.v.pereginec@okb1.ru", 
+                    "last_name": "Elena Pereginec", 
+                    "phone": "+73433511653"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Ekaterinburg", 
+                        "country": "Russian Federation", 
+                        "zip": "620102"
+                    }, 
+                    "name": "Sverdlovsk Regional Clinical Hospital #1"
+                }, 
+                "investigator": {
+                    "last_name": "Tatyana Konstantinova", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "l.samodelkina@mail.ru", 
+                    "last_name": "Larisa Samodelkina", 
+                    "phone": "+78314389519"
+                }, 
+                "contact_backup": {
+                    "email": "n_v_mironova@mail.ru", 
+                    "last_name": "Natalya Mironova", 
+                    "phone": "+78314389519"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Nizhniy Novgorod", 
+                        "country": "Russian Federation", 
+                        "zip": "603126"
+                    }, 
+                    "name": "Nizhny Novgorod Regional Clinical Hospital n.a. N.A. Semashko"
+                }, 
+                "investigator": {
+                    "last_name": "Olga Samoilova", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "super.alex1976@mail.ru", 
+                    "last_name": "Alexey Shaposhnikov", 
+                    "phone": "+74912363998"
+                }, 
+                "contact_backup": {
+                    "email": "pga2012@yandex.ru", 
+                    "last_name": "Galina Papkova", 
+                    "phone": "+74912363998"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Ryazan", 
+                        "country": "Russian Federation", 
+                        "zip": "390039"
+                    }, 
+                    "name": "Ryazan Regional Clinical Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Alexander Pristupa", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "irina.shakhomirova@yandex.ru", 
+                    "last_name": "Irina Shakhomirova", 
+                    "phone": "+78127023765"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Saint Petersburg", 
+                        "country": "Russian Federation", 
+                        "zip": "197341"
+                    }, 
+                    "name": "FSI \"V.A. Almazov Federal Centre of Heart, Blood and Endocrinology of Rosmedtechnologies\""
+                }, 
+                "investigator": {
+                    "last_name": "Andrey Zaritskiy", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "dokbond@mail.ru", 
+                    "last_name": "Sergey Bondarchuk", 
+                    "phone": "+79119552188"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Saint Petersburg", 
+                        "country": "Russian Federation", 
+                        "zip": "194044"
+                    }, 
+                    "name": "State Educational Institution \"S.M. Kirov Military Medical Academy of Ministry of Defense of Russia\""
+                }, 
+                "investigator": {
+                    "last_name": "Andrey Maximov", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "bmt.lymphoma@gmail.com", 
+                    "last_name": "Natalia Mikhaylova", 
+                    "phone": "+78122332806"
+                }, 
+                "contact_backup": {
+                    "email": "vlasovandrei@list.ru", 
+                    "last_name": "Andrei Vlasov", 
+                    "phone": "+78122332806"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Saint-Petersburg", 
+                        "country": "Russian Federation", 
+                        "zip": "197022"
+                    }, 
+                    "name": "Saint Petersburg I.P. Pavlov State Medical University"
+                }, 
+                "investigator": {
+                    "last_name": "Boris Afanasiev", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "bogova82@mail.ru", 
+                    "last_name": "Varvara Bogova", 
+                    "phone": "+78452202294"
+                }, 
+                "contact_backup": {
+                    "email": "lewanowan@mail.ru", 
+                    "last_name": "Alexander Levanov", 
+                    "phone": "+78452202294"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Saratov", 
+                        "country": "Russian Federation", 
+                        "zip": "410 028"
+                    }, 
+                    "name": "Saratov State Medical University"
+                }, 
+                "investigator": {
+                    "last_name": "Tatiana Shelekhova", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "agarranzo@idiphim.org", 
+                    "last_name": "Ana Garranzo de Andr\u00e9s", 
+                    "phone": "+34911917913"
+                }, 
+                "contact_backup": {
+                    "email": "aechave.huph@gmail.com", 
+                    "last_name": "Amaya Echave", 
+                    "phone": "+34911917913"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Majadahonda", 
+                        "country": "Spain", 
+                        "state": "Madrid", 
+                        "zip": "28222"
+                    }, 
+                    "name": "Hospital Universitario Puerta de Hierro"
+                }, 
+                "investigator": {
+                    "last_name": "Jose Garcia-Marco", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "paloma.millan.palanca@navarra.es", 
+                    "last_name": "Paloma Millan Palanca", 
+                    "phone": "+34848428428"
+                }, 
+                "contact_backup": {
+                    "email": "ak.silva.soto@navarra.es", 
+                    "last_name": "Ana Silva", 
+                    "phone": "+34848428428"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Pamplona", 
+                        "country": "Spain", 
+                        "state": "Navarra", 
+                        "zip": "31008"
+                    }, 
+                    "name": "Hospital de Navarra"
+                }, 
+                "investigator": {
+                    "last_name": "Eduardo Olavarria", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "luzsanmiguel@hotmail.com", 
+                    "last_name": "Luz San Miguel", 
+                    "phone": "+34934651200", 
+                    "phone_ext": "3546"
+                }, 
+                "contact_backup": {
+                    "email": "mjjimenez@iconologia.net", 
+                    "last_name": "Ma Jos\u00e9 Jim\u00e9nez", 
+                    "phone": "+34934978987"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Badalona", 
+                        "country": "Spain", 
+                        "zip": "08916"
+                    }, 
+                    "name": "Hospital Universitari Germans Trias i Pujol"
+                }, 
+                "investigator": {
+                    "last_name": "Juan Manuel Sancho", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "pilar.portasany@gmail.com", 
+                    "last_name": "Pilar Portsany", 
+                    "phone": "+34913908525"
+                }, 
+                "contact_backup": {
+                    "email": "imerino@h12o.es", 
+                    "last_name": "Isabel Merino Gonzalez", 
+                    "phone": "+34913908652"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Madrid", 
+                        "country": "Spain", 
+                        "zip": "28041"
+                    }, 
+                    "name": "Hospital Universitario 12 de Octubre"
+                }, 
+                "investigator": {
+                    "last_name": "Carlos Grande Garc\u00eda", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "cecilia.oxenby@skane.se", 
+                    "last_name": "Cecilia Oxenby", 
+                    "phone": "+4640333966"
+                }, 
+                "contact_backup": {
+                    "email": "lise-lott.g.johansson@skane.se", 
+                    "last_name": "Lise-lott Johansson"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Malm\u00f6", 
+                        "country": "Sweden", 
+                        "zip": "205 02"
+                    }, 
+                    "name": "Sk\u00e5nes Universitetssjukhus, Malm\u00f6"
+                }, 
+                "investigator": {
+                    "last_name": "Erzsebet Szekely", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "kristina.kinneholm@karolinska.se", 
+                    "last_name": "Kristina Kinneholm", 
+                    "phone": "+460858586855"
+                }, 
+                "contact_backup": {
+                    "email": "karin.bengtsson@karolinska.se", 
+                    "last_name": "Karin Bengtsson", 
+                    "phone": "+460858586816"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Stockholm", 
+                        "country": "Sweden", 
+                        "zip": "141 86"
+                    }, 
+                    "name": "Karolinska University Hospital Huddinge"
+                }, 
+                "investigator": {
+                    "last_name": "Bj\u00f6rn Wahlin", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "emma.tilt@rbch.nhs.uk", 
+                    "last_name": "Emma Tilt", 
+                    "phone": "+4401202726246"
+                }, 
+                "contact_backup": {
+                    "email": "catherine.bishop@rbch.nhs.uk", 
+                    "last_name": "Catherine Bishop", 
+                    "phone": "+4401202726246"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Dorset", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "BH7 7DW"
+                    }, 
+                    "name": "Royal Bournemouth General Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Renata Walewska", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "lola.famakinwa@bartshealth.nhs.uk", 
+                    "last_name": "Lola Famakinwa", 
+                    "phone": "+4402034655077"
+                }, 
+                "contact_backup": {
+                    "email": "manojkumar.satyavarapu@bartshealth.nhs.uk", 
+                    "last_name": "Manoj Kumar Satyavarapu", 
+                    "phone": "+4402034656744"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "London", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "EC1A 7BE"
+                    }, 
+                    "name": "Barts and The London NHS Trust"
+                }, 
+                "investigator": {
+                    "last_name": "Rebecca Auer", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "zsuzsa.michnai@hcahealthcare.co.uk", 
+                    "last_name": "Zsuzsa Michnai", 
+                    "phone": "+442032195200"
+                }, 
+                "contact_backup": {
+                    "email": "rasmi.kumar@hcahealthcare.co.uk", 
+                    "last_name": "Rasmi Kumar", 
+                    "phone": "+4402070348235"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "London", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "W1G 6AD"
+                    }, 
+                    "name": "Sarah Cannon Research Institute"
+                }, 
+                "investigator": {
+                    "last_name": "Tobias Arkenau", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "c.paliompeis@imperial.ac.uk", 
+                    "last_name": "Christos Paliompeis", 
+                    "phone": "+4402033134715"
+                }, 
+                "contact_backup": {
+                    "email": "e.saguyan@imperial.ac.uk", 
+                    "last_name": "Esa Saguyan", 
+                    "phone": "+02083834340"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "London", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "W12 0HS"
+                    }, 
+                    "name": "Imperial College Healthcare NHS Trust"
+                }, 
+                "investigator": {
+                    "last_name": "Anastasios Karadimitris", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "richard.jones@pat.nhs.uk", 
+                    "last_name": "Richard Jones", 
+                    "phone": "+4401616278165"
+                }, 
+                "contact_backup": {
+                    "email": "olubusola.omiyale@pat.nhs.uk", 
+                    "last_name": "Olubusola Omiyale", 
+                    "phone": "+4401616278165"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Oldham", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "OL1 2JH"
+                    }, 
+                    "name": "Royal Oldham Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Martin Rowlands", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "claire.beardsmore@nhs.net", 
+                    "last_name": "Claire Beardsmore", 
+                    "phone": "+4401902694430"
+                }, 
+                "contact_backup": {
+                    "email": "julie.walsh5@nhs.net", 
+                    "last_name": "Julie Walsh", 
+                    "phone": "+01902694430"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Wolverhampton", 
+                        "country": "United Kingdom", 
+                        "state": "England", 
+                        "zip": "WV10 0QP"
+                    }, 
+                    "name": "New Cross Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Abraham Jacob", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "charina.ocampo@nhs.net", 
+                    "last_name": "Charina Ocampo", 
+                    "phone": "+4401923844982"
+                }, 
+                "contact_backup": {
+                    "email": "jdabula@nhs.net", 
+                    "last_name": "Joy Dabula", 
+                    "phone": "+4401923844349"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Middlesex", 
+                        "country": "United Kingdom", 
+                        "zip": "HA6 2RN"
+                    }, 
+                    "name": "Mount Vernon Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Peter Hoskin", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "jane.cole6@nhs.net", 
+                    "last_name": "Jane Cole", 
+                    "phone": "+0191565625647264"
+                }, 
+                "contact_backup": {
+                    "email": "paula.newton2@nhs.net", 
+                    "last_name": "Paula Newton", 
+                    "phone": "+440191565625647264"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Sunderland", 
+                        "country": "United Kingdom", 
+                        "zip": "SR4 7TP"
+                    }, 
+                    "name": "Sunderland Royal Infirmary"
+                }, 
+                "investigator": {
+                    "last_name": "Scott Marshall", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Australia", 
+                "Czech Republic", 
+                "France", 
+                "Hungary", 
+                "Italy", 
+                "Korea, Republic of", 
+                "Poland", 
+                "Russian Federation", 
+                "Spain", 
+                "Sweden", 
+                "United Kingdom"
+            ]
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "A Phase 3, Randomized, Double-Blind, Placebo-Controlled Study Evaluating the Efficacy and Safety of Idelalisib (GS-1101) in Combination With Rituximab for Previously Treated Indolent Non-Hodgkin Lymphomas", 
+        "overall_contact": {
+            "email": "Meredith.cain@gilead.com", 
+            "last_name": "Meredith Cain"
+        }, 
+        "overall_official": {
+            "affiliation": "Gilead Sciences", 
+            "last_name": "Henry Adewoye, MD", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "December 2016", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "To evaluate the effect of the addition of idelalisib (GS-1101) to rituximab on progression-free survival in subjects with previously treated indolent non-Hodgkin lymphoma (iNHL)", 
+            "measure": "Progression Free Survival", 
+            "safety_issue": "No", 
+            "time_frame": "Every 12 weeks"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01732913"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Overall Response Rate (ORR) is defined as the proportion of subjects who achieve a complete response or partial response (or very good partial response or minor response for patients with Waldenstrom's).", 
+                "measure": "Overall Response Rate", 
+                "safety_issue": "No", 
+                "time_frame": "Assessed every 12 weeks until progression"
+            }, 
+            {
+                "description": "Lymph node response rate is defined as the proportion of subjects who achieve \u2265 50% decrease from baseline in the sum of the products of the greatest perpendicular diameters of index lesions.", 
+                "measure": "Lymph Node Response", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to end of study"
+            }, 
+            {
+                "description": "Overall survival is defined as the interval from randomization to death from any cause.", 
+                "measure": "Overall Survival", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to end of study"
+            }, 
+            {
+                "description": "Complete response is defined as the proportion of patients who achieve a complete response.", 
+                "measure": "Complete Response Rate", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to end of study"
+            }
+        ], 
+        "source": "Gilead Sciences", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Gilead Sciences", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "January 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2014"
+    }
+}

@@ -1,0 +1,185 @@
+{
+    "clinical_study": {
+        "@rank": "117557", 
+        "acronym": "GCC 1261", 
+        "brief_summary": {
+            "textblock": "The investigators' goal is to develop a non-selective and non-invasive procedure to identify\n      aggressive tumors and simultaneously identify their exact location in Prostate cancer\n      patients undergoing radical prostatectomy by combining multiparametric MRI and machine\n      learning techniques. The combination of multi-parametric MRI and machine learning (validated\n      using histopathology) can lead to increased sensitivity and specificity of cancer foci in\n      the prostate, and help in isolating aggressive from indolent tumors. This increased\n      sensitivity and specificity may eventually lead to: a) a reduction in the number of patients\n      that undergo unnecessary treatment, and b) enhance current treatment options by enabling the\n      use of focused therapies. The investigators will recruit 15 patients with prostate cancer\n      that are currently scheduled to undergo radical prostatectomy into the study.  All patients\n      will obtain an advanced MRI study prior to the radical prostatectomy. MRI scans will include\n      a) high-resolution volumetric images using T1 and T2-weighted imaging, b) vascular images\n      using dynamic contrast enhanced (DCE) imaging, c) biophysical microstructure images using\n      diffusion-weighted imaging, and d) biochemical images using MR spectroscopic imaging.\n      Following radical prostatectomy, a pathologist will grade the prostatectomy specimens based\n      on standard of care (Gleason grading system). Correlations will be generated between the\n      parameters obtained from scans and from clinical assessments."
+        }, 
+        "brief_title": "Improving Cancer Foci Detection in Prostate Cancer Using Multiparametric MRI/MRS", 
+        "completion_date": {
+            "#text": "December 2018", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Prostate Cancer", 
+        "condition_browse": {
+            "mesh_term": "Prostatic Neoplasms"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. All male patients that have opted for radical prostatectomy\n\n          2. Subjects must be capable of giving informed consent.\n\n          3. Subjects must not be claustrophobic.\n\n        Exclusion Criteria:\n\n          1. Subjects with pacemakers.\n\n          2. Subjects who have metallic ferromagnetic implants or pumps.\n\n          3. All females are excluded from this study.\n\n          4. Subjects with kidney disease of any severity or on hemodialysis.\n\n          5. Subjects with known allergies to gadolinium-based contrast agents.\n\n          6. Subjects incapable of lying on their backs for up to an hour at a time."
+            }, 
+            "gender": "Male", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "prostate cancer patients that have elected to go for radical prostatectomy"
+            }
+        }, 
+        "enrollment": {
+            "#text": "20", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "January 8, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01766869", 
+            "org_study_id": "HP-00054431"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Prostate Cancer", 
+            "MRI/MRS"
+        ], 
+        "lastchanged_date": "April 22, 2014", 
+        "location": [
+            {
+                "contact": {
+                    "email": "bjackson1@umm.edu", 
+                    "last_name": "Bahiyyah Jackson, BS, MS", 
+                    "phone": "410-328-7586"
+                }, 
+                "contact_backup": {
+                    "email": "sgrim@umm.edu", 
+                    "last_name": "Suzanne Grim, MS", 
+                    "phone": "410-328-7501"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21201"
+                    }, 
+                    "name": "Ummc Msgcc"
+                }, 
+                "investigator": [
+                    {
+                        "last_name": "Warren D'Souza, PhD", 
+                        "role": "Sub-Investigator"
+                    }, 
+                    {
+                        "last_name": "Amitabh Varshney, PhD", 
+                        "role": "Principal Investigator"
+                    }, 
+                    {
+                        "last_name": "Rao Gullapalli, PhD", 
+                        "role": "Sub-Investigator"
+                    }, 
+                    {
+                        "last_name": "Michael Naslund, MD", 
+                        "role": "Sub-Investigator"
+                    }, 
+                    {
+                        "last_name": "Borislav Alexiev, MD", 
+                        "role": "Sub-Investigator"
+                    }, 
+                    {
+                        "last_name": "James Borin, MD", 
+                        "role": "Sub-Investigator"
+                    }, 
+                    {
+                        "last_name": "Hao Zhang, PhD", 
+                        "role": "Sub-Investigator"
+                    }, 
+                    {
+                        "last_name": "Jade Wong, PhD", 
+                        "role": "Sub-Investigator"
+                    }
+                ], 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "bjackson1@umm.edu", 
+                    "last_name": "Bahiyyah Jackson, MS", 
+                    "phone": "410-328-7586"
+                }, 
+                "contact_backup": {
+                    "email": "sgrim@umm.edu", 
+                    "last_name": "Suzanne Grim, MS", 
+                    "phone": "410-328-7501"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Baltimore", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21201"
+                    }, 
+                    "name": "Ummc Msgcc"
+                }, 
+                "investigator": {
+                    "last_name": "Wei Lu, PhD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_groups": "1", 
+        "official_title": "Improving Cancer Foci Detection in Prostate Cancer Using Multiparametric MRI/MRS and Machine Learning to Better Manage the Disease", 
+        "overall_official": {
+            "affiliation": "UMD", 
+            "last_name": "Nilesh Mistry, PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "December 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Whether advanced MR imaging techniques can be used to train machine-learning techniques to distinguish high-grade tumors from low-grade tumors and normal prostate. The machine-learning techniques will be trained using histopathology data as the ground truth.\nTo achieve this we will obtain volumetric images of the various tissue attributes (listed below) and match them to histopathology:\nVascular permeability (ktrans) using dynamic contrast enhanced MRI (DCE-MRI)\nMorphological changes captured using T2 and diffusion changes using diffusion weighted MRI (DW-MRI)\nMetabolic signatures of (choline+creatine)/citrate) or CC/C using magnetic resonance spectroscopic imaging (MRSI)\nCorrelate in vivo imaging findings to ex vivo histopathology using deformable image registration\nDevelop a multiclass support vector machine (SVM) using the set of multi-parametric images as input, and use it predict a score akin to the Gleason score.", 
+            "measure": "Primary Objective: distinguishing high-grade tumors vs. low-grade tumors and normal prostate", 
+            "safety_issue": "No", 
+            "time_frame": "16 months"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01766869"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University of Maryland", 
+            "investigator_full_name": "Department of Radiation Oncology", 
+            "investigator_title": "Principal Investigator", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": {
+            "description": "Advanced MR imaging techniques can be used alone in classifying tumor grade. Datasets collected will be partitioned into subsets that will be used for testing the machine learning techniques. For example: 90% of the data will be used for training and the remaining 10% will be used for testing. This process will be repeated over a combination of different subsets. Our hypothesis is that Machine Learning methods will assist in analyzing the differences between aggressive tumors, indolent tumors, and normal tissue. We further hypothesize this analysis will help in synthesizing an imaging-based \"score\" that can identify an aggressive tumor from indolent tumors and normal tissue in new cases after training. We believe using multi-parametric MRI combined with an advanced machine learning technique can improve the sensitivity and specificity of tumor foci detection. This will result in a non-invasive and quantitative test to accurately identify the tumor grade and location.", 
+            "measure": "Secondary Objective: non-invasive and quantitative test to accurately identify the tumor grade and location.", 
+            "safety_issue": "No", 
+            "time_frame": "16 months"
+        }, 
+        "source": "University of Maryland", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of Maryland", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "April 2014", 
+        "study_design": "Observational Model: Case-Only, Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "April 2014"
+    }
+}

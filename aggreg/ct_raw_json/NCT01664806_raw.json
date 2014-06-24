@@ -1,0 +1,587 @@
+{
+    "clinical_study": {
+        "@rank": "11420", 
+        "arm_group": [
+            {
+                "arm_group_label": "Coag mode 30 Watts Power", 
+                "arm_group_type": "No Intervention", 
+                "description": "Elective laparoscopic cholecystectomy will be performed with 30 Watts power coag mode which is current standard of care."
+            }, 
+            {
+                "arm_group_label": "Covidien Triad monopolar generator", 
+                "arm_group_type": "Experimental", 
+                "description": "Blend mode (triverse pencil valleylab mode) 30 Watts will be used to perform Elective laparoscopic cholecystectomy. which is the experimental arm of the study's mode."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Monopolar radiofrequency energy is used to perform the laparoscopic cholecystectomy\n      operation. The appearance of burns are common following laparoscopic cholecystectomy;\n      particularly at the port site of the active electrode. Willson et al found that 9 out of 19\n      skin biopsies from the skin adjacent to the port site of the monopolar instrument's active\n      electrode were found to have thermal injury by histology. [Willson et al. Surg Endosc (1997)\n      11:653] Authors have speculated that using different generator modes may lead to less\n      capacitive coupling; [Wu et al Am J Surg (2000) 179: 67] although no data exists to support\n      these speculations.\n\n      The investigators hypothesize that capacitive coupling electrosurgical injuries from\n      monopolar instruments are occurring during laparoscopic cholecystectomy operations. The\n      investigators hypothesize that use of blend modes will reduce the incidence of capacitive\n      coupling thermal injuries during laparoscopic operations in comparison to coag modes."
+        }, 
+        "brief_title": "Laparoscopic Cholecystectomy And Capacitive Coupling - Coag Versus Blend Mode Causing Thermal Injury at Port Site Skin", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "Elective laparoscopic cholecystectomy will be performed with 30 Watts power blend mode (triverse pencil valleylab mode) which is the experimental arm of the study's mode.\nCovidien Triad monopolar generator - Blend mode (triverse pencil valleylab mode) 30 Watts : Blend mode (triverse pencil valleylab mode) 30 Watts will be used to perform a laparoscopic cholecystectomy.", 
+                            "title": "Blend Mode (Triverse Pencil Valleylab Mode) 30 Watts"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "Elective laparoscopic cholecystectomy will be performed with 30 Watts power coag mode which is current standard of care.\nCovidien FX monopolar generator - Coag Mode 30 Watts : 30 Watts coag mode will be used to perform laparoscopic cholecystectomy", 
+                            "title": "Coag Mode 30 Watts Power"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "20"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "20"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "40"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "18"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "19"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "37"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "2"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "1"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "3"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@spread": "18", 
+                                                "@value": "47"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@spread": "12", 
+                                                "@value": "41"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@spread": "15", 
+                                                "@value": "44"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "16"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "15"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "31"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "4"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "5"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "9"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "20"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "20"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "40"
+                                            }
+                                        ]
+                                    }, 
+                                    "sub_title": "United States"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "limitations_and_caveats": "This is a pilot study with no funding so data is limited.", 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "description": "Shave biopsy of skin at the epigastric port site after elective laparoscopic cholecystectomy will be performed. The primary outcome is histologic evidence of burn at this port sites.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Elective laparoscopic cholecystectomy will be performed with 30 Watts power blend mode (triverse pencil valleylab mode) which is the experimental arm of the study's mode.\nCovidien Triad monopolar generator - Blend mode (triverse pencil valleylab mode) 30 Watts : Blend mode (triverse pencil valleylab mode) 30 Watts will be used to perform a laparoscopic cholecystectomy.", 
+                                    "title": "Blend Mode (Triverse Pencil Valleylab Mode) 30 Watts"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Elective laparoscopic cholecystectomy will be performed with 30 Watts power coag mode which is current standard of care.\nCovidien FX monopolar generator - Coag Mode 30 Watts : 30 Watts coag mode will be used to perform laparoscopic cholecystectomy", 
+                                    "title": "Coag Mode 30 Watts Power"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "20"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "20"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "1"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "7"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Shave biopsy of skin at the epigastric port site after elective laparoscopic cholecystectomy will be performed. The primary outcome is histologic evidence of burn at this port sites.", 
+                                    "param": "Number", 
+                                    "title": "Histologic Thermal Injury to Epigastric Port Site Skin", 
+                                    "units": "participants"
+                                }
+                            ]
+                        }, 
+                        "population": "A sample size of convenience for feasibility.", 
+                        "safety_issue": "Yes", 
+                        "time_frame": "1 day", 
+                        "title": "Histologic Thermal Injury to Epigastric Port Site Skin", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "Shave biopsy of skin at the umbilical port site after elective laparoscopic cholecystectomy will be performed. The secondary outcome is histologic evidence of burn at this port site.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Elective laparoscopic cholecystectomy will be performed with 30 Watts power blend mode (triverse pencil valleylab mode) which is the experimental arm of the study's mode.\nCovidien Triad monopolar generator - Blend mode (triverse pencil valleylab mode) 30 Watts : Blend mode (triverse pencil valleylab mode) 30 Watts will be used to perform a laparoscopic cholecystectomy.", 
+                                    "title": "Blend Mode (Triverse Pencil Valleylab Mode) 30 Watts"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Elective laparoscopic cholecystectomy will be performed with 30 Watts power coag mode which is current standard of care.\nCovidien FX monopolar generator - Coag Mode 30 Watts : 30 Watts coag mode will be used to perform laparoscopic cholecystectomy", 
+                                    "title": "Coag Mode 30 Watts Power"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "20"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "20"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "3"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "11"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Shave biopsy of skin at the umbilical port site after elective laparoscopic cholecystectomy will be performed. The secondary outcome is histologic evidence of burn at this port site.", 
+                                    "param": "Number", 
+                                    "title": "Histologic Evidence of Burn at the Umbilical Port Site Skin", 
+                                    "units": "participants"
+                                }
+                            ]
+                        }, 
+                        "population": "A sample size of convenience for feasibility.", 
+                        "safety_issue": "Yes", 
+                        "time_frame": "1 day", 
+                        "title": "Histologic Evidence of Burn at the Umbilical Port Site Skin", 
+                        "type": "Secondary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "Elective laparoscopic cholecystectomy will be performed with 30 Watts power blend mode (triverse pencil valleylab mode) which is the experimental arm of the study's mode.\nCovidien Triad monopolar generator - Blend mode (triverse pencil valleylab mode) 30 Watts : Blend mode (triverse pencil valleylab mode) 30 Watts will be used to perform a laparoscopic cholecystectomy.", 
+                            "title": "Blend Mode (Triverse Pencil Valleylab Mode) 30 Watts"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "Elective laparoscopic cholecystectomy will be performed with 30 Watts power coag mode which is current standard of care.\nCovidien FX monopolar generator - Coag Mode 30 Watts : 30 Watts coag mode will be used to perform laparoscopic cholecystectomy", 
+                            "title": "Coag Mode 30 Watts Power"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "20", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "20", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "20", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "20", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "pre_assignment_details": "Two screened patients were excluded because they refused entry into the trial.", 
+                "recruitment_details": "40 patients were recruited at the University of Colorado Hospital."
+            }, 
+            "point_of_contact": {
+                "email": "thomas.robinson@Ucdenver.edu", 
+                "name_or_title": "Dr. Thomas Robinson", 
+                "organization": "University of Colorado School of Medicine", 
+                "phone": "303-724-2728"
+            }
+        }, 
+        "completion_date": {
+            "#text": "May 2012", 
+            "@type": "Actual"
+        }, 
+        "condition": [
+            "Intraoperative Complications", 
+            "Thermal Injury", 
+            "Electrocoagulation"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Intraoperative Complications", 
+                "Burns", 
+                "Wounds and Injuries"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "SPECIFIC AIM:\n\n      Compare incidence of skin burns caused by using coag versus blend monopolar instrument modes\n      at the active electrode port site (epigastric port), and at the non-active electrode port\n      sites (umbilical and right abdominal wall).\n\n      OUTCOME MEASURE:\n\n      Histologic evidence of thermal injury at the skin biopsy sites of the active electrode port,\n      the camera port and the medial assistant port. Histology will be performed by a blinded\n      pathologist.\n\n      POPULATION TO BE ENROLLED:\n\n      Subjects undergoing elective laparoscopic cholecystectomy will be recruited in the principle\n      investigators pre-operative clinic. All subjects will be 18 years and older.\n\n      STUDY DESIGN AND METHODS:\n\n      Written informed consent will be obtained in all subjects prior to enrollment. Subjects will\n      be randomized on the day of surgery to undergo the laparoscopic cholecystectomy operation\n      with either the coag or blend modes of using standard monopolar electrosurgery instruments.\n      The randomization process will occur by using a random number generator. A total of 40\n      subjects will be recruited; 20 subjects per group. Shave skin biopsies will be performed at\n      the edge of the incisions of the active electrode port, the camera port and the medial\n      assistant port on the right abdominal wall. The incisions and skin will be otherwise opened\n      and closed in the routine clinical manor.\n\n      STATISTICAL ANALYSIS The incidence of skin burns created using coag or blend modes will be\n      compared individually at all three port sites using chi-squared or Fisher's exact test where\n      appropriate. Baseline demographic data (e.g., gender, age, body mass index, operation time,\n      blood loss, indication for operation and histology) will be compared in the two groups."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Age 18 years and older planned to undergo elective laparoscopic cholecystectomy\n\n        Exclusion Criteria:\n\n          -  Patients undergoing urgent or emergent laparoscopic cholecystectomy operations"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "40", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "August 10, 2012", 
+        "firstreceived_results_date": "January 25, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01664806", 
+            "org_study_id": "09-0049"
+        }, 
+        "intervention": {
+            "arm_group_label": "Covidien Triad monopolar generator", 
+            "description": "Blend mode (triverse pencil valleylab mode) 30 Watts will be used to perform a laparoscopic cholecystectomy.", 
+            "intervention_name": "Covidien Triad monopolar generator", 
+            "intervention_type": "Device"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Electrosurgery", 
+            "Radiofrequency energy", 
+            "Monopolar instruments", 
+            "Capacitive coupling", 
+            "Thermal injury", 
+            "Surgical complications"
+        ], 
+        "lastchanged_date": "March 18, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Aurora", 
+                    "country": "United States", 
+                    "state": "Colorado", 
+                    "zip": "80045"
+                }, 
+                "name": "University of Colorado Hospital"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Laparoscopic Cholecystectomy And Capacitive Coupling - Coag Versus Blend Mode and Thermal Injury to Tissue Adjacent to Port Sites", 
+        "overall_official": {
+            "affiliation": "University of Colorado, Denver", 
+            "last_name": "Thomas Robinson, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "August 2011", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Shave biopsy of skin at the epigastric port site after elective laparoscopic cholecystectomy will be performed. The primary outcome is histologic evidence of burn at this port sites.", 
+            "measure": "Histologic Thermal Injury to Epigastric Port Site Skin", 
+            "safety_issue": "Yes", 
+            "time_frame": "1 day"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01664806"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "description": "Shave biopsy of skin at the umbilical port site after elective laparoscopic cholecystectomy will be performed. The secondary outcome is histologic evidence of burn at this port site.", 
+            "measure": "Histologic Evidence of Burn at the Umbilical Port Site Skin", 
+            "safety_issue": "Yes", 
+            "time_frame": "1 day"
+        }, 
+        "source": "University of Colorado, Denver", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Covidien", 
+                "agency_class": "Industry"
+            }, 
+            "lead_sponsor": {
+                "agency": "University of Colorado, Denver", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "November 2010", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety Study, Intervention Model: Parallel Assignment, Masking: Single Blind (Outcomes Assessor), Primary Purpose: Basic Science", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2013"
+    }
+}

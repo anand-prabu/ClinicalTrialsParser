@@ -1,0 +1,910 @@
+{
+    "clinical_study": {
+        "@rank": "72249", 
+        "arm_group": [
+            {
+                "arm_group_label": "A: MPDL3280A + Avastin", 
+                "arm_group_type": "Experimental"
+            }, 
+            {
+                "arm_group_label": "B: MPDL3280A; following PD: MPDL3280A + Avastin", 
+                "arm_group_type": "Experimental"
+            }, 
+            {
+                "arm_group_label": "C: Sunitinib; following PD: MPDL3280A + Avastin", 
+                "arm_group_type": "Active Comparator"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This multicenter, randomized, open-label study will evaluate the efficacy and safety of\n      MPDL3280A as monotherapy or in combination with Avastin (bevacizumab) versus sunitinib in\n      patients with previously untreated locally advanced or metastatic renal cell carcinoma.\n      Patients in Arm A will receive MPDL3280A 1200 mg IV every 3 weeks (eight 6-week cycles or up\n      to 1 year) plus Avastin 15 mg/kg IV until disease progression. Patients in Arm B will\n      receive MPDL3280A alone (up to 1 year), and patients in Arm C will receive sunitinib 50 mg\n      orally daily for 4 weeks followed by 2 weeks rest until disease progression. Following\n      disease progression, patients in Arms B and C will be given the option to receive\n      combination treatment with MPDL3280A and Avastin."
+        }, 
+        "brief_title": "A Phase 2 Study of MPDL3280A (an Engineered Anti-PDL1 Antibody) as Monotherapy or in Combination With Avastin (Bevacizumab) Compared to Sunitinib in Patients With Untreated Advanced Renal Cell Carcinoma", 
+        "completion_date": {
+            "#text": "March 2016", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Renal Cell Carcinoma", 
+        "condition_browse": {
+            "mesh_term": [
+                "Carcinoma", 
+                "Carcinoma, Renal Cell"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Adult patients >/= 18 years of age\n\n          -  Unresectable advanced or metastatic renal cell carcinoma with component of clear cell\n             histology and/or  component of sarcomatoid histology that has not been previously\n             treated with any systemic  agents, including treatment in the adjuvant setting\n\n          -  Measurable disease, as defined by RECIST v1.1\n\n          -  Karnofsky performance score >/= 70\n\n          -  Adequate hematologic and end-organ function as defined by protocol\n\n          -  Women of childbearing potential  and male patients must agree to use adequate methods\n             of  contraception as defined by protocol during the  treatment period and for at\n             least 6 months after the last dose of MPDL3280A or sunitinib\n\n        Exclusion Criteria:\n\n          -  Radiotherapy for RCC within 28 days prior to Cycle 1, Day 1 with the exception of:\n             Single-fraction radiotherapy given for the indication of pain control\n\n          -  Known malignancies or metastasis of the brain or spinal cord or leptomeningeal\n             disease\n\n          -  Uncontrolled pleural effusion, pericardial effusion, or ascites requiring recurrent\n             drainage  procedures (once monthly or more frequently)\n\n          -  Uncontrolled hypercalcemia  or symptomatic hypercalcemia\n\n          -  Malignancies other than RCC within 5 years prior to Cycle 1, Day 1, with the\n             exception of  those with a negligible risk of metastasis or death, treated with\n             expected curative outcome\n\n          -  Life expectancy of < 12 weeks\n\n          -  Pregnant and lactating women\n\n          -  History of severe allergic, anaphylactic, or other hypersensitivity reactions to\n             chimeric or  humanized antibodies or fusion proteins\n\n          -  History of autoimmune disease (Patients with a history of autoimmune-related\n             hypothyroidism on a stable dose of  thyroid replacement hormone may be eligible for\n             this study)\n\n        Bevacizumab- and Sunitinib-Specific Exclusions:\n\n          -  Inadequately controlled hypertension\n\n          -  Prior history of hypertensive crisis or hypertensive encephalopathy"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "150", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 7, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01984242", 
+            "org_study_id": "WO29074", 
+            "secondary_id": "2013-003167-58"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "A: MPDL3280A + Avastin", 
+                    "B: MPDL3280A; following PD: MPDL3280A + Avastin"
+                ], 
+                "description": "1200 mg IV q3w (dosed in 6-week cycles), 8 cycles (or up to 1 year, whichever comes first)", 
+                "intervention_name": "MPDL3280A", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "A: MPDL3280A + Avastin", 
+                "description": "15 mg/kg IV q3w (dosed in 6-week cycles), until disease progression", 
+                "intervention_name": "bevacizumab [Avastin]", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "C: Sunitinib; following PD: MPDL3280A + Avastin", 
+                "description": "50 mg/day orally for 4 weeks, followed by 2 weeks of rest (dosed on 6-week cycles), until disease progression", 
+                "intervention_name": "sunitinib", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "B: MPDL3280A; following PD: MPDL3280A + Avastin", 
+                    "C: Sunitinib; following PD: MPDL3280A + Avastin"
+                ], 
+                "description": "Following disease progression: 1200 mg IV q3w (dosed in 6-week cycles), 8 cycles (or up to 1 year, whichever comes first)", 
+                "intervention_name": "MPDL3280A", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "B: MPDL3280A; following PD: MPDL3280A + Avastin", 
+                    "C: Sunitinib; following PD: MPDL3280A + Avastin"
+                ], 
+                "description": "Following disease progression: 15 mg/kg IV q3w (dosed in 6-week cycles), until disease progression", 
+                "intervention_name": "bevacizumab [Avastin]", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Bevacizumab", 
+                "Sunitinib"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "lastchanged_date": "May 19, 2014", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Scottsdale", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85258"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Duarte", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "91010"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90024"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94143"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Aurora", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80045"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Denver", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80218"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New Haven", 
+                        "country": "United States", 
+                        "state": "Connecticut", 
+                        "zip": "06510-3289"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Washington", 
+                        "country": "United States", 
+                        "state": "District of Columbia", 
+                        "zip": "20016-1468"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ft Myers", 
+                        "country": "United States", 
+                        "state": "Florida"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Jacksonville", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32224"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "St Petersburg", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33705"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60637"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02115"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Las Vegas", 
+                        "country": "United States", 
+                        "state": "Nevada", 
+                        "zip": "89148"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cincinnati", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45242"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cleveland", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44195"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Eugene", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97401"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tualatin", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97062"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Columbia", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "10595"
+                    }
+                }, 
+                "status": "Completed"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nashville", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37203"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nashville", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37232-7610"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75246"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hradec Kralove", 
+                        "country": "Czech Republic", 
+                        "zip": "50005"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Labem", 
+                        "country": "Czech Republic", 
+                        "zip": "40113"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Olomouc", 
+                        "country": "Czech Republic", 
+                        "zip": "775 20"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Prague", 
+                        "country": "Czech Republic", 
+                        "zip": "15060"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Angers", 
+                        "country": "France", 
+                        "zip": "49933"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lille", 
+                        "country": "France", 
+                        "zip": "59020"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lyon", 
+                        "country": "France", 
+                        "zip": "69373"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "zip": "75908"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "zip": "75475"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pessac", 
+                        "country": "France", 
+                        "zip": "33604"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toulouse", 
+                        "country": "France", 
+                        "zip": "31059"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Villejuif", 
+                        "country": "France", 
+                        "zip": "94805"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Essen", 
+                        "country": "Germany", 
+                        "zip": "45122"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hannover", 
+                        "country": "Germany", 
+                        "zip": "30625"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Munich", 
+                        "country": "Germany", 
+                        "zip": "81675"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "M\u00fcnchen", 
+                        "country": "Germany", 
+                        "zip": "81377"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Meldola", 
+                        "country": "Italy", 
+                        "state": "Emilia-Romagna", 
+                        "zip": "47014"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Modena", 
+                        "country": "Italy", 
+                        "state": "Emilia-Romagna", 
+                        "zip": "41124"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cremona", 
+                        "country": "Italy", 
+                        "state": "Lombardia", 
+                        "zip": "26100"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milano", 
+                        "country": "Italy", 
+                        "state": "Lombardia", 
+                        "zip": "20132"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milano", 
+                        "country": "Italy", 
+                        "state": "Lombardia", 
+                        "zip": "20133"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pavia", 
+                        "country": "Italy", 
+                        "state": "Lombardia", 
+                        "zip": "27100"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Arezzo", 
+                        "country": "Italy", 
+                        "state": "Toscana", 
+                        "zip": "52100"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Gdansk", 
+                        "country": "Poland", 
+                        "zip": "80-214"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lublin", 
+                        "country": "Poland", 
+                        "zip": "20-090"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Poznan", 
+                        "country": "Poland", 
+                        "zip": "60-569"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Warszawa", 
+                        "country": "Poland", 
+                        "zip": "04-125"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Brasov", 
+                        "country": "Romania", 
+                        "zip": "500091"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cluj Napoca", 
+                        "country": "Romania", 
+                        "zip": "400015"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cluj-Napoca", 
+                        "country": "Romania", 
+                        "zip": "400058"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sata Mare", 
+                        "country": "Romania", 
+                        "zip": "440055"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Barcelona", 
+                        "country": "Spain", 
+                        "zip": "08036"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Barcelona", 
+                        "country": "Spain", 
+                        "zip": "08035"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Madrid", 
+                        "country": "Spain", 
+                        "zip": "28041"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Madrid", 
+                        "country": "Spain", 
+                        "zip": "28050"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Zaragoza", 
+                        "country": "Spain", 
+                        "zip": "50009"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dnipropetrovsk", 
+                        "country": "Ukraine", 
+                        "zip": "49102"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kharkiv", 
+                        "country": "Ukraine", 
+                        "zip": "61070"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lvov", 
+                        "country": "Ukraine", 
+                        "zip": "79031"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Simferopol", 
+                        "country": "Ukraine", 
+                        "zip": "95017"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bebington", 
+                        "country": "United Kingdom", 
+                        "zip": "CH63 4JY"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "London", 
+                        "country": "United Kingdom", 
+                        "zip": "EC1A 7BE"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "London", 
+                        "country": "United Kingdom", 
+                        "zip": "SW3 6JJ"
+                    }
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Manchester", 
+                        "country": "United Kingdom", 
+                        "zip": "M2O 4BX"
+                    }
+                }, 
+                "status": "Not yet recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Czech Republic", 
+                "France", 
+                "Germany", 
+                "Italy", 
+                "Poland", 
+                "Romania", 
+                "Spain", 
+                "Ukraine", 
+                "United Kingdom"
+            ]
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "A PHASE II, RANDOMIZED STUDY OF MPDL3280A ADMINISTERED AS MONOTHERAPY OR IN COMBINATION WITH BEVACIZUMAB VERSUS SUNITINIB IN PATIENTS WITH UNTREATED ADVANCED RENAL CELL CARCINOMA", 
+        "overall_contact": {
+            "email": "global.rochegenentechtrials@roche.com", 
+            "last_name": "Reference Study ID Number: WO29074 www.roche.com/about_roche/roche_worldwide.htm", 
+            "phone": "888-662-6728 (U.S. Only)"
+        }, 
+        "overall_official": {
+            "affiliation": "Hoffmann-La Roche", 
+            "last_name": "Clinical Trials", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "March 2016", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "Progression-free survival per RECIST v.1.1 via central ICR assessment", 
+            "safety_issue": "No", 
+            "time_frame": "approximately 2.5 years"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01984242"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Progression-free survival using investigator assessment per immune-related criteria", 
+                "safety_issue": "No", 
+                "time_frame": "approximately 2.5 years"
+            }, 
+            {
+                "measure": "Overall response rate (complete + partial response)", 
+                "safety_issue": "No", 
+                "time_frame": "approximately 2.5 years"
+            }, 
+            {
+                "measure": "Duration of response", 
+                "safety_issue": "No", 
+                "time_frame": "approximately 2.5 years"
+            }, 
+            {
+                "measure": "Overall survival", 
+                "safety_issue": "No", 
+                "time_frame": "approximately 2.5 years"
+            }, 
+            {
+                "measure": "Overall response rate in patients progressing on the sunitinib and MPDL alone arms who subsequently cross over to MPDL3280A + Avastin treatment", 
+                "safety_issue": "No", 
+                "time_frame": "approximately 1.5 years"
+            }, 
+            {
+                "measure": "Duration of response in patients progressing on the sunitinib and MPDL alone arms who subsequently cross over to MPDL3280A + Avastin treatment", 
+                "safety_issue": "No", 
+                "time_frame": "approximately 1.5 years"
+            }, 
+            {
+                "measure": "Progression-free survival in patients progressing on the sunitinib and MPDL alone arms who subsequently cross over to MPDL3280A + Avastin treatment", 
+                "safety_issue": "No", 
+                "time_frame": "approximately 1.5 years"
+            }, 
+            {
+                "measure": "Safety: Incidence of adverse events", 
+                "safety_issue": "No", 
+                "time_frame": "approximately 2.5 years"
+            }, 
+            {
+                "measure": "Pharmacokinetics of MPDL3280A alone and in combination with bevacizumab: Area under the concentration-time curve", 
+                "safety_issue": "No", 
+                "time_frame": "Cycle 1"
+            }
+        ], 
+        "source": "Hoffmann-La Roche", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Hoffmann-La Roche", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "January 2014", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2014"
+    }
+}

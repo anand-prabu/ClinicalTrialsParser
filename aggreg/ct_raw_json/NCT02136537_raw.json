@@ -1,0 +1,137 @@
+{
+    "clinical_study": {
+        "@rank": "63937", 
+        "acronym": "PAD", 
+        "arm_group": [
+            {
+                "arm_group_label": "Best medical therapy", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Claudicants treated according to local protocol - no added treatment"
+            }, 
+            {
+                "arm_group_label": "Best medical therapy plus NMES", 
+                "arm_group_type": "Experimental", 
+                "description": "In addition to best medical therapy, subjects will receive bilateral neuromuscular stimulation of their legs, 4 hours per day."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The investigators wish to investigate the effects of neuromuscular stimulation on\n      intermittent claudication."
+        }, 
+        "brief_title": "Electrical Stimulation in Peripheral Arterial Disease", 
+        "condition": "Peripheral Arterial Disease", 
+        "condition_browse": {
+            "mesh_term": [
+                "Peripheral Arterial Disease", 
+                "Peripheral Vascular Diseases"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Clinical diagnosis of stable intermittent claudication (>6 months) with confirmation\n             by medical imaging\n\n          -  ABPI<0.9\n\n          -  Absolute walking distance <500m\n\n        Exclusion Criteria:\n\n          -  Pregnancy\n\n          -  Cardiac pacemaker\n\n          -  Previous lower limb major amputation"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "40", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "May 9, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02136537", 
+            "org_study_id": "14/LO/0854", 
+            "secondary_id": "14HH2054"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Best medical therapy plus NMES", 
+                "description": "Stimulation with the geko(TM) device, Firstkind Ltd, UK. 4 hours per day, bilateral, applied to the skin overlying the common peroneal nerve", 
+                "intervention_name": "Bilateral NMES legs", 
+                "intervention_type": "Device"
+            }, 
+            {
+                "arm_group_label": [
+                    "Best medical therapy", 
+                    "Best medical therapy plus NMES"
+                ], 
+                "description": "Treated according to local NHS protocol. At Imperial College Healthcare Trust, this will include diagnostic tests (medical interview and examination, ultrasound of blood vessels, diagnostic treadmill test, blood tests and Xrays as appropriate). This also includes lifestyle advice, treatment with appropriate drugs such as aspirin and statins, and supervised exercise.", 
+                "intervention_name": "Best medical therapy", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "May 12, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "London", 
+                    "country": "United Kingdom"
+                }, 
+                "name": "Charing Cross Hospital"
+            }, 
+            "investigator": {
+                "last_name": "Katherine Williams, MBBS", 
+                "role": "Sub-Investigator"
+            }, 
+            "status": "Not yet recruiting"
+        }, 
+        "location_countries": {
+            "country": "United Kingdom"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Electrical Stimulation in Peripheral Arterial Disease", 
+        "overall_contact": {
+            "email": "k.williams@imperial.ac.uk", 
+            "last_name": "Katherine Williams, MBBS"
+        }, 
+        "overall_official": {
+            "affiliation": "Imperial College London", 
+            "last_name": "AH Davies", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Not yet recruiting", 
+        "oversight_info": {
+            "authority": "United Kingdom: Research Ethics Committee", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "December 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Treadmill test (2mph, 0% grade increased by 3.5% every 3 minutes to a maximum of 15%", 
+            "measure": "Absolute walking distance", 
+            "safety_issue": "No", 
+            "time_frame": "6 weeks"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02136537"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "description": "Treadmill test (as per absolute walking distance)", 
+            "measure": "Claudication distance", 
+            "safety_issue": "No", 
+            "time_frame": "6 weeks"
+        }, 
+        "source": "Imperial College London", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Imperial College London", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "August 2014", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2014"
+    }
+}

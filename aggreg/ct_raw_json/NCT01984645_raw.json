@@ -1,0 +1,142 @@
+{
+    "clinical_study": {
+        "@rank": "77294", 
+        "acronym": "PIANO", 
+        "arm_group": [
+            {
+                "arm_group_label": "Notification", 
+                "arm_group_type": "Experimental", 
+                "description": "Providers in this arm will receive a secure online notification whenever their patients are visited in the emergency department or admitted as an inpatient."
+            }, 
+            {
+                "arm_group_label": "No intervention", 
+                "arm_group_type": "No Intervention", 
+                "description": "Providers in this arm will not get a secure online notification about their patient's visit to the emergency department or inpatient admission."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "New York-Presbyterian Hospital has created a system that notifies its primary care providers\n      whenever their patients are admitted to the hospital. In this study, the investigators want\n      to evaluate how accurate this system is and how it is affecting the primary providers and\n      their health care delivery.\n\n      The investigators will interview the participating providers to understand if they were\n      aware of the admission of their patients, and how they want to get involved in the care of\n      that patient while he/she is in hospital. The investigators will also look at the data in\n      the Electronic Health Record system to understand how providers are acting in response to\n      the notifications."
+        }, 
+        "brief_title": "Primary-care-provider Identification And Notification", 
+        "completion_date": {
+            "#text": "March 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Inpatient or Emergency Visit", 
+        "condition_browse": {
+            "mesh_term": "Emergencies"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Primary Care Provider at the New York Presbyterian.\n\n        Exclusion Criteria:\n\n          -  No clinic rotation during the study period"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "100", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "October 30, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01984645", 
+            "org_study_id": "AAAK1805"
+        }, 
+        "intervention": {
+            "arm_group_label": "Notification", 
+            "description": "Providers in the intervention group will receive a secure electronic notification when their patients are visited in the emergency department or admitted as an inpatient.", 
+            "intervention_name": "Notification", 
+            "intervention_type": "Other"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Emergency Visit", 
+            "Secure Health messaging", 
+            "Inpatient"
+        ], 
+        "lastchanged_date": "November 7, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "New York", 
+                    "country": "United States", 
+                    "state": "New York", 
+                    "zip": "10032"
+                }, 
+                "name": "Columbia University Medical Center"
+            }, 
+            "investigator": {
+                "last_name": "David K Vawdrey, PhD", 
+                "role": "Principal Investigator"
+            }, 
+            "status": "Not yet recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Identifying Primary Care Providers and Notifying Them Upon Admission of Their Patients to New York-Presbyterian Hospital", 
+        "other_outcome": {
+            "description": "The investigators will compare the rate of readmission for patients associated with providers in the two arms of the study, to assess if provider's notification about their patient's visit to the emergency department has any effect on rate of readmission.", 
+            "measure": "Rate of readmission to inpatient setting", 
+            "safety_issue": "No", 
+            "time_frame": "1 year"
+        }, 
+        "overall_contact": {
+            "last_name": "David K Vawdrey, PhD", 
+            "phone": "(212) 305-9801"
+        }, 
+        "overall_official": {
+            "affiliation": "Columbia University", 
+            "last_name": "David K Vawdrey, PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Not yet recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "September 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "The investigators will measure the time from each patient's discharge until their first follow-up visit in the outpatient setting. The investigators hypothesize that the automated notification will result is earlier post-discharge followups.", 
+            "measure": "Duration until first post-discharge outpatient visit", 
+            "safety_issue": "No", 
+            "time_frame": "1 year"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01984645"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Columbia University", 
+            "investigator_full_name": "David Vawdrey", 
+            "investigator_title": "Assistant Professor of Biomedical Informatics", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": {
+            "description": "Once a primary care provider is notified about their patient's admission via a secure health message (SHM), the investigators will measure number of such SHMs that are read within 24 hours and within 7 days", 
+            "measure": "Number of secure health messages (SHMs)", 
+            "safety_issue": "No", 
+            "time_frame": "1-7 days after each admission"
+        }, 
+        "source": "Columbia University", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Columbia University", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "November 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Crossover Assignment, Masking: Open Label, Primary Purpose: Health Services Research", 
+        "study_type": "Interventional", 
+        "verification_date": "November 2013"
+    }
+}

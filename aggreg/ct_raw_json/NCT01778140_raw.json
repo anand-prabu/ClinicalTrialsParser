@@ -1,0 +1,143 @@
+{
+    "clinical_study": {
+        "@rank": "68714", 
+        "arm_group": [
+            {
+                "arm_group_label": "Patient-specific reminder", 
+                "arm_group_type": "Experimental", 
+                "description": "Intervention: Patient-specific computerized reminder. The physicians assigned to this arm will use the patient-specific CDSS on CPOE. The patient-specific reminder is designed as a real-time CDSS implemented on CPOE to monitor physician's contrast-enhanced image study orders. Computerized pop-up reminders provide the patient-specific CIN risk profile and optimal decision options which are generated when patients with high risk or with unknown risk of CIN are encountered."
+            }, 
+            {
+                "arm_group_label": "Non-patient-specific reminder", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Intervention: Non-patient-specific Computerized reminder. The physicians assigned to this arm will use the Non-patient-specific reminders through CPOE. Non-patient-specific reminders always pops up to remind physicians to check their patient's CIN risk no matter what CIN risk is."
+            }, 
+            {
+                "arm_group_label": "Control Arm", 
+                "arm_group_type": "No Intervention", 
+                "description": "The physicians assigned to this arm will not use and any computerized reminder."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The investigators hypothesize that a Clinical Decision Support System (CDSS) designed with\n      \"Patient-Specific\" reminders yields superior performance than that with\n      \"Non-patient-specific\" reminders in preventing contrast-induced nephropathy."
+        }, 
+        "brief_title": "Comparing Effects of Patient-specific Versus Non-patient-specific Computerized Reminder System", 
+        "completion_date": {
+            "#text": "August 2013", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Radiographic Contrast Agent Nephropathy", 
+        "condition_browse": {
+            "mesh_term": "Kidney Diseases"
+        }, 
+        "detailed_description": {
+            "textblock": "We hypothesize that a clinical decision support system (CDSS) designed with\n      \"Patient-specific\" reminders yields superior performance than that with\n      \"Non-patient-specific\" reminders in preventing contrast-induced nephropathy.\n\n      A 3-arm randomized controlled trial (RCT) will be performed by cluster randomization using\n      physicians as the unit of allocation. Physicians in 3 university medical centers will be\n      randomly assigned into 1) patient-specific arm with Anti\n      Contrast-Induced-Nephropathy(Anti-CIN) reminder, 2) non-patient-specific reminder arm, and\n      3) the control arm without any reminders, respectively.\n\n      The patient-specific alert, Anti-CIN system, is designed as a real-time CDSS implementation\n      on CPOE for monitoring physician's contrast-enhanced CT and IVP orders. Computerized pop-up\n      reminders provide the patient-specific encounters with optimal decision options when\n      patients are at a high CIN risk or patients with unknown risk factors are encountered.\n      Non-patient-specific reminders always pop up no matter whether the patient is at a high risk\n      or not."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Our intervention targets are physicians but not patients. All physicians working in\n             the hospital may join this trial.\n\n        Exclusion Criteria:\n\n          -  The physician who never orders a CT scan or IVU study will be excluded\n\n          -  The physician who never operates the CPOE by himself or herself will be excluded"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "70 Years", 
+            "minimum_age": "25 Years"
+        }, 
+        "enrollment": {
+            "#text": "90", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "December 26, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01778140", 
+            "org_study_id": "NSC100-2320-B-038-034"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Patient-specific reminder", 
+                "description": "The intervention targets are physicians,not patients. This CDSS alerts physicians only when the patient with high risk of contrast-induced-nephropathy(CIN) is encountered. On the contrast, the CDSS will not alert when the patient without CIN risk is encountered.", 
+                "intervention_name": "Patient-specific computerized reminder", 
+                "intervention_type": "Other", 
+                "other_name": "Patient-specific CDSS"
+            }, 
+            {
+                "arm_group_label": "Non-patient-specific reminder", 
+                "description": "The non-patient-specific computerized reminder always pops up to remind physicians to check their patient's CIN risk no matter what CIN risk is.", 
+                "intervention_name": "Non-patient-specific computerized reminder", 
+                "intervention_type": "Other", 
+                "other_name": "Non-patient-specific CDSS"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Clinical Decision Support Systems", 
+            "Contrast-induced nephropathy"
+        ], 
+        "lastchanged_date": "February 5, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Taipei", 
+                    "country": "Taiwan", 
+                    "zip": "110"
+                }, 
+                "name": "Taipei medical university hospital"
+            }
+        }, 
+        "location_countries": {
+            "country": "Taiwan"
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "Randomized Controlled Trial: Comparing Effects of Patient-Specific Versus Non-Patient-Specific Computerized Reminder System to Reduce Contrast-Induced Nephropathy", 
+        "overall_official": {
+            "affiliation": "Taipei Medical University", 
+            "last_name": "Yu-Chuan Li", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "Taiwan: Department of Health", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "July 2013", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "The number of CEI ordered for patients at high CIN risk, divided by the total number of CEI orders. [CEI]: contrast-enhanced image studies,such as CT or IVU. [CIN]: contrast-induced nephropathy", 
+            "measure": "The percentage of contrast-enhanced imaging(CEI) orders with high CIN risk", 
+            "safety_issue": "Yes", 
+            "time_frame": "Physicains who participated in this trial will be followed for an expected average of 12 months"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01778140"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "description": "The number of CEI orders with high CIN risk cancelled by the physician attributed to our computerized reminder, divided by the total number of CEI orders with high CIN risk.", 
+            "measure": "The order elimination rate of high CIN risk orders attributed to the computerized reminder", 
+            "safety_issue": "Yes", 
+            "time_frame": "Physicains who participated in this trial will be followed for an expected average of 12 months"
+        }, 
+        "source": "Taipei Medical University", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Science Council, Taiwan", 
+                "agency_class": "Other"
+            }, 
+            "lead_sponsor": {
+                "agency": "Taipei Medical University", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2012", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Health Services Research", 
+        "study_type": "Interventional", 
+        "verification_date": "February 2013"
+    }
+}

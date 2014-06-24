@@ -1,0 +1,284 @@
+{
+    "clinical_study": {
+        "@rank": "85829", 
+        "acronym": "H2-NeuroExo", 
+        "arm_group": [
+            {
+                "arm_group_label": "Robot-assisted Rehabilitation", 
+                "arm_group_type": "Experimental", 
+                "description": "Participants will receive Robot-assisted training with the H2 lower limb powered exoskeleton. They will perform walking and other lower limb exercises (as applicable) while wearing the H2 lower limb powered exoskeleton. Training will involve 3 sessions per week for 4 weeks, each lasting about 1.5 hours."
+            }, 
+            {
+                "arm_group_label": "Supervised motor practice", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Participants in this group will perform walking and other lower limb exercises (as applicable) under the supervision of a research physical therapist. Training will be for 3 sessions per week for 4 weeks, each session lasting about 1.5 hours."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This research study will investigate the use of smart lower limb robotic exoskeleton\n      (developed by the CSIC, Spain) in rehabilitation after stroke. It will compare\n      robotic-assisted rehabilitation with supervised motor practice. Additionally, it will also\n      examine the use of noninvasive scalp electroencephalography (EEG) to learn specific brain\n      wave patterns associated with learning to walk on the powered lower limb exoskeleton. The\n      findings will be used to understand human-robot interaction and to design smart orthotic\n      devices that can be controlled by thought activity and assist those that have lost all or\n      part of their walking abilities."
+        }, 
+        "brief_title": "Human-Machine System for the H2 Lower Limb Exoskeleton", 
+        "completion_date": {
+            "#text": "July 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Stroke", 
+            "Hemiparesis"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Paresis", 
+                "Stroke"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Stroke is the leading cause of neurological disability in the United States and accounts for\n      the poor physical health and the social dysfunction evident in survivors. Gait impairment is\n      a large contributor to long-term disability and ambulatory function in daily living. Many\n      patients, however, lose the ability to walk independently, and furthermore, a large\n      proportion does not regain their normal walking speeds following a stroke. In this context,\n      newer robotic-aided therapeutic tools such as \"wearable\" lower-limb robotic exoskeletons\n      have been developed, which allow for the user to be augmented by mechanically actuated lower\n      limb joints that can either completely or partially assist movements of the lower limb\n      segments depending on the patient needs.\n\n      The H2 exoskeleton (developed by Technaid S.L., Spain) is an example of one such system that\n      has hip, knee and ankle joints actuated for both lower limbs. These devices are very new,\n      and therefore, systematic investigations of therapeutic benefits of these devices are\n      lacking in the field. Further, the nature of plasticity in the brain triggered by wearing\n      and training such exoskeletons is unknown. In this exploratory research study, the\n      investigators aim to compare robotic-assisted rehabilitation using the H2 exoskeleton with\n      supervised motor practice particularly in terms of functional recovery. Additionally, this\n      study will also examine brain plasticity associated with robotic-assisted training using\n      non-invasive scalp electroencephalography (EEG) and changes in lower limb joint kinematics\n      during robotic-assisted training. Taken together, the findings from this research will be\n      used to understand human-robot interaction and to design smart powered orthotic devices that\n      can be controlled directly by brain activity and assist those that have lost all or part of\n      their walking abilities due to neurological disease or injury. Moreover, this study will\n      systematically track neuroplasticity associated with functional recovery after stroke, which\n      will help determine optimal windows for treatment that would maximize therapeutic benefit.\n      Lastly, it will also help characterize markers of learning to use these new devices, which\n      will be important in the clinical setting for modifying and adapting rehabilitation\n      protocols to suit changing needs of the patient (user)."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Sub-acute or chronic stroke i.e., interval of at least 3 months or interval of at\n             least 6 months from stroke to time of enrollment, respectively;\n\n          -  Cognitive ability to assimilate and participate actively in the treatment protocol\n             (Mini Mental State Examination score > 24 points, out of a total 30 indicating normal\n             cognitive ability);\n\n          -  Modified Rankin scale scores 2-4 (Mild-Moderate functional disability post-stroke);\n\n          -  Modified Ashworth Scale of Spasticity score <= 2 (ranges from 0-4 with 4 reflecting\n             maximum spasticity);\n\n          -  Have no skin integrity issues;\n\n          -  Sufficient passive range of motion at the hip (at least 90 deg flexion, 15-20 deg\n             extension), knee (90 deg flexion, complete extension) and ankle (15 deg dorsiflexion,\n             15 deg plantarflexion);\n\n          -  Have no contraindications to standing or walking; able to stand with assistive device\n             for at least 5 minutes, and able to walk with assistive device for 10 m.\n\n        Exclusion Criteria:\n\n          -  Severe cognitive and/or visual deficit;\n\n          -  Hemineglect (determined based on medical record or initial clinical assessment);\n\n          -  Severe sensory deficit;\n\n          -  Joint contractures of any extremity that limits normal range of motion during\n             ambulation with assistive devices;\n\n          -  Skin lesions that may hinder or prevent the application of exoskeleton;\n\n          -  Uncontrolled angina;\n\n          -  Severe chronic obstructive pulmonary disease;\n\n          -  Other medical contraindications; any medical co-morbidities that would prevent\n             standard rehabilitation.\n\n        Inclusion criteria for healthy, able-bodied participants:\n\n          -  Able to understand and sign the consent form\n\n          -  Age 18-80 years\n\n        Exclusion criteria for healthy, able-bodied participants:\n\n        - History of neurological, neuromuscular or physical disability."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "80 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "60", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "April 8, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02114450", 
+            "org_study_id": "14107", 
+            "secondary_id": "HSC-MS-14-0129"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Robot-assisted Rehabilitation", 
+                "description": "The H2 is a powered, robotic lower limb exoskeleton with actuated hips, knees and ankles. A custom control algorithm has been implemented in this device, which allows for provision of assistance to lower limb segments during movement, dependent on user needs.", 
+                "intervention_name": "Robot-assisted training with the H2 lower limb powered exoskeleton", 
+                "intervention_type": "Behavioral"
+            }, 
+            {
+                "arm_group_label": "Supervised motor practice", 
+                "description": "Supervised motor practice involves lower limb rehabilitation, primarily walking and other applicable lower limb exercises performed by participants under the guidance and supervision of a research physical therapist.", 
+                "intervention_name": "Supervised motor practice", 
+                "intervention_type": "Behavioral"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Stroke", 
+            "Paresis", 
+            "Gait rehabilitation", 
+            "Human-Machine Interaction", 
+            "Wearable Robotic Devices"
+        ], 
+        "lastchanged_date": "April 10, 2014", 
+        "link": [
+            {
+                "description": "University of Houston Brain-Machine Interface System Team (Dr.Contreras-Vidal, UH)", 
+                "url": "http://www.facebook.com/UHBMIST"
+            }, 
+            {
+                "description": "The UTHealth Motor Recovery Lab at TIRR Memorial Hermann Hospital (Dr.Francisco, UTHealth)", 
+                "url": "http://www.uth.tmc.edu/schools/med/phymed/research/?src=d1"
+            }
+        ], 
+        "location": [
+            {
+                "contact": {
+                    "email": "jlcontreras-vidal@uh.edu", 
+                    "last_name": "Jose L Contreras-Vidal, PhD", 
+                    "phone": "713-743-4429"
+                }, 
+                "contact_backup": {
+                    "email": "avenkatakrishnan@uh.edu", 
+                    "last_name": "Anusha Venkatakrishnan, PT, PhD", 
+                    "phone": "713-743-0796"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77204"
+                    }, 
+                    "name": "University of Houston"
+                }, 
+                "investigator": [
+                    {
+                        "last_name": "Jose L Contreras-Vidal, PhD", 
+                        "role": "Principal Investigator"
+                    }, 
+                    {
+                        "last_name": "Anusha Venkatakrishnan, PT, PhD", 
+                        "role": "Sub-Investigator"
+                    }
+                ], 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "gerard.e.francisco@uth.tmc.edu", 
+                    "last_name": "Gerard E Francisco, MD", 
+                    "phone": "713-797-5244"
+                }, 
+                "contact_backup": {
+                    "email": "Shuo-Hsiu.Chang@uth.tmc.edu", 
+                    "last_name": "Shuo-Hsiu Chang, PT, PhD", 
+                    "phone": "713-799-7016"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77056"
+                    }, 
+                    "name": "TIRR Memorial Hermann Hospital"
+                }, 
+                "investigator": [
+                    {
+                        "last_name": "Gerard E Francisco, MD", 
+                        "role": "Principal Investigator"
+                    }, 
+                    {
+                        "last_name": "Shuo-Hsiu Chang, PT, PhD", 
+                        "role": "Sub-Investigator"
+                    }
+                ], 
+                "status": "Not yet recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Human Machine Interface System With the H2 Lower Limb Exoskeleton for Rehabilitation", 
+        "overall_contact": {
+            "email": "jlcontreras-vidal@UH.EDU", 
+            "last_name": "Jose L Contreras-Vidal, PhD", 
+            "phone": "713-743-4429"
+        }, 
+        "overall_contact_backup": {
+            "email": "avenkatakrishnan@uh.edu", 
+            "last_name": "Anusha Venkatakrishnan, PT, PhD", 
+            "phone": "713-743-0796"
+        }, 
+        "overall_official": [
+            {
+                "affiliation": "University of Houston", 
+                "last_name": "Jose L Contreras-Vidal, PhD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "TIRR Memorial Hermann Hospital", 
+                "last_name": "Gerard E Francisco, MD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Spanish Research Council", 
+                "last_name": "Jose L Pons, PhD", 
+                "role": "Principal Investigator"
+            }
+        ], 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "July 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "This test evaluates and measures recovery in post-stroke hemiplegic patients, used in both clinical and research settings and is one of the most widely used quantitative measures of motor impairment. It uses an ordinal scale for scoring of 17 items for the lower limb component and 7 items on the Balance component of the F-M scale (0;con not perform; 1:can perform partially; 2:can perform fully). The total score ranges from 0 to 34, with higher scores representing better function.", 
+                "measure": "Change from baseline in Fugl-Meyer Assessment - Lower Extremity Motor Function", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline, Post-Intervention (within a week of completion), Follow-up at 2 weeks, Follow-up at 2 months"
+            }, 
+            {
+                "description": "This scale assesses postural stability during various walking tasks using a 10-item test with each item scored from 0 to 3 (0 = severe impairment and 3 = normal ambulation). This test has high criterion validity to assess functional status in stroke patients, and has been shown to be responsive to measure change.", 
+                "measure": "Change from baseline in Functional Gait Assessment", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline, Post-Intervention (within a week of completion), Follow-up at 2 weeks, Follow-up at 2 months"
+            }, 
+            {
+                "description": "Lower limb joint kinematics (bilateral hip, knee and ankle joints) will be assessed through surface motion sensors placed on the skin during walking. This assessment will help study and characterize subtle changes in lower limb kinematics pre- and post-intervention.", 
+                "measure": "Change from baseline in Lower limb joint kinematics during walking", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline, Post-Intervention (within a week of completion), Follow-up at 2 weeks, Follow-up at 2 months"
+            }, 
+            {
+                "description": "Time and frequency domain analysis will be performed on scalp EEG signals to characterize changes in cortical dynamics, specifically in gait initiation and sensory-motor cortical networks. Additionally, we will also evaluate the extent to which lower limb kinematics during gait can be reconstructed from scalp EEG of the user. This will be used to evaluate the neural basis of changes in lower limb joint motion as well as develop EEG-based brain-machine interfaces to robotic exoskeletons.", 
+                "measure": "Change in cortical dynamics measured by Electroencephalography (EEG)", 
+                "safety_issue": "No", 
+                "time_frame": "Each Experimental/Training Session (12 visits) over the 4 week training period"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02114450"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University of Houston", 
+            "investigator_full_name": "Jose L.Contreras-Vidal", 
+            "investigator_title": "Hugh Roy and Lillie Cranz Cullen University Professor", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "The amount of assistance provided by robotic joint motors will be monitored across treatment sessions. This will help better understand human-robotic interaction while walking with the H2, and also help characterize changes in human adaptation while using the device.", 
+                "measure": "Change in robotic measure of performance measured by the H2", 
+                "safety_issue": "No", 
+                "time_frame": "Each Experimental/Training Session (12 visits) over the 4 week training period"
+            }, 
+            {
+                "description": "A 14-item objective measure designed to assess static balance and fall risk in adult populations, with maximum summed score of 56 (higher scores represent better functional outcome). This test has been widely used to measure functional recovery in stroke patients with high reliability.", 
+                "measure": "Change from baseline in Berg Balance Scale score", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline, Post-Intervention (within a week of completion), Follow-up at 2 weeks, Follow-up at 2 months"
+            }, 
+            {
+                "description": "This test assesses distance walked over 6 minutes as a sub-maximal test of aerobic capacity/endurance. It has good responsiveness to detect improvements in capacity to walk in stroke patients.", 
+                "measure": "Change from baseline in distance walked during the 6-minute walk test", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline, Post-Intervention (within a week of completion), Follow-up at 2 weeks, Follow-up at 2 months"
+            }, 
+            {
+                "description": "This test assesses mobility, balance, walking ability, and fall risk in older adults. Scores range from 1 to 5 based on the observer's perception of the patient's risk of falling. This test has been used in assessing stroke recovery with high reliability and validity.", 
+                "measure": "Change from baseline in Timed Up and Go Test score", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline, Post-Intervention (within a week of completion), Follow-up at 2 weeks, Follow-up at 2 months"
+            }
+        ], 
+        "source": "University of Houston", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "The University of Texas Health Science Center, Houston", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "TIRR Memorial Hermann", 
+                    "agency_class": "Other"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "University of Houston", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "March 2014", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Single Blind (Outcomes Assessor), Primary Purpose: Basic Science", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2014"
+    }
+}

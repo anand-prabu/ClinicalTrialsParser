@@ -1,0 +1,689 @@
+{
+    "clinical_study": {
+        "@rank": "58557", 
+        "arm_group": [
+            {
+                "arm_group_label": "eRapid Nebulizer", 
+                "arm_group_type": "Experimental", 
+                "description": "Dornase alfa (Pulmozyme\u00ae) inhaled once daily by the Pari eRapid nebulizer for 2 weeks."
+            }, 
+            {
+                "arm_group_label": "Jet Nebulizer", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Dornase alfa (Pulmozyme\u00ae) inhaled once daily by the Pari LC Plus jet nebulizer for 2 weeks."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This phase IV, multicenter, randomized, open-label, two-period crossover study will evaluate\n      the comparable efficacy and safety of Pulmozyme (dornase alfa) delivered by the eRapid\n      nebulizer system in patients with cystic fibrosis. Patients who have been receiving\n      Pulmozyme once daily chronically for at least 6 months will continue to receive Pulmozyme\n      once daily for a run-in period of 2 weeks using the Pari LC Plus nebulizer. Patients will\n      then be randomized to receive in a crossover design Pulmozyme once daily for two treatment\n      periods of 2 weeks each using either the Pari LC Plus or the eRapid nebulizer. Anticipated\n      time on study treatment is 6 weeks."
+        }, 
+        "brief_title": "A Study of the Comparable Efficacy and Safety of Pulmozyme (Dornase Alfa) Delivered by the eRapid Nebulizer System in Patients With Cystic Fibrosis", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "B1", 
+                        "description": "All participants received dornase alfa (Pulmozyme) inhaled once daily by the Pari eRapid nebulizer or the Pari LC Plus jet nebulizer for 2 weeks in Treatment Period 1 then crossed over to use the other nebulizer in Treatment Period 2 for 2 weeks.", 
+                        "title": "All Participants"
+                    }
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "85"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@spread": "6.92", 
+                                            "@value": "13.6"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "43"
+                                            }
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "42"
+                                            }
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }
+                    ]
+                }, 
+                "population": "Baseline measures were based on the modified Intent-to-Treat (mITT) population that included all participants randomized with both baseline and endpoint Forced Expiratory Volume in 1 second (FEV1) values for both treatment periods."
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "The Study being conducted under this Agreement is part of the Overall Study. Investigator is free to publish in reputable journals or to present at professional conferences the results of the Study, but only after the first publication or presentation that involves the Overall Study. The Sponsor may request that Confidential Information be deleted and/or the publication be postponed in order to protect the Sponsor's intellectual property rights."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "99.5", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "90", 
+                                "ci_upper_limit": "102.3", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "non_inferiority": "Yes", 
+                                "non_inferiority_desc": "The ratio of the mean percent predicted FEV1 at the end of the eRapid treatment to the mean percent predicted FEV1 at the end of the LC Plus jet nebulizer treatment. The two nebulizers were considered equivalent if the 90% CI was within 80%\u2212125%.", 
+                                "param_type": "Ratio (Fieller\u2019s theorem)", 
+                                "param_value": "100.9"
+                            }
+                        }, 
+                        "description": "Spirometry was performed according to American Thoracic Society standards.  FEV1 is the amount of air that is forced out of the lungs in one second and was measured at the end of each 2-week treatment period.  The percent predicted FEV1 was calculated as: Percent predicted FEV1 =FEV1 (L) / Predicted FEV1 (L) \u00d7100.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Dornase alfa (Pulmozyme\u00ae) inhaled once daily by the Pari eRapid nebulizer for 2 weeks.", 
+                                    "title": "eRapid Nebulizer"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Pulmozyme\u00ae inhaled once daily by the Pari LC Plus jet nebulizer for 2 weeks.", 
+                                    "title": "Jet Nebulizer"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "85"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "85"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "22.1", 
+                                                        "@value": "98.1"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "20.7", 
+                                                        "@value": "97.2"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Spirometry was performed according to American Thoracic Society standards.  FEV1 is the amount of air that is forced out of the lungs in one second and was measured at the end of each 2-week treatment period.  The percent predicted FEV1 was calculated as: Percent predicted FEV1 =FEV1 (L) / Predicted FEV1 (L) \u00d7100.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Stability of Lung Function: Percent Predicted Forced Expiratory Volume in 1 Second (FEV1)", 
+                                    "units": "percent predicted"
+                                }
+                            ]
+                        }, 
+                        "population": "Modified Intent-to-Treat (mITT) population included all randomized participants with baseline and endpoint FEV1 values for both treatment periods.", 
+                        "safety_issue": "No", 
+                        "time_frame": "At the end of each 2-week treatment period", 
+                        "title": "Stability of Lung Function: Percent Predicted Forced Expiratory Volume in 1 Second (FEV1)", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "An adverse event was considered any unfavorable and unintended sign, symptom, or disease associated with the use of the study drug, whether or not considered related to the study drug. Preexisting conditions that worsened during the study and laboratory or clinical tests that resulted in a change in treatment or discontinuation from study drug were reported as adverse events.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Dornase alfa (Pulmozyme\u00ae) inhaled once daily by the Pari eRapid nebulizer for 2 weeks.", 
+                                    "title": "eRapid Nebulizer"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Pulmozyme\u00ae inhaled once daily by the Pari LC Plus jet nebulizer for 2 weeks.", 
+                                    "title": "Jet Nebulizer"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "85"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "85"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "18"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "24"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "An adverse event was considered any unfavorable and unintended sign, symptom, or disease associated with the use of the study drug, whether or not considered related to the study drug. Preexisting conditions that worsened during the study and laboratory or clinical tests that resulted in a change in treatment or discontinuation from study drug were reported as adverse events.", 
+                                    "param": "Number", 
+                                    "title": "Safety: Number of Participants With Adverse Events During Each Treatment Period", 
+                                    "units": "participants"
+                                }
+                            ]
+                        }, 
+                        "population": "Safety population included all randomized participants who received treatment.", 
+                        "safety_issue": "No", 
+                        "time_frame": "4 Weeks", 
+                        "title": "Safety: Number of Participants With Adverse Events During Each Treatment Period", 
+                        "type": "Primary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "Dornase alfa (Pulmozyme\u00ae) inhaled once daily by the Pari eRapid nebulizer for 2 weeks in Treatment Period 1 then Pulmozyme\u00ae inhaled once daily by the Pari LC Plus jet nebulizer for 2 weeks in Treatment Period 2.\n.", 
+                            "title": "eRapid Nebulizer Then Jet Nebulizer"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "Pulmozyme\u00ae inhaled once daily by the Pari LC Plus jet nebulizer for 2 weeks in Treatment Period 1 then Pulmozyme\u00ae inhaled once daily by the Pari eRapid nebulizer for 2 weeks in Treatment Period 2.", 
+                            "title": "Jet Nebulizer Then eRapid Nebulizer"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": [
+                        {
+                            "drop_withdraw_reason_list": {
+                                "drop_withdraw_reason": {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "2", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "Randomized in Error"
+                                }
+                            }, 
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "44", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "43", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "44", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "41", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "Received Treatment"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "44", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "41", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "2", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Treatment Period 1"
+                        }, 
+                        {
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "44", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "41", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "44", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "41", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Treatment Period 2"
+                        }
+                    ]
+                }, 
+                "pre_assignment_details": "Patients received dornase alfa (Pulmozyme\u00ae) by LC Plus nebulizer in the 2-week run-in period prior to randomization. A total of 86 unique patients were randomized in the study in 87 randomization events. Of the randomized patients, 85 patients completed the study in two treatment sequences.", 
+                "recruitment_details": "99 patients were enrolled. 96 unique patients entered the run-in period including 3 patients who entered the run-in period twice."
+            }, 
+            "point_of_contact": {
+                "email": "genentech@druginfo.com", 
+                "name_or_title": "Medical Communications", 
+                "organization": "Hoffman-LaRoche", 
+                "phone": "800-821-8590"
+            }
+        }, 
+        "completion_date": {
+            "#text": "June 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": "Cystic Fibrosis", 
+        "condition_browse": {
+            "mesh_term": [
+                "Cystic Fibrosis", 
+                "Fibrosis"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Male and female patients, >/= 6 years of age\n\n          -  Confirmed diagnosis of cystic fibrosis (CF)\n\n          -  Receiving Pulmozyme once daily chronically for treatment of CF for at least 6 months\n             prior to screening\n\n          -  Percent predicted FEV1 >/= 40% at screening based on the Wang (males < 18 years,\n             females < 16 years) or Hankinson (males >/= 18 years, females >/= 16 years)\n             standardized equations\n\n          -  Able to reproducibly perform spirometry testing and comply with study assessments\n\n        Exclusion Criteria:\n\n          -  An acute respiratory infection or pulmonary exacerbation within 4 weeks prior to\n             randomization\n\n          -  Initiation of any new chronic therapy (e.g. inhaled corticosteroids, inhaled oral\n             antibiotics, high-dose ibuprofen, hypertonic saline, ivacaftor) for respiratory\n             disease within 4 weeks prior to randomization\n\n          -  Changes in chest physiotherapy schedule within 4 weeks prior to randomization\n\n          -  Hospitalization within 4 weeks prior to randomization\n\n          -  Planned hospitalization during the 6-week study\n\n          -  History of organ transplantation\n\n          -  Participation in an investigational drug or device study within 30 day prior to\n             screening"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "6 Years"
+        }, 
+        "enrollment": {
+            "#text": "99", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "October 19, 2012", 
+        "firstreceived_results_date": "March 27, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01712334", 
+            "org_study_id": "ML28249"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "eRapid Nebulizer", 
+                "description": "Inhaled once daily by Pari eRapid nebulizer.", 
+                "intervention_name": "dornase alfa [Pulmozyme\u00ae]", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Jet Nebulizer", 
+                "description": "Inhaled once daily by Pari LC Plus jet nebulizer.", 
+                "intervention_name": "dornase alfa [Pulmozyme\u00ae]", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "lastchanged_date": "March 31, 2014", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Phoenix", 
+                        "country": "United States", 
+                        "state": "Arizona", 
+                        "zip": "85016"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Little Rock", 
+                        "country": "United States", 
+                        "state": "Arkansas", 
+                        "zip": "72202"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Maine", 
+                        "zip": "4102"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Boston", 
+                        "country": "United States", 
+                        "state": "Massachusetts", 
+                        "zip": "02115"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lebanon", 
+                        "country": "United States", 
+                        "state": "New Hampshire", 
+                        "zip": "03756"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Long Branch", 
+                        "country": "United States", 
+                        "state": "New Jersey", 
+                        "zip": "07740"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rochester", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14618"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Durham", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27710"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Akron", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44308"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cleveland", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "44106"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Charleston", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29425"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sioux Falls", 
+                        "country": "United States", 
+                        "state": "South Dakota", 
+                        "zip": "57104"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nashville", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37232-9119"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77030"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Salt Lake City", 
+                        "country": "United States", 
+                        "state": "Utah", 
+                        "zip": "84132"
+                    }
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98105"
+                    }
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "A Phase IV Multicenter, Randomized, Open Label, Two-Period, Crossover Study in Patients With Cystic Fibrosis to Evaluate the Comparable Efficacy and Safety of Pulmozyme Delivered by the eRapid Nebulizer System", 
+        "overall_official": {
+            "affiliation": "Genentech", 
+            "last_name": "Clinical Trials", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "Phase 4", 
+        "primary_completion_date": {
+            "#text": "June 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "Spirometry was performed according to American Thoracic Society standards.  FEV1 is the amount of air that is forced out of the lungs in one second and was measured at the end of each 2-week treatment period.  The percent predicted FEV1 was calculated as: Percent predicted FEV1 =FEV1 (L) / Predicted FEV1 (L) \u00d7100.", 
+                "measure": "Stability of Lung Function: Percent Predicted Forced Expiratory Volume in 1 Second (FEV1)", 
+                "safety_issue": "No", 
+                "time_frame": "At the end of each 2-week treatment period"
+            }, 
+            {
+                "description": "An adverse event was considered any unfavorable and unintended sign, symptom, or disease associated with the use of the study drug, whether or not considered related to the study drug. Preexisting conditions that worsened during the study and laboratory or clinical tests that resulted in a change in treatment or discontinuation from study drug were reported as adverse events.", 
+                "measure": "Safety: Number of Participants With Adverse Events During Each Treatment Period", 
+                "safety_issue": "No", 
+                "time_frame": "4 Weeks"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01712334"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Genentech", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Genentech", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "December 2012", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Crossover Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2014"
+    }
+}

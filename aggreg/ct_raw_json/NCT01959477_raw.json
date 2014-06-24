@@ -1,0 +1,373 @@
+{
+    "clinical_study": {
+        "@rank": "131190", 
+        "arm_group": {
+            "arm_group_label": "Treatment (busulfan, etoposide, cyclophosphamide, transplant)", 
+            "arm_group_type": "Experimental", 
+            "description": "Patients receive busulfan IV over 3 hours on days -9 to -6, etoposide IV continuously over 24-36 hours on days -5 and -4, and cyclophosphamide IV over 4 hours on days -3 and -2. Patients then undergo autologous stem cell transplant on day 0."
+        }, 
+        "brief_summary": {
+            "textblock": "This pilot clinical trial studies personalized dose monitoring of busulfan and combination\n      chemotherapy in treating patients with Hodgkin or non-Hodgkin lymphoma undergoing stem cell\n      transplant. Giving chemotherapy before a stem cell transplant stops the growth of cancer\n      cells by stopping them from dividing or killing them. After treatment, stem cells are\n      collected from the patient's peripheral blood or bone marrow and stored. The stem cells are\n      then returned to the patient to replace the blood-forming cells that were destroyed by the\n      chemotherapy. Monitoring the dose of busulfan may help doctors deliver the most accurate\n      dose and reduce toxicity in patients undergoing stem cell transplant."
+        }, 
+        "brief_title": "Dose Monitoring of Busulfan and Combination Chemotherapy in Hodgkin or Non-Hodgkin Lymphoma Undergoing Stem Cell Transplant", 
+        "completion_date": {
+            "#text": "December 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Adult Grade III Lymphomatoid Granulomatosis", 
+            "Adult Nasal Type Extranodal NK/T-cell Lymphoma", 
+            "Anaplastic Large Cell Lymphoma", 
+            "Angioimmunoblastic T-cell Lymphoma", 
+            "Childhood Burkitt Lymphoma", 
+            "Childhood Diffuse Large Cell Lymphoma", 
+            "Childhood Grade III Lymphomatoid Granulomatosis", 
+            "Childhood Immunoblastic Large Cell Lymphoma", 
+            "Childhood Nasal Type Extranodal NK/T-cell Lymphoma", 
+            "Contiguous Stage II Adult Burkitt Lymphoma", 
+            "Contiguous Stage II Adult Diffuse Large Cell Lymphoma", 
+            "Contiguous Stage II Adult Diffuse Mixed Cell Lymphoma", 
+            "Contiguous Stage II Adult Diffuse Small Cleaved Cell Lymphoma", 
+            "Contiguous Stage II Adult Immunoblastic Large Cell Lymphoma", 
+            "Contiguous Stage II Adult Lymphoblastic Lymphoma", 
+            "Contiguous Stage II Grade 1 Follicular Lymphoma", 
+            "Contiguous Stage II Grade 2 Follicular Lymphoma", 
+            "Contiguous Stage II Grade 3 Follicular Lymphoma", 
+            "Contiguous Stage II Mantle Cell Lymphoma", 
+            "Contiguous Stage II Marginal Zone Lymphoma", 
+            "Contiguous Stage II Small Lymphocytic Lymphoma", 
+            "Cutaneous B-cell Non-Hodgkin Lymphoma", 
+            "Extranodal Marginal Zone B-cell Lymphoma of Mucosa-associated Lymphoid Tissue", 
+            "Hepatosplenic T-cell Lymphoma", 
+            "Intraocular Lymphoma", 
+            "Nodal Marginal Zone B-cell Lymphoma", 
+            "Noncontiguous Stage II Adult Burkitt Lymphoma", 
+            "Noncontiguous Stage II Adult Diffuse Large Cell Lymphoma", 
+            "Noncontiguous Stage II Adult Diffuse Mixed Cell Lymphoma", 
+            "Noncontiguous Stage II Adult Diffuse Small Cleaved Cell Lymphoma", 
+            "Noncontiguous Stage II Adult Immunoblastic Large Cell Lymphoma", 
+            "Noncontiguous Stage II Adult Lymphoblastic Lymphoma", 
+            "Noncontiguous Stage II Grade 1 Follicular Lymphoma", 
+            "Noncontiguous Stage II Grade 2 Follicular Lymphoma", 
+            "Noncontiguous Stage II Grade 3 Follicular Lymphoma", 
+            "Noncontiguous Stage II Mantle Cell Lymphoma", 
+            "Noncontiguous Stage II Marginal Zone Lymphoma", 
+            "Noncontiguous Stage II Small Lymphocytic Lymphoma", 
+            "Noncutaneous Extranodal Lymphoma", 
+            "Peripheral T-cell Lymphoma", 
+            "Recurrent Adult Burkitt Lymphoma", 
+            "Recurrent Adult Diffuse Large Cell Lymphoma", 
+            "Recurrent Adult Diffuse Mixed Cell Lymphoma", 
+            "Recurrent Adult Diffuse Small Cleaved Cell Lymphoma", 
+            "Recurrent Adult Grade III Lymphomatoid Granulomatosis", 
+            "Recurrent Adult Hodgkin Lymphoma", 
+            "Recurrent Adult Immunoblastic Large Cell Lymphoma", 
+            "Recurrent Adult Lymphoblastic Lymphoma", 
+            "Recurrent Adult T-cell Leukemia/Lymphoma", 
+            "Recurrent Childhood Anaplastic Large Cell Lymphoma", 
+            "Recurrent Childhood Grade III Lymphomatoid Granulomatosis", 
+            "Recurrent Childhood Large Cell Lymphoma", 
+            "Recurrent Childhood Lymphoblastic Lymphoma", 
+            "Recurrent Childhood Small Noncleaved Cell Lymphoma", 
+            "Recurrent Cutaneous T-cell Non-Hodgkin Lymphoma", 
+            "Recurrent Grade 1 Follicular Lymphoma", 
+            "Recurrent Grade 2 Follicular Lymphoma", 
+            "Recurrent Grade 3 Follicular Lymphoma", 
+            "Recurrent Mantle Cell Lymphoma", 
+            "Recurrent Marginal Zone Lymphoma", 
+            "Recurrent Mycosis Fungoides/Sezary Syndrome", 
+            "Recurrent Small Lymphocytic Lymphoma", 
+            "Recurrent/Refractory Childhood Hodgkin Lymphoma", 
+            "Refractory Hairy Cell Leukemia", 
+            "Small Intestine Lymphoma", 
+            "Splenic Marginal Zone Lymphoma", 
+            "Stage I Adult Burkitt Lymphoma", 
+            "Stage I Adult Diffuse Large Cell Lymphoma", 
+            "Stage I Adult Diffuse Mixed Cell Lymphoma", 
+            "Stage I Adult Diffuse Small Cleaved Cell Lymphoma", 
+            "Stage I Adult Hodgkin Lymphoma", 
+            "Stage I Adult Immunoblastic Large Cell Lymphoma", 
+            "Stage I Adult Lymphoblastic Lymphoma", 
+            "Stage I Adult T-cell Leukemia/Lymphoma", 
+            "Stage I Childhood Anaplastic Large Cell Lymphoma", 
+            "Stage I Childhood Hodgkin Lymphoma", 
+            "Stage I Childhood Large Cell Lymphoma", 
+            "Stage I Childhood Lymphoblastic Lymphoma", 
+            "Stage I Childhood Small Noncleaved Cell Lymphoma", 
+            "Stage I Cutaneous T-cell Non-Hodgkin Lymphoma", 
+            "Stage I Grade 1 Follicular Lymphoma", 
+            "Stage I Grade 2 Follicular Lymphoma", 
+            "Stage I Grade 3 Follicular Lymphoma", 
+            "Stage I Mantle Cell Lymphoma", 
+            "Stage I Marginal Zone Lymphoma", 
+            "Stage I Small Lymphocytic Lymphoma", 
+            "Stage IA Mycosis Fungoides/Sezary Syndrome", 
+            "Stage IB Mycosis Fungoides/Sezary Syndrome", 
+            "Stage II Adult Hodgkin Lymphoma", 
+            "Stage II Adult T-cell Leukemia/Lymphoma", 
+            "Stage II Childhood Anaplastic Large Cell Lymphoma", 
+            "Stage II Childhood Hodgkin Lymphoma", 
+            "Stage II Childhood Large Cell Lymphoma", 
+            "Stage II Childhood Lymphoblastic Lymphoma", 
+            "Stage II Childhood Small Noncleaved Cell Lymphoma", 
+            "Stage II Cutaneous T-cell Non-Hodgkin Lymphoma", 
+            "Stage IIA Mycosis Fungoides/Sezary Syndrome", 
+            "Stage IIB Mycosis Fungoides/Sezary Syndrome", 
+            "Stage III Adult Burkitt Lymphoma", 
+            "Stage III Adult Diffuse Large Cell Lymphoma", 
+            "Stage III Adult Diffuse Mixed Cell Lymphoma", 
+            "Stage III Adult Diffuse Small Cleaved Cell Lymphoma", 
+            "Stage III Adult Hodgkin Lymphoma", 
+            "Stage III Adult Immunoblastic Large Cell Lymphoma", 
+            "Stage III Adult Lymphoblastic Lymphoma", 
+            "Stage III Adult T-cell Leukemia/Lymphoma", 
+            "Stage III Childhood Anaplastic Large Cell Lymphoma", 
+            "Stage III Childhood Hodgkin Lymphoma", 
+            "Stage III Childhood Large Cell Lymphoma", 
+            "Stage III Childhood Lymphoblastic Lymphoma", 
+            "Stage III Childhood Small Noncleaved Cell Lymphoma", 
+            "Stage III Cutaneous T-cell Non-Hodgkin Lymphoma", 
+            "Stage III Grade 1 Follicular Lymphoma", 
+            "Stage III Grade 2 Follicular Lymphoma", 
+            "Stage III Grade 3 Follicular Lymphoma", 
+            "Stage III Mantle Cell Lymphoma", 
+            "Stage III Marginal Zone Lymphoma", 
+            "Stage III Small Lymphocytic Lymphoma", 
+            "Stage IIIA Mycosis Fungoides/Sezary Syndrome", 
+            "Stage IIIB Mycosis Fungoides/Sezary Syndrome", 
+            "Stage IV Adult Burkitt Lymphoma", 
+            "Stage IV Adult Diffuse Large Cell Lymphoma", 
+            "Stage IV Adult Diffuse Mixed Cell Lymphoma", 
+            "Stage IV Adult Diffuse Small Cleaved Cell Lymphoma", 
+            "Stage IV Adult Hodgkin Lymphoma", 
+            "Stage IV Adult Immunoblastic Large Cell Lymphoma", 
+            "Stage IV Adult Lymphoblastic Lymphoma", 
+            "Stage IV Adult T-cell Leukemia/Lymphoma", 
+            "Stage IV Childhood Anaplastic Large Cell Lymphoma", 
+            "Stage IV Childhood Hodgkin Lymphoma", 
+            "Stage IV Childhood Large Cell Lymphoma", 
+            "Stage IV Childhood Lymphoblastic Lymphoma", 
+            "Stage IV Childhood Small Noncleaved Cell Lymphoma", 
+            "Stage IV Cutaneous T-cell Non-Hodgkin Lymphoma", 
+            "Stage IV Grade 1 Follicular Lymphoma", 
+            "Stage IV Grade 2 Follicular Lymphoma", 
+            "Stage IV Grade 3 Follicular Lymphoma", 
+            "Stage IV Mantle Cell Lymphoma", 
+            "Stage IV Marginal Zone Lymphoma", 
+            "Stage IV Small Lymphocytic Lymphoma", 
+            "Stage IVA Mycosis Fungoides/Sezary Syndrome", 
+            "Stage IVB Mycosis Fungoides/Sezary Syndrome", 
+            "T-cell Large Granular Lymphocyte Leukemia", 
+            "Testicular Lymphoma", 
+            "Waldenstr\u00f6m Macroglobulinemia"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Burkitt Lymphoma", 
+                "Hodgkin Disease", 
+                "Immunoblastic Lymphadenopathy", 
+                "Leukemia", 
+                "Leukemia, Lymphocytic, Chronic, B-Cell", 
+                "Leukemia, Hairy Cell", 
+                "Leukemia, T-Cell", 
+                "Leukemia-Lymphoma, Adult T-Cell", 
+                "Lymphoma", 
+                "Lymphoma, Follicular", 
+                "Lymphoma, Non-Hodgkin", 
+                "Lymphomatoid Granulomatosis", 
+                "Waldenstrom Macroglobulinemia", 
+                "Mycoses", 
+                "Mycosis Fungoides", 
+                "Sezary Syndrome", 
+                "Lymphoma, B-Cell", 
+                "Lymphoma, Large B-Cell, Diffuse", 
+                "Lymphoma, Large-Cell, Immunoblastic", 
+                "Precursor Cell Lymphoblastic Leukemia-Lymphoma", 
+                "Lymphoma, T-Cell", 
+                "Lymphoma, T-Cell, Cutaneous", 
+                "Lymphoma, T-Cell, Peripheral", 
+                "Lymphoma, Large-Cell, Anaplastic", 
+                "Lymphoma, B-Cell, Marginal Zone", 
+                "Lymphoma, Extranodal NK-T-Cell", 
+                "Lymphoma, Mantle-Cell", 
+                "Leukemia, Large Granular Lymphocytic"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "PRIMARY OBJECTIVES:\n\n      I. To determine the feasibility of real-time therapeutic dose monitoring (TDM) for once\n      daily intravenously (IV) busulfan administration as part of a preparative regimen for\n      patients with lymphoma undergoing autologous stem cell transplantation.\n\n      SECONDARY OBJECTIVES:\n\n      I. To compare the incidence of adverse events including mucositis, liver toxicity, seizures,\n      and pulmonary toxicity with TDM of once daily IV busulfan compared to historic controls.\n\n      II. To compare the 6-month progression-free survival (PFS), with TDM of once daily IV\n      busulfan compared to historic controls.\n\n      III. To determine the proportion of patients who would not have achieved desired busulfan\n      level with weight-based busulfan dosing and therefore required TDM.\n\n      OUTLINE:\n\n      Patients receive busulfan intravenously (IV) over 3 hours on days -9 to -6, etoposide IV\n      continuously over 24-36 hours on days -5 and -4, and cyclophosphamide IV over 4 hours on\n      days -3 and -2. Patients then undergo autologous stem cell transplant on day 0.\n\n      After completion of study treatment, patients are followed up for 6 months."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients with either Hodgkin lymphoma or non-Hodgkin lymphoma\n\n          -  Patients with a previously harvested hematopoietic stem cells while in complete or\n             partial remission, or in the case of patients with stable or refractory disease are\n             undergoing autologous transplantation because it has been recommended by their\n             treating physician as representing their best treatment option with a goal of at\n             minimum of 2 x 10^6 cluster of differentiation (CD)34+ peripheral primed stem cells\n             per kilogram of actual body weight\n\n          -  Cardiac ejection fraction >= 45% or clearance by Cleveland Clinic (CCF) physician\n\n          -  Diffusion capacity of the lung for carbon monoxide (DLCO) of >= 45% predicted or\n             clearance by CCF physician\n\n          -  Serum creatinine < 2.0 mg/dl\n\n          -  Serum bilirubin < 2.0 mg/dl\n\n          -  Females of childbearing potential must have a negative pregnancy test\n\n          -  Patients of childbearing potential must agree to use an effective birth control\n             method\n\n          -  Patient must not have any other active malignancy (or malignancy must be in remission\n             with no evidence of disease for the past 2 years) excluding nonmelanoma skin cancer\n\n          -  Patients must have had at least 17 days since their most recent cytoxic chemotherapy\n             or radiation at the time of the initiation of their preparative regimen (day -9)\n\n          -  Serum glutamic oxaloacetic transaminase (SGOT) < 2 times the normal or clearance by a\n             CCF physician\n\n          -  Patients who are human immunodeficiency virus (HIV) positive:\n\n               -  Patients must be receiving concurrent HAART therapy (highly active\n                  antiretroviral therapy)\n\n               -  CD4 count must be >= 100/mm^3\n\n               -  Viral load must be =< 10,000 copies/ml\n\n               -  Patients must not have concurrent opportunistic infections\n\n          -  There is no restriction on the number of prior chemotherapeutic regimens or radiation\n             exposure with the exception of prior autologous or allogeneic stem cell\n             transplantation\n\n          -  Eastern Cooperative Oncology Group (ECOG) performance status =< 2 at time of consent\n\n          -  Subjects must have the ability to understand and the willingness to sign a written\n             informed consent document\n\n        Exclusion Criteria:\n\n          -  Patients who have not recovered from adverse events due to agents administered more\n             than 4 weeks earlier OR\n\n               -  Prior treatment toxicities must be resolved to =< grade 1 according to National\n                  Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE)\n                  version 4.0\n\n          -  Patients with uncontrolled seizures as defined by having any seizure activity within\n             the 3 months prior to screening\n\n          -  Patients who are receiving any other investigational agents\n\n          -  Patients with untreated brain metastases should be excluded from this clinical trial\n\n          -  History of allergic reactions attributed to compounds of similar chemical or biologic\n             composition to busulfan other agents used in this study\n\n          -  Patients receiving any medications or substances that are inhibitors or inducers of\n             specify cytochrome P450 (CYP450) enzyme(s) will be eligible for the study at the\n             discretion of the consenting physician\n\n          -  Patients with uncontrolled intercurrent illness including, but not limited to ongoing\n             or active infection, symptomatic congestive heart failure, unstable angina pectoris,\n             cardiac arrhythmia, or psychiatric illness/social situations that would limit\n             compliance with study requirements\n\n          -  Pregnant or breastfeeding women are excluded from this study; breastfeeding should be\n             discontinued if the mother is treated with busulfan, cyclophosphamide, and etoposide\n\n          -  Patients who have had major surgical procedures or significant traumatic injury\n             within 28 days prior to study treatment"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "2 Years"
+        }, 
+        "enrollment": {
+            "#text": "30", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "October 8, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01959477", 
+            "org_study_id": "CASE1412", 
+            "secondary_id": [
+                "NCI-2013-01829", 
+                "CASE 1412", 
+                "P30CA043703"
+            ]
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Treatment (busulfan, etoposide, cyclophosphamide, transplant)", 
+                "description": "Given IV", 
+                "intervention_name": "busulfan", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "BSF", 
+                    "BU", 
+                    "Misulfan", 
+                    "Mitosan", 
+                    "Myeloleukon"
+                ]
+            }, 
+            {
+                "arm_group_label": "Treatment (busulfan, etoposide, cyclophosphamide, transplant)", 
+                "description": "Given IV", 
+                "intervention_name": "etoposide", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "EPEG", 
+                    "VP-16", 
+                    "VP-16-213"
+                ]
+            }, 
+            {
+                "arm_group_label": "Treatment (busulfan, etoposide, cyclophosphamide, transplant)", 
+                "description": "Given IV", 
+                "intervention_name": "cyclophosphamide", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "CPM", 
+                    "CTX", 
+                    "Cytoxan", 
+                    "Endoxan", 
+                    "Endoxana"
+                ]
+            }, 
+            {
+                "arm_group_label": "Treatment (busulfan, etoposide, cyclophosphamide, transplant)", 
+                "description": "Undergo autologous peripheral blood stem cell transplant", 
+                "intervention_name": "peripheral blood stem cell transplantation", 
+                "intervention_type": "Procedure", 
+                "other_name": [
+                    "PBPC transplantation", 
+                    "PBSC transplantation", 
+                    "peripheral blood progenitor cell transplantation", 
+                    "transplantation, peripheral blood stem cell"
+                ]
+            }, 
+            {
+                "arm_group_label": "Treatment (busulfan, etoposide, cyclophosphamide, transplant)", 
+                "description": "Undergo autologous peripheral blood stem cell transplant", 
+                "intervention_name": "autologous hematopoietic stem cell transplantation", 
+                "intervention_type": "Procedure"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Busulfan", 
+                "Cyclophosphamide", 
+                "Etoposide phosphate", 
+                "Etoposide"
+            ]
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "March 18, 2014", 
+        "location": {
+            "contact": {
+                "email": "hillb2@ccf.org", 
+                "last_name": "Brian T. Hill, MD", 
+                "phone": "216-445-9451"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Cleveland", 
+                    "country": "United States", 
+                    "state": "Ohio", 
+                    "zip": "44195"
+                }, 
+                "name": "Cleveland Clinic Taussig Cancer Institute, Case Comprehensive Cancer Center"
+            }, 
+            "investigator": {
+                "last_name": "Brian T. Hill", 
+                "role": "Principal Investigator"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Personalized Monitoring of Intravenous Busulfan Dosing for Patients With Lymphoma Undergoing Autologous Stem Cell Transplantation.", 
+        "overall_official": {
+            "affiliation": "Case Comprehensive Cancer Center", 
+            "last_name": "Brian Hill, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 0", 
+        "primary_completion_date": {
+            "#text": "December 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "Feasibility of performing real-time TDM, determined by the proportion of enrolled patients who are able to have an area under curve (AUC) for busulfan calculated", 
+            "safety_issue": "No", 
+            "time_frame": "Up to day -6"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01959477"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Incidence of adverse events will be compared to historic controls. For comparison, categorical variables will be summarized as frequency counts and percentages and compared between historical controls that were treated with weight-based busulfan with those enrolled as part of the clinical trial who receive busulfan TDM. Continuous variables will be summarized as the mean, standard deviation, median, and range and compared using the Wilcoxon rank sum test.", 
+                "measure": "Incidence of adverse events including mucositis, liver toxicity, seizures, and pulmonary toxicity, graded using NCI CTCAE version 4.0", 
+                "safety_issue": "Yes", 
+                "time_frame": "Up to 100 days after treatment"
+            }, 
+            {
+                "measure": "Proportion of patients who would not have achieved desired busulfan level with weight-based busulfan dosing", 
+                "safety_issue": "No", 
+                "time_frame": "Up to day -6"
+            }
+        ], 
+        "source": "Case Comprehensive Cancer Center", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Case Comprehensive Cancer Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "March 2014", 
+        "study_design": "Endpoint Classification: Pharmacokinetics Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2014"
+    }
+}

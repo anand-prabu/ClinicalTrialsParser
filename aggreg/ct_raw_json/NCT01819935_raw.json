@@ -1,0 +1,1117 @@
+{
+    "clinical_study": {
+        "@rank": "60336", 
+        "arm_group": [
+            {
+                "arm_group_label": "linezolid (Zyvox)"
+            }, 
+            {
+                "arm_group_label": "Vancomycin"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of this non-interventional, retrospective study of existing data is to evaluate\n      clinical outcomes related to Methicillin-resistant Staphylococcus aureus hospital based\n      pneumonia by treatment and among subpopulations."
+        }, 
+        "brief_title": "Clinical Outcomes of Methicillin Resistant Staphylococcus Aureus (MRSA) Hospital-Based Pneumonia", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "Participants who were admitted to veterans affairs hospitals between 1 January 2001 and 30 September 2010 (3559 days) with an international classification of diseases \u2013 revision 9 (ICD-9) code for methicillin-resistant staphylococcus aureus (MRSA) and pneumonia, who had initiated and received at least 3 days of continuous intravenous or oral linezolid therapy in the hospital, were analyzed retrospectively.", 
+                            "title": "Linezolid"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "Participants who were admitted to veterans affairs hospitals between 1 January 2001 and 30 September 2010 (3559 days) with an ICD-9 code for MRSA and pneumonia, who had initiated and received at least 3 days of continuous intravenous vancomycin therapy in the hospital, were analyzed retrospectively.", 
+                            "title": "Vancomycin"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "328"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "4943"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "5271"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@spread": "12.5", 
+                                                "@value": "69.1"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@spread": "12.7", 
+                                                "@value": "69.1"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@spread": "12.7", 
+                                                "@value": "69.1"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "5"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "99"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "104"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "323"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "4844"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "5167"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }
+                    ]
+                }, 
+                "population": "Full analysis set (FAS) included all participants who were admitted to veterans affairs hospitals between 1 January 2001 and 30 September 2010 (3559 days) with an ICD-9 code for MRSA and pneumonia."
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "Pfizer has the right to review disclosures, requesting a delay of less than 60 days. Investigator will postpone single center publications until after disclosure of pooled data (all sites), less than 12 months from study completion/termination at all participating sites. Investigator may not disclose previously undisclosed confidential information other than study results."
+            }, 
+            "limitations_and_caveats": "Results for 'time to intubation' was reported and not  'time to extubation' due to change in planned analysis.", 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "0.72", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "1.20", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Propensity Cox proportional hazards regression model was used.", 
+                                "non_inferiority": "No", 
+                                "param_type": "Hazard Ratio (HR)", 
+                                "param_value": "0.93"
+                            }
+                        }, 
+                        "description": "Time to death (all-cause mortality) occurring within 30 days of treatment initiation was reported. Mortality was assessed from admission vital status databases.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Participants who were admitted to veterans affairs hospitals between 1 January 2001 and 30 September 2010 (3559 days) with an international classification of diseases \u2013 revision 9 (ICD-9) code for methicillin-resistant staphylococcus aureus (MRSA) and pneumonia, who had initiated and received at least 3 days of continuous intravenous or oral linezolid therapy in the hospital, were analyzed retrospectively.", 
+                                    "title": "Linezolid"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Participants who were admitted to veterans affairs hospitals between 1 January 2001 and 30 September 2010 (3559 days) with an ICD-9 code for MRSA and pneumonia, who had initiated and received at least 3 days of continuous intravenous vancomycin therapy in the hospital, were analyzed retrospectively.", 
+                                    "title": "Vancomycin"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "328"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "4943"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "3", 
+                                                        "@upper_limit": "30", 
+                                                        "@value": "15"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "3", 
+                                                        "@upper_limit": "30", 
+                                                        "@value": "14"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Time to death (all-cause mortality) occurring within 30 days of treatment initiation was reported. Mortality was assessed from admission vital status databases.", 
+                                    "dispersion": "Full Range", 
+                                    "param": "Median", 
+                                    "title": "Time to 30-day Mortality", 
+                                    "units": "days"
+                                }
+                            ]
+                        }, 
+                        "population": "FAS included all participants who were admitted to veterans affairs hospitals between 1 January 2001 and 30 September 2010 (3559 days) with an ICD-9 code for MRSA and pneumonia.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Baseline (1 January 2001) up to 3559 Days (30 September 2010)", 
+                        "title": "Time to 30-day Mortality", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "0.53", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "1.05", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Propensity Cox proportional hazards regression model was used.", 
+                                "non_inferiority": "No", 
+                                "param_type": "Hazard Ratio (HR)", 
+                                "param_value": "0.75"
+                            }
+                        }, 
+                        "description": "Time to therapy change was calculated from initiation of therapy (index date) to change in therapy (event date). Therapy change was defined as the discontinuation of linezolid or vancomycin and initiation of a different agent with activity against MRSA (clindamycin, daptomycin, doxycycline, linezolid, minocycline, tigecycline, trimethoprim/sulfamethoxazole, vancomycin). As such, therapy change included switching from linezolid to vancomycin, switching from vancomycin to linezolid, or switching from either linezolid or vancomycin to another anti-MRSA antibiotic.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Participants who were admitted to veterans affairs hospitals between 1 January 2001 and 30 September 2010 (3559 days) with an international classification of diseases \u2013 revision 9 (ICD-9) code for methicillin-resistant staphylococcus aureus (MRSA) and pneumonia, who had initiated and received at least 3 days of continuous intravenous or oral linezolid therapy in the hospital, were analyzed retrospectively.", 
+                                    "title": "Linezolid"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Participants who were admitted to veterans affairs hospitals between 1 January 2001 and 30 September 2010 (3559 days) with an ICD-9 code for MRSA and pneumonia, who had initiated and received at least 3 days of continuous intravenous vancomycin therapy in the hospital, were analyzed retrospectively.", 
+                                    "title": "Vancomycin"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "328"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "4943"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "3", 
+                                                        "@upper_limit": "6", 
+                                                        "@value": "4"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "3", 
+                                                        "@upper_limit": "7", 
+                                                        "@value": "4"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Time to therapy change was calculated from initiation of therapy (index date) to change in therapy (event date). Therapy change was defined as the discontinuation of linezolid or vancomycin and initiation of a different agent with activity against MRSA (clindamycin, daptomycin, doxycycline, linezolid, minocycline, tigecycline, trimethoprim/sulfamethoxazole, vancomycin). As such, therapy change included switching from linezolid to vancomycin, switching from vancomycin to linezolid, or switching from either linezolid or vancomycin to another anti-MRSA antibiotic.", 
+                                    "dispersion": "Full Range", 
+                                    "param": "Median", 
+                                    "title": "Time to Therapy Change", 
+                                    "units": "days"
+                                }
+                            ]
+                        }, 
+                        "population": "FAS included all participants who were admitted to veterans affairs hospitals between 1 January 2001 and 30 September 2010 (3559 days) with an ICD-9 code for MRSA and pneumonia.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Baseline (1 January 2001) up to 3559 Days (30 September 2010)", 
+                        "title": "Time to Therapy Change", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "0.90", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "1.15", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Propensity Cox proportional hazards regression model was used.", 
+                                "non_inferiority": "No", 
+                                "param_type": "Hazard Ratio (HR)", 
+                                "param_value": "1.02"
+                            }
+                        }, 
+                        "description": "Time to discharge from hospital was calculated from initiation of therapy (index date) to hospital discharge (event date).", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Participants who were admitted to veterans affairs hospitals between 1 January 2001 and 30 September 2010 (3559 days) with an international classification of diseases \u2013 revision 9 (ICD-9) code for methicillin-resistant staphylococcus aureus (MRSA) and pneumonia, who had initiated and received at least 3 days of continuous intravenous or oral linezolid therapy in the hospital, were analyzed retrospectively.", 
+                                    "title": "Linezolid"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Participants who were admitted to veterans affairs hospitals between 1 January 2001 and 30 September 2010 (3559 days) with an ICD-9 code for MRSA and pneumonia, who had initiated and received at least 3 days of continuous intravenous vancomycin therapy in the hospital, were analyzed retrospectively.", 
+                                    "title": "Vancomycin"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "328"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "4943"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "24.4", 
+                                                        "@value": "19.7"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "26.5", 
+                                                        "@value": "20.3"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Time to discharge from hospital was calculated from initiation of therapy (index date) to hospital discharge (event date).", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Time to Discharge From the Hospital", 
+                                    "units": "days"
+                                }
+                            ]
+                        }, 
+                        "population": "FAS included all participants who were admitted to veterans affairs hospitals between 1 January 2001 and 30 September 2010 (3559 days) with an ICD-9 code for MRSA and pneumonia.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Baseline (1 January 2001) up to 3559 Days (30 September 2010)", 
+                        "title": "Time to Discharge From the Hospital", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "0.39", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "1.09", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Propensity Cox proportional hazards regression model was used.", 
+                                "non_inferiority": "No", 
+                                "param_type": "Hazard Ratio (HR)", 
+                                "param_value": "0.65"
+                            }
+                        }, 
+                        "description": "Time to discharge from the ICU was calculated from the initiation of therapy (index date) to the time the participant was transferred out from ICU (event date).  Transfer out of an ICU was assessed among those participants who had initiated linezolid or vancomycin therapy in the ICU.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Participants who were admitted to veterans affairs hospitals between 1 January 2001 and 30 September 2010 (3559 days) with an international classification of diseases \u2013 revision 9 (ICD-9) code for methicillin-resistant staphylococcus aureus (MRSA) and pneumonia, who had initiated and received at least 3 days of continuous intravenous or oral linezolid therapy in the hospital, were analyzed retrospectively.", 
+                                    "title": "Linezolid"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Participants who were admitted to veterans affairs hospitals between 1 January 2001 and 30 September 2010 (3559 days) with an ICD-9 code for MRSA and pneumonia, who had initiated and received at least 3 days of continuous intravenous vancomycin therapy in the hospital, were analyzed retrospectively.", 
+                                    "title": "Vancomycin"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "328"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "4943"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "1", 
+                                                        "@upper_limit": "14", 
+                                                        "@value": "2"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "1", 
+                                                        "@upper_limit": "14", 
+                                                        "@value": "4"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Time to discharge from the ICU was calculated from the initiation of therapy (index date) to the time the participant was transferred out from ICU (event date).  Transfer out of an ICU was assessed among those participants who had initiated linezolid or vancomycin therapy in the ICU.", 
+                                    "dispersion": "Full Range", 
+                                    "param": "Median", 
+                                    "title": "Time to Transfer Out From the Intensive Care Unit (ICU)", 
+                                    "units": "days"
+                                }
+                            ]
+                        }, 
+                        "population": "FAS included all participants who were admitted to veterans affairs hospitals between 1 January 2001 and 30 September 2010 (3559 days) with an ICD-9 code for MRSA and pneumonia.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Baseline (1 January 2001) up to 3559 Days (30 September 2010)", 
+                        "title": "Time to Transfer Out From the Intensive Care Unit (ICU)", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "0.68", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "1.37", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Propensity Cox proportional hazards regression model was used.", 
+                                "non_inferiority": "No", 
+                                "param_type": "Hazard Ratio (HR)", 
+                                "param_value": "0.96"
+                            }
+                        }, 
+                        "description": "Time to intubation was calculated from the initiation of therapy (index date) to intubation (event date).", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Participants who were admitted to veterans affairs hospitals between 1 January 2001 and 30 September 2010 (3559 days) with an international classification of diseases \u2013 revision 9 (ICD-9) code for methicillin-resistant staphylococcus aureus (MRSA) and pneumonia, who had initiated and received at least 3 days of continuous intravenous or oral linezolid therapy in the hospital, were analyzed retrospectively.", 
+                                    "title": "Linezolid"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Participants who were admitted to veterans affairs hospitals between 1 January 2001 and 30 September 2010 (3559 days) with an ICD-9 code for MRSA and pneumonia, who had initiated and received at least 3 days of continuous intravenous vancomycin therapy in the hospital, were analyzed retrospectively.", 
+                                    "title": "Vancomycin"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "328"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "4943"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "1", 
+                                                        "@upper_limit": "59", 
+                                                        "@value": "5"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "1", 
+                                                        "@upper_limit": "28", 
+                                                        "@value": "3"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Time to intubation was calculated from the initiation of therapy (index date) to intubation (event date).", 
+                                    "dispersion": "Full Range", 
+                                    "param": "Median", 
+                                    "title": "Time to Intubation", 
+                                    "units": "days"
+                                }
+                            ]
+                        }, 
+                        "population": "FAS included all participants who were admitted to veterans affairs hospitals between 1 January 2001 and 30 September 2010 (3559 days) with an ICD-9 code for MRSA and pneumonia.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Baseline (1 January 2001) up to 3559 Days (30 September 2010)", 
+                        "title": "Time to Intubation", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "0.68", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "1.13", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Propensity Cox proportional hazards regression model was used.", 
+                                "non_inferiority": "No", 
+                                "param_type": "Hazard Ratio (HR)", 
+                                "param_value": "0.88"
+                            }
+                        }, 
+                        "description": "Time to readmission to any veterans affairs hospital facility within 30 days after hospital discharge was reported.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Participants who were admitted to veterans affairs hospitals between 1 January 2001 and 30 September 2010 (3559 days) with an international classification of diseases \u2013 revision 9 (ICD-9) code for methicillin-resistant staphylococcus aureus (MRSA) and pneumonia, who had initiated and received at least 3 days of continuous intravenous or oral linezolid therapy in the hospital, were analyzed retrospectively.", 
+                                    "title": "Linezolid"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Participants who were admitted to veterans affairs hospitals between 1 January 2001 and 30 September 2010 (3559 days) with an ICD-9 code for MRSA and pneumonia, who had initiated and received at least 3 days of continuous intravenous vancomycin therapy in the hospital, were analyzed retrospectively.", 
+                                    "title": "Vancomycin"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "328"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "4943"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "1", 
+                                                        "@upper_limit": "30", 
+                                                        "@value": "10"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "1", 
+                                                        "@upper_limit": "30", 
+                                                        "@value": "11"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Time to readmission to any veterans affairs hospital facility within 30 days after hospital discharge was reported.", 
+                                    "dispersion": "Full Range", 
+                                    "param": "Median", 
+                                    "title": "Time to 30-day Re-admission", 
+                                    "units": "days"
+                                }
+                            ]
+                        }, 
+                        "population": "FAS included all participants who were admitted to veterans affairs hospitals between 1 January 2001 and 30 September 2010 (3559 days) with an ICD-9 code for MRSA and pneumonia.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Baseline (1 January 2001) up to 3559 Days (30 September 2010)", 
+                        "title": "Time to 30-day Re-admission", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "0.54", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "1.48", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Propensity Cox proportional hazards regression model was used.", 
+                                "non_inferiority": "No", 
+                                "param_type": "Hazard Ratio (HR)", 
+                                "param_value": "0.89"
+                            }
+                        }, 
+                        "description": "Time to MRSA re-infection was defined as readmission with MRSA infection to any veterans affairs hospital facility within 30 days after hospital discharge.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Participants who were admitted to veterans affairs hospitals between 1 January 2001 and 30 September 2010 (3559 days) with an international classification of diseases \u2013 revision 9 (ICD-9) code for methicillin-resistant staphylococcus aureus (MRSA) and pneumonia, who had initiated and received at least 3 days of continuous intravenous or oral linezolid therapy in the hospital, were analyzed retrospectively.", 
+                                    "title": "Linezolid"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Participants who were admitted to veterans affairs hospitals between 1 January 2001 and 30 September 2010 (3559 days) with an ICD-9 code for MRSA and pneumonia, who had initiated and received at least 3 days of continuous intravenous vancomycin therapy in the hospital, were analyzed retrospectively.", 
+                                    "title": "Vancomycin"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "328"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "4943"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "2", 
+                                                        "@upper_limit": "30", 
+                                                        "@value": "17"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "1", 
+                                                        "@upper_limit": "30", 
+                                                        "@value": "11"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Time to MRSA re-infection was defined as readmission with MRSA infection to any veterans affairs hospital facility within 30 days after hospital discharge.", 
+                                    "dispersion": "Full Range", 
+                                    "param": "Median", 
+                                    "title": "Time to 30-day Methicillin-Resistant Staphylococcus Aureus (MRSA) Re-infection", 
+                                    "units": "days"
+                                }
+                            ]
+                        }, 
+                        "population": "FAS included all participants who were admitted to veterans affairs hospitals between 1 January 2001 and 30 September 2010 (3559 days) with an ICD-9 code for MRSA and pneumonia.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Baseline (1 January 2001) up to 3559 Days (30 September 2010)", 
+                        "title": "Time to 30-day Methicillin-Resistant Staphylococcus Aureus (MRSA) Re-infection", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "1.06", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "95", 
+                                "ci_upper_limit": "1.45", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Propensity Cox proportional hazards regression model was used.", 
+                                "non_inferiority": "No", 
+                                "param_type": "Hazard Ratio (HR)", 
+                                "param_value": "1.24"
+                            }
+                        }, 
+                        "description": "Clinical success, a composite outcome defined as discharge from the hospital or ICU by day 14 after treatment initiation, in the absence of death, therapy change, or intubation by day 14. Percentage of participants with clinical success was reported.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Participants who were admitted to veterans affairs hospitals between 1 January 2001 and 30 September 2010 (3559 days) with an international classification of diseases \u2013 revision 9 (ICD-9) code for methicillin-resistant staphylococcus aureus (MRSA) and pneumonia, who had initiated and received at least 3 days of continuous intravenous or oral linezolid therapy in the hospital, were analyzed retrospectively.", 
+                                    "title": "Linezolid"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Participants who were admitted to veterans affairs hospitals between 1 January 2001 and 30 September 2010 (3559 days) with an ICD-9 code for MRSA and pneumonia, who had initiated and received at least 3 days of continuous intravenous vancomycin therapy in the hospital, were analyzed retrospectively.", 
+                                    "title": "Vancomycin"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "231"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "3500"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "50.9"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "46"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Clinical success, a composite outcome defined as discharge from the hospital or ICU by day 14 after treatment initiation, in the absence of death, therapy change, or intubation by day 14. Percentage of participants with clinical success was reported.", 
+                                    "param": "Number", 
+                                    "title": "Clinical Success", 
+                                    "units": "percentage of participants"
+                                }
+                            ]
+                        }, 
+                        "population": "FAS included all participants who were admitted to veterans affairs hospitals between 1 January 2001 and 30 September 2010 (3559 days) with an ICD-9 code for MRSA and pneumonia. Here, \"N\" (number of participants analyzed) signifies those participants who were evaluable for this measure.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Baseline (1 January 2001) up to 3559 Days (30 September 2010)", 
+                        "title": "Clinical Success", 
+                        "type": "Secondary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "Participants who were admitted to veterans affairs hospitals between 1 January 2001 and 30 September 2010 (3559 days) with an international classification of diseases \u2013 revision 9 (ICD-9) code for methicillin-resistant staphylococcus aureus (MRSA) and pneumonia, who had initiated and received at least 3 days of continuous intravenous or oral linezolid therapy in the hospital, were analyzed retrospectively.", 
+                            "title": "Linezolid"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "Participants who were admitted to veterans affairs hospitals between 1 January 2001 and 30 September 2010 (3559 days) with an ICD-9 code for MRSA and pneumonia, who had initiated and received at least 3 days of continuous intravenous vancomycin therapy in the hospital, were analyzed retrospectively.", 
+                            "title": "Vancomycin"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "328", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "4943", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "328", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "4943", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }
+            }, 
+            "point_of_contact": {
+                "email": "ClinicalTrials.gov_Inquiries@pfizer.com", 
+                "name_or_title": "Pfizer ClinicalTrials.gov Call Center", 
+                "organization": "Pfizer, Inc.", 
+                "phone": "1-800-718-1021"
+            }
+        }, 
+        "completion_date": {
+            "#text": "January 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": "Pneumonia", 
+        "condition_browse": {
+            "mesh_term": [
+                "Pneumonia", 
+                "Staphylococcal Infections"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "All patients meeting inclusion/exclusion criteria from inpatient database from\n      1/1/02-9/30/10."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  MRSA and pneumonia cases by ICD-9 code identification.\n\n          -  Diagnosis included during inpatient stay.\n\n          -  Treatment initiation in hospital.\n\n        Exclusion Criteria:\n\n          -  Death of discharge within 3 days of treatment initiation.\n\n          -  Exposure to other treatments with MRSA activity."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "90 Years", 
+            "minimum_age": "18 Years", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "National database of inpatient admissions between January 1, 2002 and Septmeber 30, 2010"
+            }
+        }, 
+        "enrollment": {
+            "#text": "5271", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "February 28, 2013", 
+        "firstreceived_results_date": "December 12, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01819935", 
+            "org_study_id": "A5951163"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "linezolid (Zyvox)", 
+                "description": "As prescribed-this is retrospective cohort of existing clinical data.", 
+                "intervention_name": "linezolid (Zyvox)", 
+                "intervention_type": "Drug", 
+                "other_name": "linezolid (Zyvox)"
+            }, 
+            {
+                "arm_group_label": "Vancomycin", 
+                "description": "As prescribed-this is retrospective cohort of existing clinical data.", 
+                "intervention_name": "vancomycin", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Methicillin", 
+                "Vancomycin", 
+                "Linezolid"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "keyword": [
+            "MRSA. pneumonia", 
+            "outcomes"
+        ], 
+        "lastchanged_date": "December 12, 2013", 
+        "link": {
+            "description": "To obtain contact information for a study center near you, click here.", 
+            "url": "https://trialinfoemail.pfizer.com/pages/landing.aspx?StudyID=A5951163&StudyName=Clinical%20Outcomes%20of%20Methicillin%20Resistant%20Staphylococcus%20Aureus%20%28MRSA%29%20Hospital-Based%20Pneumonia"
+        }, 
+        "number_of_groups": "2", 
+        "official_title": "Clinical Outcomes Among a National Veterans Affairs Methicillin Resistant Staphylococcus Aureus (MRSA) Pneumonia Cohort Treated With Linezolid Or Vancomycin", 
+        "overall_official": {
+            "affiliation": "Pfizer", 
+            "last_name": "Pfizer CT.gov Call Center", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "January 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Time to death (all-cause mortality) occurring within 30 days of treatment initiation was reported. Mortality was assessed from admission vital status databases.", 
+            "measure": "Time to 30-day Mortality", 
+            "safety_issue": "No", 
+            "time_frame": "Baseline (1 January 2001) up to 3559 Days (30 September 2010)"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01819935"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Time to therapy change was calculated from initiation of therapy (index date) to change in therapy (event date). Therapy change was defined as the discontinuation of linezolid or vancomycin and initiation of a different agent with activity against MRSA (clindamycin, daptomycin, doxycycline, linezolid, minocycline, tigecycline, trimethoprim/sulfamethoxazole, vancomycin). As such, therapy change included switching from linezolid to vancomycin, switching from vancomycin to linezolid, or switching from either linezolid or vancomycin to another anti-MRSA antibiotic.", 
+                "measure": "Time to Therapy Change", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline (1 January 2001) up to 3559 Days (30 September 2010)"
+            }, 
+            {
+                "description": "Time to discharge from hospital was calculated from initiation of therapy (index date) to hospital discharge (event date).", 
+                "measure": "Time to Discharge From the Hospital", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline (1 January 2001) up to 3559 Days (30 September 2010)"
+            }, 
+            {
+                "description": "Time to discharge from the ICU was calculated from the initiation of therapy (index date) to the time the participant was transferred out from ICU (event date).  Transfer out of an ICU was assessed among those participants who had initiated linezolid or vancomycin therapy in the ICU.", 
+                "measure": "Time to Transfer Out From the Intensive Care Unit (ICU)", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline (1 January 2001) up to 3559 Days (30 September 2010)"
+            }, 
+            {
+                "description": "Time to intubation was calculated from the initiation of therapy (index date) to intubation (event date).", 
+                "measure": "Time to Intubation", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline (1 January 2001) up to 3559 Days (30 September 2010)"
+            }, 
+            {
+                "description": "Time to readmission to any veterans affairs hospital facility within 30 days after hospital discharge was reported.", 
+                "measure": "Time to 30-day Re-admission", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline (1 January 2001) up to 3559 Days (30 September 2010)"
+            }, 
+            {
+                "description": "Time to MRSA re-infection was defined as readmission with MRSA infection to any veterans affairs hospital facility within 30 days after hospital discharge.", 
+                "measure": "Time to 30-day Methicillin-Resistant Staphylococcus Aureus (MRSA) Re-infection", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline (1 January 2001) up to 3559 Days (30 September 2010)"
+            }, 
+            {
+                "description": "Clinical success, a composite outcome defined as discharge from the hospital or ICU by day 14 after treatment initiation, in the absence of death, therapy change, or intubation by day 14. Percentage of participants with clinical success was reported.", 
+                "measure": "Clinical Success", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline (1 January 2001) up to 3559 Days (30 September 2010)"
+            }
+        ], 
+        "source": "Pfizer", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Pfizer", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "December 2012", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Retrospective", 
+        "study_type": "Observational", 
+        "verification_date": "December 2013"
+    }
+}

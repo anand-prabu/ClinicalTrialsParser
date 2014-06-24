@@ -1,0 +1,447 @@
+{
+    "clinical_study": {
+        "@rank": "95777", 
+        "arm_group": [
+            {
+                "arm_group_label": "Sevoflurane", 
+                "arm_group_type": "Active Comparator", 
+                "description": "administration of sevoflurane with oxygen and nitrous oxide as same ratio of 3 L/min for maintenance of general anesthesia"
+            }, 
+            {
+                "arm_group_label": "Desflurane", 
+                "arm_group_type": "Active Comparator", 
+                "description": "administration of desflurane with oxygen and nitrous oxide as same ratio of 3 L/min for maintenance of general anesthesia"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Emergence agitation is a major concern in patients undergoing orthognathic surgery. The\n      patients may experience the sense of suffocation during emergence due to nasotracheal\n      intubation and orofacial edema. Postoperative pain is also associated with emergence\n      agitation. Although there is a lot of studies about emergence agitation in children, there\n      is a few in adults, furthermore, no data about comparison of emergence agitation between\n      sevoflurane and desflurane anesthesia in adults. Therefore, the investigators would like to\n      compare the incidence and severity of emergence agitation between sevoflurane and desflurane\n      anesthesia in adults after orthognathic surgery."
+        }, 
+        "brief_title": "Comparison of Emergence Agitation Between Sevoflurane and Desflurane Anesthesia After Orthognathic Surgery", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "administration of sevoflurane with oxygen and nitrous oxide as same ratio of 3 L/min for maintenance of general anesthesia\nSevoflurane: The investigators decrease to 1 minimal alveolar concentration(MAC) of anesthetic combination of sevoflurane and nitrous oxide, and maintain end-tidal concentration of anesthetic combination at 1 MAC until the end of surgery. At the end of surgery, sevoflurane and nitrous oxide are discontinued.", 
+                            "title": "Sevoflurane"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "administration of desflurane with oxygen and nitrous oxide as same ratio of 3 L/min for maintenance of general anesthesia\nDesflurane: The investigators decrease to 1 MAC of anesthetic combination of desflurane and nitrous oxide, and maintain end-tidal concentration of anesthetic combination at 1 MAC until the end of surgery. At the end of surgery, desflurane and nitrous oxide are discontinued.", 
+                            "title": "Desflurane"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "72"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "72"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "144"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@lower_limit": "21", 
+                                                "@upper_limit": "27", 
+                                                "@value": "23"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@lower_limit": "21", 
+                                                "@upper_limit": "27", 
+                                                "@value": "23"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@lower_limit": "21", 
+                                                "@upper_limit": "27", 
+                                                "@value": "23"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Inter-Quartile Range", 
+                            "param": "Median", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "46"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "50"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "96"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "26"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "22"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "48"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "description": "The outcomes assessor will evaluate the severity of emergence agitation of participants using a four-point categorical scale. (1: calm, 2: not calm, but could be easily calmed, 3: moderately agitated or restless, 4: combative, excited, disoriented) We considered presence of emergence agitation as 3 and 4 of four-point scale.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "administration of sevoflurane with oxygen and nitrous oxide as same ratio of 3 L/min for maintenance of general anesthesia\nSevoflurane: The investigators decrease to 1 minimal alveolar concentration(MAC) of anesthetic combination of sevoflurane and nitrous oxide, and maintain end-tidal concentration of anesthetic combination at 1 MAC until the end of surgery. At the end of surgery, sevoflurane and nitrous oxide are discontinued.", 
+                                    "title": "Sevoflurane"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "administration of desflurane with oxygen and nitrous oxide as same ratio of 3 L/min for maintenance of general anesthesia\nDesflurane: The investigators decrease to 1 MAC of anesthetic combination of desflurane and nitrous oxide, and maintain end-tidal concentration of anesthetic combination at 1 MAC until the end of surgery. At the end of surgery, desflurane and nitrous oxide are discontinued.", 
+                                    "title": "Desflurane"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "72"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "72"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "51"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "17"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "The outcomes assessor will evaluate the severity of emergence agitation of participants using a four-point categorical scale. (1: calm, 2: not calm, but could be easily calmed, 3: moderately agitated or restless, 4: combative, excited, disoriented) We considered presence of emergence agitation as 3 and 4 of four-point scale.", 
+                                    "param": "Number", 
+                                    "title": "The Incidence of Emergence Agitation Using Four-point Categorical Scale", 
+                                    "units": "participants"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "Participants will be followed from the time of gas discontinuation in operating room to the time of discharge from postanesthesia care unit(PACU), an expected average of 1 hour.", 
+                        "title": "The Incidence of Emergence Agitation Using Four-point Categorical Scale", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "We will evaluate the time from gas discontinuation to extubation. We will conduct an extubation when participants can show responses such as eye opening or nodding one's head to our verbal commands.", 
+                        "safety_issue": "No", 
+                        "time_frame": "Participants will be followed from the time of gas discontinuation in operating room to the time of discharge from postanesthesia care unit(PACU), an expected average of 1 hour.", 
+                        "title": "The Time to Extubation", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "The outcomes assessor will evaluate the degree of postoperative pain using a numeric rating scale (NRS). (0 = no pain, 10 = unimaginable severe pain)", 
+                        "safety_issue": "No", 
+                        "time_frame": "Participants will be followed for the duration of postanesthesia care unit (PACU) stay, an expected average of 1 hour.", 
+                        "title": "Postoperative Pain", 
+                        "type": "Other Pre-specified"
+                    }, 
+                    {
+                        "description": "The outcomes assessor will evaluate the sense of suffocation using a numeric rating scale(NRS). (0 = no sense of suffocation, 10 = unimaginably severe sense of suffocation)", 
+                        "safety_issue": "No", 
+                        "time_frame": "Participants will be followed for the duration of postanesthesia care unit (PACU) stay, an expected average of 1 hour.", 
+                        "title": "Sense of Suffocation", 
+                        "type": "Other Pre-specified"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "administration of sevoflurane with oxygen and nitrous oxide as same ratio of 3 L/min for maintenance of general anesthesia\nSevoflurane: The investigators decrease to 1 minimal alveolar concentration(MAC) of anesthetic combination of sevoflurane and nitrous oxide, and maintain end-tidal concentration of anesthetic combination at 1 MAC until the end of surgery. At the end of surgery, sevoflurane and nitrous oxide are discontinued.", 
+                            "title": "Sevoflurane"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "administration of desflurane with oxygen and nitrous oxide as same ratio of 3 L/min for maintenance of general anesthesia\nDesflurane: The investigators decrease to 1 MAC of anesthetic combination of desflurane and nitrous oxide, and maintain end-tidal concentration of anesthetic combination at 1 MAC until the end of surgery. At the end of surgery, desflurane and nitrous oxide are discontinued.", 
+                            "title": "Desflurane"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "72", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "72", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "72", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "72", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }
+            }, 
+            "point_of_contact": {
+                "email": "nbjhwa@naver.com", 
+                "name_or_title": "Dr. Chong Wha Baek", 
+                "organization": "Chung-Ang University Hospital", 
+                "phone": "82-2-6299-2579"
+            }
+        }, 
+        "completion_date": {
+            "#text": "February 2014", 
+            "@type": "Actual"
+        }, 
+        "condition": "Emergence Agitation", 
+        "condition_browse": {
+            "mesh_term": "Psychomotor Agitation"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  American Society of Anesthesiologists(ASA) physical status classification 1 or 2\n             patients\n\n          -  patients scheduled for orthognathic surgery\n\n        Exclusion Criteria:\n\n          -  severe cardiopulmonary disease\n\n          -  psychological disease\n\n          -  patients who cannot understand Korean"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "60 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "144", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "June 12, 2013", 
+        "firstreceived_results_date": "April 4, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01878656", 
+            "org_study_id": "Chung-Ang University Hospital"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Sevoflurane", 
+                "description": "The investigators decrease to 1 minimal alveolar concentration(MAC) of anesthetic combination of sevoflurane and nitrous oxide, and maintain end-tidal concentration of anesthetic combination at 1 MAC until the end of surgery. At the end of surgery, sevoflurane and nitrous oxide are discontinued.", 
+                "intervention_name": "Sevoflurane", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Desflurane", 
+                "description": "The investigators decrease to 1 MAC of anesthetic combination of desflurane and nitrous oxide, and maintain end-tidal concentration of anesthetic combination at 1 MAC until the end of surgery. At the end of surgery, desflurane and nitrous oxide are discontinued.", 
+                "intervention_name": "Desflurane", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Nitrous Oxide", 
+                "Desflurane", 
+                "Sevoflurane"
+            ]
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "April 4, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Seoul", 
+                    "country": "Korea, Republic of", 
+                    "zip": "156-755"
+                }, 
+                "name": "Chung-Ang University Hospital"
+            }
+        }, 
+        "location_countries": {
+            "country": "Korea, Republic of"
+        }, 
+        "number_of_arms": "2", 
+        "other_outcome": [
+            {
+                "description": "The outcomes assessor will evaluate the degree of postoperative pain using a numeric rating scale (NRS). (0 = no pain, 10 = unimaginable severe pain)", 
+                "measure": "Postoperative Pain", 
+                "safety_issue": "No", 
+                "time_frame": "Participants will be followed for the duration of postanesthesia care unit (PACU) stay, an expected average of 1 hour."
+            }, 
+            {
+                "description": "The outcomes assessor will evaluate the sense of suffocation using a numeric rating scale(NRS). (0 = no sense of suffocation, 10 = unimaginably severe sense of suffocation)", 
+                "measure": "Sense of Suffocation", 
+                "safety_issue": "No", 
+                "time_frame": "Participants will be followed for the duration of postanesthesia care unit (PACU) stay, an expected average of 1 hour."
+            }
+        ], 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Korea: Institutional Review Board"
+        }, 
+        "phase": "Phase 4", 
+        "primary_completion_date": {
+            "#text": "February 2014", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "The outcomes assessor will evaluate the severity of emergence agitation of participants using a four-point categorical scale. (1: calm, 2: not calm, but could be easily calmed, 3: moderately agitated or restless, 4: combative, excited, disoriented) We considered presence of emergence agitation as 3 and 4 of four-point scale.", 
+            "measure": "The Incidence of Emergence Agitation Using Four-point Categorical Scale", 
+            "safety_issue": "No", 
+            "time_frame": "Participants will be followed from the time of gas discontinuation in operating room to the time of discharge from postanesthesia care unit(PACU), an expected average of 1 hour."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01878656"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Chung-Ang University Hospital", 
+            "investigator_full_name": "Chongwha Baek", 
+            "investigator_title": "Chongwha Baek, M.D., Ph.D.", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": {
+            "description": "We will evaluate the time from gas discontinuation to extubation. We will conduct an extubation when participants can show responses such as eye opening or nodding one's head to our verbal commands.", 
+            "measure": "The Time to Extubation", 
+            "safety_issue": "No", 
+            "time_frame": "Participants will be followed from the time of gas discontinuation in operating room to the time of discharge from postanesthesia care unit(PACU), an expected average of 1 hour."
+        }, 
+        "source": "Chung-Ang University Hospital", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Chung-Ang University Hospital", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "April 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Outcomes Assessor), Primary Purpose: Health Services Research", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2014"
+    }
+}

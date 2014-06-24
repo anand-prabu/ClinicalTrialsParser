@@ -1,0 +1,119 @@
+{
+    "clinical_study": {
+        "@rank": "72115", 
+        "brief_summary": {
+            "textblock": "In order to perform research smoothly, the process of information extraction is required for\n      translating data in clinical text into available format for analysis and statistic. In\n      medical research, the problem of missing data occurs frequently. It is important to develop\n      the method with better imputation performance in the stability and accuracy. The purposes of\n      this project are to provide the data integration and extraction methods for handling the\n      structured and unstructured data sources in more efficient ways, to provide the validation\n      scheme for facilitating the data reviewing of extracted results produced by information\n      extraction modules, to increase the quality of clinical data by comparing the data from\n      different data sources and correcting data errors and inconsistent, to handle the clinical\n      data with the properties of time series and incompleteness, to increase accuracy of data\n      analysis and increase quality of health care by improving the completeness and correctness\n      of clinical data, to provide flexibility of methods in the platform. In the project, the\n      disease topic is focused on the liver cancer patients' clinical data and we hope the methods\n      in the projects can be extended to handle other diseases by replacing these knowledge models\n      in the future."
+        }, 
+        "brief_title": "Platform for Medical Information Extraction From Incomplete Data", 
+        "completion_date": {
+            "#text": "March 2016", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Liver Cancer", 
+        "condition_browse": {
+            "mesh_term": "Liver Neoplasms"
+        }, 
+        "detailed_description": {
+            "textblock": "Because of the increasing adoption of Electronic Medical Record (EMR) systems, the data\n      access of EMR is more and more convenient. However, there still have difficulties in\n      analyzing all the clinical data directly due to a large number of records using the\n      narrative format. In order to perform research smoothly, the process of information\n      extraction is required for translating data in clinical text into available format for\n      analysis and statistic. In medical research, the problem of missing data occurs frequently.\n      It is important to develop the method with better imputation performance in the stability\n      and accuracy. The purposes of this project are to provide the data integration and\n      extraction methods for handling the structured and unstructured data sources in more\n      efficient ways, to provide the validation scheme for facilitating the data reviewing of\n      extracted results produced by information extraction modules, to increase the quality of\n      clinical data by comparing the data from different data sources and correcting data errors\n      and inconsistent, to handle the clinical data with the properties of time series and\n      incompleteness, to increase accuracy of data analysis and increase quality of health care by\n      improving the completeness and correctness of clinical data, to provide flexibility of\n      methods in the platform. In the project, the disease topic is focused on the liver cancer\n      patients' clinical data and we hope the methods in the projects can be extended to handle\n      other diseases by replacing these knowledge models in the future."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Patients with liver cancer"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "Patients with liver cancer"
+            }
+        }, 
+        "enrollment": {
+            "#text": "10000", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "March 5, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01813942", 
+            "org_study_id": "201302013RINC"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "clinical narrative report", 
+            "time series data", 
+            "missing value"
+        ], 
+        "lastchanged_date": "October 25, 2013", 
+        "location": {
+            "contact": {
+                "email": "flai@ntu.edu.tw", 
+                "last_name": "Feipei Lai", 
+                "phone": "+886-2-33664924"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Taipei", 
+                    "country": "Taiwan"
+                }, 
+                "name": "National Taiwan University Hospital"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "Taiwan"
+        }, 
+        "number_of_groups": "1", 
+        "official_title": "Platform for Medical Information Extraction From Incomplete Data", 
+        "overall_contact": {
+            "email": "flai@ntu.edu.tw", 
+            "last_name": "Feipei Lai", 
+            "phone": "+886-2-33664924"
+        }, 
+        "overall_official": {
+            "affiliation": "National Taiwan University", 
+            "last_name": "Feipei Lai", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "Taiwan: Department of Health", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "March 2016", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "The recurrence predictive model is developed using the incomplete data set, this model is used for predicting the recurrent status of patient who received the specific treatment for liver cancer. The number of patients correctly identified by recurrence predictive model is regarded as the primary outcome measure.", 
+            "measure": "The number of patients correctly identified by recurrence predictive model", 
+            "safety_issue": "No", 
+            "time_frame": "3 years"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01813942"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "National Taiwan University Hospital", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Science Council, Taiwan", 
+                "agency_class": "Other"
+            }, 
+            "lead_sponsor": {
+                "agency": "National Taiwan University Hospital", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "March 2013", 
+        "study_design": "Time Perspective: Retrospective", 
+        "study_type": "Observational", 
+        "verification_date": "October 2013"
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "clinical_study": {
+        "@rank": "107469", 
+        "arm_group": [
+            {
+                "arm_group_label": "Patients with COPD who develop severe pneumonia", 
+                "description": "Patients with COPD who develop severe pneumonia"
+            }, 
+            {
+                "arm_group_label": "Patients with COPD who do not develop severe pneumonia", 
+                "description": "Patients with COPD who do not develop severe pneumonia"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Pneumonia remains an important cause of morbidity and mortality in older adults with\n      obstructive lung disease.  Risk factors for pneumonia, including episodes associated with a\n      hospital admission, have been  extensively characterized in clinical trials and\n      observational studies of patients with COPD, and include older age, lower predicted FEV1\n      (<50%), prior COPD exacerbations,  dyspnea , normal to low body mass index (<25), current\n      smoking and certain co-morbid conditions (e.g. dementia).  The use of inhaled\n      corticosteroids (ICS) has also been identified, as associated with an increased risk of\n      pneumonia in patients with COPD.\n\n      The primary objective of this study is to estimate the magnitude of known risk factors and\n      the outcomes of pneumonia requiring hospitalization and the potential effect modification of\n      these risk factors by ICS use. The primary endpoints will be severe pneumonia, defined as\n      community-acquired pneumonia (CAP) resulting in hospitalization and/or death and\n      hospital-acquired pneumonia (HAP) diagnosed after two days in the hospital.  As a secondary\n      endpoint, CAP that did not result in hospitalization or death will be examined.  As a\n      secondary objective, we will describe characteristics for those patients who develop\n      pneumonia requiring hospitalization compared to those with pneumonia not requiring\n      admission.\n\n      This study will use the General Practice Online Database (GOLD), formerly referred to as the\n      General Practice research Database (GPRD), a primary care electronic medical record\n      database.\n\n      A new user cohort will be defined among patients with COPD who are 45 years and older in the\n      United Kingdom.  Patients will be considered a new user of ICS-containing medications if\n      they had not received a prescription for an ICS-containing medication in the prior year.\n      The comparator treatment group will be new users of long-acting bronchodilators (LABD),\n      including long-acting beta-agonists (LABA) or long-acting antimuscarinics (LAMA).  In the\n      one year washout period, all new users could not have either ICS-containing medications or\n      LABD.\n\n      Prior to conducting the analysis, feasibility analyses will be conducted to evaluate of the\n      number of pneumonia events and the number of new users separately to examine the available\n      precision based on the study design.\n\n      Patients will be followed from the date of their first eligible prescription (Cohort Entry\n      Date) until the earliest of the following: date of study end point (first pneumonia event of\n      interest), date of treatment end (up to 60-day gap allowed for each inhaler), date of\n      transfer to a new practice, date of ICS initiation (among LABD new users), death or study\n      end (end of available data).  As part of the primary analysis, patients will be examined for\n      their first severe pneumonia (severe CAP, HAP).  As a secondary analysis, time to non-severe\n      CAP will be examined.  Incidence rates of the pneumonia outcomes will be calculated as the\n      number of patients experiencing an event divided by the person-years at risk.\n\n      Multivariable analysis will be performed using Cox proportional hazard model with adjustment\n      for confounders and medication exposure.  To adjust for differences confounding by severity\n      due to differences in prescribing between ICS-containing medications and LABD, propensity\n      scores (PS) will be utilized using inverse probability of treatment weighting (IPTW).  The\n      propensity score will be estimated to model the probability of a patient receiving\n      ICS-containing medication prescription versus receiving a LABD prescription given a\n      patient's observed set of baseline covariates.\n\n      Effect modification (statistical interaction) will be evaluated based on available theory\n      and include ICS medication use by known risk factors for pneumonia (BMI<21, BMI 21-24.9, BMI\n      \u226525, age, GOLD stage III/IV, MRC dyspnea score \u22654, history of pneumonia diagnosis, current\n      smoking status, social deprivation quartiles).   Additional interactions may be evaluated.\n\n      To test proportionality of the hazard functions, model diagnostics will be performed.\n\n      To compare severe pneumonia with non-severe pneumonia in patients with COPD, characteristics\n      of patients experiencing non-severe CAP vs. severe CAP or HAP will be tabulated.  To assess\n      differences between treatments, clinical and patient characteristics will be compared using\n      the chi-square tests or Wilcoxon tests for categorical or continuous data, respectively.\n      Severe CAP and HAP may be combined.  Modeling of clinical and patient characteristics may be\n      considered using logistic regression using CAP vs. severe CAP and then with severe CAP vs.\n      HAP.\n\n      Additional analysis or adjustments to the analytic or modeling strategy will be performed if\n      the data warrants.  A more detailed modeling strategy, including generation of the\n      propensity scores and Cox modeling, will be created in a separate analysis plan.\n      Adjustments to the a priori plan will be described in the final study report."
+        }, 
+        "brief_title": "WEUSKOP6416: Evaluating Pneumonia in Chronic Obstructive Pulmonary Disease (COPD) Subjects", 
+        "completion_date": {
+            "#text": "December 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Pulmonary Disease, Chronic Obstructive", 
+        "condition_browse": {
+            "mesh_term": [
+                "Chronic Disease", 
+                "Lung Diseases", 
+                "Respiration Disorders", 
+                "Pulmonary Disease, Chronic Obstructive", 
+                "Pneumonia", 
+                "Lung Diseases, Obstructive"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Advantages of the primary care database include the ability to link to secondary care,\n      Hospital Episode Statistics (HES), and to examine risk factors for pneumonia included in the\n      UK Quality Outcomes Framework  for COPD that are not collected routinely in most other\n      observational healthcare data sources (e.g., BMI, lung function, smoking history, MRC\n      dyspnea score).  Another advantage of this study is the new-user design, as it minimizes\n      biases that can be caused by alternative designs which compare events between prevalent user\n      groups (e.g., survivor bias, covariates altered by prior exposure).\n\n      There are also known limitations of observational database analyses where treatments are not\n      randomized, including the potential for confounding by severity that may not be fully\n      accounted for in the analysis.  ICS-containing medications may be dispensed to patients who\n      have more severe COPD than patients who are receiving long-acting bronchodilators alone.  In\n      this study, we will adjust for disease severity and patient characteristics in the period\n      prior to initiation using propensity scores.  Medication use in CPRD-GOLD is based on\n      prescribed medications recorded by the primary care physician, which might not have been\n      dispensed at the pharmacy or ultimately utilized by the patient.  Finally, diagnostic\n      practices for pneumonia may be different in the UK compared with other countries limiting\n      the generalizability.\n\n      As with any outcome of interest, identifying pneumonia in databases is imperfect and there\n      may be confusion between diagnoses of pneumonia and influenza or serious exacerbation.  To\n      our knowledge, the relationship between pneumonia recorded in these primary and secondary\n      care databases have not been investigated.  In addition, there is lack of agreement between\n      pneumonia classification in the absence of chest x-rays, sputum, etc.\n\n      Despite the limitations, this study will provide insights into risk factors for serious\n      pneumonia, including whether ICS modify the effect of established risk factors for serious\n      pneumonia.  The results may identify specific patient groups that are at greatest risk of\n      serious pneumonia and may identify where risk minimization and/or medical recommendations\n      may be appropriate."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients with a Clinical Practice Research Datalink- GP OnLine Data (CPRD-GOLD) of\n             acceptable research quality\n\n          -  Patients that are new users of LABD or ICS-containing medications from January\n             2005-December 2010\n\n          -  Patients that have a COPD diagnosis at any time in the period prior to and including\n             the Cohort Entry Date (to eliminate any patients with asthma only)\n\n          -  Patients that have at least one year of data prior to Cohort Entry Date.\n\n          -  Patients that are at least 45 years of age at Cohort Entry Date.\n\n          -  Patients that have Hospital Episode Statistics (HES) linkage.\n\n          -  Patients that have HES coverage one year prior to the Cohort Entry Date\n\n        Exclusion Criteria:\n\n          -  Patients with an occurrence of a code for a medical condition incompatible with COPD\n             diagnosis any time in their history will be excluded."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "45 Years", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "Patients with COPD who are new users of ICS-containing medications or new user of LABD\n        will be included in the study if they are at least 45 years of age and have met the\n        inclusion/exclusion.  Patients will have at least one prescription for ICS-containing\n        medications or LABD from January 2005 (the earliest use) until December, 2010 preceded by\n        a year of no use of these medicines .  The one-year period of no use is referred to a\n        washout period rather than requiring no use of these medications ever in the patient's\n        history.  Patients would be required to have at least one year in their history prior to\n        new user cohort entry to establish baseline disease severity and co-morbidities that would\n        be adjusted for in the modeling."
+            }
+        }, 
+        "enrollment": {
+            "#text": "1", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "August 23, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01763463", 
+            "org_study_id": "116952", 
+            "secondary_id": "WEUSKOP6416"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Patients with COPD who develop severe pneumonia", 
+                    "Patients with COPD who do not develop severe pneumonia"
+                ], 
+                "description": "Patients will be considered a new user of ICS-containing medications if they had not received a prescription for an ICS-containing medication in the year prior to cohort entry.  ICS-containing medications could include ICS and ICS/LABA fixed dose combinations combinations.  Patients could not use LABD (long-acting beta-agonists and long-acting antimuscarinics) in the year prior or initiate triple therapy (e.g., ICS/LABA/LAMA) as their new user prescription.", 
+                "intervention_name": "New users of ADVAIR DISKUS, ADVAIR HFA (ICS) - containing medications", 
+                "intervention_type": "Drug", 
+                "other_name": "Salmeterol/Fluticasone Propionate"
+            }, 
+            {
+                "arm_group_label": [
+                    "Patients with COPD who develop severe pneumonia", 
+                    "Patients with COPD who do not develop severe pneumonia"
+                ], 
+                "description": "Patients will be considered a new user of LABD medications (long-acting beta-agonists or long-acting antimuscarinics but not both) if they had not received a prescription for an LABD medication in the year prior to cohort entry.  Patients could not use ICS-containing medications in the year prior to their new use of LABD or initiate triple therapy (e.g., ICS/LABA/LAMA) as their new user prescription.", 
+                "intervention_name": "New users of FLOVENT DISKUS, FLVENT HFA (long-acting bronchodilators (LABD))", 
+                "intervention_type": "Drug", 
+                "other_name": "Fluticasone Propionate"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Bronchodilator Agents", 
+                "Fluticasone", 
+                "Fluticasone, salmeterol drug combination"
+            ]
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "COPD", 
+            "pneumonia requiring hospitalization", 
+            "long-acting bronchodilators (LABD)", 
+            "Inhaled Corticosteroids (ICS)"
+        ], 
+        "lastchanged_date": "February 6, 2014", 
+        "number_of_groups": "2", 
+        "official_title": "WEUSKOP6416: Evaluating Serious Pneumonia in Subjects With Chronic Obstructive Pulmonary Disease (COPD) to Inform Risk Minimization: A Retrospective Observational Study", 
+        "overall_official": {
+            "affiliation": "GlaxoSmithKline", 
+            "last_name": "GSK Clinical Trials", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: No Health Authority", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "December 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "Time to first non-severe CAP will be examined following new use of ICS-containing medications or new use of LABD.  New users are followed until they have a pneumonia event or are censored for discontinuing study medication or end of follow-up.  This could be over a period of years but will be one year or less for most patients.", 
+                "measure": "Severe pneumonia: 1) Community-acquired pneumonia (CAP) resulting in hospitalization and/or death.", 
+                "safety_issue": "Yes", 
+                "time_frame": "1 year"
+            }, 
+            {
+                "measure": "2) hospital-acquired pneumonia (HAP), pneumonia diagnosed >2 days following hospital admission. These outcomes will be examined separately.", 
+                "safety_issue": "Yes", 
+                "time_frame": "1 year"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01763463"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "description": "Time to first non-severe CAP will be examined following new use of ICS-containing medications or new use of LABD.  New users are followed until they have a pneumonia event or are censored for discontinuing study medication or end of follow-up.  This could be over a period of years but will be one year or less for most patients.", 
+            "measure": "Non-severe pneumonia: CAP that did not result in hospitalization or death.", 
+            "safety_issue": "Yes", 
+            "time_frame": "1 year"
+        }, 
+        "source": "GlaxoSmithKline", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "GlaxoSmithKline", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "July 2012", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "February 2014"
+    }
+}

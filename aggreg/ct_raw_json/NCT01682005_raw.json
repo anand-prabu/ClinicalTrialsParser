@@ -1,0 +1,171 @@
+{
+    "clinical_study": {
+        "@rank": "9750", 
+        "arm_group": [
+            {
+                "arm_group_label": "Complete RV vaccination", 
+                "description": "Subjects had received 2 doses of Rotarix or 3 doses of Rotateq/mixed within the vaccination window and the observation time is from the end of the vaccination window (8 months old) to end of observation."
+            }, 
+            {
+                "arm_group_label": "Incomplete RV vaccination", 
+                "description": "Subjects received at least one vaccination but less than complete vaccination has been received within the vaccination window and the observation time from 8 months old (if still observed) to end of observation."
+            }, 
+            {
+                "arm_group_label": "Any RV vaccination before 8 months", 
+                "description": "Subjects received any vaccination within the vaccination window and the observation time from 6 weeks old to earliest of end of observation or 8 months old."
+            }, 
+            {
+                "arm_group_label": "Historical unvaccinated on/before 8 months old", 
+                "description": "Subjects did not receive any RV vaccination within the vaccination window and the observation time is from 6 weeks old (if still observed and on/before 12/31/06) to earliest of: 12/31/2006, end of observation, or 8 months old."
+            }, 
+            {
+                "arm_group_label": "Historical unvaccinated after 8 months old", 
+                "description": "Subjects did not receive any RV vaccination within the vaccination window and observation time is from 8 months old (if still observed and on/before 12/31/2006) to earliest of: 12/31/2006 or end of observation."
+            }, 
+            {
+                "arm_group_label": "Contemporary unvaccinated on/before 8 months old", 
+                "description": "Subjects did not receive any RV vaccination within the vaccination window and observation time is from 6 weeks old (if on/after 01/01/2007) to earliest of: end of observation, or 8 months old."
+            }, 
+            {
+                "arm_group_label": "Contemporary unvaccinated after 8 months old", 
+                "description": "Subjects did not receive any RV vaccination within the vaccination window observation time is from 8 months old (if on/after 01/01/2007) to end of observation."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This study aims to estimate the clinical and cost impact of RV vaccinations (both Rotateq\u00ae\n      and Rotarix\u00ae) among children aged less than 5 years using insurance claims data from\n      commercial plans and Medicaid low-income population. The impact of incomplete and complete\n      RV vaccination will also be examined, overall and stratified by age (e.g., 6 weeks to 8\n      months, 8 months and onwards ) and calendar time of RV vaccination (e.g., 2006 onward)."
+        }, 
+        "brief_title": "Study to Analyze the Clinical and Cost Impact of Complete and Incomplete Rotavirus (RV) Vaccination", 
+        "completion_date": {
+            "#text": "September 2013", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Rotavirus Vaccines", 
+        "detailed_description": {
+            "textblock": "Insurance claims data from the MarketScan Commercial Claims and Encounters Database\n      {MarketScan Commercial (2000-2011[Q2])} and the MarketScan Multi-State Medicaid Database\n      {Marketscan Medicaid (2002-2010)} will be analyzed separately; no merging of the databases\n      will occur.\n\n      The claims data extracts are fully de-identified and compliant with the Health Insurance\n      Portability and Accountability Act of 1996 (U.S.) (HIPAA).\n\n      For children who received at least 1 RV vaccine dose within the Advisory Committee on\n      Immunization Practices (ACIP)-specified vaccination window of 6 weeks to 8 months old, their\n      observation time will be divided into three RV-vaccinated cohorts: any RV vaccination before\n      8 months (i.e., during the vaccination window between 6 weeks and 8 months old); complete RV\n      vaccination (i.e., after 8 months old); and incomplete RV vaccination (i.e., after 8 months\n      old).  For children who did not receive any RV vaccine dose within the vaccination window,\n      their observation time will be divided into four control cohorts: historical (i.e., before\n      RV vaccines were available) unvaccinated on/before 8 months old; contemporary (i.e., after\n      RV vaccines were available) unvaccinated on/before 8 months old; historical unvaccinated\n      after 8 months old; and contemporary unvaccinated after 8 months old."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Continuously enrolled from birth. (Note: Due to the absence of birth dates in\n             insurance claims data, this inclusion criterion will be met if a child's year of\n             first enrollment and year of birth are the same. If so, then the date of first\n             enrollment will be used as proxy for date of birth.)\n\n          -  Received both medical and pharmacy benefits.\n\n        Exclusion Criteria:\n\n          -  Enrolled in capitation-based health plans.\n\n          -  For MarketScan Commercial, residence in  states with universal vaccination programs\n             that include the RV vaccine or where RV vaccine inclusion cannot be ascertained\n             (i.e., Alaska, Idaho, Massachusetts, Maine, North Dakota, New Hampshire, New Mexico,\n             Oregon, Rhode Island, Vermont, Washington, Wisconsin, and Wyoming).\n\n          -  Lost to follow-up or had RV prior to 6 weeks of age."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "5 Years", 
+            "minimum_age": "N/A", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "Children less than 5 years old continuously enrolled in commercial insurance or Medicaid\n        from birth, and received both medical and pharmacy benefits."
+            }
+        }, 
+        "enrollment": {
+            "#text": "1", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "September 6, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01682005", 
+            "org_study_id": "116829"
+        }, 
+        "intervention": {
+            "arm_group_label": [
+                "Contemporary unvaccinated after 8 months old", 
+                "Complete RV vaccination", 
+                "Incomplete RV vaccination", 
+                "Historical unvaccinated on/before 8 months old", 
+                "Historical unvaccinated after 8 months old", 
+                "Contemporary unvaccinated on/before 8 months old", 
+                "Any RV vaccination before 8 months"
+            ], 
+            "description": "The data collected for each group will be fully de-identified, interpreted and analysed separately for the 2 databases (MarketScan Commercial and MarketScan Medicaid).", 
+            "intervention_name": "Data interpretation", 
+            "intervention_type": "Other"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Cost", 
+            "Children", 
+            "Rotavirus", 
+            "Rotavirus vaccination", 
+            "Clinical"
+        ], 
+        "lastchanged_date": "July 11, 2013", 
+        "number_of_groups": "7", 
+        "official_title": "Clinical and Cost Impact of Complete and Incomplete Rotavirus Vaccination", 
+        "overall_official": {
+            "affiliation": "GlaxoSmithKline", 
+            "last_name": "GSK Clinical Trials", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "September 2013", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "Each RV episode will last from 14 days before the first RV-coded claim to 14 days after the last RV-coded claim, unless censored by birth at the start and/or by end of observation at the end. For each cohort, incidence rates will be calculated as the number of first RV episodes that occurred divided by the cohort's person-years of observation censored at the start of first RV episodes.", 
+                "measure": "Estimation of the clinical impact of complete and incomplete RV vaccination among children less than 5 years of age by determining the incidence of first RV episode.", 
+                "safety_issue": "No", 
+                "time_frame": "During the study period (from January 2000 up to June 2011), an expected average of 1 year and 6 months."
+            }, 
+            {
+                "description": "For each cohort, utilization rates will be calculated as the number of RV-related hospitalizations, ER visits, and outpatient visits utilized divided by the cohort's total person-years of observation.", 
+                "measure": "Estimation of the clinical impact of complete and incomplete RV vaccination among children less than 5 years of age by calculating the RV-related resource utilization.", 
+                "safety_issue": "No", 
+                "time_frame": "During the study period (from January 2000 up to June 2011), an expected average of 1 year and 6 months."
+            }, 
+            {
+                "description": "For each cohort, utilization rates will be calculated as the number of diarrhea-related hospitalizations, ER visits, and outpatient visits utilized divided by the cohort's total person-years of observation.", 
+                "measure": "Estimation of the clinical impact of complete and incomplete RV vaccination among children less than 5 years of age by calculating the diarrhea-related resource utilization.", 
+                "safety_issue": "No", 
+                "time_frame": "During the study period (from January 2000 up to June 2011), an expected average of 1 year and 6 months."
+            }, 
+            {
+                "description": "Costs will be reported on a per-patient per-month (PPPM) basis, using the episode duration in person-months as the weight. For each cohort, an average PPPM cost of first RV episodes will be calculated.", 
+                "measure": "Estimation of the cost impact of complete and incomplete RV vaccination among children less than 5 years of age by determining the first RV episode costs.", 
+                "safety_issue": "No", 
+                "time_frame": "During the study period (from January 2000 up to June 2011), an expected average of 1 year and 6 months."
+            }, 
+            {
+                "description": "For each cohort, total RV-related per-patient per-year (PPPY) costs will be calculated as the total cost of RV-related hospitalizations, ER visits, and outpatient visits utilized divided by the cohort's total person-years of observation.", 
+                "measure": "Estimation of the cost impact of complete and incomplete RV vaccination among children less than 5 years of age by calculating the RV-related healthcare costs.", 
+                "safety_issue": "No", 
+                "time_frame": "During the study period (from January 2000 up to June 2011), an expected average of 1 year and 6 months."
+            }, 
+            {
+                "description": "For each cohort, total diarrhea-related PPPY costs will be calculated as the total cost of diarrhea-related hospitalizations, ER visits, and outpatient visits utilized divided by the cohort's total person-years of observation.", 
+                "measure": "Estimation of the cost impact of complete and incomplete RV vaccination among children less than 5 years of age by calculating the diarrhea-related healthcare costs.", 
+                "safety_issue": "No", 
+                "time_frame": "During the study period (from January 2000 up to June 2011), an expected average of 1 year and 6 months."
+            }, 
+            {
+                "measure": "Estimation of the clinical impact of complete and incomplete RV vaccination among children less than 5 years of age by calculating the first diarrhea episode costs.", 
+                "safety_issue": "No", 
+                "time_frame": "During the study period (from 2000 up to June 2011)."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01682005"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "GlaxoSmithKline", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "GlaxoSmithKline", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "August 2012", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Retrospective", 
+        "study_type": "Observational", 
+        "verification_date": "July 2013"
+    }
+}

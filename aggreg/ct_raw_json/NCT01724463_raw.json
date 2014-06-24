@@ -1,0 +1,199 @@
+{
+    "clinical_study": {
+        "@rank": "107440", 
+        "acronym": "eASSIST-M", 
+        "arm_group": {
+            "arm_group_label": "Electronically Screened Sepsis Patients", 
+            "description": "Patients between the ages 1 month and 18 years admitted to the hospital or presenting to the Emergency Department (ED) with clinical signs of Systemic Inflammatory Response Syndrome (SIRS) electronically screened for severe sepsis. Patients screened as positive will receive an evidence based goal directed severe sepsis management bundle."
+        }, 
+        "brief_summary": {
+            "textblock": "Thousands of children die from Sepsis following routine infections. Many of these deaths can\n      be prevented with earlier recognition and focused management. No tools are currently\n      available to recognize the signs of early sepsis in children. The investigators have\n      developed a electronic health record-based tool that will recognize children with sepsis\n      early and trigger an alert to their hospital caregivers. The caregivers will be prompted to\n      launch a focused management bundle that can stabilize these children, prevent further\n      deterioration and reduce their chances of sepsis related complications and death. The\n      proposed study will test the validity and effectiveness of this electronic tool in reducing\n      sepsis mortality rates."
+        }, 
+        "brief_title": "Electronic Application of a Severe Sepsis Screening Tool and Management Bundle", 
+        "completion_date": {
+            "#text": "October 2016", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Systemic Inflammatory Response Syndrome (SIRS)", 
+            "Sepsis", 
+            "Severe Sepsis", 
+            "Septic Shock"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Sepsis", 
+                "Toxemia", 
+                "Shock", 
+                "Shock, Septic", 
+                "Systemic Inflammatory Response Syndrome"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Project: Application of a Severe Sepsis Electronic Health Record Integrated Screening Tool\n      and Management Bundle (eASSIST-M) Study\n\n      Study Type:   Prospective Cohort Outcomes Study\n\n      Background: Early recognition of severe sepsis is critical for the institution of goal-\n      directed therapy and for improving patient outcomes. Barriers to early recognition include\n      the lack of standardized tools to identify children with severe sepsis. The investigators\n      will study the potential impact of applying a novel Pediatric Severe Sepsis Screening Tool\n      (PSSST) integrated with the Electronic Health Record (EHR) to facilitate earlier detection\n      and effective management of severe sepsis.\n\n      Population: Patients between the ages 1 month and 18 years admitted to the hospital or\n      presenting to the Emergency Department (ED) with clinical signs of Systemic Inflammatory\n      Response Syndrome (SIRS).\n\n      Primary Hypothesis: Prospective application of a PSSST electronically integrated with the\n      EHR can accurately diagnose pediatric patients with early signs of severe sepsis.\n\n      Primary Outcome Measure:  Proportion of correctly diagnosed patients with severe sepsis\n      among those presenting with SIRS will be assessed to prospectively validate the sensitivity,\n      specificity, positive and negative predictive values of the PSSST tool.\n\n      Secondary Hypothesis 1: Application of the PSSST will reduce lag-time for the administration\n      of a goal-directed sepsis therapy bundle by 50%.\n\n      Outcome Measure: Time delay from diagnostic identification to critical therapeutic\n      intervention.  Sepsis Recognition Lag Time will be defined as the time elapsed from the\n      first electronic alert to the first therapeutic intervention. Therapeutic interventions will\n      be defined as Cardiopulmonary Resuscitation (CPR), fluid resuscitation, initiation of\n      cardiotonic agents, or request for transfer to the ICU.  Since this is an intent-to-diagnose\n      study, outcomes defined above will be compared with those for the same period in the\n      preceding year.\n\n      Secondary Hypothesis 2: Application of a severe sepsis management bundle will reduce\n      mortality and morbidity.\n\n      Outcome Measure: Proportion of deaths in the study population due to severe sepsis.\n      Morbidity will be defined as the number of ventilator days, days on vasopressor or inotropic\n      agents, days of Extracorporeal Membrane Oxygenation (ECMO) support, need for tracheostomy,\n      need for Gastrostomy tube.\n\n      Proposed Study Design:\n\n      The investigators will conduct a prospective study where patients within the ED and\n      inpatient units are electronically screened using the PSSST during a 3-year study period.\n      Patients will be screened using a novel electronic tracking tool designed locally, using\n      pre-defined severe sepsis variables and validated on patients with severe sepsis. Patients\n      screened as positive for severe sepsis using the electronic tracking tool will be treated\n      prospectively with a standardized severe sepsis management bundle. Data will be collected\n      prospectively on all patients admitted to the ED and inpatient units. For the ED and each\n      inpatient unit, the outcomes defined above will be compared with those for the same period\n      in the preceding year.\n\n      Covariates: Demographic, clinical characteristics and sepsis-specific factors that could\n      potentially influence the effect of the alerts on critical intervention.\n\n      Statistical Analysis:\n\n      To assess the effectiveness of this tool, we will compare the proportions of the population\n      with each variable of interest between the intervention and prior periods.\n\n        1. To assess the efficacy of the PSSST, we will compare the changes over time in the\n           proportion of patients diagnosed severe sepsis adjusting for key covariates of\n           interest.\n\n        2. To assess the effectiveness of the PSSST in reducing treatment delays, we will compare\n           changes in the Sepsis Recognition Lag Time between the intervention and control\n           periods, while adjusting for key covariates of interest.\n\n        3. To assess the efficacy of the PSSST in reducing mortality, we will compare the changes\n           in the age and risk adjusted mortality rates over time between the intervention and\n           control periods.\n\n      The investigators will use a robust variance estimate for all analyses to account for the\n      clustering of patients within units. We will also use propensity scores to control for\n      differences in patient characteristics and diagnostic categories."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Age 1 month - 18 years\n\n          2. Clinical Suspicion of Infection\n\n          3. Patients in the Hospital or Emergency Department\n\n        Exclusion Criteria:\n\n          1. Status Asthmaticus patients on active bronchodilator therapy\n\n          2. Patients receiving Anesthesia\n\n          3. Day Surgery Patients\n\n          4. Outpatient Clinic Patients\n\n          5. Congenital Heart Disease Patients\n\n          6. Myocarditis Neonates Patients older than 18 years"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "18 Years", 
+            "minimum_age": "1 Month", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "Patients between the ages 1 month and 18 years admitted to the hospital or presenting to\n        the Emergency Department (ED) with clinical signs of Systemic Inflammatory Response\n        Syndrome (SIRS)."
+            }
+        }, 
+        "enrollment": {
+            "#text": "30000", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "October 31, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01724463", 
+            "org_study_id": "eASSIST-M"
+        }, 
+        "intervention": {
+            "arm_group_label": "Electronically Screened Sepsis Patients", 
+            "description": "Management Bundle includes:\nSecuring Intravenous Access\nObtaining Blood Culture\nAntibiotic Administration\nGoal Directed Fluid Bolus Therapy\nOxygen Administration\nMeasuring Serum Lactate Levels", 
+            "intervention_name": "Severe Sepsis Management Bundle", 
+            "intervention_type": "Other"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Systemic Inflammatory Response Syndrome (SIRS)", 
+            "Sepsis", 
+            "Severe Sepsis", 
+            "Septic Shock", 
+            "Electronic Health Record", 
+            "Health Screening", 
+            "Goal Directed Therapy", 
+            "Infant", 
+            "Child", 
+            "Pediatric", 
+            "Adolescent", 
+            "Critical Illness", 
+            "Outcomes Research", 
+            "Resource Utilization"
+        ], 
+        "lastchanged_date": "November 6, 2012", 
+        "link": {
+            "description": "UTHSC/Le Bonheur Children's Hospital Pediatric Critical Care Medicine Program", 
+            "url": "http://www.uthsc.edu/pediatrics/criticalcare/"
+        }, 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Memphis", 
+                    "country": "United States", 
+                    "state": "Tennessee", 
+                    "zip": "38103"
+                }, 
+                "name": "University of Tennessee Health Sciences Center"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_groups": "1", 
+        "official_title": "Application of a Severe Sepsis Electronic Health Record Integrated Screening Tool and Management Bundle Study to Improve Sepsis Related Outcomes", 
+        "other_outcome": {
+            "description": "Morbidity will be defined as the number of ventilator days, days on vasopressor or inotropic agents, days of Extracorporeal Membrane Oxygenation (ECMO) support, need for tracheostomy, need for Gastrostomy tube. Mortality will be defined as the proportion of deaths in children with severe sepsis.", 
+            "measure": "Morbidity and Mortality Rates from Severe Sepsis", 
+            "safety_issue": "No", 
+            "time_frame": "Average 60 days - Patients will be followed up until hospital discharge"
+        }, 
+        "overall_official": [
+            {
+                "affiliation": "University of Tennessee Health Sciences Center", 
+                "last_name": "Samir H Shah, MBBS MBA", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "University of Tennessee Health Sciences Center", 
+                "last_name": "Kanwaljeet S Anand, MBBS FCCM", 
+                "role": "Study Director"
+            }
+        ], 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "October 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Proportion of correctly diagnosed patients with severe sepsis among those presenting with SIRS will be assessed to prospectively validate the sensitivity, specificity, positive and negative predictive values of the PSSST tool.", 
+            "measure": "Validity of the Pediatric Severe Sepsis Screening Tool", 
+            "safety_issue": "Yes", 
+            "time_frame": "Average 60 days - Patients will be followed up until hospital discharge"
+        }, 
+        "reference": [
+            {
+                "PMID": "15636651", 
+                "citation": "Goldstein B, Giroir B, Randolph A; International Consensus Conference on Pediatric Sepsis. International pediatric sepsis consensus conference: definitions for sepsis and organ dysfunction in pediatrics. Pediatr Crit Care Med. 2005 Jan;6(1):2-8. Review."
+            }, 
+            {
+                "PMID": "19050666", 
+                "citation": "Oliveira CF, Nogueira de S\u00e1 FR, Oliveira DS, Gottschald AF, Moura JD, Shibata AR, Troster EJ, Vaz FA, Carcillo JA. Time- and fluid-sensitive resuscitation for hemodynamic support of children in septic shock: barriers to the implementation of the American College of Critical Care Medicine/Pediatric Advanced Life Support Guidelines in a pediatric intensive care unit in a developing world. Pediatr Emerg Care. 2008 Dec;24(12):810-5."
+            }, 
+            {
+                "PMID": "19325359", 
+                "citation": "Brierley J, Carcillo JA, Choong K, Cornell T, Decaen A, Deymann A, Doctor A, Davis A, Duff J, Dugas MA, Duncan A, Evans B, Feldman J, Felmet K, Fisher G, Frankel L, Jeffries H, Greenwald B, Gutierrez J, Hall M, Han YY, Hanson J, Hazelzet J, Hernan L, Kiff J, Kissoon N, Kon A, Irazuzta J, Lin J, Lorts A, Mariscalco M, Mehta R, Nadel S, Nguyen T, Nicholson C, Peters M, Okhuysen-Cawley R, Poulton T, Relves M, Rodriguez A, Rozenfeld R, Schnitzler E, Shanley T, Kache S, Skippen P, Torres A, von Dessauer B, Weingarten J, Yeh T, Zaritsky A, Stojadinovic B, Zimmerman J, Zuckerberg A. Clinical practice parameters for hemodynamic support of pediatric and neonatal septic shock: 2007 update from the American College of Critical Care Medicine. Crit Care Med. 2009 Feb;37(2):666-88. Erratum in: Crit Care Med. 2009 Apr;37(4):1536. Skache, Sara [corrected to Kache, Saraswati]; Irazusta, Jose [corrected to Irazuzta, Jose]."
+            }, 
+            {
+                "PMID": "21057288", 
+                "citation": "Kissoon N, Orr RA, Carcillo JA. Updated American College of Critical Care Medicine--pediatric advanced life support guidelines for management of pediatric and neonatal septic shock: relevance to the emergency care clinician. Pediatr Emerg Care. 2010 Nov;26(11):867-9."
+            }, 
+            {
+                "PMID": "21339277", 
+                "citation": "Cruz AT, Perry AM, Williams EA, Graf JM, Wuestner ER, Patel B. Implementation of goal-directed therapy for children with suspected sepsis in the emergency department. Pediatrics. 2011 Mar;127(3):e758-66. doi: 10.1542/peds.2010-2895. Epub 2011 Feb 21."
+            }, 
+            {
+                "PMID": "21220270", 
+                "citation": "Coba V, Whitmill M, Mooney R, Horst HM, Brandt MM, Digiovine B, Mlynarek M, McLellan B, Boleski G, Yang J, Conway W, Jordon J. Resuscitation Bundle Compliance in Severe Sepsis and Septic Shock: Improves Survival, Is Better Late than Never. J Intensive Care Med. 2011 Jan 10. [Epub ahead of print]"
+            }, 
+            {
+                "PMID": "17334251", 
+                "citation": "Nguyen HB, Corbett SW, Steele R, Banta J, Clark RT, Hayes SR, Edwards J, Cho TW, Wittlake WA. Implementation of a bundle of quality indicators for the early management of severe sepsis and septic shock is associated with decreased mortality. Crit Care Med. 2007 Apr;35(4):1105-12."
+            }, 
+            {
+                "PMID": "22461981", 
+                "citation": "Larosa JA, Ahmad N, Feinberg M, Shah M, Dibrienza R, Studer S. The use of an early alert system to improve compliance with sepsis bundles and to assess impact on mortality. Crit Care Res Pract. 2012;2012:980369. Epub 2012 Feb 26."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01724463"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University of Tennessee", 
+            "investigator_full_name": "Samir H. Shah", 
+            "investigator_title": "Associate Professor, Department of Pediatrics", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": {
+            "description": "Sepsis Recognition Lag Time will be defined as the time elapsed from the first electronic alert to the first therapeutic intervention. Therapeutic interventions will be defined as Cardiopulmonary Resuscitation (CPR), fluid resuscitation, initiation of cardiotonic agents, or request for transfer to the ICU.  Since this is an intent-to-diagnose study, outcomes defined above will be compared with those for the same period in the preceding year.", 
+            "measure": "Time delay from diagnostic identification to critical therapeutic intervention in patients with Severe Sepsis.", 
+            "safety_issue": "Yes", 
+            "time_frame": "Average 60 days - Patients will be followed up until hospital discharge"
+        }, 
+        "source": "University of Tennessee", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of Tennessee", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "October 2012", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "November 2012"
+    }
+}

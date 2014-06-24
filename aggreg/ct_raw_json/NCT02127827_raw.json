@@ -1,0 +1,125 @@
+{
+    "clinical_study": {
+        "@rank": "47073", 
+        "arm_group": {
+            "arm_group_label": "investigational device off", 
+            "arm_group_type": "Experimental"
+        }, 
+        "brief_summary": {
+            "textblock": "Insulin replacement therapy is absolutely required for patients with Type 1 diabetes. The\n      insulin pump provides for continuous subcutaneous insulin infusion (CSII), which can\n      approximate the insulin release patterns of the normal pancreas. Timely and accurate\n      knowledge of ambient glucose levels is important for insulin dose adjustments. Typically,\n      glucose values are measured volitionally, several times a day, using capillary \"fingerstick\"\n      samples. In addition, glucose in the interstitial fluid can be measured automatically and\n      continuously using implantable glucose oxidase-based sensors. Recent study showed that this\n      continuous measurement of glucose levels allows for a fully automated \"closed-loop\" insulin\n      replacement therapy which requires an algorithm that receives glucose data, calculates an\n      appropriate insulin dose, and directs the pump to deliver the insulin dose.The need for\n      development of a closed-loop insulin replacement system that integrates insulin delivery,\n      glucose measurement, and control subsystems will present several challenges to biomedical\n      engineers."
+        }, 
+        "brief_title": "Multiday Fully Closed Loop Insulin Delivery in Monitored Outpatient Conditions", 
+        "condition": [
+            "To Demonstrate That the Closed Loop System Can be Used Safely Over a Few Consecutive Days.", 
+            "To Assess Effectiveness in Maintaining Patients' Glucose Levels in the Target Range of 70 to 180 mg/dl, Measured by Blood Glucose Sensor.", 
+            "To Evaluate the User Experience With a Closed Loop System"
+        ], 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Subject is 18 to 70 years of age at time of screening\n\n          2. Subject's weight is between 50 and 120 kg\n\n          3. A clinical diagnosis of Type 1 diabetes as determined by the Investigator for a\n             minimum of 36 months prior to enrollment\n\n          4. Subject has ongoing use of an insulin pump \u2265 6 months prior to screening\n\n          5. Subject has an glycated hemoglobin value \u2264 9.0% demonstrated at the time of\n             enrollment.\n\n          6. Subject uses a rapid-acting analogue insulin in his/her pump\n\n          7. Patient is willing to undergo all study procedures\n\n        Exclusion Criteria:\n\n          1. Female subject who has a positive serum pregnancy screening test, or who plans to\n             become pregnant during the course of the study\n\n          2. Subject has unresolved adverse skin condition, or unable to tolerate tape adhesive,\n             in the area of sensor placement or device replacement (e.g., psoriasis, rash,\n             Staphylococcus infection)\n\n          3. Subject has a history of hypoglycemic seizure or hypoglycemic coma within the past 12\n             months\n\n          4. Subject has a history of seizure disorder unrelated to diabetes within the past 12\n             months\n\n          5. Subject has a history of myocardial infarction, unstable angina, coronary artery\n             bypass surgery, coronary artery stenting, transient ischemic attack (TIA),\n             cerebrovascular accident (CVA), congestive heart failure, ventricular rhythm\n             disturbances, or thromboembolic disease within the past 6 months\n\n          6. Subject has a presence of a cardiac pacemaker or any other device that may be\n             sensitive to radio frequency telemetry\n\n          7. Subject has any condition, including screening lab values that in the opinion of the\n             Investigator may preclude him/her from participating in the study and completing\n             study related procedures\n\n          8. Subject is actively participating in other investigational study (drug or device)\n\n          9. Subjects who consume alcohol daily"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "70 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "30", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "April 29, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02127827", 
+            "org_study_id": "SHEBA-13-0834-OC-CTIL"
+        }, 
+        "intervention": {
+            "arm_group_label": "investigational device off", 
+            "intervention_name": "Automated Ambulatory Glycemic Controller (AAGC)", 
+            "intervention_type": "Device"
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "April 29, 2014", 
+        "location": {
+            "contact": {
+                "email": "endo.r@sheba.health.gov.il", 
+                "last_name": "Revital Dvir", 
+                "phone": "972-3-5302021"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Ramat Gan", 
+                    "country": "Israel"
+                }, 
+                "name": "Sheba Medical Center"
+            }, 
+            "investigator": {
+                "last_name": "Jacob Ilany, Dr", 
+                "role": "Sub-Investigator"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "Israel"
+        }, 
+        "number_of_arms": "1", 
+        "overall_contact": {
+            "email": "ohdcohen@sheba.health.gov.il", 
+            "last_name": "Ohad Cohen, Prof", 
+            "phone": "972-526667597"
+        }, 
+        "overall_status": "Not yet recruiting", 
+        "oversight_info": {
+            "authority": "ISRAEL:MOH"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "May 2016", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "time in glycemic target", 
+            "safety_issue": "Yes", 
+            "time_frame": "day 4"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02127827"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Sheba Medical Center", 
+            "investigator_full_name": "Prof. Ohad Cohen", 
+            "investigator_title": "endocrinologist", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Glucose AUC (area under the curve) below 3.8 mmol/l (70 mg/dL) measured by Enlite glucose sensor", 
+                "safety_issue": "Yes", 
+                "time_frame": "day 4"
+            }, 
+            {
+                "measure": "Glucose AUC (area under the curve) above 10mmol/l (180 mg/dL) measured by Enlite glucose sensor", 
+                "safety_issue": "Yes", 
+                "time_frame": "day 4"
+            }, 
+            {
+                "measure": "Number of hypoglycemic events, defined as a sensor  glucose of < 3.8 mmol/l (70 mg/dL ) measured by Enlite glucose sensor", 
+                "safety_issue": "Yes", 
+                "time_frame": "day 4"
+            }
+        ], 
+        "source": "Sheba Medical Center", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Sheba Medical Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "May 2014", 
+        "study_design": "Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2014"
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "clinical_study": {
+        "@rank": "18437", 
+        "arm_group": {
+            "arm_group_label": "Diabetes, Non-diabetes", 
+            "arm_group_type": "No Intervention"
+        }, 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to see if the CEdG assay can produce internally consistent\n      results and initiate its validation as a biomarker for diabetes in humans."
+        }, 
+        "brief_title": "N2-(1-carboxyethyl)-2'Deoxyguanosine (CEdG) a Potential Biomarker for Diabetes", 
+        "completion_date": {
+            "#text": "January 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Diabetes", 
+        "condition_browse": {
+            "mesh_term": "Diabetes Mellitus"
+        }, 
+        "detailed_description": {
+            "textblock": "Primary Objective is to replicate and validate the CEdG assay to be used in human subjects.\n      A fully automated assay for urinary CEdG has been developed. the investigators will validate\n      the observations made in diabetic animal models in human subjects with and without type 2\n      diabetes mellitus (T2DM). Specifically, the investigators will investigate and establish the\n      inter- and intra-assay coefficients of variability in human subjects.\n\n      Secondary Objective is to determine the correlation between CEdG levels and hemoglobulin A1c\n      (HbA1c) in human subjects with T2DM and the response to diabetic treatment and to define the\n      relationship of CEdG with diabetic complications. The investigators will examine the\n      relationship of CEdG with glycemic control, based on HbA1c, which is the current gold\n      standard, in both patients with type 1 and type 2 diabetes. The investigators also compare\n      the changes in CEdG and Hb1Ac levels in response to diabetic treatment in diabetic patients.\n      The relationship of CEdG with diabetic complications will also be investigated in diabetic\n      patients.\n\n      Statistical considerations for the primary objective:\n\n      Sample Size: Because there are many more variables in human subjects, the investigators\n      calculated the sample size based on a much more conservative assumption than what the\n      investigators observed from diabetic animal models. The investigators are planning a study\n      of a continuous response variable from independent control and experimental subjects with 1\n      control per experimental subject. Based on the animal data, the investigators expect the\n      results within each subject group to be normally distributed with a standard deviation of\n      0.3. If the true difference in the mean between the diabetic and non-diabetic groups is 0.5,\n      the investigators will need to study 9 diabetic and 9 non-diabetic subjects to be able to\n      reject the null hypothesis that the population means of the experimental and control groups\n      are equal with probability (power) 0.9. The Type I error probability associated with this\n      test of this null hypothesis is 0.05. To account for a possible attrition rate of 30%, the\n      investigators will accrue 12 diabetic and 12 non-diabetic subjects to the study.\n\n      Statistical Analysis: The effect of diabetic status on urinary CEdG levels will be compared\n      using a Student's t-test. Differences in continuous variables between the groups of subjects\n      will be tested with either one-way ANOVA or Student's t-test when appropriate. Differences\n      in proportions will be evaluated by a chi-square test. The continuous variables, that fail\n      the Normality test, will be logarithmically transformed before analysis. To examine the\n      influence of confounding variables, a stepwise regression analysis will be used. A p value\n      less than 0.05 will be considered statistically significant.\n\n      According to the NIH guidelines for validation of analytical methods for biomarkers used in\n      drug development, for small molecules, bioanalytical assays where the analytical run is\n      accepted as valid when at least 67% (4/6) of the quality controls fall within 15% of their\n      nominal value. The consistency of 6 repeated runs will be evaluated by Grubbs test for\n      repeatability within each subject. The overall consistency of CEdG measures can be\n      quantified by the proportion of subjects with 1+ identified outliers among the 6 repeated\n      runs. To obtain a baseline estimate of the consistency of the CEdG assay, the investigators\n      will take the number of those six measurements that fall within 15% of the mean as our\n      outcome measure. Definitive validation of a biomarker will require definitive quantitative\n      or relative quantitative assay approaches.\n\n      Statistical considerations for the secondary objective:\n\n      The investigators will regress study participants' values of y-var (HbA1c) against x-var\n      (CEdG). Prior data indicate that the standard deviation of x-var is 0.15 and the standard\n      deviation of the regression errors will be 0.15. If the true slope of the line obtained by\n      regressing y-var against x-var is 0.3, the investigators will need to study 89 subjects to\n      be able to reject the null hypothesis that this slope equals zero with probability (power)\n      0.8. The Type I error probability associated with this test of this null hypothesis is 0.05.\n      Therefore, 100 subjects will be recruited for the study to account for potential attrition\n      of subjects.\n\n      Patient demographic and clinic characteristics will be tabulated using statistics of mean,\n      standard deviation, median, range, number and percentage when appropriate. CEdG data will be\n      analyzed as a continuous or transformed variable for the measured expression level. The\n      univariate correlation between the CEdG expression and each quantitative clinical measure\n      will be evaluated using Pearson correlation and its 95% confidence interval. The time trend\n      in longitudinal data and its possible interaction with other risk factors will be explored\n      using boxplots, fitted curves, generalized linear models, and generalized estimating\n      equations as appropriate. Estimated correlations between CEdG data and clinical endpoints,\n      and its possible time trends during the 12 month period will provide valuable information\n      for choosing the primary endpoint and sample size in a future larger scale correlation\n      study."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  18 years of age or older\n\n          -  Registered patient of City of Hope\n\n          -  Documentation of a diagnosis of diabetes identified by the problem list in the\n             patient's electronic health record\n\n        Exclusion Criteria:\n\n          -  Current pregnancy\n\n          -  An active diagnosis of cancer, as CEdG levels may potentially be affected by\n             malignant processes"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "112", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "January 31, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02065310", 
+            "org_study_id": "13188"
+        }, 
+        "intervention": {
+            "arm_group_label": "Diabetes, Non-diabetes", 
+            "description": "Glucose and its adducts, such as HbA1c, decompose non-enzymatically to yield \u03b1-oxo-aldehydes are up to 20,000 x more reactive than the parent molecule. Amounts of an \u03b1-oxo-aldehyde, methylglyoxal (MG), are elevated up to 6-fold in patients with Type 1 dm. Quantitation of MG, but MG does form stable, irreversible adducts termed \"advanced glycation endproducts\" (AGEs) that can be measured. MG also reacts with DNA to yield primarily one stable DNA-AGE, CEdG, and suggests that measuring CEdG might allow for a direct method for assessing glycemic status and \u03b1-oxo-aldehyde burden.\nInvestigators have shown that CEdG levels are significantly elevated in urine and tissue of Type 1 & 2 dm animal models. DNA-AGE may correlate with the development of diabetes complications and identify patients at higher risk. Therefore, the investigators hypothesize that CEdG, a DNA-AGE, can be used as a marker of diabetes control and complications.", 
+            "intervention_name": "N2-(1-carboxyethyl)-2'deoxyguanosine (CEdG)", 
+            "intervention_type": "Other"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "AGE", 
+            "Diabetes Biomarkers", 
+            "CEdG"
+        ], 
+        "lastchanged_date": "February 13, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Duarte", 
+                    "country": "United States", 
+                    "state": "California", 
+                    "zip": "91010"
+                }, 
+                "name": "City of Hope Medical Center"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Evaluation of the Internal Consistency of Measurement and Potential of a DNA-adduct as a Biomarker of Glycemic Control", 
+        "overall_official": {
+            "affiliation": "City of Hope Medical Center", 
+            "last_name": "Raynald A. Samoa, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Enrolling by invitation", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "January 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "Percentage of quality controls that fall within 15% of the nominal value for a analytical run of the CEdG assay.", 
+            "safety_issue": "No", 
+            "time_frame": "One time urine collection"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02065310"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "measure": "Correlation of Hemoglobin A1c and CEdG levels", 
+            "safety_issue": "No", 
+            "time_frame": "12 months"
+        }, 
+        "source": "City of Hope Medical Center", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "City of Hope Medical Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "February 2014", 
+        "study_design": "Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "February 2014"
+    }
+}

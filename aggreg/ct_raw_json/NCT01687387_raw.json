@@ -1,0 +1,806 @@
+{
+    "clinical_study": {
+        "@rank": "147832", 
+        "acronym": "EFFIKIR", 
+        "arm_group": [
+            {
+                "arm_group_label": "IPH2102 at 1 mg/kg", 
+                "arm_group_type": "Experimental", 
+                "description": "lirilumab (IPH2102/BMS986015) at 1 mg/kg"
+            }, 
+            {
+                "arm_group_label": "IPH2102 at 0.1 mg/kg", 
+                "arm_group_type": "Experimental", 
+                "description": "lirilumab (IPH2102/BMS986015) at 0.1 mg/kg"
+            }, 
+            {
+                "arm_group_label": "Placebo (Normal saline solution)", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Normal saline solution"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Double-Blind Placebo-Controlled Randomized Phase 2 Study evaluating the efficacy of\n      lirilumab (IPH2102/BMS-986015) as Maintenance Treatment administered in elderly patients\n      with Acute Myeloid Leukemia (AML) in first complete remission"
+        }, 
+        "brief_title": "Efficacy Study of Anti-KIR Monoclonal Antibody as Maintenance Treatment in Acute Myeloid Leukemia (EFFIKIR)", 
+        "completion_date": {
+            "#text": "June 2016", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Acute Myeloid Leukemia", 
+        "condition_browse": {
+            "mesh_term": [
+                "Leukemia", 
+                "Leukemia, Myeloid, Acute", 
+                "Leukemia, Myeloid"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Primary or secondary Acute Myeloid Leukemia (AML, defined according to WHO 2008\n             criteria), in first CR/CRi (according to the revised recommendations of the\n             International Working Group for Diagnosis, Standardization of Response Criteria,\n             Treatment Outcomes, and Reporting Standards for Therapeutic Trials in Acute Myeloid\n             Leukemia J Clin Oncol. 2003 Dec 15; 21(24):4642-9 see appendix 19.3) following\n             induction chemotherapy and who received 1 or 2 consolidation cycles. Induction\n             chemotherapy should be performed within 6 months before randomization. Consolidation\n             cycle is defined as any chemotherapy administered within 3 months following CR and\n             including aracytine irrespective of the administered dose(s). A minimum of one and\n             maximum of 2 cycles should be administered before enrollment\n\n          2. Patients not eligible for an allogeneic  hematopoietic  cell transplantation\n\n          3. Age 60 to 80\n\n          4. ECOG Performance status of 0 or 1\n\n          5. Clinical laboratory values at screening\n\n               -  Calculated creatinine clearance (according to MDRD) > 60 ml/min/1.73 m2\n\n               -  Platelet  > 75 x 109/l\n\n               -  Hemoglobin \u2265  10 g/dl supported or unsupported by transfusions\n\n               -  ANC      > 1 x 109/l\n\n               -  Total Bilirubin levels \u2264 1.5 ULN\n\n               -  ALT and AST \u2264 3 ULN\n\n          6. Recovery from acute toxicity of previous anti-tumor therapy\n\n          7. Male patients who accept and are able to use contraception methods recognized as\n             highly effective.\n\n          8. Signed informed consent prior to any protocol specific procedure.\n\n        Exclusion Criteria:\n\n          1. Acute Promyelocytic Leukemia with t (15; 17), or its molecular equivalents (PML-RARA)\n\n          2. Favorable risk AML corresponding defined as t(8;21)  or inv (16) and t(16;16) and\n             their molecular equivalents (AML-ETO and  CBFB-MYH11)\n\n          3. Last consolidation completed more than 3 months prior to first dosing\n\n          4. Concomitant treatment by chemotherapy, immunotherapy or by systemic corticosteroids\n\n          5. Within 28 days prior to first dosing: chemotherapy or systemic corticosteroid\n             treatment\n\n          6. History of allogeneic hematopoietic cell transplantation or solid organ\n             transplantation\n\n          7. History of high dose chemotherapy with autologous hematopoietic transplantation\n             performed as treatment for AML\n\n          8. Use of any investigational agent within 2 months prior to the first dosing\n\n          9. Use of growth factors (G- or GM-CSF or EPO) within 28 days prior to first dosing\n\n         10. Any irradiation within the last 3 months except for analgesic intent\n\n         11. Intermittent or continuous renal replacement therapy\n\n         12. Abnormal cardiac status with any of the following\n\n               -  Ejection fraction (measured by ultra-sound or radionuclide imaging) <50%\n\n               -  Myocardial infarction within the previous 6 months\n\n               -  QTc \u2265 480 ms (Bazett's).\n\n         13. Current active infectious disease or positive serology for HIV, and/or HCV  with\n             detectable viremia and/ or HBV with positive Hbs Antigen and/or negative anti Hbs\n             Antibody\n\n         14. Auto-immune disease:\n\n               -  Which currently or previously required systemic immunosuppressive or\n                  immuno-modulatory therapy (including corticosteroids administered by systemic\n                  route)\n\n               -  And/or has substantial probability to cause an irreversible injury to any tissue\n\n               -  And/or is recent or unstable or has substantial risk to progress and cause\n                  severe complications.\n\n         15. Serious concurrent uncontrolled medical disorder\n\n         16. History of another malignancy (apart from myelodysplastic syndromes, basal cell\n             carcinoma of the skin, or in situ cervix carcinoma) except if free of disease for \u2265 3\n             years\n\n         17. Any psychological, familial, sociological or geographical condition potentially\n             hampering compliance with the study protocol and follow-up schedule."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "80 Years", 
+            "minimum_age": "60 Years"
+        }, 
+        "enrollment": {
+            "#text": "150", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "September 11, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01687387", 
+            "org_study_id": "IPH2102-201"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "IPH2102 at 0.1 mg/kg", 
+                "description": "every 3 months", 
+                "intervention_name": "IPH2102  at 0.1 mg/kg", 
+                "intervention_type": "Drug", 
+                "other_name": "lirilumab/BMS986015"
+            }, 
+            {
+                "arm_group_label": "IPH2102 at 1 mg/kg", 
+                "description": "every 4 weeks", 
+                "intervention_name": "IPH2102  at 1 mg/kg", 
+                "intervention_type": "Drug", 
+                "other_name": "lirilumab/BMS986015"
+            }, 
+            {
+                "arm_group_label": [
+                    "IPH2102 at 0.1 mg/kg", 
+                    "Placebo (Normal saline solution)"
+                ], 
+                "description": "every 4 weeks", 
+                "intervention_name": "Placebo (normal saline solution)", 
+                "intervention_type": "Drug", 
+                "other_name": "normal saline solution"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Antibodies, Monoclonal"
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "March 4, 2014", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Amiens", 
+                        "country": "France", 
+                        "zip": "80054"
+                    }, 
+                    "name": "CHU d'Amiens"
+                }, 
+                "investigator": {
+                    "last_name": "Jean-Pierre Marolleau", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Angers", 
+                        "country": "France", 
+                        "zip": "49933"
+                    }, 
+                    "name": "CHU Angers"
+                }, 
+                "investigator": {
+                    "last_name": "Mathilde Hunault-Berger", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Argenteuil", 
+                        "country": "France", 
+                        "zip": "95107"
+                    }, 
+                    "name": "Centre hospitalier Victor Dupouy"
+                }, 
+                "investigator": {
+                    "last_name": "Laurent Sutton", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bayonne", 
+                        "country": "France", 
+                        "zip": "64100"
+                    }, 
+                    "name": "Centre hospitalier de la c\u00f4te Basque"
+                }, 
+                "investigator": {
+                    "last_name": "Anne Banos", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Besan\u00e7on", 
+                        "country": "France", 
+                        "zip": "25030"
+                    }, 
+                    "name": "CHU de Besan\u00e7on"
+                }, 
+                "investigator": {
+                    "last_name": "Fabrice LAROSA", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Blois", 
+                        "country": "France", 
+                        "zip": "41000"
+                    }, 
+                    "name": "CH de Blois"
+                }, 
+                "investigator": {
+                    "last_name": "Abderrazak EL YAMANI", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bobigny", 
+                        "country": "France", 
+                        "zip": "93000"
+                    }, 
+                    "name": "H\u00f4pital Avicenne"
+                }, 
+                "investigator": {
+                    "last_name": "Claude Gardin", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Brest", 
+                        "country": "France", 
+                        "zip": "29609"
+                    }, 
+                    "name": "H\u00f4pital Morvan CHU Brest"
+                }, 
+                "investigator": {
+                    "last_name": "Ga\u00eblle Guillerm", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "B\u00e9ziers", 
+                        "country": "France", 
+                        "zip": "34500"
+                    }, 
+                    "name": "CHG de B\u00e9ziers"
+                }, 
+                "investigator": {
+                    "last_name": "Alain Saad", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cergy Pontoise", 
+                        "country": "France", 
+                        "zip": "95303"
+                    }, 
+                    "name": "CH Ren\u00e9 Dubos"
+                }, 
+                "investigator": {
+                    "last_name": "Ioana-Dana Vaida", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Clamart", 
+                        "country": "France", 
+                        "zip": "92141"
+                    }, 
+                    "name": "H\u00f4pital Militaire Percy"
+                }, 
+                "investigator": {
+                    "last_name": "Jean-Val\u00e8re Malfuson", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Clermont-Ferrand", 
+                        "country": "France", 
+                        "zip": "63003"
+                    }, 
+                    "name": "CHU Estaing"
+                }, 
+                "investigator": {
+                    "last_name": "Romain Guieze", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Corbeil Essonnes", 
+                        "country": "France", 
+                        "zip": "91100"
+                    }, 
+                    "name": "Centre hospitalier sud francilien"
+                }, 
+                "investigator": {
+                    "last_name": "St\u00e9phanie Ha\u00efat", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Cr\u00e9teil", 
+                        "country": "France", 
+                        "zip": "94010"
+                    }, 
+                    "name": "H\u00f4pital Henri Mondor"
+                }, 
+                "investigator": {
+                    "last_name": "C\u00e9cile Pautas", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Grenoble", 
+                        "country": "France", 
+                        "zip": "38043"
+                    }, 
+                    "name": "CHU de Grenoble"
+                }, 
+                "investigator": {
+                    "last_name": "Claude-Eric Bulabois", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Le Chesnay Cedex", 
+                        "country": "France", 
+                        "zip": "78157"
+                    }, 
+                    "name": "Centre Hospitalier de Versailles"
+                }, 
+                "investigator": {
+                    "last_name": "Philippe Rousselot", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lille", 
+                        "country": "France", 
+                        "zip": "59037"
+                    }, 
+                    "name": "H\u00f4pital Claude Huriez"
+                }, 
+                "investigator": {
+                    "last_name": "Bruno Quesnel", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Limoges", 
+                        "country": "France", 
+                        "zip": "87042"
+                    }, 
+                    "name": "CHU de Limoges"
+                }, 
+                "investigator": {
+                    "last_name": "Pascal Turlure", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Marseille Cedex 09", 
+                        "country": "France", 
+                        "zip": "13273"
+                    }, 
+                    "name": "Institut Paoli - Calmettes"
+                }, 
+                "investigator": {
+                    "last_name": "Norbert Vey", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Meaux", 
+                        "country": "France", 
+                        "zip": "77104"
+                    }, 
+                    "name": "CH de Meaux"
+                }, 
+                "investigator": {
+                    "last_name": "Jamil\u00e9 Frayfer", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montpellier Cedex 5", 
+                        "country": "France", 
+                        "zip": "34295"
+                    }, 
+                    "name": "CHU Saint Eloi"
+                }, 
+                "investigator": {
+                    "last_name": "Yosr HICHRI", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mulhouse", 
+                        "country": "France", 
+                        "zip": "68100"
+                    }, 
+                    "name": "Centre Hospitalier de Mulhouse"
+                }, 
+                "investigator": {
+                    "last_name": "Mario Ojeda-Uribe", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nantes", 
+                        "country": "France", 
+                        "zip": "44000"
+                    }, 
+                    "name": "CHU de Nantes"
+                }, 
+                "investigator": {
+                    "last_name": "Jacques Delaunay", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nice", 
+                        "country": "France", 
+                        "zip": "06189"
+                    }, 
+                    "name": "Centre Antoine Lacassagne"
+                }, 
+                "investigator": {
+                    "last_name": "Lauris Gastaud", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "N\u00eemes", 
+                        "country": "France", 
+                        "zip": "30029"
+                    }, 
+                    "name": "CHU Caremeau"
+                }, 
+                "investigator": {
+                    "last_name": "Eric Jourdan", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Orl\u00e9ans", 
+                        "country": "France", 
+                        "zip": "45067"
+                    }, 
+                    "name": "CHR d'Orl\u00e9ans"
+                }, 
+                "investigator": {
+                    "last_name": "Magda Alexis", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "zip": "75012"
+                    }, 
+                    "name": "H\u00f4pital Saint-Antoine"
+                }, 
+                "investigator": {
+                    "last_name": "Fran\u00e7oise Isnard", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "zip": "75010"
+                    }, 
+                    "name": "H\u00f4pital Saint-Louis"
+                }, 
+                "investigator": {
+                    "last_name": "Emmanuel Raffoux", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris Cedex 15", 
+                        "country": "France", 
+                        "zip": "75743"
+                    }, 
+                    "name": "H\u00f4pital Necker"
+                }, 
+                "investigator": {
+                    "last_name": "Olivier Hermine", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Perpignan", 
+                        "country": "France", 
+                        "zip": "66000"
+                    }, 
+                    "name": "CH Saint-Jean"
+                }, 
+                "investigator": {
+                    "last_name": "Laurence Sanhes", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pessac", 
+                        "country": "France", 
+                        "zip": "33604"
+                    }, 
+                    "name": "CHU de Bordeaux - H\u00f4pital Haut-L\u00e9v\u00eaque"
+                }, 
+                "investigator": {
+                    "last_name": "Arnaud Pigneux", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pierre B\u00e9nite", 
+                        "country": "France", 
+                        "zip": "69495"
+                    }, 
+                    "name": "Centre hospitalier Lyon Sud"
+                }, 
+                "investigator": {
+                    "last_name": "Xavier Thomas", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Poitiers", 
+                        "country": "France", 
+                        "zip": "86021"
+                    }, 
+                    "name": "CHU de Poitiers"
+                }, 
+                "investigator": {
+                    "last_name": "Fran\u00e7ois Guilhot", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pringy", 
+                        "country": "France", 
+                        "zip": "74374"
+                    }, 
+                    "name": "CHR d'Annecy"
+                }, 
+                "investigator": {
+                    "last_name": "Fr\u00e9d\u00e9rique ORSINI-PIOCELLE", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Reims", 
+                        "country": "France", 
+                        "zip": "51092"
+                    }, 
+                    "name": "CHU de Reims"
+                }, 
+                "investigator": {
+                    "last_name": "Chantal HIMBERLIN", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rouen", 
+                        "country": "France", 
+                        "zip": "76038"
+                    }, 
+                    "name": "Centre Henri Becquerel"
+                }, 
+                "investigator": {
+                    "last_name": "St\u00e9phane Lepr\u00eatre", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint-Cloud", 
+                        "country": "France", 
+                        "zip": "92210"
+                    }, 
+                    "name": "Centre Ren\u00e9 Huguenin"
+                }, 
+                "investigator": {
+                    "last_name": "Jacques Vargaftig", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saint-Quentin", 
+                        "country": "France", 
+                        "zip": "02321"
+                    }, 
+                    "name": "CH Saint-Quentin"
+                }, 
+                "investigator": {
+                    "last_name": "R\u00e9da Garidi", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Strasbourg", 
+                        "country": "France", 
+                        "zip": "67098"
+                    }, 
+                    "name": "H\u00f4pital Haute Pierre et H\u00f4pital Civil"
+                }, 
+                "investigator": {
+                    "last_name": "Bruno Lioure", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toulouse", 
+                        "country": "France", 
+                        "zip": "31059"
+                    }, 
+                    "name": "CHU Purpan"
+                }, 
+                "investigator": {
+                    "last_name": "Christian Recher", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Valenciennes", 
+                        "country": "France", 
+                        "zip": "59322"
+                    }, 
+                    "name": "CH Valenciennes"
+                }, 
+                "investigator": {
+                    "last_name": "Jos\u00e9 Fernandes", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Vandoeuvre Les Nancy", 
+                        "country": "France", 
+                        "zip": "54511"
+                    }, 
+                    "name": "CHU de Nancy H\u00f4pitaux de Brabois"
+                }, 
+                "investigator": {
+                    "last_name": "Caroline Bonmati", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Villejuif", 
+                        "country": "France", 
+                        "zip": "94805"
+                    }, 
+                    "name": "Institut Gustave Roussy"
+                }, 
+                "investigator": {
+                    "last_name": "Jean-Henri Bourhis", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": "France"
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "Double-Blind Placebo-Controlled Randomized Phase 2 Study of IPH2102 as Maintenance Treatment in Elderly Patients With Acute Myeloid Leukemia (AML) in First Complete Remission", 
+        "overall_contact": {
+            "email": "renaud.buffet@innate-pharma.fr", 
+            "last_name": "Renaud Buffet, MD"
+        }, 
+        "overall_contact_backup": {
+            "email": "robert.zerbib@innate-pharma.fr", 
+            "last_name": "Robert Zerbib"
+        }, 
+        "overall_official": [
+            {
+                "affiliation": "Institut Paoli Calmettes Marseille France", 
+                "last_name": "Norbert Vey, MD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "ALFA cooperative Group", 
+                "last_name": "Herv\u00e9 Dombret, MD", 
+                "role": "Study Chair"
+            }, 
+            {
+                "affiliation": "GOELAMS Cooperative Group", 
+                "last_name": "Norbert Ifrah, MD", 
+                "role": "Study Chair"
+            }
+        ], 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "France: Agence Nationale de S\u00e9curit\u00e9 du M\u00e9dicament et des produits de sant\u00e9", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "June 2016", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "Leukemia-Free Survival", 
+            "safety_issue": "No", 
+            "time_frame": "from date of randomization until the date of first documented relapse, assessed up to 48 months"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01687387"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "description": "based on full physical examination each treatment visit and collection of AEs", 
+            "measure": "Number of adverse events", 
+            "safety_issue": "Yes", 
+            "time_frame": "from the time of patient signing the consent form until 28 days after the last administration, or until the patient's last study visit, up to 24 months"
+        }, 
+        "source": "Innate Pharma", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Innate Pharma", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "October 2012", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2014"
+    }
+}

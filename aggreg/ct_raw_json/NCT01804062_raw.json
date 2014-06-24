@@ -1,0 +1,114 @@
+{
+    "clinical_study": {
+        "@rank": "105810", 
+        "arm_group": {
+            "arm_group_label": "no treatment", 
+            "description": "no treatment, prospective observational"
+        }, 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to meet the respiration rate accuracy specifications for the\n      study pulse oximeter monitoring system (study device)in a healthy volunteer population when\n      compared to established technologies for measuring parameters related to respiration, such\n      as Capnograph Respiration Rate (RR) (CO2)."
+        }, 
+        "brief_title": "Respiration Rate V2.0 in Healthy Volunteers", 
+        "completion_date": {
+            "#text": "February 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": "Focus of the Study is Measuring Respiratory Rate", 
+        "detailed_description": {
+            "textblock": "Volunteer subjects with no significant medical problems (see specific inclusion/exclusion\n      criteria) over the age of 18, male and female, who provide written informed consent prior to\n      the procedure, are not pregnant, and without any contact skin allergies to adhesives found\n      in standard pulse oximetry sensors.\n\n      The study consists of measuring parameters related to respiration in healthy volunteers by\n      means of the Bedside Respiratory Patient Monitoring System with RR V2.0 (Nightingale). The\n      prototype Nightingale device and multiparameter reference devices will be attached to the\n      subject via sensors, nasal cannulas and ECG leads and the information from all devices will\n      be captured continuously for up to 40 minutes to allow for at least 30 minutes of artifact\n      free data 30 minutes."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Male or female subjects.\n\n          -  18 years or older.\n\n          -  Subject is willing and able to provide written consent.\n\n        Exclusion Criteria:\n\n          -  Subject is younger than 18.\n\n          -  Subject is pregnant or lactating\n\n          -  Subject has severe contact allergies that may cause a reaction to standard adhesive\n             materials found in pulse oximetry sensors, ECG electrodes, respiration monitor\n             electrodes or other medical sensors.\n\n          -  Subject has an abnormality that may prevent proper application of the device.\n\n          -  Subject is in atrial fibrillation.\n\n          -  Subject has a documented history of frequent premature ventricular contractions\n             (PVCs), defined as greater than 3 in 30 seconds or greater than 6 in 60 seconds\n\n          -  Subject has an implanted pacemaker.\n\n          -  Subject is unwilling or unable to sign informed consent."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "Volunteer subjects with no significant medical problems"
+            }
+        }, 
+        "enrollment": {
+            "#text": "30", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "February 20, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01804062", 
+            "org_study_id": "COVMOPR0394"
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "June 4, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Boulder", 
+                    "country": "United States", 
+                    "state": "Colorado", 
+                    "zip": "80301"
+                }, 
+                "name": "Boulder In-House Clinical Laboratory"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_groups": "1", 
+        "official_title": "Evaluation of Respiration Rate Parameters in Healthy Volunteers Using a Nellcor Bedside Respiratory Patient Monitoring System With Respiration Rate Version 2.0", 
+        "other_outcome": {
+            "description": "The software shall provide respiration rate across an operating range of 4 to 40 breaths per minute.", 
+            "measure": "4-40 bpm operating range", 
+            "safety_issue": "No", 
+            "time_frame": "up to 40 minutes of continuous monitoring"
+        }, 
+        "overall_official": {
+            "affiliation": "Covidien", 
+            "last_name": "Scott D Kelley, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "February 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "The software shall calculate respiration rate values via Adult Respiratory Sensor with a mean error of +/- 1 breath per minute relative to a capnography based reference.", 
+            "measure": "Mean Error (ME) +/- 1 breath per minute, RR sensor", 
+            "safety_issue": "No", 
+            "time_frame": "up to 40 minutes of continous monitoring"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01804062"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "description": "The software shall calculate respiration rate values via Max-N with a mean error of +/- 1 breath per minute relative to a capnography based reference.", 
+            "measure": "ME +/- 1 breath per minute, Max-N sensor", 
+            "safety_issue": "No", 
+            "time_frame": "up to 40 minutes of continuous monitoring"
+        }, 
+        "source": "Covidien", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Covidien", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "February 2013", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "June 2013"
+    }
+}

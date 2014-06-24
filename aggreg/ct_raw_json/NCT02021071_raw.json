@@ -1,0 +1,152 @@
+{
+    "clinical_study": {
+        "@rank": "121104", 
+        "arm_group": [
+            {
+                "arm_group_label": "XperGuide", 
+                "description": "Image-guided needle procedures with XperGuide performed prior to this study within institution."
+            }, 
+            {
+                "arm_group_label": "XperGuide with virtual path planning", 
+                "description": "Image-guided needle procedures with XperGuide with virtual path planning"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Philips Healthcare has added a virtual path planner to the current commercially available\n      XperGuide software platform and that has the potential to significantly reduce dose during\n      image-guided needle interventions."
+        }, 
+        "brief_title": "Virtual Path Planning for Image-guided Needle Interventions", 
+        "completion_date": {
+            "#text": "November 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Gastrointestinal Diseases", 
+            "Bone Diseases", 
+            "Muscular Diseases", 
+            "Spinal Diseases", 
+            "Vascular Diseases"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Bone Diseases", 
+                "Gastrointestinal Diseases", 
+                "Digestive System Diseases", 
+                "Muscular Diseases", 
+                "Spinal Diseases", 
+                "Vascular Diseases"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "The investigational device is used for image guidance by virtually planned path and X-ray\n      data."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients at any age who are referred for a clinically indicated XperGuide\n             interventional procedure.\n\n          -  The informed consent has been signed by the participant, parent or legal guardian as\n             appropriate.\n\n        Exclusion Criteria:\n\n        -Pregnant patients."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A", 
+            "sampling_method": "Probability Sample", 
+            "study_pop": {
+                "textblock": "Patients of all ages. Patient weight is limited to the specification of the patient table."
+            }
+        }, 
+        "enrollment": {
+            "#text": "40", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 27, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02021071", 
+            "org_study_id": "XCY612-130031"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "XperGuide", 
+                "description": "Live 3D image needle guidance which overlays live fluoroscopy and 3D soft tissue imaging data from previous acquired CT, MR or XperCT.", 
+                "intervention_name": "XperGuide", 
+                "intervention_type": "Radiation"
+            }, 
+            {
+                "arm_group_label": "XperGuide with virtual path planning", 
+                "description": "Instrument guidance allowing certain tasks that would normally occur using continuous X-ray guidance to be performed with reduced dose for patient and staff.", 
+                "intervention_name": "XperGuide with virtual path planning", 
+                "intervention_type": "Radiation"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "December 19, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Cincinnati", 
+                    "country": "United States", 
+                    "state": "Ohio", 
+                    "zip": "45229"
+                }, 
+                "name": "Cincinnati Children's Hospital Medical Center"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_groups": "2", 
+        "official_title": "Evaluation of Adding Virtual Path Planning to the Philips FD20 XperGuide to Reduce Radiation Dose During Image-guided Needle Interventional Procedures.", 
+        "overall_official": {
+            "affiliation": "Children's Hospital Medical Center, Cincinnati", 
+            "last_name": "John Racadio, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Enrolling by invitation", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "November 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Evaluate the workflow, usability, and clinical impact of device by assessing clinical outcome and success of the procedures.", 
+            "measure": "Qualitative clinical usefulness", 
+            "safety_issue": "No", 
+            "time_frame": "Patients will be followed starting from the procedure until hospital discharge or until 2 weeks after date of procedure at the latest"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02021071"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Measure radiation dose delivered to patient during needle interventional procedures and compare collected results with existing data from needle interventional procedures performed XperGuide alone", 
+                "measure": "Radiation dose", 
+                "safety_issue": "No", 
+                "time_frame": "Patients will be followed starting from the procedure until hospital discharge or until 2 weeks after date of procedure at the latest"
+            }, 
+            {
+                "description": "Measure radiation dose received by operator during needle interventional procedures and compare collected results with existing data from needle interventional procedures performed XperGuide alone", 
+                "measure": "Radiation dose", 
+                "safety_issue": "No", 
+                "time_frame": "Patients will be followed starting from the procedure until hospital discharge or until 2 weeks after date of procedure at the latest"
+            }
+        ], 
+        "source": "Philips Healthcare", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Philips Healthcare", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "December 2013", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "December 2013"
+    }
+}

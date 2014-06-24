@@ -1,0 +1,969 @@
+{
+    "clinical_study": {
+        "@rank": "34984", 
+        "arm_group": [
+            {
+                "arm_group_label": "GS-7977", 
+                "arm_group_type": "Experimental", 
+                "description": "Participants with genotype 2 will receive GS-7977 plus RBV for 12 weeks and participants with genotype 3 will receive GS-7977 plus RBV for 24 weeks."
+            }, 
+            {
+                "arm_group_label": "Placebo", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Participants will receive placebo to match GS-7977 and placebo to match RBV."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This study will evaluate the safety, tolerability, and antiviral efficacy of GS-7977 with\n      ribavirin (RBV) in participants with genotype 2 or 3 hepatitis C virus (HCV) infection."
+        }, 
+        "brief_title": "GS-7977 and Ribavirin in Treatment Naive and Treatment Experienced Subjects With Chronic Genotype 2 or 3 HCV Infection", 
+        "completion_date": {
+            "#text": "January 2014", 
+            "@type": "Actual"
+        }, 
+        "condition": "Hepatitis C", 
+        "condition_browse": {
+            "mesh_term": [
+                "Hepatitis", 
+                "Hepatitis A", 
+                "Hepatitis C"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Age > 18 with chronic genotype 2 or 3 HCV infection.\n\n          -  HCV RNA > 10,000 IU/mL at Screening.\n\n          -  Subjects must be treatment na\u00efve or treatment experienced.\n\n          -  Presence or absence of cirrhosis; a liver biopsy may be required.\n\n          -  Healthy according to medical history and physical examination with the exception of\n             HCV diagnosis.\n\n          -  Agree to use two forms of highly effective contraception for the duration of the\n             study and 6 months after the last dose of study medication.\n\n        Exclusion Criteria:\n\n          -  Prior use of any other inhibitor of the HCV NS5B Polymerase.\n\n          -  History of any other clinically significant chronic liver disease.\n\n          -  Evidence of or history of decompensated liver disease.\n\n          -  HIV or chronic hepatitis B virus (HBV) infection.\n\n          -  Hepatocellular carcinoma (HCC) or other malignancy (with exception of certain\n             resolved skin cancers).\n\n          -  Chronic use of immunosuppressive agents or immunomodulatory agents.\n\n          -  History or current evidence of any condition, therapy, laboratory abnormality or\n             other circumstance that might confound the results of the study, or interfere with\n             the subject's participation for the full duration of the study or not be in the best\n             interest of the subject in the opinion of the investigator."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "421", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "September 5, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01682720", 
+            "org_study_id": "GS-US-334-0133", 
+            "secondary_id": "2012-001942-16"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "GS-7977", 
+                "description": "GS-7977 400 mg tablet administered orally once daily", 
+                "intervention_name": "GS-7977", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "Sovaldi\u2122", 
+                    "GS-7977", 
+                    "PSI-7977"
+                ]
+            }, 
+            {
+                "arm_group_label": "GS-7977", 
+                "description": "Ribavirin (RBV) 200 mg tablets administered orally in a divided daily dose according to package insert weight-based dosing recommendations (< 75 kg = 1000 mg and \u2265 75 kg = 1200 mg)", 
+                "intervention_name": "RBV", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Placebo", 
+                "description": "Placebo to match GS-7977 tablet administered orally once daily", 
+                "intervention_name": "Placebo to match GS-7977", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Placebo", 
+                "description": "Placebo to match RBV tablets administered orally in a divided daily dose", 
+                "intervention_name": "Placebo to match RBV", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Ribavirin"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "HCV", 
+            "Genotype 2", 
+            "Genotype 3"
+        ], 
+        "lastchanged_date": "January 31, 2014", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Graz", 
+                        "country": "Austria", 
+                        "zip": "A-8036"
+                    }, 
+                    "name": "Medizinische Universitat Graz"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wien", 
+                        "country": "Austria", 
+                        "zip": "1090"
+                    }, 
+                    "name": "Medizinische Universitat Wien"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wien", 
+                        "country": "Austria", 
+                        "zip": "1160"
+                    }, 
+                    "name": "Wilhelminenspital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tallin", 
+                        "country": "Estonia", 
+                        "zip": "10617"
+                    }, 
+                    "name": "West Tallinn Central Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tartu", 
+                        "country": "Estonia", 
+                        "zip": "51014"
+                    }, 
+                    "name": "Tartu University Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "CHRU Lille", 
+                        "country": "France", 
+                        "zip": "59037"
+                    }, 
+                    "name": "CHRU de Lille, Hopital Claude Huriez"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Clermont Ferrand", 
+                        "country": "France", 
+                        "zip": "63003"
+                    }, 
+                    "name": "CHU Estaing"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Clichy Cedex", 
+                        "country": "France", 
+                        "zip": "92110"
+                    }, 
+                    "name": "Hopital Beaujon"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Creteil Cedex", 
+                        "country": "France", 
+                        "zip": "94000"
+                    }, 
+                    "name": "Hopital Henri Mondor"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Grenoble", 
+                        "country": "France", 
+                        "zip": "38043"
+                    }, 
+                    "name": "D\u00e9partement H\u00e9patogastroent\u00e9rologie - CHU de Grenoble"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Marseille, Cedex 8", 
+                        "country": "France", 
+                        "zip": "13008"
+                    }, 
+                    "name": "Hopital Saint Joseph"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montpellier", 
+                        "country": "France", 
+                        "zip": "34295"
+                    }, 
+                    "name": "Hopital Saint Eloi"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nice", 
+                        "country": "France", 
+                        "zip": "6202"
+                    }, 
+                    "name": "Hopital de l Archet 2"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "zip": "75012"
+                    }, 
+                    "name": "Hopital Saint Antoine"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "zip": "75013"
+                    }, 
+                    "name": "Hopital Pitie Salpetriere"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paris, Cedex 14", 
+                        "country": "France", 
+                        "zip": "75679"
+                    }, 
+                    "name": "Hopitaux Universitaires"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Pessac", 
+                        "country": "France", 
+                        "zip": "33604"
+                    }, 
+                    "name": "Groupe Hospitalier Sud - H\u00f4pital Haut-L\u00e9v\u00eaque - USN"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rennes Cedex 9", 
+                        "country": "France", 
+                        "zip": "35033"
+                    }, 
+                    "name": "CHU Pontchaillou - H\u00e9matologie Clinique"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Strasbourg", 
+                        "country": "France", 
+                        "zip": "67091"
+                    }, 
+                    "name": "Centre Hospitalier Universitaire de Strasbourg"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Vandoeuvre les Nancy", 
+                        "country": "France", 
+                        "zip": "54511"
+                    }, 
+                    "name": "CHU de Nancy, H\u00f4pital de Brabois"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Freiburg", 
+                        "country": "Germany", 
+                        "state": "Baden Wuerttemberg", 
+                        "zip": "79098"
+                    }, 
+                    "name": "Praxiszentrum"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Berlin", 
+                        "country": "Germany", 
+                        "zip": "10969"
+                    }, 
+                    "name": "Leber- and Studienzentrum am Checkpoint"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bonn", 
+                        "country": "Germany", 
+                        "zip": "53125"
+                    }, 
+                    "name": "Universitaetsklinikum Bonn"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dusseldorf", 
+                        "country": "Germany", 
+                        "zip": "40225"
+                    }, 
+                    "name": "Heinrich Heine Unversitat"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Frankfurt am Main", 
+                        "country": "Germany", 
+                        "zip": "60590"
+                    }, 
+                    "name": "JWG-Universit\u00e4t Frankfurt"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hamburg", 
+                        "country": "Germany", 
+                        "zip": "20099"
+                    }, 
+                    "name": "Asklepios Klinik Sankt Georg H"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hamburg", 
+                        "country": "Germany", 
+                        "zip": "20246"
+                    }, 
+                    "name": "Universitatsklinikum"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hannover", 
+                        "country": "Germany", 
+                        "zip": "30625"
+                    }, 
+                    "name": "Medizinische Hochschule Hannov"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Heidelberg", 
+                        "country": "Germany", 
+                        "zip": "69120"
+                    }, 
+                    "name": "Medizinische Klinik IV, Dep. o"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Herne", 
+                        "country": "Germany", 
+                        "zip": "44623"
+                    }, 
+                    "name": "Gastroenterologische Gemeinsch"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kiel", 
+                        "country": "Germany", 
+                        "zip": "24146"
+                    }, 
+                    "name": "Leberstudienzentrum Kiel"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Leipzig", 
+                        "country": "Germany", 
+                        "zip": "4103"
+                    }, 
+                    "name": "Universitaetsklinikum Leipzig"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Munchen", 
+                        "country": "Germany", 
+                        "zip": "81377"
+                    }, 
+                    "name": "Klinikum der Universit\u00e4t M\u00fcnch"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "M\u00fcnster", 
+                        "country": "Germany", 
+                        "zip": "D-48143"
+                    }, 
+                    "name": "Centrum fuer interdisziplinaere Medizin Muenster GmbH"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Giovanni Rotondo", 
+                        "country": "Italy", 
+                        "state": "Foggia", 
+                        "zip": "71013"
+                    }, 
+                    "name": "Ospedale Casa Sollievo"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bologna", 
+                        "country": "Italy", 
+                        "zip": "40138"
+                    }, 
+                    "name": "Azienda Ospedaliera di Bologna - Policlinico S. Orsola Malpighi"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Florence", 
+                        "country": "Italy", 
+                        "zip": "50011"
+                    }, 
+                    "name": "Ospedale S. Annunziata"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Genova", 
+                        "country": "Italy", 
+                        "zip": "16128"
+                    }, 
+                    "name": "Ente Ospedaliero Ospedali Galliera"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milano", 
+                        "country": "Italy", 
+                        "zip": "20162"
+                    }, 
+                    "name": "Azienda Ospedaliera Ospedale Niguarda C\u00e0 Granda"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milano", 
+                        "country": "Italy", 
+                        "zip": "20122"
+                    }, 
+                    "name": "Fondazione IRCCS CA Granada - Ospedale Maggiore Policlinico"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Padova", 
+                        "country": "Italy", 
+                        "zip": "35100"
+                    }, 
+                    "name": "University of Padova"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Palermo", 
+                        "country": "Italy", 
+                        "zip": "90127"
+                    }, 
+                    "name": "University of Palermo"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Parma", 
+                        "country": "Italy", 
+                        "zip": "43100"
+                    }, 
+                    "name": "Azienda Ospedaliero Universitaria di Parma"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Roma", 
+                        "country": "Italy", 
+                        "zip": "133"
+                    }, 
+                    "name": "Fondazione PTV - Policlinico Tor Vergata"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Roma", 
+                        "country": "Italy", 
+                        "zip": "149"
+                    }, 
+                    "name": "INMI \"Lazzaro Spallanzani\" I.R.C.C.S."
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Torino", 
+                        "country": "Italy", 
+                        "zip": "10126"
+                    }, 
+                    "name": "Azienda Ospedaliera Universitaria San Giovanni Battista di Torino"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Amsterdam", 
+                        "country": "Netherlands", 
+                        "zip": "1105 AZ"
+                    }, 
+                    "name": "Academisch Medisch Centrum"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Leiden", 
+                        "country": "Netherlands", 
+                        "zip": "2300 RC"
+                    }, 
+                    "name": "Leids Universitair Medisch Centrum"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nijmegen", 
+                        "country": "Netherlands", 
+                        "zip": "6500 HB"
+                    }, 
+                    "name": "UMC St. Radboud - Gastroenterology"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rotterdam", 
+                        "country": "Netherlands", 
+                        "zip": "3015 CE"
+                    }, 
+                    "name": "Erasmus MC"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bialystok", 
+                        "country": "Poland", 
+                        "zip": "15-540"
+                    }, 
+                    "name": "Wojewodzki Szpital Specjalistyczny im Dluskeigo"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lodz", 
+                        "country": "Poland", 
+                        "zip": "91-347"
+                    }, 
+                    "name": "Wojewodzki Specjalistyczny Szpital im. W. Bieganskiego"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Warszawa", 
+                        "country": "Poland", 
+                        "zip": "01-201"
+                    }, 
+                    "name": "SP ZOZ Wojewodzki Szpital Zakazny w Warszawie"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Wroclaw", 
+                        "country": "Poland", 
+                        "zip": "50-349"
+                    }, 
+                    "name": "NZOZ Centrum Badan Klinicznych"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Barcelona", 
+                        "country": "Spain", 
+                        "zip": "08035"
+                    }, 
+                    "name": "Hospital Universitari Vall d'H"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Barcelona", 
+                        "country": "Spain", 
+                        "zip": "08036"
+                    }, 
+                    "name": "Hospital Casa de la Maternidad"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Madrid", 
+                        "country": "Spain", 
+                        "zip": "28046"
+                    }, 
+                    "name": "Hospital Universitario La Paz"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Madrid", 
+                        "country": "Spain", 
+                        "zip": "28029"
+                    }, 
+                    "name": "Hospital Carlos III"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Majadahonda", 
+                        "country": "Spain", 
+                        "zip": "28222"
+                    }, 
+                    "name": "Hospital Puerta de Hierro Maja"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Malaga", 
+                        "country": "Spain", 
+                        "zip": "29071"
+                    }, 
+                    "name": "Complejo Hospitalario de Especialidades Virgen de la Victoria"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Santander", 
+                        "country": "Spain", 
+                        "zip": "39008"
+                    }, 
+                    "name": "Hospital Universitario Marques"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sevilla", 
+                        "country": "Spain", 
+                        "zip": "41014"
+                    }, 
+                    "name": "Valme Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Valencia", 
+                        "country": "Spain", 
+                        "zip": "46014"
+                    }, 
+                    "name": "Hospital General Universitario de Valencia"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "G\u00f6teborg", 
+                        "country": "Sweden", 
+                        "zip": "41685"
+                    }, 
+                    "name": "Sahlgrenska University Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lund", 
+                        "country": "Sweden", 
+                        "zip": "22185"
+                    }, 
+                    "name": "Sk\u00e5nes Universitetssjukhus, Lund"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Malmo", 
+                        "country": "Sweden", 
+                        "zip": "20502"
+                    }, 
+                    "name": "Skanes Universitetssjukhus"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Stockholm", 
+                        "country": "Sweden", 
+                        "zip": "14186"
+                    }, 
+                    "name": "Karolinska Instituet"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Edgbaston", 
+                        "country": "United Kingdom", 
+                        "state": "Birmingham", 
+                        "zip": "B15 2TH"
+                    }, 
+                    "name": "University of Birmingham"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Southhampton", 
+                        "country": "United Kingdom", 
+                        "state": "Hampshire", 
+                        "zip": "SO41 3QP"
+                    }, 
+                    "name": "Southampton University Hospital NHS Trust"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Denmark Hill", 
+                        "country": "United Kingdom", 
+                        "state": "London", 
+                        "zip": "SE5 9RS"
+                    }, 
+                    "name": "King's College Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Paddington", 
+                        "country": "United Kingdom", 
+                        "state": "London", 
+                        "zip": "W2 1NY"
+                    }, 
+                    "name": "The Liver Unit"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Crumpsall", 
+                        "country": "United Kingdom", 
+                        "state": "Manchester", 
+                        "zip": "M8 5RB"
+                    }, 
+                    "name": "North Manchester General Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Bristol", 
+                        "country": "United Kingdom", 
+                        "zip": "BS2 8HW"
+                    }, 
+                    "name": "Bristol Royal Infirmary"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "London", 
+                        "country": "United Kingdom", 
+                        "zip": "SW109NH"
+                    }, 
+                    "name": "Chelsea & Westminster Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "London", 
+                        "country": "United Kingdom", 
+                        "zip": "NW3 2PF"
+                    }, 
+                    "name": "Royal Free Hospital and University College London Hospital"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "London", 
+                        "country": "United Kingdom", 
+                        "zip": "E1 2AT"
+                    }, 
+                    "name": "Queen Marys University of London"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nottingham", 
+                        "country": "United Kingdom", 
+                        "zip": "NG7 2UH"
+                    }, 
+                    "name": "Nottingham University Hospitals-NHS"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "Austria", 
+                "Estonia", 
+                "France", 
+                "Germany", 
+                "Italy", 
+                "Netherlands", 
+                "Poland", 
+                "Spain", 
+                "Sweden", 
+                "United Kingdom"
+            ]
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "A Phase 3, Multicenter, Randomized, Double-Blind, Placebo-Controlled Study to Investigate the Efficacy and Safety of GS-7977+Ribavirin for 12 Weeks in Treatment Naive and Treatment Experienced Subjects With Chronic Genotype 2 or 3 HCV Infection.", 
+        "overall_official": {
+            "affiliation": "Gilead Sciences Study Director", 
+            "last_name": "Rob Hyland, DPhil", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": [
+                "United States: Food and Drug Administration", 
+                "Germany: Federal Institute for Drugs and Medical Devices", 
+                "Austria: Federal Office for Safety in Health Care", 
+                "Poland: Office for Registration of Medicinal Products, Medical Devices and Biocidal Products", 
+                "Sweden: Medical Products Agency", 
+                "Italy: Ethics Committee", 
+                "France: Agence Nationale de S\u00e9curit\u00e9 du M\u00e9dicament et des produits de sant\u00e9", 
+                "United Kingdom: Medicines and Healthcare Products Regulatory Agency", 
+                "Spain: Agencia Espa\u00f1ola de Medicamentos y Productos Sanitarios", 
+                "Estonia: The State Agency of Medicine", 
+                "Netherlands: The Central Committee on Research Involving Human Subjects (CCMO)"
+            ], 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "October 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "SVR12 is defined as HCV RNA < the lower limit of quantitation (LLOQ) 12 weeks following the last dose of study drug.", 
+                "measure": "Proportion of participants with sustained virologic response 12 weeks after discontinuation of therapy (SVR12)", 
+                "safety_issue": "No", 
+                "time_frame": "Posttreatment Week 12"
+            }, 
+            {
+                "measure": "Any adverse events leading to permanent discontinuation of study drug(s)", 
+                "safety_issue": "No", 
+                "time_frame": "Up to 24 weeks"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01682720"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "SVR4 and SVR24 is defined as HCV RNA < LLOQ at 4 and 24 weeks following the last dose of study drug, respectively.", 
+                "measure": "Proportion of participants with sustained virologic response at 4 and 24 weeks after discontinuation of therapy (SVR4 and SVR24)", 
+                "safety_issue": "No", 
+                "time_frame": "Posttreatment Weeks 4 and 24"
+            }, 
+            {
+                "description": "Viral breakthrough is defined as having confirmed detectable HCV RNA levels (HCV RNA > LLOQ) after having previously had undetectable HCV RNA levels (HCV RNA < LLOQ) while on treatment.", 
+                "measure": "Proportion of participants experiencing viral breakthrough", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline up to Week 24"
+            }, 
+            {
+                "description": "Viral relapse is defined as having achieved undetectable HCV RNA levels (HCV RNA < LLOQ) at end of treatment, but did not achieve an SVR.", 
+                "measure": "Proportion of participants experiencing viral relapse", 
+                "safety_issue": "No", 
+                "time_frame": "Up to Posttreatment Week 24"
+            }
+        ], 
+        "source": "Gilead Sciences", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Gilead Sciences", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "September 2012", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2014"
+    }
+}

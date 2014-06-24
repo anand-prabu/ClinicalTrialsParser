@@ -1,0 +1,160 @@
+{
+    "clinical_study": {
+        "@rank": "90898", 
+        "arm_group": {
+            "arm_group_label": "Stroke patients", 
+            "arm_group_type": "Experimental", 
+            "description": "Patients undergo a first evaluation, and a second evaluation one month later to determine their natural evolution.  The following month, patients get 12 sessions of rhythmic therapy.  A third evaluation is organized straight after this month and a fourth evaluation, 3 months after to assess the after-effects of the therapy."
+        }, 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to determine whether rhythmic upper-limb movement training in\n      post-stroke patients allows to improve only this particular type of movements or if it also\n      improves some parameters of discrete movements.  Based on our results we hope to be able to\n      answer a fundamental question: are rhythmic and discrete movements two independent\n      primitives?"
+        }, 
+        "brief_title": "Effect of Rhythmic Upper-limb Training in Stroke Patients", 
+        "completion_date": {
+            "#text": "August 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Cerebral Stroke", 
+        "condition_browse": {
+            "mesh_term": [
+                "Stroke", 
+                "Cerebral Infarction"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  more than 6 months post-stroke patients\n\n          -  Fugl-Meyer between 7 and 55\n\n          -  Maintain the same intensity of rehabilitation during the study\n\n        Exclusion Criteria:\n\n          -  cerebellar   stroke\n\n          -  severe aphasia or cognitive disorder\n\n          -  any other neurological disorder"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "20", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "April 30, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02139553", 
+            "org_study_id": "ULRM-001"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Stroke patients", 
+                "description": "Stroke patients have 12 rehabilitation sessions on a planar rehabilitation robot, Reaplan, focussed on rhythmic arm movements.", 
+                "intervention_name": "Rhythmic rehabilitation", 
+                "intervention_type": "Procedure"
+            }, 
+            {
+                "arm_group_label": "Stroke patients", 
+                "description": "Evaluation of the stability of the patients during one month before the rhythmic therapy", 
+                "intervention_name": "Stroke patients", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": "Stroke patients", 
+                "description": "Evaluation of the after effects of the rhythmic therapy, three months follow-up", 
+                "intervention_name": "Stroke patients", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Rhythmic versus discrete movements", 
+            "Rehabilitation"
+        ], 
+        "lastchanged_date": "May 13, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Woluwe-St-Lambert", 
+                    "country": "Belgium", 
+                    "state": "Brabant Wallon", 
+                    "zip": "1200"
+                }, 
+                "name": "Cliniques universitaires Saint-Luc"
+            }
+        }, 
+        "location_countries": {
+            "country": "Belgium"
+        }, 
+        "number_of_arms": "1", 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "Belgium: Ethics Committee", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "October 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "Patients are asked to fulfill rhythmic movements on the end-effector robot Reaplan. The smoothness is assessed with following metrics:\nnumber of peaks in velocity profile\nTENT value\nlogarithmic dimensionless square jerk", 
+                "measure": "Change in movement smoothness in rhythmic straight movements after one month of rhythmic therapy", 
+                "safety_issue": "No", 
+                "time_frame": "1 week to 1 day before therapy and 1 day to 1 week after therapy"
+            }, 
+            {
+                "description": "Patients are asked to fulfill discrete movements on the end-effector robot Reaplan. The smoothness is assessed with following metrics:\nnumber of peaks in velocity profile\nTENT value\nlogarithmic dimensionless square jerk", 
+                "measure": "Change in movement smoothness in discrete straight movements after one month of rhythmic therapy", 
+                "safety_issue": "No", 
+                "time_frame": "1 week to 1 day before therapy and 1 day to 1 week after therapy"
+            }, 
+            {
+                "description": "Patients are asked to fulfill discrete movements on the end-effector robot Reaplan. The accuracy is assessed.", 
+                "measure": "Change in accuracy of discrete straight movements after one month of rhythmic therapy", 
+                "safety_issue": "No", 
+                "time_frame": "1 week to 1 day before therapy and 1 day to 1 week after therapy"
+            }, 
+            {
+                "description": "Patients are asked to fulfill 10 circular movements on the end-effector robot Reaplan. The movement smoothness are assessed", 
+                "measure": "Change in smoothness of rhythmic circular movement after rhythmic therapy", 
+                "safety_issue": "No", 
+                "time_frame": "1 day to 1 week before therapy and 1day to 1 week after therapy"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02139553"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Upper limb Fugl-Meyer Assessment\nBox and block test\nAshworth test", 
+                "measure": "Change of the general motricity of the patient due to one month rhythmic therapy", 
+                "safety_issue": "No", 
+                "time_frame": "1 week to 1 day before therapy and 1 day to 1 week after therapy"
+            }, 
+            {
+                "description": "Evolution of the movement smoothness in rhythmic and discrete movements, the movement accuracy in discrete movements and the general motricity", 
+                "measure": "Therapy after effects", 
+                "safety_issue": "No", 
+                "time_frame": "1 day to one week after therapy and 3 months after therapy"
+            }, 
+            {
+                "description": "Natural evolution of the movement smoothness in rhythmic and discrete movements, of the accuracy in discrete movements and of the general motricity of the patient", 
+                "measure": "Assessment of the natural evolution of the patient", 
+                "safety_issue": "No", 
+                "time_frame": "4 to 5 weeks before therapy and 1 week to 1 day before therapy"
+            }
+        ], 
+        "source": "Cliniques universitaires Saint-Luc- Universit\u00e9 Catholique de Louvain", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Cliniques universitaires Saint-Luc- Universit\u00e9 Catholique de Louvain", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "April 2014", 
+        "study_design": "Intervention Model: Crossover Assignment, Masking: Single Blind (Outcomes Assessor), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2014"
+    }
+}

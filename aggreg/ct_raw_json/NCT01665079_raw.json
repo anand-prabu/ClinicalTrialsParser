@@ -1,0 +1,118 @@
+{
+    "clinical_study": {
+        "@rank": "134305", 
+        "arm_group": {
+            "arm_group_label": "Propofol", 
+            "arm_group_type": "Experimental", 
+            "description": "14 obese patients(IMC>35 kg m-2) scheduled for laparoscopic bariatric surgery"
+        }, 
+        "brief_summary": {
+            "textblock": "The aim of this study is to characterize the Pharmacokinetic/Pharmacodynamic relationship of\n      a single bolus dose of propofol in obese patients and to extract a time to peak effect\n      (t-peak) from the estimated model parameters."
+        }, 
+        "brief_title": "Propofol Effect-Site Target Controlled Infusion in the Obese: Characterization of the Time Profile of Bispectral Index Response", 
+        "completion_date": {
+            "#text": "November 2011", 
+            "@type": "Actual"
+        }, 
+        "condition": "Obesity", 
+        "condition_browse": {
+            "mesh_term": "Obesity"
+        }, 
+        "detailed_description": {
+            "textblock": "Target controlled infusion (TCI) is a technique to administer intravenous drugs that allows\n      rapid achievement and maintenance of predetermined drug concentrations, either in plasma\n      (Cp) or at the site of effect (Ce).\n\n      To characterize the time profile of propofol effect an additional parameter, the\n      equilibration half time between plasma and effect site (T1/2keo) needs to be incorporated in\n      the pharmacokinetic (PK) model."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  IMC > 35 kg m-2\n\n          -  Scheduled for laparoscopic bariatric surgery\n\n          -  ASA I-II patients\n\n          -  Between 20 and 60 yr of age.\n\n        Exclusion Criteria:\n\n          -  Patients with allergy to study drugs\n\n          -  Uncontrolled hypertension\n\n          -  Heart block greater than first degree\n\n          -  Take any drug acting in the central nervous system"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "60 Years", 
+            "minimum_age": "20 Years"
+        }, 
+        "enrollment": {
+            "#text": "14", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "August 9, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01665079", 
+            "org_study_id": "Propofol TCI obese"
+        }, 
+        "intervention": {
+            "arm_group_label": "Propofol", 
+            "description": "Propofol was administered by plasma TCI and a bolus dose was given by setting the initial plasma target between 12-16 \u03bcg/ml according to the anesthesiologist criteria. The protocol target range was selected based on previous experience using this model in the obese. After the patients reached this target, propofol infusion was stopped until the patients woke up (BIS>75). No other drugs were given during this period. Facemask ventilation was assisted only if necessary to maintain SpO2 > 90%. BIS data and propofol infusion data were automatically recorded every five seconds using the AnestFusor\u00a9 program. Arterial blood samples of 4 ml for propofol assays were collected at 1, 2, 3, 5, 7 and 10 minutes after the initial bolus dose or until BIS > 75. After the patient woke up the study was considered finished and propofol infusion was restarted according to the anesthesiologist plan.", 
+            "intervention_name": "Propofol", 
+            "intervention_type": "Drug"
+        }, 
+        "intervention_browse": {
+            "mesh_term": "Propofol"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "anaesthetics iv", 
+            "propofol", 
+            "pharmacokinetics", 
+            "pharmacodynamic"
+        ], 
+        "lastchanged_date": "August 14, 2012", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Santiago", 
+                    "country": "Chile"
+                }, 
+                "name": "Clinica Alemana"
+            }
+        }, 
+        "location_countries": {
+            "country": "Chile"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Propofol Effect-Site Target Controlled Infusion in the Obese: Characterization of the Time Profile of Bispectral Index Response.", 
+        "overall_official": {
+            "affiliation": "Clinica Alemana Universidad del Desarrollo", 
+            "last_name": "Pablo O Sep\u00falveda, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Chile: Institutional Review Board", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 4", 
+        "primary_completion_date": {
+            "#text": "November 2011", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Pharmacokinetic parameters (V1, V2, V3, CL, Q)\nPharmacodynamic parameters (E0, Emax, C50, Gamma, t1/2Ke0, T peak )", 
+            "measure": "Profile of Pharmacokinetic and Pharmacodynamic of an induction bolus dose of propofol in obese patients.", 
+            "safety_issue": "No", 
+            "time_frame": "1, 2, 3, 5, 7 and 10 minutes after the initial bolus dose or until BIS > 75"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01665079"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Universidad del Desarrollo", 
+            "investigator_full_name": "Pablo Sepulveda", 
+            "investigator_title": "Profesor Asociado Anestesiolog\u00eda", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "source": "Universidad del Desarrollo", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Universidad del Desarrollo", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "April 2011", 
+        "study_design": "Endpoint Classification: Pharmacokinetics/Dynamics Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Supportive Care", 
+        "study_type": "Interventional", 
+        "verification_date": "August 2012"
+    }
+}

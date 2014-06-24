@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="30193">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 04, 2014</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT02017717</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CA209-143</org_study_id>
+    <secondary_id>2013-003738-34</secondary_id>
+    <nct_id>NCT02017717</nct_id>
+  </id_info>
+  <brief_title>A Randomized Study of Nivolumab or Nivolumab Combined With Ipilimumab Versus Bevacizumab in Adult Subjects With Recurrent Glioblastoma(GBM)(CheckMate 143)</brief_title>
+  <official_title>A Randomized Phase IIb, Open Label Study of Nivolumab or Nivolumab in Combination With Ipilimumab Versus Bevacizumab in Adult Subjects With Recurrent Glioblastoma (GBM)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bristol-Myers Squibb</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Bristol-Myers Squibb</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <authority>United States: Institutional Review Board</authority>
+    <authority>Germany: Federal Institute for Drugs and Medical Devices</authority>
+    <authority>Germany: Ministry of Health</authority>
+    <authority>France: Agence Nationale de Sécurité du Médicament et des produits de santé</authority>
+    <authority>Spain: Spanish Agency of Medicines</authority>
+    <authority>Denmark: Danish Dataprotection Agency</authority>
+    <authority>Denmark: Danish Medicines Agency</authority>
+    <authority>Denmark: The Danish National Committee on Biomedical Research Ethics</authority>
+    <authority>Sweden: Medical Products Agency</authority>
+    <authority>Sweden: The National Board of Health and Welfare</authority>
+    <authority>Sweden: Swedish Data Inspection Board</authority>
+    <authority>Sweden: Swedish Research Council</authority>
+    <authority>Sweden: Swedish National Council on Medical Ethics</authority>
+    <authority>Netherlands: The Central Committee on Research Involving Human Subjects (CCMO)</authority>
+    <authority>United Kingdom: Medicines and Healthcare Products Regulatory Agency</authority>
+    <authority>Italy: Ministry of Health</authority>
+    <authority>Italy: National Bioethics Committee</authority>
+    <authority>Italy: National Institute of Health</authority>
+    <authority>Italy: National Monitoring Centre for Clinical Trials - Ministry of Health</authority>
+    <authority>Italy: The Italian Medicines Agency</authority>
+    <authority>Switzerland: Federal Office of Public Health</authority>
+    <authority>Australia: Department of Health and Ageing Therapeutic Goods Administration</authority>
+    <authority>Canada: Health Canada</authority>
+    <authority>Poland: National Institute of Medicines</authority>
+    <authority>Belgium: The Federal Public Service (FPS) Health, Food Chain Safety and Environment</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the study is to understand the safety, tolerability and efficacy of Nivolumab
+      as a single agent or in combination with Ipilimumab versus Bevacizumab in patients diagnosed
+      with Recurrent Glioblastoma (GBM).
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>January 2014</start_date>
+  <completion_date type="Anticipated">January 2018</completion_date>
+  <primary_completion_date type="Anticipated">January 2018</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Cohort 1: Safety and tolerability based on drug related events leading to permanent discontinuation prior to completing 4 doses</measure>
+    <time_frame>Approximately up to 8 months</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cohort 2: Overall Survival (OS)</measure>
+    <time_frame>After 176 death events (approximately 44 months)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>OS of Nivolumab, or Nivolumab in combination with Ipilimumab versus Bevacizumab.
+Overall Survival is defined as the time between the date of randomization and the date of death due to any cause</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival (PFS)</measure>
+    <time_frame>After 176 death events (approximately 44 months)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Comparing PFS between Nivolumab, or Nivolumab in combination with Ipilimumab versus Bevacizumab.
+PFS is defined as the time from randomization to the date of the first documented tumor progression or death due to any cause</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate(ORR)</measure>
+    <time_frame>After 176 death events (approximately 44 months)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Comparing ORR between Nivolumab, or Nivolumab in combination with Ipilimumab versus Bevacizumab.
+ORR is defined as the number of subjects whose best overall response (BOR) is Complete Response (CR) or Partial Response (PR) divided by all randomized subjects</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>After 176 death events (Approximately 44 months)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Comparing OS between Nivolumab in combination with Ipilimumab versus Nivolumab</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">264</enrollment>
+  <condition>Recurrent Glioblastoma</condition>
+  <arm_group>
+    <arm_group_label>Arm N: Nivolumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cohort 1 and 2: Nivolumab  solution intravenously 3mg/kg once every 2 weeks until disease progression or unacceptable toxicity</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm N+I: Nivolumab+Ipilimumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cohort 1 and 2: Nivolumab  solution 1mg/kg + Ipilimumab solution 3mg/kg intravenously once every 3 weeks for four doses
+Followed by Nivolumab  solution 3mg/kg intravenously once every 2 weeks until disease progression or unacceptable toxicity</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B: Bevacizumab</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Cohort 2: Bevacizumab  solution 10 mg/kg intravenously once every 2 weeks until disease progression or unacceptable toxicity</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Nivolumab</intervention_name>
+    <arm_group_label>Arm N: Nivolumab</arm_group_label>
+    <arm_group_label>Arm N+I: Nivolumab+Ipilimumab</arm_group_label>
+    <other_name>BMS-936558</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Ipilimumab</intervention_name>
+    <arm_group_label>Arm N+I: Nivolumab+Ipilimumab</arm_group_label>
+    <other_name>Yervoy</other_name>
+    <other_name>BMS-734016</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Bevacizumab</intervention_name>
+    <arm_group_label>Arm B: Bevacizumab</arm_group_label>
+    <other_name>Avastin</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        For more information regarding BMS clinical trial participation, please visit
+        www.BMSStudyConnect.com
+
+        Inclusion Criteria:
+
+          -  Subjects with histologically confirmed Grade IV malignant glioma
+
+          -  Previous treatment with radiotherapy and temozolomide
+
+          -  Documented first recurrence of GBM
+
+          -  At least one measurable lesion
+
+          -  Karnofsky performance status (PS) ≥ 70
+
+        Exclusion Criteria:
+
+          -  More than one recurrence of GBM
+
+          -  Presence of extracranial metastatic or leptomeningeal disease
+
+          -  Active, known or suspected autoimmune disease
+
+          -  Prior Bevacizumab or other anti-vascular growth factor (VEGF) or anti-angiogenic
+             treatment
+
+          -  Clinically significant cardiovascular disease
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bristol-Myers Squibb</last_name>
+    <role>Study Director</role>
+    <affiliation>Bristol-Myers Squibb</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Recruiting sites have contact information. Please contact the sites directly. If there is no contact information, please email:</last_name>
+    <email>Clinical.Trials@bms.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>First line of the email MUST contain NCT# and Site #.</last_name>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Ucla Neuro-Oncology Program</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Timothy Cloughesy, Site 0009</last_name>
+      <phone>310-794-3521</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Yale University School Of Medicine</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06520</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joachim Baehring, Site 0001</last_name>
+      <phone>203-785-5702</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Moffitt Cancer Center</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Solmaz Sahebjam, Site 0004</last_name>
+      <phone>813-745-4398</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Winship Cancer Institute, Emory University</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alfredo Voloschin, Site 0002</last_name>
+      <phone>404-778-1900</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The Johns Hopkins Hospital</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael Lim, Site 0008</last_name>
+      <phone>410-502-4081</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Dana-Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Reardon, Site 0006</last_name>
+      <phone>617-632-6749</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Cancer Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Antonio Omuro, Site 0003</last_name>
+      <phone>212-639-7523</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Preston Robert Tisch Brain Tumor Center At Duke University</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gordana Vlahovic, Site 0007</last_name>
+      <phone>919-668-2329</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0005</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Liverpool</city>
+        <state>New South Wales</state>
+        <zip>2017</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0035</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>East Bentleigh</city>
+        <state>Victoria</state>
+        <zip>3165</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0034</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Heidelberg</city>
+        <state>Victoria</state>
+        <zip>3084</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0033</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Nedlands</city>
+        <state>Western Australia</state>
+        <zip>6009</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0032</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Aarhus C</city>
+        <zip>8000</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Odense C</city>
+        <zip>5000</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0057</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Bologna</city>
+        <zip>40139</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0010</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Milano</city>
+        <zip>20133</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0011</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Siena</city>
+        <zip>53100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0012</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Torino</city>
+        <zip>10126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0013</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0047</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0046</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0045</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>London</city>
+        <state>Greater London</state>
+        <zip>NW1 2PG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0018</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Manchester</city>
+        <state>Greater Manchester</state>
+        <zip>M20 4BX</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0015</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Local Institution</name>
+      <address>
+        <city>Wirral</city>
+        <state>Merseyside</state>
+        <zip>L63 4JY</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site 0017</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+    <country>Australia</country>
+    <country>Denmark</country>
+    <country>Italy</country>
+    <country>Spain</country>
+    <country>United Kingdom</country>
+  </location_countries>
+  <link>
+    <url>http://ctr.bms.com/ctd/start.do</url>
+    <description>BMS Clinical Trial Information</description>
+  </link>
+  <link>
+    <url>http://www.bms.com/studyconnect/Pages/home.aspx</url>
+    <description>BMS clinical trial educational resource</description>
+  </link>
+  <link>
+    <url>http://www.bms.com/clinical_trials/Pages/Investigator_Inquiry_form.aspx</url>
+    <description>Investigator Inquiry form</description>
+  </link>
+  <link>
+    <url>http://www.fda.gov/MEDWATCH/safety.htm</url>
+    <description>FDA Safety Alerts and Recalls</description>
+  </link>
+  <verification_date>May 2014</verification_date>
+  <lastchanged_date>May 30, 2014</lastchanged_date>
+  <firstreceived_date>December 17, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Glioblastoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Bevacizumab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

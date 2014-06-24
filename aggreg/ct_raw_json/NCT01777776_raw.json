@@ -1,0 +1,936 @@
+{
+    "clinical_study": {
+        "@rank": "129349", 
+        "arm_group": [
+            {
+                "arm_group_label": "Phase Ib", 
+                "arm_group_type": "Experimental", 
+                "description": "Pahse Ib will randomize 18 patients with BRAF mutant melanoma, who are naive or who have progressed on prior therapy tyo evaluate the safety and tolerability of the combination of LEE011 and LGX818."
+            }, 
+            {
+                "arm_group_label": "Phase II arm 1a", 
+                "arm_group_type": "Experimental", 
+                "description": "Phase II arm 1a will randomize 60 patients that are na\u00efve to prior BRAF inhibitor therapy to LGX818+LEE011 to evaluate the effect of adding LEE011 to a BRAFi in this population."
+            }, 
+            {
+                "arm_group_label": "Phase II arm 1b", 
+                "arm_group_type": "Experimental", 
+                "description": "Phase II arm 1b will randomize 30 patients to LGX818. Single agent anti-tumor activity of LGX818 is comparable to other BRAFi that are either approved or in clinical trials. This single agent anti-tumor activity will be compared to that of the combination (LEE011 + LGX818) in the BRAFi na\u00efve patient population."
+            }, 
+            {
+                "arm_group_label": "Phase II arm 2", 
+                "arm_group_type": "Experimental", 
+                "description": "Phase II arm 2 will evaluate a single arm LEE011+LGX818 in 40 patients resistant to prior BRAF inhibitor therapy. Single agent LGX818 has shown limited activity in patients with melanoma who have failed prior BRAF inhibitor treatment; the contribution of LEE011 in this combination will be evaluated."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "To evaluate the safety, tolerability and efficacy of LEE011 and LGX818 when administered\n      orally to patients with BRAF mutant melanoma."
+        }, 
+        "brief_title": "Safety and Efficacy of LEE011 and LGX818 in Patients With BRAF Mutant Melanoma.", 
+        "completion_date": {
+            "#text": "January 2016", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Locally Advanced or Metastatic BRAF Mutant Melanoma", 
+        "condition_browse": {
+            "mesh_term": "Melanoma"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Age \u226518 years.\n\n          -  Diagnosis of locally advanced or metastatic melanoma along with written\n             documentation of BRAF V600 mutation.\n\n          -  ECOG performance status of 0 - 2.\n\n          -  Patients enrolled into Phase Ib must have evidence of evaluable and/or measurable\n             disease as determined by RECIST v1.1.\n\n          -  Patients enrolled into Phase II (BRAFi na\u00efve and resistant) must have evidence of\n             measurable disease as determined by RECIST v1.1.\n\n          -  Archival tumor tissue must be obtained for patients enrolled in Phase Ib and Phase II\n             arm 1a/b- BRAFi na\u00efve patients. If an archival tumor tissue is not available, a fresh\n             tumor sample is acceptable.\n\n          -  For patients enrolled in the phase II arm 2, patients must agree to undergo a fresh\n             tumor biopsy unless one was collected prior to study entry but at the time of disease\n             relapse from the most recent BRAFi treatment.\n\n        Exclusion Criteria:\n\n          -  Symptomatic brain metastases.\n\n          -  Symptomatic or untreated leptomeningeal disease.\n\n          -  Patients with inadequate laboratory values during screening.\n\n          -  In the phase II BRAFi na\u00efve arms (1a/b), prior exposure to CDK4/6 inhibitor (e.g., PD\n             0332991)\n\n          -  Impaired cardiac function or clinically significant cardiac diseases.\n\n          -  Impairment of gastro-intestinal (GI) function or GI disease that may significantly\n             alter the absorption of LEE011 or LGX818.\n\n          -  Patients with concurrent severe and/or uncontrolled concurrent medical conditions.\n\n          -  Previous or concurrent malignancy.\n\n          -  Major surgery < 2 weeks before starting study treatment\n\n          -  Known diagnosis of human immunodeficiency virus (HIV) or hepatitis C.\n\n        Other protocol-defined inclusion/exclusion criteria may apply."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "150", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "January 22, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01777776", 
+            "org_study_id": "CLEE011X2105"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": [
+                    "Phase Ib", 
+                    "Phase II arm 1a", 
+                    "Phase II arm 2"
+                ], 
+                "description": "LEE011 will be administered orally, once daily for 21 consecutive days followed by a 7-day planned break (28-day cycle).", 
+                "intervention_name": "LEE011", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": [
+                    "Phase Ib", 
+                    "Phase II arm 1a", 
+                    "Phase II arm 1b", 
+                    "Phase II arm 2"
+                ], 
+                "description": "LGX818 will be administered orally, once daily on a continuous dosing schedule (28-day cycle).", 
+                "intervention_name": "LGX818", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": "Open-label dose escalation; BRAF inhibitor; LEE011; CDK4/6; LGX818; RAF kinase inhibitor; metastatic melanoma; BRAF; V600", 
+        "lastchanged_date": "February 4, 2014", 
+        "location": [
+            {
+                "contact": {
+                    "email": "gehenderson@ucsd.edu", 
+                    "last_name": "Gerald Henderson", 
+                    "phone": "858-822-4171"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "La Jolla", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "92093-0658"
+                    }, 
+                    "name": "University of California San Diego Dept of Onc"
+                }, 
+                "investigator": {
+                    "last_name": "Gregory Daniels", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "cpalodichuk@mednet.ucla.edu", 
+                    "last_name": "Christy Palodichuk", 
+                    "phone": "310-794-6913"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Los Angeles", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90095"
+                    }, 
+                    "name": "University of California at Los Angeles UCLA 3"
+                }, 
+                "investigator": {
+                    "last_name": "Bartosz Chmielowski", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "david.dennis@dignityhealth.org", 
+                    "last_name": "David Dennis", 
+                    "phone": "415-750-4073"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "San Francisco", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "94117"
+                    }, 
+                    "name": "St. Mary's Medical Center"
+                }, 
+                "investigator": {
+                    "last_name": "Lynn Spitler", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "melissa.fogarty@ucdenver.edu", 
+                    "last_name": "Melissa Fogarty", 
+                    "phone": "720-848-0632"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Aurora", 
+                        "country": "United States", 
+                        "state": "Colorado", 
+                        "zip": "80045"
+                    }, 
+                    "name": "University of Colorado Dept of Oncology"
+                }, 
+                "investigator": {
+                    "last_name": "Rene Gonzalez", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "Geraldine.tomassi@yale.edu", 
+                    "last_name": "Geraldine Tomassi", 
+                    "phone": "203-737-5381"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "New Haven", 
+                        "country": "United States", 
+                        "state": "Connecticut", 
+                        "zip": "06520"
+                    }, 
+                    "name": "Yale University School of Medicine dept of Onc"
+                }, 
+                "investigator": {
+                    "last_name": "Harriet Kluger", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "dmccallie@cancersf.com", 
+                    "last_name": "Donna McCallie", 
+                    "phone": "561-253-3979"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Ocoee", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "*see dep*"
+                    }, 
+                    "name": "Cancer Centers of Florida PA Cancer Centers of South Florid"
+                }, 
+                "investigator": {
+                    "last_name": "Abraham Schwarzberg", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "brandy.jackson-davis@northwestern.edu", 
+                    "last_name": "Brandy Jackson-Davis", 
+                    "phone": "312-695-1005"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Chicago", 
+                        "country": "United States", 
+                        "state": "Illinois", 
+                        "zip": "60611"
+                    }, 
+                    "name": "Northwestern University Clinical Research Office (2)"
+                }, 
+                "investigator": {
+                    "last_name": "Timothy Kuzel", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "greenb@karmanos.org", 
+                    "last_name": "Bryan Green", 
+                    "phone": "313-576-9371"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Detroit", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48201"
+                    }, 
+                    "name": "Wayne State University/Karmanos Cancer Institute Dept of Oncology"
+                }, 
+                "investigator": {
+                    "last_name": "Muaiad Kittaneh", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Las Vegas", 
+                        "country": "United States", 
+                        "state": "Nevada", 
+                        "zip": "89109"
+                    }, 
+                    "name": "Comprehensive Cancer Centers of Nevada CCC of Nevada- Southwest (2)"
+                }, 
+                "status": "Withdrawn"
+            }, 
+            {
+                "contact": {
+                    "email": "Eryn.M.Bagley@hitchcock.org", 
+                    "last_name": "Eryn Bagley", 
+                    "phone": "603-650-4035"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Lebanon", 
+                        "country": "United States", 
+                        "state": "New Hampshire", 
+                        "zip": "03756"
+                    }, 
+                    "name": "Dartmouth Hitchcock Medical Center Dept Onc"
+                }, 
+                "investigator": {
+                    "last_name": "Marc S. Ernstoff", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "Maryann.hochberg@roswellpark.org", 
+                    "last_name": "Maryann Hochberg", 
+                    "phone": "716-845-8947"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Buffalo", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14263"
+                    }, 
+                    "name": "Roswell Park Cancer Institute Dept of Oncology"
+                }, 
+                "investigator": {
+                    "last_name": "Nikhil Khushalani", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Alyona Weinstein", 
+                    "phone": "646-888-4339"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10021"
+                    }, 
+                    "name": "Memorial Sloan Kettering Cancer Center Dept Oncology"
+                }, 
+                "investigator": {
+                    "last_name": "Michael K. Postow", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "k.linney@duke.edu", 
+                    "last_name": "Kristen Linney", 
+                    "phone": "919-684-8239"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Durham", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "27710"
+                    }, 
+                    "name": "Duke University Medical Center SC-6"
+                }, 
+                "investigator": {
+                    "last_name": "April Salama", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "caitlin.spontelli@osumc.edu", 
+                    "last_name": "Caitlin Spontelli", 
+                    "phone": "614-293-2268"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Columbus", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "43210"
+                    }, 
+                    "name": "Ohio State Comprehensive Cancer Center/James Cancer Hospital Ohio State University"
+                }, 
+                "investigator": {
+                    "last_name": "Kari Kendra", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "claeys@ohsu.edu", 
+                    "last_name": "Alisa Claeys", 
+                    "phone": "503-346-0792"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97239"
+                    }, 
+                    "name": "Oregon Health & Science University Dept. of OHSU (3)"
+                }, 
+                "investigator": {
+                    "last_name": "Matthew Taylor", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Portland", 
+                        "country": "United States", 
+                        "state": "Oregon", 
+                        "zip": "97210"
+                    }, 
+                    "name": "Northwest Cancer Specialists HematologyCln/ProvidenceOffice"
+                }, 
+                "status": "Withdrawn"
+            }, 
+            {
+                "contact": {
+                    "email": "Amy.marshall@uphs.upenn.edu", 
+                    "last_name": "Amy Marshall", 
+                    "phone": "215-796-5159"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Philadephia", 
+                        "country": "United States", 
+                        "state": "Pennsylvania", 
+                        "zip": "19104"
+                    }, 
+                    "name": "University of Pennsylvania Medical Center Dept of Oncology"
+                }, 
+                "investigator": {
+                    "last_name": "Ravi Amaravadi", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "fridaye@upmc.edu", 
+                    "last_name": "Erin Friday", 
+                    "phone": "412-623-6121"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Pittsburgh", 
+                        "country": "United States", 
+                        "state": "Pennsylvania"
+                    }, 
+                    "name": "University of Pittsburgh Medical Center SC-4"
+                }, 
+                "investigator": {
+                    "last_name": "Ahmad Tarhini", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Julie Martin", 
+                    "phone": "864-455-3735"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Greenville", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29605"
+                    }, 
+                    "name": "Cancer Centers of the Carolinas CCC Faris"
+                }, 
+                "investigator": {
+                    "last_name": "Joe J. Stephenson, Jr.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "Barbara.j.broome@vanderbilt.edu", 
+                    "last_name": "Barbara J Broome", 
+                    "phone": "615-936-5867"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Nashville", 
+                        "country": "United States", 
+                        "state": "Tennessee", 
+                        "zip": "37232"
+                    }, 
+                    "name": "Vanderbilt University Medical Center SC - Dept of Oncology ."
+                }, 
+                "investigator": {
+                    "last_name": "Jeffrey A. Sosman", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75251"
+                    }, 
+                    "name": "Texas Oncology, P.A. Round Rock"
+                }, 
+                "status": "Withdrawn"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75246"
+                    }, 
+                    "name": "Baylor Health Care System/Sammons Cancer Center Baylor Texas Oncology"
+                }, 
+                "status": "Withdrawn"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75246"
+                    }, 
+                    "name": "US Oncology Central Monitoring"
+                }, 
+                "status": "Withdrawn"
+            }, 
+            {
+                "contact": {
+                    "email": "dleatham@uwashington.edu", 
+                    "last_name": "Daniel Leatham", 
+                    "phone": "206-288-7370"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Seattle", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98109-1023"
+                    }, 
+                    "name": "Seattle Cancer Care Alliance/Fred Hutchinson Cancer Research Dept of Oncology"
+                }, 
+                "investigator": {
+                    "last_name": "Kim Margolin", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Yakima", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98902"
+                    }, 
+                    "name": "Yakima Valley Memorial Hospital North Star Lodge"
+                }, 
+                "status": "Withdrawn"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Westmead", 
+                        "country": "Australia", 
+                        "state": "New South Wales", 
+                        "zip": "2145"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Melbourne", 
+                        "country": "Australia", 
+                        "state": "Victoria", 
+                        "zip": "3002"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Withdrawn"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Woodville", 
+                        "country": "Australia", 
+                        "zip": "5011"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Rio de Janiero", 
+                        "country": "Brazil", 
+                        "state": "RJ", 
+                        "zip": "20231-050"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Barretos", 
+                        "country": "Brazil", 
+                        "state": "SP", 
+                        "zip": "14784-400"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toronto", 
+                        "country": "Canada", 
+                        "state": "Ontario", 
+                        "zip": "M5G 2M9"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Montreal", 
+                        "country": "Canada", 
+                        "state": "Quebec", 
+                        "zip": "H2X 3J4"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Lyon Cedex", 
+                        "country": "France", 
+                        "zip": "69373"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Villejuif Cedex", 
+                        "country": "France", 
+                        "zip": "94805"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Muenchen", 
+                        "country": "Germany", 
+                        "zip": "80336"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "T\u00fcbingen", 
+                        "country": "Germany", 
+                        "zip": "72076"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Milano", 
+                        "country": "Italy", 
+                        "state": "MI", 
+                        "zip": "20133"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Napoli", 
+                        "country": "Italy", 
+                        "zip": "80131"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Amsterdam", 
+                        "country": "Netherlands", 
+                        "zip": "1066 CX"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nijmegen", 
+                        "country": "Netherlands", 
+                        "zip": "6525 GA"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Utrecht", 
+                        "country": "Netherlands", 
+                        "zip": "3584CX"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Barcelona", 
+                        "country": "Spain", 
+                        "state": "Catalunya", 
+                        "zip": "08036"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hospitalet de LLobregat", 
+                        "country": "Spain", 
+                        "state": "Catalunya", 
+                        "zip": "08907"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Madrid", 
+                        "country": "Spain", 
+                        "zip": "28050"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Taipei", 
+                        "country": "Taiwan", 
+                        "zip": "10002"
+                    }, 
+                    "name": "Novartis Investigative Site"
+                }, 
+                "status": "Not yet recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Australia", 
+                "Brazil", 
+                "Canada", 
+                "France", 
+                "Germany", 
+                "Italy", 
+                "Netherlands", 
+                "Spain", 
+                "Taiwan"
+            ]
+        }, 
+        "number_of_arms": "4", 
+        "official_title": "A Phase Ib/II, Mulicenter, Study of LEE011 in Combination With LGX818 in Adult Patients With BRAF Mutant Melanoma.", 
+        "overall_contact": {
+            "last_name": "Novartis Pharmaceuticals", 
+            "phone": "1-888-669-6682"
+        }, 
+        "overall_contact_backup": {
+            "last_name": "Novartis Pharmaceuticals", 
+            "phone_ext": "+41613241111"
+        }, 
+        "overall_official": {
+            "affiliation": "Novartis Pharmaceuticals", 
+            "last_name": "Novartis Pharmaceuticals", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 1/Phase 2", 
+        "primary_completion_date": {
+            "#text": "January 2016", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "Dose Limiting Toxicities (DLTs) during the first 28 days of the combination treatment of LEE011 and LGX818.", 
+                "measure": "Incidence of Dose Limiting Toxicities (Phase Ib)", 
+                "safety_issue": "Yes", 
+                "time_frame": "Cycle 1 = 28 days"
+            }, 
+            {
+                "description": "As per RECIST v1.1. PFS is the time from date of randomization/start of treatment to the date of event defined as the first documented progression or death due to any cause.", 
+                "measure": "Progression Free Survival (PFS) - Phase II Arms 1 a/b", 
+                "safety_issue": "No", 
+                "time_frame": "23 months after FPFV"
+            }, 
+            {
+                "description": "As per RECIST v1.1. ORR is defined as the proportion of patients with a best overall response of complete response or partial response.", 
+                "measure": "Objective Response Rate (ORR) - Phase II Arm 2", 
+                "safety_issue": "No", 
+                "time_frame": "23 months after FPFV"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01777776"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "To assess the safety and tolerability of LEE011 and LGX818 in these patients which includes changes in hematology and chemistry values, vital signs and elctrocardiograms (ECG's) assessed according to the Common Terminology Criteria for Adverse Events (CTCAE) version 4.03.", 
+                "measure": "Number of Adverse Events - Phase Ib/II", 
+                "safety_issue": "Yes", 
+                "time_frame": "Approximately 23 months after FPF"
+            }, 
+            {
+                "description": "To assess the safety and tolerability of LEE011 and LGX818 in patients which includes changes in hematology and chemistry values, vital signs and electrocardiograms (ECGs) assessed according to the Common Terminology Criteria for Adverse Events (CTCAE) version 4.03.", 
+                "measure": "Number of Serious Adverse Events - Phase Ib/II", 
+                "safety_issue": "Yes", 
+                "time_frame": "Approximately 23 months after FPFV"
+            }, 
+            {
+                "description": "Plasma PK parameters of LEE011 and plasma PK parameters of LGX818. Phase 1b: Cycle 1/Days 1, 2, 8, 15, 21 and 22; Cycles 2, 3, 4, 5, and 6 on Day 1 of each cycle (if applicable). Phase 2: Cycle 1/Days 1, 8, 15, and 21. Cycles 2, 3, 4, 5, and 6 on Day 1 of each cycle (if applicable).", 
+                "measure": "Plasma concentration-time profiles - Phase Ib/II", 
+                "safety_issue": "No", 
+                "time_frame": "28-day cycles"
+            }, 
+            {
+                "description": "ORR is defined as the proportion of patients with a best overall response of complete response or partial response.", 
+                "measure": "Overall Response Rate (ORR) - Phase Ib and Phase II arms 1a/b", 
+                "safety_issue": "No", 
+                "time_frame": "Approximately 23 months after FPFV"
+            }, 
+            {
+                "description": "PFS is the time from date of randomization/start of treatment to the date of event defined as the first documented progression or death due to any cause.", 
+                "measure": "Progression Free Survival (PFS) - Phase Ib and Phase II Arm 2", 
+                "safety_issue": "No", 
+                "time_frame": "Approximately 23 months after FPFV"
+            }, 
+            {
+                "description": "DOR is calculated as the time from the date of first documented response (complete response (CR) or partial response (PR)) to the first documented date of progression or death due to underlying cancer.", 
+                "measure": "Duration Of Response (DOR) - Phase Ib, Phase II arms 1a/1b/2", 
+                "safety_issue": "No", 
+                "time_frame": "Approximately 23 months after FPFV"
+            }, 
+            {
+                "description": "OS is defined as the time from date of randomization/start of treatment to date of death due to any cause. If a patient is not known to have died, survival will be censored at the date of last known date patient alive.", 
+                "measure": "Overall Survival (OS) - Phase II arms 1a/1b/2", 
+                "safety_issue": "No", 
+                "time_frame": "Approximately 23 months after FPFV"
+            }, 
+            {
+                "description": "Plasma PK parameters of LEE011 and plasma PK parameters of LGX818. Phase 1b: Cycle 1/Days 1, 2, 8, 15, 21 and 22; Cycles 2, 3, 4, 5, and 6 on Day 1 of each cycle (if applicable). Phase 2: Cycle 1/Days 1, 8, 15, and 21. Cycles 2, 3, 4, 5, and 6 on Day 1 of each cycle (if applicable).", 
+                "measure": "Plasma concentration-time profiles: AUCtau - Phase Ib/II", 
+                "safety_issue": "No", 
+                "time_frame": "28-day cycles"
+            }, 
+            {
+                "description": "Plasma PK parameters of LEE011 and plasma PK parameters of LGX818. Phase 1b: Cycle 1/Days 1, 2, 8, 15, 21 and 22; Cycles 2, 3, 4, 5, and 6 on Day 1 of each cycle (if applicable). Phase 2: Cycle 1/Days 1, 8, 15, and 21. Cycles 2, 3, 4, 5, and 6 on Day 1 of each cycle (if applicable).", 
+                "measure": "Plasma concentration-time profiles: Cmin - Phase Ib/II", 
+                "safety_issue": "No", 
+                "time_frame": "28-day cycles"
+            }, 
+            {
+                "description": "Plasma PK parameters of LEE011 and plasma PK parameters of LGX818. Phase 1b: Cycle 1/Days 1, 2, 8, 15, 21 and 22; Cycles 2, 3, 4, 5, and 6 on Day 1 of each cycle (if applicable). Phase 2: Cycle 1/Days 1, 8, 15, and 21. Cycles 2, 3, 4, 5, and 6 on Day 1 of each cycle (if applicable).", 
+                "measure": "Plasma concentration-time profiles: Cmax - Phase Ib/II", 
+                "safety_issue": "No", 
+                "time_frame": "28-day cycles"
+            }, 
+            {
+                "description": "Plasma PK parameters of LEE011 and plasma PK parameters of LGX818. Phase 1b: Cycle 1/Days 1, 2, 8, 15, 21 and 22; Cycles 2, 3, 4, 5, and 6 on Day 1 of each cycle (if applicable). Phase 2: Cycle 1/Days 1, 8, 15, and 21. Cycles 2, 3, 4, 5, and 6 on Day 1 of each cycle (if applicable).", 
+                "measure": "Plasma concentration-time profiles: Tmax - Phase Ib/II", 
+                "safety_issue": "No", 
+                "time_frame": "28-day cycles"
+            }, 
+            {
+                "description": "Plasma PK parameters of LEE011 and plasma PK parameters of LGX818. Phase 1b: Cycle 1/Days 1, 2, 8, 15, 21 and 22; Cycles 2, 3, 4, 5, and 6 on Day 1 of each cycle (if applicable). Phase 2: Cycle 1/Days 1, 8, 15, and 21. Cycles 2, 3, 4, 5, and 6 on Day 1 of each cycle (if applicable).", 
+                "measure": "Plasma concentration-time profiles: Racc - Phase Ib/II", 
+                "safety_issue": "No", 
+                "time_frame": "28-day cycles"
+            }
+        ], 
+        "source": "Novartis", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Novartis Pharmaceuticals", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "July 2013", 
+        "study_design": "Allocation: Non-Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "February 2014"
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "clinical_study": {
+        "@rank": "28571", 
+        "arm_group": {
+            "arm_group_label": "PET/MRI", 
+            "arm_group_type": "Experimental", 
+            "description": "Patient receives PET/MRI"
+        }, 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to develop a novel technique for integrated PET/MRI tracer\n      kinetic analysis for urologic malignancy."
+        }, 
+        "brief_title": "Use of PET/MRI Tracer to Further Understanding of Prostate Cancer Development", 
+        "condition": [
+            "Prostate Cancer", 
+            "Bladder Cancer"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Urinary Bladder Neoplasms", 
+                "Prostatic Neoplasms"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Patients scheduled to undergo gadolinium-enhanced MRI for urologic malignancy  will be\n      recruited to undergo PET/MRI employing simultaneous dynamic acquisition of PET and\n      gadolinium-chelate data sets.  For initial technical development within this pilot study,\n      analysis will be performed attempting to compute tracer delivery using inputs from an\n      integrated MRI-perfusion analysis. Flow and permeability will be obtained from the MR\n      perfusion analysis, which can be used to compute the inflow rate constant K1.  K1,\n      reflecting the transfer of contrast, will then be used to compute the metabolic uptake of\n      FDG by the organ as well as of any visible tumors.  A determination will be made whether\n      this metabolic uptake is successfully computed for each case.  If not, then acquisition and\n      post-processing modifications will be made for subsequent cases."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n        The study population will consist of patients with known urologic cancer who are scheduled\n        to undergo MRI with gadolinium for their routine care. Patients will be referred by the\n        Urology or Medical Oncology Departments for participation in the study. Subjects will be\n        selected on the basis of their willingness and ability to participate and on their\n        likelihood of completing the study.  Patients agreeing to participate will be presented\n        with a flyer which will inform subject about the available research study and study\n        contact information. participation is entirely voluntary, and a subject may withdraw from\n        the study at any time. Normal volunteers will be recruited accessing the existing database\n        of normal volunteers maintained in Radiology Research department.\n\n        Exclusion Criteria:\n\n        Normal MRI exclusion criteria will apply, including those on the following list. A\n        standard MRI safety form will be used to identify potential conditions warranting\n        exclusion.\n\n          -  Electrical implants such as cardiac pacemakers or perfusion pumps\n\n          -  Ferromagnetic implants such as aneurysm clips, surgical clips, prostheses, artificial\n             heart, valves with steel parts, metal fragments, shrapnel, bullets, tattoos near the\n             eye, or steel implants\n\n          -  Ferromagnetic objects such as jewelry or metal clips in clothing\n\n          -  Claustrophobia\n\n          -  History of seizures"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "20", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "October 25, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02106416", 
+            "org_study_id": "S13-00394"
+        }, 
+        "intervention": {
+            "arm_group_label": "PET/MRI", 
+            "description": "Simultaneous PET/MRI (3T system)", 
+            "intervention_name": "PET/MRI", 
+            "intervention_type": "Device", 
+            "other_name": "Siemens Biograph mMR"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "keyword": [
+            "prostate cancer", 
+            "bladder cancer", 
+            "MRI", 
+            "PET", 
+            "perfusion"
+        ], 
+        "lastchanged_date": "April 3, 2014", 
+        "location": {
+            "contact": {
+                "last_name": "Simone Rainey", 
+                "phone": "212-263-2710"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "New York", 
+                    "country": "United States", 
+                    "state": "New York", 
+                    "zip": "10016"
+                }, 
+                "name": "NYU Langone Medical Center"
+            }, 
+            "investigator": {
+                "last_name": "Andrew B Rosenkrantz, MD MPA", 
+                "role": "Principal Investigator"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Development of a Novel Technique for PET/MRI Tracer Kinetic Analysis for Urologic Pelvic Malignancy", 
+        "overall_contact": {
+            "email": "andrew.rosenkrantz@nyumc.org", 
+            "last_name": "Andrew Rosenkrantz, MD", 
+            "phone": "212-263-8732"
+        }, 
+        "overall_official": {
+            "affiliation": "NYU School of Medicine", 
+            "last_name": "Andrew Rosenkrantz, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "July 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "The inflow rate constant K1 will be calculated based on assessment of dynamic PET/MRI data.", 
+            "measure": "The inflow rate constant K1", 
+            "safety_issue": "No", 
+            "time_frame": "Within six months of scan completion"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02106416"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "New York University School of Medicine", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "New York University School of Medicine", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "August 2013", 
+        "study_design": "Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2014"
+    }
+}

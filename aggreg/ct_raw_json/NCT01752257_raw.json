@@ -1,0 +1,124 @@
+{
+    "clinical_study": {
+        "@rank": "97339", 
+        "arm_group": {
+            "arm_group_label": "EF5 Hypoxia", 
+            "arm_group_type": "Other", 
+            "description": "EF5 administered at 21mg/kg"
+        }, 
+        "brief_summary": {
+            "textblock": "The purpose of this pilot study is to determine the prevalence of markers of chronic and\n      cycling hypoxia and reactive species stress (oxidative and nitrosative) in the melanoma\n      tumor microenvironment.  The study is based around four cornerstone features of the\n      pathologic microenvironment - Hypoxia, Reactive Species (reactive oxygen and nitrogen\n      species), HIF-1 and VEGF, which the investigators term the HRHV axis.  Patients with\n      in-transit melanoma (AJCC Stage IIIB or IIIC) (1) will be administered the hypoxia marker\n      drug, EF5, 24 hr prior to isolated limb infusion (ILI) or hyperthermic isolated limb\n      perfusion (HILP).  Tumor biopsies will be performed just prior to ILI or HILP, at the 30\n      minute time point during ILI (or 60 minute time point during HILP), AND 24 hours after ILI\n      or HILP.    Tissues obtained will be snap frozen and subsequently analyzed for EF5 binding.\n      Immunohistochemical analysis of a cohort of immunohistochemical and urine markers that\n      depict the HRHV axis will also be examined.  The association of the markers with the\n      presence of hypoxia, as determined by EF5 positivity, will be determined.  Data from this\n      pilot study will be used to establish the prevalence of markers of the HRHV axis in\n      melanoma. This information will be crucial for future human trials in which the HRHV axis is\n      therapeutically targeted."
+        }, 
+        "brief_title": "EF5 in Melanoma Patients", 
+        "completion_date": {
+            "#text": "September 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Melanoma", 
+        "condition_browse": {
+            "mesh_term": "Melanoma"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "3.1. Inclusion criteria\n\n          -  Histologically confirmed AJCC Stage IIIB/IIIC/IV extremity melanoma who are\n             undergoing ILI or HILP and have tumor available for biopsy (NOTE: patients with only\n             1 in-transit lesion are NOT eligible)\n\n          -  Age \u226518\n\n          -  KPS status \u2265 70\n\n          -  Bilirubin \u2264 1.5x normal\n\n          -  Creatinine \u2264 1.8 ( -EF5 is primarily excreted via the kidney)\n\n          -  WBC > 3000/mm3 and platelets > 100,000/mm3\n\n        3.2. Exclusion criteria\n\n          -  Pregnancy or breast feeding.  A negative serum  pregnancy test is required of any\n             women childbearing potential prior to enrollment.  Pregnant women are excluded from\n             this study because EF5 is an agent with potential for teratogenic or abortifacient\n             effects.  Because there is an unknown but potential risk for adverse events in\n             nursing infants secondary to treatment of the mother with EF5, breastfeeding should\n             be discontinued if the mother is given EF5.\n\n          -  Allergy to IV contrast dye\n\n          -  History of grade III or IV peripheral neuropathy as defined by the NCI CTC (other\n             2-nitroimidazole compounds are neurotoxic)\n\n          -  Previous history of any malignancy treated with radiotherapy and/or chemohormonal\n             therapy"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "20", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "October 17, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01752257", 
+            "org_study_id": "Pro00033938"
+        }, 
+        "intervention": {
+            "arm_group_label": "EF5 Hypoxia", 
+            "description": "EF5 is a dye used to measure hypoxia", 
+            "intervention_name": "EF5 Hypoxia", 
+            "intervention_type": "Drug"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "No", 
+        "keyword": "Melanoma", 
+        "lastchanged_date": "April 12, 2014", 
+        "location": {
+            "contact": {
+                "email": "k.linney@duke.edu", 
+                "last_name": "Kristen N Linney, RN", 
+                "phone": "919-684-8239"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Durham", 
+                    "country": "United States", 
+                    "state": "North Carolina", 
+                    "zip": "27705"
+                }, 
+                "name": "Duke University Medical Center"
+            }, 
+            "investigator": {
+                "last_name": "Douglas Tyler, MD", 
+                "role": "Principal Investigator"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Pilot Study to Characterize the HRHV Axis in the Microenvironment of Melanoma in Patients Undergoing Isolated Limb Infusion or Hypothermic Isolated Limb Perfusion With Melphalan", 
+        "overall_official": {
+            "affiliation": "DUMC", 
+            "last_name": "Douglas Tyler, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 1", 
+        "primary_completion_date": {
+            "#text": "September 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "We will describe the distribution of the markers at each of the three time points with boxplots and means (with 80% confidence intervals).  The variance of each marker will be partitioned into three parts: variance due to the time (i.e., treatment) effect, variance among patients, and error variance. This calculation can easily be done by fitting a general linear model in which marker is regressed on an n-1 degree of freedom patient effect (where n is the number of patients) and a 2 degree of freedom time effect. The error variance with 2*(n-1) degrees of freedom is of course equal to the variance of the interaction of patient with time.  Obviously, we would hope to find that the variance for the time effect is larger than either of the other two variances.", 
+            "measure": "Spatial comparison between marker proteins and hypoxia.", 
+            "safety_issue": "No", 
+            "time_frame": "2 years"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01752257"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Duke University Medical Center", 
+            "investigator_full_name": "Douglas Tyler", 
+            "investigator_title": "Chair, Surgical Oncology", 
+            "responsible_party_type": "Sponsor-Investigator"
+        }, 
+        "source": "Duke University", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Varian Medical", 
+                "agency_class": "Other"
+            }, 
+            "lead_sponsor": {
+                "agency": "Douglas Tyler", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "July 2012", 
+        "study_design": "Endpoint Classification: Pharmacodynamics Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2014"
+    }
+}

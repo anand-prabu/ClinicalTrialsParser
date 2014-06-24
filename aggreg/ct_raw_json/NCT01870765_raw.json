@@ -1,0 +1,130 @@
+{
+    "clinical_study": {
+        "@rank": "110924", 
+        "arm_group": [
+            {
+                "arm_group_label": "non-invasive ventilation", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Performance of bronchoscopy during non-invasive ventilation."
+            }, 
+            {
+                "arm_group_label": "high-flow oxygen", 
+                "arm_group_type": "Experimental", 
+                "description": "Performance of bronchoscopy during high-flow oxygen therapy."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Bronchoscopy with broncho-alveolar lavage is a diagnostic tool in patients with pneumonia.\n      Especially patients with acute or chronic pulmonary diseases are at risk of respiratory\n      failure during or after bronchoscopy. It is known that in these cases bronchoscopy can be\n      performed safely using non-invasive ventilation. It seems probable that high-flow oxygen,\n      which is used in the treatment of patients with hypoxemic respiratory failure, is equally\n      effective in preventing the development of respiratory failure during fiberoptic\n      bronchoscopy while improving patient comfort. In this prospective randomised study the\n      safety of high-flow oxygen is compared with non-invasive ventilation in patients with\n      hypoxemic respiratory failure undergoing fiberoptic bronchoscopy."
+        }, 
+        "brief_title": "Safety Study of Non-invasive Ventilation Versus High-flow Oxygen in Patients With Hypoxemic Respiratory Failure Undergoing Fiberoptic Bronchoscopy.", 
+        "condition": "Respiratory Failure", 
+        "condition_browse": {
+            "mesh_term": "Respiratory Insufficiency"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  patients treated in an intensive care unit\n\n          -  indication for bronchoscopy and broncho-alveolar lavage\n\n          -  presence of hypoxemic (SaO2/fraction of inspired oxygen(FiO2): 300 or less) and/or\n             hypercapnic respiratory failure\n\n        Exclusion Criteria:\n\n          -  patients already on invasive ventilation\n\n          -  indication for intubation\n\n          -  blocked nasopharynx\n\n          -  contraindications for non-invasive ventilation or high-flow oxygen"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "40", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "May 30, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01870765", 
+            "org_study_id": "PV-4442"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "non-invasive ventilation", 
+                "description": "non-invasive ventilation via face mask", 
+                "intervention_name": "non-invasive ventilation", 
+                "intervention_type": "Device"
+            }, 
+            {
+                "arm_group_label": "high-flow oxygen", 
+                "description": "high-flow oxygen via nasal cannula", 
+                "intervention_name": "high-flow oxygen", 
+                "intervention_type": "Device"
+            }, 
+            {
+                "arm_group_label": [
+                    "non-invasive ventilation", 
+                    "high-flow oxygen"
+                ], 
+                "description": "fiberoptic bronchoscopy including broncho-alveolar lavage", 
+                "intervention_name": "fiberoptic bronchoscopy", 
+                "intervention_type": "Procedure"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "February 24, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Hamburg", 
+                    "country": "Germany", 
+                    "zip": "20246"
+                }, 
+                "name": "Universit\u00e4tsklinikum Hamburg-Eppendorf, Department of Intensive Care Medicine"
+            }
+        }, 
+        "location_countries": {
+            "country": "Germany"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Prospective Randomised Study on the Safety of Non-invasive Ventilation Versus High-flow Oxygen in Patients With Hypoxemic Respiratory Failure Undergoing Fiberoptic Bronchoscopy.", 
+        "other_outcome": {
+            "measure": "Requirement of intubation after the completion of bronchoscopy.", 
+            "safety_issue": "Yes", 
+            "time_frame": "8 hours after the completion of bronchoscopy"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Federal Institute for Drugs and Medical Devices Germany:"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "February 2014", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "Mean decrease in the saturation of oxygen (SpO2) during bronchoscopy.", 
+            "safety_issue": "Yes", 
+            "time_frame": "during fiberoptic bronchoscopy"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01870765"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Universit\u00e4tsklinikum Hamburg-Eppendorf", 
+            "investigator_full_name": "Stefan Kluge", 
+            "investigator_title": "PD Dr. Stefan Kluge", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": {
+            "measure": "Changes in blood gases after the completion of fiberoptic bronchoscopy.", 
+            "safety_issue": "Yes", 
+            "time_frame": "1 hour after the completion of bronchoscopy"
+        }, 
+        "source": "Universit\u00e4tsklinikum Hamburg-Eppendorf", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Universit\u00e4tsklinikum Hamburg-Eppendorf", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "July 2013", 
+        "study_design": "Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "February 2014"
+    }
+}

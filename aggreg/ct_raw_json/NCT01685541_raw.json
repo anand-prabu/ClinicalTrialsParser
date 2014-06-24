@@ -1,0 +1,135 @@
+{
+    "clinical_study": {
+        "@rank": "70332", 
+        "arm_group": [
+            {
+                "arm_group_label": "Maximum AVS Content", 
+                "arm_group_type": "Experimental", 
+                "description": "AVS includes patient name, visit date, chief complaining, allergies, immunizations, vital signs, medications, problem list, lab order, physician contact information, referrals, instructions"
+            }, 
+            {
+                "arm_group_label": "Intermediate AVS content", 
+                "arm_group_type": "Experimental", 
+                "description": "AVS includes patient name, visit date, vital signs, medications, diagnosis, problem list, physician contact information, referrals, instructions"
+            }, 
+            {
+                "arm_group_label": "Minimum AVS content", 
+                "arm_group_type": "Experimental", 
+                "description": "AVS contains patient name, visit date, medications, diagnosis, physician contact information, referrals, instructions"
+            }, 
+            {
+                "arm_group_label": "Control Group (Usual AVS)", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Content differed by clinic site"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The electronic medical record (EMR) offers a new method to provide patients with information\n      about their visits with a clinician. The EMR can generate personalized and patient specific\n      handouts at the end of the visit that can recap the topics covered during that visit. These\n      After Visit Summaries (AVS) can be automatically generated with information contained in the\n      patient's chart.  The AVS has the potential to improve patient retention of information\n      needed for adherence to treatment plans, and follow-up instructions, and to facilitate\n      information transfer between healthcare settings.  However, the content and formatting of\n      the AVS to optimize patients' information retention and satisfaction with the visit is not\n      known. In this study, we will develop and test in a randomized trial three different\n      versions of an AVS to determine the AVS content that maximizes patient satisfaction and\n      retention of information on the AVS,and adherence to physician instructions.  The three\n      versions of the AVS developed from patient and physician input will be compared to a control\n      condition which consists of current practice in each setting."
+        }, 
+        "brief_title": "Evaluation of Computer Generated After Visit Summaries", 
+        "completion_date": {
+            "#text": "June 2012", 
+            "@type": "Actual"
+        }, 
+        "condition": "Primary Care Patients With Chronic Conditions", 
+        "detailed_description": {
+            "textblock": "We will conduct an experiment in the four selected primary care clinics to test objectively\n      the effect of three levels of AVS content on patient recall of personal visit information,\n      satisfaction with the information received from their providers, and uses of the information\n      after their visits.\n\n      The four clinics were selected to provide a diverse patient sample with regard to\n      socioeconomic status, race/ethnicity and language preference. The study is planned to have a\n      total of 68 patients in each AVS form group (272 total), and 136 patients in each language\n      group. In our previous research in these SPUR-Net clinics, we found that it is very\n      difficult to recruit Spanish-language preference individuals in private practice settings.\n      The great majority of persons of Hispanic ethnicity who attend private practice clinics\n      prefer to communicate in English.  For this reason, we will not attempt to recruit\n      Spanish-speakers from the Baylor Family Medicine Clinic.  Patients will be approached, and\n      if they agree to participate they will be consented for the study.  At the end of the visit,\n      each study patient will be randomized either to the control group or one of the three\n      experimental groups.  The RA will accomplish this by opening a sealed envelope that contains\n      the randomly generated group assignment.  For the experimental AVS's, the RA will select and\n      generate the appropriate study AVS in Epic.  For the control group, the AVS that is\n      currently being used in that clinic will be printed and distributed to the patient. All\n      research subjects will then be contacted in 24 hours, and then again in 2-3 weeks to study\n      the following outcomes.\n\n      We are not able to test a control condition that withholds an AVS altogether, in as much as\n      JACHO standards governing some of the participating clinics require an AVS of some kind.\n\n      Primary Outcome:  The primary outcome measure will be the amount of information recalled by\n      patients at two time points:  2 days after the primary care visit, and 2-3 weeks after the\n      visit.  The recall test will consist of two parts.  Part 1 will involve recall of the\n      general categories of information contained on the AVS.  Sample questions are:\n\n        -  Did the form have information about your blood pressure?\n\n        -  Did the form have information about your medications?\n\n        -  Did the form have a list of your health problems?\n\n      The responses will be scored as correct or incorrect, depending on the version of the AVS\n      randomly assigned to the patient.  The final version of the recall test will be developed\n      after the focus group analysis, when a final determination of the content of the three forms\n      of the AVS is completed.\n\n      Part 2 of the recall test will ask the patient to generate the list of medications\n      prescribed and instructions given.  This represents the content of the minimum information\n      AVS (Form 3), which can be answered by all study participants.  The patients' answers will\n      be recorded in the data base verbatim, and at the completion of data collection, the\n      investigators will develop scoring rules to assign a score to each item.  These rules will\n      account for informal names for medications (such as \"water pill,\" \"sugar pill,\" etc.).  The\n      score on this part will be the percent of medication information correctly recalled,\n      including name of pill (formal or informal), number of doses to be taken per day, and timing\n      of dose.  The total test score will be the percent of items correctly recalled.  The two\n      parts can be analyzed separately and as a total score.\n\n      Secondary Outcomes\n\n      Patient Satisfaction with the AVS will be assessed with a 9-item questionnaire adapted from\n      a longer patient satisfaction scale developed by researchers in Baylor's Department of\n      Family and Community Medicine for evaluating patient responses to educational materials.\n      Response options to a series of questions regarding satisfaction with various\n      characteristics of the AVS range from \"strongly agree\" to \"strongly disagree.\"  Two open\n      ended questions will provide patients the opportunity to mention elements of the AVS, or\n      their reaction to it, that might not have been anticipated by the research team.  The form\n      will be available in both English and Spanish versions.\n\n      Adherence to Treatment will be assessed to examine whether the different AVS formats\n      influence patients' self-reported adherence to the provider's recommendations.  We will use\n      a general measure of adherence that summarizes information about the patient's tendency to\n      adhere to medical recommendations, regardless of type of treatment recommended. The items in\n      this measure are:\n\n        1. I had a hard time doing what the doctor suggested I do;\n\n        2. I found it easy to do the things my doctor suggested I do;\n\n        3. I was unable to do what was necessary to follow my doctor's treatment plans;\n\n        4. I followed my doctor's suggestions exactly; and\n\n        5. Generally speaking, how often during the past 4 weeks were you able to do what the\n           doctor told you?\n\n      Response options for each item range from \"none of the time\" to \"all of the time.\"  The\n      general adherence scale was constructed by averaging responses to the five items and\n      transforming the result linearly to a 0-100 distribution. This scale, developed in\n      conjunction with the Health Outcomes Study, has demonstrated good internal reliability\n      approaching .80, and acceptable stability over time.  Standard back translation procedures\n      have been used to construct an equivalent Spanish version.\n\n      Other Study Variables\n\n      Health Literacy will be assessed with the Short Test of Functional Health Literacy in Adults\n      (S-TOFHLA)in order to account for the effect of functional health literacy on response to\n      the AVS.  Patients' health literacy skills are increasingly recognized as a critical\n      variable in primary care research. The S-TOFHLA is a timed reading comprehension test that\n      measures patients' ability to read and understand passages describing common medical\n      instructions.  It is available in English and Spanish versions, takes approximately 7\n      minutes for patients to complete, and is scored on a scale of 0 to 36. Patients are\n      categorized as having adequate health literacy if the S-TOFHLA score is 23-36, marginal\n      health literacy if it is 17-22, and inadequate health literacy if the score is 0-16.\n\n      Demographic and Health variables will be collected, including such standard variables as\n      age, sex, race/ethnicity, and number of years of education completed.  In order to adjust\n      analyses for disease severity, we will document the total number of health problems included\n      in the patient's problem list on the day of their study visit.  In addition, because the\n      salience of the AVS may be related to the presence or absence of an acute condition, we will\n      classify each visit as to whether the problem list for the visit includes chronic conditions\n      only, and acute condition only, or a combination of acute and chronic problems.  This\n      categorical variable will be included as a covariate in the outcomes analysis.\n\n      Analysis\n\n      If the potential confounders are evenly distributed across the study groups, the differences\n      among groups on the primary and secondary outcome measures will be tested by one-way ANOVA\n      or Chi-square analysis as appropriate for continuous or discrete variables."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria\n\n          -  Adult 21 or over\n\n          -  At least one previous visit to the clinic\n\n          -  Has one chronic condition require medications\n\n          -  Willing to participate and answer questionnaires by phone\n\n        Exclusion Criteria:\n\n          -  No previous visits to the clinic\n\n          -  Unwilling to participate"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "21 Years"
+        }, 
+        "enrollment": {
+            "#text": "272", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "September 12, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01685541", 
+            "org_study_id": "HHSA29010007"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Maximum AVS Content", 
+                "intervention_name": "Maximum After Visit Summary Content", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": "Intermediate AVS content", 
+                "intervention_name": "Intermediate After Visit Summary Content", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": "Minimum AVS content", 
+                "intervention_name": "Minimum After Visit Summary Content", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": "Control Group (Usual AVS)", 
+                "intervention_name": "Usual AVS", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "September 13, 2012", 
+        "number_of_arms": "4", 
+        "official_title": "Evaluation of Computer Generated After Visit Summaries to Support Patient-Centered Care", 
+        "other_outcome": {
+            "measure": "Adherence to physician treatment recommendations", 
+            "safety_issue": "No", 
+            "time_frame": "2 days post visit and 2 weeks post visit"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "January 2012", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "Recall of After Visit Summary Content", 
+            "safety_issue": "No", 
+            "time_frame": "2 days post visit"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01685541"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Baylor College of Medicine", 
+            "investigator_full_name": "Valory Pavlik", 
+            "investigator_title": "Associate Professor", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": {
+            "measure": "Satisfaction with the After Visit Summary", 
+            "safety_issue": "No", 
+            "time_frame": "2 days post visit"
+        }, 
+        "source": "Baylor College of Medicine", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Agency for Healthcare Research and Quality (AHRQ)", 
+                "agency_class": "U.S. Fed"
+            }, 
+            "lead_sponsor": {
+                "agency": "Baylor College of Medicine", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "December 2010", 
+        "study_design": "Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Health Services Research", 
+        "study_type": "Interventional", 
+        "verification_date": "September 2012"
+    }
+}

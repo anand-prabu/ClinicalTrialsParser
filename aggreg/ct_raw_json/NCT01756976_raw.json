@@ -1,0 +1,489 @@
+{
+    "clinical_study": {
+        "@rank": "129328", 
+        "arm_group": [
+            {
+                "arm_group_label": "Investigational Device", 
+                "description": "The 510k cleared OrthoPAT Advance will be used in this standard of care arm."
+            }, 
+            {
+                "arm_group_label": "Control Group", 
+                "description": "The commercially available OrthoPAT will be used in this arm.  This is an observational trial and there is no intervention."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This study is intended to provide additional performance data of the OrthoPAT Advance in\n      routine orthopedic surgery."
+        }, 
+        "brief_title": "Clinical Evaluation of the OrthoPAT Advance System", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "The 510k cleared OrthoPAT Advance will be used in this standard of care arm.", 
+                            "title": "Investigational Device"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "The commercially available OrthoPAT will be used in this arm.  This is an observational trial and there is no intervention.", 
+                            "title": "Control Group"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "76"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "8"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "84"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "58"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "8"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "66"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "18"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "18"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@spread": "19", 
+                                                "@value": "56"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@spread": "9", 
+                                                "@value": "46"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@spread": "19", 
+                                                "@value": "55"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "52"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "8"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "60"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "24"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "24"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "76"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "8"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "84"
+                                            }
+                                        ]
+                                    }, 
+                                    "sub_title": "United States"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "The only disclosure restriction on the PI is that the sponsor can review results communications prior to public release and can embargo communications regarding trial results for a period that is less than or equal to 60 days. The sponsor cannot require changes to the communication and cannot extend the embargo."
+            }, 
+            "outcome_list": {
+                "outcome": {
+                    "description": "The Hematocrit of the RBC shall be > 50%.", 
+                    "group_list": {
+                        "group": [
+                            {
+                                "@group_id": "O1", 
+                                "description": "The 510k cleared OrthoPAT Advance will be used in this standard of care arm.", 
+                                "title": "Investigational Device"
+                            }, 
+                            {
+                                "@group_id": "O2", 
+                                "description": "The commercially available OrthoPAT will be used in this arm.  This is an observational trial and there is no intervention.", 
+                                "title": "Control Group"
+                            }
+                        ]
+                    }, 
+                    "measure_list": {
+                        "measure": [
+                            {
+                                "category_list": {
+                                    "category": {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "O1", 
+                                                    "@value": "15"
+                                                }, 
+                                                {
+                                                    "@group_id": "O2", 
+                                                    "@value": "6"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }, 
+                                "param": "Number", 
+                                "title": "Number of Participants", 
+                                "units": "participants"
+                            }, 
+                            {
+                                "category_list": {
+                                    "category": {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "O1", 
+                                                    "@spread": "7.47", 
+                                                    "@value": "55.43"
+                                                }, 
+                                                {
+                                                    "@group_id": "O2", 
+                                                    "@spread": "5.28", 
+                                                    "@value": "56.48"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }, 
+                                "description": "The Hematocrit of the RBC shall be > 50%.", 
+                                "dispersion": "Standard Deviation", 
+                                "param": "Mean", 
+                                "title": "Washed RBC Hematocrit", 
+                                "units": "percentage of HcT"
+                            }
+                        ]
+                    }, 
+                    "safety_issue": "No", 
+                    "time_frame": "< 4 hours", 
+                    "title": "Washed RBC Hematocrit", 
+                    "type": "Primary"
+                }
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "The 510k cleared OrthoPAT Advance will be used in this standard of care arm.", 
+                            "title": "Investigational Device"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "The commercially available OrthoPAT will be used in this arm.  This is an observational trial and there is no intervention.", 
+                            "title": "Control Group"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "76", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "8", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "73", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "8", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "3", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }
+            }, 
+            "point_of_contact": {
+                "email": "michael.dioguardi@haemonetics.com", 
+                "name_or_title": "Clinical Project Manager", 
+                "organization": "Haemonetics", 
+                "phone": "781-356-9595"
+            }
+        }, 
+        "completion_date": {
+            "#text": "August 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": "Transmission, Blood, Recipient/Donor", 
+        "detailed_description": {
+            "textblock": "The OrthoPAT Advance system is being developed by Haemonetics to change the user interface,\n      especially for adding calculations for Estimating Blood Loss- (EBL). The OrthoPAT\u00ae serves as\n      the predicate device. The following items will be changed in the OrthoPAT Advance system\n      compared to OrthoPAT:\n\n        -  Software & User Interface - ability to enter irrigant and anti-coagulant volumes and\n           allow Estimated Blood Loss (EBL) calculation to be made by OrthoPAT Advance.\n\n        -  Hardware -\n\n             -  Redesign of reservoir and filter to process blood earlier by reducing hold-up\n                volume and improve fluid visualization in reservoir.\n\n             -  Extended battery life.\n\n      It is not intended to validate the major changes in the OrthoPAT Advance device (reservoir /\n      filter and EBL), which will be conducted as lab based tests. The correct functioning of the\n      reservoir / filter and EBL changes will be confirmed in the clinical setting in this study.\n      However the most rigorous challenge to the filter will be by presenting the worst case media\n      and this can only be controlled in the laboratory."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Male or female over the age of 18 years\n\n          -  Subject is scheduled for a total knee/hip replacement/ revision or a   hysterectomy.\n\n          -  Subjects determined eligible per site standard of care for use of intra- and\n             post-operative use of cell salvage device\n\n        Exclusion Criteria:\n\n        For subjects where product is transfused\n\n          -  Subject is undergoing a trauma procedure where there is a possibility of\n             contamination from an open wound.\n\n          -  Patient is diagnosed with sepsis.\n\n          -  Patient is diagnosed with sickle-cell anemia.\n\n          -  Malignant cells may be mixed with blood salvaged from the surgical field.\n\n          -  Prostatic or amniotic fluid is mixed with blood salvaged from the surgical field.\n\n          -  Blood salvaged from the surgical field may be contaminated from an active infection\n             at wound/drain site.\n\n          -  Blood salvaged from the surgical field contains topical hemostatic agents,\n             anti-bacterial agents, or wound irrigants not intended for parenteral use.\n\n        For all subjects:\n\n          -  Subject is undergoing a procedure which involves high, rapid blood loss such as liver\n             transplants, certain cardiovascular procedures, and trauma procedures where blood\n             loss is high (per Investigators judgment).\n\n          -  Any procedure terminated prior to completion by subject request, operator decision or\n             error, or device error.\n\n          -  Any subject with which at least 200mL of filtered blood or 1 full disc is not\n             available for processing and data collection within the study."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "85 Years", 
+            "minimum_age": "18 Years", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "Subjects scheduled for hysterectomy or orthopediac procedures."
+            }
+        }, 
+        "enrollment": {
+            "#text": "84", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "November 26, 2012", 
+        "firstreceived_results_date": "September 17, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01756976", 
+            "org_study_id": "TP-CLN-100257"
+        }, 
+        "intervention": {
+            "arm_group_label": "Investigational Device", 
+            "description": "The device will be used initially in hysterectomy procedures.  After a confirmation of product quality, the device will be used in routine orthopedic procedures.", 
+            "intervention_name": "OrthoPat Advance", 
+            "intervention_type": "Device"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "lastchanged_date": "September 17, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Pittsburgh", 
+                    "country": "United States", 
+                    "state": "Pennsylvania", 
+                    "zip": "15213"
+                }, 
+                "name": "University of Pittsburgh Medical Center"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_groups": "2", 
+        "official_title": "Clinical Evaluation of the OrthoPAT Advance System", 
+        "overall_official": {
+            "affiliation": "University of Pittsburgh Medial Center", 
+            "last_name": "Jonathan Waters, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "August 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "The Hematocrit of the RBC shall be > 50%.", 
+            "measure": "Washed RBC Hematocrit", 
+            "safety_issue": "No", 
+            "time_frame": "< 4 hours"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01756976"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Haemonetics Corporation", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Haemonetics Corporation", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "December 2012", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "September 2013"
+    }
+}

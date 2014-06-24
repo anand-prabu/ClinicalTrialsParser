@@ -1,0 +1,118 @@
+{
+    "clinical_study": {
+        "@rank": "53822", 
+        "arm_group": [
+            {
+                "arm_group_label": "Paper", 
+                "arm_group_type": "No Intervention", 
+                "description": "Usual care -medication review on paper"
+            }, 
+            {
+                "arm_group_label": "Computer", 
+                "arm_group_type": "Experimental", 
+                "description": "Medication review software with pictures"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "We are studying patients' abilities to correctly identify the prescription medications they\n      are taking.  We are interested in understanding what tools will help patients correctly\n      identify their medications. People participating in this study will be asked to either\n      review a paper printout of their medication list or a computer program with their\n      medications.  The program will show the names and pictures of the medications.  In either\n      situation, participants will be asked to indicate if they are taking the medications as\n      prescribed. We will then compare reported adherence between each medication review process.\n      Participation may help the program developers improve the product."
+        }, 
+        "brief_title": "APHID- Primary Care Accuracy Study", 
+        "completion_date": {
+            "#text": "January 2012", 
+            "@type": "Actual"
+        }, 
+        "condition": "Medication Review", 
+        "detailed_description": {
+            "textblock": "The trial compares a paper-based medication adherence questionnaire to an electronic\n      medication adherence questionnaire.  Results from each arm will be compared to the\n      ambulatory medication list on file with the clinic and a separate medication review\n      interview conducted by a trained clinician.  We intend to compare adherence patterns and\n      medication use discrepancy rates between each approach.  This data will help us to determine\n      what strategies work best to solicit an accurate medication history from the patient."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Veteran with Primary Care appointment at Portland VA\n\n          -  Three or more medications in medication profile\n\n        Exclusion Criteria:\n\n          -  Visual impairment\n\n          -  Upper extremity neuromuscular impairment\n\n          -  Cognitive impairment\n\n          -  Unable to speak and read English\n\n          -  Never been seen at a VA"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "220", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "May 8, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02135731", 
+            "org_study_id": "08-0308"
+        }, 
+        "intervention": {
+            "arm_group_label": "Computer", 
+            "description": "The intervention is a self-service software program that displays each prescription on screen along with an image of the pharmaceutical product.  Patients must use response buttons to describe adherence patterns and to advance through the questionnaire items.", 
+            "intervention_name": "Medication review software with pictures", 
+            "intervention_type": "Other"
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "May 9, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Portland", 
+                    "country": "United States", 
+                    "state": "Oregon", 
+                    "zip": "97239-2999"
+                }, 
+                "name": "Portland VAMC"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "APHID- Sensitivity and Specificity of a Medication Reconciliation Technology - A Primary Care Randomized Controlled Trial", 
+        "overall_official": {
+            "affiliation": "PVAMC", 
+            "last_name": "Blake Lesselroth, MD, MBI", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "December 2011", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "Number of medication discrepancies from the reference standard", 
+            "safety_issue": "Yes", 
+            "time_frame": "Baseline"
+        }, 
+        "reference": {
+            "PMID": "19261949", 
+            "citation": "Lesselroth BJ, Felder RS, Adams SM, Cauthers PD, Dorr DA, Wong GJ, Douglas DM. Design and implementation of a medication reconciliation kiosk: the Automated Patient History Intake Device (APHID). J Am Med Inform Assoc. 2009 May-Jun;16(3):300-4. doi: 10.1197/jamia.M2642. Epub 2009 Mar 4."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02135731"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Portland VA Medical Center", 
+            "investigator_full_name": "Blake Lesselroth", 
+            "investigator_title": "Director, Portland Patient Safety Center of Inquiry", 
+            "responsible_party_type": "Sponsor-Investigator"
+        }, 
+        "source": "Portland VA Medical Center", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Blake Lesselroth", 
+                "agency_class": "U.S. Fed"
+            }
+        }, 
+        "start_date": "February 2009", 
+        "study_design": "Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Double Blind (Investigator, Outcomes Assessor), Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2014"
+    }
+}

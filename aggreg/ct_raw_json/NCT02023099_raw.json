@@ -1,0 +1,636 @@
+{
+    "clinical_study": {
+        "@rank": "168257", 
+        "acronym": "GIFT I", 
+        "arm_group": [
+            {
+                "arm_group_label": "A", 
+                "arm_group_type": "Experimental", 
+                "description": "Double-blind active 12 weeks treatment in subjects without compensated cirrhosis"
+            }, 
+            {
+                "arm_group_label": "B", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Double-blind placebo 12 weeks treatment followed by Open-label active 12 weeks treatment in subjects without compensated cirrhosis"
+            }, 
+            {
+                "arm_group_label": "C", 
+                "arm_group_type": "Experimental", 
+                "description": "Open-label active 12 weeks treatment in subjects with compensated cirrhosis"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "This is a Phase 3, double blinded, multicenter study. The study will consist of 2\n      substudies: Substudy 1 (SS1) will be double-blinded and enroll non-cirrhotic subjects and\n      Substudy 2 (SS2) will be open label and enroll subjects with compensated cirrhosis."
+        }, 
+        "brief_title": "Study to Evaluate the Efficacy and Safety of ABT-450/Ritonavir/ABT- 267 (ABT-450/r/ABT-267) in Japanese Adults With Subgenotype 1b Chronic Hepatitis C Virus (HCV) Infection", 
+        "completion_date": {
+            "#text": "July 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Hepatitis C Virus", 
+        "condition_browse": {
+            "mesh_term": [
+                "Hepatitis", 
+                "Hepatitis A", 
+                "Hepatitis, Chronic", 
+                "Hepatitis C", 
+                "Virus Diseases", 
+                "Hepatitis C, Chronic"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Chronic HCV-infection prior to study enrollment\n\n          -  Screening laboratory result indicating HCV subgenotype 1b infection\n\n          -  Subject has plasma HCV RNA level greater than 10,000 IU/mL at Screening\n\n          -  Voluntarily sign an informed consent\n\n        Exclusion Criteria:\n\n          -  Co-infection of Hepatitis B Virus (HBV), HIV and any HCV genotype other than\n             subgenotype 1b\n\n          -  Prior therapy with direct acting antiviral agents for the treatment of HCV, including\n             telaprevir, simeprevir and boceprevir\n\n          -  Any cause of liver disease other than chronic HCV-infection, including but not\n             limited to the following:\n\n          -  Hemochromatosis\n\n          -  Alpha-1 antitrypsin deficiency\n\n          -  Wilson's disease\n\n          -  Autoimmune hepatitis\n\n          -  Alcoholic liver disease\n\n          -  Drug-related liver disease\n\n          -  Clinically significant  laboratory abnormalities\n\n          -  Uncontrolled clinically significant disease, disorder or medical illness"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "75 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "312", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "December 23, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02023099", 
+            "org_study_id": "M13-004"
+        }, 
+        "intervention": {
+            "arm_group_label": [
+                "A", 
+                "B", 
+                "C"
+            ], 
+            "intervention_name": "ABT-450/r/ABT-267", 
+            "intervention_type": "Drug"
+        }, 
+        "intervention_browse": {
+            "mesh_term": "Ritonavir"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Japanese", 
+            "Treatment Experienced", 
+            "Hepatitis C", 
+            "Cirrhotic", 
+            "Treatment Naive", 
+            "Genotype 1b"
+        ], 
+        "lastchanged_date": "May 9, 2014", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Asakura", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121039"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Chuo", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121033"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fukui-shi", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121024"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fukuoka", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 120335"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fukuoka-shi", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121038"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Gifu", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121022"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Gifu-shi", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 123771"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hamamatsu-shi", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 123135"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hiroshima", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121046"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hiroshima-shi", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 120360"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Hitachi-shi", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121043"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ikeda", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 123138"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Inashiki-shi", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121045"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Inzai", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121030"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Iruma-shi", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121037"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kagoshima", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 123767"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kanazawa-shi", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121041"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kawasaki", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 120336"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kawasaki", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121032"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kumamoto", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 120358"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kurume", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 123137"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Kyoto", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121559"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Maebashi-shi", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 120337"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Matsuyama-shi", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121560"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Matsuyama-shi", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121028"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Mibu-shi", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121020"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Musashino-shi", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 123770"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nagoya", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121044"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Nagoya-shi", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 123136"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Obihiro", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121042"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ogaki-shi", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 123768"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Okayama", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121034"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Okayama-shi", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121018"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Osaka", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121050"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Osaka-shi", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121026"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Osaka-shi", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 120359"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saga", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121049"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Saitama", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121047"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Sapporo-shi", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121048"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Shimotsuke-shi", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121035"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Suita", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121040"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Takamatsu-shi", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121027"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Takasaki-shi", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121021"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tanabe-shi", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121558"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tokyo", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 123769"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tokyo", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 120356"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tokyo", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121025"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tokyo", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 120355"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Tokyo", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 120357"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Toyama-shi", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121017"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Ube-shi", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 123215"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Yokohama", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121023"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Yokohama", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121036"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Yufu", 
+                        "country": "Japan"
+                    }, 
+                    "name": "Site Reference ID/Investigator# 121031"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "Japan"
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "A Randomized, Double-blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of ABT-450/Ritonavir/ABT-267 (ABT-450/r/ABT-267) in Treatment-Na\u00efve and Treatment-Experienced Japanese Adults With Subgenotype 1b Chronic Hepatitis C Virus (HCV) Infection With and Without Compensated Cirrhosis (GIFT I)", 
+        "overall_official": {
+            "affiliation": "AbbVie GK", 
+            "last_name": "Takuma  Matsuda, MS", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "Japan: Pharmaceuticals and Medical Devices Agency", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "November 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Hepatitis C virus ribonucleic acid less than the lower limit of quantification", 
+            "measure": "Percentage of non-cirrhotic treatment-naive subjects who are eligible for Interferon (IFN)-based therapy and who have high viral load in the active treatment group with a sustained virologic response 12 weeks post-treatment", 
+            "safety_issue": "No", 
+            "time_frame": "12 weeks after the last dose of study drug"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02023099"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Percentage of subjects with confirmed Hepatitis C virus ribonucleic acid among subjects with previous unquantifiable Hepatitis C virus ribonucleic acid during treatment, with confirmed increase from nadir in Hepatitis C virus ribonucleic acid during treatment, or with persistently quantifiable Hepatitis C virus ribonucleic acid during treatment with at least 6 weeks of treatment.", 
+                "measure": "The percentage of subjects in the active group with on-treatment virologic failure during treatment.", 
+                "safety_issue": "No", 
+                "time_frame": "up to 12 weeks"
+            }, 
+            {
+                "description": "The percentage of subjects with confirmed quantifiable Hepatitis C virus ribonucleic acid among subjects with unquantifiable Hepatitis C virus ribonucleic acid at the end of treatment", 
+                "measure": "The percentage of subjects in the active treatment group with post-treatment relapse", 
+                "safety_issue": "No", 
+                "time_frame": "within 12 weeks after last dose of study drug"
+            }, 
+            {
+                "description": "Hepatitis C virus ribonucleic acid less than the lower limit of quantification", 
+                "measure": "Percentage of subjects in the active treatment group with sustained virologic response 12 weeks post-treatment within different subpopulations", 
+                "safety_issue": "No", 
+                "time_frame": "12 weeks after last dose of study drug"
+            }
+        ], 
+        "source": "AbbVie", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "AbbVie", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "December 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2014"
+    }
+}

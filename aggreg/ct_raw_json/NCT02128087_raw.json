@@ -1,0 +1,266 @@
+{
+    "clinical_study": {
+        "@rank": "148160", 
+        "acronym": "RATA", 
+        "arm_group": [
+            {
+                "arm_group_label": "Control group", 
+                "arm_group_type": "No Intervention", 
+                "description": "This study arm will receive care as usual."
+            }, 
+            {
+                "arm_group_label": "Two-way SMS intervention group", 
+                "arm_group_type": "Experimental", 
+                "description": "Two-way messages allow the recipient of the SMS message (the patient) to respond to the messages (\"We hope you are feeling well today. Reply 1 if well, 2 if unwell\") to request a follow-up call from the clinic."
+            }, 
+            {
+                "arm_group_label": "One-way SMS intervention group", 
+                "arm_group_type": "Experimental", 
+                "description": "Clients will receive a weekly one-way SMS with the message \"We hope you are feeling well today.\" There will be no prompt for response."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "In this project the investigators develop and test a short message service (SMS)\n      intervention based on the Information Motivation and Behavior skills (IMB) model. Reminding\n      Adolescents To Adhere (RATA) prompts youths at two clinics in Uganda to take their\n      medications and offers social support via weekly text messages. The investigators propose to\n      adapt their previous successful SMS-intervention to the specific needs of youths and to\n      evaluate the relative effectiveness of one-way versus two-way text messages (where two-way\n      messages allow youths to respond to messages and we hypothesize that this may increase\n      perceived social support that may be important for youth populations). We will also test the\n      effectiveness of SMS messages over the longer-term (2 years), for which currently no\n      information is available."
+        }, 
+        "brief_title": "Improving Drug Adherence Among Adolescents in Uganda Using SMS Reminders", 
+        "completion_date": {
+            "#text": "January 2018", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Human Immunodeficiency Virus", 
+        "condition_browse": {
+            "mesh_term": [
+                "Acquired Immunodeficiency Syndrome", 
+                "HIV Infections", 
+                "Immunologic Deficiency Syndromes"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "The primary goal of the proposed study is to develop and test SMS-based text messages for\n      improving medication adherence among HIV-positive youths in a resource-limited setting. The\n      study will be conducted in three phases: Phase 1 will consist of qualitative interviews with\n      patients, clinic providers and directors, and community leaders and will elicit information\n      on barriers to treatment and adherence patterns and cognitive obstacles to adherence that\n      may be addressed by RATA. A second focus of this phase will be to investigate the\n      familiarity with and attitude towards SMS messages among adolescents, and their attitudes\n      towards different aspects of these messages. Parameters of the messages that will be probed\n      include their frequency, content, and form using Figure 1 as a guiding principle for this\n      exploratory phase. Phase 2 will use the findings from Phase 1 to develop and implement RATA\n      in a randomized controlled trial (RCT). A sample of 330 clients aged 15-24 who are in HIV\n      care and show signs of problems with adherence will be recruited and randomized into one of\n      three equal-sized intervention arms: a control group that will receive usual care, or one of\n      two treatment groups in which participants will receive usual care and additionally will\n      receive either two-way SMS messages or one-way SMS messages. All RATA participants will be\n      followed for two years. Assessments will be conducted at baseline and every 6 months over\n      the course of 24 months. Medication event monitoring system (MEMS)-caps measured medication\n      adherence will be the primary outcome measure, while viral load (for a subset of clients)\n      CD4 count, self-reported adherence and pharmacy refill data as well as retention in care\n      constitute secondary outcomes. Phase 3 will be used to analyze the collected data, conduct\n      qualitative interviews with providers, clinic administrators, and study participants to\n      learn about implementation difficulties and areas of improvement, and to share preliminary\n      results and project implementation insights with these key players. This stage allows\n      evaluating the feasibility and sustainability of the intervention for potential scale-up,\n      for which we will also conduct a relative cost-effectiveness analysis of two- versus one-way\n      messages. RATA will be extended to the control group in Year 5 if findings from phase 2\n      suggest its success at improving outcomes."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  age 15-24\n\n          -  have been in HIV care at the clinic for at least three months\n\n          -  are currently taking HIV-related medication (ART or co-trimoxazole)\n\n          -  have demonstrated adherence problems (defined as having missed at least one\n             medication dose per week on average)\n\n          -  either own a phone or have regular access to one\n\n          -  intend to stay at the clinic for the study period\n\n          -  are not in boarding school (where phones are forbidden)\n\n        Exclusion Criteria:\n\n          -  does not speak or understand either English or Luganda"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "24 Years", 
+            "minimum_age": "15 Years"
+        }, 
+        "enrollment": {
+            "#text": "330", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "April 15, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02128087", 
+            "org_study_id": "1R01HD074925-01"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Two-way SMS intervention group", 
+                "description": "Clients will receive a weekly two-way SMS, meaning that the clients in this group will receive the same message as in the one-way SMS study arm, but in addition will be asked how they feel. Clients are required to either press 1 or respond \"well\" or press 2 or write 'Unwell\" in response in the language of their choice within 48 hours. A missing response after 48 hours triggers a second SMS to remind the client to respond. If after 24 more hours the participant still does not respond or if at any point s/he responds \"unwell\" then the study coordinator will follow up with a call within 24 hours.", 
+                "intervention_name": "Two-way SMS intervention", 
+                "intervention_type": "Behavioral"
+            }, 
+            {
+                "arm_group_label": "One-way SMS intervention group", 
+                "description": "Clients will receive a weekly one-way SMS message. There will be no prompt for any response.", 
+                "intervention_name": "One-way SMS intervention group", 
+                "intervention_type": "Behavioral"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "HIV", 
+            "Antiretroviral (ARV)", 
+            "co-trimoxazole", 
+            "SMS", 
+            "mobile Health (mHealth)", 
+            "Adolescents", 
+            "Uganda", 
+            "Adherence"
+        ], 
+        "lastchanged_date": "April 29, 2014", 
+        "location": [
+            {
+                "contact": {
+                    "last_name": "Linnemayr", 
+                    "phone": "310-393-0411"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Santa Monica", 
+                        "country": "United States", 
+                        "state": "California", 
+                        "zip": "90407"
+                    }, 
+                    "name": "RAND"
+                }, 
+                "investigator": {
+                    "last_name": "Sebastian Linnemayr, PhD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Esther Kawuma", 
+                    "phone": "+256 312 210 200"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Kampala", 
+                        "country": "Uganda"
+                    }, 
+                    "name": "Mildmay Uganda"
+                }, 
+                "investigator": {
+                    "last_name": "Barbara Mukasa", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Andrew Kambugu", 
+                    "phone": "+256-41-30-7000"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Kampala", 
+                        "country": "Uganda"
+                    }, 
+                    "name": "Infectious Diseases Institute"
+                }, 
+                "investigator": {
+                    "last_name": "Andrew Kambugu", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Uganda"
+            ]
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "Improving Drug Adherence Among Adolescents in Uganda Using SMS Reminders", 
+        "overall_contact": {
+            "email": "slinnema@rand.org", 
+            "last_name": "Sebastian Linnemayr, PhD", 
+            "phone": "310-393-0411", 
+            "phone_ext": "5416"
+        }, 
+        "overall_contact_backup": {
+            "email": "jluoto@rand.org", 
+            "last_name": "Jill E Luoto, PhD", 
+            "phone": "310-393-0411", 
+            "phone_ext": "6337"
+        }, 
+        "overall_official": {
+            "affiliation": "RAND", 
+            "last_name": "Sebastian Linnemayr, PhD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "March 2016", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "Medication Event Monitoring System (MEMS)-cap data will be collected continuously over the course of the 24-month study period allowing us to investigate daily adherence and its timing. MEMS caps data indicating the date and time when the participant opened their pill bottle (either one of the ART medications or prophylaxis if not on ART yet) will be used to calculate the primary outcome variable of adherence (# of actual bottle openings / # of prescribed bottle openings).", 
+                "measure": "Medication adherence rates using electronically monitored adherence (MEMS cap) data", 
+                "safety_issue": "No", 
+                "time_frame": "6 months after enrollment"
+            }, 
+            {
+                "description": "Medication Event Monitoring System (MEMS)-cap data will be collected continuously over the course of the 24-month study period allowing us to investigate daily adherence and its timing. MEMS caps data indicating the date and time when the participant opened their pill bottle (either one of the ART medications or prophylaxis if not on ART yet) will be used to calculate the primary outcome variable of adherence (# of actual bottle openings / # of prescribed bottle openings).", 
+                "measure": "Medication adherence rates using electronically monitored adherence (MEMS cap) data", 
+                "safety_issue": "No", 
+                "time_frame": "12 months after enrollment"
+            }, 
+            {
+                "description": "Medication Event Monitoring System (MEMS)-cap data will be collected continuously over the course of the 24-month study period allowing us to investigate daily adherence and its timing. MEMS caps data indicating the date and time when the participant opened their pill bottle (either one of the ART medications or prophylaxis if not on ART yet) will be used to calculate the primary outcome variable of adherence (# of actual bottle openings / # of prescribed bottle openings).", 
+                "measure": "Medication adherence rates using electronically monitored adherence (MEMS cap) data", 
+                "safety_issue": "No", 
+                "time_frame": "24 months after enrollment"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02128087"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "RAND", 
+            "investigator_full_name": "Sebastian Linnemayr", 
+            "investigator_title": "Economist", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "MEMS caps data indicating the date and time when the participant opened their pill bottle (either one of the ART medications or prophylaxis if not on ART yet) will be used to calculate the secondary outcome measures of fraction of clients displaying adherence of 90% or more.", 
+                "measure": "Fraction of clients displaying adherence of 90% or more", 
+                "safety_issue": "No", 
+                "time_frame": "At 6, 12, 18 and 24 months"
+            }, 
+            {
+                "description": "MEMS caps data indicating the date and time when the participant opened their pill bottle (either one of the ART medications or prophylaxis if not on ART yet) will be used to calculate the secondary outcome measures of an indicator for treatment interruptions of more than 48 hours.", 
+                "measure": "Indicator for treatment interruptions of more than 48 hours", 
+                "safety_issue": "No", 
+                "time_frame": "At 6, 12, 18 and 24 months"
+            }, 
+            {
+                "description": "A randomized subset of 30 clients from each intervention arm (90 total) will measure viral load assays at month 12.", 
+                "measure": "Viral load assays", 
+                "safety_issue": "No", 
+                "time_frame": "At month 12"
+            }, 
+            {
+                "description": "We will ask about number of missed doses over the past 7 days. Adherence is calculated as a proportion of prescribed doses taken.", 
+                "measure": "Self-reported adherence", 
+                "safety_issue": "No", 
+                "time_frame": "At baseline, 6, 12, 18 and 24 months"
+            }, 
+            {
+                "description": "All patients on ART receive their medications in 30-day supplies from the Infectious Disease Institute (IDI) and Mildmay clinic pharmacies. For clients on co-trimoxazole, the drugs are typically dispensed in units of 90 count. We will adjust the measure according to the refill period specific to each client. A composite continuous multiple interval measure of medication availability or refill rate will be calculated (# of pills dispensed/ # pills prescribed per day)/ days between refills.", 
+                "measure": "Pharmacy Refill Adherence", 
+                "safety_issue": "No", 
+                "time_frame": "Months 6, 12, 18 and 24"
+            }, 
+            {
+                "description": "Attendance at regularly scheduled clinic visits as part of usual care will be tracked for all participants from the electronic client database and will be available in real-time to the study coordinator.", 
+                "measure": "Clinic Attendance", 
+                "safety_issue": "No", 
+                "time_frame": "Continuous over 24 months"
+            }, 
+            {
+                "description": "CD4 counts will be chart abstracted from the clinic data; they are typically taken about every six months", 
+                "measure": "Cluster of differentiation 4 (CD4) count", 
+                "safety_issue": "No", 
+                "time_frame": "Occasionally over 24 months"
+            }
+        ], 
+        "source": "RAND", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "RAND", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "February 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Factorial Assignment, Masking: Open Label, Primary Purpose: Health Services Research", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2014"
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "clinical_study": {
+        "@rank": "106020", 
+        "biospec_descr": {
+            "textblock": "Whole blood, serum"
+        }, 
+        "biospec_retention": "Samples With DNA", 
+        "brief_summary": {
+            "textblock": "Voriconazole is a broad-spectrum antifungal agent. There is evidence for a relation between\n      the efficacy and safety of voriconazole and voriconazole trough concentrations. There are\n      several factors that could influence voriconazole concentrations. Inflammation could be one\n      of these factors. In a retrospective study was observed  that reduced metabolism of\n      voriconazole was related to inflammation in patients with severe infections. Reduced\n      metabolism of voriconazole resulted in high voriconazole levels and low N-oxide metabolite\n      (inactive metabolite of voriconazole) levels. The purpose of this study is to determine an\n      algorithm to guide dosing of voriconazole during severe inflammation and to develop a\n      multiple linear regression model to describe the contribution of CRP concentrations to the\n      variability in voriconazole levels and metabolic ratio."
+        }, 
+        "brief_title": "Effect of Inflammation on Voriconazole Concentration", 
+        "condition": [
+            "Inflammation", 
+            "Fungal Infection"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Inflammation", 
+                "Mycoses"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  age \u2265 18 yrs\n\n          -  treatment with voriconazole\n\n          -  written informed consent\n\n        Exclusion Criteria:\n\n          -  concomitantly using a strong inhibitor or inducer of CYP P450"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years", 
+            "sampling_method": "Probability Sample", 
+            "study_pop": {
+                "textblock": "All patients admitted to the University Medical Center Groningen who receive voriconazole"
+            }
+        }, 
+        "enrollment": {
+            "#text": "30", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "February 12, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02074462", 
+            "org_study_id": "VCZ-13O30"
+        }, 
+        "intervention_browse": {
+            "mesh_term": "Voriconazole"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Voriconazole", 
+            "CRP", 
+            "Inflammation", 
+            "Pharmacokinetics"
+        ], 
+        "lastchanged_date": "February 26, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Groningen", 
+                    "country": "Netherlands", 
+                    "zip": "9700 RB"
+                }, 
+                "name": "University Medical Center Groningen"
+            }, 
+            "investigator": {
+                "last_name": "Jan-Willem C Alffenaar, PharmD, PhD", 
+                "role": "Principal Investigator"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "Netherlands"
+        }, 
+        "number_of_groups": "1", 
+        "official_title": "Managing Voriconazole Exposure During Severe Infection; Effect of Inflammation on Voriconazole Metabolic Ratio", 
+        "overall_contact": {
+            "email": "j.w.c.alffenaar@umcg.nl", 
+            "last_name": "Jan-Willem C Alffenaar, PharmD, PhD", 
+            "phone": "+31503614071"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "Netherlands: Medical Ethics Review Committee (METC)", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "January 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Plasma concentrations of voriconazole and voriconazole N-oxide will be determined using a validated method involving LC-MS/MS", 
+            "measure": "Plamsa concentration of voriconazole and voriconazole N-oxide in patients during a severe inflammation", 
+            "safety_issue": "No", 
+            "time_frame": "Up to 1 month"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02074462"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University Medical Centre Groningen", 
+            "investigator_full_name": "JWC Alffenaar", 
+            "investigator_title": "PharmD, PhD", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "source": "University Medical Centre Groningen", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Pfizer", 
+                "agency_class": "Industry"
+            }, 
+            "lead_sponsor": {
+                "agency": "University Medical Centre Groningen", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2014", 
+        "study_design": "Observational Model: Cohort, Time Perspective: Prospective", 
+        "study_type": "Observational", 
+        "verification_date": "February 2014"
+    }
+}

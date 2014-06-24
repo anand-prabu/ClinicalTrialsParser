@@ -1,0 +1,277 @@
+{
+    "clinical_study": {
+        "@rank": "6486", 
+        "acronym": "DIAMONDS", 
+        "arm_group": [
+            {
+                "arm_group_label": "T-SMBG", 
+                "arm_group_type": "Experimental", 
+                "description": "This group will perform SMBG using a smartphone-connected glucometer implemented with a software for real-time collection and transmission of measured glucose values to the remote server. SMBG results will be immediately transmitted to the remote server, which will perform data collection and analysis, and provide feed-back to the patient and the medical staff according to pre-defined specific algorithms (Decision Supported Software, DSS). A specific algorithm incorporated into the DSS will allow the patients to self-calculate the dose of basal insulin to be administered according to the measured fasting blood glucose levels for consecutive periods of three days. Glucose data and analyses will be made accessible to the patients and medical staff anytime and anywhere via the web. Patients will be also assisted by the diabetes medical team located at or connected with a call center 24-hours/day, 7 days/week."
+            }, 
+            {
+                "arm_group_label": "SMBG", 
+                "arm_group_type": "Active Comparator", 
+                "description": "This group will perform SMBG using a regular glucometer and will report glucose data on paper charts (or download data from the glucometer onto the PC) at the planned study visits. Patients will not receive feed-back on their glucose levels nor instructions on how to potentially modify their drug therapy except when undergoing medical visits at the planned intervals. Patients, finally, will not be assisted by the diabetes team/call center."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The study aims to validate the clinical efficacy of a telemedicine- and web-based system\n      platform for Self-monitoring of blood glucose (SMBG) data transmission and analysis in terms\n      of improved metabolic control, assessed by measuring changes in HbA1c, in insulin-treated\n      diabetic patients. The system platform involves (i.) systematic (real-time and anywhere)\n      transmission of SMBG data to a decision supported software (DSS)-assisted server, (ii.)\n      web-based analysis of data, and (iii.) feedback on patients and medical staff to implement\n      metabolic control. The expected outcome is that using this telemedicine-based system with\n      transmission of SMBG data, web-based analysis of data and medical feedback to patients and\n      medical team will improve glucose control in insulin-treated individuals with type 1 or type\n      2 diabetes mellitus."
+        }, 
+        "brief_title": "DIgital Assisted MONitoring for DiabeteS - I", 
+        "completion_date": {
+            "#text": "July 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Diabetes Mellitus", 
+        "condition_browse": {
+            "mesh_term": "Diabetes Mellitus"
+        }, 
+        "detailed_description": {
+            "textblock": "Self-monitoring of blood glucose (SMBG) is currently recommended in all type 1 diabetic\n      patients and type 2 diabetic  treated with insulin (\u22654 glucose testing per day), as a tool\n      to favor achievement of glucose control. It is still debated whether SMBG is also useful to\n      achieve improved glucose control in non-insulin treated type 2 diabetes due to discordant\n      results from intervention trials [Farmer AJ, 2009]. In general, it is assumed that the\n      usefulness of SMBG is fully met when SMBG is performed in a structured manner, and both the\n      patient and medical team make use of the SMBG results to optimize lifestyle and drug\n      therapy; this should result in more effective control of both hyperglycemia and\n      hypoglycemia, resulting in less glucose variability [IDF, 2009]. SMBG is currently performed\n      by a majority of diabetic patients, including non-insulin treated type 2 patients; however,\n      the SMGB procedure is often far from being satisfactory due to inappropriate frequency of\n      testing, data collection and data analysis, resulting in a suboptimal impact on disease\n      management. Thus, multiple unmet needs currently exist in the SMBG procedure, which could be\n      resolved by (i.) implementing appropriate SMBG testing frequencies (# blood glucose (BG)\n      tests/day-week-month); (ii.)  temporally localizing BG tests with respect to fasting periods\n      vs. meals/snacks; (iii.) improving the quality control of the SMBG procedure (use of strips,\n      calibration, testing, data collection and analysis); (iv.) making SMBG results available for\n      statistical and medical analyses to monitor diabetes status and adjust lifestyle and drug\n      therapy when needed; (v.) providing the patient with appropriate feed-back driven by SMBG\n      data analysis; and (vi.) monitoring real-time SMBG data to detect emergency situations\n      (e.g., severe hypoglycemia, persistent hyperglycemia) to assist the patient with appropriate\n      and timely interventions.\n\n      There is a growing body of evidence to suggest that telemedicine is an effective\n      intervention for improving glucose control. Use of telephone contacts, video-conferencing,\n      personal digital assistants and web-based systems offer new opportunities to bridge the gap\n      in support for patients with diabetes between face to face visits with their health care\n      providers. Several small-scale and non-randomized studies have found that patients exposed\n      to telemonitoring interventions had lower HbA1c values than those without. Moreover, larger\n      randomized controlled studies have also shown promising results. In the most comprehensive\n      randomized comparison of telemonitoring interventions yet completed, the IDEATel study,\n      1,665 participants were randomized to a telemedicine unit or conventional care. At 1 year,\n      patients in intervention group showed significantly lower HbA1c (-0.38 %  p<0.01), systolic\n      and diastolic blood pressure, (respectively, -3.4 mmHg, p= 0.001; -1.9 mmHg, p<0.001), and\n      low density lipoprotein (LDL) cholesterol (-9.5 mg/dL, p< 0.001). In patients blindly\n      assessed annually over a period of five years, it was found that the telemedicine group\n      scored better than the standard care group on virtually all outcome measures at each annual\n      evaluation. Mortality was not different between the groups, although power was limited [Shea\n      S, 2009]. More recently, Charpentier et al., in a six-month multicenter study, enrolled 180\n      adult patients with type 1 diabetes on a basal-bolus insulin regimen, with baseline HbA1c\n      \u22658%. Patients were randomized to either usual quarterly follow-up, or home use of a\n      smartphone recommending insulin doses with quarterly visits, or use of the smartphone with\n      short teleconsultations every two weeks but no visit until endpoint (Diabeo system). Use of\n      the Diabeo system yielded a 0.91% decrease in HbA1c over controls and a 0.67% decrease in\n      HbA1c when used without teleconsultation. There was no difference in the frequency of\n      hypoglycemic episodes or in medical time spent for hospital or telephone consultations.\n      However, patients using the Diabeo system spent nearly 5 h less than patients in other\n      groups in attending hospital visits [Charpentier G, 2011]. Similarly, Bujnowska-Fedak et al\n      enrolled a total of 100 adult patients with type 2 diabetes, divided between insulin- and\n      non-insulin-requiring, in a randomized, controlled trial aimed at investigating the effects\n      of telehome monitoring. The experimental group (n\u2009=\u200950) received an in-home wireless glucose\n      monitor and transmitter, whereas the control group (n\u2009=\u200950) was instructed to follow the\n      conventional arrangement. There was an overall reduction in HbA1c values in both\n      experimental and control groups after 6 months. A significant difference in HbA1c values\n      between the groups was observed only among the noninsulin-requiring patients. The\n      experimental group reported considerably less hyperglycemic and hypoglycemic events. The\n      profile of the patient who benefited the most from telemonitoring consisted of older, more\n      educated patients, who had acquired the disease relatively recently, and who spent most of\n      the time at home. The experimental group had higher overall scores on quality of life\n      measures and sense of control over diabetes [Bujnowska-Fedak MM, 2011]. A recent\n      meta-analysis of 22 trials and a total of 1,657 participants showed that mobile phone\n      interventions for diabetes self-management reduced HbA1c values by a mean of 0.5% over a\n      median of 6-month follow-up duration. Interestingly, type 2 diabetes patients reported\n      significantly greater reductions in HbA1c than type 1 diabetes patients (0.8 vs. 0.3%; P =\n      0.02) [Liang X, 2011]. In conclusion, telemedicine case management intervention and\n      tele-home care may potentially assist in daily diabetes management via the establishment of\n      an active interaction between diabetic patients and healthcare professionals. However,\n      further evidence is warranted, particularly when considering new innovative systems with a\n      potential for implementation of patient's assistance and of diabetes drug therapy remotely.\n\n      We have recently developed a telemedicine system [Glucoonline\u00ae, 2011], which consists of a\n      smartphone-connected glucometer, a software-implemented smartphone for real-time and\n      anywhere BG data collection and transmission to a remote server, and a Decision Supported\n      Software (DSS)-assisted server capable of performing data collection and analysis, and\n      providing feed-back to the patient and the medical staff according to pre-defined specific\n      algorithms. A pilot study showing the feasibility of using this system in 10 individuals\n      with type 1 diabetes treated with a multiple daily injection (MDI) regimen over a 3-month\n      period has been already carried out [Giorgino F, data on file]. We believe that this system\n      could be now utilized in a prospective randomized controlled trial to investigate its\n      suitability to enable improved glucose control in insulin-treated individuals with type 1 or\n      type 2 diabetes mellitus."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  males and females\n\n          -  age 18-70 yrs;\n\n          -  insulin-treated diabetes (both type 1 and type 2 diabetes treated with at least 3\n             injections/day);\n\n          -  diabetes diagnosis from at least 1 year;\n\n          -  inadequate glycemic control (HbA1c ranging from 7.0% to 10.0%; local measurements\n             within the last 6 weeks);\n\n          -  ability and willingness to carry out SMBG;\n\n          -  informed consent.\n\n        Exclusion Criteria:\n\n          -  diagnosis of diabetes within less than 1 year;\n\n          -  impending complications of diabetes: proliferative retinopathy or maculopathy (with\n             significant loss of visual function), severe renal failure (eGFR <30), severe\n             neuropathy (autonomic dysfunction, peripheral neuropathy, gastroparesis);\n\n          -  clinically significant, active (over the past 12 months) disease of the\n             cardiovascular, gastrointestinal, neurological, genito-urinary, haematological\n             systems or severe uncontrolled hypertension (SBP >180 mmHg; DBP >100 mmHg);\n\n          -  diagnosis of active neoplasia within the last 5 years (history of chemotherapy or\n             radiation treated malignancy within 5 years prior to study procedure, except for\n             lymphoma);\n\n          -  pregnancy or intention to become pregnant during the study;\n\n          -  poor compliance to study procedures."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "70 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "250", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "February 25, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01804803", 
+            "org_study_id": "DIAMONDS-I"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "T-SMBG", 
+                "description": "Device is a smartphone-connected glucometer. The smartphone will be implemented with a software for real-time collection and transmission of measured glucose values to the remote server. Thus, the glucometer will be made \"hot\" for real-time and anywhere data transmission. In addition, at the time of blood glucose measuring, the patient will enter information on whether the measurement is being performed in the pre-prandial, post-prandial or absorptive periods, and will indicate which meals the measurement refers to (i.e., breakfast, lunch, dinner, snack). SMBG results will be immediately transmitted to the remote server, which will perform data collection and analysis, and provide feed-back to the patient and the medical staff according to pre-defined specific algorithms (Decision Supported Software, DSS).", 
+                "intervention_name": "Use of software-implemented glucometer for real-time collection and transmission of measured glucose values to remote server.", 
+                "intervention_type": "Procedure"
+            }, 
+            {
+                "arm_group_label": "SMBG", 
+                "intervention_name": "Use of regular glucometer", 
+                "intervention_type": "Procedure"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "glycated hemoglobin", 
+            "hyperglycemia", 
+            "hypoglycemia", 
+            "insulin", 
+            "self-monitoring of blood glucose", 
+            "telemedicine"
+        ], 
+        "lastchanged_date": "August 2, 2013", 
+        "location": [
+            {
+                "contact": {
+                    "email": "francesco.giorgino@uniba.it", 
+                    "last_name": "Francesco Giorgino, M.D., Ph.D."
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Bari", 
+                        "country": "Italy", 
+                        "state": "BA", 
+                        "zip": "70124"
+                    }, 
+                    "name": "University of Bari Aldo Moro"
+                }, 
+                "investigator": {
+                    "last_name": "Francesco Giorgino, M.D., Ph.D.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "San Giovanni Rotondo", 
+                        "country": "Italy", 
+                        "state": "FG"
+                    }, 
+                    "name": "IRCSS Casa Sollievo Sofferenza"
+                }, 
+                "investigator": {
+                    "last_name": "Salvatore De Cosmo, M.D.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "m.cignarelli@unifg.it", 
+                    "last_name": "Mauro Cignarelli, M.D."
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Foggia", 
+                        "country": "Italy"
+                    }, 
+                    "name": "University of Foggia"
+                }, 
+                "investigator": {
+                    "last_name": "Mauro Cignarelli, M.D.", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": "Italy"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "A Telemedicine-based Intervention Study Involving Real-time and Anywhere Transmission of Blood Glucose Data to a Decision Supported Software-assisted Server With Web-based Analysis of Data and Medical Feedback on Metabolic Control.", 
+        "overall_contact": {
+            "email": "francesco.giorgino@uniba.it", 
+            "last_name": "Francesco Giorgino, M.D., Ph.D.", 
+            "phone": "+390805593522"
+        }, 
+        "overall_official": {
+            "affiliation": "University of Bari Aldo Moro", 
+            "last_name": "Francesco Giorgino, M.D., Ph.D.", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "Italy: Ethics Committee", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "May 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "Changes in HbA1c from baseline value", 
+            "safety_issue": "No", 
+            "time_frame": "3-month, 6-month"
+        }, 
+        "reference": [
+            {
+                "PMID": "21375410", 
+                "citation": "Bujnowska-Fedak MM, Pucha\u0142a E, Steciwko A. The impact of telehome care on health status and quality of life among patients with diabetes in a primary care setting in Poland. Telemed J E Health. 2011 Apr;17(3):153-63. doi: 10.1089/tmj.2010.0113. Epub 2011 Mar 5."
+            }, 
+            {
+                "PMID": "21266648", 
+                "citation": "Charpentier G, Benhamou PY, Dardari D, Clergeot A, Franc S, Schaepelynck-Belicar P, Catargi B, Melki V, Chaillous L, Farret A, Bosson JL, Penfornis A; TeleDiab Study Group. The Diabeo software enabling individualized insulin dose adjustments combined with telemedicine support improves HbA1c in poorly controlled type 1 diabetic patients: a 6-month, randomized, open-label, parallel-group, multicenter trial (TeleDiab 1 Study). Diabetes Care. 2011 Mar;34(3):533-9. doi: 10.2337/dc10-1259. Epub 2011 Jan 25."
+            }, 
+            {
+                "PMID": "21392066", 
+                "citation": "Liang X, Wang Q, Yang X, Cao J, Chen J, Mo X, Huang J, Wang L, Gu D. Effect of mobile phone intervention for diabetes on glycaemic control: a meta-analysis. Diabet Med. 2011 Apr;28(4):455-63. doi: 10.1111/j.1464-5491.2010.03180.x. PubMed PMID: 21392066."
+            }, 
+            {
+                "PMID": "19390093", 
+                "citation": "Shea S, Weinstock RS, Teresi JA, Palmas W, Starren J, Cimino JJ, Lai AM, Field L, Morin PC, Goland R, Izquierdo RE, Ebner S, Silver S, Petkova E, Kong J, Eimicke JP; IDEATel Consortium. A randomized trial comparing telemedicine case management with usual care in older, ethnically diverse, medically underserved patients with diabetes mellitus: 5 year results of the IDEATel study. J Am Med Inform Assoc. 2009 Jul-Aug;16(4):446-56. Epub 2009 Apr 23."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01804803"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University of Bari", 
+            "investigator_full_name": "Francesco Giorgino, M.D., Ph.D.", 
+            "investigator_title": "Professor of Endocrinology", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Changes in HbA1c from baseline value in relation to HbA1c value at baseline", 
+                "safety_issue": "No", 
+                "time_frame": "6-month"
+            }, 
+            {
+                "measure": "Percentages of patients with HbA1c >8.5% at 3 and 6 months", 
+                "safety_issue": "No", 
+                "time_frame": "3-month, 6-month"
+            }, 
+            {
+                "measure": "Percentages of patients with HbA1c <7.0% at 3 and 6 months", 
+                "safety_issue": "No", 
+                "time_frame": "3-month, 6-month"
+            }, 
+            {
+                "measure": "Percentages of patients with HbA1c <6.5% at 3 and 6 months", 
+                "safety_issue": "No", 
+                "time_frame": "3-month, 6-month"
+            }, 
+            {
+                "measure": "Differences in fasting blood glucose levels", 
+                "safety_issue": "No", 
+                "time_frame": "3-month, 6-month"
+            }, 
+            {
+                "measure": "Differences in blood glucose levels in the pre-prandial and post-prandial phases; meal-related glucose excursions (post/pre-meal \"delta\")", 
+                "safety_issue": "No", 
+                "time_frame": "3-month, 6-month"
+            }, 
+            {
+                "measure": "Frequency of hypoglycaemic episodes and relationship with changes in therapy", 
+                "safety_issue": "Yes", 
+                "time_frame": "3-month, 6-month"
+            }, 
+            {
+                "measure": "Changes in therapy (drug type and doses; in relation to SMBG values)", 
+                "safety_issue": "No", 
+                "time_frame": "3-month, 6-month"
+            }, 
+            {
+                "measure": "Appropriateness of glucose testing (% conformity based on recommended frequency of testing, also in relation to meals)", 
+                "safety_issue": "No", 
+                "time_frame": "3-month, 6-month"
+            }, 
+            {
+                "measure": "Indices of glucose variability (Kovatchev's LBGI, HBGI, ADRR)", 
+                "safety_issue": "Yes", 
+                "time_frame": "3-month, 6-month"
+            }, 
+            {
+                "measure": "Quality of life", 
+                "safety_issue": "No", 
+                "time_frame": "6-month"
+            }, 
+            {
+                "measure": "Proportion of subjects with eGFR less than 60 and high LBGI, HBGI, or ADRR indices", 
+                "safety_issue": "No", 
+                "time_frame": "3-month, 6-month"
+            }, 
+            {
+                "measure": "Subgroup analyses of changes in HbA1c from baseline according to patients' age (<45 yrs, >45yrs), type of diabetes (type 1, type 2), and diabetes duration (<5 yrs, >5 yrs)", 
+                "safety_issue": "No", 
+                "time_frame": "6-month"
+            }
+        ], 
+        "source": "University of Bari", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "Eli Lilly and Company", 
+                    "agency_class": "Industry"
+                }, 
+                {
+                    "agency": "LifeScan", 
+                    "agency_class": "Industry"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "University of Bari", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "May 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "August 2013"
+    }
+}

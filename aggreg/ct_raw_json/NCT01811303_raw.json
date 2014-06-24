@@ -1,0 +1,996 @@
+{
+    "clinical_study": {
+        "@rank": "6492", 
+        "arm_group": [
+            {
+                "arm_group_label": "D-fagomine", 
+                "arm_group_type": "Experimental", 
+                "description": "Measure the changes produced on the postprandial Glycaemic response to 50 g of sucrose containing 40 mg D-fagomine, in 200 ml water"
+            }, 
+            {
+                "arm_group_label": "Control", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Sucrose 50 g without d-fagomine, in 200 ml water"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to determine whether D-fagomine affects glycaemic responses to\n      sucrose (commercial white sugar)and quantify the response"
+        }, 
+        "brief_title": "Effects of Added D-fagomine on Glycaemic Responses to Sucrose", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "B1", 
+                        "description": "Measure the changes produced on the postprandial Glycaemic response to 50 g of sucrose containing 40 mg D-fagomine, in 200 ml water vs placebo.", 
+                        "title": "D-fagomine (All Study Participants)"
+                    }
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "14"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "14"
+                                            }
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@spread": "11.2", 
+                                            "@value": "39.8"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "8"
+                                            }
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "6"
+                                            }
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "14"
+                                        }
+                                    }, 
+                                    "sub_title": "United Kingdom"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "analysis_list": {
+                            "analysis": [
+                                {
+                                    "group_id_list": {
+                                        "group_id": "O1"
+                                    }, 
+                                    "method": "ANOVA", 
+                                    "non_inferiority": "No", 
+                                    "p_value": "<0.0001"
+                                }, 
+                                {
+                                    "group_id_list": {
+                                        "group_id": "O2"
+                                    }, 
+                                    "method": "ANOVA", 
+                                    "non_inferiority": "No", 
+                                    "p_value": "<0.016"
+                                }
+                            ]
+                        }, 
+                        "description": "On each intervention, the volunteer measured a baseline fasting blood sugar measurement for that day and repeated this approximately 5 minutes later so that two fasting measurements were obtained under the supervision of staff. All of the subsequent measurements were assessed against the average of the two baseline readings. Each subject was then presented with a test product and they were instructed to consume the whole amount within a fifteen-minute period.  Each volunteer then took a blood sugar readings at 15, 30, 45, 60, 90 and 120 minutes following the initiation of consumption of the test product. Measurements were taken using the Ascensia Contour, Blood Glucose Monitoring Systems (Bayer), which analysed the blood sample and provided a blood glucose reading in mmol/l. The AUC is calculated using the trapezoid rule and the final outcome is the incremental area under the curve for the arm expressed as a percent of the average response for the control by the same subject.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Determine the relative change in the Glycaemic response between sucrose with D-fagomine and sucrose without D-fagomine in the first 60 minutes (postprandial). Calculated on incremental Area Under the Curve (AUC) from the individual glucose measurements in capillary blood, and evaluated by repeated measures ANOVA.", 
+                                    "title": "Change D-fagomine/Control AUC at 60 Min"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Determine the relative change in the Glycaemic response between sucrose with D-fagomine and sucrose without D-fagomine in the first 120 minutes (postprandial). Calculated on incremental Area Under the Curve (AUC) from the individual glucose measurements in capillary blood, and evaluated by repeated measures ANOVA.", 
+                                    "title": "Change D-fagomine/Control AUC at 120 Min"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "14"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "14"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "63.66", 
+                                                        "@upper_limit": "82.90", 
+                                                        "@value": "73.28"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "67.73", 
+                                                        "@upper_limit": "99.17", 
+                                                        "@value": "83.45"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "On each intervention, the volunteer measured a baseline fasting blood sugar measurement for that day and repeated this approximately 5 minutes later so that two fasting measurements were obtained under the supervision of staff. All of the subsequent measurements were assessed against the average of the two baseline readings. Each subject was then presented with a test product and they were instructed to consume the whole amount within a fifteen-minute period.  Each volunteer then took a blood sugar readings at 15, 30, 45, 60, 90 and 120 minutes following the initiation of consumption of the test product. Measurements were taken using the Ascensia Contour, Blood Glucose Monitoring Systems (Bayer), which analysed the blood sample and provided a blood glucose reading in mmol/l. The AUC is calculated using the trapezoid rule and the final outcome is the incremental area under the curve for the arm expressed as a percent of the average response for the control by the same subject.", 
+                                    "dispersion": "95% Confidence Interval", 
+                                    "param": "Mean", 
+                                    "title": "Postprandial Glycaemic Response Index", 
+                                    "units": "percentage of AUC fagomine/AUC control"
+                                }
+                            ]
+                        }, 
+                        "population": "The number of participants >10, the repetitions >= 2 and also other variables was determined based on F. Brouns et al., Glycaemic index methodology,Nutrition Research Reviews (2005), 18, 145\u2013171. Also was considered the advice and previous GI studies from RSSL based on master protocol GIMST09.", 
+                        "safety_issue": "No", 
+                        "time_frame": "120 minutes", 
+                        "title": "Postprandial Glycaemic Response Index", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "Determine the glucose C max of Sucrose with D-fagomine over the baseline.\nThe blood glucose maximum concentration (C-Max)  expressed in mmol/L of the average response for a 50g sucrose, over the baseline.\nCalculation of the outcome is= (Measure glucose C-Max - Measure glucose baseline)", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Determination of glucose Cmax over the Baseline of the treatment: sucrose 50 g + 200 ml water + 40 mg D-fagomine. Blood glucose concentration expressed in mmol/l.", 
+                                    "title": "D-fagomine"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Determination of glucose Cmax over the Baseline of the control: sucrose 50 g + 200 ml water. Blood glucose concentration expressed in mmol/l.", 
+                                    "title": "Control"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "14"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "14"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "0.19", 
+                                                        "@value": "2.3"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "0.37", 
+                                                        "@value": "3.6"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Determine the glucose C max of Sucrose with D-fagomine over the baseline.\nThe blood glucose maximum concentration (C-Max)  expressed in mmol/L of the average response for a 50g sucrose, over the baseline.\nCalculation of the outcome is= (Measure glucose C-Max - Measure glucose baseline)", 
+                                    "dispersion": "Standard Error", 
+                                    "param": "Mean", 
+                                    "title": "Maximum Blood Glucose Concentration (C Max) Over the Baseline", 
+                                    "units": "mmol/L"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "No", 
+                        "time_frame": "Usually in the range of 30-45 minutes", 
+                        "title": "Maximum Blood Glucose Concentration (C Max) Over the Baseline", 
+                        "type": "Secondary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "The subjects receive placebo in the first two interventions.", 
+                            "title": "Placebo, Placebo, Treatment, Treatment"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "The subjects receive treatment in the first two interventions", 
+                            "title": "Treatment, Treatment, Placebo, Placebo"
+                        }, 
+                        {
+                            "@group_id": "P3", 
+                            "description": "The subjects receive placebo or treatment in each intervention alternatively, starting with placebo.", 
+                            "title": "Placebo, Treatment, Placebo, Treatment"
+                        }, 
+                        {
+                            "@group_id": "P4", 
+                            "description": "The subjects receive placebo or treatment in each intervention alternatively, starting with treatment.", 
+                            "title": "Treatment, Placebo, Treatment, Placebo"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": [
+                        {
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "2", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "2", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "First Intervention (1 Day)"
+                        }, 
+                        {
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "2", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "2", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Washout (2 Days or More)"
+                        }, 
+                        {
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "2", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "2", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Second Intervention (1 Day)"
+                        }, 
+                        {
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "2", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "2", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Washout (2 Days or More)"
+                        }, 
+                        {
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "2", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "2", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Third Intervention (1 Day)"
+                        }, 
+                        {
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "2", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "2", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Washout (2 Days or More)"
+                        }, 
+                        {
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "2", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "4", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "2", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P3"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P4"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Fourth Intervention (1 Day)"
+                        }
+                    ]
+                }, 
+                "pre_assignment_details": "There was 15 subjects screened that all were complying with the eligibility criteria. Finally only 14 subjects were involved in the study and analysed as far the study was planned to involve 12 subjects. All 14 subjects received the treatment randomized to a William's Latin square design balanced for treatment order.", 
+                "recruitment_details": "Recruitment of adults volunteers done by RSSL, in Reading (United Kingdom), under GCP."
+            }, 
+            "point_of_contact": {
+                "name_or_title": "Rungano Munyuki (Clinical Project Manager)", 
+                "organization": "RSSL", 
+                "phone": "0118 9184034"
+            }
+        }, 
+        "completion_date": {
+            "#text": "March 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": "Reduction of Post-prandial Glycaemic Response", 
+        "detailed_description": {
+            "textblock": "This is a two treatment randomized double-blind crossover study, with each test product\n      replicated twice.\n\n      Randomization:  Subjects will be randomized to a Williams Latin square design balanced for\n      treatment order.\n\n      Washout:  2 days or more (may return on day 3)\n\n      Run-in:  High carbohydrate diet guidance (>150 g/d) 1 day before treatment, recommend same\n      sized dinner the previous night (no food record collection required)\n\n      Drop-outs:  Subjects who have dropped out before visit 2 will be replaced by another subject\n      randomized in their place (the new subject will complete all treatments)\n\n      Subjects will report after an overnight (12 hour) fast for baseline sample collection, and\n      will consume the test product in a fasted state."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Male or female (not less than 40% Male)\n\n          -  Aged 18 - 55 years\n\n          -  Have a body mass index between 18.5 to 29.99 kg/m2\n\n          -  Healthy, non-diabetic, no gastric bypass surgery\n\n          -  Have a fasting plasma glucose (finger-stick) <100 mg/dl (<5.5 mmol/L)\n\n          -  Willing and able to provide written informed consent\n\n        Exclusion Criteria:\n\n          -  Smokers\n\n          -  Allergic to dairy or soy"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "55 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "14", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "March 12, 2013", 
+        "firstreceived_results_date": "April 3, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01811303", 
+            "org_study_id": "RSSL SSID P12-06545"
+        }, 
+        "intervention": {
+            "arm_group_label": "D-fagomine", 
+            "description": "Measure the changes produced on the postprandial Glycaemic response to 50 g of sucrose in 200 ml water if added 40 mg D-fagomine", 
+            "intervention_name": "D-fagomine", 
+            "intervention_type": "Other"
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "June 28, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Reading", 
+                    "country": "United Kingdom", 
+                    "zip": "RG6 6LA"
+                }, 
+                "name": "Reading Scientific Services Ltd."
+            }
+        }, 
+        "location_countries": {
+            "country": "United Kingdom"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Effects of Added D-fagomine on Glycaemic Responses to Sucrose", 
+        "overall_official": {
+            "affiliation": "Reading Scientific Services Ltd.", 
+            "last_name": "Rungano Munyuki", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United Kingdom: Research Ethics Committee", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "March 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "On each intervention, the volunteer measured a baseline fasting blood sugar measurement for that day and repeated this approximately 5 minutes later so that two fasting measurements were obtained under the supervision of staff. All of the subsequent measurements were assessed against the average of the two baseline readings. Each subject was then presented with a test product and they were instructed to consume the whole amount within a fifteen-minute period.  Each volunteer then took a blood sugar readings at 15, 30, 45, 60, 90 and 120 minutes following the initiation of consumption of the test product. Measurements were taken using the Ascensia Contour, Blood Glucose Monitoring Systems (Bayer), which analysed the blood sample and provided a blood glucose reading in mmol/l. The AUC is calculated using the trapezoid rule and the final outcome is the incremental area under the curve for the arm expressed as a percent of the average response for the control by the same subject.", 
+            "measure": "Postprandial Glycaemic Response Index", 
+            "safety_issue": "No", 
+            "time_frame": "120 minutes"
+        }, 
+        "reference": [
+            {
+                "PMID": "22017795", 
+                "citation": "G\u00f3mez L, Molinar-Toribio E, Calvo-Torras M\u00c1, Adelantado C, Juan ME, Planas JM, Ca\u00f1as X, Lozano C, Pumarola S, Clap\u00e9s P, Torres JL. D-Fagomine lowers postprandial blood glucose and modulates bacterial adhesion. Br J Nutr. 2012 Jun;107(12):1739-46. doi: 10.1017/S0007114511005009. Epub 2011 Oct 3."
+            }, 
+            {
+                "PMID": "23194529", 
+                "citation": "Am\u00e9zqueta S, Gal\u00e1n E, Vila-Fern\u00e1ndez I, Pumarola S, Carrascal M, Abian J, Ribas-Barba L, Serra-Majem L, Torres JL. The presence of D-fagomine in the human diet from buckwheat-based foodstuffs. Food Chem. 2013 Feb 15;136(3-4):1316-21. doi: 10.1016/j.foodchem.2012.09.038. Epub 2012 Sep 18."
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01811303"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "description": "Determine the glucose C max of Sucrose with D-fagomine over the baseline.\nThe blood glucose maximum concentration (C-Max)  expressed in mmol/L of the average response for a 50g sucrose, over the baseline.\nCalculation of the outcome is= (Measure glucose C-Max - Measure glucose baseline)", 
+            "measure": "Maximum Blood Glucose Concentration (C Max) Over the Baseline", 
+            "safety_issue": "No", 
+            "time_frame": "Usually in the range of 30-45 minutes"
+        }, 
+        "source": "Bioglane", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Bioglane", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "September 2012", 
+        "study_design": "Allocation: Randomized, Intervention Model: Crossover Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Basic Science", 
+        "study_type": "Interventional", 
+        "verification_date": "April 2013"
+    }
+}

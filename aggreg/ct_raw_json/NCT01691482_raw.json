@@ -1,0 +1,2146 @@
+{
+    "clinical_study": {
+        "@rank": "139438", 
+        "arm_group": [
+            {
+                "arm_group_label": "Albuterol/salbutamol followed by ipratropium", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Subjects will recieve daily albuterol/salbutamol followed by ipratropium which will be adminstered one hour after adminstration of albuterol/salbutamol"
+            }, 
+            {
+                "arm_group_label": "Ipratropium followed by albuterol/salbutamol", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Subjects will recieve daily ipratropium followed by albuterol/salbutamol which will be adminstered one hour after adminstration of ipratropium"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The objective of this study is to assess the daily variation in bronchodilator response to\n      an inhaled short acting beta2-agonist (albuterol/salbutamol) and an inhaled short acting\n      anticholinergic (ipratropium)  individually and when used in combination in subjects with\n      COPD."
+        }, 
+        "brief_title": "A Study to Look at Day to Day Changes in Lung Function in COPD Subjects Taking Albuterol/Salbutamol and Ipratropium", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "B1", 
+                        "description": "All participants randomized to receive a sequence of either salbutamol (4 puffs; 100 \u00b5g per puff) via an MDI and albuterol (4 puffs; 90 \u00b5g per puff) followed by ipratropium (4 puffs; 20 \u00b5g per puff) via an MDI in TP1 and the same dose of each bronchodilator given in the opposite order in TP2, or ipratropium followed by albuterol/salbutamol in TP1 and the same dose of each bronchodilator given in the opposite order in TP2", 
+                        "title": "All Randomized Participants"
+                    }
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "56"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@spread": "7.42", 
+                                            "@value": "60.3"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "Years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "35"
+                                            }
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "21"
+                                            }
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "Participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "4"
+                                            }
+                                        }, 
+                                        "sub_title": "African American/African Heritage"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "52"
+                                            }
+                                        }, 
+                                        "sub_title": "White"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Race/Ethnicity, Customized", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "GSK agreements may vary with individual investigators, but will not prohibit any investigator from publishing. GSK supports the publication of results from all centers of a multi-center trial but requests that reports based on single-site data not precede the primary publication of the entire clinical trial."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "analysis_list": {
+                            "analysis": [
+                                {
+                                    "ci_lower_limit": "0.049", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "0.067", 
+                                    "dispersion_type": "Standard Error of the mean", 
+                                    "dispersion_value": "0.0046", 
+                                    "estimate_desc": "Treatment: A/S alone. A mixed model analysis, with period, treatment (A+I, I+A, Albuterol alone, Ipratropium alone), FEV1 Baseline, smoking status at Screening, and center fitted as fixed effects and participant as a random effect was used.", 
+                                    "group_id_list": {
+                                        "group_id": "O1"
+                                    }, 
+                                    "non_inferiority": "No", 
+                                    "param_type": "Adjusted Mean", 
+                                    "param_value": "0.058"
+                                }, 
+                                {
+                                    "ci_lower_limit": "0.062", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "0.080", 
+                                    "dispersion_type": "Standard Error of the mean", 
+                                    "dispersion_value": "0.0046", 
+                                    "estimate_desc": "Treatment: ipratropium alone. A mixed model analysis, with period, treatment (A+I, I+A, Albuterol alone, Ipratropium alone), FEV1 Baseline, smoking status at Screening, and center fitted as fixed effects and participant as a random effect was used.", 
+                                    "group_id_list": {
+                                        "group_id": "O2"
+                                    }, 
+                                    "non_inferiority": "No", 
+                                    "param_type": "Adjusted Mean", 
+                                    "param_value": "0.071"
+                                }, 
+                                {
+                                    "ci_lower_limit": "0.044", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "0.062", 
+                                    "dispersion_type": "Standard Error of the mean", 
+                                    "dispersion_value": "0.0046", 
+                                    "estimate_desc": "Treatment: A+I. A mixed model analysis, with period, treatment (A+I, I+A, Albuterol alone, Ipratropium alone), FEV1 Baseline, smoking status at Screening, and center fitted as fixed effects and participant as a random effect was used.", 
+                                    "group_id_list": {
+                                        "group_id": "O1"
+                                    }, 
+                                    "non_inferiority": "No", 
+                                    "param_type": "Adjusted Mean", 
+                                    "param_value": "0.053"
+                                }, 
+                                {
+                                    "ci_lower_limit": "0.053", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "0.071", 
+                                    "dispersion_type": "Standard Error of the mean", 
+                                    "dispersion_value": "0.0046", 
+                                    "estimate_desc": "Treatment: I+A. A mixed model analysis, with period, treatment (A+I, I+A, Albuterol alone, Ipratropium alone), FEV1 Baseline, smoking status at Screening, and center fitted as fixed effects and participant as a random effect was used.", 
+                                    "group_id_list": {
+                                        "group_id": "O2"
+                                    }, 
+                                    "non_inferiority": "No", 
+                                    "param_type": "Slope", 
+                                    "param_value": "0.062"
+                                }
+                            ]
+                        }, 
+                        "description": "FEV1 is the maximal amount of air that can be forcefully exhaled in one second. During each study period, pre- and post-bronchodilator spirometry for evaluation of FEV1 was performed at study visits as follows: prior to administration of the first short-acting bronchodilator, approximately 1 hour after administration of the first bronchodilator (1 hour), and approximately 1 hour after administration of the second short-acting bronchodilator (2 hours). Variability in daily FEV1 was measured as the fluctuation around the mean FEV1 data collected from Day 1 to Day 10. Variability was measured by the coefficient of variation (CV) and the half range. The CV is the dispersion of the data around the mean, whereas the half range method is the difference between the maximum and minimum FEV1 values.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "All participants randomized to receive a sequence of albuterol (4 puffs; 90 \u00b5g per puff)/salbutamol (4 puffs; 100 \u00b5g per puff) via an MDI followed by ipratropium (4 puffs; 20 \u00b5g per puff) via an MDI in either TP1 or TP2.", 
+                                    "title": "Albuterol/Salbutamol Followed by Ipratropium"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "All participants randomized to receive a sequence of ipratropium (4 puffs; 20 \u00b5g per puff) via an MDI followed by albuterol (4 puffs; 90 \u00b5g per puff)/salbutamol (4 puffs; 100 \u00b5g per puff) via an MDI in either TP1 or TP2", 
+                                    "title": "Ipratropium Followed by Albuterol/Salbutamol"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "55"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "55"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "0.0394", 
+                                                            "@value": "0.081"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "0.0372", 
+                                                            "@value": "0.079"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Pre-dose/non-bronchodilator"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "0.0276", 
+                                                            "@value": "0.059"
+                                                        }, 
+                                                        {
+                                                            "#text": "Participants in this treatment arm received ipratropium as the first bronchodilator; thus, data were not collected for albuterol/salbutamol (A/S) at this time point.", 
+                                                            "@group_id": "O2", 
+                                                            "@spread": "NA", 
+                                                            "@value": "NA"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Albuterol/Salbutamol (A/S) alone, 1 hour"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "0.0232", 
+                                                            "@value": "0.054"
+                                                        }, 
+                                                        {
+                                                            "#text": "Participants in this treatment arm received ipratropium followed by A/S; thus, data were not collected for A/S followed by ipratropium.", 
+                                                            "@group_id": "O2", 
+                                                            "@spread": "NA", 
+                                                            "@value": "NA"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "A/S followed by ipratropium, 2 hours"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "#text": "Participants in this treatment arm received A/S as the first bronchodilator; thus, data were not collected for ipratropium at this time point.", 
+                                                            "@group_id": "O1", 
+                                                            "@spread": "NA", 
+                                                            "@value": "NA"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "0.0406", 
+                                                            "@value": "0.072"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Ipratropium alone, 1 hour"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "#text": "Participants in this treatment arm received A/S followed by ipratropium; thus, data were not collected for ipratropium followed by A/S.", 
+                                                            "@group_id": "O1", 
+                                                            "@spread": "NA", 
+                                                            "@value": "NA"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "0.0327", 
+                                                            "@value": "0.063"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Ipratropium followed by A/S,  2 hours"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "FEV1 is the maximal amount of air that can be forcefully exhaled in one second. During each study period, pre- and post-bronchodilator spirometry for evaluation of FEV1 was performed at study visits as follows: prior to administration of the first short-acting bronchodilator, approximately 1 hour after administration of the first bronchodilator (1 hour), and approximately 1 hour after administration of the second short-acting bronchodilator (2 hours). Variability in daily FEV1 was measured as the fluctuation around the mean FEV1 data collected from Day 1 to Day 10. Variability was measured by the coefficient of variation (CV) and the half range. The CV is the dispersion of the data around the mean, whereas the half range method is the difference between the maximum and minimum FEV1 values.", 
+                                    "dispersion": "Standard Error", 
+                                    "param": "Mean", 
+                                    "title": "Variability in Daily FEV1, Estimated by Coefficient of Variation", 
+                                    "units": "Liters"
+                                }
+                            ]
+                        }, 
+                        "population": "Efficacy Population: participants in the Intent-to-Treat Population (all participants who were randomized and received at least one bronchodilator in the treatment period) who completed pre- and post- bronchodilator assessments for at least 17 visits, with no more than 3 consecutive missing days", 
+                        "safety_issue": "No", 
+                        "time_frame": "up to 10 days", 
+                        "title": "Variability in Daily FEV1, Estimated by Coefficient of Variation", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "The maximal bronchodilator response for the first administered agent  is defined as the FEV1 (the maximal amount of air that can be forcefully exhaled in one second) 1 hour post-dose of the first bronchodilator minus the pre-dose. The maximal bronchodilator response for the second agent  is defined as the FEV1 1 hour post-dose of the second bronchodilator minus the FEV1 at 1 hour post-dose of the first bronchodilator. The maximal bronchodilator response for the combination  is defined as the FEV1 (the maximal amount of air that can be forcefully exhaled in one second) at 1 hour post-administration of the second bronchodilator minus the corresponding pre-dose FEV1. Derived FEV1 response is FEV1 change from 0 hours (0H) for the first agent assessment (at 1 hour [1H]); change from 1H for the second agent assessment (at 2 hours [2H]); and change from 0H for the combination assessment (at 2H). Data were adjusted for FEV1, smoking status, and center.", 
+                        "group_list": {
+                            "group": {
+                                "@group_id": "O1", 
+                                "description": "All participants randomized to receive a sequence of either salbutamol (4 puffs; 100 \u00b5g per puff) via an MDI and albuterol (4 puffs; 90 \u00b5g per puff) followed by ipratropium (4 puffs; 20 \u00b5g per puff) via an MDI in TP1 and the same dose of each bronchodilator given in the opposite order in TP2, or ipratropium followed by albuterol/salbutamol in TP1 and the same dose of each bronchodilator given in the opposite order in TP2", 
+                                "title": "All Randomized Participants"
+                            }
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": {
+                                                    "@group_id": "O1", 
+                                                    "@value": "55"
+                                                }
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "0.0174", 
+                                                        "@value": "0.269"
+                                                    }
+                                                }, 
+                                                "sub_title": "First agent, albuterol/salbutamol (A/S)"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "0.0174", 
+                                                        "@value": "0.243"
+                                                    }
+                                                }, 
+                                                "sub_title": "First agent, ipratropium"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "0.0123", 
+                                                        "@value": "0.094"
+                                                    }
+                                                }, 
+                                                "sub_title": "Second agent, A/S"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "0.0123", 
+                                                        "@value": "0.094"
+                                                    }
+                                                }, 
+                                                "sub_title": "Second agent, ipratropium"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "0.0200", 
+                                                        "@value": "0.363"
+                                                    }
+                                                }, 
+                                                "sub_title": "A/S followed by ipratropium"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "0.0200", 
+                                                        "@value": "0.337"
+                                                    }
+                                                }, 
+                                                "sub_title": "Ipratropium followed by A/S"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "The maximal bronchodilator response for the first administered agent  is defined as the FEV1 (the maximal amount of air that can be forcefully exhaled in one second) 1 hour post-dose of the first bronchodilator minus the pre-dose. The maximal bronchodilator response for the second agent  is defined as the FEV1 1 hour post-dose of the second bronchodilator minus the FEV1 at 1 hour post-dose of the first bronchodilator. The maximal bronchodilator response for the combination  is defined as the FEV1 (the maximal amount of air that can be forcefully exhaled in one second) at 1 hour post-administration of the second bronchodilator minus the corresponding pre-dose FEV1. Derived FEV1 response is FEV1 change from 0 hours (0H) for the first agent assessment (at 1 hour [1H]); change from 1H for the second agent assessment (at 2 hours [2H]); and change from 0H for the combination assessment (at 2H). Data were adjusted for FEV1, smoking status, and center.", 
+                                    "dispersion": "Standard Error", 
+                                    "param": "Least Squares Mean", 
+                                    "title": "The Maximal Bronchodilator Response for the First Administered Agent", 
+                                    "units": "Liters"
+                                }
+                            ]
+                        }, 
+                        "population": "Efficacy Population", 
+                        "safety_issue": "No", 
+                        "time_frame": "up to 10 days", 
+                        "title": "The Maximal Bronchodilator Response for the First Administered Agent", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "FEV1 is the maximal amount of air that can be forcefully exhaled in one second. During each study period, pre- and post-bronchodilator spirometry for evaluation of FEV1 was performed at study visits as follows: approximately 1 hour after administration of the first bronchodilator (1 hour), and approximately 1 hour after administration of the second short-acting bronchodilator (2 hours).", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "All participants randomized to receive a sequence of albuterol (4 puffs; 90 \u00b5g per puff)/salbutamol (4 puffs; 100 \u00b5g per puff) via an MDI followed by ipratropium (4 puffs; 20 \u00b5g per puff) via an MDI in either TP1 or TP2.", 
+                                    "title": "Albuterol/Salbutamol Followed by Ipratropium"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "All participants randomized to receive a sequence of ipratropium (4 puffs; 20 \u00b5g per puff) via an MDI followed by albuterol (4 puffs; 90 \u00b5g per puff)/salbutamol (4 puffs; 100 \u00b5g per puff) via an MDI in either TP1 or TP2", 
+                                    "title": "Ipratropium Follwed by Albuterol/Salbutamol"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "55"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "55"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "38.26", 
+                                                            "@value": "58.4"
+                                                        }, 
+                                                        {
+                                                            "#text": "Participants in this treatment arm received ipratropium as the first bronchodilator; thus, data were not collected for albuterol/salbutamol (A/S) at this time point.", 
+                                                            "@group_id": "O2", 
+                                                            "@spread": "NA", 
+                                                            "@value": "NA"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Albuterol/Salbutamol (A/S) alone, 1 hour"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "35.51", 
+                                                            "@value": "71.7"
+                                                        }, 
+                                                        {
+                                                            "#text": "Participants in this treatment arm received ipratropium followed by A/S; thus, data were not collected for A/S followed by ipratropium.", 
+                                                            "@group_id": "O2", 
+                                                            "@spread": "NA", 
+                                                            "@value": "NA"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "A/S followed by ipratropium, 2 hours"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "#text": "Participants in this treatment arm received A/S as the first bronchodilator; thus, data were not collected for ipratropium at this time point.", 
+                                                            "@group_id": "O1", 
+                                                            "@spread": "NA", 
+                                                            "@value": "NA"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "39.34", 
+                                                            "@value": "55.4"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Ipratropium alone, 1 hour"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "#text": "Participants in this treatment arm received A/S followed by ipratropium; thus, data were not collected for ipratropium followed by A/S.", 
+                                                            "@group_id": "O1", 
+                                                            "@spread": "NA", 
+                                                            "@value": "NA"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "36.82", 
+                                                            "@value": "69.1"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Ipratropium followed by A/S, 2 hours"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "FEV1 is the maximal amount of air that can be forcefully exhaled in one second. During each study period, pre- and post-bronchodilator spirometry for evaluation of FEV1 was performed at study visits as follows: approximately 1 hour after administration of the first bronchodilator (1 hour), and approximately 1 hour after administration of the second short-acting bronchodilator (2 hours).", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Percentage of Days for Which Participants Achieved a >=12% and 200 Milliliter (mL) Increase From Baseline in FEV1", 
+                                    "units": "percentage of days"
+                                }
+                            ]
+                        }, 
+                        "population": "Efficacy Population", 
+                        "safety_issue": "No", 
+                        "time_frame": "up to 35 days", 
+                        "title": "Percentage of Days for Which Participants Achieved a >=12% and 200 Milliliter (mL) Increase From Baseline in FEV1", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "FEV1 is the maximal amount of air that can be forcefully exhaled in one second. During each study period, pre- and post-bronchodilator spirometry for evaluation of FEV1 was performed at study visits as follows: approximately 1 hour after administration of the first bronchodilator (1 hour), and approximately 1 hour after administration of the second short-acting bronchodilator (2 hours).", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "All participants randomized to receive a sequence of albuterol (4 puffs; 90 \u00b5g per puff)/salbutamol (4 puffs; 100 \u00b5g per puff) via an MDI followed by ipratropium (4 puffs; 20 \u00b5g per puff) via an MDI in either TP1 or TP2.", 
+                                    "title": "Albuterol/Salbutamol Followed by Ipratropium"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "All participants randomized to receive a sequence of ipratropium (4 puffs; 20 \u00b5g per puff) via an MDI followed by albuterol (4 puffs; 90 \u00b5g per puff)/salbutamol (4 puffs; 100 \u00b5g per puff) via an MDI in either TP1 or TP2", 
+                                    "title": "Ipratropium Follwed by Albuterol/Salbutamol"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "55"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "55"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "31.35", 
+                                                            "@value": "81.6"
+                                                        }, 
+                                                        {
+                                                            "#text": "Participants in this treatment arm received ipratropium as the first bronchodilator; thus, data were not collected for albuterol/salbutamol (A/S) at this time point.", 
+                                                            "@group_id": "O2", 
+                                                            "@spread": "NA", 
+                                                            "@value": "NA"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "A/S alone, 1 hour, 100 mL"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "29.92", 
+                                                            "@value": "85.2"
+                                                        }, 
+                                                        {
+                                                            "#text": "Participants in this treatment arm received ipratropium followed by A/S; thus, data were not collected for A/S followed by ipratropium.", 
+                                                            "@group_id": "O2", 
+                                                            "@spread": "NA", 
+                                                            "@value": "NA"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "A/S followed by ipratropium, 2 hours, 100 mL"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "#text": "Participants in this treatment arm received A/S as the first bronchodilator; thus, data were not collected for ipratropium at this time point.", 
+                                                            "@group_id": "O1", 
+                                                            "@spread": "NA", 
+                                                            "@value": "NA"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "38.06", 
+                                                            "@value": "72.9"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Ipratropium alone, 1 hour, 100 mL"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "#text": "Participants in this treatment arm received A/S followed by ipratropium; thus, data were not collected for ipratropium followed by A/S.", 
+                                                            "@group_id": "O1", 
+                                                            "@spread": "NA", 
+                                                            "@value": "NA"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "33.46", 
+                                                            "@value": "81.2"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Ipratropium followed by A/S, 2 hours, 100 mL"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "38.20", 
+                                                            "@value": "59.2"
+                                                        }, 
+                                                        {
+                                                            "#text": "Participants in this treatment arm received ipratropium as the first bronchodilator; thus, data were not collected for albuterol/salbutamol (A/S) at this time point.", 
+                                                            "@group_id": "O2", 
+                                                            "@spread": "NA", 
+                                                            "@value": "NA"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "A/S alone, 1 hour, 200 mL"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "35.25", 
+                                                            "@value": "72.7"
+                                                        }, 
+                                                        {
+                                                            "#text": "Participants in this treatment arm received ipratropium followed by A/S; thus, data were not collected for A/S followed by ipratropium.", 
+                                                            "@group_id": "O2", 
+                                                            "@spread": "NA", 
+                                                            "@value": "NA"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "A/S followed by ipratropium, 2 hours, 200 mL"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "#text": "Participants in this treatment arm received A/S as the first bronchodilator; thus, data were not collected for ipratropium at this time point.", 
+                                                            "@group_id": "O1", 
+                                                            "@spread": "NA", 
+                                                            "@value": "NA"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "39.54", 
+                                                            "@value": "56.0"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Ipratropium alone, 1 hour, 200 mL"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "#text": "Participants in this treatment arm received A/S followed by ipratropium; thus, data were not collected for ipratropium followed by A/S.", 
+                                                            "@group_id": "O1", 
+                                                            "@spread": "NA", 
+                                                            "@value": "NA"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "36.23", 
+                                                            "@value": "70.5"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Ipratropium followed by A/S, 2 hours, 200 mL"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "38.85", 
+                                                            "@value": "45.9"
+                                                        }, 
+                                                        {
+                                                            "#text": "Participants in this treatment arm received ipratropium as the first bronchodilator; thus, data were not collected for albuterol/salbutamol (A/S) at this time point.", 
+                                                            "@group_id": "O2", 
+                                                            "@spread": "NA", 
+                                                            "@value": "NA"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "A/S alone, 1 hour, 250 mL"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "39.08", 
+                                                            "@value": "64.0"
+                                                        }, 
+                                                        {
+                                                            "#text": "Participants in this treatment arm received ipratropium followed by A/S; thus, data were not collected for A/S followed by ipratropium.", 
+                                                            "@group_id": "O2", 
+                                                            "@spread": "NA", 
+                                                            "@value": "NA"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "A/S followed by ipratropium, 2 hours, 250 mL"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "#text": "Participants in this treatment arm received A/S as the first bronchodilator; thus, data were not collected for ipratropium at this time point.", 
+                                                            "@group_id": "O1", 
+                                                            "@spread": "NA", 
+                                                            "@value": "NA"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "36.94", 
+                                                            "@value": "45.8"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Ipratropium alone, 1 hour, 250 mL"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "#text": "Participants in this treatment arm received A/S followed by ipratropium; thus, data were not collected for ipratropium followed by A/S.", 
+                                                            "@group_id": "O1", 
+                                                            "@spread": "NA", 
+                                                            "@value": "NA"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "38.19", 
+                                                            "@value": "59.6"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Ipratropium followed by A/S, 2 hours, 250 mL"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "FEV1 is the maximal amount of air that can be forcefully exhaled in one second. During each study period, pre- and post-bronchodilator spirometry for evaluation of FEV1 was performed at study visits as follows: approximately 1 hour after administration of the first bronchodilator (1 hour), and approximately 1 hour after administration of the second short-acting bronchodilator (2 hours).", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Percentage of Days for Which Participants Achieved a Threshold Increase From Baseline in FEV1 of 100 mL, 200 mL, and 250 mL", 
+                                    "units": "percentage of days"
+                                }
+                            ]
+                        }, 
+                        "population": "Efficacy Population", 
+                        "safety_issue": "No", 
+                        "time_frame": "up to 35 days", 
+                        "title": "Percentage of Days for Which Participants Achieved a Threshold Increase From Baseline in FEV1 of 100 mL, 200 mL, and 250 mL", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": [
+                                {
+                                    "ci_lower_limit": "0.049", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "0.067", 
+                                    "dispersion_type": "Standard Error of the mean", 
+                                    "dispersion_value": "0.0046", 
+                                    "estimate_desc": "Treatment: A/S alone. A mixed model analysis, with period, treatment (A+I, I+A, Albuterol alone, Ipratropium alone), FEV1 Baseline, smoking status at Screening, and center fitted as fixed effects and participant as a random effect was used.", 
+                                    "group_id_list": {
+                                        "group_id": "O1"
+                                    }, 
+                                    "non_inferiority": "No", 
+                                    "param_type": "Adjusted Mean", 
+                                    "param_value": "0.058"
+                                }, 
+                                {
+                                    "ci_lower_limit": "0.062", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "0.080", 
+                                    "dispersion_type": "Standard Error of the mean", 
+                                    "dispersion_value": "0.0046", 
+                                    "estimate_desc": "Treatment: ipratropium alone. A mixed model analysis, with period, treatment (A+I, I+A, Albuterol alone, Ipratropium alone), FEV1 Baseline, smoking status at Screening, and center fitted as fixed effects and participant as a random effect was used.", 
+                                    "group_id_list": {
+                                        "group_id": "O2"
+                                    }, 
+                                    "non_inferiority": "No", 
+                                    "param_type": "Adjusted Mean", 
+                                    "param_value": "0.071"
+                                }, 
+                                {
+                                    "ci_lower_limit": "0.044", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "0.062", 
+                                    "dispersion_type": "Standard Error of the mean", 
+                                    "dispersion_value": "0.0046", 
+                                    "estimate_desc": "Treatment: A+I. A mixed model analysis, with period, treatment (A+I, I+A, Albuterol alone, Ipratropium alone), FEV1 Baseline, smoking status at Screening, and center fitted as fixed effects and participant as a random effect was used.", 
+                                    "group_id_list": {
+                                        "group_id": "O1"
+                                    }, 
+                                    "non_inferiority": "No", 
+                                    "param_type": "Adjusted Mean", 
+                                    "param_value": "0.053"
+                                }, 
+                                {
+                                    "ci_lower_limit": "0.053", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "0.071", 
+                                    "estimate_desc": "Treatment: I+A. A mixed model analysis, with period, treatment (A+I, I+A, Albuterol alone, Ipratropium alone), FEV1 Baseline, smoking status at Screening, and center fitted as fixed effects and participant as a random effect was used.", 
+                                    "group_id_list": {
+                                        "group_id": "O2"
+                                    }, 
+                                    "non_inferiority": "No", 
+                                    "param_type": "Adjusted Mean", 
+                                    "param_value": "0.062"
+                                }
+                            ]
+                        }, 
+                        "description": "FEV1 is the maximal amount of air that can be forcefully exhaled in one second. During each study period, pre- and post-bronchodilator spirometry for evaluation of FEV1 was performed at study visits as follows: prior to administration of the first short-acting bronchodilator, approximately 1 hour after administration of the first bronchodilator (1 hour), and approximately 1 hour after administration of the second short-acting bronchodilator (2 hours). Variability in daily FEV1 was measured as the fluctuation around the mean FEV1 data collected from Day 1 to Day 10. Variability was measured by the coefficient of variation (CV) and the half range. The CV is the dispersion of the data around the mean, whereas the half range method is half the difference between the maximum and minimum FEV1 values.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "All participants randomized to receive a sequence of albuterol (4 puffs; 90 \u00b5g per puff)/salbutamol (4 puffs; 100 \u00b5g per puff) via an MDI followed by ipratropium (4 puffs; 20 \u00b5g per puff) via an MDI in either TP1 or TP2.", 
+                                    "title": "Albuterol/Salbutamol Followed by Ipratropium"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "All participants randomized to receive a sequence of ipratropium (4 puffs; 20 \u00b5g per puff) via an MDI followed by albuterol (4 puffs; 90 \u00b5g per puff)/salbutamol (4 puffs; 100 \u00b5g per puff) via an MDI in either TP1 or TP2", 
+                                    "title": "Ipratropium Followed by Albuterol/Salbutamol"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "55"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "55"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "0.0627", 
+                                                            "@value": "0.136"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "0.0780", 
+                                                            "@value": "0.135"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Pre-dose/non-bronchodilator"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "0.0525", 
+                                                            "@value": "0.125"
+                                                        }, 
+                                                        {
+                                                            "#text": "Participants in this treatment arm received ipratropium as the first bronchodilator; thus, data were not collected for albuterol/salbutamol (A/S) at this time point.", 
+                                                            "@group_id": "O2", 
+                                                            "@spread": "NA", 
+                                                            "@value": "NA"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Albuterol/Salbutamol (A/S) alone, 1 hour"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "0.0542", 
+                                                            "@value": "0.122"
+                                                        }, 
+                                                        {
+                                                            "#text": "Participants in this treatment arm received ipratropium followed by A/S; thus, data were not collected for A/S followed by ipratropium.", 
+                                                            "@group_id": "O2", 
+                                                            "@spread": "NA", 
+                                                            "@value": "NA"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "A/S followed by ipratropium, 2 hours"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "#text": "Participants in this treatment arm received A/S as the first bronchodilator; thus, data were not collected for ipratropium at this time point.", 
+                                                            "@group_id": "O1", 
+                                                            "@spread": "NA", 
+                                                            "@value": "NA"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "0.0805", 
+                                                            "@value": "0.145"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Ipratropium alone, 1 hour"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "#text": "Participants in this treatment arm received A/S followed by ipratropium; thus, data were not collected for ipratropium followed by A/S.", 
+                                                            "@group_id": "O1", 
+                                                            "@spread": "NA", 
+                                                            "@value": "NA"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "0.0726", 
+                                                            "@value": "0.137"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Ipratropium followed by A/S, 2 hours"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "FEV1 is the maximal amount of air that can be forcefully exhaled in one second. During each study period, pre- and post-bronchodilator spirometry for evaluation of FEV1 was performed at study visits as follows: prior to administration of the first short-acting bronchodilator, approximately 1 hour after administration of the first bronchodilator (1 hour), and approximately 1 hour after administration of the second short-acting bronchodilator (2 hours). Variability in daily FEV1 was measured as the fluctuation around the mean FEV1 data collected from Day 1 to Day 10. Variability was measured by the coefficient of variation (CV) and the half range. The CV is the dispersion of the data around the mean, whereas the half range method is half the difference between the maximum and minimum FEV1 values.", 
+                                    "dispersion": "Standard Error", 
+                                    "param": "Mean", 
+                                    "title": "Variability in Daily FEV1, Estimated by Half Range (i.e., Half the Difference Between Maximum and Minimum Values)", 
+                                    "units": "Liters"
+                                }
+                            ]
+                        }, 
+                        "population": "Efficacy Population", 
+                        "safety_issue": "No", 
+                        "time_frame": "up to 10 days", 
+                        "title": "Variability in Daily FEV1, Estimated by Half Range (i.e., Half the Difference Between Maximum and Minimum Values)", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": [
+                                {
+                                    "ci_lower_limit": "0.058", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "0.076", 
+                                    "dispersion_type": "Standard Error of the mean", 
+                                    "dispersion_value": "0.0045", 
+                                    "estimate_desc": "Treatment: A/S alone. A mixed model analysis, with period, treatment (A+I, I+A, Albuterol alone, Ipratropium alone), IC Baseline, smoking status at Screening, and center fitted as fixed effects and participant as a random effect was used.", 
+                                    "group_id_list": {
+                                        "group_id": "O1"
+                                    }, 
+                                    "non_inferiority": "No", 
+                                    "param_type": "Adjusted Mean", 
+                                    "param_value": "0.067"
+                                }, 
+                                {
+                                    "ci_lower_limit": "0.061", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "0.079", 
+                                    "dispersion_type": "Standard Error of the mean", 
+                                    "dispersion_value": "0.0045", 
+                                    "estimate_desc": "Treatment: ipratropium alone. A mixed model analysis, with period, treatment (A+I, I+A, Albuterol alone, Ipratropium alone), IC Baseline, smoking status at Screening, and center fitted as fixed effects and participant as a random effect was used.", 
+                                    "group_id_list": {
+                                        "group_id": "O2"
+                                    }, 
+                                    "non_inferiority": "No", 
+                                    "param_type": "Adjusted Mean", 
+                                    "param_value": "0.070"
+                                }, 
+                                {
+                                    "ci_lower_limit": "0.060", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "0.078", 
+                                    "dispersion_type": "Standard Error of the mean", 
+                                    "dispersion_value": "0.0045", 
+                                    "estimate_desc": "Treatment: A+I. A mixed model analysis, with period, treatment (A+I, I+A, Albuterol alone, Ipratropium alone), IC Baseline, smoking status at Screening, and center fitted as fixed effects and participant as a random effect was used.", 
+                                    "group_id_list": {
+                                        "group_id": "O1"
+                                    }, 
+                                    "non_inferiority": "No", 
+                                    "param_type": "Adjusted Mean", 
+                                    "param_value": "0.069"
+                                }, 
+                                {
+                                    "ci_lower_limit": "0.055", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "0.073", 
+                                    "dispersion_type": "Standard Error of the mean", 
+                                    "dispersion_value": "0.0045", 
+                                    "estimate_desc": "Treatment: I+A. A mixed model analysis, with period, treatment (A+I, I+A, Albuterol alone, Ipratropium alone), IC Baseline, smoking status at Screening, and center fitted as fixed effects and participant as a random effect was used.", 
+                                    "group_id_list": {
+                                        "group_id": "O2"
+                                    }, 
+                                    "non_inferiority": "No", 
+                                    "param_type": "Adjusted Mean", 
+                                    "param_value": "0.064"
+                                }
+                            ]
+                        }, 
+                        "description": "IC is the the total amount of air that can be drawn into the lungs after normal expiration. During each study period, pre- and post-bronchodilator spirometry for evaluation of IC was performed at study visits as follows: prior to administration of the first short-acting bronchodilator, approximately 1 hour after administration of the first bronchodilator (1 hour), and approximately 1 hour after administration of the second short-acting bronchodilator (2 hours). Variability in daily IC was measured as the fluctuation around the mean IC data collected from Day 1 to Day 10. Variability was measured by the coefficent of variation (CV) and the half range. The CV is the dispersion of the data around the mean, whereas the half range method is the difference between the maximum and minimum IC values.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "All participants randomized to receive a sequence of albuterol (4 puffs; 90 \u00b5g per puff)/salbutamol (4 puffs; 100 \u00b5g per puff) via an MDI followed by ipratropium (4 puffs; 20 \u00b5g per puff) via an MDI in either TP1 or TP2.", 
+                                    "title": "Albuterol/Salbutamol Followed by Ipratropium"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "All participants randomized to receive a sequence of ipratropium (4 puffs; 20 \u00b5g per puff) via an MDI followed by albuterol (4 puffs; 90 \u00b5g per puff)/salbutamol (4 puffs; 100 \u00b5g per puff) via an MDI in either TP1 or TP2", 
+                                    "title": "Ipratropium Followed by Albuterol/Salbutamol"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "55"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "55"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "0.0305", 
+                                                            "@value": "0.078"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "0.0374", 
+                                                            "@value": "0.083"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Pre-dose/non-bronchodilator"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "0.0310", 
+                                                            "@value": "0.069"
+                                                        }, 
+                                                        {
+                                                            "#text": "Participants in this treatment arm received ipratropium as the first bronchodilator; thus, data were not collected for albuterol/salbutamol (A/S) at this time point.", 
+                                                            "@group_id": "O2", 
+                                                            "@spread": "NA", 
+                                                            "@value": "NA"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Albuterol/Salbutamol (A/S) alone, 1 hour"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "0.0373", 
+                                                            "@value": "0.070"
+                                                        }, 
+                                                        {
+                                                            "#text": "Participants in this treatment arm received ipratropium followed by A/S; thus, data were not collected for A/S followed by ipratropium.", 
+                                                            "@group_id": "O2", 
+                                                            "@spread": "NA", 
+                                                            "@value": "NA"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "A/S followed by ipratropium (A+I), 2 hours"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "#text": "Participants in this treatment arm received A/S as the first bronchodilator; thus, data were not collected for ipratropium at this time point.", 
+                                                            "@group_id": "O1", 
+                                                            "@spread": "NA", 
+                                                            "@value": "NA"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "0.0353", 
+                                                            "@value": "0.072"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Ipratropium alone, 1 hour"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "#text": "Participants in this treatment arm received A/S followed by ipratropium; thus, data were not collected for ipratropium followed by A/S.", 
+                                                            "@group_id": "O1", 
+                                                            "@spread": "NA", 
+                                                            "@value": "NA"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "0.0307", 
+                                                            "@value": "0.066"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Ipratropium followed by A/S (I+A),  2 hours"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "IC is the the total amount of air that can be drawn into the lungs after normal expiration. During each study period, pre- and post-bronchodilator spirometry for evaluation of IC was performed at study visits as follows: prior to administration of the first short-acting bronchodilator, approximately 1 hour after administration of the first bronchodilator (1 hour), and approximately 1 hour after administration of the second short-acting bronchodilator (2 hours). Variability in daily IC was measured as the fluctuation around the mean IC data collected from Day 1 to Day 10. Variability was measured by the coefficent of variation (CV) and the half range. The CV is the dispersion of the data around the mean, whereas the half range method is the difference between the maximum and minimum IC values.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Variability in Daily Inspiratory Capacity (IC), Estimated by Coefficient of Variation", 
+                                    "units": "Liters"
+                                }
+                            ]
+                        }, 
+                        "population": "Efficacy Population", 
+                        "safety_issue": "No", 
+                        "time_frame": "up to 10 days", 
+                        "title": "Variability in Daily Inspiratory Capacity (IC), Estimated by Coefficient of Variation", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": [
+                                {
+                                    "ci_lower_limit": "0.200", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "0.255", 
+                                    "dispersion_type": "Standard Error of the mean", 
+                                    "dispersion_value": "0.0140", 
+                                    "estimate_desc": "Treatment: A/S alone. A mixed model analysis, with period, treatment (A+I, I+A, Albuterol alone, Ipratropium alone), IC Baseline, smoking status at Screening, and center fitted as fixed effects and participant as a random effect was used.", 
+                                    "group_id_list": {
+                                        "group_id": "O1"
+                                    }, 
+                                    "non_inferiority": "No", 
+                                    "param_type": "Adjusted Mean", 
+                                    "param_value": "0.228"
+                                }, 
+                                {
+                                    "ci_lower_limit": "0.203", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "0.258", 
+                                    "dispersion_type": "Standard Error of the mean", 
+                                    "dispersion_value": "0.0140", 
+                                    "estimate_desc": "Treatment: ipratropium alone. A mixed model analysis, with period, treatment (A+I, I+A, Albuterol alone, Ipratropium alone), IC Baseline, smoking status at Screening, and center fitted as fixed effects and participant as a random effect was used.", 
+                                    "group_id_list": {
+                                        "group_id": "O2"
+                                    }, 
+                                    "non_inferiority": "No", 
+                                    "param_type": "Adjusted Mean", 
+                                    "param_value": "0.231"
+                                }, 
+                                {
+                                    "ci_lower_limit": "0.204", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "0.259", 
+                                    "dispersion_type": "Standard Error of the mean", 
+                                    "dispersion_value": "0.0140", 
+                                    "estimate_desc": "Treatment: A+I. A mixed model analysis, with period, treatment (A+I, I+A, Albuterol alone, Ipratropium alone), IC Baseline, smoking status at Screening, and center fitted as fixed effects and participant as a random effect was used.", 
+                                    "group_id_list": {
+                                        "group_id": "O1"
+                                    }, 
+                                    "non_inferiority": "No", 
+                                    "param_type": "Adjusted Mean", 
+                                    "param_value": "0.232"
+                                }, 
+                                {
+                                    "ci_lower_limit": "0.190", 
+                                    "ci_percent": "95", 
+                                    "ci_upper_limit": "0.245", 
+                                    "dispersion_type": "Standard Error of the mean", 
+                                    "dispersion_value": "0.0140", 
+                                    "estimate_desc": "Treatment: I+A. A mixed model analysis, with period, treatment (A+I, I+A, Albuterol alone, Ipratropium alone), IC Baseline, smoking status at Screening, and center fitted as fixed effects and participant as a random effect was used.", 
+                                    "group_id_list": {
+                                        "group_id": "O2"
+                                    }, 
+                                    "non_inferiority": "No", 
+                                    "param_type": "Adjusted Mean", 
+                                    "param_value": "0.217"
+                                }
+                            ]
+                        }, 
+                        "description": "IC is the the total amount of air that can be drawn into the lungs after normal expiration. During each study period, pre- and post-bronchodilator spirometry for evaluation of IC was performed at study visits as follows: prior to administration of the first short-acting bronchodilator, approximately 1 hour after administration of the first bronchodilator (1 hour), and approximately 1 hour after administration of the second short-acting bronchodilator (2 hours). Variability in daily IC was measured as the fluctuation around the mean IC data collected from Day 1 to Day 10. Variability was measured by the coefficent of variation (CV) and the half range. The CV is the dispersion of the data around the mean, whereas the half range method is half the difference between the maximum and minimum IC values.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "All participants randomized to receive a sequence of albuterol (4 puffs; 90 \u00b5g per puff)/salbutamol (4 puffs; 100 \u00b5g per puff) via an MDI followed by ipratropium (4 puffs; 20 \u00b5g per puff) via an MDI in either TP1 or TP2.", 
+                                    "title": "Albuterol/Salbutamol Followed by Ipratropium"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "All participants randomized to receive a sequence of ipratropium (4 puffs; 20 \u00b5g per puff) via an MDI followed by albuterol (4 puffs; 90 \u00b5g per puff)/salbutamol (4 puffs; 100 \u00b5g per puff) via an MDI in either TP1 or TP2", 
+                                    "title": "Ipratropium Followed by Albuterol/Salbutamol"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "55"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "55"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "0.1017", 
+                                                            "@value": "0.225"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "0.1166", 
+                                                            "@value": "0.236"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Pre-dose/non-bronchodilator"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "0.1004", 
+                                                            "@value": "0.229"
+                                                        }, 
+                                                        {
+                                                            "#text": "Participants in this treatment arm received ipratropium as the first bronchodilator; thus, data were not collected for albuterol/salbutamol (A/S) at this time point.", 
+                                                            "@group_id": "O2", 
+                                                            "@spread": "NA", 
+                                                            "@value": "NA"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Albuterol/Salbutamol (A/S) alone, 1 hour"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "@group_id": "O1", 
+                                                            "@spread": "0.1132", 
+                                                            "@value": "0.233"
+                                                        }, 
+                                                        {
+                                                            "#text": "Participants in this treatment arm received ipratropium followed by A/S; thus, data were not collected for A/S followed by ipratropium.", 
+                                                            "@group_id": "O2", 
+                                                            "@spread": "NA", 
+                                                            "@value": "NA"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "A/S followed by ipratropium, 2 hours"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "#text": "Participants in this treatment arm received A/S as the first bronchodilator; thus, data were not collected for ipratropium at this time point.", 
+                                                            "@group_id": "O1", 
+                                                            "@spread": "NA", 
+                                                            "@value": "NA"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "0.1026", 
+                                                            "@value": "0.235"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Ipratropium alone, 1 hour"
+                                            }, 
+                                            {
+                                                "measurement_list": {
+                                                    "measurement": [
+                                                        {
+                                                            "#text": "Participants in this treatment arm received A/S followed by ipratropium; thus, data were not collected for ipratropium followed by A/S.", 
+                                                            "@group_id": "O1", 
+                                                            "@spread": "NA", 
+                                                            "@value": "NA"
+                                                        }, 
+                                                        {
+                                                            "@group_id": "O2", 
+                                                            "@spread": "0.1066", 
+                                                            "@value": "0.221"
+                                                        }
+                                                    ]
+                                                }, 
+                                                "sub_title": "Ipratropium followed by A/S,  2 hours"
+                                            }
+                                        ]
+                                    }, 
+                                    "description": "IC is the the total amount of air that can be drawn into the lungs after normal expiration. During each study period, pre- and post-bronchodilator spirometry for evaluation of IC was performed at study visits as follows: prior to administration of the first short-acting bronchodilator, approximately 1 hour after administration of the first bronchodilator (1 hour), and approximately 1 hour after administration of the second short-acting bronchodilator (2 hours). Variability in daily IC was measured as the fluctuation around the mean IC data collected from Day 1 to Day 10. Variability was measured by the coefficent of variation (CV) and the half range. The CV is the dispersion of the data around the mean, whereas the half range method is half the difference between the maximum and minimum IC values.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Variability in Daily IC, Estimated by Half Range (i.e., Half the Difference Between Maximum and Minimum)", 
+                                    "units": "Liters"
+                                }
+                            ]
+                        }, 
+                        "population": "Efficacy Population", 
+                        "safety_issue": "No", 
+                        "time_frame": "up to 10 days", 
+                        "title": "Variability in Daily IC, Estimated by Half Range (i.e., Half the Difference Between Maximum and Minimum)", 
+                        "type": "Secondary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "Participants received albuterol (4 puffs; 90 micrograms [\u00b5g] per puff)/salbutamol (A/S) (4 puffs; 100 \u00b5g per puff) followed by ipratropium (4 puffs; 20 \u00b5g per puff) via a metered-dose inhaler (MDI) during treatment period 1 (TP1) then, ipratropium followed by A/S at the same doses via an MDI in treatment period 2 (TP2).", 
+                            "title": "A/S Then Ipratropium in TP1; Ipratropium Then A/S in TP2"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "Participants received Ipratropium (4 puffs; 20 \u00b5g per puff) followed by albuterol (4 puffs; 90 \u00b5g per puff)/salbutamol (4 puffs; 100 \u00b5g per puff) (A/S) via a MDI in TP1, then A/S followed by ipratropium at the same doses via an MDI in TP2.", 
+                            "title": "Ipratropium Then A/S in TP1; A/S Then Ipratropium in TP2"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": [
+                        {
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "28", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "28", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "28", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "28", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Treatment Period 1"
+                        }, 
+                        {
+                            "drop_withdraw_reason_list": {
+                                "drop_withdraw_reason": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "0", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "1", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "Adverse Event"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "1", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "1", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "Protocol Violation"
+                                    }
+                                ]
+                            }, 
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "28", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "28", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "STARTED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "27", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "26", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "COMPLETED"
+                                    }, 
+                                    {
+                                        "participants_list": {
+                                            "participants": [
+                                                {
+                                                    "@count": "1", 
+                                                    "@group_id": "P1"
+                                                }, 
+                                                {
+                                                    "@count": "2", 
+                                                    "@group_id": "P2"
+                                                }
+                                            ]
+                                        }, 
+                                        "title": "NOT COMPLETED"
+                                    }
+                                ]
+                            }, 
+                            "title": "Treatment Period 2"
+                        }
+                    ]
+                }, 
+                "pre_assignment_details": "This was a randomized, open-label, two-period cross-over study to evaluate the daily bronchodilator response to albuterol/salbutamol and ipratropium individually and in combination in participants with chronic obstructive pulmonary disease."
+            }, 
+            "point_of_contact": {
+                "name_or_title": "GSK Response Center", 
+                "organization": "GlaxoSmithKline", 
+                "phone": "866-435-7343"
+            }, 
+            "reported_events": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "E1", 
+                        "description": "All participants randomized to receive a sequence of either salbutamol (4 puffs; 100 \u00b5g per puff) via an MDI and albuterol (4 puffs; 90 \u00b5g per puff) followed by ipratropium (4 puffs; 20 \u00b5g per puff) via an MDI in TP1 and the same dose of each bronchodilator given in the opposite order in TP2, or ipratropium followed by albuterol/salbutamol in TP1 and the same dose of each bronchodilator given in the opposite order in TP2", 
+                        "title": "All Randomized Participants"
+                    }
+                }, 
+                "other_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "16", 
+                                            "@subjects_at_risk": "56"
+                                        }, 
+                                        "sub_title": "Total, other adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            "sub_title": "Abdominal pain upper"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            "sub_title": "Diarrhoea"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            "sub_title": "Toothache"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            "sub_title": "Vomiting"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            "sub_title": "Chest discomfort"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            "sub_title": "Influenza like illness"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            "sub_title": "Oedema peripheral"
+                                        }
+                                    ]
+                                }, 
+                                "title": "General disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            "sub_title": "Bacterial infection"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            "sub_title": "Herpes zoster"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            "sub_title": "Nasopharyngitis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            "sub_title": "Rhinitis"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Infections and infestations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            "sub_title": "Excoriation"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            "sub_title": "Fall"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            "sub_title": "Muscle strain"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            "sub_title": "Radius fracture"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            "sub_title": "Tooth fracture"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Injury, poisoning and procedural complications"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            "sub_title": "Back pain"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            "sub_title": "Joint swelling"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            "sub_title": "Muscle spasms"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Musculoskeletal and connective tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "4", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            "sub_title": "Headache"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            "sub_title": "Dizziness"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            "sub_title": "Dysgeusia"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Nervous system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "56"
+                                        }, 
+                                        "sub_title": "Haematuria"
+                                    }
+                                }, 
+                                "title": "Renal and urinary disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            "sub_title": "Cough"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            "sub_title": "Epistaxis"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            "sub_title": "Increased upper airway secretion"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            "sub_title": "Painful respiration"
+                                        }, 
+                                        {
+                                            "counts": {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "56"
+                                            }, 
+                                            "sub_title": "Sneezing"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Respiratory, thoracic and mediastinal disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "default_vocab": "MedDRA", 
+                    "frequency_threshold": "0"
+                }, 
+                "serious_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "56"
+                                        }, 
+                                        "sub_title": "Total, serious adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": {
+                                            "@group_id": "E1", 
+                                            "@subjects_affected": "1", 
+                                            "@subjects_at_risk": "56"
+                                        }, 
+                                        "sub_title": "Death"
+                                    }
+                                }, 
+                                "title": "General disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "default_vocab": "MedDRA"
+                }
+            }
+        }, 
+        "completion_date": {
+            "#text": "February 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": "Pulmonary Disease, Chronic Obstructive", 
+        "condition_browse": {
+            "mesh_term": [
+                "Chronic Disease", 
+                "Lung Diseases", 
+                "Respiration Disorders", 
+                "Pulmonary Disease, Chronic Obstructive", 
+                "Lung Diseases, Obstructive"
+            ]
+        }, 
+        "detailed_description": {
+            "textblock": "Beta2-agonist and anticholinergics are a principle component of the pharmacologic management\n      of chronic obstructive pulmonary disease COPD. It has been demonstrated that the combination\n      of a short acting beta2-agonist and a short acting anticholinergic yields greater efficacy\n      as measured by FEV1 when compared with the response to the individual short acting\n      bronchodilators.   However, daily bronchial response to these agents is poorly understood.\n      It is also poorly understood how the variation in magnitude of the response to the\n      individual agents and how the variation in response for one agent coincides with the\n      variation in response to the other agent.  This study will seek to define the pattern of\n      response of each individual agent and the relationship between them. The study will also\n      explore if the combination of the two agents leads to less variation in response compared to\n      the individual agents.  This is a randomized, open label, two period cross-over study.\n      Eligible subjects will be randomized to a sequence of either albuterol/salbutamol via\n      metered-dose inhaler (MDI) followed by ipratropium via MDI or the same dose of each\n      bronchodilator given in the opposite order.  Each study period will consist of 10 clinic\n      visits to be conducted over 10 to 14 days."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Subjects must give their signed and dated written informed consent to participate.\n\n          -  Subjects 40 years of age or older at Visit 1.\n\n          -  Male or female subjects .\n\n          -  An established clinical history of COPD.\n\n          -  Current or former cigarette smokers with a history of cigarette smoking of >=10\n             pack-years at Visit 1.\n\n          -  A post-albuterol/salbutamol FEV1/FVC ratio of <0.70 and a post-albuterol/salbutamol\n             FEV1 of >=30 and <= 70% of predicted      normal values at Visit 1 calculated using\n             NHANES III reference equations .\n\n        Exclusion Criteria:\n\n          -  A current diagnosis of asthma\n\n          -  Women who are pregnant of lactating or are planning on becoming pregnant during the\n             study.\n\n          -  Hospitalization for COPD or pneumonia within 12 weeks prior to Visit 1.\n\n          -  Participation in pulmonary rehabilitation"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "40 Years"
+        }, 
+        "enrollment": {
+            "#text": "56", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "September 20, 2012", 
+        "firstreceived_results_date": "June 12, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01691482", 
+            "org_study_id": "114956"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Albuterol/salbutamol followed by ipratropium", 
+                "description": "Albuterol/salbutamol (daily)", 
+                "intervention_name": "Albuterol/salbutamol", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "Ipratropium followed by albuterol/salbutamol", 
+                "description": "Ipratropium (daily)", 
+                "intervention_name": "Ipratropium", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Albuterol", 
+                "Ipratropium"
+            ]
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "lastchanged_date": "April 17, 2014", 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Spartanburg", 
+                        "country": "United States", 
+                        "state": "South Carolina", 
+                        "zip": "29303"
+                    }, 
+                    "name": "GSK Investigational Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Manchester", 
+                        "country": "United Kingdom", 
+                        "zip": "M23 9LT"
+                    }, 
+                    "name": "GSK Investigational Site"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "United Kingdom"
+            ]
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "A 4-Week Randomized Cross-Over Study to Evaluate Daily Lung Function Following the Administration of Albuterol/Salbutamol and Ipratropium in Subjects With Chronic Obstructive Pulmonary Disease", 
+        "overall_official": {
+            "affiliation": "GlaxoSmithKline", 
+            "last_name": "GSK Clinical Trials", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": [
+                "United States: Institutional Review Board", 
+                "United Kingdom: Medicines and Healthcare Products Regulatory Agency", 
+                "United States: Food and Drug Administration"
+            ]
+        }, 
+        "phase": "Phase 4", 
+        "primary_completion_date": {
+            "#text": "February 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "FEV1 is the maximal amount of air that can be forcefully exhaled in one second. During each study period, pre- and post-bronchodilator spirometry for evaluation of FEV1 was performed at study visits as follows: prior to administration of the first short-acting bronchodilator, approximately 1 hour after administration of the first bronchodilator (1 hour), and approximately 1 hour after administration of the second short-acting bronchodilator (2 hours). Variability in daily FEV1 was measured as the fluctuation around the mean FEV1 data collected from Day 1 to Day 10. Variability was measured by the coefficient of variation (CV) and the half range. The CV is the dispersion of the data around the mean, whereas the half range method is the difference between the maximum and minimum FEV1 values.", 
+                "measure": "Variability in Daily FEV1, Estimated by Coefficient of Variation", 
+                "safety_issue": "No", 
+                "time_frame": "up to 10 days"
+            }, 
+            {
+                "description": "FEV1 is the maximal amount of air that can be forcefully exhaled in one second. During each study period, pre- and post-bronchodilator spirometry for evaluation of FEV1 was performed at study visits as follows: prior to administration of the first short-acting bronchodilator, approximately 1 hour after administration of the first bronchodilator (1 hour), and approximately 1 hour after administration of the second short-acting bronchodilator (2 hours). Variability in daily FEV1 was measured as the fluctuation around the mean FEV1 data collected from Day 1 to Day 10. Variability was measured by the coefficient of variation (CV) and the half range. The CV is the dispersion of the data around the mean, whereas the half range method is half the difference between the maximum and minimum FEV1 values.", 
+                "measure": "Variability in Daily FEV1, Estimated by Half Range (i.e., Half the Difference Between Maximum and Minimum Values)", 
+                "safety_issue": "No", 
+                "time_frame": "up to 10 days"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01691482"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "The maximal bronchodilator response for the first administered agent  is defined as the FEV1 (the maximal amount of air that can be forcefully exhaled in one second) 1 hour post-dose of the first bronchodilator minus the pre-dose. The maximal bronchodilator response for the second agent  is defined as the FEV1 1 hour post-dose of the second bronchodilator minus the FEV1 at 1 hour post-dose of the first bronchodilator. The maximal bronchodilator response for the combination  is defined as the FEV1 (the maximal amount of air that can be forcefully exhaled in one second) at 1 hour post-administration of the second bronchodilator minus the corresponding pre-dose FEV1. Derived FEV1 response is FEV1 change from 0 hours (0H) for the first agent assessment (at 1 hour [1H]); change from 1H for the second agent assessment (at 2 hours [2H]); and change from 0H for the combination assessment (at 2H). Data were adjusted for FEV1, smoking status, and center.", 
+                "measure": "The Maximal Bronchodilator Response for the First Administered Agent", 
+                "safety_issue": "No", 
+                "time_frame": "up to 10 days"
+            }, 
+            {
+                "description": "FEV1 is the maximal amount of air that can be forcefully exhaled in one second. During each study period, pre- and post-bronchodilator spirometry for evaluation of FEV1 was performed at study visits as follows: approximately 1 hour after administration of the first bronchodilator (1 hour), and approximately 1 hour after administration of the second short-acting bronchodilator (2 hours).", 
+                "measure": "Percentage of Days for Which Participants Achieved a >=12% and 200 Milliliter (mL) Increase From Baseline in FEV1", 
+                "safety_issue": "No", 
+                "time_frame": "up to 35 days"
+            }, 
+            {
+                "description": "FEV1 is the maximal amount of air that can be forcefully exhaled in one second. During each study period, pre- and post-bronchodilator spirometry for evaluation of FEV1 was performed at study visits as follows: approximately 1 hour after administration of the first bronchodilator (1 hour), and approximately 1 hour after administration of the second short-acting bronchodilator (2 hours).", 
+                "measure": "Percentage of Days for Which Participants Achieved a Threshold Increase From Baseline in FEV1 of 100 mL, 200 mL, and 250 mL", 
+                "safety_issue": "No", 
+                "time_frame": "up to 35 days"
+            }, 
+            {
+                "description": "IC is the the total amount of air that can be drawn into the lungs after normal expiration. During each study period, pre- and post-bronchodilator spirometry for evaluation of IC was performed at study visits as follows: prior to administration of the first short-acting bronchodilator, approximately 1 hour after administration of the first bronchodilator (1 hour), and approximately 1 hour after administration of the second short-acting bronchodilator (2 hours). Variability in daily IC was measured as the fluctuation around the mean IC data collected from Day 1 to Day 10. Variability was measured by the coefficent of variation (CV) and the half range. The CV is the dispersion of the data around the mean, whereas the half range method is the difference between the maximum and minimum IC values.", 
+                "measure": "Variability in Daily Inspiratory Capacity (IC), Estimated by Coefficient of Variation", 
+                "safety_issue": "No", 
+                "time_frame": "up to 10 days"
+            }, 
+            {
+                "description": "IC is the the total amount of air that can be drawn into the lungs after normal expiration. During each study period, pre- and post-bronchodilator spirometry for evaluation of IC was performed at study visits as follows: prior to administration of the first short-acting bronchodilator, approximately 1 hour after administration of the first bronchodilator (1 hour), and approximately 1 hour after administration of the second short-acting bronchodilator (2 hours). Variability in daily IC was measured as the fluctuation around the mean IC data collected from Day 1 to Day 10. Variability was measured by the coefficent of variation (CV) and the half range. The CV is the dispersion of the data around the mean, whereas the half range method is half the difference between the maximum and minimum IC values.", 
+                "measure": "Variability in Daily IC, Estimated by Half Range (i.e., Half the Difference Between Maximum and Minimum)", 
+                "safety_issue": "No", 
+                "time_frame": "up to 10 days"
+            }
+        ], 
+        "source": "GlaxoSmithKline", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "GlaxoSmithKline", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "July 2012", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Crossover Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2014"
+    }
+}

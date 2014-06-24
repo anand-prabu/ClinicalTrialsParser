@@ -1,0 +1,114 @@
+{
+    "clinical_study": {
+        "@rank": "63674", 
+        "arm_group": [
+            {
+                "arm_group_label": "Cold first", 
+                "arm_group_type": "Other", 
+                "description": "temperature is measured in cold (-20\u00b0C) environment first, and warm (23\u00b0C) environment afterwards"
+            }, 
+            {
+                "arm_group_label": "Warm first", 
+                "arm_group_type": "Other", 
+                "description": "temperature is measured in warm (23\u00b0C) environment first, and cold (-20\u00b0C) environment afterwards"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Accurate measurement of core body temperature at the scene of an accident is critical for\n      both diagnosis and treatment/triage decisions for hypothermic patients. Measurement in the\n      lower third of the oesophagus is considered the gold standard of CT reading, but invasive\n      and hardly applicable with a conscious patient. Tympanic membrane sensors for CT reading\n      have been widely tested by may be unreliable in extreme environmental temperatures.\n      Similarly, the Double Sensor device is a non-invasive device and is promising for\n      prehospital use but has not been sufficiently verified under very cold and hot environmental\n      conditions. Furthermore, comparisons of different non-invasive methods with oesophageal\n      measurement in extreme conditions are lacking. The objective of these studies is to compare\n      different techniques of core body temperature measurement with exposure to cold and hot\n      environments."
+        }, 
+        "brief_title": "Core Body Temperature Measurement During Hot and Cold Environmental Exposure", 
+        "condition": [
+            "Body Temperature", 
+            "Hypothermia"
+        ], 
+        "condition_browse": {
+            "mesh_term": "Hypothermia"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  >18 years old\n\n          -  ASA class 1\n\n        Exclusion Criteria:\n\n          -  <18 years old\n\n          -  American society of anesthesiologists class >1\n\n          -  history of ear, nose, throat surgery\n\n          -  congenital malformation of head/throat/ear/nose\n\n          -  absence of informed consent"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "32", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "February 13, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01793337", 
+            "org_study_id": "V/31/10"
+        }, 
+        "intervention": {
+            "arm_group_label": [
+                "Cold first", 
+                "Warm first"
+            ], 
+            "intervention_name": "Exposure to cold environmental temperature (-20\u00b0C)", 
+            "intervention_type": "Other"
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "February 14, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Bolzano", 
+                    "country": "Italy", 
+                    "state": "Provincia autonoma di Bolzano", 
+                    "zip": "39100"
+                }, 
+                "name": "Eurac research"
+            }
+        }, 
+        "location_countries": {
+            "country": "Italy"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Tympanic and Frontal Versus Oesophageal Core Temperature Reading During Hot and Cold Environmental Exposure", 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Italy: Ethics Committee"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "October 2012", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "measure": "Difference between oesophageal and epitympanic temperature", 
+            "safety_issue": "No", 
+            "time_frame": "10 min measurment at +20 \u00b0C followed by 10 min measurment at -20 \u00b0C"
+        }, 
+        "reference": {
+            "PMID": "19428314", 
+            "citation": "Gunga HC, Werner A, Stahn A, Steinach M, Schlabs T, Koralewski E, Kunz D, Belav\u00fd DL, Felsenberg D, Sattler F, Koch J. The Double Sensor-A non-invasive device to continuously monitor core temperature in humans on earth and in space. Respir Physiol Neurobiol. 2009 Oct;169 Suppl 1:S63-8. doi: 10.1016/j.resp.2009.04.005. Epub 2009 Apr 14."
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01793337"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "source": "Institute of Mountain Emergency Medicine", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Medical University Innsbruck", 
+                "agency_class": "Other"
+            }, 
+            "lead_sponsor": {
+                "agency": "Institute of Mountain Emergency Medicine", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "September 2012", 
+        "study_design": "Allocation: Randomized, Intervention Model: Crossover Assignment, Masking: Open Label, Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "February 2013"
+    }
+}

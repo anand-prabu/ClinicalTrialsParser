@@ -1,0 +1,131 @@
+{
+    "clinical_study": {
+        "@rank": "70594", 
+        "acronym": "WATE", 
+        "arm_group": [
+            {
+                "arm_group_label": "EMR intervention", 
+                "arm_group_type": "Experimental", 
+                "description": "Patients will have an electronic medical record popup/highlight in their chart, displaying the recommended guidelines for weight gain in pregnancy."
+            }, 
+            {
+                "arm_group_label": "Control", 
+                "arm_group_type": "No Intervention", 
+                "description": "The patient's medical record will be displayed as usual, with no flag or highlight for weight gain recommendations"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Less than one third of pregnant women actually achieve the Institute of Medicine's (IOM)\n      recommended weight gain. To date, there are no randomized controlled trials studying the use\n      of the electronic medical record to alert providers to initiate the counseling of patients\n      on the IOM gestational weight gain recommendations.\n\n      In the investigator's planned study intervention, using the EPIC EMR system, an electronic\n      alert (Best Practice Advisory) will appear for providers at each prenatal care visit.  This\n      alert will remind providers to counsel patients on the recommendations for gestational\n      weight gain. The control group will receive standard prenatal care, without electronic\n      alerts generated regarding BMI and gestational weight gain.\n\n      The investigators hypothesize that a higher percentage of patients who receive the\n      intervention will meet the IOM guidelines for weight gain."
+        }, 
+        "brief_title": "Gestational Weight Gain and the Electronic Medical Record", 
+        "condition": [
+            "Pregnancy", 
+            "Weight Gain"
+        ], 
+        "condition_browse": {
+            "mesh_term": "Weight Gain"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Pregnant with a single intrauterine gestation\n\n          -  Present for new OB visit up to 13 weeks and 6 days gestation\n\n        Exclusion Criteria:\n\n          -  They have a multiple gestation pregnancy\n\n          -  They are under the age of 18\n\n          -  They do not speak English"
+            }, 
+            "gender": "Female", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "300", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "October 29, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01987141", 
+            "org_study_id": "205512073013"
+        }, 
+        "intervention": {
+            "arm_group_label": "EMR intervention", 
+            "description": "Electronic medical record flag/notification in the patient's chart", 
+            "intervention_name": "EMR Intervention", 
+            "intervention_type": "Other"
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "November 12, 2013", 
+        "location": {
+            "contact": {
+                "email": "sgrazia@lumc.ed", 
+                "last_name": "Scott Graziano, MD MS", 
+                "phone": "708-216-3380"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Maywood", 
+                    "country": "United States", 
+                    "state": "Illinois", 
+                    "zip": "60153"
+                }, 
+                "name": "Loyola University Medical Center"
+            }, 
+            "investigator": {
+                "last_name": "Scott Graziano, MD MS", 
+                "role": "Principal Investigator"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "WATE Study - Gestational Weight Gain and the Electronic Medical Record", 
+        "overall_contact": {
+            "email": "sgrazia@lumc.edu", 
+            "last_name": "Scott Graziano, MD MS", 
+            "phone": "708-216-3380"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "October 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Primary outcome will be measured as the percent of patients who achieve their recommended weight gain goal in pregnancy (IOM guidelines)", 
+            "measure": "Weight gain", 
+            "safety_issue": "No", 
+            "time_frame": "At delivery, average of 40 weeks from enrollment"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01987141"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Loyola University", 
+            "investigator_full_name": "Scott Graziano", 
+            "investigator_title": "Associate Professor", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": {
+            "description": "Survey to patients at the end of pregnancy regarding how patients perceive and are influenced by EMR notifications and counseling", 
+            "measure": "Patient perception", 
+            "safety_issue": "No", 
+            "time_frame": "At end of pregnancy, average of 40 weeks from enrollment"
+        }, 
+        "source": "Loyola University", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Loyola University", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "October 2013", 
+        "study_design": "Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "November 2013"
+    }
+}

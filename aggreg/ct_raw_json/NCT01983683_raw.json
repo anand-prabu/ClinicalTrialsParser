@@ -1,0 +1,822 @@
+{
+    "clinical_study": {
+        "@rank": "141294", 
+        "arm_group": [
+            {
+                "arm_group_label": "Vancomycin", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Vancomycin 125 mg qid or matching placebo capsules"
+            }, 
+            {
+                "arm_group_label": "Cadazolid", 
+                "arm_group_type": "Experimental", 
+                "description": "Cadazolid 250 mg bid or matching placebo granules"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Subjects with CDAD are randomized and then treated with study drug for 10 days. At the end\n      of treatment, cure is assessed; subjects are then followed-up to assess any disease\n      recurrence."
+        }, 
+        "brief_title": "Phase 3 Study With Cadazolid in CDAD (AC061A302)", 
+        "completion_date": {
+            "#text": "December 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Clostridium Difficile Associated Diarrhea", 
+        "condition_browse": {
+            "mesh_term": "Diarrhea"
+        }, 
+        "detailed_description": {
+            "textblock": "An interventional study to investigate the efficacy and safety of cadazolid versus\n      vancomycin in subjects with Clostridium difficile-Associated Diarrhea (CDAD)."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Signed Informed Consent.\n\n          -  Male or female \u2265 18 years of age. Females of childbearing potential must agree to use\n             an adequate and reliable method of contraception.\n\n          -  Subject with a diagnosis of mild-moderate or severe CDAD (first occurrence or first\n             recurrence within 3 months) with: Diarrhea: a change in bowel habits with > 3 liquid\n             or unformed bowel movements (UBM) within 24 hours prior to randomization, AND\n             Positive C. difficile toxin test on a stool sample produced within 72 hours prior to\n             randomization.\n\n        Exclusion Criteria:\n\n          -  More than one previous episode of CDAD in the 3-month period prior to randomization.\n\n          -  Evidence of life-threatening or fulminant CDAD.\n\n          -  Likelihood of death within 72 hours from any cause.\n\n          -  History of inflammatory colitides, chronic abdominal pain, or chronic diarrhea.\n\n          -  Antimicrobial treatment active against CDAD administered for > 24 hours except for\n             metronidazole treatment failures (MTF)\n\n          -  Known hypersensitivity or contraindication to study drugs, oxazolidinones, or\n             quinolones.\n\n          -  Unable or unwilling to comply with all protocol requirements."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "640", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 7, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01983683", 
+            "org_study_id": "AC-061A302"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Cadazolid", 
+                "description": "Cadazolid 250 mg or matching placebo oral suspension twice daily.", 
+                "intervention_name": "Cadazolid", 
+                "intervention_type": "Drug", 
+                "other_name": "ACT-179811"
+            }, 
+            {
+                "arm_group_label": "Vancomycin", 
+                "description": "Oral vancomycin 125 mg or matching placebo capsules 4 times daily", 
+                "intervention_name": "vancomycin", 
+                "intervention_type": "Drug", 
+                "other_name": "vancomycin"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Vancomycin"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "Clostridium difficile infection", 
+            "Post-antibiotic diarrhea"
+        ], 
+        "lastchanged_date": "May 9, 2014", 
+        "location": [
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "New Port Richey", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "34652"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Pensacola", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32504"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Marietta", 
+                        "country": "United States", 
+                        "state": "Georgia", 
+                        "zip": "30060"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Shreveport", 
+                        "country": "United States", 
+                        "state": "Louisiana", 
+                        "zip": "71103"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Annapolis", 
+                        "country": "United States", 
+                        "state": "Maryland", 
+                        "zip": "21401"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Detroit", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48201"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Detroit", 
+                        "country": "United States", 
+                        "state": "Michigan", 
+                        "zip": "48202"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Jackson", 
+                        "country": "United States", 
+                        "state": "Mississippi", 
+                        "zip": "39202"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Butte", 
+                        "country": "United States", 
+                        "state": "Montana", 
+                        "zip": "59701"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Bronx", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10467"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Buffalo", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "14215"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "New York", 
+                        "country": "United States", 
+                        "state": "New York", 
+                        "zip": "10003"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Jacksonville", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "28546"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Kinston", 
+                        "country": "United States", 
+                        "state": "North Carolina", 
+                        "zip": "28501"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Cincinnati", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "45219"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Toledo", 
+                        "country": "United States", 
+                        "state": "Ohio", 
+                        "zip": "43608"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75235"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Houston", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "77005"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Richmond", 
+                        "country": "United States", 
+                        "state": "Virginia", 
+                        "zip": "23298"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Wenatchee", 
+                        "country": "United States", 
+                        "state": "Washington", 
+                        "zip": "98801"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Marshfield", 
+                        "country": "United States", 
+                        "state": "Wisconsin", 
+                        "zip": "54449"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Bruxelles", 
+                        "country": "Belgium", 
+                        "zip": "1000"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Gent", 
+                        "country": "Belgium", 
+                        "zip": "9000"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Leuven", 
+                        "country": "Belgium", 
+                        "zip": "3000"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "New Brunswick", 
+                        "country": "Canada", 
+                        "zip": "E2L 4L2"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Winnipeg", 
+                        "country": "Canada", 
+                        "zip": "R3A iRp"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Ostrava", 
+                        "country": "Czech Republic", 
+                        "zip": "708 52"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Praha", 
+                        "country": "Czech Republic", 
+                        "zip": "150 06"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Athens", 
+                        "country": "Greece", 
+                        "zip": "10676"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Athens", 
+                        "country": "Greece", 
+                        "zip": "11527"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Debrecen", 
+                        "country": "Hungary", 
+                        "zip": "4043"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Afula", 
+                        "country": "Israel", 
+                        "zip": "1834111"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Haifa", 
+                        "country": "Israel", 
+                        "zip": "31096"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Jerusalem", 
+                        "country": "Israel", 
+                        "zip": "91120"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Safed", 
+                        "country": "Israel", 
+                        "zip": "13100"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Tel Aviv", 
+                        "country": "Israel", 
+                        "zip": "64239"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Daegu", 
+                        "country": "Korea, Republic of", 
+                        "zip": "700-721"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Seoul", 
+                        "country": "Korea, Republic of", 
+                        "zip": "136-705"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Seoul", 
+                        "country": "Korea, Republic of", 
+                        "zip": "120-752"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Seoul", 
+                        "country": "Korea, Republic of", 
+                        "zip": "138-736"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Cidra", 
+                        "country": "Puerto Rico", 
+                        "zip": "00739"
+                    }, 
+                    "name": "Invetigator Site"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "medinfo@actelion.com", 
+                    "last_name": "Global Medical Information"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Nitra", 
+                        "country": "Slovakia", 
+                        "zip": "950 01"
+                    }, 
+                    "name": "Investigator Site"
+                }, 
+                "status": "Recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": [
+                "United States", 
+                "Belgium", 
+                "Canada", 
+                "Czech Republic", 
+                "Greece", 
+                "Hungary", 
+                "Israel", 
+                "Korea, Republic of", 
+                "Slovakia"
+            ]
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "AC-061A302, A Multi-center, Randomized, Double-blind Study to Compare the Efficacy and Safety of Cadazolid Versus Vancomycin in Subjects With Clostridium Difficile-associated Diarrhea (CDAD).", 
+        "overall_contact": {
+            "email": "medinfo@actelion.com", 
+            "last_name": "Global Medical Information"
+        }, 
+        "overall_official": {
+            "affiliation": "Actelion", 
+            "last_name": "Paul McGovern, MD", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": [
+                "Argentina: Administracion Nacional de Medicamentos, Alimentos y Tecnologia Medica", 
+                "Belgium: Federal Agency for Medicinal Products and Health Products", 
+                "Brazil: National Health Surveillance Agency", 
+                "Canada: Health Canada", 
+                "Chile: Instituto de Salud P\u00fablica de Chile", 
+                "Czech Republic: State Institute for Drug Control", 
+                "Greece: National Organization of Medicines", 
+                "Hungary: National Institute for Quality and Organizational Development in Healthcare and Medicines", 
+                "Israel: Ministry of Health", 
+                "Slovakia: State Institute for Drug Control", 
+                "Korea: Ministry of Food and Drug Safety", 
+                "United States: Food and Drug Administration"
+            ], 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 3", 
+        "primary_completion_date": {
+            "#text": "November 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Resolution of Diarrhea AND No additional CDAD treatment.", 
+            "measure": "Clinical Cure at End of Treatment", 
+            "safety_issue": "No", 
+            "time_frame": "End of Treatment(10 days after starting study drug) +2days"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01983683"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Clinical Cure AND No Recurrence.", 
+                "measure": "Sustained Cure", 
+                "safety_issue": "No", 
+                "time_frame": "End of Treatment(10 days after starting study drug) +28-32 days"
+            }, 
+            {
+                "description": "The time between the first dose of study drug and Resolution of Diarrhea.", 
+                "measure": "Time to Resolution of Diarrhea", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to End of Treatment(10 days after starting study drug)"
+            }, 
+            {
+                "description": "Change from baseline to End of Treatment +2days in CDAD Symptoms as measured by the DaySyms Patient Reported Outcome (PRO).", 
+                "measure": "CDAD Symptoms", 
+                "safety_issue": "No", 
+                "time_frame": "Baseline to End of Treamtent(10 days after starting study drug) +2 days"
+            }
+        ], 
+        "source": "Actelion", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Actelion", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "November 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2014"
+    }
+}

@@ -1,0 +1,655 @@
+{
+    "clinical_study": {
+        "@rank": "102408", 
+        "acronym": "TCI", 
+        "arm_group": [
+            {
+                "arm_group_label": "Marsh", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Marsh Plasma TCI with high initial target"
+            }, 
+            {
+                "arm_group_label": "Schnider", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Schnider Plasma TCI with high initial target"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "To compare the hemodynamic changes during anesthesia induction between Marsh and Schnider\n      plasma TCI models. We put forward a hypothesis that, if one TCI model is associated with\n      much more prominent vasodilation effect or cardiac depression, a more sharp decrease in mean\n      arterial pressure, systemic vascular resistance , central venous return or stroke volume\n      would be observed."
+        }, 
+        "brief_title": "Hemodynamic Responses During Induction: Comparison of Marsh and Schnider Pharmacokinetic Models", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "B1", 
+                            "description": "Plasma TCI in Marsh Model with an initial target of 4 \u03bcg/ml, gradually titrated according to sedation level.", 
+                            "title": "Marsh"
+                        }, 
+                        {
+                            "@group_id": "B2", 
+                            "description": "Plasma TCI in Schnider Model with an initial target of 4 \u03bcg/ml, gradually titrated according to sedation level.", 
+                            "title": "Schnider"
+                        }, 
+                        {
+                            "@group_id": "B3", 
+                            "description": "Total of all reporting groups", 
+                            "title": "Total"
+                        }
+                    ]
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "30"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "30"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "60"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "30"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "30"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "60"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "0"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "0"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@spread": "13.1", 
+                                                "@value": "40.1"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@spread": "10.6", 
+                                                "@value": "41.6"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@spread": "11.8", 
+                                                "@value": "40.9"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "15"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "15"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "30"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "B1", 
+                                                    "@value": "15"
+                                                }, 
+                                                {
+                                                    "@group_id": "B2", 
+                                                    "@value": "15"
+                                                }, 
+                                                {
+                                                    "@group_id": "B3", 
+                                                    "@value": "30"
+                                                }
+                                            ]
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [
+                                            {
+                                                "@group_id": "B1", 
+                                                "@value": "30"
+                                            }, 
+                                            {
+                                                "@group_id": "B2", 
+                                                "@value": "30"
+                                            }, 
+                                            {
+                                                "@group_id": "B3", 
+                                                "@value": "60"
+                                            }
+                                        ]
+                                    }, 
+                                    "sub_title": "China"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "description": "After propofol infusion started, according to sedation level, TCI targets were gradually titrated to reach a state of equilibrium at the end of the first 25 minutes. SVI were continuously monitored, at the end of the first 25 minutes, value change from baseline level were calculated.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Plasma TCI in Marsh Model with an initial target of 4 \u03bcg/ml, gradually titrated according to sedation level.", 
+                                    "title": "Marsh"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Plasma TCI in Schnider Model with an initial target of 4 \u03bcg/ml, gradually titrated according to sedation level.", 
+                                    "title": "Schnider"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "30"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "30"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "9.8", 
+                                                        "@value": "-31.1"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "9.9", 
+                                                        "@value": "-31.7"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "After propofol infusion started, according to sedation level, TCI targets were gradually titrated to reach a state of equilibrium at the end of the first 25 minutes. SVI were continuously monitored, at the end of the first 25 minutes, value change from baseline level were calculated.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "SVI (Stroke Volume Index) Value Change From Baseline Level at the End of the First 25 Minutes.", 
+                                    "units": "ml/beat/m^2"
+                                }
+                            ]
+                        }, 
+                        "safety_issue": "Yes", 
+                        "time_frame": "The end of the first 25 minutes after propofol infusion", 
+                        "title": "SVI (Stroke Volume Index) Value Change From Baseline Level at the End of the First 25 Minutes.", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "description": "Narcotrend was utilized to continuously record patients' sedation level during induction, provided as a criteria for Cpt (Plasma Target Concentration) adjustment.", 
+                        "safety_issue": "No", 
+                        "time_frame": "25 minutes after propofol infusion", 
+                        "title": "NI (Narcotrend Index) Reduction", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "CVP was continuously monitored to assess preload condition and served to calculate SVRI (systemic vascular resistance index) every minute during the first 25 minutes of infusion.", 
+                        "safety_issue": "Yes", 
+                        "time_frame": "25 minutes after induction", 
+                        "title": "CVP (Central Venous Pressure)", 
+                        "type": "Secondary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "P1", 
+                            "description": "Plasma TCI in Marsh Model with an initial target of 4 \u03bcg/ml, gradually titrated according to sedation level.", 
+                            "title": "Marsh"
+                        }, 
+                        {
+                            "@group_id": "P2", 
+                            "description": "Plasma TCI in Schnider Model with an initial target of 4 \u03bcg/ml, gradually titrated according to sedation level.", 
+                            "title": "Schnider"
+                        }
+                    ]
+                }, 
+                "period_list": {
+                    "period": {
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "30", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "30", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "30", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "30", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": [
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P1"
+                                            }, 
+                                            {
+                                                "@count": "0", 
+                                                "@group_id": "P2"
+                                            }
+                                        ]
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "pre_assignment_details": "enrolled participants were excluded when they were found allergic to drugs used during the study.", 
+                "recruitment_details": "The recruitment process started from Dec. 2012, ended in Jan.2013. Study location is The First Affiliated Hospital of Sun Yat-sen University."
+            }, 
+            "point_of_contact": {
+                "email": "fengxiar@yahoo.cn", 
+                "name_or_title": "Dr. Xia Feng", 
+                "organization": "First Affiliated Hospital of Sun Yat-sen University", 
+                "phone": "008613688877856"
+            }, 
+            "reported_events": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "E1", 
+                            "description": "Plasma TCI in Marsh Model with an initial target of 4 \u03bcg/ml, gradually titrated according to sedation level.", 
+                            "title": "Marsh"
+                        }, 
+                        {
+                            "@group_id": "E2", 
+                            "description": "Plasma TCI in Schnider Model with an initial target of 4 \u03bcg/ml, gradually titrated according to sedation level.", 
+                            "title": "Schnider"
+                        }
+                    ]
+                }, 
+                "other_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "30"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, other adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "30"
+                                            }
+                                        ], 
+                                        "sub_title": "Hypotension (Systolic blood pressure lower than 75mmHg)"
+                                    }
+                                }, 
+                                "title": "Cardiac disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment", 
+                    "frequency_threshold": "0"
+                }, 
+                "serious_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "30"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, serious adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "30"
+                                            }, 
+                                            {
+                                                "@events": "0", 
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "30"
+                                            }
+                                        ], 
+                                        "sub_title": "Cardiac Arrhythmia"
+                                    }
+                                }, 
+                                "title": "Cardiac disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Systematic Assessment"
+                }
+            }
+        }, 
+        "completion_date": {
+            "#text": "January 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": "Healthy", 
+        "detailed_description": {
+            "textblock": "Current systems of propofol TCI are pre-programmed with the Marsh and Schnider\n      pharmacokinetic models. Rate constants of Marsh are fixed, whereas compartment volumes and\n      clearances are weight proportional. Schnider model has fixed values for VC, V3, k13, and\n      k31, adjusts V2, k12, and k21 for age, and adjusts k10 according to total weight, lean body\n      mass (LBM), and height. One major bene\ufb01t of the Schnider model is that it adjusts doses and\n      infusion rates according to patient age. This provides a strong argument for using the\n      Schnider model in the elderly and unwell patients which may improve hemodynamic stability\n      and safety.\n\n      However for the vast majority of young and middle age patients, whether Marsh or Schnider\n      would be a better choice for hemodynamic stability remains unknown.\n\n      With marsh model, as VC is scaled to body weight, the amount of drug delivered is dependent\n      of body weight. In the Schnider model, as VC at 4.27L is independent of body weight, VC in\n      terms of ml/kg decreases as body weight increases. This and the influence of height and\n      weight on clearance results in heavier patients receiving less propofol on a mg/kg basis\n      whereas those with a lower lean body mass will initially receive about 30% less than\n      delivered by Marsh, but after 30 min, the Schnider model delivers about 15% more. Besides,\n      when Schnider model is used in the morbidly obese, the LBM equation can generate paradoxical\n      values resulting in excessive increases in maintenance infusion rates. Nevertheless, the\n      purpose of this study was to investigate the vast majority of Asian patients whose body\n      weight were in normal range. Only patients with BMI between 18 and 29 were included to\n      minimize the influential factor of body weight in TCI system.\n\n      To compare the hemodynamic changes during anesthesia induction between Marsh and Schnider\n      plasma TCI models. We put forward a hypothesis that, if one TCI model is associated with\n      much more prominent vasodilation effect or cardiac depression, a more sharp decrease in mean\n      arterial pressure, systemic vascular resistance , central venous return or stroke volume\n      would be observed."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients between the ages of 18 years and 70 years\n\n          -  ASA physical status I and II\n\n          -  surgical procedures requiring general anesthesia with continuous CVP and arterial\n             pressure monitoring.\n\n        Exclusion Criteria:\n\n          -  Patients younger than 16 y or older than 65 y\n\n          -  Body Mass Index (BMI) <18 or >30\n\n          -  emergency surgery\n\n          -  allergy to any of the drugs used\n\n          -  inability to communicate effectively\n\n          -  severe cardiovascular dysfunction\n\n          -  patient refusal and patients on long-term opioids or sedative medication."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "60 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "60", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "December 20, 2012", 
+        "firstreceived_results_date": "January 16, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01759160", 
+            "org_study_id": "NSFCfengxiar1", 
+            "secondary_id": "Fengxia1"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Marsh", 
+                "description": "plasma target-controlled infusion in Marsh model(n=30) with an initial target concentration of 4 \u03bcg/ml. Target was then reset and gradually titrated to a sedation level with narcotrend index below 64.", 
+                "intervention_name": "Marsh Plasma TCI with high initial target", 
+                "intervention_type": "Procedure", 
+                "other_name": "Plasma target-controlled infusion in Marsh model"
+            }, 
+            {
+                "arm_group_label": "Schnider", 
+                "description": "plasma target-controlled infusion in Schnider model(n=30) with an initial target concentration of 4 \u03bcg/ml. Target was then reset and gradually titrated to a sedation level with narcotrend index below 64.", 
+                "intervention_name": "Schnider Plasma TCI with high initial target", 
+                "intervention_type": "Procedure", 
+                "other_name": "Plasma target-controlled infusion in Schnider model"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Target control infusion", 
+            "propofol", 
+            "cardiac depression", 
+            "induction of anesthesia", 
+            "hemodynamics"
+        ], 
+        "lastchanged_date": "March 21, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Guangzhou", 
+                    "country": "China", 
+                    "state": "Guangdong", 
+                    "zip": "510080"
+                }, 
+                "name": "The First Affiliated Hospital of Sun Yat-sen University"
+            }
+        }, 
+        "location_countries": {
+            "country": "China"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Hemodynamic Responses During Induction: Comparison of Marsh and Schnider Pharmacokinetic Models in Propofol Plasma Target-controlled Infusion", 
+        "overall_official": {
+            "affiliation": "The First Affiliaed Hospital of Sun Yat-sen University", 
+            "last_name": "Xia Feng, M.D.", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "China: Food and Drug Administration", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "January 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "After propofol infusion started, according to sedation level, TCI targets were gradually titrated to reach a state of equilibrium at the end of the first 25 minutes. SVI were continuously monitored, at the end of the first 25 minutes, value change from baseline level were calculated.", 
+            "measure": "SVI (Stroke Volume Index) Value Change From Baseline Level at the End of the First 25 Minutes.", 
+            "safety_issue": "Yes", 
+            "time_frame": "The end of the first 25 minutes after propofol infusion"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01759160"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "First Affiliated Hospital, Sun Yat-Sen University", 
+            "investigator_full_name": "Xia Feng", 
+            "investigator_title": "Department of Anesthesiology", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Narcotrend was utilized to continuously record patients' sedation level during induction, provided as a criteria for Cpt (Plasma Target Concentration) adjustment.", 
+                "measure": "NI (Narcotrend Index) Reduction", 
+                "safety_issue": "No", 
+                "time_frame": "25 minutes after propofol infusion"
+            }, 
+            {
+                "description": "CVP was continuously monitored to assess preload condition and served to calculate SVRI (systemic vascular resistance index) every minute during the first 25 minutes of infusion.", 
+                "measure": "CVP (Central Venous Pressure)", 
+                "safety_issue": "Yes", 
+                "time_frame": "25 minutes after induction"
+            }
+        ], 
+        "source": "First Affiliated Hospital, Sun Yat-Sen University", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "First Affiliated Hospital, Sun Yat-Sen University", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "December 2012", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Single Blind (Subject), Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "March 2013"
+    }
+}

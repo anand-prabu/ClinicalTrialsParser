@@ -1,0 +1,589 @@
+{
+    "clinical_study": {
+        "@rank": "152864", 
+        "arm_group": [
+            {
+                "arm_group_label": "Early initiation of dialysis", 
+                "arm_group_type": "Experimental", 
+                "description": "Start of hemodialysis within a maximum of 12 hours after diagnosis of acute renal failure."
+            }, 
+            {
+                "arm_group_label": "Deferred hemodialysis", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Start of hemodialysis between 48 and 60 hours after diagnosis of acute renal failure."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Acute renal failure is one of the most feared complications of septic shock and occurs in\n      51% of patients with these conditions. Mortality at 3 months ranges from 36% to 60%. To\n      date, these exists no consensus regarding the optimal time to initiate hemodialysis.\n      Retrospective and observational studies have suggested that early initiation of hemodialysis\n      could help to improve prognosis in these patients. Therefore, we aim to investigate wether\n      early initiation of hemodialysis (within 12 hours after a diagnosis of acute renal\n      insufficiency at the \"failure\" stage according to the RIFLE Criteria), will reduce 90-day\n      mortality as compared to deferred initiation of hemodialysis (48 to 60 hours after\n      diagnosis), in intensive care unit (ICU) patients with septic shock who develop acute renal\n      failure.\n\n      Secondary objectives include: to compare the impact of the two hemodialysis strategies on\n      28, 180 et 360 day mortality, duration of mechanical ventilation, duration of hemodialysis,\n      duration of ICU stay and duration of overall hospital stay. In addition, quality of life at\n      90 and 360 days will be evaluated using the EQ5D questionnaire. Tolerance of both strategies\n      will be compared in terms of metabolic disorders, arrhythmias, pulmonary oedema by overload,\n      hypotension, hemorrhagic complications, and dependence on dialysis at hospital discharge."
+        }, 
+        "brief_title": "I.D.E.A.L.-I.C.U. (Initiation of Dialysis EArly Versus Late in Intensive Care Unit)", 
+        "condition": [
+            "Septic Shock", 
+            "Acute Renal Failure (as Defined by the \"Failure\" Stage of the RIFLE Classification)"
+        ], 
+        "condition_browse": {
+            "mesh_term": [
+                "Acute Kidney Injury", 
+                "Renal Insufficiency", 
+                "Shock", 
+                "Shock, Septic"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n        Adults (males or females, age >18 years) with septic shock who develop acute renal failure\n        (as defined by the \"Failure\" stage of the RIFLE classification) will be eligible for\n        inclusion.\n\n        Septic shock is defined as severe sepsis with at least 2 to 4 \"SIRS\" criteria and\n        persistent hypotension despite adequate vascular filling and/or need for intropic or\n        vaso-active drugs.\n\n        SIRS is defined as the simultaneous presence of at least 2 of the following criteria :\n\n          -  Body temperature \u2265 38\u00b0C ou \u2264 36\u00b0C\n\n          -  Heart rate \u2265 90 bpm\n\n          -  Respiratory rate \u2265 20/mn or PaCO2 \u2264 32 mmHg\n\n          -  Leucocytes \u2265 12,000/mm3 or \u2264 4,000/mm3 or >10% immature forms.\n\n        Acute renal insufficiency is defined as the \"failure\" stage of the RIFLE classification,\n        i.e. the presence of at least one of the following criteria:\n\n          -  Increased creatinine x 3 times the baseline value\n\n          -  Oliguria < 0.3 ml/kg/h for 12 hours\n\n        All patients are required to provide informed consent after having been appropriately\n        informed about the study. In case of temporary incapacity of the patient to sign, the\n        consent form can be signed by a surrogate.\n\n        Exclusion Criteria:\n\n        Patients presenting any of the following criteria will not be eligible for inclusion in\n        the study:\n\n          1. Patients with chronic renal at dialysis.\n\n          2. Patients presenting acute renal failure of type obstructive and patients already\n             presenting emergency criteria for immediate hemodialysis at the time of randomization\n             (i.e. hyperkalemia >6.5 mmol/L or pH<7.15 or pulmonary oedema by fluid overload)\n\n          3. Patients already had hemodialysis before their arrival in the intensive care unit\n\n          4. Pregnant women.\n\n          5. Moribund patients whose life expectancy is less than 24 hours\n\n          6. Patients unlikely to survive to 28 days because of uncontrollable comorbidities (e.g.\n             cardiac, pulmonary or hepatic disease at the terminal stage, hepatorenal syndrome,\n             uncontrolled cancer, severe post-anorexic encephalopathy\u2026)\n\n          7. Patients with advance directives indicating their wish not to be resuscitated.\n\n          8. Patients under legal guardianship."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "824", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "September 10, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01682590", 
+            "org_study_id": "Quenot IDEAL-ICU"
+        }, 
+        "intervention": {
+            "arm_group_label": [
+                "Early initiation of dialysis", 
+                "Deferred hemodialysis"
+            ], 
+            "intervention_name": "hemodialysis", 
+            "intervention_type": "Procedure"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": "septic shock; acute renal failure; hemodialysis; mortality.", 
+        "lastchanged_date": "June 6, 2013", 
+        "location": [
+            {
+                "contact": {
+                    "email": "mfeissel@chbm.fr", 
+                    "last_name": "Julio BADIE", 
+                    "phone": "3 84 98 50 69", 
+                    "phone_ext": "33"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Belfort", 
+                        "country": "France", 
+                        "zip": "90000"
+                    }, 
+                    "name": "CH Belfort"
+                }, 
+                "investigator": {
+                    "last_name": "Julio BADIE", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "gilles.capellier@univ-fcomte.fr", 
+                    "last_name": "Gilles CAPELLIER", 
+                    "phone": "3 81 66 82 59", 
+                    "phone_ext": "33"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Besan\u00e7on", 
+                        "country": "France", 
+                        "zip": "25000"
+                    }, 
+                    "name": "CHU Besan\u00e7on"
+                }, 
+                "investigator": {
+                    "last_name": "Gilles CAPELLIER", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "gblasco@chu-besancon.fr", 
+                    "last_name": "Gilles BLASCO", 
+                    "phone": "3 81 66 81 66", 
+                    "phone_ext": "33"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Besan\u00e7on", 
+                        "country": "France", 
+                        "zip": "25000"
+                    }, 
+                    "name": "CHU Besan\u00e7on"
+                }, 
+                "investigator": {
+                    "last_name": "Gilles BLASCO", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Jean-Marc DOISE"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Chalon-Sur-Sa\u00f4ne", 
+                        "country": "France", 
+                        "zip": "71100"
+                    }, 
+                    "name": "CH de Chalon-Sur-Sa\u00f4ne"
+                }, 
+                "investigator": {
+                    "last_name": "Jean-Marc DOISE", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "jrigaud@ch-dieppe.fr", 
+                    "last_name": "Jean-Philippe RIGAUD", 
+                    "phone": "2 32 14 75 50", 
+                    "phone_ext": "33"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Dieppe", 
+                        "country": "France", 
+                        "zip": "76200"
+                    }, 
+                    "name": "CH Dieppe"
+                }, 
+                "investigator": {
+                    "last_name": "Jean-Philippe RIGAUD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "nadine.milesi@chu-dijon.fr", 
+                    "last_name": "Nadine MILESI", 
+                    "phone": "3 80 29 53 78", 
+                    "phone_ext": "33"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Dijon", 
+                        "country": "France", 
+                        "zip": "21000"
+                    }, 
+                    "name": "DIJON G\u00e9n\u00e9ral"
+                }, 
+                "investigator": {
+                    "last_name": "Nadine MILESI", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "jean-pierre.quenot@chu-dijon.fr", 
+                    "last_name": "Jean-Pierre QUENOT", 
+                    "phone": "3 80 29 36 85", 
+                    "phone_ext": "33"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Dijon", 
+                        "country": "France", 
+                        "zip": "21000"
+                    }, 
+                    "name": "CHU Dijon"
+                }, 
+                "investigator": {
+                    "last_name": "Jean-Pierre QUENOT", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "djillali.annane@rpc.aphp.fr", 
+                    "last_name": "Djillali ANNANE", 
+                    "phone": "1 47 01 07 86", 
+                    "phone_ext": "33"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Garches", 
+                        "country": "France", 
+                        "zip": "92380"
+                    }, 
+                    "name": "H\u00f4pital Raymond-Poincar\u00e9 GARCHES (AP-HP)"
+                }, 
+                "investigator": {
+                    "last_name": "Djillali ANNANE", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "jean.reignier@chd-vendee.fr", 
+                    "last_name": "Jean REIGNIER"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "La Roche sur Yon", 
+                        "country": "France", 
+                        "zip": "85000"
+                    }, 
+                    "name": "CH de LA ROCHE sur YON"
+                }, 
+                "investigator": {
+                    "last_name": "Jean REIGNIER", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "vanderlinden.thierry@ghicl.net", 
+                    "last_name": "Thierry VAN DER LINDEN", 
+                    "phone": "3 20 22 50 26", 
+                    "phone_ext": "33"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Lille", 
+                        "country": "France", 
+                        "zip": "59160"
+                    }, 
+                    "name": "Groupe Hospitalier de l'institut Catholique de LILLE"
+                }, 
+                "investigator": {
+                    "last_name": "Thierry VAN DER LINDEN", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "laurent.argaud@chu-lyon.fr", 
+                    "last_name": "Laurent ARGAUD", 
+                    "phone": "4 72 11 00 15", 
+                    "phone_ext": "33"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Lyon", 
+                        "country": "France", 
+                        "zip": "69000"
+                    }, 
+                    "name": "CHU de Lyon"
+                }, 
+                "investigator": {
+                    "last_name": "Laurent ARGAUD", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "m.monchi@free.fr", 
+                    "last_name": "Mehran MONCHI", 
+                    "phone": "1 64 71 60 10", 
+                    "phone_ext": "33"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Melun", 
+                        "country": "France", 
+                        "zip": "77000"
+                    }, 
+                    "name": "CH Melun"
+                }, 
+                "investigator": {
+                    "last_name": "Mehran MONCHI", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "s-jaber@chu-montpellier.fr", 
+                    "last_name": "Samir JABER", 
+                    "phone": "4 67 33 72 71", 
+                    "phone_ext": "33"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Montpellier", 
+                        "country": "France", 
+                        "zip": "34000"
+                    }, 
+                    "name": "CHU Montpellier"
+                }, 
+                "investigator": {
+                    "last_name": "Samir JABER", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "guiotp@ch-mulhouse.fr", 
+                    "last_name": "Philippe GUIOT", 
+                    "phone": "3 89 64 61 26", 
+                    "phone_ext": "33"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Mulhouse", 
+                        "country": "France", 
+                        "zip": "68100"
+                    }, 
+                    "name": "CHG Mulhouse"
+                }, 
+                "investigator": {
+                    "last_name": "Philippe GUIOT", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "b.levy@chu-nancy.fr", 
+                    "last_name": "Bruno LEVY"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Nancy", 
+                        "country": "France", 
+                        "zip": "54000"
+                    }, 
+                    "name": "CHU Nancy Brabois"
+                }, 
+                "investigator": {
+                    "last_name": "Bruno LEVY", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "saber.barbar@chu-nimes.fr", 
+                    "last_name": "Saber Davide BARBAR", 
+                    "phone": "3 80 29 36 85", 
+                    "phone_ext": "33"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "N\u00eemes", 
+                        "country": "France", 
+                        "zip": "30000"
+                    }, 
+                    "name": "CHU N\u00eemes"
+                }, 
+                "investigator": {
+                    "last_name": "Saber Davide BARBAR", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "bmisset@hpsj.fr", 
+                    "last_name": "Beno\u00eet MISSET", 
+                    "phone": "1 44 12 34 15", 
+                    "phone_ext": "33"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Paris", 
+                        "country": "France", 
+                        "zip": "75014"
+                    }, 
+                    "name": "H\u00f4pital Saint Joseph (APHP)"
+                }, 
+                "investigator": {
+                    "last_name": "Beno\u00eet MISSET", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "julien.bohe@chu-lyon.fr", 
+                    "last_name": "Julien BOHE"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Pierre-B\u00e9nite", 
+                        "country": "France", 
+                        "zip": "69495"
+                    }, 
+                    "name": "CHU Lyon Sud"
+                }, 
+                "investigator": {
+                    "last_name": "Julien BOHE", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "jcousson@chu-reims.fr", 
+                    "last_name": "Jo\u00ebl COUSSON", 
+                    "phone": "3 26 78 30 22", 
+                    "phone_ext": "33"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Reims", 
+                        "country": "France", 
+                        "zip": "51100"
+                    }, 
+                    "name": "CHU Reims"
+                }, 
+                "investigator": {
+                    "last_name": "Jo\u00ebl COUSSON", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "vincent.castelain@chru-strasbourg.fr", 
+                    "last_name": "Vincent CASTELAIN", 
+                    "phone": "3 88 12 79 13", 
+                    "phone_ext": "33"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Strasbourg", 
+                        "country": "France", 
+                        "zip": "67000"
+                    }, 
+                    "name": "H\u00f4pital de Hautepierre - CHU Strasbourg"
+                }, 
+                "investigator": {
+                    "last_name": "Vincent CASTELAIN", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Ferhat MEZIANI"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Strasbourg", 
+                        "country": "France", 
+                        "zip": "67000"
+                    }, 
+                    "name": "CHU de Strasbourg - Nouvel h\u00f4pital civil"
+                }, 
+                "investigator": {
+                    "last_name": "Ferhat MEZIANI", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "gus_louis@yahoo.fr", 
+                    "last_name": "Guillaume LOUIS", 
+                    "phone": "6 47 93 74 69", 
+                    "phone_ext": "33"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Thionville", 
+                        "country": "France", 
+                        "zip": "57100"
+                    }, 
+                    "name": "CHR Metz"
+                }, 
+                "investigator": {
+                    "last_name": "Guillaume LOUIS", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }, 
+            {
+                "contact": {
+                    "email": "s.valette@chi70.fr", 
+                    "last_name": "Sarah VALETTE", 
+                    "phone": "3 84 96 67 82", 
+                    "phone_ext": "33"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Vesoul", 
+                        "country": "France", 
+                        "zip": "70000"
+                    }, 
+                    "name": "CH Vesoul"
+                }, 
+                "investigator": {
+                    "last_name": "Sarah VALETTE", 
+                    "role": "Principal Investigator"
+                }, 
+                "status": "Recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": "France"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Early Initiation of Dialysis at the Failure Stage Versus Deferred Dialysis in Intensive Care Unit Patients in Premature Phase of the Septic Shock Who Develop Acute Renal Insufficiency. Randomized, Controlled Superiority Trial. IDEAL-ICU (Initiation od Dialysis Early vs Late in Intensive Care Unit) Study Group.", 
+        "overall_contact": {
+            "email": "jean-pierre.quenot@chu-dijon.fr", 
+            "last_name": "Jean-Pierre QUENOT", 
+            "phone": "3 80 29 36 85", 
+            "phone_ext": "33"
+        }, 
+        "overall_contact_backup": {
+            "email": "saber.barbar@chu-nimes.fr", 
+            "last_name": "Saber Davide BARBAR", 
+            "phone": "4 66 68 33 20", 
+            "phone_ext": "33"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "France: Afssaps - Agence fran\u00e7aise de s\u00e9curit\u00e9 sanitaire des produits de sant\u00e9 (Saint-Denis)"
+        }, 
+        "phase": "Phase 3", 
+        "primary_outcome": {
+            "description": "To investigate whether early initiation of hemodialysis (within 12 hours after a diagnosis of acute renal insufficiency at the \"failure\" stage according to the RIFLE Criteria), will reduce 90-day mortality as compared to deferred initiation of hemodialysis (48 to 60 hours after diagnosis), in intensive care unit (ICU) patients with septic shock who develop acute renal failure.", 
+            "measure": "Progression free survival", 
+            "safety_issue": "Yes", 
+            "time_frame": "90 days"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01682590"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "description": "Secondary objectives include: to compare the impact of the two hemodialysis strategies on 28, 180 and 360 day mortality, duration of mechanical ventilation, duration of hemodialysis, duration of ICU stay and duration of overall hospital stay. In addition, quality of life at 90 and 360 days will be evaluated using the EQ5D questionnaire. Tolerance of both strategies will be compared in terms of metabolic disorders, arrhythmias, pulmonary oedema by overload, hypotension, hemorrhagic complications, and dependence on dialysis at hospital discharge.", 
+            "measure": "Comparison of the tolerance and evaluation quality of life", 
+            "safety_issue": "Yes", 
+            "time_frame": "90 days"
+        }, 
+        "source": "Centre Hospitalier Universitaire Dijon", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Centre Hospitalier Universitaire Dijon", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "July 2012", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label", 
+        "study_type": "Interventional", 
+        "verification_date": "June 2013"
+    }
+}

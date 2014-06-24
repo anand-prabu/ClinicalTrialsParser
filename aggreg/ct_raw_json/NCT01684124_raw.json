@@ -1,0 +1,137 @@
+{
+    "clinical_study": {
+        "@rank": "41691", 
+        "arm_group": [
+            {
+                "arm_group_label": "standard care", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "normal treatment"
+            }, 
+            {
+                "arm_group_label": "conservative O2 therapy", 
+                "arm_group_type": "Active Comparator", 
+                "description": "a value of 90-92% O2 saturation will be targeted"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The investigators hypothesize that it is feasible and safe to deliver a conservative\n      approach to oxygen therapy in mechanically ventilated critically ill patients (a tiem frame\n      of, on average,10 days)."
+        }, 
+        "brief_title": "An Assessment of the Feasibility and Safety of Conservative Oxygen Therapy in Critically Ill Patients", 
+        "completion_date": {
+            "#text": "March 2013", 
+            "@type": "Actual"
+        }, 
+        "condition": "Critical Illness", 
+        "condition_browse": {
+            "mesh_term": "Critical Illness"
+        }, 
+        "detailed_description": {
+            "textblock": "1. Identify patients likely to require ventilation until the day after tomorrow (a time\n           frame of 36 hours of average)\n\n        2. Deliver a conservative oxygen therapy protocol while in ICU (a time frame on average of\n           10 days)\n\n        3. Target an oxygen saturation between 90 and 92%\n\n        4. Adjust FiO2 to achieve target SaO2 at all times\n\n        5. Assess percentage of time patient is within target\n\n        6. Assess for safety of this approach"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Mechanical ventilation\n\n          -  expected to be ventilated until the day after tomorrow (a tiem frame of, on average\n             48 hours)\n\n        Exclusion Criteria:\n\n          -  expected to be off mechanical ventilation today or tomorrow\n\n          -  carbon monoxide poisoning\n\n          -  necrotizing fasciitis"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "90 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "105", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "September 7, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01684124", 
+            "org_study_id": "AICU2012-008"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "conservative O2 therapy", 
+                "description": "target lower O2 saturation", 
+                "intervention_name": "conservative O2 therapy", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": "standard care", 
+                "intervention_name": "standard care", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "oxygen", 
+            "critical illness", 
+            "mechanical ventilation"
+        ], 
+        "lastchanged_date": "July 9, 2013", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Melbourne", 
+                    "country": "Australia", 
+                    "state": "Victoria", 
+                    "zip": "3079"
+                }, 
+                "name": "Austin Hospital"
+            }
+        }, 
+        "location_countries": {
+            "country": "Australia"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "A Before-and-after Assessment of Conservative Oxygen Therapy vs. Standard Care in Critically Ill Mechanically Ventilated Patients", 
+        "other_outcome": {
+            "description": "patients will have continuous ECG monitoring and arrhythmias will be recorded in the two groups", 
+            "measure": "arrhythmias", 
+            "safety_issue": "No", 
+            "time_frame": "10 days"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "Australia: Human Research Ethics Committee", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 1/Phase 2", 
+        "primary_completion_date": {
+            "#text": "March 2013", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Pao2/FiO2 ratio will be measured regularly and compared during standard care and the intervention period (a time frame of, on average, 10 days)", 
+            "measure": "Difference in PaO2/FiO2 ratio from baseline to worst value", 
+            "safety_issue": "Yes", 
+            "time_frame": "10 days"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01684124"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Austin Health", 
+            "investigator_full_name": "Rinaldo Bellomo", 
+            "investigator_title": "Director of ICU Research", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": {
+            "description": "blood lactate will be measured regularly and assessed during standard care and the intervention period", 
+            "measure": "Lactate", 
+            "safety_issue": "Yes", 
+            "time_frame": "10 days"
+        }, 
+        "source": "Austin Health", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Austin Health", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "March 2012", 
+        "study_design": "Allocation: Non-Randomized, Endpoint Classification: Safety Study, Intervention Model: Crossover Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "July 2013"
+    }
+}

@@ -1,0 +1,413 @@
+{
+    "clinical_study": {
+        "@rank": "1341", 
+        "arm_group": [
+            {
+                "arm_group_label": "Placebo arm", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Patients will be randomized to receive either PPI or placebo and then undergo a 24 hour pH study with impedance to measure the number of reflux episodes"
+            }, 
+            {
+                "arm_group_label": "Esomeprazole", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Patients were randomly assigned to receive 40 mg esomeprazole twice daily prior to undergoing a 24 hour pH study with impedance to measure the number of reflux episodes"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to determine the effects of proton pump inhibitors (PPIs) on\n      the total number of reflux episodes in the distal esophagus measured by impedance in\n      patients with and without gastroesophageal reflux disease (GERD) based on 24-hour pH\n      testing. In addition to changing the acidity of the refluxate, the investigators hypothesize\n      that PPIs also reduce the total number of reflux episodes due to its anti-secretory effects."
+        }, 
+        "brief_title": "Twenty-Four Hour Combined Multi-Channel Impedance and pH Ambulatory Monitoring: Impedance Reflux Episodes of Patients On and Off Proton Pump Inhibitor Therapy", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "B1", 
+                        "description": "Patients will be randomized to receive either PPI or placebo (sequence 1) and then undergo a 24 hour pH study with impedance to measure the number of reflux episodes. Sequence 2 (placebo or PPI) will be administered followed by repeat 24 hour pH with impedance.", 
+                        "title": "All Study Participants"
+                    }
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "41"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": "<=18 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "41"
+                                            }
+                                        }, 
+                                        "sub_title": "Between 18 and 65 years"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "0"
+                                            }
+                                        }, 
+                                        "sub_title": ">=65 years"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Age", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@spread": "12", 
+                                            "@value": "52"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "24"
+                                            }
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "17"
+                                            }
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "41"
+                                        }
+                                    }, 
+                                    "sub_title": "United States"
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Region of Enrollment", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            }, 
+            "limitations_and_caveats": "Single center study. Relatively small number of patients studied, although recruitment goal reached.", 
+            "outcome_list": {
+                "outcome": {
+                    "description": "Impedance is defined as a 50% decrease from baseline in retrograde movement of liquid from the stomach to the esophagus. In other words, it measures the number of retrograde reflux episodes.", 
+                    "group_list": {
+                        "group": [
+                            {
+                                "@group_id": "O1", 
+                                "description": "Patients will be randomized to receive either PPI or placebo and then undergo a 24 hour pH study with impedance to measure the number of reflux episodes", 
+                                "title": "Placebo Arm"
+                            }, 
+                            {
+                                "@group_id": "O2", 
+                                "description": "Patients were randomly assigned to receive 40 mg esomeprazole twice daily prior to undergoing a 24 hour pH study with impedance to measure the number of reflux episodes", 
+                                "title": "Esomeprazole"
+                            }
+                        ]
+                    }, 
+                    "measure_list": {
+                        "measure": [
+                            {
+                                "category_list": {
+                                    "category": {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "O1", 
+                                                    "@value": "41"
+                                                }, 
+                                                {
+                                                    "@group_id": "O2", 
+                                                    "@value": "41"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }, 
+                                "param": "Number", 
+                                "title": "Number of Participants", 
+                                "units": "participants"
+                            }, 
+                            {
+                                "category_list": {
+                                    "category": {
+                                        "measurement_list": {
+                                            "measurement": [
+                                                {
+                                                    "@group_id": "O1", 
+                                                    "@spread": "22", 
+                                                    "@value": "47"
+                                                }, 
+                                                {
+                                                    "@group_id": "O2", 
+                                                    "@spread": "29", 
+                                                    "@value": "53"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }, 
+                                "description": "Impedance is defined as a 50% decrease from baseline in retrograde movement of liquid from the stomach to the esophagus. In other words, it measures the number of retrograde reflux episodes.", 
+                                "dispersion": "Standard Deviation", 
+                                "param": "Mean", 
+                                "title": "Number of Impedance Episodes Following PPI and Placebo", 
+                                "units": "number of episodes"
+                            }
+                        ]
+                    }, 
+                    "population": "We analyzed as per protocol. Only patients who completed both 24 hour pH studies with impedance were analyzed.", 
+                    "safety_issue": "No", 
+                    "time_frame": "1 week", 
+                    "title": "Number of Impedance Episodes Following PPI and Placebo", 
+                    "type": "Primary"
+                }
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "P1", 
+                        "description": "Patients will be randomized to receive either PPI or placebo (sequence 1) for 7 days and then undergo a 24 hour pH study with impedance to measure the number of reflux episode. The second sequence of medications (that is either placebo or PPI or sequence 2) will be administered followed by repeat 24 hour pH with impedance 7 days later.", 
+                        "title": "First Intervention (7 Days), Second Intervention (7 Days)"
+                    }
+                }, 
+                "period_list": {
+                    "period": {
+                        "drop_withdraw_reason_list": {
+                            "drop_withdraw_reason": [
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "21", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "Withdrawal by Subject"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "1", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "Protocol Violation"
+                                }
+                            ]
+                        }, 
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "#text": "63 patients consented to be part of the study", 
+                                            "@count": "63", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "44", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "Received PPI Intervention"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "45", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "Received Placebo Intervention"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "#text": "22 drop outs(consented but did not participate, refused 2nd intervention)", 
+                                            "@count": "41", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "22", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }, 
+                "pre_assignment_details": "Prior to undergoing 24 hour pH with impedance, all participants will receive either one week of esomeprazole or one week of placebo.", 
+                "recruitment_details": "All eligible patients with suspected GERD will be referred to the manometry and reflux lab testing for potential recruitment into the study"
+            }, 
+            "point_of_contact": {
+                "email": "Fouad.Moawad@us.army.mil", 
+                "name_or_title": "Dr. Fouad J. Moawad", 
+                "organization": "Walter Reed National Military Medical Center", 
+                "phone": "(301) 400-1551"
+            }
+        }, 
+        "completion_date": {
+            "#text": "September 2012", 
+            "@type": "Actual"
+        }, 
+        "condition": "GERD", 
+        "condition_browse": {
+            "mesh_term": "Gastroesophageal Reflux"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  All adults patients (age 18 or older) with reflux symptoms willing to participate\n\n        Exclusion Criteria:\n\n          -  Pregnancy\n\n          -  Prior esophageal or gastric surgery\n\n          -  Achalasia\n\n          -  Scleroderma\n\n          -  Gastroparesis."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "41", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "October 17, 2012", 
+        "firstreceived_results_date": "October 24, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01710800", 
+            "org_study_id": "20593-8"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Esomeprazole", 
+                "intervention_name": "Esomeprazole", 
+                "intervention_type": "Drug", 
+                "other_name": "Nexium"
+            }, 
+            {
+                "arm_group_label": "Placebo arm", 
+                "intervention_name": "placebo", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Proton Pump Inhibitors"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "impedance", 
+            "reflux", 
+            "GERD"
+        ], 
+        "lastchanged_date": "January 8, 2013", 
+        "number_of_arms": "2", 
+        "official_title": "Twenty-Four Hour Combined Multi-Channel Impedance and pH Ambulatory Monitoring: Impedance Reflux Episodes of Patients On and Off Proton Pump Inhibitor Therapy", 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Federal Government", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "September 2012", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": {
+            "description": "Impedance is defined as a 50% decrease from baseline in retrograde movement of liquid from the stomach to the esophagus. In other words, it measures the number of retrograde reflux episodes.", 
+            "measure": "Number of Impedance Episodes Following PPI and Placebo", 
+            "safety_issue": "No", 
+            "time_frame": "1 week"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01710800"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Walter Reed National Military Medical Center", 
+            "investigator_full_name": "Fouad Moawad", 
+            "investigator_title": "Gastroenterologist", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "source": "Walter Reed National Military Medical Center", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Walter Reed National Military Medical Center", 
+                "agency_class": "U.S. Fed"
+            }
+        }, 
+        "start_date": "September 2008", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Crossover Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "November 2012"
+    }
+}

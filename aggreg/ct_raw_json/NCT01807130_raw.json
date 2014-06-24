@@ -1,0 +1,171 @@
+{
+    "clinical_study": {
+        "@rank": "51876", 
+        "acronym": "AMERICA-HF", 
+        "arm_group": [
+            {
+                "arm_group_label": "Registry", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "Patients randomized to the registry arm will be followed per usual standard of care by their primary providers.  Those providers may refer to subspecialty HF or electrophysiology care as they see fit."
+            }, 
+            {
+                "arm_group_label": "Intervention", 
+                "arm_group_type": "Experimental", 
+                "description": "Patients in the intervention arm without compelling contraindications to HF therapies will be referred automatically to specialists in HF or electrophysiology with recommendations to consider those therapies that are not in compliance with guidelines."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Purpose and Objective: Heart failure therapies including beta-blockers, ACE-inhibitors,\n      aldosterone antagonists, implantable cardioverter-defibrillator (ICD) and cardiac\n      resynchronization therapy (CRT) devices have proven beneficial but are underused in eligible\n      patients. The investigators seek to determine if automating referral to cardiologists and\n      electrophysiologists through an intelligent electronic medical record system can improve\n      adherence to American College of Cardiology (ACC)/ American Heart Association (AHA) heart\n      failure guideline recommended therapies.\n\n      Study activities and population group: The AMERICA-HF trial will be a randomized,\n      single-center, single blinded study comparing standard-practice provider initiated\n      cardiovascular specialty referral to experimental automated medical record driven\n      cardiovascular specialty referral. An investigational program will automatically screen all\n      finalized electronic reports from clinically indicated transthoracic echocardiogram studies\n      performed in the Duke University Echo Lab system and create an automated query to obtain HF\n      ICD-9 codes. Eligible patients will be randomly assigned to participate in a registry\n      (n=125) or automated electronic medical record (EMR) based subspecialty care intervention\n      arm (n=125).\n\n      Data analysis: The primary endpoint is rate of adherence (%) to ACC/AHA HF guideline\n      recommended therapies at 3, 6, and 12 month follow-up among patients randomized to the\n      registry compared to the intervention. Differences in characteristics (including use of\n      guideline recommended therapies) will be tested using Pearson Chi-square tests for\n      categorical variables and Wilcoxon two-sample tests for continuous variables. Time to event\n      analysis will be performed for the secondary endpoints of hospitalization or death."
+        }, 
+        "brief_title": "Automated MEdical Record Driven Implantable CArdioverter-defibrillator Heart Failure Trial (AMERICA-HF)", 
+        "completion_date": {
+            "#text": "September 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Heart Failure", 
+        "condition_browse": {
+            "mesh_term": "Heart Failure"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Left Ventricular Ejection Fraction \u2264 35% on transthoracic echocardiogram\n\n          -  One of the following ICD-9 HF diagnostic codes 398.91, 428.0, 428.1, 428.2x, 428.3x,\n             428.4x, 428.9\n\n        Exclusion Criteria:\n\n          -  Pregnancy\n\n          -  Inability to speak English\n\n          -  Inability to provide verbal consent"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "250", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "March 5, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01807130", 
+            "org_study_id": "Pro00042120"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "Intervention", 
+                "description": "Patients in the intervention arm without compelling contraindications to HF therapies will be referred automatically to specialists in HF or electrophysiology (EP) with recommendations to consider those therapies that are not in compliance with guidelines.", 
+                "intervention_name": "Automated HF/EP Referral", 
+                "intervention_type": "Other"
+            }, 
+            {
+                "arm_group_label": "Registry", 
+                "description": "Patients assigned to the registry will receive referral to specialists in HF or EP as deemed necessary by the patients physicians.", 
+                "intervention_name": "Placebo (Registry Arm)", 
+                "intervention_type": "Other"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Heart Failure", 
+            "Medical Therapy", 
+            "ICD", 
+            "CRT"
+        ], 
+        "lastchanged_date": "September 10, 2013", 
+        "location": {
+            "contact": {
+                "email": "brett.atwater@duke.edu", 
+                "last_name": "Brett D Atwater, MD", 
+                "phone": "919-684-8111"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Durham", 
+                    "country": "United States", 
+                    "state": "North Carolina", 
+                    "zip": "27710"
+                }, 
+                "name": "Duke University Health System"
+            }, 
+            "investigator": [
+                {
+                    "last_name": "Brett D Atwater, MD", 
+                    "role": "Principal Investigator"
+                }, 
+                {
+                    "last_name": "Jason I Koontz, MD/PhD", 
+                    "role": "Principal Investigator"
+                }, 
+                {
+                    "last_name": "Albert Y Sun, MD", 
+                    "role": "Sub-Investigator"
+                }
+            ], 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Automated MEdical Record Driven Implantable CArdioverter-defibrillator Heart Failure Trial (AMERICA-HF)", 
+        "overall_contact": {
+            "email": "brett.atwater@duke.edu", 
+            "last_name": "Brett D Atwater, MD", 
+            "phone": "9196848111"
+        }, 
+        "overall_official": [
+            {
+                "affiliation": "Duke University", 
+                "last_name": "Brett D Atwater, MD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Duke University", 
+                "last_name": "Jason I Koontz, MD/PhD", 
+                "role": "Principal Investigator"
+            }
+        ], 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "September 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "Rate of adherence (%) to ACC/AHA HF guideline recommended HF therapies among patients randomized to the registry compared to the intervention", 
+            "safety_issue": "No", 
+            "time_frame": "12 month follow-up"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01807130"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Adherence to ACC/AHA guideline recommended therapies by sex and race compared to standard referral processes among patients with ejection fraction (EF) \u2264 35% and symptomatic HF.", 
+                "safety_issue": "No", 
+                "time_frame": "12 months"
+            }, 
+            {
+                "description": "To determine the time-frame over which the intervention has a treatment effect, repeated measures analysis will be performed at 3 months, 6 months, and 12 months after the intervention is made.  The goal of this analysis to to determine how quickly adherence is achieved with the intervention and whether adherence is maintained long-term.", 
+                "measure": "Repeated Measures Analysis of Adherence to ACC/AHA HF Guidelines", 
+                "safety_issue": "No", 
+                "time_frame": "3, 6, 12 months"
+            }
+        ], 
+        "source": "Duke University", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Duke University", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "September 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Single Blind (Subject), Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "September 2013"
+    }
+}

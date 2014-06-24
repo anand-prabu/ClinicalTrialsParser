@@ -1,0 +1,157 @@
+{
+    "clinical_study": {
+        "@rank": "70462", 
+        "acronym": "VMRTP", 
+        "arm_group": {
+            "arm_group_label": "Radiotherapy", 
+            "description": "All patients receiving radiotherapy"
+        }, 
+        "brief_summary": {
+            "textblock": "The Visual Management for Radiotherapy Practice (VMRTP) aims to analyze, predict, visualize\n      and shorten the waiting times for radiotherapy patients. The hypothesis is that this can be\n      done by the introduction of models that can predict a patient being at risk for waiting too\n      long as well as visual management tools that visualize the radiotherapy process."
+        }, 
+        "brief_title": "Visual Management for the Radiotherapy Process", 
+        "completion_date": {
+            "#text": "November 2015", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Cancer", 
+        "detailed_description": {
+            "textblock": "In a retrospective cohort of radiotherapy patients, time stamps of various steps in the\n      radiotherapy process (diagnosis, multi-disciplinary board, referral, intake, simulation,\n      treatment planning, quality control, first fraction of radiotherapy) will be collected.\n      These will be combined with patient, tumor and patient-process (e.g. referring physician,\n      treating physician, busy-at-the-time, referring hospital) related features. Based on these a\n      predictive model will be learned that can estimate the probability at various stages of the\n      process that the patient waits too long. Visual management will be developed that can\n      visualize the predicted waiting time.\n\n      Process interventions aimed at reducing waiting times will be tested prospectively."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n        Patients receiving radiotherapy\n\n        Exclusion Criteria:\n\n        Patients not receiving radiotherapy"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A", 
+            "sampling_method": "Non-Probability Sample", 
+            "study_pop": {
+                "textblock": "All patients treated with radiotherapy"
+            }
+        }, 
+        "enrollment": {
+            "#text": "10000", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "May 13, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01854541", 
+            "org_study_id": "VMRTP"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "Cancer", 
+            "Radiotherapy"
+        ], 
+        "lastchanged_date": "January 6, 2014", 
+        "location": {
+            "contact": {
+                "email": "andre.dekker@maastro.nl", 
+                "last_name": "Andre Dekker", 
+                "phone": "+31 88 4455666"
+            }, 
+            "contact_backup": {
+                "email": "chantal.overhof@maastro.nl", 
+                "last_name": "Chantal Overhof", 
+                "phone": "+31 88 44 55 686"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Maastricht", 
+                    "country": "Netherlands", 
+                    "zip": "6229 ET"
+                }, 
+                "name": "MAASTRO clinic"
+            }, 
+            "investigator": {
+                "last_name": "Andre Dekker", 
+                "role": "Principal Investigator"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "Netherlands"
+        }, 
+        "number_of_groups": "1", 
+        "official_title": "Visual Management for the Radiotherapy Process", 
+        "overall_contact": {
+            "email": "andre.dekker@maastro.nl", 
+            "last_name": "Andre Dekker", 
+            "phone": "+31 88 44 55 666"
+        }, 
+        "overall_contact_backup": {
+            "email": "chantal.overhof@maastro.nl", 
+            "last_name": "Chantal Overhof", 
+            "phone": "+31 88 44 55 686"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "Netherlands: The Central Committee on Research Involving Human Subjects (CCMO)", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "January 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Waiting time between referral and first day of radiotherapy", 
+            "measure": "referral and first day of radiotherapy", 
+            "safety_issue": "No", 
+            "time_frame": "3 months"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01854541"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Waiting time between diagnosis and first day of radiotherapy", 
+                "measure": "Diagnosis and first day of radiotherapy", 
+                "safety_issue": "No", 
+                "time_frame": "3 months"
+            }, 
+            {
+                "description": "Waiting time between multi-disciplinary board and first day of radiotherapy", 
+                "measure": "multi-disciplinary board and first day of radiotherapy", 
+                "safety_issue": "No", 
+                "time_frame": "3 months"
+            }, 
+            {
+                "description": "Waiting time between intake and first day of radiotherapy", 
+                "measure": "intake and first day of radiotherapy", 
+                "safety_issue": "No", 
+                "time_frame": "3 months"
+            }, 
+            {
+                "description": "Waiting time between simulation and first day of radiotherapy", 
+                "measure": "simulation and first day of radiotherapy", 
+                "safety_issue": "No", 
+                "time_frame": "3 months"
+            }
+        ], 
+        "source": "Maastricht Radiation Oncology", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "Maastro Clinic, The Netherlands", 
+                "agency_class": "Other"
+            }, 
+            "lead_sponsor": {
+                "agency": "Maastricht Radiation Oncology", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "March 2013", 
+        "study_design": "Observational Model: Cohort", 
+        "study_type": "Observational [Patient Registry]", 
+        "target_duration": "3 Months", 
+        "verification_date": "January 2014"
+    }
+}

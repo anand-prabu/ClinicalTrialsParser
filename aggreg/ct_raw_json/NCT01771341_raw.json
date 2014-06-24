@@ -1,0 +1,142 @@
+{
+    "clinical_study": {
+        "@rank": "70392", 
+        "acronym": "SYNCHRONY", 
+        "arm_group": [
+            {
+                "arm_group_label": "Pressure support", 
+                "arm_group_type": "Placebo Comparator"
+            }, 
+            {
+                "arm_group_label": "NAVA", 
+                "arm_group_type": "Experimental"
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "Neurally adjusted ventilatory support improved synchronization in the medical patient.\n      However no data are available in the postoperative patient.\n\n      This way the investigators designed a prospective randomized cross over trial to evaluate\n      this issue in the abdominal post-operative patient."
+        }, 
+        "brief_title": "Evaluation of Synchrony in the Post-operative Patient", 
+        "completion_date": {
+            "#text": "December 2014", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Patient-ventilator Asynchronism", 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  adult > 18 yr-old\n\n          -  abdominal post-operative patient\n\n          -  able to trigger the ventilator\n\n        Exclusion Criteria:\n\n          -  infant\n\n          -  pregnancy\n\n          -  esophageal surgery\n\n          -  recent esophageal variceal bleeding"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "28", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "June 15, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01771341", 
+            "org_study_id": "2010.646"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "NAVA", 
+                "description": "NAVA respiratory modality", 
+                "intervention_name": "MAQUET SERVOi ventilator with Edi Catheter", 
+                "intervention_type": "Device", 
+                "other_name": "Neurally Adjusted Ventilatory Assist"
+            }, 
+            {
+                "arm_group_label": "Pressure support", 
+                "description": "Pressure Support", 
+                "intervention_name": "MAQUET SERVOi ventilator", 
+                "intervention_type": "Device", 
+                "other_name": "Pressure Support"
+            }
+        ], 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "NAVA", 
+            "post operative"
+        ], 
+        "lastchanged_date": "May 21, 2014", 
+        "location": {
+            "contact": {
+                "email": "florent.wallet@chu-lyon.fr", 
+                "last_name": "Florent WALLET, MD", 
+                "phone": "+33 4 78 86 19 21"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Pierre B\u00e9nite", 
+                    "country": "France", 
+                    "zip": "69310"
+                }, 
+                "name": "Hospices Civils de Lyon- Centre Hospitalier Lyon Sud"
+            }, 
+            "investigator": {
+                "last_name": "Florent WALLET, MD", 
+                "role": "Principal Investigator"
+            }, 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "France"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Evaluation of Synchrony in the Post-operative Patient (NAVA vs Pressure Support)", 
+        "overall_contact": {
+            "email": "florent.wallet@chu-lyon.fr", 
+            "last_name": "Florent WALLET, MD", 
+            "phone": "+33 4 78 86 19 21"
+        }, 
+        "overall_official": {
+            "affiliation": "Hospices Civils de Lyon", 
+            "last_name": "Florent WALLET, MD", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "France: Afssaps - Agence fran\u00e7aise de s\u00e9curit\u00e9 sanitaire des produits de sant\u00e9 (Saint-Denis)", 
+            "has_dmc": "No"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "December 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Number of asynchrony events/total respiratory rate", 
+            "measure": "Asynchrony index (AI)", 
+            "safety_issue": "No", 
+            "time_frame": "8 hours"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01771341"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "description": "ratio of partial pressure arterial oxygen and fraction of inspired oxygen", 
+            "measure": "PaO2/FiO2 ratio", 
+            "safety_issue": "No", 
+            "time_frame": "8 hours"
+        }, 
+        "source": "Hospices Civils de Lyon", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Hospices Civils de Lyon", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "February 2012", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Crossover Assignment, Masking: Open Label, Primary Purpose: Basic Science", 
+        "study_type": "Interventional", 
+        "verification_date": "May 2014"
+    }
+}

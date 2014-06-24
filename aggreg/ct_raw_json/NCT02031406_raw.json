@@ -1,0 +1,131 @@
+{
+    "clinical_study": {
+        "@rank": "11691", 
+        "arm_group": [
+            {
+                "arm_group_label": "Usual care", 
+                "arm_group_type": "Placebo Comparator", 
+                "description": "No extra post-discharge pharmacist counseling is explicitly provided to patients, although some patients may receive it depending on their care setting"
+            }, 
+            {
+                "arm_group_label": "Post-discharge pharmacist counseling", 
+                "arm_group_type": "Experimental", 
+                "description": "Patients will receive post-discharge telephonic pharmacist counseling at around 72 hours after hospital discharge."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "A significant portion of avoidable healthcare expenditures has been attributed to\n      preventable hospital readmissions; thus, reducing hospital readmission rates has become a\n      national healthcare agenda item. Despite much study of this topic, efforts to date have not\n      been especially fruitful in either predicting which patients will require hospital\n      readmission. Preventing readmissions has been even more difficult.\n\n      We recently examined a pharmacist intervention that assessed patients' medication literacy\n      and adherence at hospital admission. In this retrospective data, low medication adherence\n      levels were predictive of hospital readmission. There was a non-significant trend between\n      low medication literacy and increased hospital readmissions.\n\n      We have now decided to prospectively study this intervention. Prospective study will allow\n      for several improvements on our prior work.\n\n        1. We have consulted the literature to more carefully examine existing instruments to\n           measure medication adherence and literacy. Based on this review, and based on our prior\n           results, we have made adjustments to these instruments which should improve\n           reliability, validity, and granularity.\n\n        2. In our retrospective work, our intervention of pharmacist counseling was not\n           randomized. Although there were large differences in readmission rates between the\n           patients selected to receive counseling and those who were not thought to require it,\n           there may have been unmeasured confounding variables. Randomizing this intervention\n           will greatly enhance the likelihood that we are comparing two similar groups of\n           patients."
+        }, 
+        "brief_title": "Impact of Pharmacist Post-discharge Phone Calls on Hospital Readmission and Patient Medication Literacy and Adherence", 
+        "condition": [
+            "Medication Adherence & Literacy to Predict Readmission", 
+            "Post-discharge Pharmacist Counseling to Prevent Readmissions"
+        ], 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n        - Inclusion:\n\n          1. \u2265 10 chronic prescription medications in EHR when patient is considered for inclusion\n\n          2. Acute myocardial infarction in problem list\n\n          3. Congestive heart failure in problem list\n\n          4. Admitted from skilled nursing facility\n\n          5. On anticoagulants\n\n          6. On insulin\n\n          7. On narrow therapeutic index drugs:\n\n               1. Carbamazepine\n\n               2. Clindamycin\n\n               3. Clonidine\n\n               4. Cyclosporine\n\n               5. Digoxin\n\n               6. Lithium\n\n               7. Phenytoin\n\n               8. Prazosin\n\n               9. Sirolimus\n\n              10. Tacrolimus\n\n              11. Valproic acid/valproate sodium syrup\n\n        9.   History of transplant\n\n        Exclusion Criteria: (where any exclusion criteria trumps any inclusion criteria):\n\n          1. Admit to Peds primary\n\n          2. Transplant team listed as being on the Treatment Team\n\n          3. Trauma patient\n\n          4. Patient already randomized in this study"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "N/A"
+        }, 
+        "enrollment": {
+            "#text": "300", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "January 7, 2014", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT02031406", 
+            "org_study_id": "KL2TR000122-00034358"
+        }, 
+        "intervention": {
+            "arm_group_label": "Post-discharge pharmacist counseling", 
+            "intervention_name": "Post-discharge counseling on medication adherence & literacy", 
+            "intervention_type": "Other"
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "January 7, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Los Angeles", 
+                    "country": "United States", 
+                    "state": "California", 
+                    "zip": "91604"
+                }, 
+                "name": "Cedars-Sinai Medical Center"
+            }, 
+            "status": "Not yet recruiting"
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "2", 
+        "official_title": "Impact of Pharmacist Post-discharge Phone Calls on Hospital Readmission and Patient Medication Literacy and Adherence", 
+        "overall_contact": {
+            "email": "pevnickj@cshs.org", 
+            "last_name": "Josh Pevnick, MD, MSHS"
+        }, 
+        "overall_official": {
+            "affiliation": "Cedars-Sinai Medical Center", 
+            "last_name": "Josh Pevnick, MD, MSHS", 
+            "role": "Principal Investigator"
+        }, 
+        "overall_status": "Not yet recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "February 2014", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "Readmissions", 
+            "safety_issue": "No", 
+            "time_frame": "30 days"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT02031406"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Cedars-Sinai Medical Center", 
+            "investigator_full_name": "Josh Pevnick", 
+            "investigator_title": "Assistant Professor", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "description": "Using the Morisky Medication Adherence Scale", 
+                "measure": "Medication Adherence", 
+                "safety_issue": "Yes", 
+                "time_frame": "30 days after discharge"
+            }, 
+            {
+                "description": "Using a novel measure of medication literacy", 
+                "measure": "Medication Literacy", 
+                "safety_issue": "Yes", 
+                "time_frame": "30 days"
+            }
+        ], 
+        "source": "Cedars-Sinai Medical Center", 
+        "sponsors": {
+            "collaborator": {
+                "agency": "National Center for Advancing Translational Science (NCATS)", 
+                "agency_class": "NIH"
+            }, 
+            "lead_sponsor": {
+                "agency": "Cedars-Sinai Medical Center", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2014", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Health Services Research", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2014"
+    }
+}

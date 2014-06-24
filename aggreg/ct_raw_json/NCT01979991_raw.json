@@ -1,0 +1,128 @@
+{
+    "clinical_study": {
+        "@rank": "154765", 
+        "arm_group": {
+            "arm_group_label": "CT Imaging and Reconstruction", 
+            "arm_group_type": "Experimental", 
+            "description": "To develop a MBIR (model-based image reconstruction) method that will improve X-ray CT lung imaging by improving image quality and reducing dose."
+        }, 
+        "brief_summary": {
+            "textblock": "To develop a computer program that will improve CT image quality and decrease the amount of\n      x-ray radiation that future patients may be exposed to when they have a CT examination."
+        }, 
+        "brief_title": "Model-Based Image Reconstruction for X-Ray CT in Lung Imaging", 
+        "completion_date": {
+            "#text": "December 2016", 
+            "@type": "Anticipated"
+        }, 
+        "condition": "Lung Diseases", 
+        "condition_browse": {
+            "mesh_term": "Lung Diseases"
+        }, 
+        "detailed_description": {
+            "textblock": "We will be asking patients for their permission to save and use the sinogram from their CT\n      scan. The sinogram will be de-identified and sent to an archive system for storage. It will\n      be exported to a computer for processing using MBIR (model based iterative reconstruction).\n      MBIR (model based iterative reconstruction) is a new method being developed to process CT\n      sinograms. The newly reconstructed images will be reviewed by experts to determine if they\n      are as readable and accurate as CT images created with the software that is currently being\n      used. Sinogram data and the reconstructed images will be shared with collaborating\n      researchers at General Electric Global Research."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n        1. 18 years of age and older 2. No medical or psychiatric condition precluding informed\n        consent\n\n        -\n\n        Exclusion Criteria:\n\n          1. Inability to lie flat on the back with arms raised over the head for 30min.\n\n          2. Metallic implants or metallic devices in the chest or back.\n\n          3. Participation in other research trials involving ionizing radiation"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "180", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 1, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01979991", 
+            "org_study_id": "HUM00038447"
+        }, 
+        "intervention": {
+            "arm_group_label": "CT Imaging and Reconstruction", 
+            "description": "Patients will be consented for their permission to save and use the sinogram from their CT chest/lung scan. The sinogram will be de-identified and sent to an archive system for storage.\nLater it will be exported to a computer for processing using MBIR (model based image reconstruction).  The newly processed images will then be read by blinded readers. The quality of the images will be reviewed to determine if they are as readable and accurate as CT images created with the software that is currently being used.", 
+            "intervention_name": "CT Imaging and Reconstruction", 
+            "intervention_type": "Procedure"
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "June 4, 2014", 
+        "location": {
+            "facility": {
+                "address": {
+                    "city": "Ann Arbor", 
+                    "country": "United States", 
+                    "state": "Michigan", 
+                    "zip": "48109"
+                }, 
+                "name": "University of Michigan Hospital"
+            }
+        }, 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Model-Based Image Reconstruction for X-Ray CT in Lung Imaging", 
+        "overall_official": [
+            {
+                "affiliation": "University of Michigan Hospital", 
+                "last_name": "Jeffrey Fessler, PhD", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "University of Michigan", 
+                "last_name": "Jeffrey Fessler, PhD", 
+                "role": "Principal Investigator"
+            }
+        ], 
+        "overall_status": "Active, not recruiting", 
+        "oversight_info": {
+            "authority": "United States: Institutional Review Board", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "Phase 1", 
+        "primary_completion_date": {
+            "#text": "August 2015", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Sinograms will be retrieved by an archive system and processed by MBIR (model-based image reconstruction) methods that we are developing that improve image quality (reduce noise, improve spatial resolution, reduce artifacts). We will evaluate the image quality both quantitatively and qualitatively.\nWe hope to develop and benchmark methods for algorithm acceleration to enable routine clinical use of MBIR (model-based image reconstruction) methods.", 
+            "measure": "Developement of a computer program to improve CT image quality", 
+            "safety_issue": "Yes", 
+            "time_frame": "6 years"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01979991"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "University of Michigan", 
+            "investigator_full_name": "Jeffrey Fessler PhD.", 
+            "investigator_title": "Principal Investigator", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "source": "University of Michigan", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "National Institutes of Health (NIH)", 
+                    "agency_class": "NIH"
+                }, 
+                {
+                    "agency": "General Electric", 
+                    "agency_class": "Industry"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "University of Michigan", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "August 2010", 
+        "study_design": "Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Single Blind (Investigator), Primary Purpose: Basic Science", 
+        "study_type": "Interventional", 
+        "verification_date": "June 2014"
+    }
+}

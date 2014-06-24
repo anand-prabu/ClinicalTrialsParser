@@ -1,0 +1,1896 @@
+{
+    "clinical_study": {
+        "@rank": "94018", 
+        "arm_group": {
+            "arm_group_label": "CP-690,550 (tofacitinib) 30 mg q12h", 
+            "arm_group_type": "Experimental", 
+            "description": "Individual dose of methotrexate with the addition of CP-690,550 30 mg q12h"
+        }, 
+        "brief_summary": {
+            "textblock": "This study was designed to estimate the effects of methotrexate (MTX) on the\n      pharmacokinetics (PK) of CP-690,550 when administered to subjects with rheumatoid arthritis\n      (RA), to estimate the effects of CP-690,550 on the PK of MTX and to evaluate the short-term\n      safety and tolerability of co-administration of CP-690,550 and MTX."
+        }, 
+        "brief_title": "Co-Administration Of Methotrexate And CP-690,550", 
+        "clinical_results": {
+            "baseline": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "B1", 
+                        "description": "Single oral dose of methotrexate (MTX) on Day 1 (15-25 milligram [mg], as per local prescribing practice); followed by CP-690,500 30 mg tablet orally every twelve hours from Day 3 to Day 6; followed by single oral dose of MTX (15-25 mg, as per local prescribing practice) and single oral dose of CP-690,500 30 mg tablet orally, on Day 7.", 
+                        "title": "Methotrexate + CP-690,550"
+                    }
+                }, 
+                "measure_list": {
+                    "measure": [
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@value": "12"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "param": "Number", 
+                            "title": "Number of Participants", 
+                            "units": "participants"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": {
+                                            "@group_id": "B1", 
+                                            "@spread": "10.2", 
+                                            "@value": "57.3"
+                                        }
+                                    }
+                                }
+                            }, 
+                            "dispersion": "Standard Deviation", 
+                            "param": "Mean", 
+                            "title": "Age", 
+                            "units": "years"
+                        }, 
+                        {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "8"
+                                            }
+                                        }, 
+                                        "sub_title": "Female"
+                                    }, 
+                                    {
+                                        "measurement_list": {
+                                            "measurement": {
+                                                "@group_id": "B1", 
+                                                "@value": "4"
+                                            }
+                                        }, 
+                                        "sub_title": "Male"
+                                    }
+                                ]
+                            }, 
+                            "param": "Number", 
+                            "title": "Gender", 
+                            "units": "participants"
+                        }
+                    ]
+                }
+            }, 
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.", 
+                "restrictive_agreement": "Pfizer has the right to review disclosures, requesting a delay of less than 60 days. Investigator will postpone single center publications until after disclosure of pooled data (all sites), less than 12 months from study completion/termination at all participating sites. Investigator may not disclose previously undisclosed confidential information other than study results."
+            }, 
+            "limitations_and_caveats": "Results were summarized for Ae(0-12) instead of planned Ae(0-24), as CP-690,550 was administered every 12 hours.", 
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "99.00", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "90", 
+                                "ci_upper_limit": "107.29", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Natural log transformed, AUC (0-12) of CP-690,550 was analyzed using mixed effect model with treatment as fixed effects and participant as a random effect. The adjusted mean differences and 90% confidence intervals (CIs) for the differences were exponentiated to provide estimates of the ratio of adjusted geometric means (Test/Reference) and 90% CIs for the ratios.", 
+                                "non_inferiority": "No", 
+                                "param_type": "Ratio of Adjusted Geometric Means", 
+                                "param_value": "103.06"
+                            }
+                        }, 
+                        "description": "AUC (0-12)= area under the plasma concentration time-curve from time zero (pre-dose) to 12 hours (0-12).", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "CP-690,500 30 mg tablet orally every twelve hours from Day 3 to Day 6.", 
+                                    "title": "CP-690,500"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Single oral dose of MTX (15-25 mg, as per local prescribing practice) and single oral dose of CP-690,500 30 mg tablet orally, on Day 7.", 
+                                    "title": "Methotrexate + CP-690,500"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "12"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "423", 
+                                                        "@value": "1370"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "425", 
+                                                        "@value": "1410"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "AUC (0-12)= area under the plasma concentration time-curve from time zero (pre-dose) to 12 hours (0-12).", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Area Under the Curve From Time Zero to 12 Hours [AUC (0-12)] for CP-690,550", 
+                                    "units": "nanogram*hour/milliliter (ng*hr/mL)"
+                                }
+                            ]
+                        }, 
+                        "population": "The pharmacokinetic (PK) analysis population included all enrolled participants with PK parameters of interest for at least 1 period of fixed sequence.", 
+                        "safety_issue": "No", 
+                        "time_frame": "0 (pre-dose), 0.25, 0.5, 1, 2, 3, 4, 8 and 12 hours post-dose on Day 6 and Day 7", 
+                        "title": "Area Under the Curve From Time Zero to 12 Hours [AUC (0-12)] for CP-690,550", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "93.79", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "90", 
+                                "ci_upper_limit": "112.47", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Natural log transformed, Cmax of CP-690,550 was analyzed using mixed effect model with treatment as fixed effects and participant as a random effect. The adjusted mean differences and 90% CIs for the differences were exponentiated to provide estimates of the ratio of adjusted geometric means (Test/Reference) and 90% CIs for the ratios.", 
+                                "non_inferiority": "No", 
+                                "param_type": "Ratio of Adjusted Geometric Means", 
+                                "param_value": "102.71"
+                            }
+                        }, 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "CP-690,500 30 mg tablet orally every twelve hours from Day 3 to Day 6.", 
+                                    "title": "CP-690,500"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Single oral dose of MTX (15-25 mg, as per local prescribing practice) and single oral dose of CP-690,500 30 mg tablet orally, on Day 7.", 
+                                    "title": "Methotrexate + CP-690,500"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "12"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "91.6", 
+                                                        "@value": "375"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "84.8", 
+                                                        "@value": "384"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Maximum Observed Plasma Concentration (Cmax) for CP-690,550", 
+                                    "units": "ng/mL"
+                                }
+                            ]
+                        }, 
+                        "population": "The PK analysis population included all enrolled participants with PK parameters of interest for at least 1 period of fixed sequence.", 
+                        "safety_issue": "No", 
+                        "time_frame": "0 (pre-dose), 0.25, 0.5, 1, 2, 3, 4, 8 and 12 hours post-dose on Day 6 and Day 7", 
+                        "title": "Maximum Observed Plasma Concentration (Cmax) for CP-690,550", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "77.38", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "90", 
+                                "ci_upper_limit": "103.57", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Natural log transformed, AUClast of MTX was analyzed using mixed effect model with treatment as fixed effects and participant as a random effect. The adjusted mean differences and 90% CIs for the differences were exponentiated to provide estimates of the ratio of adjusted geometric means (Test/Reference) and 90% CIs for the ratios.", 
+                                "non_inferiority": "No", 
+                                "param_type": "Ratio of Adjusted Geometric Means", 
+                                "param_value": "89.53"
+                            }
+                        }, 
+                        "description": "Area under the plasma concentration time-curve from zero to the last measured concentration (AUClast).", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Single oral dose of MTX on Day 1 (15-25 milligram [mg], as per local prescribing practice).", 
+                                    "title": "Methotrexate"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Single oral dose of MTX (15-25 mg, as per local prescribing practice) and single oral dose of CP-690,500 30 mg tablet orally, on Day 7.", 
+                                    "title": "Methotrexate + CP-690,500"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "12"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "685", 
+                                                        "@value": "1850"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "753", 
+                                                        "@value": "1720"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Area under the plasma concentration time-curve from zero to the last measured concentration (AUClast).", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Area Under the Curve From Time Zero to Last Quantifiable Concentration (AUClast) for Methotrexate (MTX)", 
+                                    "units": "ng*hr/mL"
+                                }
+                            ]
+                        }, 
+                        "population": "PK analysis population included all enrolled participants with PK parameters of interest for at least 1 period of fixed sequence.", 
+                        "safety_issue": "No", 
+                        "time_frame": "0 (pre-dose),  0.5, 1, 1.5,  2, 2.5, 3, 4, 6, 8, 12, 24 and 48 hours post-dose on Day 1 and Day 7", 
+                        "title": "Area Under the Curve From Time Zero to Last Quantifiable Concentration (AUClast) for Methotrexate (MTX)", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "analysis_list": {
+                            "analysis": {
+                                "ci_lower_limit": "76.03", 
+                                "ci_n_sides": "2-Sided", 
+                                "ci_percent": "90", 
+                                "ci_upper_limit": "100.12", 
+                                "group_id_list": {
+                                    "group_id": [
+                                        "O1", 
+                                        "O2"
+                                    ]
+                                }, 
+                                "groups_desc": "Natural log transformed, Cmax of MTX was analyzed using mixed effect model with treatment as fixed effects and participant as a random effect. The adjusted mean differences and 90% CIs for the differences were exponentiated to provide estimates of the ratio of adjusted geometric means (Test/Reference) and 90% CIs for the ratios.", 
+                                "non_inferiority": "No", 
+                                "param_type": "Ratio of Adjusted Geometric Means", 
+                                "param_value": "87.25"
+                            }
+                        }, 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Single oral dose of methotrexate (MTX) on Day 1 (15-25 milligram [mg], as per local prescribing practice).", 
+                                    "title": "Methotrexate"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Single oral dose of MTX (15-25 mg, as per local prescribing practice) and single oral dose of CP-690,500 30 mg tablet orally, on Day 7.", 
+                                    "title": "Methotrexate + CP-690,500"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "12"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "106", 
+                                                        "@value": "478"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "175", 
+                                                        "@value": "433"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Maximum Observed Plasma Concentration (Cmax) for Methotrexate (MTX)", 
+                                    "units": "ng/mL"
+                                }
+                            ]
+                        }, 
+                        "population": "PK analysis population included all enrolled participants with PK parameters of interest for at least 1 period of fixed sequence.", 
+                        "safety_issue": "No", 
+                        "time_frame": "0 (pre-dose),  0.5, 1, 1.5,  2, 2.5, 3, 4, 6, 8,12, 24 and 48 hours post-dose on Day 1 and Day 7", 
+                        "title": "Maximum Observed Plasma Concentration (Cmax) for Methotrexate (MTX)", 
+                        "type": "Primary"
+                    }, 
+                    {
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "CP-690,500 30 mg tablet orally every twelve hours from Day 3 to Day 6.", 
+                                    "title": "CP-690,500"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Single oral dose of MTX (15-25 mg, as per local prescribing practice) and single oral dose of CP-690,500 30 mg tablet orally, on Day 7.", 
+                                    "title": "Methotrexate + CP-690,500"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "12"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "0.50", 
+                                                        "@upper_limit": "1.00", 
+                                                        "@value": "1.00"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "0.50", 
+                                                        "@upper_limit": "1.00", 
+                                                        "@value": "1.00"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "dispersion": "Full Range", 
+                                    "param": "Median", 
+                                    "title": "Time to Reach Maximum Observed Plasma Concentration (Tmax) for CP-690,550", 
+                                    "units": "hour"
+                                }
+                            ]
+                        }, 
+                        "population": "PK analysis population included all enrolled participants with PK parameters of interest for at least 1 period of fixed sequence.", 
+                        "safety_issue": "No", 
+                        "time_frame": "0 (pre-dose), 0.25, 0.5, 1, 2, 3, 4, 8 and 12 hours post-dose on Day 6 and Day 7", 
+                        "title": "Time to Reach Maximum Observed Plasma Concentration (Tmax) for CP-690,550", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "Plasma decay half-life is the time measured for the plasma concentration of CP-690,550 to decrease by one half.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "CP-690,500 30 mg tablet orally every twelve hours from Day 3 to Day 6.", 
+                                    "title": "CP-690,500"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Single oral dose of MTX (15-25 mg, as per local prescribing practice) and single oral dose of CP-690,500 30 mg tablet orally, on Day 7.", 
+                                    "title": "Methotrexate + CP-690,500"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "12"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "0.356", 
+                                                        "@value": "2.64"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "0.74", 
+                                                        "@value": "3.12"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Plasma decay half-life is the time measured for the plasma concentration of CP-690,550 to decrease by one half.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Plasma Decay Half-Life (t1/2) for CP-690,550", 
+                                    "units": "hour"
+                                }
+                            ]
+                        }, 
+                        "population": "PK analysis population included all enrolled participants with PK parameters of interest for at least 1 period of fixed sequence.", 
+                        "safety_issue": "No", 
+                        "time_frame": "0 (pre-dose), 0.25, 0.5, 1, 2, 3, 4, 8 and 12 hours post-dose on Day 6 and Day 7", 
+                        "title": "Plasma Decay Half-Life (t1/2) for CP-690,550", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "Clearance of a drug is a measure of the rate at which a drug is metabolized or eliminated by normal biological processes.  Clearance obtained after oral dose (apparent oral clearance) is influenced by the fraction of the dose absorbed. Clearance was estimated from population PK modeling.  Drug clearance is a quantitative measure of the rate at which a drug substance is removed from the blood.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "CP-690,500 30 mg tablet orally every twelve hours from Day 3 to Day 6.", 
+                                    "title": "CP-690,500"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Single oral dose of MTX (15-25 mg, as per local prescribing practice) and single oral dose of CP-690,500 30 mg tablet orally, on Day 7.", 
+                                    "title": "Methotrexate + CP-690,500"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "12"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "8380", 
+                                                        "@value": "23200"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "8784", 
+                                                        "@value": "23511"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Clearance of a drug is a measure of the rate at which a drug is metabolized or eliminated by normal biological processes.  Clearance obtained after oral dose (apparent oral clearance) is influenced by the fraction of the dose absorbed. Clearance was estimated from population PK modeling.  Drug clearance is a quantitative measure of the rate at which a drug substance is removed from the blood.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Apparent Oral Clearance (CL/F) for CP-690,550", 
+                                    "units": "mL/hr"
+                                }
+                            ]
+                        }, 
+                        "population": "PK analysis population included all enrolled participants with PK parameters of interest for at least 1 period of fixed sequence.", 
+                        "safety_issue": "No", 
+                        "time_frame": "0 (pre-dose), 0.25, 0.5, 1, 2, 3, 4, 8 and 12 hours post-dose on Day 6 and Day 7", 
+                        "title": "Apparent Oral Clearance (CL/F) for CP-690,550", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Single oral dose of methotrexate (MTX) on Day 1 (15-25 milligram [mg], as per local prescribing practice).", 
+                                    "title": "Methotrexate"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Single oral dose of MTX (15-25 mg, as per local prescribing practice) and single oral dose of CP-690,500 30 mg tablet orally, on Day 7.", 
+                                    "title": "Methotrexate + CP-690,500"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "12"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@lower_limit": "0.50", 
+                                                        "@upper_limit": "1.50", 
+                                                        "@value": "1.00"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@lower_limit": "0.50", 
+                                                        "@upper_limit": "2.00", 
+                                                        "@value": "1.25"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "dispersion": "Full Range", 
+                                    "param": "Median", 
+                                    "title": "Time to Reach Maximum Observed Plasma Concentration (Tmax) for Methotrexate (MTX)", 
+                                    "units": "hour"
+                                }
+                            ]
+                        }, 
+                        "population": "PK analysis population included all enrolled participants with PK parameters of interest for at least 1 period of fixed sequence.", 
+                        "safety_issue": "No", 
+                        "time_frame": "0 (pre-dose),  0.5, 1, 1.5,  2, 2.5, 3, 4, 6, 8 ,12, 24 and 48 hours post-dose on Day 1 and Day 7", 
+                        "title": "Time to Reach Maximum Observed Plasma Concentration (Tmax) for Methotrexate (MTX)", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "Plasma decay half-life is the time measured for the plasma concentration of MTX to decrease by one half.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Single oral dose of MTX on Day 1 (15-25 milligram [mg], as per local prescribing practice).", 
+                                    "title": "Methotrexate"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Single oral dose of MTX (15-25 mg, as per local prescribing practice) and single oral dose of CP-690,500 30 mg tablet orally, on Day 7.", 
+                                    "title": "Methotrexate + CP-690,500"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "12"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "0.962", 
+                                                        "@value": "2.87"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "1.13", 
+                                                        "@value": "3.36"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Plasma decay half-life is the time measured for the plasma concentration of MTX to decrease by one half.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Plasma Decay Half-Life (t1/2) for Methotrexate (MTX)", 
+                                    "units": "hour"
+                                }
+                            ]
+                        }, 
+                        "population": "PK analysis population included all enrolled participants with PK parameters of interest for at least 1 period of fixed sequence.", 
+                        "safety_issue": "No", 
+                        "time_frame": "0 (pre-dose),  0.5, 1, 1.5,  2, 2.5, 3, 4, 6, 8 , 12, 24 and 48 hours post-dose on Day 1 and Day 7", 
+                        "title": "Plasma Decay Half-Life (t1/2) for Methotrexate (MTX)", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "description": "Clearance of a drug is a measure of the rate at which a drug is metabolized or eliminated by normal biological processes.  Clearance obtained after oral dose (apparent oral clearance) is influenced by the fraction of the dose absorbed. Clearance was estimated from population PK modeling.  Drug clearance is a quantitative measure of the rate at which a drug substance is removed from the blood.", 
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Single oral dose of methotrexate (MTX) on Day 1 (15-25 milligram [mg], as per local prescribing practice).", 
+                                    "title": "Methotrexate"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Single oral dose of MTX (15-25 mg, as per local prescribing practice) and single oral dose of CP-690,500 30 mg tablet orally, on Day 7.", 
+                                    "title": "Methotrexate + CP-690,500"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "12"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "3370", 
+                                                        "@value": "9890"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "5430", 
+                                                        "@value": "11500"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "description": "Clearance of a drug is a measure of the rate at which a drug is metabolized or eliminated by normal biological processes.  Clearance obtained after oral dose (apparent oral clearance) is influenced by the fraction of the dose absorbed. Clearance was estimated from population PK modeling.  Drug clearance is a quantitative measure of the rate at which a drug substance is removed from the blood.", 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Apparent Oral Clearance (CL/F) for Methotrexate (MTX)", 
+                                    "units": "mL/hr"
+                                }
+                            ]
+                        }, 
+                        "population": "PK analysis population included all enrolled participants with PK parameters of interest for at least 1 period of fixed sequence.", 
+                        "safety_issue": "No", 
+                        "time_frame": "0 (pre-dose),  0.5, 1, 1.5,  2, 2.5, 3, 4, 6, 8 , 12, 24 and 48 hours post-dose on Day 1 and Day 7", 
+                        "title": "Apparent Oral Clearance (CL/F) for Methotrexate (MTX)", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "CP-690,500 30 mg tablet orally every twelve hours from Day 3 to Day 6.", 
+                                    "title": "CP-690,500"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Single oral dose of MTX (15-25 mg, as per local prescribing practice) and single oral dose of CP-690,500 30 mg tablet orally, on Day 7.", 
+                                    "title": "Methotrexate + CP-690,500"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "12"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "2.26", 
+                                                        "@value": "6.65"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "2.34", 
+                                                        "@value": "6.58"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Total Amount of Unchanged Drug Excreted in the Urine From Time Zero to 12 Hours (Ae[0-12]) for CP-690,550", 
+                                    "units": "milligram"
+                                }
+                            ]
+                        }, 
+                        "population": "PK analysis population included all enrolled participants with PK parameters of interest for at least 1 period of fixed sequence.", 
+                        "safety_issue": "No", 
+                        "time_frame": "0 (pre-dose) through 12 hours post-dose on Day 6 and Day 7", 
+                        "title": "Total Amount of Unchanged Drug Excreted in the Urine From Time Zero to 12 Hours (Ae[0-12]) for CP-690,550", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "CP-690,500 30 mg tablet orally every twelve hours from Day 3 to Day 6.", 
+                                    "title": "CP-690,500"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Single oral dose of MTX (15-25 mg, as per local prescribing practice) and single oral dose of CP-690,500 30 mg tablet orally, on Day 7.", 
+                                    "title": "Methotrexate + CP-690,500"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "12"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "2890", 
+                                                        "@value": "5490"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "2630", 
+                                                        "@value": "5240"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Renal Clearance (CL R) for CP-690,550", 
+                                    "units": "litre/hour (L/hr)"
+                                }
+                            ]
+                        }, 
+                        "population": "PK analysis population included all enrolled participants with PK parameters of interest for at least 1 period of fixed sequence.", 
+                        "safety_issue": "No", 
+                        "time_frame": "0 (pre-dose) through 24 hours post-dose on Day 6 and Day 7", 
+                        "title": "Renal Clearance (CL R) for CP-690,550", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Single oral dose of MTX on Day 1 (15-25 milligram [mg], as per local prescribing practice).", 
+                                    "title": "Methotrexate"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Single oral dose of MTX (15-25 mg, as per local prescribing practice) and single oral dose of CP-690,500 30 mg tablet orally, on Day 7.", 
+                                    "title": "Methotrexate + CP-690,500"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "12"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "9.31", 
+                                                        "@value": "18.1"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "4.38", 
+                                                        "@value": "13.2"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Total Amount of Unchanged Drug Excreted in the Urine From Time Zero to 24 Hours (Ae[0-24]) for Methotrexate (MTX)", 
+                                    "units": "milligram"
+                                }
+                            ]
+                        }, 
+                        "population": "PK analysis population included all enrolled participants with PK parameters of interest for at least 1 period of fixed sequence.", 
+                        "safety_issue": "No", 
+                        "time_frame": "0 (pre-dose) through 24 hours post-dose on Day 1 and Day 7", 
+                        "title": "Total Amount of Unchanged Drug Excreted in the Urine From Time Zero to 24 Hours (Ae[0-24]) for Methotrexate (MTX)", 
+                        "type": "Secondary"
+                    }, 
+                    {
+                        "group_list": {
+                            "group": [
+                                {
+                                    "@group_id": "O1", 
+                                    "description": "Single oral dose of methotrexate (MTX) on Day 1 (15-25 milligram [mg], as per local prescribing practice).", 
+                                    "title": "Methotrexate"
+                                }, 
+                                {
+                                    "@group_id": "O2", 
+                                    "description": "Single oral dose of MTX (15-25 mg, as per local prescribing practice) and single oral dose of CP-690,500 30 mg tablet orally, on Day 7.", 
+                                    "title": "Methotrexate + CP-690,500"
+                                }
+                            ]
+                        }, 
+                        "measure_list": {
+                            "measure": [
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@value": "12"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@value": "12"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "param": "Number", 
+                                    "title": "Number of Participants", 
+                                    "units": "participants"
+                                }, 
+                                {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [
+                                                    {
+                                                        "@group_id": "O1", 
+                                                        "@spread": "4.56", 
+                                                        "@value": "10.2"
+                                                    }, 
+                                                    {
+                                                        "@group_id": "O2", 
+                                                        "@spread": "4.64", 
+                                                        "@value": "8.95"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }, 
+                                    "dispersion": "Standard Deviation", 
+                                    "param": "Mean", 
+                                    "title": "Renal Clearance (CL R) for Methotrexate (MTX)", 
+                                    "units": "L/hr"
+                                }
+                            ]
+                        }, 
+                        "population": "PK analysis population included all enrolled participants with PK parameters of interest for at least 1 period of fixed sequence.", 
+                        "safety_issue": "No", 
+                        "time_frame": "0 (pre-dose) through 24 hours post-dose on Day 1 and Day 7", 
+                        "title": "Renal Clearance (CL R) for Methotrexate (MTX)", 
+                        "type": "Secondary"
+                    }
+                ]
+            }, 
+            "participant_flow": {
+                "group_list": {
+                    "group": {
+                        "@group_id": "P1", 
+                        "description": "Single oral dose of methotrexate (MTX) on Day 1 (15-25 milligram [mg], as per local prescribing practice); followed by CP-690,500 30 mg tablet orally every twelve hours from Day 3 to Day 6; followed by single oral dose of MTX (15-25 mg, as per local prescribing practice) and single oral dose of CP-690,500 30 mg tablet orally, on Day 7.", 
+                        "title": "Methotrexate + CP-690,550"
+                    }
+                }, 
+                "period_list": {
+                    "period": {
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "12", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "STARTED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "12", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "COMPLETED"
+                                }, 
+                                {
+                                    "participants_list": {
+                                        "participants": {
+                                            "@count": "0", 
+                                            "@group_id": "P1"
+                                        }
+                                    }, 
+                                    "title": "NOT COMPLETED"
+                                }
+                            ]
+                        }, 
+                        "title": "Overall Study"
+                    }
+                }
+            }, 
+            "point_of_contact": {
+                "email": "ClinicalTrials.gov_Inquiries@pfizer.com", 
+                "name_or_title": "Pfizer ClinicalTrials.gov Call Center", 
+                "organization": "Pfizer, Inc.", 
+                "phone": "1-800-718-1021"
+            }, 
+            "reported_events": {
+                "group_list": {
+                    "group": [
+                        {
+                            "@group_id": "E1", 
+                            "description": "Single oral dose of MTX on Day 1 (15-25 mg), as per local prescribing practice.", 
+                            "title": "Methotrexate"
+                        }, 
+                        {
+                            "@group_id": "E2", 
+                            "description": "CP-690,500 30 mg tablet orally every twelve hours from Day 3 to Day 6.", 
+                            "title": "CP-690,500"
+                        }, 
+                        {
+                            "@group_id": "E3", 
+                            "description": "Single oral dose of MTX (15-25 mg, as per local prescribing practice) and single oral dose of CP-690,500 30 mg tablet orally, on Day 7.", 
+                            "title": "Methotrexate + CP-690,500"
+                        }
+                    ]
+                }, 
+                "other_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "12"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "6", 
+                                                "@subjects_at_risk": "12"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "5", 
+                                                "@subjects_at_risk": "12"
+                                            }
+                                        ], 
+                                        "sub_title": "Total, other adverse events"
+                                    }
+                                }, 
+                                "title": "Total"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "12"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "12"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "12"
+                                            }
+                                        ], 
+                                        "sub_title": "Anemia"
+                                    }
+                                }, 
+                                "title": "Blood and lymphatic system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "12"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "2", 
+                                                "@subjects_at_risk": "12"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "12"
+                                            }
+                                        ], 
+                                        "sub_title": "Nausea"
+                                    }
+                                }, 
+                                "title": "Gastrointestinal disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "12"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "12"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "12"
+                                            }
+                                        ], 
+                                        "sub_title": "Sinusitis"
+                                    }
+                                }, 
+                                "title": "Infections and infestations"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "12"
+                                                }
+                                            ], 
+                                            "sub_title": "Arthralgia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "12"
+                                                }
+                                            ], 
+                                            "sub_title": "Back pain"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "12"
+                                                }
+                                            ], 
+                                            "sub_title": "Muscle fatigue"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "12"
+                                                }
+                                            ], 
+                                            "sub_title": "Musculoskeletal chest pain"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "12"
+                                                }
+                                            ], 
+                                            "sub_title": "Musculoskeletal stiffness"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "12"
+                                                }
+                                            ], 
+                                            "sub_title": "Pain in extremity"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "12"
+                                                }
+                                            ], 
+                                            "sub_title": "Pain in jaw"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Musculoskeletal and connective tissue disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "12"
+                                                }
+                                            ], 
+                                            "sub_title": "Dizziness"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "12"
+                                                }
+                                            ], 
+                                            "sub_title": "Dysgeusia"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "2", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "12"
+                                                }
+                                            ], 
+                                            "sub_title": "Headache"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "12"
+                                                }
+                                            ], 
+                                            "sub_title": "Migrane"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "12"
+                                                }
+                                            ], 
+                                            "sub_title": "Syncope vasovagal"
+                                        }, 
+                                        {
+                                            "counts": [
+                                                {
+                                                    "@group_id": "E1", 
+                                                    "@subjects_affected": "0", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "E2", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "12"
+                                                }, 
+                                                {
+                                                    "@group_id": "E3", 
+                                                    "@subjects_affected": "1", 
+                                                    "@subjects_at_risk": "12"
+                                                }
+                                            ], 
+                                            "sub_title": "Tension headache"
+                                        }
+                                    ]
+                                }, 
+                                "title": "Nervous system disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "12"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "12"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "12"
+                                            }
+                                        ], 
+                                        "sub_title": "Disorientation"
+                                    }
+                                }, 
+                                "title": "Psychiatric disorders"
+                            }, 
+                            {
+                                "event_list": {
+                                    "event": {
+                                        "counts": [
+                                            {
+                                                "@group_id": "E1", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "12"
+                                            }, 
+                                            {
+                                                "@group_id": "E2", 
+                                                "@subjects_affected": "1", 
+                                                "@subjects_at_risk": "12"
+                                            }, 
+                                            {
+                                                "@group_id": "E3", 
+                                                "@subjects_affected": "0", 
+                                                "@subjects_at_risk": "12"
+                                            }
+                                        ], 
+                                        "sub_title": "Hot flush"
+                                    }
+                                }, 
+                                "title": "Vascular disorders"
+                            }
+                        ]
+                    }, 
+                    "default_assessment": "Non-systematic Assessment", 
+                    "default_vocab": "MedDRA 9.1", 
+                    "frequency_threshold": "0"
+                }
+            }
+        }, 
+        "completion_date": {
+            "#text": "June 2006", 
+            "@type": "Actual"
+        }, 
+        "condition": "Rheumatoid Arthritis", 
+        "condition_browse": {
+            "mesh_term": [
+                "Arthritis", 
+                "Arthritis, Rheumatoid"
+            ]
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Adults diagnosed with moderate to severe RA (Rheumatoid Arthritis)\n\n          -  Diagnosis of RA based on the American College of Rheumatology 1987 revised criteria.\n\n          -  Treatment with an oral stable weekly dose of Methotrexate (MTX) (15-25 mg/week,\n             administered as a single dose [SD]) for a minimum of 4 doses (4 weeks)\n\n        Exclusion Criteria:\n\n          -  Blood dyscrasias including confirmed: Hemoglobin <9 g/dL or Hematocrit <30%; White\n             blood cell count <3.0 x 109/L; Absolute neutrophil count <1.2 x 109/L; Platelet count\n             <100 x 109/L\n\n          -  Evidence or history of clinically significant infections within the past 6 months\n             (eg, those requiring hospitalization, requiring parenteral antimicrobial therapy, or\n             those with recurrent oral or genital herpes, recurrent herpes zoster, or any\n             infection otherwise judged by the investigator to have the potential for exacerbation\n             by participation in the trial.\n\n          -  Total bilirubin, AST (aspartate aminotransferase) or ALT (alanine aminotransferase)\n             more than 1.2 times the upper limit of normal at the Screening visit, or a history of\n             clinically significant elevated liver function tests (LFTs) while on current MTX dose\n             or chronic liver disease, recent or active hepatitis."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "70 Years", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "12", 
+            "@type": "Actual"
+        }, 
+        "firstreceived_date": "December 4, 2012", 
+        "firstreceived_results_date": "December 6, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01745055", 
+            "org_study_id": "A3921013"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "CP-690,550 (tofacitinib) 30 mg q12h", 
+                "description": "CP-690,550 30 mg q12h for 5 days", 
+                "intervention_name": "CP-690,550 (tofacitinib)", 
+                "intervention_type": "Drug"
+            }, 
+            {
+                "arm_group_label": "CP-690,550 (tofacitinib) 30 mg q12h", 
+                "description": "individual dose of methotrexate (stably dosed)", 
+                "intervention_name": "Methotrexate (MTX)", 
+                "intervention_type": "Drug"
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": "Methotrexate"
+        }, 
+        "is_fda_regulated": "Yes", 
+        "is_section_801": "Yes", 
+        "keyword": [
+            "Pharmacokinetics", 
+            "oral JAK inhibitor", 
+            "methotrexate (MTX)", 
+            "rheumatoid arthritis (RA)"
+        ], 
+        "lastchanged_date": "January 29, 2013", 
+        "link": {
+            "description": "To obtain contact information for a study center near you, click here.", 
+            "url": "https://trialinfoemail.pfizer.com/pages/landing.aspx?StudyID=A3921013&StudyName=Co-Adminstration%20Of%20Methotrexate%20And%20CP-690%2C550"
+        }, 
+        "location": [
+            {
+                "facility": {
+                    "address": {
+                        "city": "Daytona Beach", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "32114"
+                    }, 
+                    "name": "Pfizer Investigational Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Fort Lauderdale", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33301"
+                    }, 
+                    "name": "Pfizer Investigational Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Miramar", 
+                        "country": "United States", 
+                        "state": "Florida", 
+                        "zip": "33025"
+                    }, 
+                    "name": "Pfizer Investigational Site"
+                }
+            }, 
+            {
+                "facility": {
+                    "address": {
+                        "city": "Dallas", 
+                        "country": "United States", 
+                        "state": "Texas", 
+                        "zip": "75247"
+                    }, 
+                    "name": "Pfizer Investigational Site"
+                }
+            }
+        ], 
+        "location_countries": {
+            "country": "United States"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "A Phase 1, Open Label Study Of The Pharmacokinetics Of Multiple Doses Of Oral CP-690,550 And Single Doses Of Oral Methotrexate In Rheumatoid Arthritis Subjects", 
+        "overall_official": {
+            "affiliation": "Pfizer", 
+            "last_name": "Pfizer CT.gov Call Center", 
+            "role": "Study Director"
+        }, 
+        "overall_status": "Completed", 
+        "oversight_info": {
+            "authority": "United States: Food and Drug Administration", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 1", 
+        "primary_completion_date": {
+            "#text": "June 2006", 
+            "@type": "Actual"
+        }, 
+        "primary_outcome": [
+            {
+                "description": "AUC (0-12)= area under the plasma concentration time-curve from time zero (pre-dose) to 12 hours (0-12).", 
+                "measure": "Area Under the Curve From Time Zero to 12 Hours [AUC (0-12)] for CP-690,550", 
+                "safety_issue": "No", 
+                "time_frame": "0 (pre-dose), 0.25, 0.5, 1, 2, 3, 4, 8 and 12 hours post-dose on Day 6 and Day 7"
+            }, 
+            {
+                "measure": "Maximum Observed Plasma Concentration (Cmax) for CP-690,550", 
+                "safety_issue": "No", 
+                "time_frame": "0 (pre-dose), 0.25, 0.5, 1, 2, 3, 4, 8 and 12 hours post-dose on Day 6 and Day 7"
+            }, 
+            {
+                "description": "Area under the plasma concentration time-curve from zero to the last measured concentration (AUClast).", 
+                "measure": "Area Under the Curve From Time Zero to Last Quantifiable Concentration (AUClast) for Methotrexate (MTX)", 
+                "safety_issue": "No", 
+                "time_frame": "0 (pre-dose),  0.5, 1, 1.5,  2, 2.5, 3, 4, 6, 8, 12, 24 and 48 hours post-dose on Day 1 and Day 7"
+            }, 
+            {
+                "measure": "Maximum Observed Plasma Concentration (Cmax) for Methotrexate (MTX)", 
+                "safety_issue": "No", 
+                "time_frame": "0 (pre-dose),  0.5, 1, 1.5,  2, 2.5, 3, 4, 6, 8,12, 24 and 48 hours post-dose on Day 1 and Day 7"
+            }
+        ], 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01745055"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Time to Reach Maximum Observed Plasma Concentration (Tmax) for CP-690,550", 
+                "safety_issue": "No", 
+                "time_frame": "0 (pre-dose), 0.25, 0.5, 1, 2, 3, 4, 8 and 12 hours post-dose on Day 6 and Day 7"
+            }, 
+            {
+                "description": "Plasma decay half-life is the time measured for the plasma concentration of CP-690,550 to decrease by one half.", 
+                "measure": "Plasma Decay Half-Life (t1/2) for CP-690,550", 
+                "safety_issue": "No", 
+                "time_frame": "0 (pre-dose), 0.25, 0.5, 1, 2, 3, 4, 8 and 12 hours post-dose on Day 6 and Day 7"
+            }, 
+            {
+                "description": "Clearance of a drug is a measure of the rate at which a drug is metabolized or eliminated by normal biological processes.  Clearance obtained after oral dose (apparent oral clearance) is influenced by the fraction of the dose absorbed. Clearance was estimated from population PK modeling.  Drug clearance is a quantitative measure of the rate at which a drug substance is removed from the blood.", 
+                "measure": "Apparent Oral Clearance (CL/F) for CP-690,550", 
+                "safety_issue": "No", 
+                "time_frame": "0 (pre-dose), 0.25, 0.5, 1, 2, 3, 4, 8 and 12 hours post-dose on Day 6 and Day 7"
+            }, 
+            {
+                "measure": "Time to Reach Maximum Observed Plasma Concentration (Tmax) for Methotrexate (MTX)", 
+                "safety_issue": "No", 
+                "time_frame": "0 (pre-dose),  0.5, 1, 1.5,  2, 2.5, 3, 4, 6, 8 ,12, 24 and 48 hours post-dose on Day 1 and Day 7"
+            }, 
+            {
+                "description": "Plasma decay half-life is the time measured for the plasma concentration of MTX to decrease by one half.", 
+                "measure": "Plasma Decay Half-Life (t1/2) for Methotrexate (MTX)", 
+                "safety_issue": "No", 
+                "time_frame": "0 (pre-dose),  0.5, 1, 1.5,  2, 2.5, 3, 4, 6, 8 , 12, 24 and 48 hours post-dose on Day 1 and Day 7"
+            }, 
+            {
+                "description": "Clearance of a drug is a measure of the rate at which a drug is metabolized or eliminated by normal biological processes.  Clearance obtained after oral dose (apparent oral clearance) is influenced by the fraction of the dose absorbed. Clearance was estimated from population PK modeling.  Drug clearance is a quantitative measure of the rate at which a drug substance is removed from the blood.", 
+                "measure": "Apparent Oral Clearance (CL/F) for Methotrexate (MTX)", 
+                "safety_issue": "No", 
+                "time_frame": "0 (pre-dose),  0.5, 1, 1.5,  2, 2.5, 3, 4, 6, 8 , 12, 24 and 48 hours post-dose on Day 1 and Day 7"
+            }, 
+            {
+                "measure": "Total Amount of Unchanged Drug Excreted in the Urine From Time Zero to 12 Hours (Ae[0-12]) for CP-690,550", 
+                "safety_issue": "No", 
+                "time_frame": "0 (pre-dose) through 12 hours post-dose on Day 6 and Day 7"
+            }, 
+            {
+                "measure": "Renal Clearance (CL R) for CP-690,550", 
+                "safety_issue": "No", 
+                "time_frame": "0 (pre-dose) through 24 hours post-dose on Day 6 and Day 7"
+            }, 
+            {
+                "measure": "Total Amount of Unchanged Drug Excreted in the Urine From Time Zero to 24 Hours (Ae[0-24]) for Methotrexate (MTX)", 
+                "safety_issue": "No", 
+                "time_frame": "0 (pre-dose) through 24 hours post-dose on Day 1 and Day 7"
+            }, 
+            {
+                "measure": "Renal Clearance (CL R) for Methotrexate (MTX)", 
+                "safety_issue": "No", 
+                "time_frame": "0 (pre-dose) through 24 hours post-dose on Day 1 and Day 7"
+            }
+        ], 
+        "source": "Pfizer", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Pfizer", 
+                "agency_class": "Industry"
+            }
+        }, 
+        "start_date": "April 2005", 
+        "study_design": "Allocation: Non-Randomized, Endpoint Classification: Pharmacokinetics Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Basic Science", 
+        "study_type": "Interventional", 
+        "verification_date": "January 2013"
+    }
+}

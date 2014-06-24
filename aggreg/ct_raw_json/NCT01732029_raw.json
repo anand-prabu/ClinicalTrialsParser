@@ -1,0 +1,175 @@
+{
+    "clinical_study": {
+        "@rank": "50138", 
+        "arm_group": {
+            "arm_group_label": "Normobaric hypoxia chamber", 
+            "arm_group_type": "Other", 
+            "description": "Study subjects will be put into a hypoxic state by exposing them to normobaric hypoxia by administrating an air mix containing a reduced O2 concentration. This is achieved in a hypoxia chamber where O2 concentration is gradually reduced to simulate high altitude (about 4500 m)."
+        }, 
+        "brief_summary": {
+            "textblock": "Pulse oximetry is a standard non-invasive method of measuring blood oxygen saturation\n      (SpO2). In developing countries, pulse oximeters are rare because of expense and electricity\n      requirements. Our ECEM group has developed the Phone Oximeter, which uses a cell phone\n      (which are widely available in developing countries) to compute and analyze information from\n      a pulse oximeter sensor. To further reduce costs, we have developed an oximeter sensor\n      (AudioOx) that plugs into the audio jack of a standard cell phone. This study aims to\n      calibrate the AudioOx by exposing 30 healthy adult volunteers to various altitudes in UBC's\n      hypoxia chamber."
+        }, 
+        "brief_title": "Calibration and Evaluation of an Audio Pulse Oximeter Sensor (AudioOx) at Ascent and Descent From Simulated Altitude", 
+        "completion_date": {
+            "#text": "October 2013", 
+            "@type": "Anticipated"
+        }, 
+        "condition": [
+            "Blood Oxygen Saturation Level", 
+            "Heart Rate"
+        ], 
+        "detailed_description": {
+            "textblock": "Purpose:\n\n      We at the Electrical and Computer Engineering in Medicine Group (ECEM) at the University of\n      British Columbia, Vancouver, Canada, plan to make pulse oximetry available to resource poor\n      countries by designing a low-cost, battery-powered pulse oximeter device consisting of a\n      low-cost pulse oximeter sensor connected to a cell phone. The use of cell phones as patient\n      monitors is appealing as they are widely available in many developing countries. Utilizing\n      battery power, cell phones do not rely on a continuous source of electricity. This is\n      essential, as most low-resource settings lack adequate infrastructure and thus cannot\n      provide the uninterrupted power supply required for conventional patient monitoring.\n      Furthermore, a cell phone has the efficiency, integrated display, and processing power\n      required to analyze and store the raw data derived from the pulse oximeter sensors. Data\n      from the pulse oximeter can be transmitted to referral centers for diagnostic and advisory\n      purposes where cellular and networking services permit.\n\n      Proprietary oximeter sensors and modules are expensive. To reduce cost, we are proposing to\n      develop a simple audio pulse oximeter sensor (AudioOx) that that does not require a sensor\n      module and interfaces via the audio jack of any standard cell phone. By utilizing the audio\n      jack for transmission of data from the sensor to phone, we can ensure that cell phone types\n      most common in various areas of the world are universally supported. Preliminary laboratory\n      tests showed that oximetry data from the AudioOx has sufficient signal strength and\n      resolution for extraction of heart rate and SpO2.\n\n      Hypothesis:\n\n      We hypothesize that this study will allow us to successfully calibrate the AudioOx.\n\n      Justification:\n\n      Development of pulse oximeters requires calibration and evaluation for accuracy. There is no\n      acceptable surrogate calibration tool for pulse oximeters. To quote the current\n      International Organization for Standardization (ISO) Pulse Oximetry standard document:\n      \"There is today no accepted method of verifying the correct calibration of a pulse oximeter\n      probe/pulse oximeter monitor combination other than testing on human beings. This is due to\n      the complexity of the optical intricacies of the interaction of light and human tissue upon\n      which pulse oximetry depends\".\n\n      A previous calibration study was performed on volunteers during a concurrent study in the\n      UBC hypoxia chamber. The results demonstrated that the AudioOx can be calibrated to within\n      the 4% accuracy required by ISO. The study setup, however, was suboptimal as the measured\n      SpO2 data was predominantly hypoxic. Motion artifacts were also abundant, as the subjects\n      had unrestricted movement.\n\n      Objectives:\n\n      Our main objective is to improve the calibration of the AudioOx by:\n\n        -  Asking subjects to remain relatively immobile during data measurement.\n\n        -  Exposing subjects to a very gradual change in oxygen concentration so that measurements\n           are distributed over the entire clinical range of SpO2 (70% to 100%).\n\n        -  Using two (instead of one) clinically-approved pulse oximeters from different\n           manufacturers as secondary reference standards.\n\n      Our secondary objective is to evaluate and compare the performance of the AudioOx during\n      motion, low perfusion, and rapidly changing SpO2 by:\n\n        -  Asking the subjects to perform standardized hand and finger motions during data\n           measurement.\n\n        -  Simulating low perfusion via two methods: by partially occluding the brachial artery\n           using a blood pressure cuff and by having the patient raise their arm for two minutes\n           and using light filters to reduce the red and infra-red signals detected by the pulse\n           oximeter sensors.\n\n        -  Measuring SpO2 as the subject enters and exits the hypoxia chamber.\n\n      Research Method:\n\n      This will be a non-invasive concurrent observational study of healthy voluntary adult\n      subjects in a normobaric (sea-level atmospheric pressure) hypoxia (low oxygen) chamber.\n\n      Study subjects will be put into a hypoxic state by exposing them to normobaric hypoxia by\n      administrating an air mix containing a reduced O2 concentration. This is achieved in a\n      hypoxia chamber where O2 concentration is gradually reduced to simulate high altitude (about\n      4500 m).\n\n      The goals of the current study are very similar to another study conducted in the hypoxia\n      chamber (REB ID#H12-02362, The Camera Oximeter), the same methodology is applied. This will\n      allow recruiting subjects for both studies and will reduce the total number of subjects\n      necessary for achieving our goal.\n\n      Statistical Analysis:\n\n      Calibration of SpO2 Data from the initial set of subjects (at least 10) in the study will be\n      used to calibrate the AudioOx oximetry data. Firstly, ratio R is calculated from the red and\n      infra-red (IR) photo-absorbance signals, where\n\n      R = ( ACRED / DCRED ) / ( ACIR / DCIR )\n\n      ACRED and ACIR are pulsatile components of the red and infra-red light detected by the\n      oximeter photosensor. DCRED and DCIR are constant components of the red and infra-red light\n      detected by the oximeter photosensor.\n\n      R values are paired to the reference SpO2 values (average of the two readings from the two\n      reference pulse oximeters) and plotted on a scatter plot. Depending on the shape of the\n      plot, the R values are translated to SpO2 values using a linear equation, multiple linear\n      equations, or polynomial equations.\n\n      Evaluation of Accuracy\n\n      Readings from the oximeter sensors are grouped into six ranges (70-75%, 76-80%, 81-85%,\n      86-90%, 91-95% and 96-100%). For each range of SpO2 and the overall range (70-100%) accuracy\n      will be calculated as per ISO definitions:\n\n      Accuracy of the pulse oximeter shall be stated in terms of the root-mean-square (rms)\n      difference between AudioOx values (SpO2i) and reference values (SRi), as given by:\n\n      Arms = \u221a((\u2211i=1 to n(SpO2i- SRi)^2 )/n)\n\n      To express Accuracy relative to the \"gold-standard\" blood gas analysis, the error of the\n      secondary standard pulse oximeter (errorref) will be included:\n\n      Accuracy = \u221a(Arms^2 + error(ref)^2)\n\n      Motion & low perfusion will be quantified by the proportion of time that the test\n      measurements either gave no readings or were more than 4% different from the corresponding\n      control measurements."
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Non-smokers\n\n          -  UBC students age 18 and older or non-university students age 19 and older\n\n          -  No medical history of respiratory, cardiovascular and neurological problems (capable\n             of undergoing controlled hypoxemia down to SpO2 of 70%).\n\n        Exclusion Criteria:\n\n          -  Medical history including respiratory, cardiovascular and neurological problems\n\n          -  Smokers or individuals exposed to high levels of carbon monoxide that result in\n             elevated carboxyhemoglobin levels (interferes with oximetry readings)"
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "Accepts Healthy Volunteers", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "30", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "November 16, 2012", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01732029", 
+            "org_study_id": "H12-02365"
+        }, 
+        "intervention": {
+            "arm_group_label": "Normobaric hypoxia chamber", 
+            "intervention_name": "Normobaric hypoxia chamber", 
+            "intervention_type": "Other"
+        }, 
+        "is_fda_regulated": "No", 
+        "keyword": [
+            "pulse oximeter", 
+            "oxygen saturation", 
+            "heart rate", 
+            "calibration", 
+            "accuracy"
+        ], 
+        "lastchanged_date": "August 23, 2013", 
+        "link": {
+            "url": "http://www.part.cfri.ca"
+        }, 
+        "location": {
+            "contact": {
+                "email": "heng.gan@cw.bc.ca", 
+                "last_name": "Heng Gan, Dr", 
+                "phone": "604-875-2711"
+            }, 
+            "contact_backup": {
+                "email": "dmyers2@cw.bc.ca", 
+                "last_name": "Dorothy Myers", 
+                "phone": "604-875-2000", 
+                "phone_ext": "5319"
+            }, 
+            "facility": {
+                "address": {
+                    "city": "Vancouver", 
+                    "country": "Canada", 
+                    "state": "British Columbia", 
+                    "zip": "V6H 3V4"
+                }, 
+                "name": "BC Children's Hospital"
+            }, 
+            "investigator": [
+                {
+                    "last_name": "Mark Ansermino, Dr", 
+                    "role": "Principal Investigator"
+                }, 
+                {
+                    "last_name": "Guy Dumont, Dr", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Heng Gan, Dr", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Chris Peterson, Dr", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Walter Karlen, Dr", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "James Rupert, Dr", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Michael Koehle, Dr", 
+                    "role": "Sub-Investigator"
+                }, 
+                {
+                    "last_name": "Martin MacInnis", 
+                    "role": "Sub-Investigator"
+                }
+            ], 
+            "status": "Recruiting"
+        }, 
+        "location_countries": {
+            "country": "Canada"
+        }, 
+        "number_of_arms": "1", 
+        "official_title": "Calibration and Evaluation of an Audio Pulse Oximeter Sensor (AudioOx) at Ascent and Descent From Simulated Altitude", 
+        "overall_contact": {
+            "email": "heng.gan@cw.bc.ca", 
+            "last_name": "Heng Gan, Dr", 
+            "phone": "604-875-2711"
+        }, 
+        "overall_contact_backup": {
+            "email": "dmyers2@cw.bc.ca", 
+            "last_name": "Dorothy Myers", 
+            "phone": "604-875-2000", 
+            "phone_ext": "5319"
+        }, 
+        "overall_status": "Recruiting", 
+        "oversight_info": {
+            "authority": "Canada: Health Canada", 
+            "has_dmc": "No"
+        }, 
+        "phase": "Phase 2", 
+        "primary_completion_date": {
+            "#text": "October 2013", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "description": "Accurately calibrated AudioOx for measuring oxygen saturation", 
+            "measure": "Oxygen saturation", 
+            "safety_issue": "No", 
+            "time_frame": "Across 3 hours"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01732029"
+        }, 
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }, 
+        "secondary_outcome": {
+            "description": "Accurately calibrated AudioOx for measuring heart rate", 
+            "measure": "Heart rate", 
+            "safety_issue": "No", 
+            "time_frame": "Across 3 hours"
+        }, 
+        "source": "University of British Columbia", 
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of British Columbia", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "January 2013", 
+        "study_design": "Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Diagnostic", 
+        "study_type": "Interventional", 
+        "verification_date": "August 2013"
+    }
+}

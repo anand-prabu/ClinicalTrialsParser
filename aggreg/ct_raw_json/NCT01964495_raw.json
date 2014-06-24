@@ -1,0 +1,244 @@
+{
+    "clinical_study": {
+        "@rank": "161487", 
+        "acronym": "REDUCE", 
+        "arm_group": [
+            {
+                "arm_group_label": "Common clinical practice", 
+                "arm_group_type": "Active Comparator", 
+                "description": "Treatment according to current guidelines. Often a 7 day course of antibiotics. Initial treatment should be broad spectrum antibiotics and can be narrowed down if a specific pathogen is identified."
+            }, 
+            {
+                "arm_group_label": "CRP-guided treatment", 
+                "arm_group_type": "Experimental", 
+                "description": "Treatment according to CRP levels. Patients will be started on broad spectrum antibiotics for at least 3 days, treatment can be switched to small-spectrum antibiotics if a specific pathogen is identified. From day 4 to 7 daily blood tests will be performed in order to evaluate whether or not treatment can be discontinued. If treatment is discontinued, no more blood tests will be performed."
+            }, 
+            {
+                "arm_group_label": "PCT guided treatment", 
+                "arm_group_type": "Experimental", 
+                "description": "Treatment according to PCT levels. Patients will be started on broad spectrum antibiotics for at least 3 days, treatment can be switched to small-spectrum antibiotics if a specific pathogen is identified. From day 4 to 7 daily blood tests will be performed in order to evaluate whether or not treatment can be discontinued. If treatment is discontinued, no more blood tests will be performed."
+            }
+        ], 
+        "brief_summary": {
+            "textblock": "The purpose of this study is to evaluate two different treatment strategies in patients\n      admitted to hospital with Community Acquired Pneumonia. The investigators hypothesize\n      treatment according to both procalcitonin (PCT) and C-reactive protein (CRP) will be safe\n      and effective in reducing the length of antibiotic treatment."
+        }, 
+        "brief_title": "Reduction of Antibiotic Therapy by Biomakers in Patients With CAP Episodes (REDUCE Study)", 
+        "condition": "Community Acquired Pneumonia", 
+        "condition_browse": {
+            "mesh_term": "Pneumonia"
+        }, 
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n        Male and female patients with a diagnosis of CAP and all criteria listed below:\n\n          1. Age 18 or above, no upper age limit will be employed.\n\n          2. Patients must require hospitalisation.\n\n          3. Clinical presentation of an acute illness with one or more of the following symptoms:\n\n               1. Temperature \u2265 38.0 \u2070C (100.4\u00b0F)\n\n               2. Dyspnoea\n\n               3. Cough (with or without expectoration of sputum)\n\n               4. Chest pain\n\n               5. Malaise or fatigue\n\n               6. Myalgia\n\n               7. Gastro-intestinal symptoms\n\n               8. Rales, rhonchi or wheezing\n\n               9. Egophony or bronchial breath sounds\n\n          4. New consolidation(s) on the chest radiograph.\n\n          5. Written informed consent obtained.\n\n          6. (Pre-event) Life expectancy > 30 days\n\n        Exclusion Criteria:\n\n        Subjects presenting with any of the following will not be included in the study:\n\n          1. Severe immunosuppression (HIV infection, chemotherapy).\n\n          2. Active neoplastic disease.\n\n          3. Obstruction pneumonia (e.g. from lung cancer).\n\n          4. Aspiration pneumonia.\n\n          5. Pneumonia that developed within 8 days after hospital discharge.\n\n          6. Unable and/or unlikely to comprehend and/or follow the protocol.\n\n          7. Pregnant and/or lactating women."
+            }, 
+            "gender": "Both", 
+            "healthy_volunteers": "No", 
+            "maximum_age": "N/A", 
+            "minimum_age": "18 Years"
+        }, 
+        "enrollment": {
+            "#text": "468", 
+            "@type": "Anticipated"
+        }, 
+        "firstreceived_date": "September 30, 2013", 
+        "has_expanded_access": "No", 
+        "id_info": {
+            "nct_id": "NCT01964495", 
+            "org_study_id": "1-Duijkers"
+        }, 
+        "intervention": [
+            {
+                "arm_group_label": "CRP-guided treatment", 
+                "description": "The cutoff point is a CRP below 100 mg/L and a reduction to 50% of the initial value.", 
+                "intervention_name": "Discontinuation of treatment according to CRP levels", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "Broad spectrum antibiotics", 
+                    "Small spectrum antibiotics"
+                ]
+            }, 
+            {
+                "arm_group_label": "PCT guided treatment", 
+                "description": "The cutoff point is a PCT below 0.25 mcg/L or a reduction to 10% of the initial value.", 
+                "intervention_name": "Discontinuation of treatment according to PCT levels", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "Broad spectrum antibiotics", 
+                    "Small spectrum antibiotics"
+                ]
+            }, 
+            {
+                "arm_group_label": "Common clinical practice", 
+                "description": "Often a 7 days course of antibiotics, treatment may be extended if the attending physician deems it necessary.", 
+                "intervention_name": "Treatment according to current guidelines", 
+                "intervention_type": "Drug", 
+                "other_name": [
+                    "Broad spectrum antibiotics", 
+                    "Small spectrum antibiotics"
+                ]
+            }
+        ], 
+        "intervention_browse": {
+            "mesh_term": [
+                "Anti-Bacterial Agents", 
+                "Antibiotics, Antitubercular"
+            ]
+        }, 
+        "is_fda_regulated": "No", 
+        "lastchanged_date": "December 10, 2013", 
+        "location": [
+            {
+                "contact": {
+                    "email": "R.Duijkers@mca.nl", 
+                    "last_name": "Ruud Duijkers, MSc, MD", 
+                    "phone": "+31725484444", 
+                    "phone_ext": "5588"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Alkmaar", 
+                        "country": "Netherlands", 
+                        "state": "Noord Holland", 
+                        "zip": "1815JD"
+                    }, 
+                    "name": "Medical Centre Alkmaar"
+                }, 
+                "investigator": [
+                    {
+                        "last_name": "Ruud Duijkers, MSc, MD", 
+                        "role": "Sub-Investigator"
+                    }, 
+                    {
+                        "last_name": "Wim G Boersma, MSc, PhD, MD", 
+                        "role": "Principal Investigator"
+                    }
+                ], 
+                "status": "Not yet recruiting"
+            }, 
+            {
+                "contact": {
+                    "last_name": "Dominic Snijders, MSc, PhD, MD"
+                }, 
+                "facility": {
+                    "address": {
+                        "city": "Amsterdam", 
+                        "country": "Netherlands", 
+                        "state": "Noord Holland", 
+                        "zip": "1006BK"
+                    }, 
+                    "name": "Slotervaart Hospital"
+                }, 
+                "investigator": {
+                    "last_name": "Dominic Snijders, MSc, PhD, MD", 
+                    "role": "Sub-Investigator"
+                }, 
+                "status": "Not yet recruiting"
+            }
+        ], 
+        "location_countries": {
+            "country": "Netherlands"
+        }, 
+        "number_of_arms": "3", 
+        "official_title": "Reduction of Antibiotic Therapy by Biomakers in Patients With CAP Episodes (REDUCE Study)", 
+        "overall_contact": {
+            "email": "R.Duijkers@mca.nl", 
+            "last_name": "Ruud Duijkers, MSc, MD", 
+            "phone": "+31725484444", 
+            "phone_ext": "5588"
+        }, 
+        "overall_official": [
+            {
+                "affiliation": "Medisch Centrum Alkmaar", 
+                "last_name": "Ruud Duijkers, MSc, MD", 
+                "role": "Study Director"
+            }, 
+            {
+                "affiliation": "Medisch Centrum Alkmaar", 
+                "last_name": "Wim G Boersma, MD, PhD, MSc", 
+                "role": "Principal Investigator"
+            }, 
+            {
+                "affiliation": "Slotervaart ziekenhuis", 
+                "last_name": "Dominic Snijders, MSc, PhD, MD", 
+                "role": "Study Chair"
+            }
+        ], 
+        "overall_status": "Not yet recruiting", 
+        "oversight_info": {
+            "authority": "Netherlands: Medical Ethics Review Committee (METC)", 
+            "has_dmc": "Yes"
+        }, 
+        "phase": "N/A", 
+        "primary_completion_date": {
+            "#text": "October 2017", 
+            "@type": "Anticipated"
+        }, 
+        "primary_outcome": {
+            "measure": "Length of antibiotic treatment", 
+            "safety_issue": "No", 
+            "time_frame": "End of the study"
+        }, 
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on June 04, 2014", 
+            "link_text": "Link to the current ClinicalTrials.gov record.", 
+            "url": "http://clinicaltrials.gov/show/NCT01964495"
+        }, 
+        "responsible_party": {
+            "investigator_affiliation": "Medical Center Alkmaar", 
+            "investigator_full_name": "W.G.Boersma", 
+            "investigator_title": "MSc, MD, PhD", 
+            "responsible_party_type": "Principal Investigator"
+        }, 
+        "secondary_outcome": [
+            {
+                "measure": "Length of stay", 
+                "safety_issue": "No", 
+                "time_frame": "End of the study"
+            }, 
+            {
+                "description": "Cure \u2014 resolution or improvement of symptoms and clinical signs related to pneumonia without the need for additional or alternative antibiotic therapy\nFailure \u2014 persistence or progression of all signs and symptoms of the acute process after randomisation or the development of a new pulmonary or extrapulmonary respiratory tract infection, or the progression of abnormalities on chest radiograph after randomisation, or death due to pneumonia, or the inability to complete the study owing to adverse events\nIndeterminate \u2014 patient receives less than 80% of the study drug for reasons other than clinical failure, a concomitant infection outside the respiratory tract requiring antibiotic treatment, lost to follow-up, or death unrelated to the primary diagnosis.", 
+                "measure": "Clinical response", 
+                "safety_issue": "No", 
+                "time_frame": "End of the study"
+            }, 
+            {
+                "description": "All cause", 
+                "measure": "30-day mortality", 
+                "safety_issue": "No", 
+                "time_frame": "End of the study, periodically by the DSMB"
+            }, 
+            {
+                "description": "Patients are considered clinically stable if they fulfill all of these criteria: Temperature equal to or below 37.8 degrees celsius, heart rate equal to or below 100 beats per minute, respiratory rate equal to or below 24 breaths per minute, systolic blood pressure equal to or above 90 mmHg, arterial oxygen saturation equal to or above 90 percent or pO2 equal to or above 60 mmHg on room air, ability to maintain oral intake, normal mental status.", 
+                "measure": "Time to clinical stability", 
+                "safety_issue": "No", 
+                "time_frame": "End of the study"
+            }, 
+            {
+                "measure": "Relapse rate", 
+                "safety_issue": "No", 
+                "time_frame": "End of the study"
+            }
+        ], 
+        "source": "Medical Center Alkmaar", 
+        "sponsors": {
+            "collaborator": [
+                {
+                    "agency": "Pulmo Science", 
+                    "agency_class": "Other"
+                }, 
+                {
+                    "agency": "Chiesi Farmaceutici S.p.A.", 
+                    "agency_class": "Industry"
+                }
+            ], 
+            "lead_sponsor": {
+                "agency": "Medical Center Alkmaar", 
+                "agency_class": "Other"
+            }
+        }, 
+        "start_date": "December 2013", 
+        "study_design": "Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment", 
+        "study_type": "Interventional", 
+        "verification_date": "December 2013"
+    }
+}
