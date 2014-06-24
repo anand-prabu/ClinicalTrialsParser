@@ -180,4 +180,3 @@ def json_osf_format(nct_id):
     return json_osf
 
 
-

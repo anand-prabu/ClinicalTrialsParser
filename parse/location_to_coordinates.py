@@ -10,17 +10,20 @@ def GetCoordinates(city, country, zip=None, state=None):
 #       parameters['postalcode'] = zip
     request = requests.get(url, params=parameters)
     request_json = request.json()
-    return {'latitude': request_json[0]['lat'], 'longitude': request_json[0]['lon']}
-
+    if len(request_json) > 0:
+        return {'latitude': request_json[0]['lat'], 'longitude': request_json[0]['lon']}
+    return None
 
 def LocationToCoord(locations):
     if not isinstance(locations, list):
         locations = [locations]
     for location in locations:        
         coordinates = GetCoordinates(location['city'], location['country'], zip=str(location['zip']), state=location['state'])
-        location['geodata'] = {
-            'latitude': coordinates['latitude'],            
-            'longitude': coordinates['longitude']
-        }
+        if coordinates:
+            location['geodata'] = {
+                'latitude': coordinates['latitude'],            
+                'longitude': coordinates['longitude']
+            }
+            
     return locations
 
