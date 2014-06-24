@@ -4,10 +4,12 @@ import requests
 import json
 import io
 
-#osf_text = requests.get("http://localhost:8000/osf_api_output.json")
-osf_text = open('osf_api_output.json').read()
+api_json_url = "http://localhost:8000/osf_api_output.json"
+ct_base_url = "http://clinicaltrials.gov/ct2/show/"
 
-osf_json = json.loads(osf_text)
+osf_text = requests.get(api_json_url)
+
+osf_json = osf_text.json()
 
 recent_versions = []
 
@@ -41,6 +43,7 @@ for index, item in enumerate(json_for_keshif):
     json_element["phase"] = json_for_keshif[index]["phase"]
     json_element["title"] = json_for_keshif[index]["title"]["textblock"]
     json_element["osf_url"] = "localhost:5000" + osf_urls[index]
+    json_element["ct_url"] = ct_base_url + str(json_for_keshif[index]["nct_id"])
 
     real_json.append(json_element)
 

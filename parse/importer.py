@@ -55,6 +55,6 @@ for trial in trials:
             headers = {'Authorization': 'OSF {0}'.format(signature)}
             r = requests.put(API_URL+'project/{pid}/node/{nid}/upload/'.format(
                 pid=response[projectTitle]['id'],
-                nid=response[projectTitle]['components']['Archive']['id']
+                nid=response[projectTitle]['components']['Trial']['id']
             ),
             headers=headers, files=files)
